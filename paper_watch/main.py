@@ -19,9 +19,8 @@ from .models import Paper
 from .openalex_client import fetch_candidates
 from .scoring import apply_score, score_paper
 from .selection import (
-    can_post_conditional,
     meets_posting_floor,
-    preview_selection,
+    select_for_run,
     split_candidates,
 )
 from .slack_client import post_paper
@@ -204,20 +203,38 @@ def main() -> None:
     today = current_local_date(config)
     used_today = int(state["daily_counts"].get(today, 0))
 
+    # Papers without an Abstract cannot be summarized. Exclude them before
+    # selection so they do not consume one of the ten OpenAI slots.
+    summarizable_keys = {
+        paper.key
+        for paper in [*guaranteed, *conditional]
+        if paper.abstract_original.strip()
+    }
+    guaranteed = [paper for paper in guaranteed if paper.key in summarizable_keys]
+    conditional = [paper for paper in conditional if paper.key in summarizable_keys]
+
+    selected = select_for_run(
+        guaranteed,
+        conditional,
+        successful_before_run_today=used_today,
+        config=config,
+    )
+
     logging.info(
-        "Selection pool: guaranteed=%s conditional=%s used_today=%s",
+        "Selection pool: guaranteed=%s conditional=%s selected=%s hard_cap=%s "
+        "used_today=%s",
         len(guaranteed),
         len(conditional),
+        len(selected),
+        int(config["posting"]["maximum_posts_per_run"]),
         used_today,
+    )
+    logging.info(
+        "Only the %s selected papers will be sent to OpenAI in this run.",
+        len(selected),
     )
 
     if args.dry_run:
-        selected = preview_selection(
-            guaranteed,
-            conditional,
-            successful_before_run_today=used_today,
-            config=config,
-        )
         print(
             json.dumps(
                 [paper.to_dict() for paper in selected],
@@ -236,31 +253,9 @@ def main() -> None:
     pause_seconds = float(config["runtime"]["slack_pause_seconds"])
     posted_count = 0
 
-    # Score >= guaranteed_score is never suppressed by the soft run/day targets.
-    for paper in guaranteed:
-        if post_one(
-            paper,
-            summarizer=summarizer,
-            slack=slack,
-            channel_id=channel_id,
-            state=state,
-            state_path=args.state,
-            today=today,
-            used_today=used_today,
-            posted_count=posted_count,
-        ):
-            posted_count += 1
-            time.sleep(pause_seconds)
-
-    # Lower-score papers fill the run only while both soft targets remain.
-    for paper in conditional:
-        if not can_post_conditional(
-            successful_this_run=posted_count,
-            successful_before_run_today=used_today,
-            config=config,
-        ):
-            break
-
+    # Selection is finalized before the first OpenAI request. A failure does
+    # not cause an unselected replacement paper to be summarized in this run.
+    for paper in selected:
         if post_one(
             paper,
             summarizer=summarizer,

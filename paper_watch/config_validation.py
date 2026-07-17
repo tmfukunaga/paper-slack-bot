@@ -90,6 +90,7 @@ def validate_config(config: dict[str, Any]) -> None:
         "conditional_minimum_score",
         "target_posts_per_run",
         "target_posts_per_day",
+        "maximum_posts_per_run",
         "minimum_keyword_score",
         "maximum_tags_displayed",
     ):
@@ -107,6 +108,13 @@ def validate_config(config: dict[str, Any]) -> None:
         raise ConfigError("posting.target_posts_per_run must be at least 1.")
     if int(posting["target_posts_per_day"]) < 1:
         raise ConfigError("posting.target_posts_per_day must be at least 1.")
+    if int(posting["maximum_posts_per_run"]) < 1:
+        raise ConfigError("posting.maximum_posts_per_run must be at least 1.")
+    if int(posting["target_posts_per_run"]) > int(posting["maximum_posts_per_run"]):
+        raise ConfigError(
+            "posting.target_posts_per_run must not exceed "
+            "posting.maximum_posts_per_run."
+        )
 
     tiers = _require_mapping(root["journal_tiers"], "journal_tiers")
     if not tiers:

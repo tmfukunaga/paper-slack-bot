@@ -18,7 +18,7 @@ def meets_posting_floor(paper: Paper, config: dict) -> bool:
 
 
 def is_guaranteed(paper: Paper, config: dict) -> bool:
-    """High-score papers are posted regardless of the soft volume targets."""
+    """Return whether a paper belongs to the high-score class."""
     return paper.score >= int(config["posting"]["guaranteed_score"])
 
 
@@ -47,7 +47,48 @@ def can_post_conditional(
         successful_this_run < int(posting["target_posts_per_run"])
         and successful_before_run_today + successful_this_run
         < int(posting["target_posts_per_day"])
+        and successful_this_run < int(posting["maximum_posts_per_run"])
     )
+
+
+def select_for_run(
+    guaranteed: list[Paper],
+    conditional: list[Paper],
+    *,
+    successful_before_run_today: int,
+    config: dict,
+) -> list[Paper]:
+    """Select papers before any OpenAI call.
+
+    Rules:
+    - Score >= guaranteed_score has priority, but the whole run is hard-capped.
+    - Score 11-14 only fills the soft run target while the daily soft target remains.
+    - Only papers returned here may be summarized in this run.
+    """
+    posting = config["posting"]
+    hard_cap = int(posting["maximum_posts_per_run"])
+
+    selected = list(guaranteed[:hard_cap])
+    selected_keys = {paper.key for paper in selected}
+
+    successful_this_run = len(selected)
+    for paper in conditional:
+        if successful_this_run >= hard_cap:
+            break
+        if not can_post_conditional(
+            successful_this_run=successful_this_run,
+            successful_before_run_today=successful_before_run_today,
+            config=config,
+        ):
+            break
+        if paper.key in selected_keys:
+            continue
+        selected.append(paper)
+        selected_keys.add(paper.key)
+        successful_this_run += 1
+
+    selected.sort(key=sort_key, reverse=True)
+    return selected
 
 
 def preview_selection(
@@ -57,18 +98,10 @@ def preview_selection(
     successful_before_run_today: int,
     config: dict,
 ) -> list[Paper]:
-    """Predict selection for dry-run assuming every attempted post succeeds."""
-    selected = list(guaranteed)
-    successful_this_run = len(guaranteed)
-
-    for paper in conditional:
-        if not can_post_conditional(
-            successful_this_run=successful_this_run,
-            successful_before_run_today=successful_before_run_today,
-            config=config,
-        ):
-            break
-        selected.append(paper)
-        successful_this_run += 1
-
-    return selected
+    """Backward-compatible dry-run wrapper."""
+    return select_for_run(
+        guaranteed,
+        conditional,
+        successful_before_run_today=successful_before_run_today,
+        config=config,
+    )

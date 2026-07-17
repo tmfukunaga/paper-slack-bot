@@ -23,6 +23,10 @@ posting:
   target_posts_per_run: 3
   target_posts_per_day: 30
 
+  # Hard cap for one workflow run. Selection occurs before OpenAI summarization,
+  # so at most this many unique papers are sent to OpenAI in one run.
+  maximum_posts_per_run: 10
+
   minimum_keyword_score: 3
   maximum_tags_displayed: 12
 
