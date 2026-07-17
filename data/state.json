@@ -1,0 +1,138 @@
+{
+  "daily_counts": {
+    "2026-07-18": 10
+  },
+  "pending": [],
+  "posted": {
+    "10.1002/anie.1519414": {
+      "doi": "10.1002/anie.1519414",
+      "posted_at": "2026-07-17T17:07:08+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308028.001789",
+      "summary_character_count": 95,
+      "summary_japanese": "無保護NHをもつcarbazole骨格を多重Scholl反応でπ拡張し、最大12本のC─C結合を形成するHNGsを合成した。塩基・酸処理によりCPLが赤方偏移し、可逆的にオン・オフ切替した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.6881077": {
+      "doi": "10.1002/anie.6881077",
+      "posted_at": "2026-07-17T17:07:13+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308033.936749",
+      "summary_character_count": 132,
+      "summary_japanese": "2種のchiral coumarin系cholesterol amide位置異性体を設計し、CHC-1が長距離秩序化ナノファイバーと強い青色CPLを形成した。thioflavin Tとのエネルギー移動で緑色、spiropyranの光異性化で近赤外CPLも実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/anie.8909722": {
+      "doi": "10.1002/anie.8909722",
+      "posted_at": "2026-07-17T17:06:57+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308017.222779",
+      "summary_character_count": 102,
+      "summary_japanese": "β-ketoenamine結合COFに前架橋イミン網目を介したアミン・アルデヒド二重交換を導入し、|gabs|を最大0.071へ増強した。さらに、メソスケールらせん性と分子キラリティーを独立に組み込んだ。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Pre-Crosslinked Network-Mediated Dual Exchange Enables Boosting Chiroptical Activity and Decoupled Two-Level Chirality in Covalent Organic Frameworks"
+    },
+    "10.1002/anie.8987942": {
+      "doi": "10.1002/anie.8987942",
+      "posted_at": "2026-07-17T17:07:30+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308050.108019",
+      "summary_character_count": 88,
+      "summary_japanese": "Na+鋳型SN2インターロッキングで分離容易なCSRを形成後、キラル補助基を置換する汎用・スケーラブル法により、MPCRを立体化学を完全に保持して約99.6% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "A General and Scalable Chiral Surrogate Rotaxane Strategy for Highly Enantioenriched Mechanically Planar Chiral Rotaxanes"
+    },
+    "10.1002/asia.70866": {
+      "doi": "10.1002/asia.70866",
+      "posted_at": "2026-07-17T17:07:49+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308069.211189",
+      "summary_character_count": 111,
+      "summary_japanese": "DPAPまたはcarbazoleを2,6位に導入した十字型bianthracene誘導体4種を合成し、青色発光、光学分割体のCPL（glum=2.0×10−3）、酸化重合膜のエレクトロクロミズム、p型半導体特性を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Axially Chiral Cross-Shaped Bianthracene Architectures With Chiroptical Activity and Electrochemical Polymerization"
+    },
+    "10.1021/accountsmr.6c00071": {
+      "doi": "10.1021/accountsmr.6c00071",
+      "posted_at": "2026-07-17T17:07:02+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308022.513369",
+      "summary_character_count": 112,
+      "summary_japanese": "キラルmacrocycleの階層的集合と多重閉じ込め効果を用い、らせん構造化、内孔へのachiral luminophore包接、外表面共集合によりchiralityを伝播・制御し、CPLを活性化・増幅する設計体系を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Architecture of Chiral Macrocycles: Hierarchical Assembly and Confinement Effect for Enhanced Circularly Polarized Luminescence"
+    },
+    "10.1021/acs.langmuir.6c03074": {
+      "doi": "10.1021/acs.langmuir.6c03074",
+      "posted_at": "2026-07-17T17:07:24+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308044.208319",
+      "summary_character_count": 97,
+      "summary_japanese": "キラル小分子S(R)-HDTDPの溶媒誘起自己集合で分子間相互作用とCPLを増強し、Coumarin 6との共集合によるエネルギー・キラリティ移動でg_lumをさらに増幅しつつ発光色を調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Solvent-Assembled Chiral Molecular Aggregates for Dual Energy and Chirality Transfer: Boosting the Circularly Polarized Luminescence"
+    },
+    "10.1021/acsnano.6c06602": {
+      "doi": "10.1021/acsnano.6c06602",
+      "posted_at": "2026-07-17T17:07:55+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308075.051399",
+      "summary_character_count": 88,
+      "summary_japanese": "成人皮膚3検体の分子スケールのキラル秩序とメソスケールの線維構造を相関解析し、collagen量と被覆率の低下に先行して超分子キラリティーのコヒーレンスが急減することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Correlative Multimodal Framework Reveals Supramolecular Chirality Loss Preceding Fibrillar Rarefaction in Dermal Collagen"
+    },
+    "10.1021/jacs.6c09990": {
+      "doi": "10.1021/jacs.6c09990",
+      "posted_at": "2026-07-17T17:06:52+00:00",
+      "score": 49,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308012.275989",
+      "summary_character_count": 92,
+      "summary_japanese": "反芳香族COTを組み込んだ二重らせん型BODIPY融合nanographene BNG2を合成・光学分割し、1800 nmまでの吸収とNIR-II域に及ぶ鏡像関係の円二色性を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
+    },
+    "10.1126/sciadv.aec8167": {
+      "doi": "10.1126/sciadv.aec8167",
+      "posted_at": "2026-07-17T17:07:19+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784308039.055609",
+      "summary_character_count": 106,
+      "summary_japanese": "界面ソルボサーマル法でイオン性アミンとアルデヒドを相分離し、結晶化速度を制御して高秩序な螺旋状イオン性COFを合成した。|gabs|は最大0.07に達し、発光体の静電導入により青・黄・緑色の円偏光発光を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Interfacial solvothermal synthesis of superhydrophilic ionic salt-derived chiral helical COFs with strong chiroptical activity"
+    }
+  }
+}
