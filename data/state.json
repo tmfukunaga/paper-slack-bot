@@ -1,6 +1,6 @@
 {
   "daily_counts": {
-    "2026-07-18": 20
+    "2026-07-18": 30
   },
   "pending": [],
   "posted": {
@@ -16,6 +16,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/ange.6881077": {
+      "doi": "10.1002/ange.6881077",
+      "posted_at": "2026-07-17T21:10:59+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322659.257369",
+      "summary_character_count": 133,
+      "summary_japanese": "2種のchiral coumarin系cholesterol amide位置異性体を設計し、CHC-1が溶媒によらずキラルナノファイバーと強い青色CPLを形成した。thioflavin Tとの共集合で緑色、spiropyran導入で光応答性の近赤外CPLも実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
     },
     "10.1002/anie.1519414": {
       "doi": "10.1002/anie.1519414",
@@ -56,6 +69,19 @@
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
     },
+    "10.1002/anie.6980332": {
+      "doi": "10.1002/anie.6980332",
+      "posted_at": "2026-07-17T21:11:40+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322700.298469",
+      "summary_character_count": 114,
+      "summary_japanese": "軸不斉aminoboraneはbinaphthyl局在励起状態と電荷移動状態から二重発光し、単一分子白色発光を示した。高エネルギー成分のみが円偏光発光を示し、剛直なpolymer matrix中では秒単位の室温りん光を発現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Engineering LE-CT State Synergy in Aminoboranes for Single Molecule White Light Emission and Dual-Mode Chiroptical/Phosphorescence Output"
+    },
     "10.1002/anie.8909722": {
       "doi": "10.1002/anie.8909722",
       "posted_at": "2026-07-17T17:06:57+00:00",
@@ -94,6 +120,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Axially Chiral Cross-Shaped Bianthracene Architectures With Chiroptical Activity and Electrochemical Polymerization"
+    },
+    "10.1002/chem.71367": {
+      "doi": "10.1002/chem.71367",
+      "posted_at": "2026-07-17T21:11:25+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322685.262629",
+      "summary_character_count": 91,
+      "summary_japanese": "アキラルなporphyrinおよび関連発色団におけるキラリティ誘起の進展を概説し、非共有結合様式に基づいて系を分類することで、分子・超分子集合体の対称性破れを支配する機構を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Symmetry Breaking in Achiral Porphyrins: Noncovalent Origins of Emergent Optical Activity"
+    },
+    "10.1002/cjoc.70701": {
+      "doi": "10.1002/cjoc.70701",
+      "posted_at": "2026-07-17T21:10:54+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322654.525999",
+      "summary_character_count": 92,
+      "summary_japanese": "末端アミド構造の異なるOPV5誘導体を合成しCDSAを比較した結果、キラル末端体のみが片巻き優先のらせん状リボンミセルを形成し、ポルフィリンとの共CDSAでCotton効果が増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Chiral Amide Chain End Directed Asymmetric Crystallization-Driven Self-Assembly of Oligo( p -phenylenevinylene) Oligomers: Influence of Structure of Amide Chain Ends †"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -160,6 +212,19 @@
       "summary_used_fallback": false,
       "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
     },
+    "10.1021/acs.jafc.6c03256": {
+      "doi": "10.1021/acs.jafc.6c03256",
+      "posted_at": "2026-07-17T21:11:29+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322689.575159",
+      "summary_character_count": 116,
+      "summary_japanese": "cyclodextrins、calixarenes、pillararenes、cucurbiturilsの精密なホスト–ゲスト認識を活用した除草剤の検出、選択的濃縮、吸着・分解を概説し、マトリックス効果の抑制と検出限界の低減を示す。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Herbicide Recognition, Sensing, and Removal Enabled by Supramolecular Macrocyclic Chemistry"
+    },
     "10.1021/acs.langmuir.6c03074": {
       "doi": "10.1021/acs.langmuir.6c03074",
       "posted_at": "2026-07-17T17:07:24+00:00",
@@ -172,6 +237,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Solvent-Assembled Chiral Molecular Aggregates for Dual Energy and Chirality Transfer: Boosting the Circularly Polarized Luminescence"
+    },
+    "10.1021/acs.nanolett.6c02245": {
+      "doi": "10.1021/acs.nanolett.6c02245",
+      "posted_at": "2026-07-17T21:11:20+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322680.846069",
+      "summary_character_count": 114,
+      "summary_japanese": "1,4-dithiin共役maleimideと有機アミンの迅速・定量的かつ高選択的なMichael付加型クリック反応を開発し、超分子キラリティーの制御、キラルオリゴマー構築、一次元構造とナノスケールのキラルらせん形成を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Clicking 1,4-Dithiin Conjugated Dimaleimides for Chiroptical Evolution and Nanofabrication"
     },
     "10.1021/acsnano.6c06602": {
       "doi": "10.1021/acsnano.6c06602",
@@ -186,6 +264,19 @@
       "summary_used_fallback": false,
       "title": "Correlative Multimodal Framework Reveals Supramolecular Chirality Loss Preceding Fibrillar Rarefaction in Dermal Collagen"
     },
+    "10.1021/jacs.6c06445": {
+      "doi": "10.1021/jacs.6c06445",
+      "posted_at": "2026-07-17T21:11:10+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322670.345799",
+      "summary_character_count": 86,
+      "summary_japanese": "CB[8]にアルデヒド・臭素置換ゲストを包接し、両基を近接させて分子内重原子効果を誘起した。白色光下で一重項酸素を生成し、アルデヒドを選択的にカルボン酸へ自己増感酸化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Predisposition Promotes Intramolecular Heavy-Atom Effects for Self-Sensitized Oxidation"
+    },
     "10.1021/jacs.6c09990": {
       "doi": "10.1021/jacs.6c09990",
       "posted_at": "2026-07-17T17:06:52+00:00",
@@ -198,6 +289,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
+    },
+    "10.1021/jacs.6c11182": {
+      "doi": "10.1021/jacs.6c11182",
+      "posted_at": "2026-07-17T21:11:34+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322694.217339",
+      "summary_character_count": 121,
+      "summary_japanese": "catechol修飾cycloparaphenyleneを動的boronate ester結合で同軸共有結合させ、相互接続チャネルを持つ3種の多孔性有機円筒を合成した。うち1種はBET比表面積1241 m²·g⁻¹と優れたガス吸着能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Cycloparaphenylene-Derived Porous Organic Cylinders"
     },
     "10.1021/jacs.6c11186": {
       "doi": "10.1021/jacs.6c11186",
@@ -250,6 +354,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Deep Electro-chemical Modulation of Optical Activity at Chiral Polymer:PEDOT Nanointerface for Display Technology Advancement"
+    },
+    "10.21203/rs.3.rs-9959043/v1": {
+      "doi": "10.21203/rs.3.rs-9959043/v1",
+      "posted_at": "2026-07-17T21:11:15+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322675.073769",
+      "summary_character_count": 118,
+      "summary_japanese": "歪んだbutafulvene型dehydro[18]annuleneをRbで二電子還元し、SSIPとCIPを結晶化した。C18²⁻は三重項基底状態で20π Baird芳香族性を保ち、DFTも1.1 kcal/molのT–S差を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
+    },
+    "10.26434/chemrxiv.15006144/v1": {
+      "doi": "10.26434/chemrxiv.15006144/v1",
+      "posted_at": "2026-07-17T21:11:05+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784322665.178679",
+      "summary_character_count": 102,
+      "summary_japanese": "CTAC/BINAMINEミセルを鋳型とするキラルAuNR成長を解析し、Au(III)によるBINAMINE酸化で生じるオリゴマーがキラル誘導を担い、酸化抑制で異方性因子と表面しわが減少することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Deciphering the Chiral Inducer in Micelle-Templated Growth of Chiral Gold Nanorods"
     },
     "10.48550/arxiv.2607.12819": {
       "doi": "10.48550/arxiv.2607.12819",
