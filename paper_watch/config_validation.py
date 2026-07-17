@@ -46,7 +46,6 @@ def _normalized_term(term: str) -> str:
 
 
 def validate_config(config: dict[str, Any]) -> None:
-    """Validate all user-editable settings before any API call is made."""
     root = _require_mapping(config, "config")
 
     for key in (
@@ -56,7 +55,7 @@ def validate_config(config: dict[str, Any]) -> None:
         "journal_tiers",
         "keywords",
         "exclusion_keywords",
-        "article_image",
+        "ai_summary",
     ):
         if key not in root:
             raise ConfigError(f"Missing required setting: {key}")
@@ -106,15 +105,8 @@ def validate_config(config: dict[str, Any]) -> None:
             raise ConfigError(
                 f"journal_tiers.{tier_name} requires score and journals."
             )
-        _require_number(
-            tier["score"],
-            f"journal_tiers.{tier_name}.score",
-            minimum=0,
-        )
-        journals = _require_list(
-            tier["journals"],
-            f"journal_tiers.{tier_name}.journals",
-        )
+        _require_number(tier["score"], f"journal_tiers.{tier_name}.score", minimum=0)
+        journals = _require_list(tier["journals"], f"journal_tiers.{tier_name}.journals")
         for index, raw_item in enumerate(journals):
             item = _require_mapping(
                 raw_item,
@@ -146,16 +138,8 @@ def validate_config(config: dict[str, Any]) -> None:
     for group_name in ("core", "strong"):
         if group_name not in keyword_groups:
             raise ConfigError(f"Missing required setting: keywords.{group_name}")
-        group = _require_mapping(
-            keyword_groups[group_name],
-            f"keywords.{group_name}",
-        )
-        for score_key in (
-            "title_score",
-            "abstract_score",
-            "title_cap",
-            "abstract_cap",
-        ):
+        group = _require_mapping(keyword_groups[group_name], f"keywords.{group_name}")
+        for score_key in ("title_score", "abstract_score", "title_cap", "abstract_cap"):
             if score_key not in group:
                 raise ConfigError(
                     f"Missing required setting: keywords.{group_name}.{score_key}"
@@ -165,10 +149,7 @@ def validate_config(config: dict[str, Any]) -> None:
                 f"keywords.{group_name}.{score_key}",
                 minimum=0,
             )
-        terms = _require_string_list(
-            group.get("terms"),
-            f"keywords.{group_name}.terms",
-        )
+        terms = _require_string_list(group.get("terms"), f"keywords.{group_name}.terms")
         for term in terms:
             normalized = _normalized_term(term)
             owner = seen_terms.get(normalized)
@@ -178,20 +159,10 @@ def validate_config(config: dict[str, Any]) -> None:
                 )
             seen_terms[normalized] = f"keywords.{group_name}"
 
-    exclusion = _require_mapping(
-        root["exclusion_keywords"],
-        "exclusion_keywords",
-    )
-    for score_key in (
-        "title_penalty",
-        "abstract_penalty",
-        "title_cap",
-        "abstract_cap",
-    ):
+    exclusion = _require_mapping(root["exclusion_keywords"], "exclusion_keywords")
+    for score_key in ("title_penalty", "abstract_penalty", "title_cap", "abstract_cap"):
         if score_key not in exclusion:
-            raise ConfigError(
-                f"Missing required setting: exclusion_keywords.{score_key}"
-            )
+            raise ConfigError(f"Missing required setting: exclusion_keywords.{score_key}")
         _require_number(
             exclusion[score_key],
             f"exclusion_keywords.{score_key}",
@@ -210,31 +181,39 @@ def validate_config(config: dict[str, Any]) -> None:
             )
         seen_terms[normalized] = "exclusion_keywords"
 
-    image = _require_mapping(root["article_image"], "article_image")
-    if not isinstance(image.get("enabled"), bool):
-        raise ConfigError("article_image.enabled must be true or false.")
-    numeric_image_keys = (
-        "request_timeout_seconds",
-        "browser_timeout_seconds",
-        "browser_wait_milliseconds",
-        "viewport_width",
-        "viewport_height",
-        "max_download_bytes",
-        "min_width",
-        "min_height",
-        "min_area",
-        "max_output_width",
-        "jpeg_quality",
-    )
-    for key in numeric_image_keys:
-        if key not in image:
-            raise ConfigError(f"Missing required setting: article_image.{key}")
-        _require_number(image[key], f"article_image.{key}", minimum=0)
-    if not isinstance(image.get("screenshot_fallback"), bool):
+    summary = _require_mapping(root["ai_summary"], "ai_summary")
+    if not isinstance(summary.get("enabled"), bool) or not summary["enabled"]:
+        raise ConfigError("ai_summary.enabled must be true.")
+    if not isinstance(summary.get("model"), str) or not summary["model"].strip():
+        raise ConfigError("ai_summary.model must be a non-empty string.")
+    allowed_effort = {"none", "low", "medium", "high", "xhigh", "max"}
+    if summary.get("reasoning_effort") not in allowed_effort:
         raise ConfigError(
-            "article_image.screenshot_fallback must be true or false."
+            "ai_summary.reasoning_effort must be one of: "
+            + ", ".join(sorted(allowed_effort))
         )
-    for list_key in ("reject_url_terms", "reject_text_terms"):
-        value = image.get(list_key, [])
-        if value:
-            _require_string_list(value, f"article_image.{list_key}")
+    for key in (
+        "target_characters",
+        "minimum_characters",
+        "maximum_characters",
+        "length_revision_attempts",
+        "request_attempts",
+        "request_timeout_seconds",
+        "max_output_tokens",
+    ):
+        if key not in summary:
+            raise ConfigError(f"Missing required setting: ai_summary.{key}")
+        _require_number(summary[key], f"ai_summary.{key}", minimum=0)
+
+    minimum = int(summary["minimum_characters"])
+    target = int(summary["target_characters"])
+    maximum = int(summary["maximum_characters"])
+    if not 1 <= minimum <= target <= maximum:
+        raise ConfigError(
+            "ai_summary character settings must satisfy "
+            "1 <= minimum_characters <= target_characters <= maximum_characters."
+        )
+    if int(summary["request_attempts"]) < 1:
+        raise ConfigError("ai_summary.request_attempts must be at least 1.")
+    if int(summary["max_output_tokens"]) < 64:
+        raise ConfigError("ai_summary.max_output_tokens must be at least 64.")

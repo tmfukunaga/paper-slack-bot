@@ -4,6 +4,7 @@ import argparse
 import json
 import logging
 import os
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -11,13 +12,13 @@ from zoneinfo import ZoneInfo
 import yaml
 from slack_sdk import WebClient
 
-from .article_image import ArticleImageFetcher
+from .ai_summary import OpenAISummarizer, SummaryError
 from .config_validation import validate_config
 from .crossref_client import fetch_abstract
 from .models import Paper
 from .openalex_client import fetch_candidates
 from .scoring import apply_score, score_paper
-from .slack_client import post_batch
+from .slack_client import post_paper
 from .state import load_state, prune_state, save_state
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -27,12 +28,12 @@ STATE_PATH = ROOT / "data" / "state.json"
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Find relevant papers and post them to Slack."
+        description="Find relevant papers, summarize them in Japanese, and post to Slack."
     )
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="Do not call Slack; print selected papers.",
+        help="Do not call OpenAI or Slack; print selected papers before summarization.",
     )
     parser.add_argument("--config", type=Path, default=CONFIG_PATH)
     parser.add_argument("--state", type=Path, default=STATE_PATH)
@@ -81,7 +82,6 @@ def main() -> None:
 
     state = load_state(args.state)
     prune_state(state)
-
     candidates = fetch_candidates(openalex_key, config)
 
     scored: list[Paper] = []
@@ -106,19 +106,6 @@ def main() -> None:
 
     scored.sort(key=sort_key, reverse=True)
 
-    today = current_local_date(config)
-    used_today = int(state["daily_counts"].get(today, 0))
-    daily_target = int(config["runtime"].get("daily_target", 30))
-    projected_today = used_today + len(scored)
-
-    if projected_today > daily_target:
-        logging.info(
-            "Daily target is informational only: target=%s projected=%s; "
-            "posting all eligible papers.",
-            daily_target,
-            projected_today,
-        )
-
     if args.dry_run:
         print(
             json.dumps(
@@ -129,14 +116,34 @@ def main() -> None:
         )
         return
 
+    openai_key = require_env("OPENAI_API_KEY")
+    slack_token = require_env("SLACK_BOT_TOKEN")
+    channel_id = require_env("SLACK_CHANNEL_ID")
     contact_email = os.getenv("CONTACT_EMAIL", "").strip()
-    selected: list[Paper] = []
+
+    summarizer = OpenAISummarizer(openai_key, config)
+    slack = WebClient(token=slack_token)
+
+    today = current_local_date(config)
+    used_today = int(state["daily_counts"].get(today, 0))
+    daily_target = int(config["runtime"].get("daily_target", 30))
+    projected_today = used_today + len(scored)
+    if projected_today > daily_target:
+        logging.info(
+            "Daily target is informational only: target=%s projected=%s; "
+            "processing all eligible papers.",
+            daily_target,
+            projected_today,
+        )
+
+    posted_count = 0
+    pause_seconds = float(config["runtime"]["slack_pause_seconds"])
 
     for paper in scored:
         if not paper.abstract_original:
             paper.abstract_original = fetch_abstract(paper.doi, contact_email)
 
-            # The abstract can add both positive and exclusion matches.
+            # Abstract enrichment can add positive or exclusion matches.
             result = score_paper(paper, config)
             apply_score(paper, result, config)
 
@@ -148,63 +155,64 @@ def main() -> None:
             )
             continue
 
-        selected.append(paper)
-
-    if selected:
-        slack_token = require_env("SLACK_BOT_TOKEN")
-        channel_id = require_env("SLACK_CHANNEL_ID")
-        client = WebClient(token=slack_token)
-
-        # Image paths are temporary, so retrieval and Slack upload occur in
-        # the same context.
-        with ArticleImageFetcher(config) as image_fetcher:
-            for paper in selected:
-                image = image_fetcher.fetch(
-                    paper.landing_page_url,
-                    paper.doi,
-                    paper.key,
-                    title=paper.title,
-                    journal=paper.journal,
-                    publication_date=paper.publication_date,
-                )
-                paper.article_image_path = str(image.path)
-                paper.article_image_method = image.method
-
-                if not Path(paper.article_image_path).is_file():
-                    raise RuntimeError(
-                        f"Required article image was not created for {paper.doi}"
-                    )
-
-            posted = post_batch(
-                client,
-                channel_id,
-                selected,
-                float(config["runtime"]["slack_pause_seconds"]),
+        if not paper.abstract_original.strip():
+            logging.warning(
+                "Skipping DOI=%s because no Abstract was available; it will be retried later.",
+                paper.doi,
             )
+            continue
+
+        try:
+            summary = summarizer.summarize(
+                paper.title,
+                paper.abstract_original,
+                paper.doi,
+            )
+        except SummaryError as exc:
+            logging.error(
+                "Summary failed for DOI=%s; paper was not posted and will be retried: %s",
+                paper.doi,
+                exc,
+            )
+            continue
+
+        paper.summary_japanese = summary.text
+        paper.summary_model = summary.model
+        paper.summary_character_count = summary.character_count
+
+        timestamp = post_paper(slack, channel_id, paper)
+        posted_count += 1
 
         now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+        state["posted"][paper.key] = {
+            "posted_at": now,
+            "slack_ts": timestamp,
+            "slack_channel_id": channel_id,
+            "title": paper.title,
+            "doi": paper.doi,
+            "score": paper.score,
+            "summary_model": paper.summary_model,
+            "summary_character_count": paper.summary_character_count,
+            "summary_japanese": paper.summary_japanese,
+        }
+        state["daily_counts"][today] = used_today + posted_count
+        state["pending"] = []
 
-        for paper, timestamp in posted:
-            state["posted"][paper.key] = {
-                "posted_at": now,
-                "slack_ts": timestamp,
-                "slack_channel_id": channel_id,
-                "title": paper.title,
-                "doi": paper.doi,
-                "score": paper.score,
-                "article_image_method": paper.article_image_method,
-            }
-            logging.info(
-                "Posted score=%s DOI=%s Slack ts=%s image=%s",
-                paper.score,
-                paper.doi,
-                timestamp,
-                paper.article_image_method or "none",
-            )
+        # Save after each successful post to prevent duplicate reposting if a later paper fails.
+        save_state(args.state, state)
 
-        state["daily_counts"][today] = used_today + len(posted)
-    else:
-        logging.info("No papers selected. used_today=%s", used_today)
+        logging.info(
+            "Posted score=%s DOI=%s Slack ts=%s summary_chars=%s model=%s",
+            paper.score,
+            paper.doi,
+            timestamp,
+            paper.summary_character_count,
+            paper.summary_model,
+        )
+        time.sleep(pause_seconds)
+
+    if posted_count == 0:
+        logging.info("No papers posted. used_today=%s", used_today)
 
     state["pending"] = []
     save_state(args.state, state)

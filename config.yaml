@@ -187,38 +187,16 @@ exclusion_keywords:
     - photovoltaic
     - polymer membrane
 
-# Article-image retrieval. The bot tries metadata, page images, and finally a browser screenshot.
-article_image:
+# OpenAI Japanese summary settings.
+# The default model balances quality and cost. Change only the model line if needed.
+ai_summary:
   enabled: true
-  request_timeout_seconds: 20
-  browser_timeout_seconds: 35
-  browser_wait_milliseconds: 2500
-  viewport_width: 1280
-  viewport_height: 900
-  screenshot_fallback: true
-  max_download_bytes: 10000000
-  min_width: 280
-  min_height: 140
-  min_area: 70000
-  max_output_width: 1600
-  jpeg_quality: 88
-  reject_url_terms:
-    - logo
-    - favicon
-    - icon
-    - avatar
-    - brand
-    - placeholder
-    - default-image
-    - journal-cover
-    - cover-image
-    - sprite
-    - tracking
-    - pixel
-  reject_text_terms:
-    - logo
-    - favicon
-    - avatar
-    - advertisement
-    - sponsor
-    - profile
+  model: gpt-5.6-terra
+  reasoning_effort: low
+  target_characters: 100
+  minimum_characters: 90
+  maximum_characters: 120
+  length_revision_attempts: 1
+  request_attempts: 4
+  request_timeout_seconds: 90
+  max_output_tokens: 512

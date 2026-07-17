@@ -5,16 +5,17 @@ from pathlib import Path
 import pytest
 import yaml
 
-from paper_watch.article_image import ArticleImageFetcher, extract_html_candidates
+from paper_watch.ai_summary import (
+    build_summary_instructions,
+    clean_summary,
+    extract_output_text,
+    summary_character_count,
+)
 from paper_watch.config_validation import ConfigError, validate_config
 from paper_watch.models import Paper
 from paper_watch.openalex_client import build_work_filter
 from paper_watch.scoring import apply_score, score_paper
-from paper_watch.slack_client import (
-    build_header_blocks,
-    build_tail_blocks,
-    upload_article_image,
-)
+from paper_watch.slack_client import build_paper_blocks
 
 
 CONFIG = yaml.safe_load(
@@ -43,6 +44,13 @@ def test_duplicate_keyword_is_rejected():
     broken = deepcopy(CONFIG)
     broken["keywords"]["strong"]["terms"].append("nanobelt")
     with pytest.raises(ConfigError, match="duplicated"):
+        validate_config(broken)
+
+
+def test_invalid_summary_character_range_is_rejected():
+    broken = deepcopy(CONFIG)
+    broken["ai_summary"]["minimum_characters"] = 130
+    with pytest.raises(ConfigError, match="character settings"):
         validate_config(broken)
 
 
@@ -119,87 +127,52 @@ def test_free_openalex_filter_includes_preprints_and_no_created_date():
     assert "from_created_date" not in value
 
 
-def test_message_order_and_only_final_divider():
+def test_summary_prompt_keeps_chemical_names_in_english():
+    instructions = build_summary_instructions(CONFIG)
+    assert "化合物名" in instructions
+    assert "英語表記のままで構いません" in instructions
+    assert "推測" in instructions
+
+
+def test_response_output_text_extraction():
+    payload = {
+        "output": [
+            {
+                "type": "message",
+                "content": [
+                    {"type": "output_text", "text": "日本語の要約です。"}
+                ],
+            }
+        ]
+    }
+    assert extract_output_text(payload) == "日本語の要約です。"
+
+
+def test_summary_cleanup_and_count():
+    value = clean_summary("```text\n要約： **aza[6]helicene**を合成した。\n```")
+    assert value == "aza[6]heliceneを合成した。"
+    assert summary_character_count(value) == len(value)
+
+
+def test_slack_message_contains_summary_not_english_abstract():
     item = paper(
         "A molecular nanocarbon",
-        "This is the abstract.",
+        "This English abstract must not be displayed.",
         "ChemRxiv",
     )
     result = score_paper(item, CONFIG)
     apply_score(item, result, CONFIG)
+    item.summary_japanese = "macrocycleの新規合成法を開発し、構造解析により高い円筒性と自己集合挙動を明らかにした。"
 
-    header = build_header_blocks(item)
-    tail = build_tail_blocks(item)
-
-    assert header[0]["type"] == "section"
-    assert "Matched keywords" in header[1]["text"]["text"]
-    assert tail[0]["type"] == "actions"
-    assert tail[1]["text"]["text"] == "*Abstract*"
-    divider_indexes = [
-        index for index, block in enumerate(tail) if block["type"] == "divider"
-    ]
-    assert divider_indexes == [len(tail) - 1]
-
-
-def test_html_candidate_prefers_open_graph_image():
-    html = """
-    <html><head>
-      <meta property="og:image" content="/social/article.jpg">
-    </head><body>
-      <img src="/assets/logo.png" width="800" height="400" alt="Publisher logo">
-      <img src="/figures/figure1.jpg" width="1000" height="600" alt="Figure 1">
-    </body></html>
-    """
-    candidates = extract_html_candidates(html, "https://example.org/paper")
-    assert candidates[0].url == "https://example.org/social/article.jpg"
-
-
-def test_fallback_card_is_generated_when_requested():
-    with ArticleImageFetcher(CONFIG) as fetcher:
-        result = fetcher.fetch(
-            "https://127.0.0.1.invalid/paper",
-            "10.0000/test",
-            "10.0000/test",
-            title="A molecular nanocarbon with a very long title for fallback image generation",
-            journal="ChemRxiv",
-            publication_date="2026-07-17",
-        )
-        assert result is not None
-        assert result.path.is_file()
-        assert result.method == "generated fallback card"
-
-
-def test_image_upload_is_shared_directly_to_channel(tmp_path):
-    item = paper(
-        "A molecular nanocarbon",
-        "This is the abstract.",
-        "ChemRxiv",
+    blocks = build_paper_blocks(item)
+    rendered = "\n".join(
+        block.get("text", {}).get("text", "")
+        for block in blocks
+        if isinstance(block, dict)
     )
-    image_path = tmp_path / "article.png"
-    image_path.write_bytes(b"fake png bytes")
-    item.article_image_path = str(image_path)
-
-    class FakeClient:
-        def __init__(self):
-            self.kwargs = None
-
-        def files_upload_v2(self, **kwargs):
-            self.kwargs = kwargs
-            return {"files": [{"id": "F123"}]}
-
-    client = FakeClient()
-    file_id = upload_article_image(client, "C123", item)
-
-    assert file_id == "F123"
-    assert client.kwargs["channel"] == "C123"
-    assert client.kwargs["file"] == str(image_path)
-
-
-def test_image_upload_rejects_missing_local_image():
-    item = paper(
-        "A molecular nanocarbon",
-        "This is the abstract.",
-        "ChemRxiv",
-    )
-    with pytest.raises(RuntimeError, match="No article image was prepared"):
-        upload_article_image(object(), "C123", item)
+    assert "Matched keywords" in rendered
+    assert "*要約*" in rendered
+    assert item.summary_japanese in rendered
+    assert item.abstract_original not in rendered
+    assert blocks[-1]["type"] == "divider"
+    assert sum(block["type"] == "divider" for block in blocks) == 1

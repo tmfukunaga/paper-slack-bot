@@ -1,0 +1,6 @@
+旧版から残っていれば削除してよいファイル:
+
+paper_watch/article_image.py
+
+また、.github/workflows/paper-watch.yml は ZIP 直下の
+paper-watch.workflow.yml の内容で置き換えてください。
