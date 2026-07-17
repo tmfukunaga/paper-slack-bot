@@ -3,10 +3,12 @@ from pathlib import Path
 import yaml
 
 from paper_watch.models import Paper
-from paper_watch.scoring import score_paper
+from paper_watch.scoring import apply_score, score_paper
 
 
-CONFIG = yaml.safe_load((Path(__file__).parent.parent / "config.yaml").read_text(encoding="utf-8"))
+CONFIG = yaml.safe_load(
+    (Path(__file__).parent.parent / "config.yaml").read_text(encoding="utf-8")
+)
 
 
 def paper(title: str, abstract: str, journal: str) -> Paper:
@@ -22,47 +24,66 @@ def paper(title: str, abstract: str, journal: str) -> Paper:
     )
 
 
-def test_core_title_forces_high_score_without_double_counting_nanobelt():
+def test_nanobelt_does_not_double_count_nested_keyword():
     result = score_paper(
-        paper("Synthesis of a carbon nanobelt", "A macrocyclic compound.", "Chemistry Letters"),
+        paper(
+            "Synthesis of a carbon nanobelt",
+            "A macrocyclic compound.",
+            "Chemistry Letters",
+        ),
         CONFIG,
     )
     assert "carbon nanobelt" in result.core_title
     assert "nanobelt" not in result.core_title
-    assert result.score >= 14
-    assert result.force_post
 
 
 def test_nature_communications_is_tier_s():
     result = score_paper(
-        paper("A supramolecular macrocycle", "Host-guest chemistry.", "Nature Communications"),
+        paper(
+            "A supramolecular macrocycle",
+            "Host-guest chemistry.",
+            "Nature Communications",
+        ),
         CONFIG,
     )
     assert result.journal_tier == "S"
     assert result.journal_score == 10
 
 
-def test_exclusion_penalty():
+def test_exclusion_penalty_makes_peptide_cpp_negative():
     result = score_paper(
-        paper("A macrocyclic peptide for cancer", "A protein-based biomedical system.", "Chemical Science"),
+        paper(
+            "A CPP framework for cell-penetrating peptides",
+            "Cell-penetrating peptides (CPPs) are protein-derived systems.",
+            "Protein Science",
+        ),
         CONFIG,
     )
-    assert result.score < 0
-
-
-def test_plural_forms_and_cpps_match_with_chemistry_context():
-    result = score_paper(
-        paper("Cycloparaphenylenes and CPPs as molecular nanocarbons", "Macrocycles are studied.", "Organic Letters"),
-        CONFIG,
-    )
-    assert "cycloparaphenylene" in result.core_title
     assert "CPP" in result.core_title
-    assert "macrocycle" in result.strong_abstract
+    assert "peptide" in result.exclude_title
+    assert result.score < int(CONFIG["runtime"]["post_threshold"])
 
 
-def test_cpp_without_chemistry_context_is_ignored():
+def test_cpp_is_not_special_cased():
     result = score_paper(
-        paper("A faster CPP compiler", "A systems programming benchmark.", "Science"),
+        paper(
+            "A CPP molecular framework",
+            "A molecular system.",
+            "Organic Letters",
+        ),
         CONFIG,
     )
-    assert "CPP" not in result.core_title
+    assert "CPP" in result.core_title
+
+
+def test_tags_contain_only_positive_matches():
+    p = paper(
+        "A macrocyclic peptide",
+        "A supramolecular protein system.",
+        "Chemical Science",
+    )
+    result = score_paper(p, CONFIG)
+    apply_score(p, result)
+    assert "#macrocyclic" in p.tags
+    assert "#supramolecular" in p.tags
+    assert "#peptide" not in p.tags

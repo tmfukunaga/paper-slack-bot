@@ -28,9 +28,10 @@ def normalize_journal(text: str) -> str:
 
 
 def strip_markup(text: str) -> str:
+    """Remove HTML/XML tags such as <scp> while preserving visible text."""
     if not text:
         return ""
-    soup = BeautifulSoup(text, "html.parser")
+    soup = BeautifulSoup(html.unescape(text), "html.parser")
     return normalize_text(soup.get_text(" ", strip=True))
 
 
@@ -45,7 +46,7 @@ def reconstruct_abstract(inverted_index: dict[str, list[int]] | None) -> str:
         for position in positions:
             if 0 <= position < len(words):
                 words[position] = token
-    return normalize_text(" ".join(word for word in words if word))
+    return strip_markup(" ".join(word for word in words if word))
 
 
 def normalize_doi(value: str) -> str:
@@ -68,7 +69,6 @@ def split_for_slack(text: str, limit: int = 2800) -> list[str]:
         cut = max(
             remaining.rfind("\n\n", 0, limit),
             remaining.rfind(". ", 0, limit),
-            remaining.rfind("。", 0, limit),
             remaining.rfind("; ", 0, limit),
         )
         if cut < int(limit * 0.55):

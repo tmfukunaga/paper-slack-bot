@@ -26,45 +26,36 @@ def build_blocks(paper: Paper) -> list[dict]:
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": f"*{escape_slack_mrkdwn(paper.title)}*\n{_author_line(paper.authors)}\n{escape_slack_mrkdwn(paper.journal or '雑誌名不明')} | {escape_slack_mrkdwn(paper.publication_date or '公開日不明')}\n*Score: {paper.score} = keyword {paper.keyword_score} + journal {paper.journal_score} - exclusion {paper.exclusion_penalty} | Journal tier: {paper.journal_tier}*",
+                "text": (
+                    f"*{escape_slack_mrkdwn(paper.title)}*\n"
+                    f"{_author_line(paper.authors)}\n"
+                    f"{escape_slack_mrkdwn(paper.journal or '雑誌名不明')} | "
+                    f"{escape_slack_mrkdwn(paper.publication_date or '公開日不明')}\n"
+                    f"*Score: {paper.score} = keyword {paper.keyword_score} "
+                    f"+ journal {paper.journal_score} "
+                    f"- exclusion {paper.exclusion_penalty} "
+                    f"| Journal tier: {paper.journal_tier}*"
+                ),
             },
-        },
-        {"type": "divider"},
+        }
     ]
 
     if paper.graphical_abstract_url:
-        blocks.append(
-            {
-                "type": "image",
-                "image_url": paper.graphical_abstract_url,
-                "alt_text": f"Graphical abstract for {paper.title}"[:2000],
-                "title": {"type": "plain_text", "text": "Graphical Abstract"},
-            }
+        blocks.extend(
+            [
+                {"type": "divider"},
+                {
+                    "type": "image",
+                    "image_url": paper.graphical_abstract_url,
+                    "alt_text": f"Graphical abstract for {paper.title}"[:2000],
+                    "title": {
+                        "type": "plain_text",
+                        "text": "Graphical Abstract",
+                    },
+                },
+            ]
         )
 
-    blocks.append(
-        {
-            "type": "section",
-            "text": {"type": "mrkdwn", "text": "*Abstract 日本語訳（機械翻訳）*"},
-        }
-    )
-    for chunk in split_for_slack(paper.abstract_ja):
-        blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": escape_slack_mrkdwn(chunk)}})
-
-    blocks.extend(
-        [
-            {"type": "divider"},
-            {
-                "type": "section",
-                "text": {"type": "mrkdwn", "text": "*Abstract original*"},
-            },
-        ]
-    )
-    original = paper.abstract_original or "取得できませんでした。"
-    for chunk in split_for_slack(original):
-        blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": escape_slack_mrkdwn(chunk)}})
-
-    tag_line = " ".join(paper.tags)
     blocks.extend(
         [
             {"type": "divider"},
@@ -72,7 +63,33 @@ def build_blocks(paper: Paper) -> list[dict]:
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": f"*関連する理由*\n{escape_slack_mrkdwn(paper.reason_ja)}\n{tag_line}",
+                    "text": "*Abstract original*",
+                },
+            },
+        ]
+    )
+
+    original = paper.abstract_original or "取得できませんでした。"
+    for chunk in split_for_slack(original):
+        blocks.append(
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": escape_slack_mrkdwn(chunk),
+                },
+            }
+        )
+
+    tag_line = " ".join(paper.tags) or "なし"
+    blocks.extend(
+        [
+            {"type": "divider"},
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": f"*Matched keywords*\n{tag_line}",
                 },
             },
             {
@@ -80,7 +97,10 @@ def build_blocks(paper: Paper) -> list[dict]:
                 "elements": [
                     {
                         "type": "button",
-                        "text": {"type": "plain_text", "text": "論文を開く"},
+                        "text": {
+                            "type": "plain_text",
+                            "text": "論文を開く",
+                        },
                         "url": paper.landing_page_url,
                         "action_id": "open_paper",
                     }
@@ -90,8 +110,12 @@ def build_blocks(paper: Paper) -> list[dict]:
     )
 
     if len(blocks) > 50:
-        LOGGER.warning("Block count %s exceeds Slack limit; trimming text blocks", len(blocks))
+        LOGGER.warning(
+            "Block count %s exceeds Slack limit; trimming abstract blocks",
+            len(blocks),
+        )
         blocks = blocks[:47] + blocks[-3:]
+
     return blocks
 
 
@@ -110,11 +134,19 @@ def post_paper(client: WebClient, channel_id: str, paper: Paper) -> str:
         raise
 
 
-def post_batch(client: WebClient, channel_id: str, papers: list[Paper], pause_seconds: float) -> list[tuple[Paper, str]]:
+def post_batch(
+    client: WebClient,
+    channel_id: str,
+    papers: list[Paper],
+    pause_seconds: float,
+) -> list[tuple[Paper, str]]:
     posted: list[tuple[Paper, str]] = []
+
     for index, paper in enumerate(papers):
-        ts = post_paper(client, channel_id, paper)
-        posted.append((paper, ts))
+        timestamp = post_paper(client, channel_id, paper)
+        posted.append((paper, timestamp))
+
         if index + 1 < len(papers):
             time.sleep(pause_seconds)
+
     return posted

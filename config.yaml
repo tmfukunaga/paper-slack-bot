@@ -1,17 +1,11 @@
 timezone: Asia/Tokyo
 runtime:
   post_threshold: 15
-  lookback_created_days: 3
-  lookback_publication_days: 21
+  lookback_publication_days: 45
   pages_per_query: 2
   results_per_page: 100
   slack_pause_seconds: 1.2
   daily_target: 30
-translation:
-  model: Helsinki-NLP/opus-mt-en-jap
-  max_input_tokens: 400
-  batch_size: 8
-  num_beams: 4
 journals:
   tier_s:
     score: 10
@@ -235,21 +229,6 @@ keywords:
     - electrocatalysis
     - photovoltaic
     - polymer membrane
-  ambiguous:
-    terms:
-    - CPP
-    required_context:
-    - chemistry
-    - chemical
-    - molecule
-    - molecular
-    - synthesis
-    - synthetic
-    - carbon
-    - conjugated
-    - aromatic
-    - macrocycle
-    - cycloparaphenylene
 graphical_abstract:
   enabled: true
   timeout_seconds: 20

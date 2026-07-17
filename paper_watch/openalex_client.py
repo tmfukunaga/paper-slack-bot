@@ -9,29 +9,23 @@ from typing import Any
 import requests
 
 from .models import Paper
-from .text_utils import doi_url, normalize_doi, reconstruct_abstract
+from .text_utils import doi_url, normalize_doi, reconstruct_abstract, strip_markup
 
 
 LOGGER = logging.getLogger(__name__)
-
 BASE_URL = "https://api.openalex.org/works"
 
 
 def _boolean_query(terms: list[str]) -> str:
-    """Create an OR query from a list of phrases."""
     operands: list[str] = []
-
     for term in terms:
         escaped = term.replace('"', '\\"')
         operands.append(f'"{escaped}"')
-
     return "(" + " OR ".join(operands) + ")"
 
 
 def _paper_from_work(work: dict[str, Any]) -> Paper | None:
-    """Convert an OpenAlex work record into a Paper object."""
     doi = normalize_doi(work.get("doi") or "")
-
     if not doi:
         return None
 
@@ -43,15 +37,16 @@ def _paper_from_work(work: dict[str, Any]) -> Paper | None:
 
     location = work.get("primary_location") or {}
     source = location.get("source") or {}
-
     landing_page_url = location.get("landing_page_url") or doi_url(doi)
 
     return Paper(
         openalex_id=work.get("id", ""),
         doi=doi,
-        title=(work.get("title") or work.get("display_name") or "").strip(),
+        title=strip_markup(
+            work.get("title") or work.get("display_name") or ""
+        ),
         authors=authors,
-        journal=(source.get("display_name") or "").strip(),
+        journal=strip_markup(source.get("display_name") or ""),
         publication_date=work.get("publication_date") or "",
         abstract_original=reconstruct_abstract(
             work.get("abstract_inverted_index")
@@ -64,9 +59,7 @@ def _get_with_retry(
     params: dict[str, Any],
     max_attempts: int = 6,
 ) -> requests.Response:
-    """Request OpenAlex with retry handling for temporary errors."""
     contact_email = os.environ.get("CONTACT_EMAIL", "")
-
     headers = {
         "User-Agent": (
             f"paper-slack-bot/1.0 (mailto:{contact_email})"
@@ -85,14 +78,12 @@ def _get_with_retry(
             headers=headers,
             timeout=60,
         )
-
         last_response = response
 
         if response.status_code == 200:
             return response
 
         error_text = response.text[:500].replace("\n", " ")
-
         LOGGER.warning(
             "OpenAlex returned status=%s, remaining=%s, reset=%s, body=%s",
             response.status_code,
@@ -101,7 +92,6 @@ def _get_with_retry(
             error_text,
         )
 
-        # A paid-plan requirement will not be fixed by waiting.
         if (
             response.status_code == 429
             and "Plan upgrade required" in response.text
@@ -113,34 +103,29 @@ def _get_with_retry(
 
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
-
-            if retry_after and retry_after.isdigit():
-                wait_seconds = int(retry_after)
-            else:
-                wait_seconds = waits[attempt]
-
+            wait_seconds = (
+                int(retry_after)
+                if retry_after and retry_after.isdigit()
+                else waits[attempt]
+            )
             LOGGER.warning(
-                "OpenAlex rate limit encountered. "
-                "Waiting %s seconds before retry %s/%s.",
+                "OpenAlex rate limit encountered. Waiting %s seconds "
+                "before retry %s/%s.",
                 wait_seconds,
                 attempt + 1,
                 max_attempts,
             )
-
             time.sleep(wait_seconds)
             continue
 
         if 500 <= response.status_code < 600:
             wait_seconds = waits[attempt]
-
             LOGGER.warning(
-                "OpenAlex server error. "
-                "Waiting %s seconds before retry %s/%s.",
+                "OpenAlex server error. Waiting %s seconds before retry %s/%s.",
                 wait_seconds,
                 attempt + 1,
                 max_attempts,
             )
-
             time.sleep(wait_seconds)
             continue
 
@@ -156,13 +141,8 @@ def fetch_candidates(
     api_key: str,
     config: dict[str, Any],
 ) -> list[Paper]:
-    """Fetch recent candidate papers from OpenAlex."""
     runtime = config["runtime"]
-
-    today = date.today()
-
-    # from_created_date is not used because it requires a paid OpenAlex plan.
-    published_from = today - timedelta(
+    published_from = date.today() - timedelta(
         days=int(runtime["lookback_publication_days"])
     )
 
@@ -174,29 +154,21 @@ def fetch_candidates(
     papers: dict[str, Paper] = {}
 
     for query in queries:
-        for page in range(
-            1,
-            int(runtime["pages_per_query"]) + 1,
-        ):
+        for page in range(1, int(runtime["pages_per_query"]) + 1):
             params = {
                 "api_key": api_key,
                 "search": query,
                 "filter": (
                     f"from_publication_date:{published_from.isoformat()},"
-                    "has_doi:true,"
-                    "type:article|review"
+                    "has_doi:true,type:article|review"
                 ),
                 "sort": "publication_date:desc",
-                "per_page": min(
-                    int(runtime["results_per_page"]),
-                    100,
-                ),
+                "per_page": min(int(runtime["results_per_page"]), 100),
                 "page": page,
             }
 
             response = _get_with_retry(params)
             payload = response.json()
-
             results = payload.get("results", [])
 
             LOGGER.info(
@@ -208,14 +180,12 @@ def fetch_candidates(
 
             for work in results:
                 paper = _paper_from_work(work)
-
                 if paper and paper.title:
                     papers[paper.key] = paper
 
             if len(results) < int(runtime["results_per_page"]):
                 break
 
-            # Avoid sending consecutive requests too quickly.
             time.sleep(1)
 
     return list(papers.values())

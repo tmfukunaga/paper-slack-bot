@@ -25,9 +25,7 @@ class Paper:
     matched_strong_abstract: list[str] = field(default_factory=list)
     matched_exclude_title: list[str] = field(default_factory=list)
     matched_exclude_abstract: list[str] = field(default_factory=list)
-    reason_ja: str = ""
     tags: list[str] = field(default_factory=list)
-    abstract_ja: str = ""
     graphical_abstract_url: str = ""
 
     @property
