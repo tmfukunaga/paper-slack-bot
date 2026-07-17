@@ -32,42 +32,11 @@ def _extract_file_id(response: Any) -> str:
     return ""
 
 
-def upload_article_image(client: WebClient, paper: Paper) -> str:
-    """Upload the required article image and return its Slack file ID."""
-    if not paper.article_image_path:
-        raise RuntimeError(f"No article image was prepared for {paper.doi}")
+def build_header_blocks(paper: Paper) -> list[dict[str, Any]]:
+    """Build the text blocks displayed immediately before the image."""
+    tag_line = " ".join(paper.tags) or "なし"
 
-    path = Path(paper.article_image_path)
-    if not path.is_file():
-        raise RuntimeError(f"Article image file does not exist: {path}")
-
-    try:
-        response = client.files_upload_v2(
-            file=str(path),
-            filename=path.name,
-            title=f"Article image — {paper.title}"[:255],
-            alt_txt=f"Representative image for {paper.title}"[:2000],
-        )
-    except SlackApiError as exc:
-        error = exc.response.get("error")
-        raise RuntimeError(
-            f"Slack image upload failed for {paper.doi}: {error}. "
-            "Confirm that the Slack App has files:write and was reinstalled."
-        ) from exc
-
-    file_id = _extract_file_id(response)
-    if not file_id:
-        raise RuntimeError(
-            f"Slack image upload returned no file ID for {paper.doi}"
-        )
-    return file_id
-
-
-def build_blocks(paper: Paper, slack_file_id: str) -> list[dict[str, Any]]:
-    if not slack_file_id:
-        raise ValueError("slack_file_id is required: every paper must have an image")
-
-    blocks: list[dict[str, Any]] = [
+    return [
         {
             "type": "section",
             "text": {
@@ -83,30 +52,20 @@ def build_blocks(paper: Paper, slack_file_id: str) -> list[dict[str, Any]]:
                     f"| Journal tier: {paper.journal_tier}*"
                 ),
             },
-        }
-    ]
-
-    # Requested order: keywords -> image -> paper link -> abstract.
-    tag_line = " ".join(paper.tags) or "なし"
-    blocks.append(
+        },
         {
             "type": "section",
             "text": {
                 "type": "mrkdwn",
                 "text": f"*Matched keywords*\n{tag_line}",
             },
-        }
-    )
+        },
+    ]
 
-    blocks.append(
-        {
-            "type": "image",
-            "slack_file": {"id": slack_file_id},
-            "alt_text": f"Representative image for {paper.title}"[:2000],
-        }
-    )
 
-    blocks.append(
+def build_tail_blocks(paper: Paper) -> list[dict[str, Any]]:
+    """Build the blocks displayed after the image."""
+    blocks: list[dict[str, Any]] = [
         {
             "type": "actions",
             "elements": [
@@ -120,18 +79,15 @@ def build_blocks(paper: Paper, slack_file_id: str) -> list[dict[str, Any]]:
                     "action_id": "open_paper",
                 }
             ],
-        }
-    )
-
-    blocks.append(
+        },
         {
             "type": "section",
             "text": {
                 "type": "mrkdwn",
                 "text": "*Abstract*",
             },
-        }
-    )
+        },
+    ]
 
     abstract = paper.abstract_original or "取得できませんでした。"
     for chunk in split_for_slack(abstract):
@@ -145,7 +101,7 @@ def build_blocks(paper: Paper, slack_file_id: str) -> list[dict[str, Any]]:
             }
         )
 
-    # The only divider is at the end, making the boundary between papers clear.
+    # The only divider is at the end, making paper boundaries obvious.
     blocks.append({"type": "divider"})
 
     if len(blocks) > 50:
@@ -158,32 +114,107 @@ def build_blocks(paper: Paper, slack_file_id: str) -> list[dict[str, Any]]:
     return blocks
 
 
-def _post_blocks(
-    client: WebClient,
-    channel_id: str,
-    paper: Paper,
-    slack_file_id: str,
-) -> str:
+def _post_header(client: WebClient, channel_id: str, paper: Paper) -> str:
     response = client.chat_postMessage(
         channel=channel_id,
         text=f"{paper.title} — {paper.journal}",
-        blocks=build_blocks(paper, slack_file_id),
+        blocks=build_header_blocks(paper),
         unfurl_links=False,
         unfurl_media=False,
     )
-    return response.get("ts", "")
+    return str(response.get("ts") or "")
 
 
-def post_paper(client: WebClient, channel_id: str, paper: Paper) -> str:
-    """Post a paper only after its required image is uploaded successfully."""
-    slack_file_id = upload_article_image(client, paper)
+def upload_article_image(
+    client: WebClient,
+    channel_id: str,
+    paper: Paper,
+) -> str:
+    """Upload and share the required image directly in the target channel."""
+    if not paper.article_image_path:
+        raise RuntimeError(f"No article image was prepared for {paper.doi}")
+
+    path = Path(paper.article_image_path)
+    if not path.is_file():
+        raise RuntimeError(f"Article image file does not exist: {path}")
+
     try:
-        return _post_blocks(client, channel_id, paper, slack_file_id)
+        response = client.files_upload_v2(
+            channel=channel_id,
+            file=str(path),
+            filename=path.name,
+            title=f"Article image — {paper.title}"[:255],
+            alt_txt=f"Representative image for {paper.title}"[:2000],
+        )
     except SlackApiError as exc:
         error = exc.response.get("error")
         raise RuntimeError(
-            f"Slack rejected the image-bearing message for {paper.doi}: {error}"
+            f"Slack image upload failed for {paper.doi}: {error}. "
+            "Confirm that the Slack App has files:write, was reinstalled, "
+            "and the bot is a member of the channel."
         ) from exc
+
+    file_id = _extract_file_id(response)
+    if not file_id:
+        raise RuntimeError(
+            f"Slack image upload returned no file ID for {paper.doi}"
+        )
+    return file_id
+
+
+def _post_tail(client: WebClient, channel_id: str, paper: Paper) -> str:
+    response = client.chat_postMessage(
+        channel=channel_id,
+        text=f"論文を開く: {paper.landing_page_url}",
+        blocks=build_tail_blocks(paper),
+        unfurl_links=False,
+        unfurl_media=False,
+    )
+    return str(response.get("ts") or "")
+
+
+def _cleanup_partial_post(
+    client: WebClient,
+    channel_id: str,
+    header_ts: str,
+    file_id: str,
+) -> None:
+    """Best-effort cleanup so a failed paper is not left half-posted."""
+    if file_id:
+        try:
+            client.files_delete(file=file_id)
+        except Exception as exc:  # cleanup must not mask the original failure
+            LOGGER.warning("Could not delete partial Slack file %s: %s", file_id, exc)
+
+    if header_ts:
+        try:
+            client.chat_delete(channel=channel_id, ts=header_ts)
+        except Exception as exc:  # cleanup must not mask the original failure
+            LOGGER.warning(
+                "Could not delete partial Slack header %s: %s",
+                header_ts,
+                exc,
+            )
+
+
+def post_paper(client: WebClient, channel_id: str, paper: Paper) -> str:
+    """Post header -> image file -> link/abstract/divider, in that order."""
+    header_ts = ""
+    file_id = ""
+
+    try:
+        header_ts = _post_header(client, channel_id, paper)
+        file_id = upload_article_image(client, channel_id, paper)
+        return _post_tail(client, channel_id, paper)
+    except SlackApiError as exc:
+        _cleanup_partial_post(client, channel_id, header_ts, file_id)
+        error = exc.response.get("error")
+        raise RuntimeError(
+            f"Slack rejected the message sequence for {paper.doi}: {error}"
+        ) from exc
+    except Exception:
+        _cleanup_partial_post(client, channel_id, header_ts, file_id)
+        raise
 
 
 def post_batch(

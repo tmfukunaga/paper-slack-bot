@@ -10,7 +10,11 @@ from paper_watch.config_validation import ConfigError, validate_config
 from paper_watch.models import Paper
 from paper_watch.openalex_client import build_work_filter
 from paper_watch.scoring import apply_score, score_paper
-from paper_watch.slack_client import build_blocks
+from paper_watch.slack_client import (
+    build_header_blocks,
+    build_tail_blocks,
+    upload_article_image,
+)
 
 
 CONFIG = yaml.safe_load(
@@ -123,17 +127,18 @@ def test_message_order_and_only_final_divider():
     )
     result = score_paper(item, CONFIG)
     apply_score(item, result, CONFIG)
-    blocks = build_blocks(item, slack_file_id="F123")
 
-    assert blocks[0]["type"] == "section"
-    assert "Matched keywords" in blocks[1]["text"]["text"]
-    assert blocks[2]["type"] == "image"
-    assert blocks[3]["type"] == "actions"
-    assert blocks[4]["text"]["text"] == "*Abstract*"
+    header = build_header_blocks(item)
+    tail = build_tail_blocks(item)
+
+    assert header[0]["type"] == "section"
+    assert "Matched keywords" in header[1]["text"]["text"]
+    assert tail[0]["type"] == "actions"
+    assert tail[1]["text"]["text"] == "*Abstract*"
     divider_indexes = [
-        index for index, block in enumerate(blocks) if block["type"] == "divider"
+        index for index, block in enumerate(tail) if block["type"] == "divider"
     ]
-    assert divider_indexes == [len(blocks) - 1]
+    assert divider_indexes == [len(tail) - 1]
 
 
 def test_html_candidate_prefers_open_graph_image():
@@ -164,13 +169,37 @@ def test_fallback_card_is_generated_when_requested():
         assert result.method == "generated fallback card"
 
 
-def test_message_rejects_missing_image_file_id():
+def test_image_upload_is_shared_directly_to_channel(tmp_path):
     item = paper(
         "A molecular nanocarbon",
         "This is the abstract.",
         "ChemRxiv",
     )
-    result = score_paper(item, CONFIG)
-    apply_score(item, result, CONFIG)
-    with pytest.raises(ValueError, match="every paper must have an image"):
-        build_blocks(item, slack_file_id="")
+    image_path = tmp_path / "article.png"
+    image_path.write_bytes(b"fake png bytes")
+    item.article_image_path = str(image_path)
+
+    class FakeClient:
+        def __init__(self):
+            self.kwargs = None
+
+        def files_upload_v2(self, **kwargs):
+            self.kwargs = kwargs
+            return {"files": [{"id": "F123"}]}
+
+    client = FakeClient()
+    file_id = upload_article_image(client, "C123", item)
+
+    assert file_id == "F123"
+    assert client.kwargs["channel"] == "C123"
+    assert client.kwargs["file"] == str(image_path)
+
+
+def test_image_upload_rejects_missing_local_image():
+    item = paper(
+        "A molecular nanocarbon",
+        "This is the abstract.",
+        "ChemRxiv",
+    )
+    with pytest.raises(RuntimeError, match="No article image was prepared"):
+        upload_article_image(object(), "C123", item)
