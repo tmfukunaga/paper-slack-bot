@@ -1,5 +1,104 @@
 {
-  "daily_counts": {},
+  "daily_counts": {
+    "2026-07-17": 12
+  },
   "pending": [],
-  "posted": {}
+  "posted": {
+    "10.1002/ange.1519414": {
+      "doi": "10.1002/ange.1519414",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285135.522909",
+      "title": "Tunable Synthesis of Multi‐Responsive NH‐Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/ange.3935543": {
+      "doi": "10.1002/ange.3935543",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285134.090459",
+      "title": "Virus‐Mediated Self‐Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/anie.1519414": {
+      "doi": "10.1002/anie.1519414",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285126.752209",
+      "title": "Tunable Synthesis of Multi‐Responsive NH‐Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.3322675": {
+      "doi": "10.1002/anie.3322675",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285137.028709",
+      "title": "Tetraborylated Multiple Resonance Emitter Incorporating B─O Bond‐Embedded π‐Extension for Ultra‐Narrowband and High‐Efficiency Blue Devices"
+    },
+    "10.1002/anie.3935543": {
+      "doi": "10.1002/anie.3935543",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285125.260649",
+      "title": "Virus‐Mediated Self‐Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/chem.71369": {
+      "doi": "10.1002/chem.71369",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285129.628229",
+      "title": "Oxygen‐Doped Nanographene as High‐Performance Anode Material in Lithium‐Ion Batteries"
+    },
+    "10.1002/pro.70704": {
+      "doi": "10.1002/pro.70704",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": -5,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285138.476339",
+      "title": "<scp>SSEL</scp> ‐ <scp>CPP</scp> : A <scp>SHAP</scp> ‐based feature‐selection ensemble learning framework identifies molecular properties of cell‐penetrating peptides"
+    },
+    "10.1021/acs.chemmater.6c00828": {
+      "doi": "10.1021/acs.chemmater.6c00828",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285131.128369",
+      "title": "Metallogels and Molybdate Arrays Formed by Self-Assembly of Carbohydrate Molybdenum Complexes"
+    },
+    "10.1021/acs.jafc.6c03256": {
+      "doi": "10.1021/acs.jafc.6c03256",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285128.192969",
+      "title": "Herbicide Recognition, Sensing, and Removal Enabled by Supramolecular Macrocyclic Chemistry"
+    },
+    "10.1021/jacs.6c05337": {
+      "doi": "10.1021/jacs.6c05337",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285132.594949",
+      "title": "Arraying Shape-Persistent Molecular Alkynyl Trap into Highly Porous and Robust Zirconium Metal–Organic Framework for Propyne Capture and Propyne/Propylene Separation"
+    },
+    "10.1021/jacs.6c09990": {
+      "doi": "10.1021/jacs.6c09990",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285123.801669",
+      "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
+    },
+    "10.1021/jacs.6c11182": {
+      "doi": "10.1021/jacs.6c11182",
+      "posted_at": "2026-07-17T10:45:38Z",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784285122.293939",
+      "title": "Cycloparaphenylene-Derived Porous Organic Cylinders"
+    }
+  }
 }
