@@ -1,9 +1,22 @@
 {
   "daily_counts": {
-    "2026-07-18": 10
+    "2026-07-18": 20
   },
   "pending": [],
   "posted": {
+    "10.1002/ange.1519414": {
+      "doi": "10.1002/ange.1519414",
+      "posted_at": "2026-07-17T17:27:56+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309276.405629",
+      "summary_character_count": 116,
+      "summary_japanese": "共通carbazole基盤から、NHを保護せず最大12本のC─C結合を形成する多重Scholl反応でHNGsを合成した。光学分割後、酸・塩基によるCPLの可逆的オン・オフと、DMSO中での励起状態プロトン移動に伴う赤方偏移を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
     "10.1002/anie.1519414": {
       "doi": "10.1002/anie.1519414",
       "posted_at": "2026-07-17T17:07:08+00:00",
@@ -16,6 +29,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.2300390": {
+      "doi": "10.1002/anie.2300390",
+      "posted_at": "2026-07-17T17:28:06+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309286.227199",
+      "summary_character_count": 113,
+      "summary_japanese": "1,2:5,6-NBIとcarbazoleから平面キラルhetero-cyclophane NBICz-Cyを構築し、空間電荷移動に由来する橙赤色CP-TADFと、溶液・固体で|glum|約2.5–3.3×10−3を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Planar Chiral Carbazole-Naphthalene Bisimide Hetero-Cyclophane for Circularly Polarized Delayed Fluorescence"
     },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
@@ -69,6 +95,45 @@
       "summary_used_fallback": false,
       "title": "Axially Chiral Cross-Shaped Bianthracene Architectures With Chiroptical Activity and Electrochemical Polymerization"
     },
+    "10.1002/nap2.70199": {
+      "doi": "10.1002/nap2.70199",
+      "posted_at": "2026-07-17T17:27:51+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309271.690309",
+      "summary_character_count": 99,
+      "summary_japanese": "幾何・モード非対称性を制御した平面キラルプラズモニックナノアンテナを数値解析し、励起光の掌性でナノギャップのホットスポットを切替・連続変調でき、無キラル量子エミッターからほぼ完全な円偏光発光を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Planar Chiral Nanoantenna for Excitation-Chirality-Controlled Hot Spot Modulation and Emitter-Coupled Circularly Polarized Emission"
+    },
+    "10.1002/smll.74616": {
+      "doi": "10.1002/smll.74616",
+      "posted_at": "2026-07-17T17:27:29+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309249.186389",
+      "summary_character_count": 95,
+      "summary_japanese": "クラウンエーテル支援自己集合とハロゲン制御により、発光色可変なキラルCu(I)ハライドクラスター2対を構築した。X線偏光光学系でS-BrとS-Iの解像度は各20、25 lp/mmへ向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Color-Tunable Broadband Chiral Copper(I) Halides Scintillators for High-Resolution X-Ray Polarization Imaging"
+    },
+    "10.1016/j.talanta.2026.130238": {
+      "doi": "10.1016/j.talanta.2026.130238",
+      "posted_at": "2026-07-17T17:28:10+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309290.669609",
+      "summary_character_count": 107,
+      "summary_japanese": "2組のジアステレオマー医薬共結晶をDFT支援のssNMR、Raman、IR、ssVCDで比較し、ssVCDはほぼ同構造でも識別でき、低周波Ramanは異なる充填様式の迅速検出、ssNMRは局所構造解析に有効だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Resolution of chiral drug cocrystals: complementary roles of NMR, low-frequency Raman and vibrational circular dichroism"
+    },
     "10.1021/accountsmr.6c00071": {
       "doi": "10.1021/accountsmr.6c00071",
       "posted_at": "2026-07-17T17:07:02+00:00",
@@ -81,6 +146,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Supramolecular Architecture of Chiral Macrocycles: Hierarchical Assembly and Confinement Effect for Enhanced Circularly Polarized Luminescence"
+    },
+    "10.1021/acs.accounts.6c00081": {
+      "doi": "10.1021/acs.accounts.6c00081",
+      "posted_at": "2026-07-17T17:27:41+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309261.457659",
+      "summary_character_count": 85,
+      "summary_japanese": "空孔径とキラル置換位置の異なるキラル大環状キレート剤を設計し、Ga放射標識への影響を検討した。今後、環サイズによる金属イオン選択性を評価し、新規キレート剤設計につなげる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
     },
     "10.1021/acs.langmuir.6c03074": {
       "doi": "10.1021/acs.langmuir.6c03074",
@@ -121,6 +199,32 @@
       "summary_used_fallback": false,
       "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
     },
+    "10.1021/jacs.6c11186": {
+      "doi": "10.1021/jacs.6c11186",
+      "posted_at": "2026-07-17T17:28:15+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309295.864639",
+      "summary_character_count": 109,
+      "summary_japanese": "基板上合成で、立体的に制約された表面配位と単一キラル配位子被覆を持つCsPbBr3 CPQD薄膜を構築した。配位幾何が非対称相互作用を支配し、発光非対称因子0.15、外部量子効率17.9%のspin LEDを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Coordination-Constraint-Driven Enhanced Chirality Induction in Perovskite Quantum Dot Solids"
+    },
+    "10.1038/s41467-026-74709-2": {
+      "doi": "10.1038/s41467-026-74709-2",
+      "posted_at": "2026-07-17T17:27:36+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309256.824519",
+      "summary_character_count": 88,
+      "summary_japanese": "楕円柱内の硬球最密充填をシミュレーション・新規理論・実験で解析し、微弱な断面変形が階層的周期構造をもつキラルらせん相や、非キラルな二重振動鎖相などの新相を誘起することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Chiral packings in cylinders are ultrasensitive to confinement deformation"
+    },
     "10.1126/sciadv.aec8167": {
       "doi": "10.1126/sciadv.aec8167",
       "posted_at": "2026-07-17T17:07:19+00:00",
@@ -133,6 +237,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Interfacial solvothermal synthesis of superhydrophilic ionic salt-derived chiral helical COFs with strong chiroptical activity"
+    },
+    "10.21203/rs.3.rs-8639072/v1": {
+      "doi": "10.21203/rs.3.rs-8639072/v1",
+      "posted_at": "2026-07-17T17:28:01+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309281.447449",
+      "summary_character_count": 100,
+      "summary_japanese": "フルオレン–チオフェン系chiral polymer P*とPEDOTの二層膜を作製し、電圧駆動の界面再配列により円二色性とgabsを可逆変調した。ゲル電解質デバイスでは色と偏光状態を電気制御できた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Deep Electro-chemical Modulation of Optical Activity at Chiral Polymer:PEDOT Nanointerface for Display Technology Advancement"
+    },
+    "10.48550/arxiv.2607.12819": {
+      "doi": "10.48550/arxiv.2607.12819",
+      "posted_at": "2026-07-17T17:27:46+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784309266.852359",
+      "summary_character_count": 90,
+      "summary_japanese": "binaphthyl型架橋を持つD-Bχ-A分子の量子動力学モデルに幾何学的SOCを導入し、光励起電子輸送で30～40%のスピン偏極を再現して時間分解EPR測定と定量的に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "What Is the Real-Time Atomistic Mechanism Behind Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Molecules?"
     }
   }
 }
