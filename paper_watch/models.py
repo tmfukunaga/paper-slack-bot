@@ -23,6 +23,8 @@ class Paper:
     matched_core_abstract: list[str] = field(default_factory=list)
     matched_strong_title: list[str] = field(default_factory=list)
     matched_strong_abstract: list[str] = field(default_factory=list)
+    matched_weak_title: list[str] = field(default_factory=list)
+    matched_weak_abstract: list[str] = field(default_factory=list)
     matched_exclude_title: list[str] = field(default_factory=list)
     matched_exclude_abstract: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)

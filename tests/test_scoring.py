@@ -177,3 +177,23 @@ def test_slack_message_contains_summary_not_english_abstract():
     assert item.abstract_original not in rendered
     assert blocks[-1]["type"] == "divider"
     assert sum(block["type"] == "divider" for block in blocks) == 1
+
+
+def test_weak_keyword_contributes_small_score():
+    result = score_paper(
+        paper(
+            "Single-crystal X-ray diffraction of an organic compound",
+            "The crystal structure was determined.",
+            "Nature Chemistry",
+        ),
+        CONFIG,
+    )
+    assert "single-crystal X-ray diffraction" in result.weak_title
+    assert result.keyword_score >= 3
+    assert result.keyword_score < int(CONFIG["keywords"]["strong"]["title_score"])
+
+
+def test_weak_group_is_scoring_only():
+    assert CONFIG["keywords"]["weak"]["search_enabled"] is False
+    assert CONFIG["keywords"]["core"]["search_enabled"] is True
+    assert CONFIG["keywords"]["strong"]["search_enabled"] is True

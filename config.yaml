@@ -10,6 +10,8 @@ runtime:
   lookback_publication_days: 45
   pages_per_query: 2
   results_per_page: 100
+  # Split broad keyword lists so common terms do not bury niche terms.
+  search_terms_per_query: 10
   slack_pause_seconds: 1.2
 
 posting:
@@ -130,9 +132,14 @@ journal_tiers:
       - canonical: Macromolecules
         aliases: [Macromolecules]
 
-# Positive keywords. The bot searches OpenAlex using all terms in these groups.
+# Positive keywords.
+# search_enabled: true  -> used both for OpenAlex retrieval and scoring.
+# search_enabled: false -> used only for scoring papers retrieved by core/strong terms.
+# Weak terms are deliberately scoring-only because terms such as "crystal structure"
+# would otherwise generate a very large number of unrelated OpenAlex candidates.
 keywords:
   core:
+    search_enabled: true
     title_score: 10
     abstract_score: 5
     title_cap: 20
@@ -141,6 +148,8 @@ keywords:
       - molecular nanotube
       - carbon nanotube segment
       - finite carbon nanotube
+      - phenine nanotube
+      - phenine
       - carbon nanobelt
       - nanobelt
       - cycloparaphenylene
@@ -148,28 +157,111 @@ keywords:
       - nanographene
       - π-conjugated macrocycle
       - molecular nanocarbon
+      - macrocycle
+      - macrocyclic
+      - macrocyclic ligand
+      - chirality
+      - chiral
+      - stereogenic
+      - chiroptical
+      - circular dichroism
+      - electronic circular dichroism
+      - ECD
+      - vibrational circular dichroism
+      - VCD
+      - circularly polarized luminescence
+      - circularly polarized emission
+      - CPL
+      - helicity
+      - helical
+      - mechanical chirality
+      - topological chirality
+      - axial chirality
+      - planar chirality
+      - supramolecular chirality
+      - chiral-at-metal
+      - octahedral chirality
+      - atropisomerism
+      - chiral recognition
+      - chirality transfer
+      - chiral induction
+      - chiral amplification
+      - optical activity
+      - spontaneous symmetry breaking
 
   strong:
+    search_enabled: true
     title_score: 6
     abstract_score: 3
     title_cap: 12
     abstract_cap: 9
     terms:
-      - macrocycle
-      - macrocyclic
+      - cryptand
+      - cryptate
+      - crown ether
+      - macrocyclic complex
+      - coordination cage
       - supramolecular
+      - host–guest chemistry
       - host–guest
+      - molecular recognition
       - molecular cage
       - catenane
       - rotaxane
+      - mechanically interlocked molecule
       - interlocked molecule
       - self-assembly
+      - coordination-driven self-assembly
       - crystal packing
       - solid-state packing
       - aromaticity
       - antiaromaticity
       - open-shell
       - through-space conjugation
+      - alkali metal complex
+      - s-block metal complex
+      - lithium complex
+      - sodium complex
+      - potassium complex
+      - rubidium complex
+      - cesium complex
+      - argentophilic
+      - argentophilicity
+      - metallophilic
+      - silver complex
+      - lanthanide complex
+      - lanthanide coordination complex
+
+  weak:
+    search_enabled: false
+    title_score: 3
+    abstract_score: 1
+    title_cap: 6
+    abstract_cap: 4
+    terms:
+      - single-crystal X-ray diffraction
+      - single-crystal X-ray analysis
+      - single crystal structure
+      - X-ray crystallography
+      - SCXRD
+      - MicroED
+      - electron diffraction
+      - crystal structure
+      - solid-state structure
+      - variable-temperature NMR
+      - VT NMR
+      - dynamic NMR
+      - conformational dynamics
+      - conformational exchange
+      - dynamic chirality
+      - dynamic stereochemistry
+      - racemization dynamics
+      - stereomutation
+      - excited-state dynamics
+      - excited-state chirality
+      - transient absorption
+      - femtosecond transient absorption
+      - time-resolved spectroscopy
 
 # Exclusion / "ドボン" keywords. Penalties are applied separately to title and abstract.
 exclusion_keywords:
@@ -194,14 +286,10 @@ exclusion_keywords:
     - polymer membrane
 
 # OpenAI Japanese summary settings.
-# The default model balances quality and cost. Change only the model line if needed.
 ai_summary:
   enabled: true
   model: gpt-5.6-sol
 
-  # Sol is used for higher-quality scientific Japanese. Short summarization
-  # does not need hidden reasoning. This prevents the model
-  # from spending the entire output budget before writing visible text.
   reasoning_effort: none
   fallback_reasoning_effort: low
 
@@ -209,17 +297,11 @@ ai_summary:
   minimum_characters: 85
   maximum_characters: 135
 
-  # One repair call is made only when the Japanese draft is incomplete,
-  # unnatural, outside the range, or lacks a final Japanese full stop.
   quality_revision_attempts: 1
-
   request_attempts: 3
   request_timeout_seconds: 120
 
-  # max_output_tokens includes hidden reasoning tokens as well as visible text.
-  # The second value is used automatically only after an incomplete response.
   max_output_tokens: 2048
   retry_max_output_tokens: 8192
 
-  # Used only when every Japanese AI summary fails validation.
   english_fallback_max_characters: 420

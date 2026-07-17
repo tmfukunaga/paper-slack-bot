@@ -68,6 +68,7 @@ def validate_config(config: dict[str, Any]) -> None:
         "lookback_publication_days",
         "pages_per_query",
         "results_per_page",
+        "search_terms_per_query",
         "slack_pause_seconds",
     ):
         if key not in runtime:
@@ -80,6 +81,8 @@ def validate_config(config: dict[str, Any]) -> None:
         raise ConfigError("runtime.pages_per_query must be at least 1.")
     if not 1 <= int(runtime["results_per_page"]) <= 100:
         raise ConfigError("runtime.results_per_page must be between 1 and 100.")
+    if int(runtime["search_terms_per_query"]) < 1:
+        raise ConfigError("runtime.search_terms_per_query must be at least 1.")
 
     posting = _require_mapping(root["posting"], "posting")
     for key in (
@@ -146,10 +149,14 @@ def validate_config(config: dict[str, Any]) -> None:
 
     keyword_groups = _require_mapping(root["keywords"], "keywords")
     seen_terms: dict[str, str] = {}
-    for group_name in ("core", "strong"):
+    for group_name in ("core", "strong", "weak"):
         if group_name not in keyword_groups:
             raise ConfigError(f"Missing required setting: keywords.{group_name}")
         group = _require_mapping(keyword_groups[group_name], f"keywords.{group_name}")
+        if not isinstance(group.get("search_enabled"), bool):
+            raise ConfigError(
+                f"keywords.{group_name}.search_enabled must be true or false."
+            )
         for score_key in ("title_score", "abstract_score", "title_cap", "abstract_cap"):
             if score_key not in group:
                 raise ConfigError(

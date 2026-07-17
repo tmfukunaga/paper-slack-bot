@@ -24,6 +24,13 @@ def _boolean_query(terms: list[str]) -> str:
     return "(" + " OR ".join(operands) + ")"
 
 
+
+def _chunk_terms(terms: list[str], size: int) -> list[list[str]]:
+    if size < 1:
+        raise ValueError("search term chunk size must be at least 1")
+    return [terms[index:index + size] for index in range(0, len(terms), size)]
+
+
 def _paper_from_work(work: dict[str, Any]) -> Paper | None:
     doi = normalize_doi(work.get("doi") or "")
     if not doi:
@@ -154,9 +161,12 @@ def fetch_candidates(
         days=int(runtime["lookback_publication_days"])
     )
 
+    terms_per_query = int(runtime.get("search_terms_per_query", 10))
     queries = [
-        _boolean_query(config["keywords"]["core"]["terms"]),
-        _boolean_query(config["keywords"]["strong"]["terms"]),
+        _boolean_query(term_chunk)
+        for group in config["keywords"].values()
+        if bool(group.get("search_enabled", True))
+        for term_chunk in _chunk_terms(group["terms"], terms_per_query)
     ]
 
     papers: dict[str, Paper] = {}

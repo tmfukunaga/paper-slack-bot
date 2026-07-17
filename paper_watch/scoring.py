@@ -19,6 +19,8 @@ class ScoreResult:
     core_abstract: list[str]
     strong_title: list[str]
     strong_abstract: list[str]
+    weak_title: list[str]
+    weak_abstract: list[str]
     exclude_title: list[str]
     exclude_abstract: list[str]
 
@@ -29,6 +31,8 @@ class ScoreResult:
             or self.core_abstract
             or self.strong_title
             or self.strong_abstract
+            or self.weak_title
+            or self.weak_abstract
         )
 
 
@@ -100,6 +104,7 @@ def journal_score(journal: str, config: dict[str, Any]) -> tuple[str, int]:
 def score_paper(paper: Paper, config: dict[str, Any]) -> ScoreResult:
     core = config["keywords"]["core"]
     strong = config["keywords"]["strong"]
+    weak = config["keywords"]["weak"]
     exclude = config["exclusion_keywords"]
 
     core_title = _non_overlapping_matches(paper.title, core["terms"])
@@ -111,6 +116,11 @@ def score_paper(paper: Paper, config: dict[str, Any]) -> ScoreResult:
     strong_abstract = _non_overlapping_matches(
         paper.abstract_original,
         strong["terms"],
+    )
+    weak_title = _non_overlapping_matches(paper.title, weak["terms"])
+    weak_abstract = _non_overlapping_matches(
+        paper.abstract_original,
+        weak["terms"],
     )
     exclude_title = _non_overlapping_matches(
         paper.title,
@@ -140,6 +150,14 @@ def score_paper(paper: Paper, config: dict[str, Any]) -> ScoreResult:
         len(strong_abstract) * int(strong["abstract_score"]),
         int(strong["abstract_cap"]),
     )
+    keyword_score += min(
+        len(weak_title) * int(weak["title_score"]),
+        int(weak["title_cap"]),
+    )
+    keyword_score += min(
+        len(weak_abstract) * int(weak["abstract_score"]),
+        int(weak["abstract_cap"]),
+    )
 
     exclusion_penalty = 0
     exclusion_penalty += min(
@@ -163,6 +181,8 @@ def score_paper(paper: Paper, config: dict[str, Any]) -> ScoreResult:
         core_abstract=core_abstract,
         strong_title=strong_title,
         strong_abstract=strong_abstract,
+        weak_title=weak_title,
+        weak_abstract=weak_abstract,
         exclude_title=exclude_title,
         exclude_abstract=exclude_abstract,
     )
@@ -188,6 +208,8 @@ def apply_score(
     paper.matched_core_abstract = result.core_abstract
     paper.matched_strong_title = result.strong_title
     paper.matched_strong_abstract = result.strong_abstract
+    paper.matched_weak_title = result.weak_title
+    paper.matched_weak_abstract = result.weak_abstract
     paper.matched_exclude_title = result.exclude_title
     paper.matched_exclude_abstract = result.exclude_abstract
 
@@ -196,6 +218,8 @@ def apply_score(
         + result.core_abstract
         + result.strong_title
         + result.strong_abstract
+        + result.weak_title
+        + result.weak_abstract
     )
     unique_positive = list(dict.fromkeys(positive))
     maximum = int(config["posting"]["maximum_tags_displayed"])
