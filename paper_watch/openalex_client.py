@@ -18,7 +18,8 @@ BASE_URL = "https://api.openalex.org/works"
 
 
 def _boolean_query(terms: list[str]) -> str:
-    operands = []
+    """Create an OR query from a list of phrases."""
+    operands: list[str] = []
 
     for term in terms:
         escaped = term.replace('"', '\\"')
@@ -28,6 +29,7 @@ def _boolean_query(terms: list[str]) -> str:
 
 
 def _paper_from_work(work: dict[str, Any]) -> Paper | None:
+    """Convert an OpenAlex work record into a Paper object."""
     doi = normalize_doi(work.get("doi") or "")
 
     if not doi:
@@ -62,6 +64,7 @@ def _get_with_retry(
     params: dict[str, Any],
     max_attempts: int = 6,
 ) -> requests.Response:
+    """Request OpenAlex with retry handling for temporary errors."""
     contact_email = os.environ.get("CONTACT_EMAIL", "")
 
     headers = {
@@ -98,6 +101,16 @@ def _get_with_retry(
             error_text,
         )
 
+        # A paid-plan requirement will not be fixed by waiting.
+        if (
+            response.status_code == 429
+            and "Plan upgrade required" in response.text
+        ):
+            raise RuntimeError(
+                "OpenAlex rejected a paid-plan-only API feature: "
+                f"{error_text}"
+            )
+
         if response.status_code == 429:
             retry_after = response.headers.get("Retry-After")
 
@@ -107,7 +120,8 @@ def _get_with_retry(
                 wait_seconds = waits[attempt]
 
             LOGGER.warning(
-                "OpenAlex 429. Waiting %s seconds before retry %s/%s.",
+                "OpenAlex rate limit encountered. "
+                "Waiting %s seconds before retry %s/%s.",
                 wait_seconds,
                 attempt + 1,
                 max_attempts,
@@ -120,8 +134,11 @@ def _get_with_retry(
             wait_seconds = waits[attempt]
 
             LOGGER.warning(
-                "OpenAlex server error. Waiting %s seconds before retry.",
+                "OpenAlex server error. "
+                "Waiting %s seconds before retry %s/%s.",
                 wait_seconds,
+                attempt + 1,
+                max_attempts,
             )
 
             time.sleep(wait_seconds)
@@ -139,14 +156,12 @@ def fetch_candidates(
     api_key: str,
     config: dict[str, Any],
 ) -> list[Paper]:
+    """Fetch recent candidate papers from OpenAlex."""
     runtime = config["runtime"]
 
     today = date.today()
 
-    created_from = today - timedelta(
-        days=int(runtime["lookback_created_days"])
-    )
-
+    # from_created_date is not used because it requires a paid OpenAlex plan.
     published_from = today - timedelta(
         days=int(runtime["lookback_publication_days"])
     )
@@ -167,9 +182,9 @@ def fetch_candidates(
                 "api_key": api_key,
                 "search": query,
                 "filter": (
-                    f"from_created_date:{created_from.isoformat()},"
                     f"from_publication_date:{published_from.isoformat()},"
-                    "has_doi:true,type:article|review"
+                    "has_doi:true,"
+                    "type:article|review"
                 ),
                 "sort": "publication_date:desc",
                 "per_page": min(
@@ -200,6 +215,7 @@ def fetch_candidates(
             if len(results) < int(runtime["results_per_page"]):
                 break
 
+            # Avoid sending consecutive requests too quickly.
             time.sleep(1)
 
     return list(papers.values())
