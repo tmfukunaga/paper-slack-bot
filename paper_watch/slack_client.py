@@ -33,18 +33,8 @@ def build_paper_blocks(paper: Paper) -> list[dict[str, Any]]:
                     f"{_author_line(paper.authors)}\n"
                     f"{escape_slack_mrkdwn(paper.journal or '雑誌名不明')} | "
                     f"{escape_slack_mrkdwn(paper.publication_date or '公開日不明')}\n"
-                    f"*Score: {paper.score} = keyword {paper.keyword_score} "
-                    f"+ journal {paper.journal_score} "
-                    f"- exclusion {paper.exclusion_penalty} "
-                    f"| Journal tier: {paper.journal_tier}*"
+                    f"*Score: {paper.score}, Matched keywords: {tag_line}*"
                 ),
-            },
-        },
-        {
-            "type": "section",
-            "text": {
-                "type": "mrkdwn",
-                "text": f"*Matched keywords*\n{tag_line}",
             },
         },
         {
