@@ -1,0 +1,270 @@
+timezone: Asia/Tokyo
+runtime:
+  post_threshold: 15
+  lookback_created_days: 3
+  lookback_publication_days: 21
+  pages_per_query: 2
+  results_per_page: 100
+  slack_pause_seconds: 1.2
+  daily_target: 30
+translation:
+  model: Helsinki-NLP/opus-mt-en-jap
+  max_input_tokens: 400
+  batch_size: 8
+  num_beams: 4
+journals:
+  tier_s:
+    score: 10
+    journals:
+    - canonical: Nature
+      aliases:
+      - Nature
+    - canonical: Science
+      aliases:
+      - Science
+    - canonical: Nature Chemistry
+      aliases:
+      - Nature Chemistry
+      - Nat Chem
+      - Nat. Chem.
+    - canonical: Nature Synthesis
+      aliases:
+      - Nature Synthesis
+      - Nat Synth
+      - Nat. Synth.
+    - canonical: Nature Communications
+      aliases:
+      - Nature Communications
+      - Nat Commun
+      - Nat. Commun.
+    - canonical: Journal of the American Chemical Society
+      aliases:
+      - Journal of the American Chemical Society
+      - J Am Chem Soc
+      - J. Am. Chem. Soc.
+      - JACS
+    - canonical: Angewandte Chemie International Edition
+      aliases:
+      - Angewandte Chemie International Edition
+      - Angew Chem Int Ed
+      - Angew. Chem. Int. Ed.
+    - canonical: Chem
+      aliases:
+      - Chem
+  tier_a:
+    score: 7
+    journals:
+    - canonical: Proceedings of the National Academy of Sciences
+      aliases:
+      - Proceedings of the National Academy of Sciences
+      - Proceedings of the National Academy of Sciences of the United States of America
+      - PNAS
+      - Proc Natl Acad Sci USA
+      - Proc. Natl. Acad. Sci. U.S.A.
+    - canonical: Chemical Science
+      aliases:
+      - Chemical Science
+      - Chem Sci
+      - Chem. Sci.
+    - canonical: Science Advances
+      aliases:
+      - Science Advances
+      - Sci Adv
+      - Sci. Adv.
+    - canonical: JACS Au
+      aliases:
+      - JACS Au
+    - canonical: ACS Central Science
+      aliases:
+      - ACS Central Science
+      - ACS Cent Sci
+      - ACS Cent. Sci.
+    - canonical: CCS Chemistry
+      aliases:
+      - CCS Chemistry
+      - CCS Chem.
+    - canonical: National Science Review
+      aliases:
+      - National Science Review
+      - Natl Sci Rev
+      - Natl. Sci. Rev.
+  tier_b:
+    score: 4
+    journals:
+    - canonical: Organic Letters
+      aliases:
+      - Organic Letters
+      - Org Lett
+      - Org. Lett.
+    - canonical: The Journal of Organic Chemistry
+      aliases:
+      - The Journal of Organic Chemistry
+      - Journal of Organic Chemistry
+      - J Org Chem
+      - J. Org. Chem.
+    - canonical: Chemistry – A European Journal
+      aliases:
+      - Chemistry – A European Journal
+      - Chemistry - A European Journal
+      - Chemistry—A European Journal
+      - Chem Eur J
+      - Chem. Eur. J.
+    - canonical: Chemistry – An Asian Journal
+      aliases:
+      - Chemistry – An Asian Journal
+      - Chemistry - An Asian Journal
+      - Chemistry—An Asian Journal
+      - Chem Asian J
+      - Chem. Asian J.
+    - canonical: Chemical Communications
+      aliases:
+      - Chemical Communications
+      - Chem Commun
+      - Chem. Commun.
+    - canonical: Chemistry Letters
+      aliases:
+      - Chemistry Letters
+      - Chem Lett
+      - Chem. Lett.
+    - canonical: European Journal of Organic Chemistry
+      aliases:
+      - European Journal of Organic Chemistry
+      - Eur J Org Chem
+      - Eur. J. Org. Chem.
+    - canonical: Asian Journal of Organic Chemistry
+      aliases:
+      - Asian Journal of Organic Chemistry
+      - Asian J Org Chem
+      - Asian J. Org. Chem.
+    - canonical: Bulletin of the Chemical Society of Japan
+      aliases:
+      - Bulletin of the Chemical Society of Japan
+      - Bull Chem Soc Jpn
+      - Bull. Chem. Soc. Jpn.
+    - canonical: ACS Nano
+      aliases:
+      - ACS Nano
+    - canonical: Nano Letters
+      aliases:
+      - Nano Letters
+      - Nano Lett
+      - Nano Lett.
+    - canonical: Advanced Materials
+      aliases:
+      - Advanced Materials
+      - Adv Mater
+      - Adv. Mater.
+    - canonical: Advanced Science
+      aliases:
+      - Advanced Science
+      - Adv Sci
+      - Adv. Sci.
+    - canonical: Small
+      aliases:
+      - Small
+    - canonical: Journal of Materials Chemistry C
+      aliases:
+      - Journal of Materials Chemistry C
+      - J Mater Chem C
+      - J. Mater. Chem. C
+    - canonical: Chemistry of Materials
+      aliases:
+      - Chemistry of Materials
+      - Chem Mater
+      - Chem. Mater.
+    - canonical: Macromolecules
+      aliases:
+      - Macromolecules
+keywords:
+  core:
+    title_score: 10
+    abstract_score: 5
+    title_cap: 20
+    abstract_cap: 15
+    terms:
+    - molecular nanotube
+    - carbon nanotube segment
+    - finite carbon nanotube
+    - carbon nanobelt
+    - nanobelt
+    - cycloparaphenylene
+    - CPP
+    - nanographene
+    - π-conjugated macrocycle
+    - pi-conjugated macrocycle
+    - molecular nanocarbon
+  strong:
+    title_score: 6
+    abstract_score: 3
+    title_cap: 12
+    abstract_cap: 9
+    terms:
+    - macrocycle
+    - macrocyclic
+    - supramolecular
+    - host–guest
+    - host-guest
+    - molecular cage
+    - catenane
+    - rotaxane
+    - interlocked molecule
+    - self-assembly
+    - crystal packing
+    - solid-state packing
+    - aromaticity
+    - antiaromaticity
+    - open-shell
+    - through-space conjugation
+  exclude:
+    title_penalty: 12
+    abstract_penalty: 8
+    title_cap: 24
+    abstract_cap: 16
+    terms:
+    - peptide
+    - protein
+    - DNA
+    - RNA
+    - drug delivery
+    - biomedical
+    - biosensor
+    - cell imaging
+    - cancer
+    - enzyme
+    - supercapacitor
+    - electrocatalysis
+    - photovoltaic
+    - polymer membrane
+  ambiguous:
+    terms:
+    - CPP
+    required_context:
+    - chemistry
+    - chemical
+    - molecule
+    - molecular
+    - synthesis
+    - synthetic
+    - carbon
+    - conjugated
+    - aromatic
+    - macrocycle
+    - cycloparaphenylene
+graphical_abstract:
+  enabled: true
+  timeout_seconds: 20
+  min_width: 300
+  min_height: 150
+  max_download_bytes: 6000000
+  minimum_candidate_score: 75
+  reject_url_terms:
+  - logo
+  - favicon
+  - icon
+  - avatar
+  - brand
+  - placeholder
+  - default-image
+  - journal-cover
+  - cover-image
+  - social-card
