@@ -104,7 +104,7 @@ def test_exclusion_penalty_filters_peptide_cpp_by_score():
     )
     assert "CPP" in result.core_title
     assert "peptide" in result.exclude_title
-    assert result.score < int(CONFIG["posting"]["minimum_total_score"])
+    assert result.score < int(CONFIG["posting"]["conditional_minimum_score"])
 
 
 def test_tags_contain_only_positive_matches():
@@ -163,6 +163,7 @@ def test_slack_message_contains_summary_not_english_abstract():
     result = score_paper(item, CONFIG)
     apply_score(item, result, CONFIG)
     item.summary_japanese = "macrocycleの新規合成法を開発し、構造解析により高い円筒性と自己集合挙動を明らかにした。"
+    item.summary_language = "ja"
 
     blocks = build_paper_blocks(item)
     rendered = "\n".join(

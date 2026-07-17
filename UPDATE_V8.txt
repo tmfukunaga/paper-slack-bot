@@ -1,0 +1,8 @@
+V8 update
+
+- Score 15 or above: post all, unaffected by the per-run and daily soft targets.
+- Score 11-14: post in descending score order only while fewer than 3 papers
+  have been posted in the current run and fewer than 30 have been posted today.
+- Score 10 or below: reject.
+- Failed summaries/posts do not consume a slot; the next conditional paper is tried.
+- All thresholds are editable in config.yaml.

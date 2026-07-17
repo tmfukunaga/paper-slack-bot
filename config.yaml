@@ -11,10 +11,16 @@ runtime:
   pages_per_query: 2
   results_per_page: 100
   slack_pause_seconds: 1.2
-  daily_target: 30
 
 posting:
-  minimum_total_score: 15
+  # Score 15 or above: post regardless of the soft volume targets.
+  guaranteed_score: 15
+
+  # Score 11-14: use only as filler while both soft targets remain.
+  conditional_minimum_score: 11
+  target_posts_per_run: 3
+  target_posts_per_day: 30
+
   minimum_keyword_score: 3
   maximum_tags_displayed: 12
 
@@ -191,12 +197,29 @@ exclusion_keywords:
 # The default model balances quality and cost. Change only the model line if needed.
 ai_summary:
   enabled: true
-  model: gpt-5.6-terra
-  reasoning_effort: low
+  model: gpt-5.6-sol
+
+  # Sol is used for higher-quality scientific Japanese. Short summarization
+  # does not need hidden reasoning. This prevents the model
+  # from spending the entire output budget before writing visible text.
+  reasoning_effort: none
+  fallback_reasoning_effort: low
+
   target_characters: 100
-  minimum_characters: 90
-  maximum_characters: 120
-  length_revision_attempts: 1
-  request_attempts: 4
-  request_timeout_seconds: 90
-  max_output_tokens: 512
+  minimum_characters: 85
+  maximum_characters: 135
+
+  # One repair call is made only when the Japanese draft is incomplete,
+  # unnatural, outside the range, or lacks a final Japanese full stop.
+  quality_revision_attempts: 1
+
+  request_attempts: 3
+  request_timeout_seconds: 120
+
+  # max_output_tokens includes hidden reasoning tokens as well as visible text.
+  # The second value is used automatically only after an incomplete response.
+  max_output_tokens: 2048
+  retry_max_output_tokens: 8192
+
+  # Used only when every Japanese AI summary fails validation.
+  english_fallback_max_characters: 420

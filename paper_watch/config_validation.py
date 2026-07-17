@@ -69,7 +69,6 @@ def validate_config(config: dict[str, Any]) -> None:
         "pages_per_query",
         "results_per_page",
         "slack_pause_seconds",
-        "daily_target",
     ):
         if key not in runtime:
             raise ConfigError(f"Missing required setting: runtime.{key}")
@@ -84,7 +83,10 @@ def validate_config(config: dict[str, Any]) -> None:
 
     posting = _require_mapping(root["posting"], "posting")
     for key in (
-        "minimum_total_score",
+        "guaranteed_score",
+        "conditional_minimum_score",
+        "target_posts_per_run",
+        "target_posts_per_day",
         "minimum_keyword_score",
         "maximum_tags_displayed",
     ):
@@ -93,6 +95,15 @@ def validate_config(config: dict[str, Any]) -> None:
         _require_number(posting[key], f"posting.{key}", minimum=0)
     if int(posting["maximum_tags_displayed"]) < 1:
         raise ConfigError("posting.maximum_tags_displayed must be at least 1.")
+    if int(posting["conditional_minimum_score"]) >= int(posting["guaranteed_score"]):
+        raise ConfigError(
+            "posting.conditional_minimum_score must be lower than "
+            "posting.guaranteed_score."
+        )
+    if int(posting["target_posts_per_run"]) < 1:
+        raise ConfigError("posting.target_posts_per_run must be at least 1.")
+    if int(posting["target_posts_per_day"]) < 1:
+        raise ConfigError("posting.target_posts_per_day must be at least 1.")
 
     tiers = _require_mapping(root["journal_tiers"], "journal_tiers")
     if not tiers:
@@ -186,20 +197,28 @@ def validate_config(config: dict[str, Any]) -> None:
         raise ConfigError("ai_summary.enabled must be true.")
     if not isinstance(summary.get("model"), str) or not summary["model"].strip():
         raise ConfigError("ai_summary.model must be a non-empty string.")
-    allowed_effort = {"none", "low", "medium", "high", "xhigh", "max"}
+    allowed_effort = {"none", "minimal", "low", "medium", "high", "xhigh"}
     if summary.get("reasoning_effort") not in allowed_effort:
         raise ConfigError(
             "ai_summary.reasoning_effort must be one of: "
+            + ", ".join(sorted(allowed_effort))
+        )
+    fallback_effort = summary.get("fallback_reasoning_effort")
+    if fallback_effort not in allowed_effort:
+        raise ConfigError(
+            "ai_summary.fallback_reasoning_effort must be one of: "
             + ", ".join(sorted(allowed_effort))
         )
     for key in (
         "target_characters",
         "minimum_characters",
         "maximum_characters",
-        "length_revision_attempts",
+        "quality_revision_attempts",
         "request_attempts",
         "request_timeout_seconds",
         "max_output_tokens",
+        "retry_max_output_tokens",
+        "english_fallback_max_characters",
     ):
         if key not in summary:
             raise ConfigError(f"Missing required setting: ai_summary.{key}")
@@ -215,5 +234,9 @@ def validate_config(config: dict[str, Any]) -> None:
         )
     if int(summary["request_attempts"]) < 1:
         raise ConfigError("ai_summary.request_attempts must be at least 1.")
-    if int(summary["max_output_tokens"]) < 64:
-        raise ConfigError("ai_summary.max_output_tokens must be at least 64.")
+    if int(summary["max_output_tokens"]) < 512:
+        raise ConfigError("ai_summary.max_output_tokens must be at least 512.")
+    if int(summary["retry_max_output_tokens"]) < int(summary["max_output_tokens"]):
+        raise ConfigError(
+            "ai_summary.retry_max_output_tokens must be at least max_output_tokens."
+        )

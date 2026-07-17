@@ -29,6 +29,8 @@ class Paper:
     summary_japanese: str = ""
     summary_model: str = ""
     summary_character_count: int = 0
+    summary_language: str = "ja"
+    summary_used_fallback: bool = False
 
     @property
     def key(self) -> str:

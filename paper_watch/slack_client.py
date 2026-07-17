@@ -20,7 +20,8 @@ def _author_line(authors: list[str]) -> str:
 
 def build_paper_blocks(paper: Paper) -> list[dict[str, Any]]:
     tag_line = " ".join(paper.tags) or "なし"
-    summary = paper.summary_japanese or "要約を生成できませんでした。"
+    summary = paper.summary_japanese or "Summary was unavailable."
+    summary_label = "要約" if paper.summary_language == "ja" else "Summary (English fallback)"
 
     return [
         {
@@ -50,7 +51,7 @@ def build_paper_blocks(paper: Paper) -> list[dict[str, Any]]:
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": f"*要約*\n{escape_slack_mrkdwn(summary)}",
+                "text": f"*{summary_label}*\n{escape_slack_mrkdwn(summary)}",
             },
         },
         {

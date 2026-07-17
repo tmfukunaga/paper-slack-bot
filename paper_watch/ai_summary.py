@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import logging
 import re
 import time
@@ -13,7 +14,13 @@ RESPONSES_URL = "https://api.openai.com/v1/responses"
 
 
 class SummaryError(RuntimeError):
-    """Raised when a reliable Japanese summary cannot be generated."""
+    """Raised when neither an AI summary nor a safe fallback can be produced."""
+
+
+class OpenAIRequestError(SummaryError):
+    def __init__(self, status_code: int, message: str) -> None:
+        super().__init__(message)
+        self.status_code = status_code
 
 
 @dataclass(frozen=True)
@@ -21,6 +28,8 @@ class SummaryResult:
     text: str
     model: str
     character_count: int
+    language: str
+    used_fallback: bool = False
 
 
 def summary_character_count(text: str) -> int:
@@ -31,9 +40,14 @@ def summary_character_count(text: str) -> int:
 def clean_summary(text: str) -> str:
     """Remove common wrappers while preserving chemistry notation."""
     value = (text or "").strip()
-    value = re.sub(r"^```(?:text|markdown)?\s*", "", value, flags=re.I)
+    value = re.sub(r"^```(?:text|markdown|json)?\s*", "", value, flags=re.I)
     value = re.sub(r"\s*```$", "", value)
-    value = re.sub(r"^(?:要約|日本語要約|Summary)\s*[:：]\s*", "", value, flags=re.I)
+    value = re.sub(
+        r"^(?:要約|日本語要約|Summary|English summary)\s*[:：]\s*",
+        "",
+        value,
+        flags=re.I,
+    )
     value = value.replace("**", "")
     value = re.sub(r"\s+", " ", value).strip()
     if len(value) >= 2 and value[0] in "\"'“”『「" and value[-1] in "\"'“”』」":
@@ -59,6 +73,24 @@ def extract_output_text(payload: dict[str, Any]) -> str:
     return "\n".join(parts).strip()
 
 
+def extract_structured_summaries(payload: dict[str, Any]) -> tuple[str, str]:
+    """Read Japanese and English summaries from a structured response."""
+    raw = extract_output_text(payload)
+    if not raw:
+        return "", ""
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError:
+        LOGGER.warning("OpenAI structured output was not valid JSON: %s", raw[:300])
+        return "", ""
+    if not isinstance(data, dict):
+        return "", ""
+    return (
+        clean_summary(str(data.get("summary_ja") or "")),
+        clean_summary(str(data.get("summary_en") or "")),
+    )
+
+
 def build_summary_instructions(config: dict[str, Any]) -> str:
     summary = config["ai_summary"]
     minimum = int(summary["minimum_characters"])
@@ -67,16 +99,101 @@ def build_summary_instructions(config: dict[str, Any]) -> str:
 
     return (
         "あなたは有機化学・物理有機化学・材料化学に精通した学術編集者です。"
-        "与えられた論文タイトルとAbstractだけを根拠に、日本語で一文の要約を作成してください。\n"
-        f"- 目標は{target}字、許容範囲は{minimum}～{maximum}字です。\n"
-        "- 研究対象、何を行ったか、主要な結果または意義を、情報がある範囲で含めてください。\n"
-        "- Abstractにない内容、推測、誇張、評価を追加しないでください。\n"
-        "- 化合物名、材料名、分子名、反応名、略語、分子式は英語表記のままで構いません。"
-        "不自然な日本語訳を作らないでください。\n"
-        "- 数値、符号、化学式、立体化学表記は原文を尊重してください。\n"
-        "- 『本研究では』などの定型的な導入、見出し、箇条書き、引用符、注釈は不要です。\n"
-        "- 出力は要約本文だけにしてください。"
+        "論文タイトルとAbstractだけを根拠に、研究内容を正確かつ自然に圧縮してください。\n"
+        "日本語要約の規則:\n"
+        f"1. {target}字程度（許容範囲{minimum}～{maximum}字）で、一文または二文の完結した要約にする。\n"
+        "2. 研究対象、主要な方法または設計上の新規性、最重要の結果を必ず含める。"
+        "意義はAbstractに明記されている場合だけ含める。\n"
+        "3. 字数が足りない場合は背景説明を削り、研究対象・実施内容・主要結果を優先する。\n"
+        "4. 文を途中で切らない。名詞句や接続助詞で終えず、最後は必ず句点『。』で閉じる。\n"
+        "5. Abstractにない推測、誇張、評価、因果関係を追加しない。\n"
+        "6. 化合物名、材料名、分子名、反応名、略語、分子式は原文の英語表記のままで構いません。"
+        "ただし、助詞や述語を自然につなぎ、逐語訳調の不自然な日本語にしない。\n"
+        "7. 数値、単位、符号、化学式、立体化学表記は原文を尊重する。"
+        "数値は最重要なものだけを残す。\n"
+        "8. 『本研究では』などの定型句、見出し、箇条書き、引用符、注釈は不要。\n"
+        "9. 出力前に、主語と述語の対応、修飾関係、助詞、文末の完結性を内部で確認する。"
+        "英語の専門語を並べただけの文、数値や名詞句で終わる文、逐語訳調の文は不可。\n"
+        "英語要約の規則:\n"
+        "10. summary_enには、同じ内容を40～70 wordsの自然で完結した英語で記す。"
+        "日本語要約が検証に通らない場合の予備として使う。\n"
+        "11. 指定されたJSON以外は出力しない。"
     )
+
+
+def japanese_summary_issues(
+    text: str,
+    minimum: int,
+    maximum: int,
+) -> list[str]:
+    """Return reasons why a Japanese summary is unsafe to post."""
+    value = clean_summary(text)
+    issues: list[str] = []
+    count = summary_character_count(value)
+    if count < minimum:
+        issues.append(f"too short ({count} < {minimum})")
+    if count > maximum:
+        issues.append(f"too long ({count} > {maximum})")
+    if not value.endswith("。"):
+        issues.append("does not end with Japanese full stop")
+    if len(re.findall(r"[ぁ-んァ-ヶ一-龯]", value)) < 10:
+        issues.append("insufficient Japanese text")
+    if re.search(r"(?:ABSTRACT|Title:|Abstract:|DOI:)", value, flags=re.I):
+        issues.append("contains source-field label")
+    if value.count("(") != value.count(")") or value.count("[") != value.count("]"):
+        issues.append("unbalanced brackets")
+    if re.search(r"(?:、|・|:|：|;|；|\b(?:and|or))\s*。?$", value, flags=re.I):
+        issues.append("appears to end mid-list")
+    if re.search(r"(?:および|または|ならびに|による|により|として|を通じて|において)\s*。?$", value):
+        issues.append("appears to end with a connective phrase")
+    return issues
+
+
+def english_summary_is_valid(text: str) -> bool:
+    value = clean_summary(text)
+    words = re.findall(r"\b[\w'’-]+\b", value)
+    return (
+        20 <= len(words) <= 100
+        and value.endswith((".", "!", "?"))
+        and not re.search(r"(?:ABSTRACT|Title:|Abstract:|DOI:)", value, flags=re.I)
+    )
+
+
+def extractive_english_fallback(abstract: str, maximum: int = 420) -> str:
+    """Create a deterministic, non-hallucinatory English fallback excerpt."""
+    value = re.sub(r"^\s*ABSTRACT\s*", "", abstract or "", flags=re.I)
+    value = re.sub(r"\s+", " ", value).strip()
+    if not value:
+        return ""
+
+    sentences = re.split(r"(?<=[.!?])\s+", value)
+    selected = ""
+    for sentence in sentences:
+        candidate = sentence.strip()
+        if not candidate:
+            continue
+        joined = f"{selected} {candidate}".strip()
+        if len(joined) > maximum:
+            break
+        selected = joined
+        if len(selected) >= 160:
+            break
+
+    if selected:
+        if not selected.endswith((".", "!", "?")):
+            selected += "."
+        return selected
+
+    clipped = value[: maximum - 1].rsplit(" ", 1)[0].rstrip(" ,;:")
+    return clipped + "…"
+
+
+def _response_usage(payload: dict[str, Any]) -> tuple[int, int]:
+    usage = payload.get("usage") or {}
+    output = int(usage.get("output_tokens") or 0)
+    details = usage.get("output_tokens_details") or {}
+    reasoning = int(details.get("reasoning_tokens") or 0)
+    return output, reasoning
 
 
 class OpenAISummarizer:
@@ -88,7 +205,36 @@ class OpenAISummarizer:
         self.settings = config["ai_summary"]
         self.instructions = build_summary_instructions(config)
 
-    def _request(self, user_input: str) -> dict[str, Any]:
+    def _response_schema(self) -> dict[str, Any]:
+        return {
+            "type": "json_schema",
+            "name": "paper_summary",
+            "description": "Japanese research summary plus an English fallback summary.",
+            "strict": True,
+            "schema": {
+                "type": "object",
+                "properties": {
+                    "summary_ja": {
+                        "type": "string",
+                        "description": "Complete natural Japanese summary ending with 。",
+                    },
+                    "summary_en": {
+                        "type": "string",
+                        "description": "Complete English fallback summary of 40 to 70 words.",
+                    },
+                },
+                "required": ["summary_ja", "summary_en"],
+                "additionalProperties": False,
+            },
+        }
+
+    def _request(
+        self,
+        user_input: str,
+        *,
+        effort: str,
+        max_output_tokens: int,
+    ) -> dict[str, Any]:
         attempts = int(self.settings["request_attempts"])
         timeout = float(self.settings["request_timeout_seconds"])
         waits = [5, 15, 30, 60]
@@ -97,8 +243,12 @@ class OpenAISummarizer:
             "model": self.settings["model"],
             "instructions": self.instructions,
             "input": user_input,
-            "reasoning": {"effort": self.settings["reasoning_effort"]},
-            "max_output_tokens": int(self.settings["max_output_tokens"]),
+            "reasoning": {"effort": effort},
+            "max_output_tokens": max_output_tokens,
+            "text": {
+                "verbosity": "low",
+                "format": self._response_schema(),
+            },
             "store": False,
         }
         headers = {
@@ -128,19 +278,18 @@ class OpenAISummarizer:
                 time.sleep(wait_seconds)
                 continue
 
-            if response.status_code == 200:
-                try:
-                    return response.json()
-                except ValueError as exc:
-                    raise SummaryError("OpenAI returned invalid JSON.") from exc
-
             try:
-                error_payload = response.json()
-                error_info = error_payload.get("error", {})
-                error_message = str(error_info.get("message") or error_payload)[:500]
+                payload = response.json()
             except ValueError:
-                error_message = response.text[:500]
+                payload = {}
 
+            if response.status_code == 200:
+                if not isinstance(payload, dict):
+                    raise SummaryError("OpenAI returned invalid JSON.")
+                return payload
+
+            error_info = payload.get("error", {}) if isinstance(payload, dict) else {}
+            error_message = str(error_info.get("message") or response.text or payload)[:500]
             last_error = f"HTTP {response.status_code}: {error_message}"
 
             if response.status_code == 429 or 500 <= response.status_code < 600:
@@ -161,20 +310,78 @@ class OpenAISummarizer:
                 time.sleep(wait_seconds)
                 continue
 
-            raise SummaryError(last_error)
+            raise OpenAIRequestError(response.status_code, last_error)
 
         raise SummaryError(f"OpenAI request failed after retries: {last_error}")
 
-    def _generate(self, user_input: str) -> str:
-        payload = self._request(user_input)
-        text = clean_summary(extract_output_text(payload))
-        if not text:
-            status = payload.get("status", "unknown")
-            incomplete = payload.get("incomplete_details")
-            raise SummaryError(
-                f"OpenAI returned no summary text (status={status}, incomplete={incomplete})."
+    def _generate_pair(self, user_input: str) -> tuple[str, str]:
+        primary_effort = str(self.settings["reasoning_effort"])
+        fallback_effort = str(self.settings.get("fallback_reasoning_effort", "low"))
+        primary_budget = int(self.settings["max_output_tokens"])
+        retry_budget = int(self.settings["retry_max_output_tokens"])
+
+        specs: list[tuple[str, int]] = [
+            (primary_effort, primary_budget),
+            (primary_effort, retry_budget),
+        ]
+        if fallback_effort != primary_effort:
+            specs.append((fallback_effort, retry_budget))
+
+        unique_specs: list[tuple[str, int]] = []
+        for spec in specs:
+            if spec not in unique_specs:
+                unique_specs.append(spec)
+
+        last_problem = ""
+        for effort, budget in unique_specs:
+            try:
+                payload = self._request(
+                    user_input,
+                    effort=effort,
+                    max_output_tokens=budget,
+                )
+            except OpenAIRequestError as exc:
+                # Some model snapshots may reject a particular effort level.
+                if exc.status_code == 400 and "effort" in str(exc).lower():
+                    LOGGER.warning(
+                        "OpenAI rejected reasoning effort=%s; trying fallback effort.",
+                        effort,
+                    )
+                    last_problem = str(exc)
+                    continue
+                raise
+
+            status = str(payload.get("status") or "unknown")
+            incomplete = payload.get("incomplete_details") or {}
+            reason = incomplete.get("reason") if isinstance(incomplete, dict) else None
+            output_tokens, reasoning_tokens = _response_usage(payload)
+
+            LOGGER.info(
+                "OpenAI summary response status=%s effort=%s max_output_tokens=%s "
+                "output_tokens=%s reasoning_tokens=%s",
+                status,
+                effort,
+                budget,
+                output_tokens,
+                reasoning_tokens,
             )
-        return text
+
+            if status == "incomplete" and reason == "max_output_tokens":
+                last_problem = (
+                    f"max_output_tokens reached at {budget} "
+                    f"(reasoning_tokens={reasoning_tokens})"
+                )
+                LOGGER.warning("%s; retrying with a larger/safer configuration.", last_problem)
+                continue
+
+            japanese, english = extract_structured_summaries(payload)
+            if japanese or english:
+                return japanese, english
+
+            last_problem = f"no structured summary text (status={status})"
+            LOGGER.warning("OpenAI returned %s; trying another configuration.", last_problem)
+
+        raise SummaryError(f"OpenAI generated no usable summary: {last_problem}")
 
     def summarize(self, title: str, abstract: str, doi: str = "") -> SummaryResult:
         if not abstract.strip():
@@ -183,47 +390,92 @@ class OpenAISummarizer:
         minimum = int(self.settings["minimum_characters"])
         maximum = int(self.settings["maximum_characters"])
         target = int(self.settings["target_characters"])
-        revision_attempts = int(self.settings["length_revision_attempts"])
+        revision_attempts = int(self.settings["quality_revision_attempts"])
 
         source = (
             f"Title:\n{title.strip()}\n\n"
             f"Abstract:\n{abstract.strip()}\n\n"
             f"DOI:\n{doi.strip() or 'not provided'}"
         )
-        candidates: list[str] = []
-        draft = self._generate(source)
-        candidates.append(draft)
 
-        for _ in range(revision_attempts):
-            count = summary_character_count(draft)
-            if minimum <= count <= maximum:
-                break
-            draft = self._generate(
-                source
-                + "\n\nPrevious draft:\n"
-                + draft
-                + f"\n\nThe previous draft was {count} characters. "
-                + f"Rewrite it to approximately {target} Japanese characters "
-                + f"and keep it within {minimum}–{maximum} characters."
+        japanese_candidates: list[str] = []
+        english_candidates: list[str] = []
+        try:
+            japanese, english = self._generate_pair(source)
+            if japanese:
+                japanese_candidates.append(japanese)
+            if english:
+                english_candidates.append(english)
+
+            for _ in range(revision_attempts):
+                if japanese_candidates:
+                    issues = japanese_summary_issues(
+                        japanese_candidates[-1],
+                        minimum,
+                        maximum,
+                    )
+                    if not issues:
+                        break
+                else:
+                    issues = ["Japanese summary was empty"]
+
+                repair_request = (
+                    source
+                    + "\n\nPrevious Japanese draft:\n"
+                    + (japanese_candidates[-1] if japanese_candidates else "(empty)")
+                    + "\n\nProblems to fix:\n- "
+                    + "\n- ".join(issues)
+                    + f"\n\nRewrite it as a complete, natural Japanese summary near {target} characters. "
+                    + "Do not merely shorten by cutting the ending."
+                )
+                repaired_ja, repaired_en = self._generate_pair(repair_request)
+                if repaired_ja:
+                    japanese_candidates.append(repaired_ja)
+                if repaired_en:
+                    english_candidates.append(repaired_en)
+
+        except SummaryError as exc:
+            LOGGER.error("AI summary generation failed for DOI=%s: %s", doi, exc)
+
+        valid_japanese = [
+            candidate
+            for candidate in japanese_candidates
+            if not japanese_summary_issues(candidate, minimum, maximum)
+        ]
+        if valid_japanese:
+            best = min(
+                valid_japanese,
+                key=lambda value: abs(summary_character_count(value) - target),
             )
-            candidates.append(draft)
-
-        best = min(
-            candidates,
-            key=lambda value: abs(summary_character_count(value) - target),
-        )
-        best_count = summary_character_count(best)
-        if not minimum <= best_count <= maximum:
-            LOGGER.warning(
-                "Summary length outside requested range: DOI=%s chars=%s range=%s-%s",
-                doi,
-                best_count,
-                minimum,
-                maximum,
+            return SummaryResult(
+                text=best,
+                model=str(self.settings["model"]),
+                character_count=summary_character_count(best),
+                language="ja",
+                used_fallback=False,
             )
 
-        return SummaryResult(
-            text=best,
-            model=str(self.settings["model"]),
-            character_count=best_count,
+        for candidate in reversed(english_candidates):
+            if english_summary_is_valid(candidate):
+                return SummaryResult(
+                    text=candidate,
+                    model=str(self.settings["model"]),
+                    character_count=summary_character_count(candidate),
+                    language="en",
+                    used_fallback=True,
+                )
+
+        deterministic = extractive_english_fallback(
+            abstract,
+            int(self.settings.get("english_fallback_max_characters", 420)),
         )
+        if deterministic:
+            return SummaryResult(
+                text=deterministic,
+                model="extractive-abstract-fallback",
+                character_count=summary_character_count(deterministic),
+                language="en",
+                used_fallback=True,
+            )
+
+        raise SummaryError("No Japanese, English, or extractive fallback summary was available.")
