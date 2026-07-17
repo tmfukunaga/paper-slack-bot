@@ -1,0 +1,138 @@
+{
+  "daily_counts": {
+    "2026-07-18": 10
+  },
+  "pending": [],
+  "posted": {
+    "10.1002/ange.1519414": {
+      "doi": "10.1002/ange.1519414",
+      "posted_at": "2026-07-17T16:21:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305265.854279",
+      "summary_character_count": 122,
+      "summary_japanese": "共通carbazole基盤から、NHを保護せず最大12本のC─C結合を形成する多重Scholl反応でHNGsを合成した。光学分割後、酸塩基でCPLが可逆的にオン／オフし、DMSO中では励起状態プロトン移動により赤方偏移した蛍光とCPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.1519414": {
+      "doi": "10.1002/anie.1519414",
+      "posted_at": "2026-07-17T16:20:42+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305242.052579",
+      "summary_character_count": 107,
+      "summary_japanese": "共通のtetrabromocarbazoleから、NHを保護せず最大12本のC─C結合を形成する多重Scholl反応でNH含有HNGsを合成した。塩基・酸処理によりCPLの赤方偏移と可逆的なオン・オフ切替を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.3322675": {
+      "doi": "10.1002/anie.3322675",
+      "posted_at": "2026-07-17T16:21:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305270.867399",
+      "summary_character_count": 99,
+      "summary_japanese": "B─O結合を組み込んだ17縮合環MR-TADF分子4B4N2Oを開発し、461 nm、FWHM 11 nmの青色発光とPLQY 99%を実現した。素子はEQE 40.3%、EL幅16 nmを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Tetraborylated Multiple Resonance Emitter Incorporating B─O Bond-Embedded pi-Extension for Ultra-Narrowband and High-Efficiency Blue Devices"
+    },
+    "10.1002/anie.3935543": {
+      "doi": "10.1002/anie.3935543",
+      "posted_at": "2026-07-17T16:20:37+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305236.973459",
+      "summary_character_count": 90,
+      "summary_japanese": "adamantyl、架橋部位、SA ligandを備えた自己集合性CDを設計し、ウイルス表面が協同的重合を核形成することで、細胞毒性なく複数のSARS-CoV-2変異株を阻害した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/chem.71369": {
+      "doi": "10.1002/chem.71369",
+      "posted_at": "2026-07-17T16:20:51+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305251.234009",
+      "summary_character_count": 106,
+      "summary_japanese": "anthraquinone核からpyran環を組み込んだ酸素ドープ分子nanographeneを3段階で合成し、LIB負極として評価した。比容量750 mAh/gを達成し、500サイクル超でも高い安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Oxygen-Doped Nanographene as High-Performance Anode Material in Lithium-Ion Batteries"
+    },
+    "10.1021/acs.chemmater.6c00828": {
+      "doi": "10.1021/acs.chemmater.6c00828",
+      "posted_at": "2026-07-17T16:20:56+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305256.191059",
+      "summary_character_count": 114,
+      "summary_japanese": "N-alkyl-D-galactonamideとmolybdenumの二核錯体を水中で形成し、酸性化で透明・可逆・チキソトロピー性ゲルを得た。自己集合により、2.8または3.9 nm間隔の高秩序molybdate配列を形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Metallogels and Molybdate Arrays Formed by Self-Assembly of Carbohydrate Molybdenum Complexes"
+    },
+    "10.1021/acs.jafc.6c03256": {
+      "doi": "10.1021/acs.jafc.6c03256",
+      "posted_at": "2026-07-17T16:20:46+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305246.171519",
+      "summary_character_count": 127,
+      "summary_japanese": "cyclodextrins、calixarenes、pillararenes、cucurbiturilsの精密なホスト–ゲスト認識を用いた除草剤の認識・検出・前処理・除去を総説し、選択的濃縮によるマトリックス効果とLODの低減、標的吸着・分解を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Herbicide Recognition, Sensing, and Removal Enabled by Supramolecular Macrocyclic Chemistry"
+    },
+    "10.1021/jacs.6c05337": {
+      "doi": "10.1021/jacs.6c05337",
+      "posted_at": "2026-07-17T16:21:00+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305260.819529",
+      "summary_character_count": 100,
+      "summary_japanese": "cyclotetrabenzoin由来の分子配列を組み込んだ高多孔性Zr-MOF SJTU-520は、C3H4を選択的に捕捉し、常温で高容量かつ効率的なC3H4/C3H6分離と良好な再利用性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Arraying Shape-Persistent Molecular Alkynyl Trap into Highly Porous and Robust Zirconium Metal-Organic Framework for Propyne Capture and Propyne/Propylene Separation"
+    },
+    "10.1021/jacs.6c09990": {
+      "doi": "10.1021/jacs.6c09990",
+      "posted_at": "2026-07-17T16:20:30+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305230.615509",
+      "summary_character_count": 89,
+      "summary_japanese": "反芳香族COTを組み込んだ二重らせん型BODIPY融合nanographene BNG2を合成・光学分割し、1800 nmまでの吸収とNIR-II域に及ぶ鏡像円二色性を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
+    },
+    "10.1021/jacs.6c11182": {
+      "doi": "10.1021/jacs.6c11182",
+      "posted_at": "2026-07-17T16:20:25+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784305225.121989",
+      "summary_character_count": 128,
+      "summary_japanese": "catechol修飾cycloparaphenyleneを動的boronate ester結合で同軸共有結合させ、連結流路と大きな内在空孔を持つ3種の多孔性有機シリンダーを合成した。うち1種はBET比表面積1241 m²·g⁻¹と優れたガス吸着能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Cycloparaphenylene-Derived Porous Organic Cylinders"
+    }
+  }
+}
