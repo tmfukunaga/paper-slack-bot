@@ -33,33 +33,37 @@ class ScoreResult:
 
 
 def _term_pattern(term: str) -> re.Pattern[str]:
-    # CPP is treated as an ordinary keyword. Exclusion terms and the final
-    # score threshold determine whether a paper is posted.
-    if term == "CPP":
-        return re.compile(r"(?<![A-Za-z0-9])CPPs?(?![A-Za-z0-9])")
-
     normalized = normalize_text(term).lower()
     escaped = re.escape(normalized).replace(r"\ ", r"\s+")
 
-    if normalized.endswith("y") and len(normalized) >= 2 and normalized[-2] not in "aeiou":
+    if (
+        normalized.endswith("y")
+        and len(normalized) >= 2
+        and normalized[-2] not in "aeiou"
+    ):
         escaped = escaped[:-1] + r"(?:y|ies)"
     elif not normalized.endswith("s"):
         escaped += r"s?"
 
-    return re.compile(rf"(?<![a-z0-9]){escaped}(?![a-z0-9])", re.IGNORECASE)
+    return re.compile(
+        rf"(?<![a-z0-9]){escaped}(?![a-z0-9])",
+        re.IGNORECASE,
+    )
 
 
 def _non_overlapping_matches(text: str, terms: list[str]) -> list[str]:
-    normalized = normalize_text(text)
-    lowered = normalized.lower()
+    normalized = normalize_text(text).lower()
     accepted_spans: list[tuple[int, int]] = []
     matched: list[str] = []
 
-    for term in sorted(terms, key=lambda x: len(normalize_text(x)), reverse=True):
-        source = normalized if term == "CPP" else lowered
+    for term in sorted(
+        terms,
+        key=lambda value: len(normalize_text(value)),
+        reverse=True,
+    ):
         pattern = _term_pattern(term)
 
-        for match in pattern.finditer(source):
+        for match in pattern.finditer(normalized):
             span = match.span()
             overlaps = any(
                 not (span[1] <= old[0] or span[0] >= old[1])
@@ -77,7 +81,7 @@ def _non_overlapping_matches(text: str, terms: list[str]) -> list[str]:
 def journal_score(journal: str, config: dict[str, Any]) -> tuple[str, int]:
     target = normalize_journal(journal)
 
-    for tier_name, tier in config["journals"].items():
+    for tier_name, tier in config["journal_tiers"].items():
         for item in tier["journals"]:
             aliases = item.get("aliases", []) + [item.get("canonical", "")]
             if any(
@@ -85,23 +89,37 @@ def journal_score(journal: str, config: dict[str, Any]) -> tuple[str, int]:
                 for alias in aliases
                 if alias
             ):
-                return tier_name.replace("tier_", "").upper(), int(tier["score"])
+                return (
+                    tier_name.replace("tier_", "").upper(),
+                    int(tier["score"]),
+                )
 
     return "unlisted", 0
 
 
 def score_paper(paper: Paper, config: dict[str, Any]) -> ScoreResult:
-    keyword_cfg = config["keywords"]
-    core = keyword_cfg["core"]
-    strong = keyword_cfg["strong"]
-    exclude = keyword_cfg["exclude"]
+    core = config["keywords"]["core"]
+    strong = config["keywords"]["strong"]
+    exclude = config["exclusion_keywords"]
 
     core_title = _non_overlapping_matches(paper.title, core["terms"])
-    core_abstract = _non_overlapping_matches(paper.abstract_original, core["terms"])
+    core_abstract = _non_overlapping_matches(
+        paper.abstract_original,
+        core["terms"],
+    )
     strong_title = _non_overlapping_matches(paper.title, strong["terms"])
-    strong_abstract = _non_overlapping_matches(paper.abstract_original, strong["terms"])
-    exclude_title = _non_overlapping_matches(paper.title, exclude["terms"])
-    exclude_abstract = _non_overlapping_matches(paper.abstract_original, exclude["terms"])
+    strong_abstract = _non_overlapping_matches(
+        paper.abstract_original,
+        strong["terms"],
+    )
+    exclude_title = _non_overlapping_matches(
+        paper.title,
+        exclude["terms"],
+    )
+    exclude_abstract = _non_overlapping_matches(
+        paper.abstract_original,
+        exclude["terms"],
+    )
 
     tier, j_score = journal_score(paper.journal, config)
 
@@ -156,7 +174,11 @@ def _slug(term: str) -> str:
     return value
 
 
-def apply_score(paper: Paper, result: ScoreResult) -> None:
+def apply_score(
+    paper: Paper,
+    result: ScoreResult,
+    config: dict[str, Any],
+) -> None:
     paper.score = result.score
     paper.keyword_score = result.keyword_score
     paper.journal_score = result.journal_score
@@ -176,8 +198,9 @@ def apply_score(paper: Paper, result: ScoreResult) -> None:
         + result.strong_abstract
     )
     unique_positive = list(dict.fromkeys(positive))
+    maximum = int(config["posting"]["maximum_tags_displayed"])
     paper.tags = [
         f"#{_slug(term)}"
-        for term in unique_positive[:8]
+        for term in unique_positive[:maximum]
         if _slug(term)
     ]

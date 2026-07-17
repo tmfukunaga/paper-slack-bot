@@ -137,6 +137,14 @@ def _get_with_retry(
     raise RuntimeError("OpenAlex request failed without a response.")
 
 
+def build_work_filter(published_from: date) -> str:
+    """Build a filter that is valid on OpenAlex's free API plan."""
+    return (
+        f"from_publication_date:{published_from.isoformat()},"
+        "has_doi:true,type:article|review|preprint"
+    )
+
+
 def fetch_candidates(
     api_key: str,
     config: dict[str, Any],
@@ -158,10 +166,7 @@ def fetch_candidates(
             params = {
                 "api_key": api_key,
                 "search": query,
-                "filter": (
-                    f"from_publication_date:{published_from.isoformat()},"
-                    "has_doi:true,type:article|review"
-                ),
+                "filter": build_work_filter(published_from),
                 "sort": "publication_date:desc",
                 "per_page": min(int(runtime["results_per_page"]), 100),
                 "page": page,

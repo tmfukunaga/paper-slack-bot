@@ -4,15 +4,16 @@ import argparse
 import json
 import logging
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import yaml
 from slack_sdk import WebClient
 
+from .article_image import ArticleImageFetcher
+from .config_validation import validate_config
 from .crossref_client import fetch_abstract
-from .graphical_abstract import find_graphical_abstract
 from .models import Paper
 from .openalex_client import fetch_candidates
 from .scoring import apply_score, score_paper
@@ -50,15 +51,11 @@ def current_local_date(config: dict) -> str:
 
 
 def eligible(paper: Paper, config: dict) -> bool:
-    has_positive = bool(
-        paper.matched_core_title
-        or paper.matched_core_abstract
-        or paper.matched_strong_title
-        or paper.matched_strong_abstract
+    posting = config["posting"]
+    return (
+        paper.score >= int(posting["minimum_total_score"])
+        and paper.keyword_score >= int(posting["minimum_keyword_score"])
     )
-
-    # No keyword can force a post. The final score must meet the threshold.
-    return has_positive and paper.score >= int(config["runtime"]["post_threshold"])
 
 
 def sort_key(paper: Paper) -> tuple[int, str, str]:
@@ -74,6 +71,7 @@ def main() -> None:
 
     with args.config.open("r", encoding="utf-8") as handle:
         config = yaml.safe_load(handle)
+    validate_config(config)
 
     openalex_key = require_env("OPENALEX_API_KEY", dry_run=args.dry_run)
     if args.dry_run and not openalex_key:
@@ -89,7 +87,7 @@ def main() -> None:
     scored: list[Paper] = []
     for paper in candidates:
         result = score_paper(paper, config)
-        apply_score(paper, result)
+        apply_score(paper, result, config)
 
         if paper.key in state["posted"]:
             continue
@@ -138,10 +136,9 @@ def main() -> None:
         if not paper.abstract_original:
             paper.abstract_original = fetch_abstract(paper.doi, contact_email)
 
-            # Recalculate after obtaining the abstract because it may add both
-            # positive and exclusion keywords.
+            # The abstract can add both positive and exclusion matches.
             result = score_paper(paper, config)
-            apply_score(paper, result)
+            apply_score(paper, result, config)
 
         if not eligible(paper, config):
             logging.info(
@@ -151,12 +148,6 @@ def main() -> None:
             )
             continue
 
-        # The image is optional. It is displayed only when retrieval succeeds.
-        paper.graphical_abstract_url = find_graphical_abstract(
-            paper.landing_page_url,
-            config,
-        )
-
         selected.append(paper)
 
     if selected:
@@ -164,14 +155,34 @@ def main() -> None:
         channel_id = require_env("SLACK_CHANNEL_ID")
         client = WebClient(token=slack_token)
 
-        posted = post_batch(
-            client,
-            channel_id,
-            selected,
-            float(config["runtime"]["slack_pause_seconds"]),
-        )
+        # Image paths are temporary, so retrieval and Slack upload occur in
+        # the same context.
+        with ArticleImageFetcher(config) as image_fetcher:
+            for paper in selected:
+                try:
+                    image = image_fetcher.fetch(
+                        paper.landing_page_url,
+                        paper.doi,
+                        paper.key,
+                    )
+                    if image is not None:
+                        paper.article_image_path = str(image.path)
+                        paper.article_image_method = image.method
+                except Exception as exc:
+                    logging.warning(
+                        "Unexpected image-retrieval error for %s: %s",
+                        paper.doi,
+                        exc,
+                    )
 
-        now = datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+            posted = post_batch(
+                client,
+                channel_id,
+                selected,
+                float(config["runtime"]["slack_pause_seconds"]),
+            )
+
+        now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
         for paper, timestamp in posted:
             state["posted"][paper.key] = {
@@ -181,12 +192,14 @@ def main() -> None:
                 "title": paper.title,
                 "doi": paper.doi,
                 "score": paper.score,
+                "article_image_method": paper.article_image_method,
             }
             logging.info(
-                "Posted score=%s DOI=%s Slack ts=%s",
+                "Posted score=%s DOI=%s Slack ts=%s image=%s",
                 paper.score,
                 paper.doi,
                 timestamp,
+                paper.article_image_method or "none",
             )
 
         state["daily_counts"][today] = used_today + len(posted)

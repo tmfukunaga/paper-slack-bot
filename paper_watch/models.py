@@ -26,7 +26,8 @@ class Paper:
     matched_exclude_title: list[str] = field(default_factory=list)
     matched_exclude_abstract: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
-    graphical_abstract_url: str = ""
+    article_image_path: str = ""
+    article_image_method: str = ""
 
     @property
     def key(self) -> str:
