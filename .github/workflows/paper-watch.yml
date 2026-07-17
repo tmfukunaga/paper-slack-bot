@@ -3,8 +3,10 @@ name: Paper Watch
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions cron is UTC. Runs every three hours at minute 17.
-    - cron: "17 */3 * * *"
+    # Runs every three hours in Japan Standard Time:
+    # 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00
+    - cron: "0 */3 * * *"
+      timezone: "Asia/Tokyo"
 
 concurrency:
   group: paper-watch
@@ -52,8 +54,10 @@ jobs:
             echo "No state change"
             exit 0
           fi
+
           git config user.name "paper-watch-bot"
           git config user.email "paper-watch-bot@users.noreply.github.com"
+
           git add data/state.json
           git commit -m "Update paper watch state [skip ci]"
           git push
