@@ -1,5 +1,96 @@
 {
-  "daily_counts": {},
+  "daily_counts": {
+    "2026-07-17": 11
+  },
   "pending": [],
-  "posted": {}
+  "posted": {
+    "10.1002/ange.1519414": {
+      "doi": "10.1002/ange.1519414",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287051.805009",
+      "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/ange.3935543": {
+      "doi": "10.1002/ange.3935543",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287050.269359",
+      "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/anie.1519414": {
+      "doi": "10.1002/anie.1519414",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287042.607569",
+      "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.3322675": {
+      "doi": "10.1002/anie.3322675",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287053.345629",
+      "title": "Tetraborylated Multiple Resonance Emitter Incorporating B─O Bond-Embedded pi-Extension for Ultra-Narrowband and High-Efficiency Blue Devices"
+    },
+    "10.1002/anie.3935543": {
+      "doi": "10.1002/anie.3935543",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287041.030669",
+      "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/chem.71369": {
+      "doi": "10.1002/chem.71369",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287045.678109",
+      "title": "Oxygen-Doped Nanographene as High-Performance Anode Material in Lithium-Ion Batteries"
+    },
+    "10.1021/acs.chemmater.6c00828": {
+      "doi": "10.1021/acs.chemmater.6c00828",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287047.208719",
+      "title": "Metallogels and Molybdate Arrays Formed by Self-Assembly of Carbohydrate Molybdenum Complexes"
+    },
+    "10.1021/acs.jafc.6c03256": {
+      "doi": "10.1021/acs.jafc.6c03256",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287044.136079",
+      "title": "Herbicide Recognition, Sensing, and Removal Enabled by Supramolecular Macrocyclic Chemistry"
+    },
+    "10.1021/jacs.6c05337": {
+      "doi": "10.1021/jacs.6c05337",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287048.740659",
+      "title": "Arraying Shape-Persistent Molecular Alkynyl Trap into Highly Porous and Robust Zirconium Metal-Organic Framework for Propyne Capture and Propyne/Propylene Separation"
+    },
+    "10.1021/jacs.6c09990": {
+      "doi": "10.1021/jacs.6c09990",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287039.490899",
+      "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
+    },
+    "10.1021/jacs.6c11182": {
+      "doi": "10.1021/jacs.6c11182",
+      "posted_at": "2026-07-17T11:17:33Z",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784287037.861939",
+      "title": "Cycloparaphenylene-Derived Porous Organic Cylinders"
+    }
+  }
 }
