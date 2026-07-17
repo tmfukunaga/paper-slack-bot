@@ -33,35 +33,40 @@ def _extract_file_id(response: Any) -> str:
 
 
 def upload_article_image(client: WebClient, paper: Paper) -> str:
+    """Upload the required article image and return its Slack file ID."""
     if not paper.article_image_path:
-        return ""
+        raise RuntimeError(f"No article image was prepared for {paper.doi}")
 
     path = Path(paper.article_image_path)
     if not path.is_file():
-        LOGGER.warning("Article image file does not exist: %s", path)
-        return ""
+        raise RuntimeError(f"Article image file does not exist: {path}")
 
     try:
         response = client.files_upload_v2(
             file=str(path),
             filename=path.name,
             title=f"Article image — {paper.title}"[:255],
-            alt_txt=f"Representative image from the article page for {paper.title}"[:2000],
+            alt_txt=f"Representative image for {paper.title}"[:2000],
         )
-        file_id = _extract_file_id(response)
-        if not file_id:
-            LOGGER.warning("Slack image upload returned no file ID for %s", paper.doi)
-        return file_id
     except SlackApiError as exc:
-        LOGGER.warning(
-            "Slack image upload failed for %s: %s. Posting without image.",
-            paper.doi,
-            exc.response.get("error"),
+        error = exc.response.get("error")
+        raise RuntimeError(
+            f"Slack image upload failed for {paper.doi}: {error}. "
+            "Confirm that the Slack App has files:write and was reinstalled."
+        ) from exc
+
+    file_id = _extract_file_id(response)
+    if not file_id:
+        raise RuntimeError(
+            f"Slack image upload returned no file ID for {paper.doi}"
         )
-        return ""
+    return file_id
 
 
-def build_blocks(paper: Paper, slack_file_id: str = "") -> list[dict[str, Any]]:
+def build_blocks(paper: Paper, slack_file_id: str) -> list[dict[str, Any]]:
+    if not slack_file_id:
+        raise ValueError("slack_file_id is required: every paper must have an image")
+
     blocks: list[dict[str, Any]] = [
         {
             "type": "section",
@@ -93,16 +98,13 @@ def build_blocks(paper: Paper, slack_file_id: str = "") -> list[dict[str, Any]]:
         }
     )
 
-    if slack_file_id:
-        blocks.append(
-            {
-                "type": "image",
-                "slack_file": {"id": slack_file_id},
-                "alt_text": (
-                    f"Representative image from the article page for {paper.title}"
-                )[:2000],
-            }
-        )
+    blocks.append(
+        {
+            "type": "image",
+            "slack_file": {"id": slack_file_id},
+            "alt_text": f"Representative image for {paper.title}"[:2000],
+        }
+    )
 
     blocks.append(
         {
@@ -173,21 +175,15 @@ def _post_blocks(
 
 
 def post_paper(client: WebClient, channel_id: str, paper: Paper) -> str:
+    """Post a paper only after its required image is uploaded successfully."""
     slack_file_id = upload_article_image(client, paper)
-
     try:
         return _post_blocks(client, channel_id, paper, slack_file_id)
     except SlackApiError as exc:
-        if slack_file_id:
-            LOGGER.warning(
-                "Slack rejected the image block for %s: %s. "
-                "Retrying the paper without the image.",
-                paper.doi,
-                exc.response.get("error"),
-            )
-            return _post_blocks(client, channel_id, paper, "")
-        LOGGER.error("Slack post failed: %s", exc.response.get("error"))
-        raise
+        error = exc.response.get("error")
+        raise RuntimeError(
+            f"Slack rejected the image-bearing message for {paper.doi}: {error}"
+        ) from exc
 
 
 def post_batch(

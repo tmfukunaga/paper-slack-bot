@@ -13,7 +13,7 @@ from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-from PIL import Image, ImageOps
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 from playwright.sync_api import (
     Browser,
     BrowserContext,
@@ -600,36 +600,178 @@ class ArticleImageFetcher:
         finally:
             page.close()
 
-    def fetch(self, article_url: str, doi: str, key: str) -> ImageResult | None:
-        if not self.cfg.get("enabled", True):
-            return None
+    def _load_font(self, size: int, *, bold: bool = False) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+        candidates = []
+        if bold:
+            candidates.extend([
+                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+                "/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf",
+            ])
+        else:
+            candidates.extend([
+                "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+                "/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
+            ])
+        for candidate in candidates:
+            try:
+                return ImageFont.truetype(candidate, size=size)
+            except OSError:
+                continue
+        return ImageFont.load_default()
 
-        urls: list[str] = []
-        for value in (article_url, doi_url(doi)):
-            if safe_has_public_http_url(value) and value not in urls:
-                urls.append(value)
+    def _wrap_text(
+        self,
+        draw: ImageDraw.ImageDraw,
+        text: str,
+        font: ImageFont.FreeTypeFont | ImageFont.ImageFont,
+        max_width: int,
+        max_lines: int,
+    ) -> list[str]:
+        words = (text or '').split()
+        if not words:
+            return []
+        lines: list[str] = []
+        current = words[0]
+        index = 1
+        while index < len(words):
+            word = words[index]
+            trial = f"{current} {word}"
+            if draw.textbbox((0, 0), trial, font=font)[2] <= max_width:
+                current = trial
+                index += 1
+                continue
+            lines.append(current)
+            current = word
+            index += 1
+            if len(lines) >= max_lines - 1:
+                break
+        remaining = [current] + words[index:]
+        last_line = ' '.join(remaining).strip()
+        if last_line:
+            lines.append(last_line)
+        lines = lines[:max_lines]
+        if len(lines) == max_lines:
+            while draw.textbbox((0, 0), lines[-1], font=font)[2] > max_width and ' ' in lines[-1]:
+                lines[-1] = ' '.join(lines[-1].split()[:-1]) + '…'
+            if draw.textbbox((0, 0), lines[-1], font=font)[2] > max_width:
+                lines[-1] = '…'
+        return lines
 
+    def _generate_fallback_card(
+        self,
+        title: str,
+        journal: str,
+        publication_date: str,
+        doi: str,
+        stem: str,
+    ) -> ImageResult:
+        width = 1400
+        height = 900
+        margin = 80
+        bg = '#f7f8fb'
+        accent = '#3a5ad9'
+        text_color = '#111827'
+        sub_color = '#374151'
+        mute_color = '#6b7280'
+
+        image = Image.new('RGB', (width, height), bg)
+        draw = ImageDraw.Draw(image)
+
+        draw.rounded_rectangle((margin, 48, width - margin, 66), radius=9, fill=accent)
+        draw.rounded_rectangle((margin, height - 72, width - margin, height - 54), radius=9, fill='#d6ddff')
+
+        title_font = self._load_font(54, bold=True)
+        meta_font = self._load_font(34, bold=False)
+        small_font = self._load_font(28, bold=False)
+        doi_font = self._load_font(30, bold=True)
+
+        y = 110
+        max_text_width = width - 2 * margin
+
+        title_lines = self._wrap_text(draw, title or 'Untitled article', title_font, max_text_width, 6)
+        for line in title_lines:
+            draw.text((margin, y), line, font=title_font, fill=text_color)
+            y += 68
+
+        y += 18
+        for line in self._wrap_text(draw, (journal or 'Source unavailable').strip(), meta_font, max_text_width, 2):
+            draw.text((margin, y), line, font=meta_font, fill=sub_color)
+            y += 44
+
+        draw.text((margin, y + 6), (publication_date or 'Date unavailable').strip(), font=small_font, fill=mute_color)
+        y += 74
+
+        draw.rounded_rectangle((margin, y, width - margin, y + 170), radius=24, fill='white', outline='#dbe2f0', width=2)
+        draw.text((margin + 26, y + 24), 'DOI', font=small_font, fill=mute_color)
+        yy = y + 66
+        for line in self._wrap_text(draw, (doi or 'Unavailable').strip(), doi_font, max_text_width - 52, 3):
+            draw.text((margin + 26, yy), line, font=doi_font, fill=text_color)
+            yy += 38
+
+        footer = 'Auto-generated article card (page image fallback)'
+        bbox = draw.textbbox((0, 0), footer, font=small_font)
+        draw.text((width - margin - (bbox[2] - bbox[0]), height - 120), footer, font=small_font, fill=mute_color)
+
+        path = self._normalized_path(f"{stem}-fallback-card", '.jpg')
+        image.save(path, format='JPEG', quality=int(self.cfg['jpeg_quality']), optimize=True)
+        return ImageResult(path=path, method='generated fallback card', source_url='')
+
+    def fetch(
+        self,
+        article_url: str,
+        doi: str,
+        key: str,
+        *,
+        title: str = "",
+        journal: str = "",
+        publication_date: str = "",
+    ) -> ImageResult:
+        """Return an image for every paper.
+
+        Page-image retrieval is best effort. Any retrieval failure falls back to
+        a locally generated article card, so callers never receive ``None``.
+        """
         stem = re.sub(r"[^A-Za-z0-9]+", "-", key).strip("-") or "paper"
 
-        for url in urls:
-            result = self._requests_fetch(url, stem)
-            if result is not None:
-                LOGGER.info(
-                    "Article image found by %s for %s",
-                    result.method,
-                    doi,
-                )
-                return result
+        try:
+            urls: list[str] = []
+            for value in (article_url, doi_url(doi)):
+                if safe_has_public_http_url(value) and value not in urls:
+                    urls.append(value)
 
-        for url in urls:
-            result = self._browser_fetch(url, stem)
-            if result is not None:
-                LOGGER.info(
-                    "Article image found by %s for %s",
-                    result.method,
-                    doi,
-                )
-                return result
+            if self.cfg.get("enabled", True):
+                for url in urls:
+                    result = self._requests_fetch(url, stem)
+                    if result is not None:
+                        LOGGER.info(
+                            "Article image found by %s for %s",
+                            result.method,
+                            doi,
+                        )
+                        return result
 
-        LOGGER.info("No article image found for %s", doi)
-        return None
+                for url in urls:
+                    result = self._browser_fetch(url, stem)
+                    if result is not None:
+                        LOGGER.info(
+                            "Article image found by %s for %s",
+                            result.method,
+                            doi,
+                        )
+                        return result
+        except Exception as exc:
+            LOGGER.warning(
+                "Unexpected article-image retrieval error for %s: %s. "
+                "Generating fallback card.",
+                doi,
+                exc,
+            )
+
+        LOGGER.info("No article image found for %s; generating fallback card", doi)
+        return self._generate_fallback_card(
+            title=title,
+            journal=journal,
+            publication_date=publication_date,
+            doi=doi,
+            stem=stem,
+        )

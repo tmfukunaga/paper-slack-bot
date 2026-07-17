@@ -159,20 +159,20 @@ def main() -> None:
         # the same context.
         with ArticleImageFetcher(config) as image_fetcher:
             for paper in selected:
-                try:
-                    image = image_fetcher.fetch(
-                        paper.landing_page_url,
-                        paper.doi,
-                        paper.key,
-                    )
-                    if image is not None:
-                        paper.article_image_path = str(image.path)
-                        paper.article_image_method = image.method
-                except Exception as exc:
-                    logging.warning(
-                        "Unexpected image-retrieval error for %s: %s",
-                        paper.doi,
-                        exc,
+                image = image_fetcher.fetch(
+                    paper.landing_page_url,
+                    paper.doi,
+                    paper.key,
+                    title=paper.title,
+                    journal=paper.journal,
+                    publication_date=paper.publication_date,
+                )
+                paper.article_image_path = str(image.path)
+                paper.article_image_method = image.method
+
+                if not Path(paper.article_image_path).is_file():
+                    raise RuntimeError(
+                        f"Required article image was not created for {paper.doi}"
                     )
 
             posted = post_batch(

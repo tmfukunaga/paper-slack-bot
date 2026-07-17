@@ -5,7 +5,7 @@ from pathlib import Path
 import pytest
 import yaml
 
-from paper_watch.article_image import extract_html_candidates
+from paper_watch.article_image import ArticleImageFetcher, extract_html_candidates
 from paper_watch.config_validation import ConfigError, validate_config
 from paper_watch.models import Paper
 from paper_watch.openalex_client import build_work_filter
@@ -147,3 +147,30 @@ def test_html_candidate_prefers_open_graph_image():
     """
     candidates = extract_html_candidates(html, "https://example.org/paper")
     assert candidates[0].url == "https://example.org/social/article.jpg"
+
+
+def test_fallback_card_is_generated_when_requested():
+    with ArticleImageFetcher(CONFIG) as fetcher:
+        result = fetcher.fetch(
+            "https://127.0.0.1.invalid/paper",
+            "10.0000/test",
+            "10.0000/test",
+            title="A molecular nanocarbon with a very long title for fallback image generation",
+            journal="ChemRxiv",
+            publication_date="2026-07-17",
+        )
+        assert result is not None
+        assert result.path.is_file()
+        assert result.method == "generated fallback card"
+
+
+def test_message_rejects_missing_image_file_id():
+    item = paper(
+        "A molecular nanocarbon",
+        "This is the abstract.",
+        "ChemRxiv",
+    )
+    result = score_paper(item, CONFIG)
+    apply_score(item, result, CONFIG)
+    with pytest.raises(ValueError, match="every paper must have an image"):
+        build_blocks(item, slack_file_id="")
