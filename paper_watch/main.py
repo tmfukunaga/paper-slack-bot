@@ -19,9 +19,10 @@ from .models import Paper
 from .openalex_client import fetch_candidates
 from .scoring import apply_score, score_paper
 from .selection import (
+    eligible_candidates,
+    is_excluded_source,
     meets_posting_floor,
     select_for_run,
-    split_candidates,
 )
 from .slack_client import post_paper
 from .state import load_state, prune_state, save_state
@@ -64,11 +65,16 @@ def enrich_and_score_candidates(
     contact_email: str,
 ) -> list[Paper]:
     """Enrich missing abstracts, then perform the final score calculation."""
-    minimum_keyword_score = int(config["posting"]["minimum_keyword_score"])
+    minimum_keyword_score = int(
+        config["runtime"]["abstract_enrichment_minimum_keyword_score"]
+    )
     scored: list[Paper] = []
 
     for paper in candidates:
         if paper.key in state["posted"]:
+            continue
+        if is_excluded_source(paper, config):
+            logging.info("Rejected excluded source=%s DOI=%s", paper.journal, paper.doi)
             continue
 
         result = score_paper(paper, config)
@@ -198,35 +204,32 @@ def main() -> None:
         config=config,
         contact_email=contact_email,
     )
-    guaranteed, conditional = split_candidates(scored, config)
+    eligible = eligible_candidates(scored, config)
 
     today = current_local_date(config)
     used_today = int(state["daily_counts"].get(today, 0))
 
     # Papers without an Abstract cannot be summarized. Exclude them before
-    # selection so they do not consume one of the ten OpenAI slots.
+    # selection so they do not consume one of the eight OpenAI slots.
     summarizable_keys = {
         paper.key
-        for paper in [*guaranteed, *conditional]
+        for paper in eligible
         if paper.abstract_original.strip()
     }
-    guaranteed = [paper for paper in guaranteed if paper.key in summarizable_keys]
-    conditional = [paper for paper in conditional if paper.key in summarizable_keys]
+    eligible = [paper for paper in eligible if paper.key in summarizable_keys]
 
     selected = select_for_run(
-        guaranteed,
-        conditional,
+        eligible,
         successful_before_run_today=used_today,
         config=config,
     )
 
     logging.info(
-        "Selection pool: guaranteed=%s conditional=%s selected=%s hard_cap=%s "
-        "used_today=%s",
-        len(guaranteed),
-        len(conditional),
+        "Selection pool: eligible=%s selected=%s run_cap=%s daily_cap=%s used_today=%s",
+        len(eligible),
         len(selected),
         int(config["posting"]["maximum_posts_per_run"]),
+        int(config["posting"]["maximum_posts_per_day"]),
         used_today,
     )
     logging.info(
