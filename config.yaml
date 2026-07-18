@@ -23,8 +23,8 @@ posting:
   maximum_tags_displayed: 12
 
 # Sources listed here are never posted, regardless of score. Matching ignores
-# case, punctuation, and spacing. Add aliases for source-name variations used
-# by OpenAlex.
+# case, punctuation, and spacing. source_prefixes excludes an entire journal
+# family. Add aliases for source-name variations used by OpenAlex.
 excluded_sources:
   - canonical: JCIS Open
     aliases: [JCIS Open, Journal of Colloid and Interface Science Open]
@@ -37,6 +37,32 @@ excluded_sources:
   - canonical: arXiv
     aliases: [arXiv, arXiv (Cornell University)]
     doi_prefixes: [10.48550/arXiv.]
+  - canonical: Physical Review family
+    aliases: [Reviews of Modern Physics]
+    source_prefixes: [Physical Review]
+    doi_prefixes: [10.1103/]
+  - canonical: Nature pure physics journals
+    aliases: [Nature Physics, Communications Physics]
+  - canonical: IOP pure physics journals
+    aliases:
+      - New Journal of Physics
+      - Classical and Quantum Gravity
+      - Reports on Progress in Physics
+      - Journal of Cosmology and Astroparticle Physics
+    source_prefixes: [Journal of Physics]
+  - canonical: European Physical Journal family
+    aliases: [European Physical Journal]
+    source_prefixes: [European Physical Journal, The European Physical Journal]
+  - canonical: Elsevier pure physics journals
+    aliases: [Physics Reports, Annals of Physics]
+    source_prefixes: [Physics Letters, Nuclear Physics]
+  - canonical: Journal of High Energy Physics
+    aliases: [Journal of High Energy Physics, JHEP]
+  - canonical: AIP pure physics journals
+    aliases:
+      - Applied Physics Letters
+      - Journal of Applied Physics
+      - Physics of Plasmas
 
 # Journal/source scores. Add aliases when OpenAlex may use multiple names.
 journal_tiers:
