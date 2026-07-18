@@ -3,8 +3,9 @@ from __future__ import annotations
 import logging
 import os
 import time
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from typing import Any
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -55,6 +56,7 @@ def _paper_from_work(work: dict[str, Any]) -> Paper | None:
         authors=authors,
         journal=strip_markup(source.get("display_name") or ""),
         publication_date=work.get("publication_date") or "",
+        updated_date=work.get("updated_date") or "",
         abstract_original=reconstruct_abstract(
             work.get("abstract_inverted_index")
         ),
@@ -152,13 +154,33 @@ def build_work_filter(published_from: date) -> str:
     )
 
 
+def _parse_openalex_datetime(value: str) -> datetime | None:
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except (AttributeError, ValueError):
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def was_updated_since(work: dict[str, Any], cutoff: datetime) -> bool:
+    """Return whether OpenAlex updated a work at or after the UTC cutoff."""
+    updated = _parse_openalex_datetime(work.get("updated_date") or "")
+    return updated is not None and updated >= cutoff.astimezone(timezone.utc)
+
+
 def fetch_candidates(
     api_key: str,
     config: dict[str, Any],
 ) -> list[Paper]:
     runtime = config["runtime"]
-    published_from = date.today() - timedelta(
+    local_today = datetime.now(ZoneInfo(config["timezone"])).date()
+    published_from = local_today - timedelta(
         days=int(runtime["lookback_publication_days"])
+    )
+    updated_cutoff = datetime.now(timezone.utc) - timedelta(
+        hours=float(runtime["discovery_updated_within_hours"])
     )
 
     terms_per_query = int(runtime.get("search_terms_per_query", 10))
@@ -177,7 +199,9 @@ def fetch_candidates(
                 "api_key": api_key,
                 "search": query,
                 "filter": build_work_filter(published_from),
-                "sort": "publication_date:desc",
+                # updated_date sorting is available on the free API. Filtering
+                # by from_updated_date is paid-only, so filter locally below.
+                "sort": "updated_date:desc",
                 "per_page": min(int(runtime["results_per_page"]), 100),
                 "page": page,
             }
@@ -193,12 +217,19 @@ def fetch_candidates(
                 payload.get("meta", {}).get("cost_usd"),
             )
 
-            for work in results:
+            fresh_results = [
+                work for work in results if was_updated_since(work, updated_cutoff)
+            ]
+            for work in fresh_results:
                 paper = _paper_from_work(work)
                 if paper and paper.title:
                     papers[paper.key] = paper
 
             if len(results) < int(runtime["results_per_page"]):
+                break
+            # Results are newest-first. If a complete page is already outside
+            # the discovery window, later pages cannot contain fresher works.
+            if results and not fresh_results:
                 break
 
             time.sleep(1)
