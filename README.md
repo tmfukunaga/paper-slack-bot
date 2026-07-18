@@ -4,7 +4,7 @@
 
 この版は、英語Abstractと画像をSlackへ表示せず、OpenAI APIで作成した**日本語約100字の要約**を表示します。
 
-OpenAlexで直近24時間に更新された論文を新着として取得し、投稿対象候補へ追加します。Score 15以上をスコア順に1回最大8本、1日最大40本選び、選ばれた論文だけをOpenAIへ送ります。基準と除外媒体は`config.yaml`だけで変更できます。
+OpenAlexで直近24時間に更新された論文を新着として取得し、投稿対象候補へ追加します。Score 15以上をスコア順に1回最大5本選び、選ばれた論文だけをOpenAIへ送ります。3時間ごとの8回がすべて動けば、理論上は1日最大40本です。基準と除外媒体は`config.yaml`だけで変更できます。
 
 ### 1. GitHub Secretを1件追加
 
@@ -109,8 +109,7 @@ journal_tiers:
 ```yaml
 posting:
   minimum_score: 15
-  maximum_posts_per_run: 8
-  maximum_posts_per_day: 40
+  maximum_posts_per_run: 5
 ```
 
 新着取得と候補保持期間：
@@ -122,7 +121,7 @@ runtime:
   pending_retention_days: 7
 ```
 
-公開日が過去7日以内で、OpenAlexの`updated_date`が直近24時間以内の論文を新着として取得します。1回8本または1日40本の上限から漏れた15点以上の候補は、最大7日間キューへ保持します。
+公開日が過去7日以内で、OpenAlexの`updated_date`が直近24時間以内の論文を新着として取得します。1回5本の上限から漏れた15点以上の候補は、最大7日間キューへ保持します。候補が5本未満なら存在する分だけ投稿し、0本なら投稿せず正常終了します。
 
 ```text
 Total score = keyword score + journal score - exclusion penalty
@@ -132,8 +131,8 @@ Total score = keyword score + journal score - exclusion penalty
 
 - **Score 15以上**だけをスコア順に選びます。
 - **Score 14以下**は投稿しません。
-- 1回の上限は8本、当日の投稿成功数の上限は40本です。
-- 選択処理はOpenAI APIを呼ぶ前に完了します。**選ばれた最大8本だけ**を要約します。
+- 1回の上限は5本です。日次上限は設けず、3時間ごとの運用から1日の理論上限が40本になります。
+- 選択処理はOpenAI APIを呼ぶ前に完了します。**選ばれた最大5本だけ**を要約します。
 - 選択済み論文の要約やSlack投稿が失敗しても、その回に未選択の次点論文を追加要約しません。未投稿論文は次回に再試行します。
 
 ### 除外媒体
