@@ -90,6 +90,13 @@ def test_unlisted_source_is_not_excluded():
     assert eligible_candidates([paper], CONFIG) == [paper]
 
 
+def test_arxiv_doi_is_excluded_even_when_source_name_is_different():
+    paper = make_paper(99, "arxiv", "Physical Review Letters")
+    paper.doi = "10.48550/arXiv.2607.11037"
+    assert is_excluded_source(paper, CONFIG)
+    assert eligible_candidates([paper], CONFIG) == []
+
+
 def test_selection_never_exceeds_configured_run_cap():
     local_config = yaml.safe_load(yaml.safe_dump(CONFIG))
     local_config["posting"]["maximum_posts_per_run"] = 2
