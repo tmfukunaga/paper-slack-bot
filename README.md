@@ -141,13 +141,16 @@ excluded_sources:
     aliases: [JCIS Open, Journal of Colloid and Interface Science Open]
   - canonical: Figshare
     aliases: [Figshare]
+    doi_prefixes: [10.6084/m9.figshare.]
   - canonical: Research Square
     aliases: [Research Square]
+    doi_prefixes: [10.21203/rs.]
   - canonical: arXiv
-    aliases: [arXiv]
+    aliases: [arXiv, arXiv (Cornell University)]
+    doi_prefixes: [10.48550/arXiv.]
 ```
 
-ここに登録した媒体はスコアに関係なく除外します。大文字小文字、空白、句読点の違いは無視して照合します。
+ここに登録した媒体はスコアに関係なく除外します。媒体名は大文字小文字、空白、句読点の違いを無視して照合し、`doi_prefixes`に一致する論文も除外します。
 
 ### AI要約
 
