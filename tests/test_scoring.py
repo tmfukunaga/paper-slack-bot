@@ -1,5 +1,5 @@
 from copy import deepcopy
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import pytest
@@ -13,7 +13,7 @@ from paper_watch.ai_summary import (
 )
 from paper_watch.config_validation import ConfigError, validate_config
 from paper_watch.models import Paper
-from paper_watch.openalex_client import build_work_filter
+from paper_watch.openalex_client import build_work_filter, was_updated_since
 from paper_watch.scoring import apply_score, score_paper
 from paper_watch.slack_client import build_paper_blocks
 
@@ -125,6 +125,14 @@ def test_free_openalex_filter_includes_preprints_and_no_created_date():
     assert "from_publication_date:2026-07-01" in value
     assert "type:article|review|preprint" in value
     assert "from_created_date" not in value
+
+
+def test_openalex_update_window_is_filtered_locally():
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
+    recent = {"updated_date": (cutoff + timedelta(minutes=1)).isoformat()}
+    old = {"updated_date": (cutoff - timedelta(minutes=1)).isoformat()}
+    assert was_updated_since(recent, cutoff)
+    assert not was_updated_since(old, cutoff)
 
 
 def test_summary_prompt_keeps_chemical_names_in_english():
