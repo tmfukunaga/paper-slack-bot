@@ -30,10 +30,13 @@ excluded_sources:
     aliases: [JCIS Open, Journal of Colloid and Interface Science Open]
   - canonical: Figshare
     aliases: [Figshare]
+    doi_prefixes: [10.6084/m9.figshare.]
   - canonical: Research Square
     aliases: [Research Square]
+    doi_prefixes: [10.21203/rs.]
   - canonical: arXiv
-    aliases: [arXiv]
+    aliases: [arXiv, arXiv (Cornell University)]
+    doi_prefixes: [10.48550/arXiv.]
 
 # Journal/source scores. Add aliases when OpenAlex may use multiple names.
 journal_tiers:
