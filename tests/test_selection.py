@@ -42,35 +42,15 @@ def test_only_score_15_or_above_is_eligible_and_ordered():
     assert [paper.score for paper in eligible] == [20, 15]
 
 
-def test_run_cap_keeps_only_top_eight_papers():
+def test_run_cap_keeps_only_top_five_papers():
     papers = [make_paper(30 - index, str(index)) for index in range(15)]
     eligible = eligible_candidates(papers, CONFIG)
     selected = select_for_run(
         eligible,
-        successful_before_run_today=0,
         config=CONFIG,
     )
-    assert len(selected) == 8
-    assert [paper.score for paper in selected] == list(range(30, 22, -1))
-
-
-def test_daily_cap_limits_selection_to_remaining_allowance():
-    eligible = eligible_candidates(
-        [make_paper(22, "a"), make_paper(20, "b"), make_paper(18, "c")], CONFIG
-    )
-    selected = select_for_run(
-        eligible,
-        successful_before_run_today=38,
-        config=CONFIG,
-    )
-    assert [paper.score for paper in selected] == [22, 20]
-
-
-def test_daily_cap_stops_selection_at_40():
-    eligible = eligible_candidates([make_paper(22, "a")], CONFIG)
-    assert select_for_run(
-        eligible, successful_before_run_today=40, config=CONFIG
-    ) == []
+    assert len(selected) == 5
+    assert [paper.score for paper in selected] == list(range(30, 25, -1))
 
 
 def test_configured_sources_are_excluded_regardless_of_score():
@@ -103,7 +83,6 @@ def test_selection_never_exceeds_configured_run_cap():
     )
     selected = select_for_run(
         eligible,
-        successful_before_run_today=0,
         config=local_config,
     )
     assert [paper.score for paper in selected] == [20, 19]
