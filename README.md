@@ -4,7 +4,7 @@
 
 この版は、英語Abstractと画像をSlackへ表示せず、OpenAI APIで作成した**日本語約100字の要約**を表示します。
 
-投稿数は、Score 15以上を優先し、Score 11～14を1回3本・1日30本までの補充枠として扱います。さらに、1回の実行ではスコア順の最大10本だけを選び、選ばれた論文だけをOpenAIへ送ります。基準は`config.yaml`だけで変更できます。
+投稿対象はScore 15以上だけです。スコア順に1回最大8本、1日最大40本を選び、選ばれた論文だけをOpenAIへ送ります。基準と除外媒体は`config.yaml`だけで変更できます。
 
 ### 1. GitHub Secretを1件追加
 
@@ -108,12 +108,9 @@ journal_tiers:
 
 ```yaml
 posting:
-  guaranteed_score: 15
-  conditional_minimum_score: 11
-  target_posts_per_run: 3
-  target_posts_per_day: 30
-  maximum_posts_per_run: 10
-  minimum_keyword_score: 3
+  minimum_score: 15
+  maximum_posts_per_run: 8
+  maximum_posts_per_day: 40
 ```
 
 ```text
@@ -122,21 +119,27 @@ Total score = keyword score + journal score - exclusion penalty
 
 投稿ルール：
 
-- **Score 15以上**：最優先で選びます。ただし、1回の実行全体では上位10本までです。11本目以降は次回へ回ります。
-- **Score 11～14**：補充枠です。Score 15以上を含む選択数が3本未満、かつ当日の投稿成功数が30本未満の間だけ、スコア順に補充します。
-- **Score 10以下**：投稿しません。
-- 選択処理はOpenAI APIを呼ぶ前に完了します。**選ばれた最大10本だけ**を要約します。
+- **Score 15以上**だけをスコア順に選びます。
+- **Score 14以下**は投稿しません。
+- 1回の上限は8本、当日の投稿成功数の上限は40本です。
+- 選択処理はOpenAI APIを呼ぶ前に完了します。**選ばれた最大8本だけ**を要約します。
 - 選択済み論文の要約やSlack投稿が失敗しても、その回に未選択の次点論文を追加要約しません。未投稿論文は次回に再試行します。
-- 1日30本はScore 11～14にだけ適用する**ソフト上限**です。Score 15以上には適用しませんが、1回10本のハード上限は適用します。
 
-例：
+### 除外媒体
 
-```text
-24, 18, 15, 14, 13 → 24, 18, 15を選択
-14, 13, 12, 11, 10 → 14, 13, 12を選択
-20, 16, 14, 13 → 20, 16, 14を選択
-Score 15以上が12本 → 上位10本だけを選択し、残り2本は次回へ
+```yaml
+excluded_sources:
+  - canonical: JCIS Open
+    aliases: [JCIS Open, Journal of Colloid and Interface Science Open]
+  - canonical: Figshare
+    aliases: [Figshare]
+  - canonical: Research Square
+    aliases: [Research Square]
+  - canonical: arXiv
+    aliases: [arXiv]
 ```
+
+ここに登録した媒体はスコアに関係なく除外します。大文字小文字、空白、句読点の違いは無視して照合します。
 
 ### AI要約
 
