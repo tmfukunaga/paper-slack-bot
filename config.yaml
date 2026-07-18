@@ -13,22 +13,28 @@ runtime:
   # Split broad keyword lists so common terms do not bury niche terms.
   search_terms_per_query: 10
   slack_pause_seconds: 1.2
+  # Crossref lookup is attempted only when OpenAlex has no abstract and the
+  # title already has at least this much keyword evidence.
+  abstract_enrichment_minimum_keyword_score: 3
 
 posting:
-  # Score 15 or above: post regardless of the soft volume targets.
-  guaranteed_score: 15
-
-  # Score 11-14: use only as filler while both soft targets remain.
-  conditional_minimum_score: 11
-  target_posts_per_run: 3
-  target_posts_per_day: 30
-
-  # Hard cap for one workflow run. Selection occurs before OpenAI summarization,
-  # so at most this many unique papers are sent to OpenAI in one run.
-  maximum_posts_per_run: 10
-
-  minimum_keyword_score: 3
+  minimum_score: 15
+  maximum_posts_per_run: 8
+  maximum_posts_per_day: 40
   maximum_tags_displayed: 12
+
+# Sources listed here are never posted, regardless of score. Matching ignores
+# case, punctuation, and spacing. Add aliases for source-name variations used
+# by OpenAlex.
+excluded_sources:
+  - canonical: JCIS Open
+    aliases: [JCIS Open, Journal of Colloid and Interface Science Open]
+  - canonical: Figshare
+    aliases: [Figshare]
+  - canonical: Research Square
+    aliases: [Research Square]
+  - canonical: arXiv
+    aliases: [arXiv]
 
 # Journal/source scores. Add aliases when OpenAlex may use multiple names.
 journal_tiers:
