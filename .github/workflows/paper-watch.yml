@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every three hours in Japan Standard Time:
-    # 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00
-    - cron: "0 */3 * * *"
+    # 00:10, 03:10, 06:10, 09:10, 12:10, 15:10, 18:10, 21:10
+    - cron: "10 */3 * * *"
       timezone: "Asia/Tokyo"
 
 concurrency:
