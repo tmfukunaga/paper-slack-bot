@@ -67,8 +67,6 @@ def validate_config(config: dict[str, Any]) -> None:
     runtime = _require_mapping(root["runtime"], "runtime")
     for key in (
         "lookback_publication_days",
-        "discovery_updated_within_hours",
-        "pending_retention_days",
         "pages_per_query",
         "results_per_page",
         "search_terms_per_query",
@@ -81,10 +79,6 @@ def validate_config(config: dict[str, Any]) -> None:
 
     if int(runtime["lookback_publication_days"]) < 1:
         raise ConfigError("runtime.lookback_publication_days must be at least 1.")
-    if float(runtime["discovery_updated_within_hours"]) <= 0:
-        raise ConfigError("runtime.discovery_updated_within_hours must be greater than 0.")
-    if int(runtime["pending_retention_days"]) < 1:
-        raise ConfigError("runtime.pending_retention_days must be at least 1.")
     if int(runtime["pages_per_query"]) < 1:
         raise ConfigError("runtime.pages_per_query must be at least 1.")
     if not 1 <= int(runtime["results_per_page"]) <= 100:
