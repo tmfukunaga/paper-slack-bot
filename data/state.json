@@ -1,9 +1,8 @@
 {
   "daily_counts": {
     "2026-07-18": 40,
-    "2026-07-19": 8
+    "2026-07-19": 13
   },
-  "pending": [],
   "posted": {
     "10.1002/ange.1519414": {
       "doi": "10.1002/ange.1519414",
@@ -391,6 +390,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Predisposition Promotes Intramolecular Heavy-Atom Effects for Self-Sensitized Oxidation"
     },
+    "10.1021/jacs.6c07331": {
+      "doi": "10.1021/jacs.6c07331",
+      "posted_at": "2026-07-18T22:19:43+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784413183.549939",
+      "summary_character_count": 99,
+      "summary_japanese": "D-χB-A複合体のCISSを二電子Lindbladモデルで解析し、電荷移動電流が生む界面有効場とドナー熱緩和・橋架けスピン混合により、実験的時間域EPR信号に一致する数十%のスピン偏極を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spinterface-like Mechanism of the Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Complexes"
+    },
     "10.1021/jacs.6c09990": {
       "doi": "10.1021/jacs.6c09990",
       "posted_at": "2026-07-17T17:06:52+00:00",
@@ -442,6 +454,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral packings in cylinders are ultrasensitive to confinement deformation"
+    },
+    "10.1038/s41467-026-75548-x": {
+      "doi": "10.1038/s41467-026-75548-x",
+      "posted_at": "2026-07-18T22:19:50+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784413190.473139",
+      "summary_character_count": 131,
+      "summary_japanese": "キラルCo1/3TaS2とFe3GeTe2からなるall-vdWヘテロ構造で、界面キラリティ由来の2種のspin-orbit torqueにより、~10^6 A/cm^2の低電流密度で磁場なし垂直磁化反転を実現した。Fe3GaTe2置換系では室温動作も達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interfacial chirality-induced magnetic-field-free switching with high energy efficiency in all-vdW heterostructures"
+    },
+    "10.1103/m1yh-fgrw": {
+      "doi": "10.1103/m1yh-fgrw",
+      "posted_at": "2026-07-18T22:19:36+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784413176.105209",
+      "summary_character_count": 126,
+      "summary_japanese": "初期磁気ヘリシティの異なる条件でCMEを解析し、非ヘリカル場でも局在したヘリカル構造により数十年でマグネター級双極子場が生成されると示した。発現にはμ_5^max≳few×10^−11 MeVを要し、その後の安定性・減衰は初期ヘリシティ分布に依存した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magnetar field dynamics driven by chiral anomalies without magnetic helicity"
     },
     "10.1126/sciadv.aec8167": {
       "doi": "10.1126/sciadv.aec8167",
@@ -545,6 +583,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "AIE-Active Azahelicenes with High-Performance Circularly Polarized Luminescence for Lipid Droplet Visualization"
+    },
+    "10.48550/arxiv.2607.11037": {
+      "doi": "10.48550/arxiv.2607.11037",
+      "posted_at": "2026-07-18T22:19:39+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784413179.669909",
+      "summary_character_count": 108,
+      "summary_japanese": "キラル2次元ペロブスカイト(R/S-MBACl)2PbI4で偏光分解THG測定を行い、直交偏光チャネルの逆符号応答を分離して、通信帯CPL検出と1.9超のTHG-CD dissymmetry factorを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Telecom-band Chiral Light Detection through Hidden Giant Third-Order Nonlinear Circular Dichroism in Two-dimensional Halide Perovskite"
+    },
+    "10.48550/arxiv.2607.12435": {
+      "doi": "10.48550/arxiv.2607.12435",
+      "posted_at": "2026-07-18T22:19:46+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784413186.890399",
+      "summary_character_count": 130,
+      "summary_japanese": "空間変調した光学キラリティーとほぼ均一な電場エネルギー密度をもつ光場により、単一キラルナノ粒子の差分応答が光学キラリティー変調に追従することを直接実証した。アキラル粒子では変調は見られず、電磁場シミュレーションはエナンチオ選択的光トラップの実現可能性も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direct Observation of Nanoscale Chiral Light-Matter Interactions Governed by Optical Chirality"
     },
     "10.48550/arxiv.2607.12819": {
       "doi": "10.48550/arxiv.2607.12819",
