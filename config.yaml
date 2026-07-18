@@ -302,7 +302,7 @@ exclusion_keywords:
 # OpenAI Japanese summary settings.
 ai_summary:
   enabled: true
-  model: gpt-5.6-sol
+  model: gpt-5.6-terra
 
   reasoning_effort: none
   fallback_reasoning_effort: low
