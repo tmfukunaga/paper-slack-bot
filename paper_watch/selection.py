@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from .models import Paper
+from .text_utils import normalize_journal
 
 
 def sort_key(paper: Paper) -> tuple[int, str, str]:
@@ -9,99 +10,59 @@ def sort_key(paper: Paper) -> tuple[int, str, str]:
 
 
 def meets_posting_floor(paper: Paper, config: dict) -> bool:
-    """Return whether a paper is eligible for either posting class."""
-    posting = config["posting"]
+    """Return whether a paper clears the single score and source filter."""
     return (
-        paper.score >= int(posting["conditional_minimum_score"])
-        and paper.keyword_score >= int(posting["minimum_keyword_score"])
+        paper.score >= int(config["posting"]["minimum_score"])
+        and not is_excluded_source(paper, config)
     )
 
 
-def is_guaranteed(paper: Paper, config: dict) -> bool:
-    """Return whether a paper belongs to the high-score class."""
-    return paper.score >= int(config["posting"]["guaranteed_score"])
+def is_excluded_source(paper: Paper, config: dict) -> bool:
+    """Return whether the OpenAlex source matches a configured exclusion."""
+    source = normalize_journal(paper.journal)
+    if not source:
+        return False
+    for item in config["excluded_sources"]:
+        aliases = [item["canonical"], *item.get("aliases", [])]
+        if any(source == normalize_journal(alias) for alias in aliases):
+            return True
+    return False
 
 
-def split_candidates(
-    papers: list[Paper],
-    config: dict,
-) -> tuple[list[Paper], list[Paper]]:
-    """Return high-score and conditional candidates, each score-sorted."""
+def eligible_candidates(papers: list[Paper], config: dict) -> list[Paper]:
+    """Return score-qualified, non-excluded candidates in priority order."""
     accepted = [paper for paper in papers if meets_posting_floor(paper, config)]
     accepted.sort(key=sort_key, reverse=True)
-
-    guaranteed = [paper for paper in accepted if is_guaranteed(paper, config)]
-    conditional = [paper for paper in accepted if not is_guaranteed(paper, config)]
-    return guaranteed, conditional
-
-
-def can_post_conditional(
-    *,
-    successful_this_run: int,
-    successful_before_run_today: int,
-    config: dict,
-) -> bool:
-    """Return whether another score-11-to-14 paper may fill a soft slot."""
-    posting = config["posting"]
-    return (
-        successful_this_run < int(posting["target_posts_per_run"])
-        and successful_before_run_today + successful_this_run
-        < int(posting["target_posts_per_day"])
-        and successful_this_run < int(posting["maximum_posts_per_run"])
-    )
+    return accepted
 
 
 def select_for_run(
-    guaranteed: list[Paper],
-    conditional: list[Paper],
+    candidates: list[Paper],
     *,
     successful_before_run_today: int,
     config: dict,
 ) -> list[Paper]:
     """Select papers before any OpenAI call.
 
-    Rules:
-    - Score >= guaranteed_score has priority, but the whole run is hard-capped.
-    - Score 11-14 only fills the soft run target while the daily soft target remains.
-    - Only papers returned here may be summarized in this run.
+    The result is capped both per run and by the remaining daily allowance.
+    Only papers returned here may be summarized in this run.
     """
     posting = config["posting"]
-    hard_cap = int(posting["maximum_posts_per_run"])
-
-    selected = list(guaranteed[:hard_cap])
-    selected_keys = {paper.key for paper in selected}
-
-    successful_this_run = len(selected)
-    for paper in conditional:
-        if successful_this_run >= hard_cap:
-            break
-        if not can_post_conditional(
-            successful_this_run=successful_this_run,
-            successful_before_run_today=successful_before_run_today,
-            config=config,
-        ):
-            break
-        if paper.key in selected_keys:
-            continue
-        selected.append(paper)
-        selected_keys.add(paper.key)
-        successful_this_run += 1
-
-    selected.sort(key=sort_key, reverse=True)
-    return selected
+    run_cap = int(posting["maximum_posts_per_run"])
+    daily_cap = int(posting["maximum_posts_per_day"])
+    remaining_today = max(0, daily_cap - successful_before_run_today)
+    return candidates[: min(run_cap, remaining_today)]
 
 
 def preview_selection(
-    guaranteed: list[Paper],
-    conditional: list[Paper],
+    candidates: list[Paper],
     *,
     successful_before_run_today: int,
     config: dict,
 ) -> list[Paper]:
     """Backward-compatible dry-run wrapper."""
     return select_for_run(
-        guaranteed,
-        conditional,
+        candidates,
         successful_before_run_today=successful_before_run_today,
         config=config,
     )
