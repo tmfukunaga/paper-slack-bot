@@ -8,11 +8,6 @@ timezone: Asia/Tokyo
 
 runtime:
   lookback_publication_days: 7
-  # Treat works updated by OpenAlex within this window as newly distributed.
-  discovery_updated_within_hours: 24
-  # Keep qualifying overflow candidates so the five-paper run cap does not
-  # cause them to disappear from the queue immediately.
-  pending_retention_days: 7
   pages_per_query: 2
   results_per_page: 100
   # Split broad keyword lists so common terms do not bury niche terms.
