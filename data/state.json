@@ -1,6 +1,7 @@
 {
   "daily_counts": {
-    "2026-07-18": 40
+    "2026-07-18": 40,
+    "2026-07-19": 8
   },
   "pending": [],
   "posted": {
@@ -54,6 +55,19 @@
       "posted_at": "2026-07-18T07:02:10+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1002/anie.2204400": {
+      "doi": "10.1002/anie.2204400",
+      "posted_at": "2026-07-18T15:13:37+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387617.086439",
+      "summary_character_count": 102,
+      "summary_japanese": "azuleneを2,6位で環化した[6]cycloparaazulenyleneを合成し、X線構造解析と計算で評価した。狭いHOMO–LUMOギャップと可視光吸収を示し、電子構造は局所芳香族性が支配した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Cycloazulenylene"
     },
     "10.1002/anie.2300390": {
       "doi": "10.1002/anie.2300390",
@@ -152,6 +166,19 @@
       "summary_used_fallback": false,
       "title": "Symmetry Breaking in Achiral Porphyrins: Noncovalent Origins of Emergent Optical Activity"
     },
+    "10.1002/chir.70122": {
+      "doi": "10.1002/chir.70122",
+      "posted_at": "2026-07-18T15:14:02+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387642.552849",
+      "summary_character_count": 106,
+      "summary_japanese": "Chiralpak ADとethanol移動相を用いるLUME鏡像異性体のgreen chiral HPLC法を開発した。80–120 μg/mLで妥当性を確認し、ECDによりR体、S体の順に溶出すると推定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Green Chiral HPLC Method for Lumefantrine Analysis: Method Development, Greenness Assessment, and Computational Studies"
+    },
     "10.1002/cjoc.70701": {
       "doi": "10.1002/cjoc.70701",
       "posted_at": "2026-07-17T21:10:54+00:00",
@@ -164,6 +191,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral Amide Chain End Directed Asymmetric Crystallization-Driven Self-Assembly of Oligo( p -phenylenevinylene) Oligomers: Influence of Structure of Amide Chain Ends †"
+    },
+    "10.1002/lpor.71570": {
+      "doi": "10.1002/lpor.71570",
+      "posted_at": "2026-07-18T15:13:57+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387637.366639",
+      "summary_character_count": 89,
+      "summary_japanese": "誘電体メタ表面を覆う液晶層で鏡映対称性を破り、chiral-BICを形成した。加熱による円二色性の変化と、色素添加液晶による低閾値かつ楕円偏光・温度可変のレーザー発振を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Liquid Crystal-Enabled Chiral Quasi-BIC Metasurface Laser With Temperature-Controlled Polarization"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -261,6 +301,19 @@
       "summary_used_fallback": false,
       "title": "Herbicide Recognition, Sensing, and Removal Enabled by Supramolecular Macrocyclic Chemistry"
     },
+    "10.1021/acs.jced.6c00076": {
+      "doi": "10.1021/acs.jced.6c00076",
+      "posted_at": "2026-07-18T15:14:15+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387655.438429",
+      "summary_character_count": 102,
+      "summary_japanese": "キラル／ラセミ酸とHBAから調製したDESを分光法と物性・溶解度測定で解析し、立体化学依存の水素結合網を確認した。4EG:L-MacはMCCを59.5 wt %溶解し、D体の44.7 wt %を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
+    },
     "10.1021/acs.langmuir.6c03074": {
       "doi": "10.1021/acs.langmuir.6c03074",
       "posted_at": "2026-07-17T17:07:24+00:00",
@@ -292,6 +345,19 @@
       "posted_at": "2026-07-18T07:02:48+00:00",
       "recovered_from_run": 29635004972,
       "score": 27
+    },
+    "10.1021/acscatal.6c03374": {
+      "doi": "10.1021/acscatal.6c03374",
+      "posted_at": "2026-07-18T15:14:09+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387649.734409",
+      "summary_character_count": 118,
+      "summary_japanese": "N-Tfs hydrazones由来のRh-carbeneとラセミmonohydrosilaneのSi-H挿入で、CF3基と芳香族相互作用を利用し、速度論的光学分割（最大s = 397）を伴って炭素・ケイ素立体中心を高選択的に構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Diastereo- and Enantioselective Rh-Catalyzed Si-H Insertion of N -Triftosylhydrazones: From Carbon to Silicon-Stereogenic Centers"
     },
     "10.1021/acsnano.6c06602": {
       "doi": "10.1021/acsnano.6c06602",
@@ -416,6 +482,19 @@
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
     },
+    "10.26434/chemrxiv.15002521/v2": {
+      "doi": "10.26434/chemrxiv.15002521/v2",
+      "posted_at": "2026-07-18T15:13:30+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387609.933669",
+      "summary_character_count": 106,
+      "summary_japanese": "結晶工学でCoulombic–CT結合を混成したキラルPBIのねじれH会合結晶は、約165 meVの励起子分裂によりエキシマー形成を抑え、φPL 8%、glum 3–8×10−3の高純度深赤色固体CPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Bright Red Solid-State Circularly Polarized Luminescence from Crystalline H-Aggregated Perylene Bisimide"
+    },
     "10.26434/chemrxiv.15005651/v2": {
       "doi": "10.26434/chemrxiv.15005651/v2",
       "posted_at": "2026-07-18T07:02:53+00:00",
@@ -440,6 +519,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Deciphering the Chiral Inducer in Micelle-Templated Growth of Chiral Gold Nanorods"
+    },
+    "10.26434/chemrxiv.15006175/v1": {
+      "doi": "10.26434/chemrxiv.15006175/v1",
+      "posted_at": "2026-07-18T15:13:51+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387631.171479",
+      "summary_character_count": 98,
+      "summary_japanese": "同一構造のR体・S体・ラセミ体COFを比較し、CISSによるスピン偏極とORR選択性を磁気伝導AFMおよび回転リングディスク電極で評価し、過酸化水素生成を促すという仮説を検証する枠組みを提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "Spin-Polarization-Driven Modulation of Oxygen Reduction Pathway Selectivity in Chiral Covalent Organic Frameworks"
+    },
+    "10.26434/chemrxiv.15006231/v1": {
+      "doi": "10.26434/chemrxiv.15006231/v1",
+      "posted_at": "2026-07-18T15:13:45+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784387625.250589",
+      "summary_character_count": 114,
+      "summary_japanese": "含窒素らせん骨格とtriphenylamine誘導体を組み合わせ、AIE活性azaheliceneを3段階で合成した。Aza[7]TOMは強い円偏光発光を示し、生細胞の脂肪滴を高選択的かつ洗浄不要で可視化し、成熟状態も検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-sol",
+      "summary_used_fallback": false,
+      "title": "AIE-Active Azahelicenes with High-Performance Circularly Polarized Luminescence for Lipid Droplet Visualization"
     },
     "10.48550/arxiv.2607.12819": {
       "doi": "10.48550/arxiv.2607.12819",
