@@ -1,5 +1,5 @@
 from copy import deepcopy
-from datetime import date, datetime, timedelta, timezone
+from datetime import date
 from pathlib import Path
 
 import pytest
@@ -13,7 +13,8 @@ from paper_watch.ai_summary import (
 )
 from paper_watch.config_validation import ConfigError, validate_config
 from paper_watch.models import Paper
-from paper_watch.openalex_client import build_work_filter, was_updated_since
+from paper_watch import openalex_client
+from paper_watch.openalex_client import build_work_filter
 from paper_watch.scoring import apply_score, score_paper
 from paper_watch.slack_client import build_paper_blocks
 
@@ -127,12 +128,43 @@ def test_free_openalex_filter_includes_preprints_and_no_created_date():
     assert "from_created_date" not in value
 
 
-def test_openalex_update_window_is_filtered_locally():
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
-    recent = {"updated_date": (cutoff + timedelta(minutes=1)).isoformat()}
-    old = {"updated_date": (cutoff - timedelta(minutes=1)).isoformat()}
-    assert was_updated_since(recent, cutoff)
-    assert not was_updated_since(old, cutoff)
+def test_openalex_fetch_uses_publication_window_without_paid_sort(monkeypatch):
+    captured = []
+
+    class FakeResponse:
+        def json(self):
+            return {
+                "meta": {"cost_usd": 0.001},
+                "results": [
+                    {
+                        "id": "https://openalex.org/W1",
+                        "doi": "https://doi.org/10.0000/test",
+                        "title": "A molecular nanocarbon",
+                        "authorships": [],
+                        "primary_location": {"source": {"display_name": "Chemical Science"}},
+                        "publication_date": "2026-07-19",
+                        "updated_date": "2020-01-01T00:00:00Z",
+                        "abstract_inverted_index": {},
+                    }
+                ],
+            }
+
+    def fake_get(params):
+        captured.append(params)
+        return FakeResponse()
+
+    local_config = deepcopy(CONFIG)
+    local_config["runtime"]["pages_per_query"] = 1
+    local_config["runtime"]["results_per_page"] = 100
+    local_config["keywords"] = {
+        "core": {"search_enabled": True, "terms": ["nanocarbon"]}
+    }
+    monkeypatch.setattr(openalex_client, "_get_with_retry", fake_get)
+
+    papers = openalex_client.fetch_candidates("test-key", local_config)
+    assert len(papers) == 1
+    assert "from_publication_date:" in captured[0]["filter"]
+    assert "sort" not in captured[0]
 
 
 def test_summary_prompt_keeps_chemical_names_in_english():
