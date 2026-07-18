@@ -101,6 +101,7 @@ def validate_config(config: dict[str, Any]) -> None:
         raise ConfigError("posting.maximum_posts_per_run must be at least 1.")
     excluded_sources = _require_list(root["excluded_sources"], "excluded_sources")
     seen_excluded_aliases: dict[str, str] = {}
+    seen_excluded_prefixes: dict[str, str] = {}
     for index, raw_item in enumerate(excluded_sources):
         item = _require_mapping(raw_item, f"excluded_sources[{index}]")
         canonical = item.get("canonical")
@@ -120,6 +121,23 @@ def validate_config(config: dict[str, Any]) -> None:
                     f"Excluded source alias {alias!r} is used by both {owner} and {canonical}."
                 )
             seen_excluded_aliases[normalized] = canonical
+        raw_prefixes = item.get("doi_prefixes", [])
+        prefixes = (
+            _require_string_list(
+                raw_prefixes,
+                f"excluded_sources[{index}].doi_prefixes",
+            )
+            if raw_prefixes
+            else []
+        )
+        for prefix in prefixes:
+            normalized_prefix = prefix.strip().lower()
+            owner = seen_excluded_prefixes.get(normalized_prefix)
+            if owner and owner != canonical:
+                raise ConfigError(
+                    f"Excluded DOI prefix {prefix!r} is used by both {owner} and {canonical}."
+                )
+            seen_excluded_prefixes[normalized_prefix] = canonical
 
     tiers = _require_mapping(root["journal_tiers"], "journal_tiers")
     if not tiers:
