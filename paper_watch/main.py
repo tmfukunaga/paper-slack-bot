@@ -27,9 +27,7 @@ from .selection import (
 from .slack_client import post_paper
 from .state import (
     load_state,
-    pending_papers,
     prune_state,
-    retain_recent_pending,
     save_state,
 )
 
@@ -165,11 +163,6 @@ def post_one(
         "summary_used_fallback": paper.summary_used_fallback,
     }
     state["daily_counts"][today] = used_today + posted_count + 1
-    state["pending"] = [
-        item for item in state.get("pending", [])
-        if Paper.from_dict(item).key != paper.key
-    ]
-
     # Save after every success so a later failure cannot cause duplicate posts.
     save_state(state_path, state)
 
@@ -207,21 +200,13 @@ def main() -> None:
     state = load_state(args.state)
     prune_state(state)
     discovered = fetch_candidates(openalex_key, config)
-    queued = retain_recent_pending(
-        pending_papers(state),
-        int(config["runtime"]["pending_retention_days"]),
-    )
-    candidates_by_key = {paper.key: paper for paper in queued}
-    candidates_by_key.update({paper.key: paper for paper in discovered})
-    candidates = list(candidates_by_key.values())
     scored = enrich_and_score_candidates(
-        candidates,
+        discovered,
         state=state,
         config=config,
         contact_email=contact_email,
     )
     eligible = eligible_candidates(scored, config)
-    state["pending"] = [paper.to_dict() for paper in eligible]
 
     today = current_local_date(config)
     used_today = int(state["daily_counts"].get(today, 0))
@@ -290,11 +275,6 @@ def main() -> None:
     if posted_count == 0:
         logging.info("No papers posted. used_today=%s", used_today)
 
-    posted_keys = set(state["posted"])
-    state["pending"] = [
-        item for item in state.get("pending", [])
-        if Paper.from_dict(item).key not in posted_keys
-    ]
     save_state(args.state, state)
 
 
