@@ -155,7 +155,7 @@ excluded_sources:
 
 ```yaml
 ai_summary:
-  model: gpt-5.6-sol
+  model: gpt-5.6-terra
   reasoning_effort: none
   target_characters: 100
   minimum_characters: 85
@@ -164,7 +164,7 @@ ai_summary:
   retry_max_output_tokens: 8192
 ```
 
-標準では、品質を優先して`gpt-5.6-sol`を使います。費用を抑える場合は`gpt-5.6-terra`へ変更できます。
+標準では、専門的な要約品質と費用のバランスを取るため`gpt-5.6-terra`を使います。より高い品質を優先する場合は`gpt-5.6-sol`へ変更できます。
 
 要約ルール：
 
