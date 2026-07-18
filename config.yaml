@@ -10,7 +10,7 @@ runtime:
   lookback_publication_days: 7
   # Treat works updated by OpenAlex within this window as newly distributed.
   discovery_updated_within_hours: 24
-  # Keep qualifying overflow candidates so the eight-paper run cap does not
+  # Keep qualifying overflow candidates so the five-paper run cap does not
   # cause them to disappear from the queue immediately.
   pending_retention_days: 7
   pages_per_query: 2
@@ -24,8 +24,7 @@ runtime:
 
 posting:
   minimum_score: 15
-  maximum_posts_per_run: 8
-  maximum_posts_per_day: 40
+  maximum_posts_per_run: 5
   maximum_tags_displayed: 12
 
 # Sources listed here are never posted, regardless of score. Matching ignores
