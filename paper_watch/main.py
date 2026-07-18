@@ -237,17 +237,14 @@ def main() -> None:
 
     selected = select_for_run(
         eligible,
-        successful_before_run_today=used_today,
         config=config,
     )
 
     logging.info(
-        "Selection pool: eligible=%s selected=%s run_cap=%s daily_cap=%s used_today=%s",
+        "Selection pool: eligible=%s selected=%s run_cap=%s",
         len(eligible),
         len(selected),
         int(config["posting"]["maximum_posts_per_run"]),
-        int(config["posting"]["maximum_posts_per_day"]),
-        used_today,
     )
     logging.info(
         "Only the %s selected papers will be sent to OpenAI in this run.",
