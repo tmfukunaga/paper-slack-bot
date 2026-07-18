@@ -97,6 +97,55 @@ def test_arxiv_doi_is_excluded_even_when_source_name_is_different():
     assert eligible_candidates([paper], CONFIG) == []
 
 
+def test_pure_physics_journal_families_are_excluded_regardless_of_score():
+    journals = [
+        "Physical Review Letters",
+        "Physical Review B",
+        "Physical Review X",
+        "Reviews of Modern Physics",
+        "Nature Physics",
+        "Communications Physics",
+        "Journal of Physics: Condensed Matter",
+        "New Journal of Physics",
+        "Classical and Quantum Gravity",
+        "Reports on Progress in Physics",
+        "Journal of Cosmology and Astroparticle Physics",
+        "The European Physical Journal E",
+        "Physics Letters B",
+        "Nuclear Physics B",
+        "Physics Reports",
+        "Annals of Physics",
+        "Journal of High Energy Physics",
+        "Applied Physics Letters",
+        "Journal of Applied Physics",
+        "Physics of Plasmas",
+    ]
+
+    for index, journal in enumerate(journals):
+        paper = make_paper(99, f"physics-{index}", journal)
+        assert is_excluded_source(paper, CONFIG), journal
+        assert eligible_candidates([paper], CONFIG) == [], journal
+
+
+def test_aps_doi_is_excluded_even_when_source_name_is_missing():
+    paper = make_paper(99, "aps", "")
+    paper.doi = "10.1103/PhysRevLett.130.123456"
+    assert is_excluded_source(paper, CONFIG)
+
+
+def test_chemistry_journals_with_similar_words_remain_allowed():
+    journals = [
+        "The Journal of Physical Chemistry A",
+        "Physical Chemistry Chemical Physics",
+        "Chemical Physics Letters",
+    ]
+
+    for index, journal in enumerate(journals):
+        paper = make_paper(20, f"chemistry-{index}", journal)
+        assert not is_excluded_source(paper, CONFIG), journal
+        assert eligible_candidates([paper], CONFIG) == [paper], journal
+
+
 def test_selection_never_exceeds_configured_run_cap():
     local_config = yaml.safe_load(yaml.safe_dump(CONFIG))
     local_config["posting"]["maximum_posts_per_run"] = 2
