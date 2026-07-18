@@ -4,7 +4,7 @@
 
 この版は、英語Abstractと画像をSlackへ表示せず、OpenAI APIで作成した**日本語約100字の要約**を表示します。
 
-投稿対象はScore 15以上だけです。スコア順に1回最大8本、1日最大40本を選び、選ばれた論文だけをOpenAIへ送ります。基準と除外媒体は`config.yaml`だけで変更できます。
+OpenAlexで直近24時間に更新された論文を新着として取得し、投稿対象候補へ追加します。Score 15以上をスコア順に1回最大8本、1日最大40本選び、選ばれた論文だけをOpenAIへ送ります。基準と除外媒体は`config.yaml`だけで変更できます。
 
 ### 1. GitHub Secretを1件追加
 
@@ -112,6 +112,17 @@ posting:
   maximum_posts_per_run: 8
   maximum_posts_per_day: 40
 ```
+
+新着取得と候補保持期間：
+
+```yaml
+runtime:
+  lookback_publication_days: 7
+  discovery_updated_within_hours: 24
+  pending_retention_days: 7
+```
+
+公開日が過去7日以内で、OpenAlexの`updated_date`が直近24時間以内の論文を新着として取得します。1回8本または1日40本の上限から漏れた15点以上の候補は、最大7日間キューへ保持します。
 
 ```text
 Total score = keyword score + journal score - exclusion penalty
