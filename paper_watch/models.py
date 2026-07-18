@@ -14,6 +14,7 @@ class Paper:
     publication_date: str
     abstract_original: str
     landing_page_url: str
+    updated_date: str = ""
     score: int = 0
     keyword_score: int = 0
     journal_score: int = 0
