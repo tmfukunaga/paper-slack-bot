@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from .models import Paper
-from .text_utils import normalize_journal
+from .text_utils import normalize_doi, normalize_journal
 
 
 def sort_key(paper: Paper) -> tuple[int, str, str]:
@@ -18,13 +18,15 @@ def meets_posting_floor(paper: Paper, config: dict) -> bool:
 
 
 def is_excluded_source(paper: Paper, config: dict) -> bool:
-    """Return whether the OpenAlex source matches a configured exclusion."""
+    """Return whether the source name or DOI matches a configured exclusion."""
     source = normalize_journal(paper.journal)
-    if not source:
-        return False
+    doi = normalize_doi(paper.doi)
     for item in config["excluded_sources"]:
         aliases = [item["canonical"], *item.get("aliases", [])]
-        if any(source == normalize_journal(alias) for alias in aliases):
+        if source and any(source == normalize_journal(alias) for alias in aliases):
+            return True
+        prefixes = [normalize_doi(value) for value in item.get("doi_prefixes", [])]
+        if doi and any(doi.startswith(prefix) for prefix in prefixes):
             return True
     return False
 
