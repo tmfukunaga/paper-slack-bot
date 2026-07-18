@@ -104,7 +104,7 @@ def test_exclusion_penalty_filters_peptide_cpp_by_score():
     )
     assert "CPP" in result.core_title
     assert "peptide" in result.exclude_title
-    assert result.score < int(CONFIG["posting"]["conditional_minimum_score"])
+    assert result.score < int(CONFIG["posting"]["minimum_score"])
 
 
 def test_tags_contain_only_positive_matches():
