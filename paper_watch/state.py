@@ -63,3 +63,19 @@ def pending_papers(state: dict) -> list[Paper]:
         except TypeError:
             continue
     return papers
+
+
+def retain_recent_pending(papers: list[Paper], retention_days: int) -> list[Paper]:
+    """Drop queued papers whose latest OpenAlex update is too old."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=retention_days)
+    retained = []
+    for paper in papers:
+        try:
+            updated = datetime.fromisoformat(paper.updated_date.replace("Z", "+00:00"))
+        except (AttributeError, ValueError):
+            continue
+        if updated.tzinfo is None:
+            updated = updated.replace(tzinfo=timezone.utc)
+        if updated.astimezone(timezone.utc) >= cutoff:
+            retained.append(paper)
+    return retained
