@@ -148,9 +148,32 @@ excluded_sources:
   - canonical: arXiv
     aliases: [arXiv, arXiv (Cornell University)]
     doi_prefixes: [10.48550/arXiv.]
+  - canonical: Physical Review family
+    aliases: [Reviews of Modern Physics]
+    source_prefixes: [Physical Review]
+    doi_prefixes: [10.1103/]
+  - canonical: Nature pure physics journals
+    aliases: [Nature Physics, Communications Physics]
+  - canonical: IOP pure physics journals
+    aliases:
+      - New Journal of Physics
+      - Classical and Quantum Gravity
+      - Reports on Progress in Physics
+      - Journal of Cosmology and Astroparticle Physics
+    source_prefixes: [Journal of Physics]
+  - canonical: European Physical Journal family
+    aliases: [European Physical Journal]
+    source_prefixes: [European Physical Journal, The European Physical Journal]
+  - canonical: Elsevier pure physics journals
+    aliases: [Physics Reports, Annals of Physics]
+    source_prefixes: [Physics Letters, Nuclear Physics]
+  - canonical: Journal of High Energy Physics
+    aliases: [Journal of High Energy Physics, JHEP]
+  - canonical: AIP pure physics journals
+    aliases: [Applied Physics Letters, Journal of Applied Physics, Physics of Plasmas]
 ```
 
-ここに登録した媒体はスコアに関係なく除外します。媒体名は大文字小文字、空白、句読点の違いを無視して照合し、`doi_prefixes`に一致する論文も除外します。
+ここに登録した媒体はスコアに関係なく除外します。媒体名は大文字小文字、空白、句読点の違いを無視して照合します。`source_prefixes`は系列名の前方一致、`doi_prefixes`はDOIの前方一致で除外します。たとえば`Physical Review`は全系列、`10.1103/`は媒体名を取得できなかったAPS論文も除外します。
 
 ### AI要約
 
