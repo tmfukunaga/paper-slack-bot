@@ -52,6 +52,7 @@ def validate_config(config: dict[str, Any]) -> None:
         "timezone",
         "runtime",
         "posting",
+        "excluded_sources",
         "journal_tiers",
         "keywords",
         "exclusion_keywords",
@@ -70,6 +71,7 @@ def validate_config(config: dict[str, Any]) -> None:
         "results_per_page",
         "search_terms_per_query",
         "slack_pause_seconds",
+        "abstract_enrichment_minimum_keyword_score",
     ):
         if key not in runtime:
             raise ConfigError(f"Missing required setting: runtime.{key}")
@@ -86,12 +88,9 @@ def validate_config(config: dict[str, Any]) -> None:
 
     posting = _require_mapping(root["posting"], "posting")
     for key in (
-        "guaranteed_score",
-        "conditional_minimum_score",
-        "target_posts_per_run",
-        "target_posts_per_day",
+        "minimum_score",
         "maximum_posts_per_run",
-        "minimum_keyword_score",
+        "maximum_posts_per_day",
         "maximum_tags_displayed",
     ):
         if key not in posting:
@@ -99,22 +98,32 @@ def validate_config(config: dict[str, Any]) -> None:
         _require_number(posting[key], f"posting.{key}", minimum=0)
     if int(posting["maximum_tags_displayed"]) < 1:
         raise ConfigError("posting.maximum_tags_displayed must be at least 1.")
-    if int(posting["conditional_minimum_score"]) >= int(posting["guaranteed_score"]):
-        raise ConfigError(
-            "posting.conditional_minimum_score must be lower than "
-            "posting.guaranteed_score."
-        )
-    if int(posting["target_posts_per_run"]) < 1:
-        raise ConfigError("posting.target_posts_per_run must be at least 1.")
-    if int(posting["target_posts_per_day"]) < 1:
-        raise ConfigError("posting.target_posts_per_day must be at least 1.")
     if int(posting["maximum_posts_per_run"]) < 1:
         raise ConfigError("posting.maximum_posts_per_run must be at least 1.")
-    if int(posting["target_posts_per_run"]) > int(posting["maximum_posts_per_run"]):
-        raise ConfigError(
-            "posting.target_posts_per_run must not exceed "
-            "posting.maximum_posts_per_run."
+    if int(posting["maximum_posts_per_day"]) < 1:
+        raise ConfigError("posting.maximum_posts_per_day must be at least 1.")
+
+    excluded_sources = _require_list(root["excluded_sources"], "excluded_sources")
+    seen_excluded_aliases: dict[str, str] = {}
+    for index, raw_item in enumerate(excluded_sources):
+        item = _require_mapping(raw_item, f"excluded_sources[{index}]")
+        canonical = item.get("canonical")
+        if not isinstance(canonical, str) or not canonical.strip():
+            raise ConfigError(
+                f"excluded_sources[{index}].canonical must be a non-empty string."
+            )
+        aliases = _require_string_list(
+            item.get("aliases") or [canonical],
+            f"excluded_sources[{index}].aliases",
         )
+        for alias in [canonical, *aliases]:
+            normalized = normalize_journal(alias)
+            owner = seen_excluded_aliases.get(normalized)
+            if owner and owner != canonical:
+                raise ConfigError(
+                    f"Excluded source alias {alias!r} is used by both {owner} and {canonical}."
+                )
+            seen_excluded_aliases[normalized] = canonical
 
     tiers = _require_mapping(root["journal_tiers"], "journal_tiers")
     if not tiers:
