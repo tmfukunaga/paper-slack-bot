@@ -30,6 +30,12 @@
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
     },
+    "10.1002/ange.8987942": {
+      "doi": "10.1002/ange.8987942",
+      "posted_at": "2026-07-18T07:02:30+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 29
+    },
     "10.1002/anie.1519414": {
       "doi": "10.1002/anie.1519414",
       "posted_at": "2026-07-17T17:07:08+00:00",
@@ -42,6 +48,12 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.2026-m1007035600": {
+      "doi": "10.1002/anie.2026-m1007035600",
+      "posted_at": "2026-07-18T07:02:10+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 29
     },
     "10.1002/anie.2300390": {
       "doi": "10.1002/anie.2300390",
@@ -81,6 +93,12 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Engineering LE-CT State Synergy in Aminoboranes for Single Molecule White Light Emission and Dual-Mode Chiroptical/Phosphorescence Output"
+    },
+    "10.1002/anie.7974480": {
+      "doi": "10.1002/anie.7974480",
+      "posted_at": "2026-07-18T07:02:00+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 30
     },
     "10.1002/anie.8909722": {
       "doi": "10.1002/anie.8909722",
@@ -173,6 +191,12 @@
       "summary_used_fallback": false,
       "title": "Color-Tunable Broadband Chiral Copper(I) Halides Scintillators for High-Resolution X-Ray Polarization Imaging"
     },
+    "10.1016/j.jciso.2026.100196": {
+      "doi": "10.1016/j.jciso.2026.100196",
+      "posted_at": "2026-07-18T07:02:17+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 29
+    },
     "10.1016/j.talanta.2026.130238": {
       "doi": "10.1016/j.talanta.2026.130238",
       "posted_at": "2026-07-17T17:28:10+00:00",
@@ -211,6 +235,18 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
+    },
+    "10.1021/acs.inorgchem.6c02821": {
+      "doi": "10.1021/acs.inorgchem.6c02821",
+      "posted_at": "2026-07-18T07:03:06+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 26
+    },
+    "10.1021/acs.inorgchem.6c02821.s001": {
+      "doi": "10.1021/acs.inorgchem.6c02821.s001",
+      "posted_at": "2026-07-18T07:03:00+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 26
     },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
@@ -251,6 +287,12 @@
       "summary_used_fallback": false,
       "title": "Clicking 1,4-Dithiin Conjugated Dimaleimides for Chiroptical Evolution and Nanofabrication"
     },
+    "10.1021/acs.orglett.6c02536": {
+      "doi": "10.1021/acs.orglett.6c02536",
+      "posted_at": "2026-07-18T07:02:48+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 27
+    },
     "10.1021/acsnano.6c06602": {
       "doi": "10.1021/acsnano.6c06602",
       "posted_at": "2026-07-17T17:07:55+00:00",
@@ -263,6 +305,12 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Correlative Multimodal Framework Reveals Supramolecular Chirality Loss Preceding Fibrillar Rarefaction in Dermal Collagen"
+    },
+    "10.1021/acsnano.6c09692": {
+      "doi": "10.1021/acsnano.6c09692",
+      "posted_at": "2026-07-18T07:02:24+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 29
     },
     "10.1021/jacs.6c06445": {
       "doi": "10.1021/jacs.6c06445",
@@ -368,6 +416,18 @@
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
     },
+    "10.26434/chemrxiv.15005651/v2": {
+      "doi": "10.26434/chemrxiv.15005651/v2",
+      "posted_at": "2026-07-18T07:02:53+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 27
+    },
+    "10.26434/chemrxiv.15006131/v1": {
+      "doi": "10.26434/chemrxiv.15006131/v1",
+      "posted_at": "2026-07-18T07:02:37+00:00",
+      "recovered_from_run": 29635004972,
+      "score": 27
+    },
     "10.26434/chemrxiv.15006144/v1": {
       "doi": "10.26434/chemrxiv.15006144/v1",
       "posted_at": "2026-07-17T21:11:05+00:00",
@@ -393,66 +453,6 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "What Is the Real-Time Atomistic Mechanism Behind Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Molecules?"
-    },
-    "10.1002/anie.7974480": {
-      "doi": "10.1002/anie.7974480",
-      "posted_at": "2026-07-18T07:02:00+00:00",
-      "score": 30,
-      "recovered_from_run": 29635004972
-    },
-    "10.1002/anie.2026-m1007035600": {
-      "doi": "10.1002/anie.2026-m1007035600",
-      "posted_at": "2026-07-18T07:02:10+00:00",
-      "score": 29,
-      "recovered_from_run": 29635004972
-    },
-    "10.1016/j.jciso.2026.100196": {
-      "doi": "10.1016/j.jciso.2026.100196",
-      "posted_at": "2026-07-18T07:02:17+00:00",
-      "score": 29,
-      "recovered_from_run": 29635004972
-    },
-    "10.1021/acsnano.6c09692": {
-      "doi": "10.1021/acsnano.6c09692",
-      "posted_at": "2026-07-18T07:02:24+00:00",
-      "score": 29,
-      "recovered_from_run": 29635004972
-    },
-    "10.1002/ange.8987942": {
-      "doi": "10.1002/ange.8987942",
-      "posted_at": "2026-07-18T07:02:30+00:00",
-      "score": 29,
-      "recovered_from_run": 29635004972
-    },
-    "10.26434/chemrxiv.15006131/v1": {
-      "doi": "10.26434/chemrxiv.15006131/v1",
-      "posted_at": "2026-07-18T07:02:37+00:00",
-      "score": 27,
-      "recovered_from_run": 29635004972
-    },
-    "10.1021/acs.orglett.6c02536": {
-      "doi": "10.1021/acs.orglett.6c02536",
-      "posted_at": "2026-07-18T07:02:48+00:00",
-      "score": 27,
-      "recovered_from_run": 29635004972
-    },
-    "10.26434/chemrxiv.15005651/v2": {
-      "doi": "10.26434/chemrxiv.15005651/v2",
-      "posted_at": "2026-07-18T07:02:53+00:00",
-      "score": 27,
-      "recovered_from_run": 29635004972
-    },
-    "10.1021/acs.inorgchem.6c02821.s001": {
-      "doi": "10.1021/acs.inorgchem.6c02821.s001",
-      "posted_at": "2026-07-18T07:03:00+00:00",
-      "score": 26,
-      "recovered_from_run": 29635004972
-    },
-    "10.1021/acs.inorgchem.6c02821": {
-      "doi": "10.1021/acs.inorgchem.6c02821",
-      "posted_at": "2026-07-18T07:03:06+00:00",
-      "score": 26,
-      "recovered_from_run": 29635004972
     }
   }
 }
