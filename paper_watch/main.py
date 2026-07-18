@@ -227,7 +227,7 @@ def main() -> None:
     used_today = int(state["daily_counts"].get(today, 0))
 
     # Papers without an Abstract cannot be summarized. Exclude them before
-    # selection so they do not consume one of the eight OpenAI slots.
+    # selection so they do not consume one of the five OpenAI slots.
     summarizable_keys = {
         paper.key
         for paper in eligible
