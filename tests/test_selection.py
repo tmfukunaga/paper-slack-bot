@@ -4,9 +4,9 @@ import yaml
 
 from paper_watch.models import Paper
 from paper_watch.selection import (
-    can_post_conditional,
+    eligible_candidates,
+    is_excluded_source,
     select_for_run,
-    split_candidates,
 )
 
 
@@ -15,13 +15,13 @@ CONFIG = yaml.safe_load(
 )
 
 
-def make_paper(score: int, doi_suffix: str) -> Paper:
+def make_paper(score: int, doi_suffix: str, journal: str = "Chemical Science") -> Paper:
     return Paper(
         openalex_id=f"W{doi_suffix}",
         doi=f"10.0000/{doi_suffix}",
         title=f"Paper {score} {doi_suffix}",
         authors=["A. Author"],
-        journal="Chemical Science",
+        journal=journal,
         publication_date="2026-07-17",
         abstract_original="An abstract.",
         landing_page_url=f"https://doi.org/10.0000/{doi_suffix}",
@@ -30,116 +30,79 @@ def make_paper(score: int, doi_suffix: str) -> Paper:
     )
 
 
-def test_high_scores_are_all_guaranteed_before_hard_cap():
-    guaranteed, conditional = split_candidates(
-        [make_paper(24, "a"), make_paper(18, "b"), make_paper(15, "c")],
-        CONFIG,
-    )
-    assert [paper.score for paper in guaranteed] == [24, 18, 15]
-    assert conditional == []
-
-
-def test_conditional_scores_fill_three_slots_in_score_order():
-    guaranteed, conditional = split_candidates(
-        [
-            make_paper(10, "x"),
-            make_paper(11, "a"),
-            make_paper(14, "b"),
-            make_paper(13, "c"),
-            make_paper(12, "d"),
-        ],
-        CONFIG,
-    )
-    selected = select_for_run(
-        guaranteed,
-        conditional,
-        successful_before_run_today=0,
-        config=CONFIG,
-    )
-    assert [paper.score for paper in selected] == [14, 13, 12]
-
-
-def test_guaranteed_papers_consume_soft_slots_before_conditional_fill():
-    guaranteed, conditional = split_candidates(
+def test_only_score_15_or_above_is_eligible_and_ordered():
+    eligible = eligible_candidates(
         [
             make_paper(20, "a"),
-            make_paper(16, "b"),
+            make_paper(15, "b"),
             make_paper(14, "c"),
-            make_paper(13, "d"),
         ],
         CONFIG,
     )
-    selected = select_for_run(
-        guaranteed,
-        conditional,
-        successful_before_run_today=0,
-        config=CONFIG,
-    )
-    assert [paper.score for paper in selected] == [20, 16, 14]
+    assert [paper.score for paper in eligible] == [20, 15]
 
 
-def test_hard_cap_keeps_only_top_ten_guaranteed_papers():
+def test_run_cap_keeps_only_top_eight_papers():
     papers = [make_paper(30 - index, str(index)) for index in range(15)]
-    guaranteed, conditional = split_candidates(papers, CONFIG)
+    eligible = eligible_candidates(papers, CONFIG)
     selected = select_for_run(
-        guaranteed,
-        conditional,
+        eligible,
         successful_before_run_today=0,
         config=CONFIG,
     )
-    assert len(selected) == 10
-    assert [paper.score for paper in selected] == list(range(30, 20, -1))
+    assert len(selected) == 8
+    assert [paper.score for paper in selected] == list(range(30, 22, -1))
 
 
-def test_guaranteed_papers_are_not_limited_by_soft_daily_target():
-    guaranteed, conditional = split_candidates(
-        [
-            make_paper(22, "a"),
-            make_paper(20, "b"),
-            make_paper(18, "c"),
-            make_paper(15, "d"),
-            make_paper(14, "e"),
-        ],
-        CONFIG,
+def test_daily_cap_limits_selection_to_remaining_allowance():
+    eligible = eligible_candidates(
+        [make_paper(22, "a"), make_paper(20, "b"), make_paper(18, "c")], CONFIG
     )
     selected = select_for_run(
-        guaranteed,
-        conditional,
-        successful_before_run_today=30,
+        eligible,
+        successful_before_run_today=38,
         config=CONFIG,
     )
-    assert [paper.score for paper in selected] == [22, 20, 18, 15]
+    assert [paper.score for paper in selected] == [22, 20]
 
 
-def test_daily_soft_target_limits_only_conditional_papers():
-    assert can_post_conditional(
-        successful_this_run=0,
-        successful_before_run_today=29,
-        config=CONFIG,
-    )
-    assert not can_post_conditional(
-        successful_this_run=1,
-        successful_before_run_today=29,
-        config=CONFIG,
-    )
-    assert not can_post_conditional(
-        successful_this_run=0,
-        successful_before_run_today=30,
-        config=CONFIG,
-    )
+def test_daily_cap_stops_selection_at_40():
+    eligible = eligible_candidates([make_paper(22, "a")], CONFIG)
+    assert select_for_run(
+        eligible, successful_before_run_today=40, config=CONFIG
+    ) == []
 
 
-def test_selection_never_exceeds_configured_hard_cap():
+def test_configured_sources_are_excluded_regardless_of_score():
+    for index, journal in enumerate(
+        [
+            "JCIS Open",
+            "Journal of Colloid and Interface Science Open",
+            "figshare",
+            "Research-Square",
+            "ARXIV",
+        ]
+    ):
+        paper = make_paper(99, str(index), journal)
+        assert is_excluded_source(paper, CONFIG)
+        assert eligible_candidates([paper], CONFIG) == []
+
+
+def test_unlisted_source_is_not_excluded():
+    paper = make_paper(20, "allowed", "Chemical Science")
+    assert not is_excluded_source(paper, CONFIG)
+    assert eligible_candidates([paper], CONFIG) == [paper]
+
+
+def test_selection_never_exceeds_configured_run_cap():
     local_config = yaml.safe_load(yaml.safe_dump(CONFIG))
     local_config["posting"]["maximum_posts_per_run"] = 2
-    local_config["posting"]["target_posts_per_run"] = 2
-    guaranteed, conditional = split_candidates(
+    eligible = eligible_candidates(
         [make_paper(20, "a"), make_paper(19, "b"), make_paper(18, "c")],
         local_config,
     )
     selected = select_for_run(
-        guaranteed,
-        conditional,
+        eligible,
         successful_before_run_today=0,
         config=local_config,
     )
