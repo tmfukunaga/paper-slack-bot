@@ -2,9 +2,11 @@ name: Paper Watch
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".paper-watch-trigger"
   schedule:
-    # Runs every three hours in Japan Standard Time:
-    # 00:10, 03:10, 06:10, 09:10, 12:10, 15:10, 18:10, 21:10
+    # Temporary fallback while heartbeat-triggered runs are being verified.
     - cron: "10 */3 * * *"
       timezone: "Asia/Tokyo"
 
