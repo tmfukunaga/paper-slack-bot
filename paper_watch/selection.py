@@ -25,6 +25,14 @@ def is_excluded_source(paper: Paper, config: dict) -> bool:
         aliases = [item["canonical"], *item.get("aliases", [])]
         if source and any(source == normalize_journal(alias) for alias in aliases):
             return True
+        source_prefixes = [
+            normalize_journal(value) for value in item.get("source_prefixes", [])
+        ]
+        if source and any(
+            source == prefix or source.startswith(f"{prefix} ")
+            for prefix in source_prefixes
+        ):
+            return True
         prefixes = [normalize_doi(value) for value in item.get("doi_prefixes", [])]
         if doi and any(doi.startswith(prefix) for prefix in prefixes):
             return True
