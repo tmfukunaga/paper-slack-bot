@@ -15,14 +15,19 @@ CONFIG = yaml.safe_load(
 )
 
 
-def make_paper(score: int, doi_suffix: str, journal: str = "Chemical Science") -> Paper:
+def make_paper(
+    score: int,
+    doi_suffix: str,
+    journal: str = "Chemical Science",
+    publication_date: str = "2026-07-17",
+) -> Paper:
     return Paper(
         openalex_id=f"W{doi_suffix}",
         doi=f"10.0000/{doi_suffix}",
         title=f"Paper {score} {doi_suffix}",
         authors=["A. Author"],
         journal=journal,
-        publication_date="2026-07-17",
+        publication_date=publication_date,
         abstract_original="An abstract.",
         landing_page_url=f"https://doi.org/10.0000/{doi_suffix}",
         score=score,
@@ -51,6 +56,17 @@ def test_run_cap_keeps_only_top_five_papers():
     )
     assert len(selected) == 5
     assert [paper.score for paper in selected] == list(range(30, 25, -1))
+
+
+def test_equal_scores_prefer_newer_publication_date():
+    eligible = eligible_candidates(
+        [
+            make_paper(20, "old", publication_date="2026-07-16"),
+            make_paper(20, "new", publication_date="2026-07-19"),
+        ],
+        CONFIG,
+    )
+    assert [paper.doi for paper in eligible] == ["10.0000/new", "10.0000/old"]
 
 
 def test_configured_sources_are_excluded_regardless_of_score():
