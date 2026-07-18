@@ -39,30 +39,21 @@ def eligible_candidates(papers: list[Paper], config: dict) -> list[Paper]:
 def select_for_run(
     candidates: list[Paper],
     *,
-    successful_before_run_today: int,
     config: dict,
 ) -> list[Paper]:
     """Select papers before any OpenAI call.
 
-    The result is capped both per run and by the remaining daily allowance.
-    Only papers returned here may be summarized in this run.
+    The result is capped per run. Only papers returned here may be summarized
+    in this run.
     """
-    posting = config["posting"]
-    run_cap = int(posting["maximum_posts_per_run"])
-    daily_cap = int(posting["maximum_posts_per_day"])
-    remaining_today = max(0, daily_cap - successful_before_run_today)
-    return candidates[: min(run_cap, remaining_today)]
+    run_cap = int(config["posting"]["maximum_posts_per_run"])
+    return candidates[:run_cap]
 
 
 def preview_selection(
     candidates: list[Paper],
     *,
-    successful_before_run_today: int,
     config: dict,
 ) -> list[Paper]:
     """Backward-compatible dry-run wrapper."""
-    return select_for_run(
-        candidates,
-        successful_before_run_today=successful_before_run_today,
-        config=config,
-    )
+    return select_for_run(candidates, config=config)
