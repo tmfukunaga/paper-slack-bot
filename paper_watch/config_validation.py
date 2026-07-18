@@ -96,7 +96,6 @@ def validate_config(config: dict[str, Any]) -> None:
     for key in (
         "minimum_score",
         "maximum_posts_per_run",
-        "maximum_posts_per_day",
         "maximum_tags_displayed",
     ):
         if key not in posting:
@@ -106,9 +105,6 @@ def validate_config(config: dict[str, Any]) -> None:
         raise ConfigError("posting.maximum_tags_displayed must be at least 1.")
     if int(posting["maximum_posts_per_run"]) < 1:
         raise ConfigError("posting.maximum_posts_per_run must be at least 1.")
-    if int(posting["maximum_posts_per_day"]) < 1:
-        raise ConfigError("posting.maximum_posts_per_day must be at least 1.")
-
     excluded_sources = _require_list(root["excluded_sources"], "excluded_sources")
     seen_excluded_aliases: dict[str, str] = {}
     for index, raw_item in enumerate(excluded_sources):
