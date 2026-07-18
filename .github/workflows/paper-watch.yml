@@ -58,4 +58,16 @@ jobs:
 
           git add data/state.json
           git commit -m "Update paper watch state [skip ci]"
-          git push
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+
+            echo "Push failed; rebasing state commit onto the latest main (attempt ${attempt}/3)"
+            git fetch origin main
+            git rebase origin/main
+          done
+
+          echo "Failed to persist state after three attempts"
+          exit 1
