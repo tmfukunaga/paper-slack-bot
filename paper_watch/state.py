@@ -4,10 +4,7 @@ import json
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
-from .models import Paper
-
-
-DEFAULT_STATE = {"posted": {}, "daily_counts": {}, "pending": []}
+DEFAULT_STATE = {"posted": {}, "daily_counts": {}}
 
 
 def load_state(path: Path) -> dict:
@@ -17,6 +14,10 @@ def load_state(path: Path) -> dict:
         data = json.load(handle)
     for key, default in DEFAULT_STATE.items():
         data.setdefault(key, default.copy() if isinstance(default, dict) else list(default))
+    # Pending candidates from the previous updated_date-based algorithm are
+    # deliberately discarded. The rolling seven-day retrieval rebuilds the
+    # candidate pool on every run.
+    data.pop("pending", None)
     return data
 
 
@@ -53,29 +54,3 @@ def _safe_date(value: str) -> date | None:
         return date.fromisoformat(value)
     except ValueError:
         return None
-
-
-def pending_papers(state: dict) -> list[Paper]:
-    papers = []
-    for item in state.get("pending", []):
-        try:
-            papers.append(Paper.from_dict(item))
-        except TypeError:
-            continue
-    return papers
-
-
-def retain_recent_pending(papers: list[Paper], retention_days: int) -> list[Paper]:
-    """Drop queued papers whose latest OpenAlex update is too old."""
-    cutoff = datetime.now(timezone.utc) - timedelta(days=retention_days)
-    retained = []
-    for paper in papers:
-        try:
-            updated = datetime.fromisoformat(paper.updated_date.replace("Z", "+00:00"))
-        except (AttributeError, ValueError):
-            continue
-        if updated.tzinfo is None:
-            updated = updated.replace(tzinfo=timezone.utc)
-        if updated.astimezone(timezone.utc) >= cutoff:
-            retained.append(paper)
-    return retained
