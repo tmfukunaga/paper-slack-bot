@@ -23,9 +23,13 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "trending_watch.yaml"
 SCOPUS_SEARCH_URL = "https://api.elsevier.com/content/search/scopus"
 SCOPUS_ABSTRACT_URL = "https://api.elsevier.com/content/abstract/doi/{doi}"
-MENDELEY_TOKEN_URL = "https://api.mendeley.com/oauth/token"
-MENDELEY_CATALOG_URL = "https://api.mendeley.com/catalog"
-MENDELEY_USER_AGENT = "paper-slack-bot/1.0 (+https://github.com/tmfukunaga/paper-slack-bot)"
+PLUMX_URL = "https://api.elsevier.com/analytics/plumx/doi/{doi}"
+
+PLUMX_COUNT_TYPES = {
+    "readers": {"READER_COUNT"},
+    "mentions": {"NEWS_COUNT", "ALL_BLOG_COUNT"},
+    "social": {"TWEET_COUNT", "FACEBOOK_COUNT"},
+}
 
 
 @dataclass
@@ -38,6 +42,9 @@ class Candidate:
     url: str
     abstract: str = ""
     reader_count: int = 0
+    mention_count: int = 0
+    social_count: int = 0
+    attention_score: float = 0.0
 
 
 def required_env(name: str) -> str:
@@ -163,63 +170,68 @@ def scopus_candidates(api_key: str, config: dict[str, Any]) -> list[Candidate]:
     return list(results.values())
 
 
-def mendeley_access_token(client_id: str, client_secret: str) -> str:
-    response = requests.post(
-        MENDELEY_TOKEN_URL,
-        headers={
-            "Accept": "application/json",
-            "User-Agent": MENDELEY_USER_AGENT,
-        },
-        auth=(client_id, client_secret),
-        data={"grant_type": "client_credentials", "scope": "all"},
-        timeout=45,
-    )
-    if not response.ok:
-        detail = re.sub(r"\s+", " ", response.text).strip()[:500]
-        raise RuntimeError(
-            f"Mendeley token request failed: HTTP {response.status_code}: {detail}"
-        )
-    payload = response.json()
-    token = str(payload.get("access_token") or "").strip() if isinstance(payload, dict) else ""
-    if not token:
-        raise RuntimeError("Mendeley token response did not contain access_token")
-    return token
-
-
-def mendeley_reader_count(access_token: str, doi: str) -> int:
-    response = requests.get(
-        MENDELEY_CATALOG_URL,
-        headers={
-            "Authorization": f"Bearer {access_token}",
-            "Accept": "application/vnd.mendeley-document.1+json",
-            "User-Agent": MENDELEY_USER_AGENT,
-        },
-        params={"doi": doi, "view": "stats"},
-        timeout=45,
-    )
-    if not response.ok:
-        detail = re.sub(r"\s+", " ", response.text).strip()[:500]
-        raise RuntimeError(
-            f"Mendeley Catalog request failed for DOI={doi}: "
-            f"HTTP {response.status_code}: {detail}"
-        )
-    payload = response.json()
-    documents = payload if isinstance(payload, list) else [payload]
-    counts: list[int] = []
-    for document in documents:
-        if not isinstance(document, dict):
+def _plumx_count_types(payload: dict[str, Any]) -> dict[str, int]:
+    counts: dict[str, int] = {}
+    categories = payload.get("count_categories", []) or []
+    if not isinstance(categories, list):
+        return counts
+    for category in categories:
+        if not isinstance(category, dict):
             continue
-        value = document.get("reader_count", 0)
-        if isinstance(value, (int, float)):
-            counts.append(max(0, int(value)))
-    return max(counts, default=0)
+        count_types = category.get("count_types", []) or []
+        if not isinstance(count_types, list):
+            continue
+        for count_type in count_types:
+            if not isinstance(count_type, dict):
+                continue
+            name = str(count_type.get("name") or "").strip().upper()
+            total = count_type.get("total", 0)
+            if name and isinstance(total, (int, float)):
+                counts[name] = max(counts.get(name, 0), max(0, int(total)))
+    return counts
 
 
-def rank_candidates(candidates: list[Candidate], minimum_reader_count: int) -> list[Candidate]:
-    usable = [item for item in candidates if item.reader_count >= minimum_reader_count]
+def plumx_attention_metrics(api_key: str, doi: str) -> tuple[int, int, int]:
+    payload = elsevier_get(PLUMX_URL.format(doi=quote(doi, safe="/")), api_key)
+    count_types = _plumx_count_types(payload)
+
+    def total(metric: str) -> int:
+        return sum(count_types.get(name, 0) for name in PLUMX_COUNT_TYPES[metric])
+
+    return total("readers"), total("mentions"), total("social")
+
+
+def _percentile(value: int, values: list[int]) -> float:
+    if value <= 0 or not values:
+        return 0.0
+    return sum(other <= value for other in values) / len(values)
+
+
+def rank_candidates(candidates: list[Candidate], minimum_total_attention: int) -> list[Candidate]:
+    reader_values = [item.reader_count for item in candidates]
+    mention_values = [item.mention_count for item in candidates]
+    social_values = [item.social_count for item in candidates]
+
+    usable = []
+    for item in candidates:
+        total_attention = item.reader_count + item.mention_count + item.social_count
+        if total_attention < minimum_total_attention:
+            continue
+        item.attention_score = (
+            _percentile(item.reader_count, reader_values)
+            + _percentile(item.mention_count, mention_values)
+            + _percentile(item.social_count, social_values)
+        ) / 3.0
+        usable.append(item)
+
     return sorted(
         usable,
-        key=lambda item: (item.reader_count, item.publication_date, item.title.casefold()),
+        key=lambda item: (
+            item.attention_score,
+            item.reader_count + item.mention_count + item.social_count,
+            item.publication_date,
+            item.title.casefold(),
+        ),
         reverse=True,
     )
 
@@ -268,30 +280,31 @@ def main() -> None:
         config = yaml.safe_load(handle)
 
     elsevier_key = required_env("ELSEVIER_API_KEY")
-    mendeley_client_id = required_env("MENDELEY_CLIENT_ID")
-    mendeley_client_secret = required_env("MENDELEY_CLIENT_SECRET")
     openai_key = required_env("OPENAI_API_KEY")
     slack_token = required_env("SLACK_BOT_TOKEN")
     channel_id = required_env("SLACK_CHANNEL_ID")
 
     candidates = scopus_candidates(elsevier_key, config)
     logging.info("Scopus candidates after 96-hour scope filtering: %s", len(candidates))
-    access_token = mendeley_access_token(mendeley_client_id, mendeley_client_secret)
 
     failures = 0
     for candidate in candidates:
         try:
-            candidate.reader_count = mendeley_reader_count(access_token, candidate.doi)
+            (
+                candidate.reader_count,
+                candidate.mention_count,
+                candidate.social_count,
+            ) = plumx_attention_metrics(elsevier_key, candidate.doi)
         except (requests.RequestException, RuntimeError) as exc:
             failures += 1
-            logging.warning("Mendeley lookup failed for DOI=%s: %s", candidate.doi, exc)
+            logging.warning("PlumX lookup failed for DOI=%s: %s", candidate.doi, exc)
     if candidates and failures == len(candidates):
-        raise RuntimeError("Every Mendeley Catalog lookup failed")
+        raise RuntimeError("Every PlumX lookup failed")
 
-    ranked = rank_candidates(candidates, int(config["ranking"]["minimum_reader_count"]))
+    ranked = rank_candidates(candidates, int(config["ranking"]["minimum_total_attention"]))
     logging.info(
-        "Candidates with at least %s Mendeley reader(s): %s",
-        config["ranking"]["minimum_reader_count"],
+        "Candidates with at least %s PlumX attention event(s): %s",
+        config["ranking"]["minimum_total_attention"],
         len(ranked),
     )
 
@@ -341,10 +354,13 @@ def main() -> None:
         )
         posted += 1
         logging.info(
-            "Posted Hot-%s DOI=%s reader_count=%s",
+            "Posted Hot-%s DOI=%s readers=%s mentions=%s social=%s score=%.3f",
             rank,
             candidate.doi,
             candidate.reader_count,
+            candidate.mention_count,
+            candidate.social_count,
+            candidate.attention_score,
         )
 
     logging.info("Posted %s paper(s)", posted)
