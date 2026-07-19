@@ -1,7 +1,7 @@
 {
   "daily_counts": {
     "2026-07-18": 40,
-    "2026-07-19": 23
+    "2026-07-19": 28
   },
   "posted": {
     "10.1002/advs.76555": {
@@ -300,6 +300,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
+    },
+    "10.1021/acs.chemmater.6c01554": {
+      "doi": "10.1021/acs.chemmater.6c01554",
+      "posted_at": "2026-07-19T06:15:47+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784441747.255999",
+      "summary_character_count": 132,
+      "summary_japanese": "R-BINOL[2]単結晶は、endo-hydroxyl部位とpyridineのO-H···N水素結合により、toluene/pyridine混合液から45分でpyridineを捕捉し、1分子当たり4分子を包接した。Tol純度は98.3%から99.3%へ上昇した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Efficient Macrocyclic Trap for Capture of Pyridine"
     },
     "10.1021/acs.inorgchem.6c02821": {
       "doi": "10.1021/acs.inorgchem.6c02821",
@@ -611,6 +624,19 @@
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
     },
+    "10.26434/chemrxiv.10001679/v3": {
+      "doi": "10.26434/chemrxiv.10001679/v3",
+      "posted_at": "2026-07-19T06:15:53+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784441753.563849",
+      "summary_character_count": 398,
+      "summary_japanese": "An Ir(I)-catalyzed hydroamination of 1,1-disubstituted allenes with α-aminopyridine provided α-tertiary chiral allylic amines with high regio- and enantioselectivity across aryl- and alkyl-substituted substrates. Mechanistic experiments and computations supported a hydrometalation/C–N bond-forming pathway, identifying C–N reductive elimination as the enantioselectivity- and TOF-determining step.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Iridium-Catalyzed Regio- and Enantioselective Hydroamination of Allenes: Direct Access to α-Tertiary Chiral Allylic Amines"
+    },
     "10.26434/chemrxiv.15002521/v2": {
       "doi": "10.26434/chemrxiv.15002521/v2",
       "posted_at": "2026-07-18T15:13:30+00:00",
@@ -629,6 +655,45 @@
       "posted_at": "2026-07-18T07:02:53+00:00",
       "recovered_from_run": 29635004972,
       "score": 27
+    },
+    "10.26434/chemrxiv.15006049/v1": {
+      "doi": "10.26434/chemrxiv.15006049/v1",
+      "posted_at": "2026-07-19T06:16:06+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784441765.984569",
+      "summary_character_count": 120,
+      "summary_japanese": "液中超音波法で作製した多層graphene moiré超格子は、室温でRTD様特性を示し、1.41 V・0.45 Tで最大90.47±1.81%のスピン分極を示した。ねじれ界面を量子井戸、欠陥含有nanosheetをトンネル障壁と提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Resonant Quantum Tunneling Mediated High Chirality Induced Spin Selectivity in the Multilayered Moiré Superlattices of Graphene"
+    },
+    "10.26434/chemrxiv.15006051/v1": {
+      "doi": "10.26434/chemrxiv.15006051/v1",
+      "posted_at": "2026-07-19T06:16:09+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784441769.548389",
+      "summary_character_count": 118,
+      "summary_japanese": "CE-LIFを用い、哺乳類組織中の内因性D-・L-Cysを20 pMのLOQで測定する少量キラル分析法を開発した。若齢・老齢マウスの膵臓と大脳皮質でD-Cysは加齢に伴い減少し、膵臓では0.014から0.006 μmol/gへ低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Separation and Measurement of D- and L-Cysteine in Mammals"
+    },
+    "10.26434/chemrxiv.15006107/v1": {
+      "doi": "10.26434/chemrxiv.15006107/v1",
+      "posted_at": "2026-07-19T06:16:00+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784441760.036049",
+      "summary_character_count": 133,
+      "summary_japanese": "3,3'-diiodo-BINOLを用いるbenzaldehydeの亜鉛触媒アルキル化で、enantiopure配位子はラセミ体を与えた一方、scalemic配位子は最大60% eeを示した。速度論・VTNA解析は、二量体や高次凝集体を含む複数活性種の平衡を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Breaking Enantiopurity Paradigm: A Chiral Catalyst That Requires Enantioimpurity for Enantioselectivity"
     },
     "10.26434/chemrxiv.15006131/v1": {
       "doi": "10.26434/chemrxiv.15006131/v1",
