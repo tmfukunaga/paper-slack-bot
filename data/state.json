@@ -1,7 +1,7 @@
 {
   "daily_counts": {
     "2026-07-18": 40,
-    "2026-07-19": 33
+    "2026-07-19": 38
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -190,6 +190,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Axially Chiral Cross-Shaped Bianthracene Architectures With Chiroptical Activity and Electrochemical Polymerization"
+    },
+    "10.1002/bmc.70546": {
+      "doi": "10.1002/bmc.70546",
+      "posted_at": "2026-07-19T12:17:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784463444.325909",
+      "summary_character_count": 133,
+      "summary_japanese": "coating法とbonding法でchitosan (4-chlorophenylaminoformate)由来CSPを作製し、塩素置換位置の異なるCSPとHPLCで比較した。CSP-2は非従来型溶離液での溶解・膨潤を抑え、一部でCSP-1を上回る分離能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Preparation of Silica-Based Chitosan Chiral Stationary Phases by Two Synthetic Approaches and Evaluation of Their Enantioseparation Performance by HPLC"
     },
     "10.1002/chem.71367": {
       "doi": "10.1002/chem.71367",
@@ -436,6 +449,19 @@
       "summary_used_fallback": false,
       "title": "Diastereo- and Enantioselective Rh-Catalyzed Si-H Insertion of N -Triftosylhydrazones: From Carbon to Silicon-Stereogenic Centers"
     },
+    "10.1021/acscatal.6c03795": {
+      "doi": "10.1021/acscatal.6c03795",
+      "posted_at": "2026-07-19T12:17:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784463453.609939",
+      "summary_character_count": 126,
+      "summary_japanese": "N-heterocyclic carbene触媒でprochiral bishydroxymethylphosphine sulfidesを脱対称化し、高エナンチオ選択的にP-キラル化合物を合成した。DFT計算で選択性とP···Br相互作用を検討した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "N-Heterocyclic Carbene-Catalyzed Desymmetrization of Bishydroxymethylphosphines to Access P-Stereogenic Compounds"
+    },
     "10.1021/acsnano.6c06602": {
       "doi": "10.1021/acsnano.6c06602",
       "posted_at": "2026-07-17T17:07:55+00:00",
@@ -480,6 +506,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spinterface-like Mechanism of the Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Complexes"
+    },
+    "10.1021/jacs.6c09744": {
+      "doi": "10.1021/jacs.6c09744",
+      "posted_at": "2026-07-19T12:17:50+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784463470.485479",
+      "summary_character_count": 118,
+      "summary_japanese": "蛍光・過渡吸収分光法でazuleneの溶媒依存光物性を解析し、芳香族溶媒との弱い錯形成が極性非依存でS2寿命を短縮することを示した。双極子性を増した誘導体では消光が増大し、zwitterionic励起状態の円錐交差の関与を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Deactivating Emission in Azulene via Solvent-Induced (Anti)Aromaticity"
     },
     "10.1021/jacs.6c09990": {
       "doi": "10.1021/jacs.6c09990",
@@ -598,6 +637,19 @@
       "summary_used_fallback": false,
       "title": "Orthogonal assembly of hetero-porous structures by reversible adaptation for efficient isomeric separation"
     },
+    "10.1063/5.0332479": {
+      "doi": "10.1063/5.0332479",
+      "posted_at": "2026-07-19T12:17:40+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784463460.722509",
+      "summary_character_count": 86,
+      "summary_japanese": "接触時の接線キックでカイラリティを与える二次元散逸性hard-disk気体を解析し、反対称応力とトルク密度を導出した。希薄極限ではodd輸送係数の予測が数値計算と一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Kinetic theory of chiral active disks: Odd transport and torque density"
+    },
     "10.1063/5.0333560": {
       "doi": "10.1063/5.0333560",
       "posted_at": "2026-07-19T09:12:40+00:00",
@@ -610,6 +662,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Unveiling chiral electron-photon correlation effects in circularly polarized optical devices"
+    },
+    "10.1088/0256-307x/43/8/080801": {
+      "doi": "10.1088/0256-307x/43/8/080801",
+      "posted_at": "2026-07-19T12:17:44+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784463464.879759",
+      "summary_character_count": 130,
+      "summary_japanese": "第一原理計算と原子論シミュレーションにより、2次元Janus NiIX（X = Br, Cl）のカイラル磁気構造を二軸ひずみで制御した。5%引張ひずみはNiIBrのスキルミオン生成臨界磁場を1桁低下させ、NiIClでは反スキルミオンとヘリシティ変調を誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strain modulated Chiral Magnetic Structures in Two-Dimensional Janus NiIX (X = Br, Cl)"
     },
     "10.1088/1402-4896/ae8c7e": {
       "doi": "10.1088/1402-4896/ae8c7e",
