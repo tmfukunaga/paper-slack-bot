@@ -1,16 +1,15 @@
 from __future__ import annotations
 
-import json
 import logging
-import math
 import os
 import re
 import sys
 from dataclasses import dataclass
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 import requests
 import yaml
@@ -22,10 +21,10 @@ from paper_watch.text_utils import escape_slack_mrkdwn
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "trending_watch.yaml"
-STATE_PATH = ROOT / "data" / "trending-watch-state.json"
 SCOPUS_SEARCH_URL = "https://api.elsevier.com/content/search/scopus"
 SCOPUS_ABSTRACT_URL = "https://api.elsevier.com/content/abstract/doi/{doi}"
-PLUMX_URL = "https://api.elsevier.com/analytics/plumx/doi/{doi}"
+MENDELEY_TOKEN_URL = "https://api.mendeley.com/oauth/token"
+MENDELEY_CATALOG_URL = "https://api.mendeley.com/catalog"
 
 
 @dataclass
@@ -37,9 +36,7 @@ class Candidate:
     publication_date: str
     url: str
     abstract: str = ""
-    metrics: dict[str, int] | None = None
-    deltas: dict[str, int] | None = None
-    score: float = 0.0
+    reader_count: int = 0
 
 
 def required_env(name: str) -> str:
@@ -49,24 +46,12 @@ def required_env(name: str) -> str:
     return value
 
 
-def load_json(path: Path, default: dict[str, Any]) -> dict[str, Any]:
-    if not path.exists():
-        return default
-    with path.open(encoding="utf-8") as handle:
-        value = json.load(handle)
-    return value if isinstance(value, dict) else default
-
-
-def save_json(path: Path, value: dict[str, Any]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    temporary = path.with_suffix(path.suffix + ".tmp")
-    with temporary.open("w", encoding="utf-8") as handle:
-        json.dump(value, handle, ensure_ascii=False, indent=2, sort_keys=True)
-        handle.write("\n")
-    temporary.replace(path)
-
-
-def api_get(url: str, api_key: str, *, params: dict[str, Any] | None = None) -> dict[str, Any]:
+def elsevier_get(
+    url: str,
+    api_key: str,
+    *,
+    params: dict[str, Any] | None = None,
+) -> dict[str, Any]:
     response = requests.get(
         url,
         headers={"X-ELS-APIKey": api_key, "Accept": "application/json"},
@@ -84,43 +69,87 @@ def api_get(url: str, api_key: str, *, params: dict[str, Any] | None = None) -> 
     return payload if isinstance(payload, dict) else {}
 
 
-def scopus_candidates(api_key: str, config: dict[str, Any]) -> list[Candidate]:
-    current_year = date.today().year
-    query = f"SUBJAREA(CHEM) AND PUBYEAR > {current_year - 2}"
-    params = {
-        "query": query,
-        # Scopus Search API accepts at most 25 STANDARD-view entries per page.
-        "count": min(25, int(config["retrieval"]["maximum_candidates"])),
-        "sort": "-coverDate",
-        "view": "STANDARD",
-    }
-    payload = api_get(SCOPUS_SEARCH_URL, api_key, params=params)
-    entries = payload.get("search-results", {}).get("entry", []) or []
-    earliest = date.today() - timedelta(days=int(config["retrieval"]["publication_lookback_days"]))
-    journals = {str(x).casefold() for x in config["scope"]["journals"]}
-    keywords = [str(x).casefold() for x in config["scope"]["title_keywords"]]
-    excluded = [str(x).casefold() for x in config["scope"]["excluded_title_keywords"]]
-    results: list[Candidate] = []
+def _quoted_query(field: str, values: list[str]) -> str:
+    expressions = []
+    for value in values:
+        escaped = value.replace('"', '\\"')
+        expressions.append(f'{field}("{escaped}")')
+    return " OR ".join(expressions)
 
+
+def build_scopus_query(config: dict[str, Any]) -> str:
+    current_year = date.today().year
+    dedicated = _quoted_query("SRCTITLE", config["scope"]["dedicated_journals"])
+    broad = _quoted_query("SRCTITLE", config["scope"]["broad_journals"])
+    title = _quoted_query("TITLE", config["scope"]["title_keywords"])
+    scope = f"({dedicated}) OR (({broad}) AND ({title}))"
+    return f"SUBJAREA(CHEM) AND PUBYEAR > {current_year - 2} AND ({scope})"
+
+
+def _within_publication_window(published: str, config: dict[str, Any]) -> bool:
+    try:
+        published_date = date.fromisoformat(published[:10])
+    except ValueError:
+        return False
+    timezone_name = str(config["retrieval"].get("timezone", "Asia/Tokyo"))
+    now = datetime.now(ZoneInfo(timezone_name))
+    cutoff = (now - timedelta(hours=int(config["retrieval"]["publication_lookback_hours"]))).date()
+    return cutoff <= published_date <= now.date()
+
+
+def _in_scope(title: str, journal: str, config: dict[str, Any]) -> bool:
+    haystack = title.casefold()
+    excluded = [str(x).casefold() for x in config["scope"]["excluded_title_keywords"]]
+    if any(term in haystack for term in excluded):
+        return False
+    dedicated = {str(x).casefold() for x in config["scope"]["dedicated_journals"]}
+    if journal.casefold() in dedicated:
+        return True
+    broad = {str(x).casefold() for x in config["scope"]["broad_journals"]}
+    keywords = [str(x).casefold() for x in config["scope"]["title_keywords"]]
+    return journal.casefold() in broad and any(term in haystack for term in keywords)
+
+
+def scopus_candidates(api_key: str, config: dict[str, Any]) -> list[Candidate]:
+    maximum = int(config["retrieval"]["maximum_candidates"])
+    query = build_scopus_query(config)
+    entries: list[dict[str, Any]] = []
+
+    for start in range(0, maximum, 25):
+        page_size = min(25, maximum - start)
+        payload = elsevier_get(
+            SCOPUS_SEARCH_URL,
+            api_key,
+            params={
+                "query": query,
+                "count": page_size,
+                "start": start,
+                "sort": "-coverDate",
+                "view": "STANDARD",
+            },
+        )
+        page = payload.get("search-results", {}).get("entry", []) or []
+        if not isinstance(page, list) or not page:
+            break
+        entries.extend(item for item in page if isinstance(item, dict))
+        if len(page) < page_size:
+            break
+
+    results: dict[str, Candidate] = {}
     for entry in entries:
         doi = str(entry.get("prism:doi") or "").strip()
         title = str(entry.get("dc:title") or "").strip()
         journal = str(entry.get("prism:publicationName") or "").strip()
         published = str(entry.get("prism:coverDate") or "").strip()
-        if not doi or not title or not published:
+        if not doi or not title or not journal or not published:
             continue
-        try:
-            if date.fromisoformat(published[:10]) < earliest:
-                continue
-        except ValueError:
+        if not _within_publication_window(published, config):
             continue
-        haystack = title.casefold()
-        if any(term in haystack for term in excluded):
-            continue
-        if journal.casefold() not in journals and not any(term in haystack for term in keywords):
+        if not _in_scope(title, journal, config):
             continue
         author = str(entry.get("dc:creator") or "").strip()
-        results.append(
+        results.setdefault(
+            doi.casefold(),
             Candidate(
                 doi=doi,
                 title=title,
@@ -128,56 +157,76 @@ def scopus_candidates(api_key: str, config: dict[str, Any]) -> list[Candidate]:
                 journal=journal,
                 publication_date=published[:10],
                 url=f"https://doi.org/{doi}",
-            )
+            ),
         )
-    return results
+    return list(results.values())
 
 
-def _walk_metrics(value: Any, category: str = "") -> dict[str, int]:
-    totals = {"citations": 0, "usage": 0, "captures": 0, "mentions": 0, "socialMedia": 0}
-    aliases = {
-        "citation": "citations", "citations": "citations",
-        "usage": "usage", "capture": "captures", "captures": "captures",
-        "mention": "mentions", "mentions": "mentions",
-        "socialmedia": "socialMedia", "social_media": "socialMedia",
-    }
-    if isinstance(value, list):
-        for item in value:
-            nested = _walk_metrics(item, category)
-            for key in totals:
-                totals[key] += nested[key]
-        return totals
-    if not isinstance(value, dict):
-        return totals
+def mendeley_access_token(client_id: str, client_secret: str) -> str:
+    response = requests.post(
+        MENDELEY_TOKEN_URL,
+        auth=(client_id, client_secret),
+        data={"grant_type": "client_credentials", "scope": "all"},
+        timeout=45,
+    )
+    if not response.ok:
+        detail = re.sub(r"\s+", " ", response.text).strip()[:500]
+        raise RuntimeError(
+            f"Mendeley token request failed: HTTP {response.status_code}: {detail}"
+        )
+    payload = response.json()
+    token = str(payload.get("access_token") or "").strip() if isinstance(payload, dict) else ""
+    if not token:
+        raise RuntimeError("Mendeley token response did not contain access_token")
+    return token
 
-    raw_category = str(value.get("category") or value.get("name") or category)
-    normalized = re.sub(r"[^a-z_]", "", raw_category.casefold())
-    active = aliases.get(normalized, category)
-    count = value.get("count")
-    if active in totals and isinstance(count, (int, float)):
-        totals[active] += max(0, int(count))
-    for key, nested_value in value.items():
-        if key == "count":
+
+def mendeley_reader_count(access_token: str, doi: str) -> int:
+    response = requests.get(
+        MENDELEY_CATALOG_URL,
+        headers={
+            "Authorization": f"Bearer {access_token}",
+            "Accept": "application/vnd.mendeley-document.1+json",
+        },
+        params={"doi": doi, "view": "stats"},
+        timeout=45,
+    )
+    if not response.ok:
+        detail = re.sub(r"\s+", " ", response.text).strip()[:500]
+        raise RuntimeError(
+            f"Mendeley Catalog request failed for DOI={doi}: "
+            f"HTTP {response.status_code}: {detail}"
+        )
+    payload = response.json()
+    documents = payload if isinstance(payload, list) else [payload]
+    counts: list[int] = []
+    for document in documents:
+        if not isinstance(document, dict):
             continue
-        nested = _walk_metrics(nested_value, active)
-        for metric in totals:
-            totals[metric] += nested[metric]
-    return totals
+        value = document.get("reader_count", 0)
+        if isinstance(value, (int, float)):
+            counts.append(max(0, int(value)))
+    return max(counts, default=0)
 
 
-def plumx_metrics(api_key: str, doi: str) -> dict[str, int]:
-    payload = api_get(PLUMX_URL.format(doi=quote(doi, safe="/")), api_key)
-    return _walk_metrics(payload)
+def rank_candidates(candidates: list[Candidate], minimum_reader_count: int) -> list[Candidate]:
+    usable = [item for item in candidates if item.reader_count >= minimum_reader_count]
+    return sorted(
+        usable,
+        key=lambda item: (item.reader_count, item.publication_date, item.title.casefold()),
+        reverse=True,
+    )
 
 
 def fetch_abstract(api_key: str, doi: str) -> tuple[str, list[str]]:
     try:
-        payload = api_get(SCOPUS_ABSTRACT_URL.format(doi=quote(doi, safe="/")), api_key)
+        payload = elsevier_get(SCOPUS_ABSTRACT_URL.format(doi=quote(doi, safe="/")), api_key)
     except (requests.RequestException, RuntimeError):
         return "", []
-    core = payload.get("abstracts-retrieval-response", {}).get("coredata", {}) or {}
+    response = payload.get("abstracts-retrieval-response", {}) or {}
+    core = response.get("coredata", {}) or {}
     abstract = str(core.get("dc:description") or "").strip()
-    authors_value = payload.get("abstracts-retrieval-response", {}).get("authors", {}).get("author", []) or []
+    authors_value = response.get("authors", {}).get("author", []) or []
     if isinstance(authors_value, dict):
         authors_value = [authors_value]
     authors = []
@@ -188,30 +237,16 @@ def fetch_abstract(api_key: str, doi: str) -> tuple[str, list[str]]:
     return abstract, authors
 
 
-def score_candidate(candidate: Candidate, previous: dict[str, Any], config: dict[str, Any]) -> None:
-    current = candidate.metrics or {}
-    prior = previous.get("snapshots", {}).get(candidate.doi.lower(), {}).get("metrics", {})
-    candidate.deltas = {key: max(0, int(current.get(key, 0)) - int(prior.get(key, 0))) for key in current}
-    has_baseline = bool(prior)
-    source = candidate.deltas if has_baseline else current
-    weights = config["ranking"]["weights"]
-    raw = sum(math.log1p(source.get(key, 0)) * float(weights.get(key, 0)) for key in weights)
-    try:
-        age = max(0, (date.today() - date.fromisoformat(candidate.publication_date)).days)
-    except ValueError:
-        age = 30
-    candidate.score = raw / (1.0 + age * float(config["ranking"]["daily_age_penalty"]))
-
-
 def make_summary_config(config: dict[str, Any]) -> dict[str, Any]:
     return {"ai_summary": config["ai_summary"]}
 
 
-def build_blocks(candidate: Candidate, summary: str) -> list[dict[str, Any]]:
+def build_blocks(candidate: Candidate, summary: str, rank: int) -> list[dict[str, Any]]:
     authors = ", ".join(candidate.authors[:8]) + (", et al." if len(candidate.authors) > 8 else "")
+    prefix = f"[Hot-{rank}]"
     return [
         {"type": "section", "text": {"type": "mrkdwn", "text": (
-            f"*［話題］{escape_slack_mrkdwn(candidate.title)}*\n"
+            f"*{prefix} {escape_slack_mrkdwn(candidate.title)}*\n"
             f"{escape_slack_mrkdwn(authors or '著者情報なし')}\n"
             f"{escape_slack_mrkdwn(candidate.journal)} | {candidate.publication_date}"
         )}},
@@ -225,71 +260,88 @@ def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     with CONFIG_PATH.open(encoding="utf-8") as handle:
         config = yaml.safe_load(handle)
+
     elsevier_key = required_env("ELSEVIER_API_KEY")
+    mendeley_client_id = required_env("MENDELEY_CLIENT_ID")
+    mendeley_client_secret = required_env("MENDELEY_CLIENT_SECRET")
     openai_key = required_env("OPENAI_API_KEY")
     slack_token = required_env("SLACK_BOT_TOKEN")
     channel_id = required_env("SLACK_CHANNEL_ID")
-    state = load_json(STATE_PATH, {"snapshots": {}, "posted": {}})
+
     candidates = scopus_candidates(elsevier_key, config)
-    logging.info("Scopus candidates after scope filtering: %s", len(candidates))
+    logging.info("Scopus candidates after 96-hour scope filtering: %s", len(candidates))
+    access_token = mendeley_access_token(mendeley_client_id, mendeley_client_secret)
 
-    usable: list[Candidate] = []
+    failures = 0
     for candidate in candidates:
-        if candidate.doi.lower() in state.get("posted", {}):
-            continue
         try:
-            candidate.metrics = plumx_metrics(elsevier_key, candidate.doi)
-        except requests.HTTPError as exc:
-            logging.warning("PlumX unavailable for DOI=%s: %s", candidate.doi, exc)
-            continue
-        score_candidate(candidate, state, config)
-        if candidate.score > 0:
-            usable.append(candidate)
+            candidate.reader_count = mendeley_reader_count(access_token, candidate.doi)
+        except (requests.RequestException, RuntimeError) as exc:
+            failures += 1
+            logging.warning("Mendeley lookup failed for DOI=%s: %s", candidate.doi, exc)
+    if candidates and failures == len(candidates):
+        raise RuntimeError("Every Mendeley Catalog lookup failed")
 
-    usable.sort(key=lambda item: (item.score, item.publication_date), reverse=True)
-    selected = usable[: int(config["posting"]["maximum_posts_per_day"])]
+    ranked = rank_candidates(candidates, int(config["ranking"]["minimum_reader_count"]))
+    logging.info(
+        "Candidates with at least %s Mendeley reader(s): %s",
+        config["ranking"]["minimum_reader_count"],
+        len(ranked),
+    )
+
     summarizer = OpenAISummarizer(openai_key, make_summary_config(config))
     slack = WebClient(token=slack_token)
-    posted_now: set[str] = set()
+    maximum_posts = int(config["posting"]["maximum_posts_per_day"])
+    posted = 0
 
-    for candidate in selected:
+    for candidate in ranked:
+        if posted >= maximum_posts:
+            break
         candidate.abstract, authors = fetch_abstract(elsevier_key, candidate.doi)
         if authors:
             candidate.authors = authors
         if not candidate.abstract:
             logging.warning("Skipping DOI=%s because Scopus Abstract was unavailable", candidate.doi)
             continue
-        paper = Paper("", candidate.doi, candidate.title, candidate.authors, candidate.journal,
-                      candidate.publication_date, candidate.abstract, candidate.url)
+
+        paper = Paper(
+            "",
+            candidate.doi,
+            candidate.title,
+            candidate.authors,
+            candidate.journal,
+            candidate.publication_date,
+            candidate.abstract,
+            candidate.url,
+        )
         try:
-            summary = summarizer.summarize(paper.title, paper.abstract_original, paper.doi).text
+            summary = summarizer.summarize(
+                paper.title,
+                paper.abstract_original,
+                paper.doi,
+            ).text
         except SummaryError as exc:
             logging.warning("Skipping DOI=%s because summary failed: %s", candidate.doi, exc)
             continue
-        response = slack.chat_postMessage(
+
+        rank = posted + 1
+        prefix = f"[Hot-{rank}]"
+        slack.chat_postMessage(
             channel=channel_id,
-            text=f"［話題］{candidate.title} — {summary}",
-            blocks=build_blocks(candidate, summary),
+            text=f"{prefix} {candidate.title} — {summary}",
+            blocks=build_blocks(candidate, summary, rank),
             unfurl_links=False,
             unfurl_media=False,
         )
-        state.setdefault("posted", {})[candidate.doi.lower()] = {
-            "posted_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-            "slack_ts": str(response.get("ts") or ""),
-            "title": candidate.title,
-        }
-        posted_now.add(candidate.doi.lower())
+        posted += 1
+        logging.info(
+            "Posted Hot-%s DOI=%s reader_count=%s",
+            rank,
+            candidate.doi,
+            candidate.reader_count,
+        )
 
-    observed_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
-    for candidate in candidates:
-        if candidate.metrics is not None:
-            state.setdefault("snapshots", {})[candidate.doi.lower()] = {
-                "observed_at": observed_at,
-                "metrics": candidate.metrics,
-                "title": candidate.title,
-            }
-    save_json(STATE_PATH, state)
-    logging.info("Posted %s paper(s)", len(posted_now))
+    logging.info("Posted %s paper(s)", posted)
 
 
 if __name__ == "__main__":
