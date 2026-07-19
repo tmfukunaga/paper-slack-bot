@@ -75,7 +75,11 @@ def api_get(url: str, api_key: str, *, params: dict[str, Any] | None = None) -> 
     )
     if response.status_code in {401, 403}:
         raise RuntimeError(f"Elsevier API access denied for {url}: HTTP {response.status_code}")
-    response.raise_for_status()
+    if not response.ok:
+        detail = re.sub(r"\s+", " ", response.text).strip()[:500]
+        raise RuntimeError(
+            f"Elsevier API request failed for {url}: HTTP {response.status_code}: {detail}"
+        )
     payload = response.json()
     return payload if isinstance(payload, dict) else {}
 
@@ -85,7 +89,8 @@ def scopus_candidates(api_key: str, config: dict[str, Any]) -> list[Candidate]:
     query = f"SUBJAREA(CHEM) AND PUBYEAR > {current_year - 2}"
     params = {
         "query": query,
-        "count": int(config["retrieval"]["maximum_candidates"]),
+        # Scopus Search API accepts at most 25 STANDARD-view entries per page.
+        "count": min(25, int(config["retrieval"]["maximum_candidates"])),
         "sort": "-coverDate",
         "view": "STANDARD",
     }
