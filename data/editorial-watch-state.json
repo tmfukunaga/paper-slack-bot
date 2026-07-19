@@ -1,5 +1,36 @@
 {
-  "last_successful_check": "",
-  "posted": {},
-  "processed_articles": {}
+  "last_successful_check": "2026-07-19T22:16:46+00:00",
+  "posted": {
+    "10.1021/jacs.6c05971": {
+      "doi": "10.1021/jacs.6c05971",
+      "posted_at": "2026-07-19T22:17:01+00:00",
+      "slack_ts": "1784499421.043979",
+      "sources": [
+        "C&EN"
+      ],
+      "title": "Reappraising Dichloromethane: Uncovering a Hidden Coupling Reagent for Activating Carboxylic Acids in Direct Amide Synthesis"
+    }
+  },
+  "processed_articles": {
+    "https://cen.acs.org/biological-chemistry/gene-editing/ai-nuclease-design-crispr/104/web/2026/07?sc=230901_cenrssfeed_eng_Physicalrss_cen": {
+      "processed_at": "2026-07-19T22:16:46+00:00",
+      "source": "C&EN",
+      "title": "AI-designed nucleases build on nature’s design"
+    },
+    "https://cen.acs.org/physical-chemistry/geochemistry/carbon-removal-climate-solution-erw/104/web/2026/07?sc=230901_cenrssfeed_eng_Physicalrss_cen": {
+      "processed_at": "2026-07-19T22:16:46+00:00",
+      "source": "C&EN",
+      "title": "Chemistry accelerates enhanced rock weathering"
+    },
+    "https://cen.acs.org/synthesis/cen-weekly-chemistry-news-quiz-july-17/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "processed_at": "2026-07-19T22:16:46+00:00",
+      "source": "C&EN",
+      "title": "C&EN weekly chemistry news quiz, July 17"
+    },
+    "https://cen.acs.org/synthesis/reagents/dcm-amide-coupling-reagent-inexpensive/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "processed_at": "2026-07-19T22:17:01+00:00",
+      "source": "C&EN掲載",
+      "title": "Reappraising Dichloromethane: Uncovering a Hidden Coupling Reagent for Activating Carboxylic Acids in Direct Amide Synthesis"
+    }
+  }
 }
