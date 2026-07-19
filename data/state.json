@@ -1,7 +1,7 @@
 {
   "daily_counts": {
     "2026-07-18": 40,
-    "2026-07-19": 13
+    "2026-07-19": 18
   },
   "posted": {
     "10.1002/ange.1519414": {
@@ -80,6 +80,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Planar Chiral Carbazole-Naphthalene Bisimide Hetero-Cyclophane for Circularly Polarized Delayed Fluorescence"
+    },
+    "10.1002/anie.3935543": {
+      "doi": "10.1002/anie.3935543",
+      "posted_at": "2026-07-19T00:14:58+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784420098.216229",
+      "summary_character_count": 130,
+      "summary_japanese": "adamantyl、架橋、sialic acidを備えた自己集合Cyclodextrinを合成し、ウイルス表面での協同的重合をNMR・cryo-EMで確認した。SARS-CoV-2変異株のCPEを細胞毒性なく抑制し、低リガンド分率の共集合体も強い阻害を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
     },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
@@ -416,6 +429,19 @@
       "summary_used_fallback": false,
       "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
     },
+    "10.1021/jacs.6c10180": {
+      "doi": "10.1021/jacs.6c10180",
+      "posted_at": "2026-07-19T00:15:05+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784420105.156009",
+      "summary_character_count": 109,
+      "summary_japanese": "Rh触媒によるdiazoesterのindole環への不斉一炭素挿入を、脱対称化または速度論的分割として開発し、arene-to-arene変換で多様な光学活性triarylmethaneを最大96% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Triarylmethanes via Catalytic Asymmetric Skeletal Editing"
+    },
     "10.1021/jacs.6c11182": {
       "doi": "10.1021/jacs.6c11182",
       "posted_at": "2026-07-17T21:11:34+00:00",
@@ -442,6 +468,19 @@
       "summary_used_fallback": false,
       "title": "Coordination-Constraint-Driven Enhanced Chirality Induction in Perovskite Quantum Dot Solids"
     },
+    "10.1021/jacs.6c11300": {
+      "doi": "10.1021/jacs.6c11300",
+      "posted_at": "2026-07-19T00:15:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784420111.999609",
+      "summary_character_count": 97,
+      "summary_japanese": "有機・生体触媒カスケードにより市販アルデヒドからβ-chloraminesを最大88%収率、>99:1 e.r.で合成し、pH 9.5では同一系からキラルaziridinesへ選択的に転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controlled Synthesis of Chiral β-Chloramines and Aziridines via an Organo- and Biocatalytic Cascade"
+    },
     "10.1038/s41467-026-74709-2": {
       "doi": "10.1038/s41467-026-74709-2",
       "posted_at": "2026-07-17T17:27:36+00:00",
@@ -467,6 +506,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Interfacial chirality-induced magnetic-field-free switching with high energy efficiency in all-vdW heterostructures"
+    },
+    "10.1038/s41467-026-75619-z": {
+      "doi": "10.1038/s41467-026-75619-z",
+      "posted_at": "2026-07-19T00:15:01+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784420101.400849",
+      "summary_character_count": 98,
+      "summary_japanese": "水素結合性マクロ環両親媒性分子を動的適応により直交集合し、配向したキラルナノチャネルをもつ多孔膜を構築した。構造異性体で分離係数11.46、エナンチオマーで92% eeの分子ふるい分離を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Orthogonal assembly of hetero-porous structures by reversible adaptation for efficient isomeric separation"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
@@ -622,6 +674,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "What Is the Real-Time Atomistic Mechanism Behind Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Molecules?"
+    },
+    "10.5445/ir/1000195221": {
+      "doi": "10.5445/ir/1000195221",
+      "posted_at": "2026-07-19T00:15:08+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784420108.775899",
+      "summary_character_count": 117,
+      "summary_japanese": "双極子物体のキラリティーを、非前方角でのStokes parameters測定により検出する分光法を提案した。アキラル背景雑音と濃度・光路長への依存を除き、混合溶液で優勢なエナンチオマーを識別し、二角度測定でin situ検証できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Novel Chiroptical Spectroscopy Technique"
     }
   }
 }
