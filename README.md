@@ -3,22 +3,20 @@
 ## 話題の有機・合成化学論文（日次）
 
 既存Paper Watchとは独立して、Scopusでオンライン公開から過去96時間以内の
-有機合成関連論文を取得し、Mendeley `reader_count`の多い順に上位2報を
-毎朝6時（Asia/Tokyo）に同じSlackチャンネルへ投稿します。
+有機合成関連論文を取得します。PlumXから読者登録、ニュース・ブログ、SNSを取得し、
+3群を同じ重みで順位化した上位2報を毎朝6時（Asia/Tokyo）に同じSlackチャンネルへ投稿します。
 
 - 1位のタイトル接頭辞：`[Hot-1]`
 - 2位のタイトル接頭辞：`[Hot-2]`
 - 同じ論文が連日上位の場合も再投稿
-- Mendeley登録数は順位判定だけに使用し、Slackには非表示
-- 引用数とPlumX Metricsは不使用
+- 引用数とUsageは順位に含めない
+- PlumXの件数と内部スコアはSlackには非表示
 
-追加で使用するRepository Secrets：
+追加で使用するRepository Secret：
 
 | Secret名 | 内容 |
 |---|---|
-| `ELSEVIER_API_KEY` | Scopus API key |
-| `MENDELEY_CLIENT_ID` | Mendeley Developer Application ID |
-| `MENDELEY_CLIENT_SECRET` | Mendeley Developer Application Secret |
+| `ELSEVIER_API_KEY` | Scopus・PlumX API key |
 
 ## 最初に行うこと
 
