@@ -166,13 +166,13 @@ def _walk_metrics(value: Any, category: str = "") -> dict[str, int]:
 
 
 def plumx_metrics(api_key: str, doi: str) -> dict[str, int]:
-    payload = api_get(PLUMX_URL.format(doi=quote(doi, safe="")), api_key)
+    payload = api_get(PLUMX_URL.format(doi=quote(doi, safe="/")), api_key)
     return _walk_metrics(payload)
 
 
 def fetch_abstract(api_key: str, doi: str) -> tuple[str, list[str]]:
     try:
-        payload = api_get(SCOPUS_ABSTRACT_URL.format(doi=quote(doi, safe="")), api_key)
+        payload = api_get(SCOPUS_ABSTRACT_URL.format(doi=quote(doi, safe="/")), api_key)
     except (requests.RequestException, RuntimeError):
         return "", []
     core = payload.get("abstracts-retrieval-response", {}).get("coredata", {}) or {}
