@@ -248,14 +248,15 @@ def fetch_paper(
     contact_email: str,
     timeout: float,
 ) -> ResolvedPaper | None:
-    params = {"api_key": api_key} if api_key else {}
-    response = session.get(
-        f"{OPENALEX}/https://doi.org/{quote(doi, safe='')}",
-        params=params,
-        timeout=timeout,
-    )
+    params = {"filter": f"doi:{doi}", "per-page": 1}
+    if api_key:
+        params["api_key"] = api_key
+    response = session.get(OPENALEX, params=params, timeout=timeout)
     response.raise_for_status()
-    work = response.json()
+    results = response.json().get("results", []) or []
+    if not results:
+        return None
+    work = results[0]
     paper = _paper_from_openalex(work, doi)
     if not paper:
         return None
@@ -414,6 +415,18 @@ def resolve_news_item(
     )
 
 
+def mark_processed(
+    state: dict[str, Any],
+    item: NewsItem,
+    processed_at: str,
+) -> None:
+    state["processed_articles"][item.url] = {
+        "processed_at": processed_at,
+        "source": item.source,
+        "title": item.title,
+    }
+
+
 def main() -> None:
     args = parse_args()
     logging.basicConfig(
@@ -459,18 +472,19 @@ def main() -> None:
             timeout=timeout,
             publication_match_days=int(watch_config["publication_match_days"]),
         )
-        state["processed_articles"][item.url] = {
-            "processed_at": processed_at,
-            "source": item.source,
-            "title": item.title,
-        }
-        if not paper or paper.key in state["posted"]:
+        if not paper:
+            mark_processed(state, item, processed_at)
+            continue
+        if paper.key in state["posted"]:
+            mark_processed(state, item, processed_at)
             continue
         if is_excluded_source(paper, summary_config):
             logging.info("Rejected excluded source DOI=%s", paper.doi)
+            mark_processed(state, item, processed_at)
             continue
         if not paper.abstract_original.strip():
             logging.info("No abstract; skipping DOI=%s", paper.doi)
+            mark_processed(state, item, processed_at)
             continue
         current = pending.setdefault(paper.key, PendingPaper(paper))
         current.sources.add(item.source)
@@ -504,6 +518,7 @@ def main() -> None:
 
     summarizer = OpenAISummarizer(openai_key, summary_config)
     slack = WebClient(token=slack_token)
+    failed_summaries: list[str] = []
     for item in pending.values():
         try:
             summary = summarizer.summarize(
@@ -513,20 +528,34 @@ def main() -> None:
             )
         except SummaryError as exc:
             logging.error("Summary failed DOI=%s: %s", item.paper.doi, exc)
+            failed_summaries.append(item.paper.doi)
             continue
         item.paper.summary_japanese = summary.text
         item.paper.summary_language = summary.language
         item.paper.summary_model = summary.model
         timestamp = post_paper(slack, channel_id, item)
+        posted_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
         state["posted"][item.paper.key] = {
-            "posted_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
+            "posted_at": posted_at,
             "slack_ts": timestamp,
             "title": item.paper.title,
             "doi": item.paper.doi,
             "sources": sorted(item.sources),
         }
+        for article_url in item.article_urls:
+            state["processed_articles"][article_url] = {
+                "processed_at": posted_at,
+                "source": source_label(item.sources),
+                "title": item.paper.title,
+            }
         save_state(args.state, state)
         time.sleep(float(watch_config["slack_pause_seconds"]))
+
+    if failed_summaries:
+        save_state(args.state, state)
+        raise RuntimeError(
+            "Summary failed for DOI(s): " + ", ".join(failed_summaries)
+        )
 
     state["last_successful_check"] = now.replace(microsecond=0).isoformat()
     save_state(args.state, state)
