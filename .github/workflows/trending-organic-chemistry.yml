@@ -1,10 +1,8 @@
 name: Trending Organic Chemistry
 
 on:
+  # Scheduled execution is temporarily paused until ELSEVIER_API_KEY is configured.
   workflow_dispatch:
-  schedule:
-    # 06:00 Asia/Tokyo = 21:00 UTC on the previous calendar day.
-    - cron: "0 21 * * *"
 
 concurrency:
   group: trending-organic-chemistry
