@@ -7,7 +7,9 @@ posting:
   maximum_posts_per_day: 2
 
 ranking:
-  minimum_reader_count: 1
+  # Citations and usage are excluded. Readers, news/blogs, and social media
+  # each contribute one third after percentile normalization.
+  minimum_total_attention: 1
 
 scope:
   dedicated_journals:
