@@ -43,7 +43,7 @@ jobs:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
-        run: python -m editorial_watch.main
+        run: python -m editorial_watch.run
 
       - name: Persist editorial watch state
         if: always()
