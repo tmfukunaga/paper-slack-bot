@@ -25,6 +25,7 @@ SCOPUS_SEARCH_URL = "https://api.elsevier.com/content/search/scopus"
 SCOPUS_ABSTRACT_URL = "https://api.elsevier.com/content/abstract/doi/{doi}"
 MENDELEY_TOKEN_URL = "https://api.mendeley.com/oauth/token"
 MENDELEY_CATALOG_URL = "https://api.mendeley.com/catalog"
+MENDELEY_USER_AGENT = "paper-slack-bot/1.0 (+https://github.com/tmfukunaga/paper-slack-bot)"
 
 
 @dataclass
@@ -165,6 +166,10 @@ def scopus_candidates(api_key: str, config: dict[str, Any]) -> list[Candidate]:
 def mendeley_access_token(client_id: str, client_secret: str) -> str:
     response = requests.post(
         MENDELEY_TOKEN_URL,
+        headers={
+            "Accept": "application/json",
+            "User-Agent": MENDELEY_USER_AGENT,
+        },
         auth=(client_id, client_secret),
         data={"grant_type": "client_credentials", "scope": "all"},
         timeout=45,
@@ -187,6 +192,7 @@ def mendeley_reader_count(access_token: str, doi: str) -> int:
         headers={
             "Authorization": f"Bearer {access_token}",
             "Accept": "application/vnd.mendeley-document.1+json",
+            "User-Agent": MENDELEY_USER_AGENT,
         },
         params={"doi": doi, "view": "stats"},
         timeout=45,
