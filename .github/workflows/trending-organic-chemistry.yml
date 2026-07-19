@@ -2,6 +2,10 @@ name: Trending Organic Chemistry
 
 on:
   workflow_dispatch:
+  # Temporary branch trigger used to validate the PlumX integration in this PR.
+  push:
+    branches:
+      - agent/mendeley-hot-papers
   schedule:
     # 06:00 Asia/Tokyo = 21:00 UTC on the previous calendar day.
     - cron: "0 21 * * *"
@@ -38,8 +42,6 @@ jobs:
       - name: Find and post the two daily hot papers
         env:
           ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
-          MENDELEY_CLIENT_ID: ${{ secrets.MENDELEY_CLIENT_ID }}
-          MENDELEY_CLIENT_SECRET: ${{ secrets.MENDELEY_CLIENT_SECRET }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
