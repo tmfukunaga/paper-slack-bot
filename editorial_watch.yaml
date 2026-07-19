@@ -1,0 +1,14 @@
+lookback_hours: 72
+publication_match_days: 180
+request_timeout_seconds: 45
+slack_pause_seconds: 1.2
+
+feeds:
+  - source: Chemistry World
+    url: https://www.chemistryworld.com/410.rss
+  - source: C&EN
+    url: https://cen.acs.org/feeds/rss/topic/synthesis.xml
+  - source: C&EN
+    url: https://cen.acs.org/feeds/rss/topic/materials.xml
+  - source: C&EN
+    url: https://cen.acs.org/feeds/rss/topic/physicalChemistry.xml
