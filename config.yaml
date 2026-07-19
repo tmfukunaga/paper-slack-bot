@@ -56,6 +56,9 @@ excluded_sources:
   - canonical: European Physical Journal family
     aliases: [European Physical Journal]
     source_prefixes: [European Physical Journal, The European Physical Journal]
+  - canonical: Physica Scripta
+    aliases: [Physica Scripta]
+    doi_prefixes: [10.1088/1402-4896/, 10.1088/0031-8949/]
   - canonical: Elsevier pure physics journals
     aliases: [Physics Reports, Annals of Physics]
     source_prefixes: [Physics Letters, Nuclear Physics]
