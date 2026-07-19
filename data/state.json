@@ -1,9 +1,22 @@
 {
   "daily_counts": {
     "2026-07-18": 40,
-    "2026-07-19": 28
+    "2026-07-19": 33
   },
   "posted": {
+    "10.1002/adfm.77215": {
+      "doi": "10.1002/adfm.77215",
+      "posted_at": "2026-07-19T09:12:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784452353.118969",
+      "summary_character_count": 126,
+      "summary_japanese": "キラルhost (R/S)-mCP-CN、(R/S)-tmCP-CNとachiral発光体を用いるCP-OLEDで、gEL 10−3オーダー、EQE最大38.9%を達成し、chiral energy transferによるCPEL生成の汎用性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diverse High-Performance Circularly Polarized Organic Light-Emitting Diodes Based on Chiral Host Molecules via Chiral Energy Transfer Process"
+    },
     "10.1002/advs.76555": {
       "doi": "10.1002/advs.76555",
       "posted_at": "2026-07-19T03:09:47+00:00",
@@ -559,6 +572,19 @@
       "summary_used_fallback": false,
       "title": "Interfacial chirality-induced magnetic-field-free switching with high energy efficiency in all-vdW heterostructures"
     },
+    "10.1038/s41467-026-75555-y": {
+      "doi": "10.1038/s41467-026-75555-y",
+      "posted_at": "2026-07-19T09:12:36+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784452356.726139",
+      "summary_character_count": 128,
+      "summary_japanese": "溶媒極性で配列を変えないperylene bisimide H-aggregateの過渡吸収測定により、電荷動力学が非極性環境の振動補助量子トンネルから極性環境の溶媒揺らぎ制御へ転換することを示した。電荷分離は励起子消滅と競合し、拡散長は極性依存的だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dielectric-tuned charge and exciton dynamics in perylene bisimide supramolecular aggregates"
+    },
     "10.1038/s41467-026-75619-z": {
       "doi": "10.1038/s41467-026-75619-z",
       "posted_at": "2026-07-19T00:15:01+00:00",
@@ -571,6 +597,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Orthogonal assembly of hetero-porous structures by reversible adaptation for efficient isomeric separation"
+    },
+    "10.1063/5.0333560": {
+      "doi": "10.1063/5.0333560",
+      "posted_at": "2026-07-19T09:12:40+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784452360.225109",
+      "summary_character_count": 113,
+      "summary_japanese": "円偏光真空揺らぎと強結合したキラル系に対し、系統的改善が可能な平均場理論と強結合Møller-Plesset摂動論を開発した。平均場理論はキャビティ周波数分散を捉える一方、電子・光子励起に由来するキラル識別を記述できなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unveiling chiral electron-photon correlation effects in circularly polarized optical devices"
+    },
+    "10.1088/1402-4896/ae8c7e": {
+      "doi": "10.1088/1402-4896/ae8c7e",
+      "posted_at": "2026-07-19T09:12:29+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784452349.429909",
+      "summary_character_count": 131,
+      "summary_japanese": "単層grapheneを集積した平面キラルsilicon metasurfaceで高Q quasi-BICを実現し、Fermi準位変調により円二色性を0.91～0.01で可逆制御した。屈折率感度125 nm/RIU、FOM 1.56×10^4 RIU−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Graphene-integrated silicon metasurface for dynamically tunable chirality and enhanced sensing enabled by high-Q quasi-bound states in the continuum"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
@@ -597,6 +649,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Interfacial solvothermal synthesis of superhydrophilic ionic salt-derived chiral helical COFs with strong chiroptical activity"
+    },
+    "10.1126/science.aeh1429": {
+      "doi": "10.1126/science.aeh1429",
+      "posted_at": "2026-07-19T09:12:25+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784452345.700649",
+      "summary_character_count": 116,
+      "summary_japanese": "boron nitride nanotube内でSnS2、MoS2、WS2ナノチューブを高収率・高純度に合成し、最大83%のarmchair選択性を確認した。MDとin situ TEMはzigzagナノリボンの巻き上がりを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
