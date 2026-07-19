@@ -1,15 +1,17 @@
 name: Trending Organic Chemistry
 
 on:
-  # Scheduled execution is temporarily paused until ELSEVIER_API_KEY is configured.
   workflow_dispatch:
+  schedule:
+    # 06:00 Asia/Tokyo = 21:00 UTC on the previous calendar day.
+    - cron: "0 21 * * *"
 
 concurrency:
   group: trending-organic-chemistry
   cancel-in-progress: false
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   run:
@@ -30,25 +32,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Find and post the daily trending paper
+      - name: Run trending-watch tests
+        run: pytest -q tests/test_trending_watch.py
+
+      - name: Find and post the two daily hot papers
         env:
           ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
+          MENDELEY_CLIENT_ID: ${{ secrets.MENDELEY_CLIENT_ID }}
+          MENDELEY_CLIENT_SECRET: ${{ secrets.MENDELEY_CLIENT_SECRET }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
         run: python -m trending_watch.main
-
-      - name: Persist trend snapshots and posted DOIs
-        if: always()
-        run: |
-          if [ -z "$(git status --porcelain -- data/trending-watch-state.json)" ]; then
-            echo "No state change"
-            exit 0
-          fi
-          git config user.name "trending-watch-bot"
-          git config user.email "trending-watch-bot@users.noreply.github.com"
-          git add data/trending-watch-state.json
-          git commit -m "Update trending watch state [skip ci]"
-          git pull --rebase origin main
-          git push
-
