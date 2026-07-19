@@ -1,9 +1,9 @@
 from trending_watch.main import (
     Candidate,
     _in_scope,
+    _plumx_count_types,
     build_blocks,
-    mendeley_access_token,
-    mendeley_reader_count,
+    plumx_attention_metrics,
     rank_candidates,
 )
 
@@ -48,38 +48,58 @@ def test_broad_journal_requires_organic_synthesis_title_keyword():
     )
 
 
-def test_mendeley_access_token_uses_client_credentials(monkeypatch):
-    captured = {}
+def plumx_payload():
+    return {
+        "count_categories": [
+            {"name": "capture", "total": 9, "count_types": [
+                {"name": "READER_COUNT", "total": 7},
+                {"name": "EXPORTS_SAVES", "total": 2},
+            ]},
+            {"name": "mention", "total": 8, "count_types": [
+                {"name": "NEWS_COUNT", "total": 3},
+                {"name": "ALL_BLOG_COUNT", "total": 2},
+                {"name": "REFERENCE_COUNT", "total": 3},
+            ]},
+            {"name": "socialMedia", "total": 10, "count_types": [
+                {"name": "TWEET_COUNT", "total": 6},
+                {"name": "FACEBOOK_COUNT", "total": 4},
+            ]},
+            {"name": "citation", "total": 9999, "count_types": [
+                {"name": "CITED_BY_COUNT", "total": 9999},
+            ]},
+            {"name": "usage", "total": 8888, "count_types": [
+                {"name": "DOWNLOAD_COUNT", "total": 8888},
+            ]},
+        ]
+    }
 
-    def fake_post(url, **kwargs):
-        captured.update({"url": url, **kwargs})
-        return FakeResponse({"access_token": "token-value"})
 
-    monkeypatch.setattr("trending_watch.main.requests.post", fake_post)
-    assert mendeley_access_token("123", "secret") == "token-value"
-    assert captured["auth"] == ("123", "secret")
-    assert captured["data"]["grant_type"] == "client_credentials"
+def test_plumx_parser_uses_official_total_fields():
+    counts = _plumx_count_types(plumx_payload())
+    assert counts["READER_COUNT"] == 7
+    assert counts["NEWS_COUNT"] == 3
+    assert counts["TWEET_COUNT"] == 6
 
 
-def test_mendeley_reader_count_returns_highest_catalog_match(monkeypatch):
+def test_plumx_attention_excludes_citations_usage_and_other_captures(monkeypatch):
     monkeypatch.setattr(
-        "trending_watch.main.requests.get",
-        lambda *args, **kwargs: FakeResponse(
-            [{"reader_count": 4}, {"reader_count": 7}]
-        ),
+        "trending_watch.main.elsevier_get",
+        lambda *args, **kwargs: plumx_payload(),
     )
-    assert mendeley_reader_count("token", "10.1/example") == 7
+    assert plumx_attention_metrics("api-key", "10.1/example") == (7, 5, 10)
 
 
-def test_rank_candidates_uses_reader_count_then_newer_date():
+def test_rank_candidates_gives_readers_mentions_and_social_equal_weight():
     candidates = [
-        Candidate("10.1/a", "A", [], "Organic Letters", "2026-07-18", "", reader_count=3),
-        Candidate("10.1/b", "B", [], "Organic Letters", "2026-07-19", "", reader_count=3),
-        Candidate("10.1/c", "C", [], "Organic Letters", "2026-07-19", "", reader_count=0),
-        Candidate("10.1/d", "D", [], "Organic Letters", "2026-07-17", "", reader_count=8),
+        Candidate("10.1/a", "A", [], "Organic Letters", "2026-07-18", "", reader_count=10),
+        Candidate("10.1/b", "B", [], "Organic Letters", "2026-07-19", "", mention_count=1),
+        Candidate("10.1/c", "C", [], "Organic Letters", "2026-07-19", "", social_count=1000),
+        Candidate("10.1/d", "D", [], "Organic Letters", "2026-07-17", ""),
     ]
-    ranked = rank_candidates(candidates, minimum_reader_count=1)
-    assert [item.doi for item in ranked] == ["10.1/d", "10.1/b", "10.1/a"]
+    ranked = rank_candidates(candidates, minimum_total_attention=1)
+    assert {item.attention_score for item in ranked} == {1 / 3}
+    assert [item.doi for item in ranked] == ["10.1/c", "10.1/a", "10.1/b"]
+    assert "10.1/d" not in [item.doi for item in ranked]
 
 
 def test_blocks_prefix_title_with_hot_rank():
