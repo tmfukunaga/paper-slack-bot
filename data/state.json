@@ -1,7 +1,8 @@
 {
   "daily_counts": {
     "2026-07-18": 40,
-    "2026-07-19": 38
+    "2026-07-19": 38,
+    "2026-07-20": 5
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -16,6 +17,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Diverse High-Performance Circularly Polarized Organic Light-Emitting Diodes Based on Chiral Host Molecules via Chiral Energy Transfer Process"
+    },
+    "10.1002/adma.74130": {
+      "doi": "10.1002/adma.74130",
+      "posted_at": "2026-07-19T22:57:25+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784501845.189419",
+      "summary_character_count": 96,
+      "summary_japanese": "OEG官能化共役ポリマーで、溶媒品質がβ1/β2凝集体と超分子キラリティーを規定する統一枠組みを示した。β1由来キラル膜の化学ドーピングは、9種のポリマー・溶媒対で導電率を最大100倍高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent-Guided Chiral Assemblies and Chemical Doping of OEG-Functionalized Conjugated Polymers"
     },
     "10.1002/advs.76555": {
       "doi": "10.1002/advs.76555",
@@ -120,6 +134,19 @@
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
     },
+    "10.1002/anie.4566077": {
+      "doi": "10.1002/anie.4566077",
+      "posted_at": "2026-07-19T22:57:40+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784501860.738969",
+      "summary_character_count": 118,
+      "summary_japanese": "vinylene橋とα,β′結合pyrroleを用い、酸化的Cβ–Cβ融合で安定な三重N-confused oxohexaphyrinを合成し、金属配位で反芳香族性を変調した。1064 nm照射下で最大61.4%の光熱変換効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Triply N-Confused Hexaphyrins(1.1.1.1.1.0) Synthesized From N-Confused Hexaphyrin(2.1.1.1.1.1): Aromaticity Modulation, Metal Coordination, and Photothermal Conversion"
+    },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
       "posted_at": "2026-07-17T17:07:13+00:00",
@@ -216,6 +243,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Symmetry Breaking in Achiral Porphyrins: Noncovalent Origins of Emergent Optical Activity"
+    },
+    "10.1002/chem.71446": {
+      "doi": "10.1002/chem.71446",
+      "posted_at": "2026-07-19T22:57:37+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784501857.162719",
+      "summary_character_count": 121,
+      "summary_japanese": "5,12-Dichlorotetraceneを2段階・総収率86%で位置選択的に合成し、Suzuki-Miyaura couplingで軸不斉tetraceneを構築した。522 nmで|gCPL|=3.1×10−4の緑色円偏光発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "5,12-Dichlorotetracene: A Building Block for an Axially Chiral Luminophore"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -663,6 +703,19 @@
       "summary_used_fallback": false,
       "title": "Unveiling chiral electron-photon correlation effects in circularly polarized optical devices"
     },
+    "10.1073/pnas.2532158123": {
+      "doi": "10.1073/pnas.2532158123",
+      "posted_at": "2026-07-19T22:57:29+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784501849.572159",
+      "summary_character_count": 102,
+      "summary_japanese": "慣性をもつ理想キラル活性気体について、密度と圧力を結ぶキラリティ依存有効温度の状態方程式、奇拡散を予測する完全拡散行列を含むFick則、壁面エッジ電流の非単調なキラリティ依存性を導出し、実験的に検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Active thermodynamics of inertial chiral active gases: Equation of state and edge currents"
+    },
     "10.1088/0256-307x/43/8/080801": {
       "doi": "10.1088/0256-307x/43/8/080801",
       "posted_at": "2026-07-19T12:17:44+00:00",
@@ -811,6 +864,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Separation and Measurement of D- and L-Cysteine in Mammals"
+    },
+    "10.26434/chemrxiv.15006064/v1": {
+      "doi": "10.26434/chemrxiv.15006064/v1",
+      "posted_at": "2026-07-19T22:57:44+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784501864.364909",
+      "summary_character_count": 112,
+      "summary_japanese": "Cucurbit[7]uril（CB[7]）と異なる親和性をもつゲストの交換を利用し、低親和性蛍光体のみを置換して再錯形成する、細胞・生組織で再構成可能な多重蛍光イメージング法を開発した。クリック反応とも直交的に統合できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multiplexed Imaging through Affinity Hierarchies in a Supramolecular Host"
     },
     "10.26434/chemrxiv.15006107/v1": {
       "doi": "10.26434/chemrxiv.15006107/v1",
