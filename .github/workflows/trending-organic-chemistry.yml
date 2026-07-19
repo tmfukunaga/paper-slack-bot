@@ -2,10 +2,6 @@ name: Trending Organic Chemistry
 
 on:
   workflow_dispatch:
-  # Temporary branch trigger used to validate the PlumX integration in this PR.
-  push:
-    branches:
-      - agent/mendeley-hot-papers
   schedule:
     # 06:00 Asia/Tokyo = 21:00 UTC on the previous calendar day.
     - cron: "0 21 * * *"
@@ -38,22 +34,6 @@ jobs:
 
       - name: Run trending-watch tests
         run: pytest -q tests/test_trending_watch.py
-
-      - name: Probe PlumX API on the PR branch
-        if: github.ref == 'refs/heads/agent/mendeley-hot-papers'
-        env:
-          ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
-        run: |
-          python - <<'PY'
-          import os
-          from trending_watch.main import plumx_attention_metrics
-
-          metrics = plumx_attention_metrics(
-              os.environ["ELSEVIER_API_KEY"],
-              "10.1103/physrevlett.116.061102",
-          )
-          print(f"PlumX probe succeeded: readers={metrics[0]}, mentions={metrics[1]}, social={metrics[2]}")
-          PY
 
       - name: Find and post the two daily hot papers
         env:
