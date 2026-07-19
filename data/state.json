@@ -1,9 +1,22 @@
 {
   "daily_counts": {
     "2026-07-18": 40,
-    "2026-07-19": 18
+    "2026-07-19": 23
   },
   "posted": {
+    "10.1002/advs.76555": {
+      "doi": "10.1002/advs.76555",
+      "posted_at": "2026-07-19T03:09:47+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784430587.843289",
+      "summary_character_count": 105,
+      "summary_japanese": "反強磁性MnTe2で、ヘリシティー・角度分解Raman散乱によりマグノンの回転対称性低下と円偏光応答の不均衡を観測した。DFT+線形スピン波理論は、運動量空間の格子状スピン分裂とカイラル・スピン波励起を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe 2"
+    },
     "10.1002/ange.1519414": {
       "doi": "10.1002/ange.1519414",
       "posted_at": "2026-07-17T17:27:56+00:00",
@@ -339,6 +352,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Assembled Chiral Molecular Aggregates for Dual Energy and Chirality Transfer: Boosting the Circularly Polarized Luminescence"
     },
+    "10.1021/acs.nanolett.6c01653": {
+      "doi": "10.1021/acs.nanolett.6c01653",
+      "posted_at": "2026-07-19T03:09:52+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784430592.820519",
+      "summary_character_count": 130,
+      "summary_japanese": "photoexcited donor-chiral bridge-acceptor分子で、ねじれ振動が誘起するDzyaloshinskii-Moriya相互作用をモデル化し、高いspin polarizationとEPR磁場依存性、温度依存性を数値的に示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vibrationally Mediated Dzyaloshinskii-Moriya Interaction as the Origin of Chirality-Induced Spin Selectivity in Donor-Acceptor Molecules"
+    },
     "10.1021/acs.nanolett.6c02245": {
       "doi": "10.1021/acs.nanolett.6c02245",
       "posted_at": "2026-07-17T21:11:20+00:00",
@@ -357,6 +383,19 @@
       "posted_at": "2026-07-18T07:02:48+00:00",
       "recovered_from_run": 29635004972,
       "score": 27
+    },
+    "10.1021/acsanm.6c01446": {
+      "doi": "10.1021/acsanm.6c01446",
+      "posted_at": "2026-07-19T03:09:33+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784430573.204449",
+      "summary_character_count": 131,
+      "summary_japanese": "FDTDシミュレーションで、lightning-rod effectを活用するねじれ積層三角ナノプリズムダイマーを設計し、結合モードで最大−1.5のdissymmetry factorを得た。応答はねじれ角、厚さ、粒子間距離に高感度で、四角形プリズムを上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Twist-Induced Chiroptical Response in Stacked Triangular Nanoprism Dimers: Leveraging the Lightning-Rod Effect"
     },
     "10.1021/acscatal.6c03374": {
       "doi": "10.1021/acscatal.6c03374",
@@ -674,6 +713,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "What Is the Real-Time Atomistic Mechanism Behind Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Molecules?"
+    },
+    "10.5281/zenodo.19484508": {
+      "doi": "10.5281/zenodo.19484508",
+      "posted_at": "2026-07-19T03:09:39+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784430578.986469",
+      "summary_character_count": 111,
+      "summary_japanese": "切頂八面体の幾何学に基づき、T_hexとinter-type演算子Tを分離して配置定理を示し、A2uのみが自発的対称性の破れを駆動し、T1u部分空間でカイラリティ状態がr1・r2バンドの等重み重ね合わせとなることを導いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Necessity of the Standard Model: Placement Theorems for the Higgs and Fermion Chirality"
+    },
+    "10.5281/zenodo.21323321": {
+      "doi": "10.5281/zenodo.21323321",
+      "posted_at": "2026-07-19T03:09:44+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784430584.432709",
+      "summary_character_count": 127,
+      "summary_japanese": "切頂八面体の配置定理により、scalar torsion chargeでA2uのみが自発的対称性の破れを駆動しHiggsを同定した。さらにinter-type operatorの±2i固有値から、T1u二帯域の等重み重ね合わせとしてカイラリティを導いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Necessity of the Standard Model: Placement Theorems for the Higgs and Fermion Chirality"
     },
     "10.5445/ir/1000195221": {
       "doi": "10.5445/ir/1000195221",
