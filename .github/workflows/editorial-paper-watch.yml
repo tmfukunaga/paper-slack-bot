@@ -1,0 +1,72 @@
+name: Editorial Paper Watch
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:00 Asia/Tokyo = 21:00 UTC on the previous calendar day.
+    - cron: "0 21 * * *"
+
+concurrency:
+  group: editorial-paper-watch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate implementation
+        run: pytest -q
+
+      - name: Find and post editorially selected papers
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+        run: python -m editorial_watch.main
+
+      - name: Persist editorial watch state
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain -- data/editorial-watch-state.json)" ]; then
+            echo "No state change"
+            exit 0
+          fi
+
+          git config user.name "editorial-watch-bot"
+          git config user.email "editorial-watch-bot@users.noreply.github.com"
+          git add data/editorial-watch-state.json
+          git commit -m "Update editorial watch state [skip ci]"
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+
+            echo "Push failed; rebasing state commit onto latest main (attempt ${attempt}/3)"
+            git fetch origin main
+            git rebase origin/main
+          done
+
+          echo "Failed to persist editorial state after three attempts"
+          exit 1
