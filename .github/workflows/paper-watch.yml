@@ -2,9 +2,6 @@ name: Paper Watch
 
 on:
   workflow_dispatch:
-  schedule:
-    # Run every three hours at :10 UTC.
-    - cron: "10 */3 * * *"
   push:
     paths:
       - ".paper-watch-trigger"
