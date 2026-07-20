@@ -3,7 +3,7 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 10
+    "2026-07-21": 15
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -440,6 +440,19 @@
       "summary_used_fallback": false,
       "title": "Color-Tunable Broadband Chiral Copper(I) Halides Scintillators for High-Resolution X-Ray Polarization Imaging"
     },
+    "10.1016/j.ejmp.2026.105900": {
+      "doi": "10.1016/j.ejmp.2026.105900",
+      "posted_at": "2026-07-20T21:14:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784582097.077089",
+      "summary_character_count": 108,
+      "summary_japanese": "大容量腫瘍に対し、GTV内へOARクリアランスを考慮した個別円筒形3D-GRIDを設計し、TOMO・IMRT・VMATを比較した。TOMOは高いPVDRを示したが、線量勾配と積分線量は不利で、OAR線量差はなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced 3D-GRID radiotherapy on helical tomotherapy via personalized geometric optimization: A comparative study with IMRT and VMAT"
+    },
     "10.1016/j.jciso.2026.100196": {
       "doi": "10.1016/j.jciso.2026.100196",
       "posted_at": "2026-07-18T07:02:17+00:00",
@@ -646,6 +659,19 @@
       "summary_used_fallback": false,
       "title": "Diastereo- and Enantioselective Rh-Catalyzed Si-H Insertion of N -Triftosylhydrazones: From Carbon to Silicon-Stereogenic Centers"
     },
+    "10.1021/acscatal.6c03499": {
+      "doi": "10.1021/acscatal.6c03499",
+      "posted_at": "2026-07-20T21:15:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784582107.225339",
+      "summary_character_count": 301,
+      "summary_japanese": "A chiral Rh(III)-catalyzed enantioselective multicomponent C-H functionalization of indoles, alkenes, and aminating agents was developed. The cascade combines indole C2-H activation, alkene chain walking, and C-N bond formation to furnish chiral (indol-2-yl)methanamines in up to 80% yield and 99% ee.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Rh(III)-Catalyzed Enantioselective Multicomponent C-H Functionalization Cascade toward Chiral Indoles"
+    },
     "10.1021/acscatal.6c03795": {
       "doi": "10.1021/acscatal.6c03795",
       "posted_at": "2026-07-19T12:17:33+00:00",
@@ -677,6 +703,19 @@
       "posted_at": "2026-07-18T07:02:24+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1021/acsnanoscienceau.6c00082": {
+      "doi": "10.1021/acsnanoscienceau.6c00082",
+      "posted_at": "2026-07-20T21:14:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784582093.026329",
+      "summary_character_count": 132,
+      "summary_japanese": "Cu箔上にAg NP担持Cu phenylacetylideナノベルトをin situ成長させ、Cu+活性点を安定化した。CO2電解還元でC2H4のFE 44.5%、C2+生成物のFE 56.5%を示し、CO2補給下でC2H4のFE 40%以上を11 h維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "In Situ Growth of Copper Phenylacetylide Nanobelts on Copper Foil for Enhanced Electroreduction of CO 2 to Multi-Carbon Products"
     },
     "10.1021/jacs.6c05337": {
       "doi": "10.1021/jacs.6c05337",
@@ -990,6 +1029,19 @@
       "summary_used_fallback": false,
       "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes"
     },
+    "10.1139/cgj-2026-0043": {
+      "doi": "10.1139/cgj-2026-0043",
+      "posted_at": "2026-07-20T21:15:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784582101.007809",
+      "summary_character_count": 107,
+      "summary_japanese": "粘土中に施工した開放端helical pileの土栓形成を現場試験し、CPTに基づき施工抵抗を解析した。IFRとPLRは約40%へ低下後に安定し、ITR逆数と対数関係を示し、トルクと土栓抵抗はCPTから予測できた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Soil plugging behaviors and CPT based installation resistance analysis of open-ended helical pile embedded in clay"
+    },
     "10.1142/s0129183127501312": {
       "doi": "10.1142/s0129183127501312",
       "posted_at": "2026-07-20T18:14:43+00:00",
@@ -1015,6 +1067,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Role of the Male Urobiome and Dysbiosis in the Pathogenesis of Prostatic Diseases (CP/CPPS and BPH)."
+    },
+    "10.1680/jgele.24.00170": {
+      "doi": "10.1680/jgele.24.00170",
+      "posted_at": "2026-07-20T21:15:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784582111.675919",
+      "summary_character_count": 115,
+      "summary_japanese": "乾燥中密砂に設置した単・二翼helical pileを対象に、引張下の熱・熱機械サイクルを物理模型で評価した。不可逆変位は生じたが、二翼化と安全率増加で沈下はそれぞれ約50%、30%低減し、引張支持力増加は最大16%にとどまった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Physical modelling of cyclically thermally-activated helical piles under tensile loading"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
