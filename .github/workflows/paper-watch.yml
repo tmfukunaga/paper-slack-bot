@@ -26,6 +26,29 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Record schedule proof
+        if: github.event_name == 'schedule'
+        run: |
+          printf 'scheduled_at=%s\nrun_id=%s\nevent=%s\n' \
+            "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" \
+            "${GITHUB_RUN_ID}" \
+            "${GITHUB_EVENT_NAME}" > .paper-watch-schedule-proof
+
+          git config user.name "paper-watch-bot"
+          git config user.email "paper-watch-bot@users.noreply.github.com"
+          git add .paper-watch-schedule-proof
+          git commit -m "Record Paper Watch schedule proof [skip ci]"
+
+          for attempt in 1 2 3; do
+            if git push; then
+              break
+            fi
+
+            echo "Push failed; rebasing schedule proof onto the latest main (attempt ${attempt}/3)"
+            git fetch origin main
+            git rebase origin/main
+          done
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -47,18 +70,10 @@ jobs:
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
         run: python -m paper_watch.main
 
-      - name: Record schedule proof
-        if: always() && github.event_name == 'schedule'
-        run: |
-          printf 'scheduled_at=%s\nrun_id=%s\nevent=%s\n' \
-            "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" \
-            "${GITHUB_RUN_ID}" \
-            "${GITHUB_EVENT_NAME}" > .paper-watch-schedule-proof
-
       - name: Persist state
         if: always()
         run: |
-          if [ -z "$(git status --porcelain -- data/state.json .paper-watch-schedule-proof)" ]; then
+          if [ -z "$(git status --porcelain -- data/state.json)" ]; then
             echo "No state change"
             exit 0
           fi
@@ -66,7 +81,7 @@ jobs:
           git config user.name "paper-watch-bot"
           git config user.email "paper-watch-bot@users.noreply.github.com"
 
-          git add data/state.json .paper-watch-schedule-proof
+          git add data/state.json
           git commit -m "Update paper watch state [skip ci]"
 
           for attempt in 1 2 3; do
