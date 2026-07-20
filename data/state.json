@@ -2,7 +2,7 @@
   "daily_counts": {
     "2026-07-18": 40,
     "2026-07-19": 38,
-    "2026-07-20": 10
+    "2026-07-20": 15
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -30,6 +30,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Guided Chiral Assemblies and Chemical Doping of OEG-Functionalized Conjugated Polymers"
+    },
+    "10.1002/adom.71455": {
+      "doi": "10.1002/adom.71455",
+      "posted_at": "2026-07-20T09:43:17+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784540597.627849",
+      "summary_character_count": 129,
+      "summary_japanese": "剛直なspiro acceptorと柔軟なphenothiazine donorを統合した(R/S)-SX-PTZは、異なる配座に由来する青・黄発光で単一分子白色発光を示し、CP-WOLEDでEQEmax 5.0%、CRI 74の安定な暖白色発光を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Spiro-Type Dual-Emission Emitters for Single-Molecule Circularly Polarized White OLEDs"
     },
     "10.1002/advs.76555": {
       "doi": "10.1002/advs.76555",
@@ -820,6 +833,19 @@
       "summary_used_fallback": false,
       "title": "Interfacial solvothermal synthesis of superhydrophilic ionic salt-derived chiral helical COFs with strong chiroptical activity"
     },
+    "10.1126/sciadv.aef7488": {
+      "doi": "10.1126/sciadv.aef7488",
+      "posted_at": "2026-07-20T09:43:28+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784540608.742629",
+      "summary_character_count": 128,
+      "summary_japanese": "stibine/thiolate保護Pd11クラスターPd11(PhSb)2(AdmS)10を、Sb中心Pd6環2個とPd3三角形からなる全金属[3]Pdヘリセンとして構築した。7c-2e σ結合が骨格を安定化し、二電子酸素還元で高い電気触媒活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Biomimetic all-metal Pd 11 helicene"
+    },
     "10.1126/science.aeh1429": {
       "doi": "10.1126/science.aeh1429",
       "posted_at": "2026-07-19T09:12:25+00:00",
@@ -930,6 +956,19 @@
       "summary_used_fallback": false,
       "title": "Multiplexed Imaging through Affinity Hierarchies in a Supramolecular Host"
     },
+    "10.26434/chemrxiv.15006089/v1": {
+      "doi": "10.26434/chemrxiv.15006089/v1",
+      "posted_at": "2026-07-20T09:43:13+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784540593.893069",
+      "summary_character_count": 119,
+      "summary_japanese": "ortho-phenylene/2,3-pyrazinylene交互オリゴマーは、可変温度1H NMRと計算により、クロロホルムで芳香環積層したコンパクトらせん、アセトンで伸長らせんを示し、ヘプタマーは低温で長さがほぼ2倍に切り替わった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Foldamers with Two Distinct Helical Motifs Controlled by Solvent"
+    },
     "10.26434/chemrxiv.15006089/v2": {
       "doi": "10.26434/chemrxiv.15006089/v2",
       "posted_at": "2026-07-20T04:37:20+00:00",
@@ -975,6 +1014,19 @@
       "summary_used_fallback": false,
       "title": "Deciphering the Chiral Inducer in Micelle-Templated Growth of Chiral Gold Nanorods"
     },
+    "10.26434/chemrxiv.15006149/v1": {
+      "doi": "10.26434/chemrxiv.15006149/v1",
+      "posted_at": "2026-07-20T09:43:24+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784540604.728979",
+      "summary_character_count": 123,
+      "summary_japanese": "リン酸結合マクロ環と極性応答性Nile Redを連結したPSプローブを設計し、大型一枚膜小胞でphosphatidic acidとphosphatidylserineを選択的に結合・検出した。ライブ細胞イメージングでは壊死細胞を高感度に検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nile Red-phosphate binding macrocycle conjugate for phosphatidylserine sensing"
+    },
     "10.26434/chemrxiv.15006175/v1": {
       "doi": "10.26434/chemrxiv.15006175/v1",
       "posted_at": "2026-07-18T15:13:51+00:00",
@@ -987,6 +1039,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Spin-Polarization-Driven Modulation of Oxygen Reduction Pathway Selectivity in Chiral Covalent Organic Frameworks"
+    },
+    "10.26434/chemrxiv.15006206/v1": {
+      "doi": "10.26434/chemrxiv.15006206/v1",
+      "posted_at": "2026-07-20T09:43:21+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784540601.151449",
+      "summary_character_count": 104,
+      "summary_japanese": "Fe(HMTI)(CN)2の長寿命MLCT状態をDFT・多参照計算で解析し、Fe–配位子距離を保ったHMTIの非対称変形がT1/S0 MECPを介する失活経路を与え、1.25 ns寿命と整合することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Hidden Deactivation Pathway of the Long-Lived MLCT State in Fe(HMTI)(CN)2 Revealed by Multireference Calculations"
     },
     "10.26434/chemrxiv.15006231/v1": {
       "doi": "10.26434/chemrxiv.15006231/v1",
