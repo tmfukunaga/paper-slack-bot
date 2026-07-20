@@ -2,7 +2,8 @@
   "daily_counts": {
     "2026-07-18": 40,
     "2026-07-19": 38,
-    "2026-07-20": 20
+    "2026-07-20": 20,
+    "2026-07-21": 5
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -146,6 +147,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/anie.4104555": {
+      "doi": "10.1002/anie.4104555",
+      "posted_at": "2026-07-20T15:27:35+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784561255.635469",
+      "summary_character_count": 109,
+      "summary_japanese": "四重N-confused [32]octaphyrin二核錯体の内側α位を選択酸化し、酸素導入と骨格再編により二重連結10-oxacorrole二量体へ変換した。生成物は局所芳香族18πと大域反芳香族32πを併せ持つ。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Oxidative Porphyrinoid Metamorphosis of Fourfold N-Confused [32]Octaphyrin Bis-Metal Complex to Doubly Linked 10-Oxacorrole Metal Complex Dimer"
     },
     "10.1002/anie.4566077": {
       "doi": "10.1002/anie.4566077",
@@ -322,6 +336,32 @@
       "summary_used_fallback": false,
       "title": "Green Chiral HPLC Method for Lumefantrine Analysis: Method Development, Greenness Assessment, and Computational Studies"
     },
+    "10.1002/chir.70123": {
+      "doi": "10.1002/chir.70123",
+      "posted_at": "2026-07-20T15:27:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784561271.630109",
+      "summary_character_count": 109,
+      "summary_japanese": "D2d対称のlinked/unlinked cyclo[18]carbon環対の非共鳴光学活性を計算し、機械結合を解くと非共有結合接触を保ちながらgyration固有値が±16から±54 bohr^4へ約3倍増大した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Consequences of Mechanical Bonding on the Optical Activity of Cyclo[18]carbon Rings"
+    },
+    "10.1002/cjoc.70691": {
+      "doi": "10.1002/cjoc.70691",
+      "posted_at": "2026-07-20T15:27:41+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784561261.906829",
+      "summary_character_count": 346,
+      "summary_japanese": "A chiral phosphoric acid-catalyzed atroposelective Paal-Knorr reaction of N-aminoindolines with 1,4-diketones afforded pyramidalized N-N atropisomers with high stereoselectivity. Single-crystal X-ray diffraction and DFT calculations showed that N-N axial chirality, rather than nitrogen-centered chirality, is the predominant stereogenic element.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Organocatalytic Enantioselective Construction of Pyramidalized N-N Atropisomers"
+    },
     "10.1002/cjoc.70701": {
       "doi": "10.1002/cjoc.70701",
       "posted_at": "2026-07-17T21:10:54+00:00",
@@ -360,6 +400,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Planar Chiral Nanoantenna for Excitation-Chirality-Controlled Hot Spot Modulation and Emitter-Coupled Circularly Polarized Emission"
+    },
+    "10.1002/nap2.70207": {
+      "doi": "10.1002/nap2.70207",
+      "posted_at": "2026-07-20T15:27:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784561267.884539",
+      "summary_character_count": 130,
+      "summary_japanese": "ARPBでSi nanodiskのlongitudinal Mie resonanceを励起し、MQ resonanceでキラル力と非キラル力を分離した。数値計算とKramers理論により、捕捉選択性は強キラル粒子で100超、弱キラル分析物でも2超と予測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced Enantioselective Optical Trapping Enabled by Longitudinal Mie Resonances in Silicon Nanodisks"
     },
     "10.1002/smll.74616": {
       "doi": "10.1002/smll.74616",
@@ -715,6 +768,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controlled Synthesis of Chiral β-Chloramines and Aziridines via an Organo- and Biocatalytic Cascade"
+    },
+    "10.1021/jacs.6c12367": {
+      "doi": "10.1021/jacs.6c12367",
+      "posted_at": "2026-07-20T15:27:29+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784561249.233349",
+      "summary_character_count": 109,
+      "summary_japanese": "[FeV(O)(TAML•+)]を水の光酸化で生成し、O–O結合形成を経るO2発生と電子移動反応を検証した。過渡吸収測定で段階的生成経路を示し、水との反応速度とKIE 2.0、再編成エネルギー0.80 eVを決定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An Iron(V)-Oxo TAML Radical Cation Complex in Photocatalytic Water Oxidation and Electron-Transfer Reactions"
     },
     "10.1021/jacsau.6c00720": {
       "doi": "10.1021/jacsau.6c00720",
