@@ -3,74 +3,34 @@ name: Paper Watch
 on:
   workflow_dispatch:
   schedule:
-    # Run every three hours at :10 UTC.
-    - cron: "10 */3 * * *"
-  push:
-    paths:
-      - ".paper-watch-trigger"
+    - cron: "40 8 * * *"
+
+permissions:
+  contents: write
 
 concurrency:
   group: paper-watch
   cancel-in-progress: false
 
-permissions:
-  contents: write
-
 jobs:
-  run:
+  verify-schedule:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
-
+    timeout-minutes: 10
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: pip
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Validate configuration and run tests
-        run: pytest -q
-
-      - name: Find, summarize, and post papers
-        env:
-          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
-          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
-        run: python -m paper_watch.main
-
-      - name: Persist state
-        if: always()
+      - name: Record schedule proof
         run: |
-          if [ -z "$(git status --porcelain -- data/state.json)" ]; then
-            echo "No state change"
-            exit 0
-          fi
+          printf 'scheduled_at=%s\nrun_id=%s\nevent=%s\n' \
+            "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" \
+            "${GITHUB_RUN_ID}" \
+            "${GITHUB_EVENT_NAME}" > .paper-watch-schedule-proof
 
           git config user.name "paper-watch-bot"
           git config user.email "paper-watch-bot@users.noreply.github.com"
-
-          git add data/state.json
-          git commit -m "Update paper watch state [skip ci]"
-
-          for attempt in 1 2 3; do
-            if git push; then
-              exit 0
-            fi
-
-            echo "Push failed; rebasing state commit onto the latest main (attempt ${attempt}/3)"
-            git fetch origin main
-            git rebase origin/main
-          done
-
-          echo "Failed to persist state after three attempts"
-          exit 1
+          git add .paper-watch-schedule-proof
+          git commit -m "Record Paper Watch schedule proof [skip ci]"
+          git push
