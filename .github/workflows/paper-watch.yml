@@ -48,7 +48,7 @@ jobs:
         run: python -m paper_watch.main
 
       - name: Record schedule proof
-        if: github.event_name == 'schedule'
+        if: always() && github.event_name == 'schedule'
         run: |
           printf 'scheduled_at=%s\nrun_id=%s\nevent=%s\n' \
             "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" \
