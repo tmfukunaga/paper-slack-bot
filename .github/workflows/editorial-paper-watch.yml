@@ -2,9 +2,9 @@ name: Editorial Paper Watch
 
 on:
   workflow_dispatch:
-  schedule:
-    # 06:00 Asia/Tokyo = 21:00 UTC on the previous calendar day.
-    - cron: "0 21 * * *"
+  push:
+    paths:
+      - ".editorial-watch-trigger"
 
 concurrency:
   group: editorial-paper-watch
