@@ -2,7 +2,7 @@
   "daily_counts": {
     "2026-07-18": 40,
     "2026-07-19": 38,
-    "2026-07-20": 5
+    "2026-07-20": 10
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -146,6 +146,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Triply N-Confused Hexaphyrins(1.1.1.1.1.0) Synthesized From N-Confused Hexaphyrin(2.1.1.1.1.1): Aromaticity Modulation, Metal Coordination, and Photothermal Conversion"
+    },
+    "10.1002/anie.5096270": {
+      "doi": "10.1002/anie.5096270",
+      "posted_at": "2026-07-20T04:37:17+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784522237.157469",
+      "summary_character_count": 124,
+      "summary_japanese": "redox-active triptycene tribenzoquinoneを硫黄複素環で拡張し、2次元超分子重合により多孔質多層ナノシート有機正極を作製した。18 A g−1で44秒に76%充電し、5,000サイクル後も容量の79%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fast-Charging and Durable Organic Cathodes Enabled by Two-Dimensional Supramolecular Polymerization"
+    },
+    "10.1002/anie.5251809": {
+      "doi": "10.1002/anie.5251809",
+      "posted_at": "2026-07-20T04:37:13+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784522233.760939",
+      "summary_character_count": 420,
+      "summary_japanese": "Alternating photoiniferter copolymerization of methoxy-substituted styrenes and pentafluorostyrene exploited arene-perfluoroarene interactions to enhance propagation rates by up to 2000% relative to styrene homopolymerization. The approach produced UHMW trialkoxystyrene copolymers with sterically encumbered pendants that were ultrasoft, with a Young’s modulus of 8 kPa, and highly extensible, reaching 560% elongation.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Supramolecular Arene-Perfluoroarene Assembly Enhances Photoiniferter Polymerization Kinetics"
     },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
@@ -457,6 +483,19 @@
       "summary_used_fallback": false,
       "title": "Clicking 1,4-Dithiin Conjugated Dimaleimides for Chiroptical Evolution and Nanofabrication"
     },
+    "10.1021/acs.orglett.6c02238": {
+      "doi": "10.1021/acs.orglett.6c02238",
+      "posted_at": "2026-07-20T04:37:08+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784522228.541739",
+      "summary_character_count": 110,
+      "summary_japanese": "N-heterocyclic carbene触媒による脱対称化アミド化で、平面キラル[2.2]paracyclophane由来thioureaとimideを高エナンチオ選択的に合成し、脱対称化が選択性制御に重要と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Carbene-Catalyzed Desymmetric Amidation Enables Modular Access to Planar Chiral Thioureas and Imides"
+    },
     "10.1021/acs.orglett.6c02536": {
       "doi": "10.1021/acs.orglett.6c02536",
       "posted_at": "2026-07-18T07:02:48+00:00",
@@ -520,6 +559,19 @@
       "posted_at": "2026-07-18T07:02:24+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1021/jacs.6c05337": {
+      "doi": "10.1021/jacs.6c05337",
+      "posted_at": "2026-07-20T04:37:26+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784522246.787499",
+      "summary_character_count": 117,
+      "summary_japanese": "cyclotetrabenzoin由来のアルキン捕捉部位を配列したZr-MOF SJTU-520は、3650 m²/gの高表面積によりC3H4を選択的に捕捉し、298 K・1 barで高いC3H4/C3H6取込比と効率的分離を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Arraying Shape-Persistent Molecular Alkynyl Trap into Highly Porous and Robust Zirconium Metal-Organic Framework for Propyne Capture and Propyne/Propylene Separation"
     },
     "10.1021/jacs.6c06445": {
       "doi": "10.1021/jacs.6c06445",
@@ -877,6 +929,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multiplexed Imaging through Affinity Hierarchies in a Supramolecular Host"
+    },
+    "10.26434/chemrxiv.15006089/v2": {
+      "doi": "10.26434/chemrxiv.15006089/v2",
+      "posted_at": "2026-07-20T04:37:20+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784522240.761869",
+      "summary_character_count": 131,
+      "summary_japanese": "ortho-phenylene/2,3-pyrazinylene交互オリゴマーは、可変温度1H NMRと化学シフト計算により、クロロホルムでアレーン積層型コンパクトらせん、アセトンで伸長らせんを選ぶと示された。heptamerは低温で長さがほぼ2倍に切り替わる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Foldamers with Two Distinct Helical Motifs Controlled by Solvent"
     },
     "10.26434/chemrxiv.15006107/v1": {
       "doi": "10.26434/chemrxiv.15006107/v1",
