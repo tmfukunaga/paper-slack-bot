@@ -2,7 +2,7 @@
   "daily_counts": {
     "2026-07-18": 40,
     "2026-07-19": 38,
-    "2026-07-20": 15
+    "2026-07-20": 20
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -283,6 +283,19 @@
       "summary_used_fallback": false,
       "title": "Symmetry Breaking in Achiral Porphyrins: Noncovalent Origins of Emergent Optical Activity"
     },
+    "10.1002/chem.71424": {
+      "doi": "10.1002/chem.71424",
+      "posted_at": "2026-07-20T13:06:27+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784552787.064359",
+      "summary_character_count": 106,
+      "summary_japanese": "揮発性NH3による可逆的塩形成で12-hydroxystearic acidを活性化し、極性有機溶媒で散逸的超分子ゲル化を実現した。NH3散逸で寿命を制御でき、反復ゲル‐ゾル循環でも持続性廃棄物を蓄積しなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Volatile Chemical Activator Enables Waste-Free Dissipative Supramolecular Assembly"
+    },
     "10.1002/chem.71446": {
       "doi": "10.1002/chem.71446",
       "posted_at": "2026-07-19T22:57:37+00:00",
@@ -405,6 +418,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
+    },
+    "10.1021/acs.chemmater.6c00828": {
+      "doi": "10.1021/acs.chemmater.6c00828",
+      "posted_at": "2026-07-20T13:06:38+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784552798.343469",
+      "summary_character_count": 129,
+      "summary_japanese": "N-alkyl-D-galactonamide–モリブデン錯体を酸性化して、透明で可逆・チキソトロピー性のmetallogelを形成した。nonyl体とheptyl体は異なる集合構造をとり、3.9または2.8 nm間隔の秩序化molybdate配列を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metallogels and Molybdate Arrays Formed by Self-Assembly of Carbohydrate Molybdenum Complexes"
     },
     "10.1021/acs.chemmater.6c01554": {
       "doi": "10.1021/acs.chemmater.6c01554",
@@ -690,6 +716,19 @@
       "summary_used_fallback": false,
       "title": "Controlled Synthesis of Chiral β-Chloramines and Aziridines via an Organo- and Biocatalytic Cascade"
     },
+    "10.1021/jacsau.6c00720": {
+      "doi": "10.1021/jacsau.6c00720",
+      "posted_at": "2026-07-20T13:06:42+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784552802.548599",
+      "summary_character_count": 131,
+      "summary_japanese": "dibenzo[a,e]pentalene壁をもつ多孔性MII4L6（M=Fe, Zn）ケージを合成し、両者はC60を包接、Zn(II)体はC70や多環芳香族も結合した。ゲストの化学シフトは反芳香族pentaleneではなくClar sextetの影響を受けた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tetrahedral M II 4 L 6 ( M = Fe, Zn) Cages Equipped with Walls Featuring Antiaromatic Pentalene Motifs"
+    },
     "10.1038/s41467-026-74709-2": {
       "doi": "10.1038/s41467-026-74709-2",
       "posted_at": "2026-07-17T17:27:36+00:00",
@@ -917,6 +956,19 @@
       "recovered_from_run": 29635004972,
       "score": 27
     },
+    "10.26434/chemrxiv.15005912/v2": {
+      "doi": "10.26434/chemrxiv.15005912/v2",
+      "posted_at": "2026-07-20T13:06:23+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784552783.100379",
+      "summary_character_count": 352,
+      "summary_japanese": "Alkylzirconocenes generated in situ from unactivated alkenes were cross-coupled with α-halo amides under blue-light-driven nickel catalysis using a Pyim ligand. This enantioselective C(sp3)–C(sp3) coupling afforded chiral α-aliphatic amides in up to 98% yield and 99:1 e.r., with broad functional-group tolerance and access to quaternary stereocenters.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Nickel-Catalyzed Enantioselective Radical C(sp3)-C(sp3) Cross-Coupling"
+    },
     "10.26434/chemrxiv.15006049/v1": {
       "doi": "10.26434/chemrxiv.15006049/v1",
       "posted_at": "2026-07-19T06:16:06+00:00",
@@ -1065,6 +1117,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "AIE-Active Azahelicenes with High-Performance Circularly Polarized Luminescence for Lipid Droplet Visualization"
+    },
+    "10.26434/chemrxiv.15006237/v1": {
+      "doi": "10.26434/chemrxiv.15006237/v1",
+      "posted_at": "2026-07-20T13:06:31+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784552791.752969",
+      "summary_character_count": 120,
+      "summary_japanese": "PLA系ブロック共重合体のSCDSA・CCDSAにより、shamrock状コロナを持つ球状ミセル、縞状コロナのパッチ状プレートレット、選択的にstereocomplex化したワーム状ミセルを作製し、エマルション安定化で高い界面活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "DFG Project Report: Surface-Compartmentalized Micelles by Stereocomplex-Driven Self-Assembly"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
