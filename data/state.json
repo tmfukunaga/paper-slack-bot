@@ -3,7 +3,7 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 5
+    "2026-07-21": 10
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -349,6 +349,19 @@
       "summary_used_fallback": false,
       "title": "Consequences of Mechanical Bonding on the Optical Activity of Cyclo[18]carbon Rings"
     },
+    "10.1002/cjoc.70681": {
+      "doi": "10.1002/cjoc.70681",
+      "posted_at": "2026-07-20T18:14:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784571290.960829",
+      "summary_character_count": 100,
+      "summary_japanese": "TPEを組み込む新規マクロ環状モノマーを設計し、PET-RAFT開環共重合でAIEユニットをビニルポリマー主鎖へ導入した。重合は制御され、生成ポリマーは顕著なAIE挙動と塩基条件下での分解性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programming Aggregation-Induced Emission Luminogens into Vinyl Polymer Backbones via Macrocyclic Radical Ring-Opening Copolymerization"
+    },
     "10.1002/cjoc.70691": {
       "doi": "10.1002/cjoc.70691",
       "posted_at": "2026-07-20T15:27:41+00:00",
@@ -497,6 +510,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Efficient Macrocyclic Trap for Capture of Pyridine"
+    },
+    "10.1021/acs.iecr.6c00723": {
+      "doi": "10.1021/acs.iecr.6c00723",
+      "posted_at": "2026-07-20T18:14:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784571298.801759",
+      "summary_character_count": 101,
+      "summary_japanese": "高速回転充填層とヘリカルコイルのDean渦を組み合わせたSRPB-HC反応器でNaOH触媒トランスエステル化を強化し、液滴径8.63 μm、滞留時間5.61 minでFAME収率99.27%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intensification of Transesterification for Biodiesel Production in a Submerged Rotating Packed Bed-Helical Coil Reactor"
     },
     "10.1021/acs.inorgchem.6c02821": {
       "doi": "10.1021/acs.inorgchem.6c02821",
@@ -964,6 +990,32 @@
       "summary_used_fallback": false,
       "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes"
     },
+    "10.1142/s0129183127501312": {
+      "doi": "10.1142/s0129183127501312",
+      "posted_at": "2026-07-20T18:14:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784571283.655429",
+      "summary_character_count": 98,
+      "summary_japanese": "低充填ハニカム格子Hubbard模型をRPAで解析し、第三近接ホッピング増大によりchiral p+ip対形成を担う低運動量揺らぎが弱まり、triplet f-waveが優勢へ転じることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Third-nearest-neighbor-hopping-driven competition between chiral p+ ip and triplet f-wave pairing in a doped honeycomb-lattice Hubbard model"
+    },
+    "10.12775/jehs.2026.94.72782": {
+      "doi": "10.12775/jehs.2026.94.72782",
+      "posted_at": "2026-07-20T18:14:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784571287.356449",
+      "summary_character_count": 92,
+      "summary_japanese": "2017～2025年のNGSに基づく臨床研究を叙述的にレビューし、男性urobiomeの多様性と、CP/CPPSの嫌気性菌増加、BPHの炎症性増殖に関わるdysbiosisを整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Role of the Male Urobiome and Dysbiosis in the Pathogenesis of Prostatic Diseases (CP/CPPS and BPH)."
+    },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
       "posted_at": "2026-07-17T17:28:01+00:00",
@@ -1196,6 +1248,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "DFG Project Report: Surface-Compartmentalized Micelles by Stereocomplex-Driven Self-Assembly"
+    },
+    "10.3126/ire.v11i1.96702": {
+      "doi": "10.3126/ire.v11i1.96702",
+      "posted_at": "2026-07-20T18:14:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784571294.994899",
+      "summary_character_count": 104,
+      "summary_japanese": "ネパールのコミュニティ学校ECDセンターを対象に、観察・半構造化面接・文書レビューで指導法を分析した。促進者は基礎的教授法と遊び、口承、音楽、集団活動を組み合わせ、効果には研修・教材・学校基盤が必要と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pedagogical Practices in Early Childhood Development: Roles of Facilitators in Community School ECD Centres"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
