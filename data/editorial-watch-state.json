@@ -1,5 +1,5 @@
 {
-  "last_successful_check": "2026-07-19T22:56:35+00:00",
+  "last_successful_check": "2026-07-20T17:01:14+00:00",
   "posted": {
     "10.1021/jacs.6c05971": {
       "doi": "10.1021/jacs.6c05971",
@@ -26,6 +26,11 @@
       "processed_at": "2026-07-19T22:16:46+00:00",
       "source": "C&EN",
       "title": "C&EN weekly chemistry news quiz, July 17"
+    },
+    "https://cen.acs.org/synthesis/chempics-small-world/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "processed_at": "2026-07-20T17:01:14+00:00",
+      "source": "C&EN",
+      "title": "Chemistry in Pictures: Small world"
     },
     "https://cen.acs.org/synthesis/reagents/dcm-amide-coupling-reagent-inexpensive/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
       "processed_at": "2026-07-19T22:17:01+00:00",
