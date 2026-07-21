@@ -3,7 +3,7 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 26
+    "2026-07-21": 31
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -808,6 +808,19 @@
       "summary_used_fallback": false,
       "title": "In Situ Growth of Copper Phenylacetylide Nanobelts on Copper Foil for Enhanced Electroreduction of CO 2 to Multi-Carbon Products"
     },
+    "10.1021/cbe.6c00062": {
+      "doi": "10.1021/cbe.6c00062",
+      "posted_at": "2026-07-21T09:15:08+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784625308.201419",
+      "summary_character_count": 135,
+      "summary_japanese": "キラル配位子から三角形・正方形・六角形のmetallacycleや各種3次元cageを自己集合し、NH、OH、metal-salen基で閉じ込めキラル環境を精密制御した研究を総説する。これらはエナンチオ選択的認識・分離・膜輸送・触媒に用いられ、反応性と立体制御を高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Confined Chiral Microenvironments in Discrete Supramolecular Assemblies"
+    },
     "10.1021/jacs.6c05337": {
       "doi": "10.1021/jacs.6c05337",
       "posted_at": "2026-07-20T04:37:26+00:00",
@@ -834,6 +847,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Predisposition Promotes Intramolecular Heavy-Atom Effects for Self-Sensitized Oxidation"
     },
+    "10.1021/jacs.6c06555": {
+      "doi": "10.1021/jacs.6c06555",
+      "posted_at": "2026-07-21T09:14:50+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784625290.881239",
+      "summary_character_count": 127,
+      "summary_japanese": "Pt6L4配位カプセルにおける1,1′-binaphthyl-2,2′-diylhydrogen phosphateとの相互作用でヘリシティーとスピン偏極を制御した。MCDとmc-AFMにより、電子結合の調節でスピン偏極が可逆的に切り替わることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programmable Helicity and Spin Polarization in Pt 6 L 4 Coordination Capsules through Guest-Mediated Chiral Control"
+    },
     "10.1021/jacs.6c07331": {
       "doi": "10.1021/jacs.6c07331",
       "posted_at": "2026-07-18T22:19:43+00:00",
@@ -846,6 +872,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spinterface-like Mechanism of the Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Complexes"
+    },
+    "10.1021/jacs.6c09349": {
+      "doi": "10.1021/jacs.6c09349",
+      "posted_at": "2026-07-21T09:14:55+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784625295.263779",
+      "summary_character_count": 129,
+      "summary_japanese": "R/S-Ln3Mn4およびR/S-Ln12Mn12（Ln=HoIII, TbIII, YIII）のNIR-III円二色性・磁気円二色性を測定し、HoIIIの長波長f-f遷移に由来する顕著な応答を確認した。Ln12Mn12はLn3Mn4より強いMCDを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral 3d-4f Clusters with NIR-III Magneto-Optical Activity Driven by Lanthanide f-f Transition"
     },
     "10.1021/jacs.6c09744": {
       "doi": "10.1021/jacs.6c09744",
@@ -1015,6 +1054,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
+    },
+    "10.1038/s41467-026-75838-4": {
+      "doi": "10.1038/s41467-026-75838-4",
+      "posted_at": "2026-07-21T09:14:59+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784625299.295319",
+      "summary_character_count": 129,
+      "summary_japanese": "UV誘起achiral-to-chiral転換を示すsalicylideneaniline誘導体をガラス化し、局所極性応答を伴うrelaxor-like強誘電性を実証した。~26 μC cm-2のスイッチ可能分極と結晶より10倍超速いキラル状態回復を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Relaxor-like ferroelectric response and achiral-chiral switching in an amorphous molecular solid"
     },
     "10.1038/s42004-026-02132-1": {
       "doi": "10.1038/s42004-026-02132-1",
@@ -1456,6 +1508,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "DFG Project Report: Surface-Compartmentalized Micelles by Stereocomplex-Driven Self-Assembly"
+    },
+    "10.26434/chemrxiv.15006268/v1": {
+      "doi": "10.26434/chemrxiv.15006268/v1",
+      "posted_at": "2026-07-21T09:15:03+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784625303.412039",
+      "summary_character_count": 134,
+      "summary_japanese": "遷移双極子モーメントと予測glumに基づきドナー修飾azaheliceneを設計・合成し、構造固定化がらせん構造とCPLを制御することを示した。溶液中で|gabs|・|glum|は10−2に達し、AzaICz-1は可逆的pH応答性発光・キラル光学スイッチングを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Computationally Guided Donor-Engineering of Azahelicenes Towards High-Performance Circularly Polarized Luminescence"
     },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
