@@ -3,7 +3,7 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 20
+    "2026-07-21": 25
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -453,6 +453,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced Enantioselective Optical Trapping Enabled by Longitudinal Mie Resonances in Silicon Nanodisks"
     },
+    "10.1002/pen.70741": {
+      "doi": "10.1002/pen.70741",
+      "posted_at": "2026-07-21T03:16:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784603765.540939",
+      "summary_character_count": 129,
+      "summary_japanese": "Twist-Assisted Bioprintingは、連続押出中の回転でhydrogel filamentを微小らせん状に再構築し、DIW比で破断伸び9.4%、最大荷重24.2%を向上、弾性率を33.1%低減した。らせんテクスチャを持つ腱模倣体も作製した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Twist-Assisted Bioprinting for Micro-Helical Topological Reconstruction"
+    },
     "10.1002/smll.74616": {
       "doi": "10.1002/smll.74616",
       "posted_at": "2026-07-17T17:27:29+00:00",
@@ -613,6 +626,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
+    },
+    "10.1021/acs.jpclett.6c01719": {
+      "doi": "10.1021/acs.jpclett.6c01719",
+      "posted_at": "2026-07-21T03:16:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784603769.254779",
+      "summary_character_count": 123,
+      "summary_japanese": "CVD成長六方晶FeTe 2を線偏光・円偏光分解Raman分光で解析し、135 cm−1モードは選択則に従う一方、155 cm−1モードは禁制ヘリシティで強度を示した。局所対称性低下による選択則破綻であり、温度依存性から磁気起源ではないと示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Symmetry-Breaking and Selection-Rule Relaxation in CVD-Grown Hexagonal FeTe 2 Probed by Angle- and Helicity-Resolved Raman Spectroscopy"
     },
     "10.1021/acs.langmuir.6c03074": {
       "doi": "10.1021/acs.langmuir.6c03074",
@@ -977,6 +1003,19 @@
       "summary_used_fallback": true,
       "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
     },
+    "10.1038/s42004-026-02132-1": {
+      "doi": "10.1038/s42004-026-02132-1",
+      "posted_at": "2026-07-21T03:16:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784603761.554749",
+      "summary_character_count": 129,
+      "summary_japanese": "キラルvanadyl(V)触媒により、vinylarenesとenyne、phenolの三成分1,2-aryloxy-phosphinoylationを高い位置・化学選択性で行い、β-aryloxy-phosphine oxidesを最大96% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric radical type 1,2-aryloxy-phosphinolylation of vinylarenes catalyzed by chiral vanadyl complexes"
+    },
     "10.1063/5.0332479": {
       "doi": "10.1063/5.0332479",
       "posted_at": "2026-07-19T12:17:40+00:00",
@@ -1120,6 +1159,19 @@
       "summary_used_fallback": false,
       "title": "Third-nearest-neighbor-hopping-driven competition between chiral p+ ip and triplet f-wave pairing in a doped honeycomb-lattice Hubbard model"
     },
+    "10.1177/14644207251409285": {
+      "doi": "10.1177/14644207251409285",
+      "posted_at": "2026-07-21T03:15:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784603748.343639",
+      "summary_character_count": 119,
+      "summary_japanese": "Aluminum面板と3DプリントPLA製auxeticコアのサンドイッチパネルを反復25 J衝撃で評価し、幾何学的に密度を勾配化したGCコアは8回の衝撃後も構造健全性を保ち、入射エネルギーの91.2%を吸収してCFEを62%向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Repeated impact response and energy absorption of geometrically graded chiral sandwich panels"
+    },
     "10.12775/jehs.2026.94.72782": {
       "doi": "10.12775/jehs.2026.94.72782",
       "posted_at": "2026-07-20T18:14:47+00:00",
@@ -1132,6 +1184,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Role of the Male Urobiome and Dysbiosis in the Pathogenesis of Prostatic Diseases (CP/CPPS and BPH)."
+    },
+    "10.1364/opticaopen.32538849.v3": {
+      "doi": "10.1364/opticaopen.32538849.v3",
+      "posted_at": "2026-07-21T03:15:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784603755.462109",
+      "summary_character_count": 130,
+      "summary_japanese": "既報の偏光・Bell-CHSH・ゴーストイメージング測定を、解析器設定や検出面サンプリングに依存する読出しとして再検討した。円環状形態の反復的出現に基づき、偏光状態を3次元電磁組織の検出面表現とみなすhelical photon frameworkを提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarization-Mediated Entanglement as Detector-Plane Readout: Toward a Helical Photon Framework"
     },
     "10.1680/jgele.24.00170": {
       "doi": "10.1680/jgele.24.00170",
