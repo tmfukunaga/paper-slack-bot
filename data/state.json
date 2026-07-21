@@ -3,7 +3,7 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 25
+    "2026-07-21": 26
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -497,6 +497,19 @@
       "posted_at": "2026-07-18T07:02:17+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1016/j.mochem.2026.100066": {
+      "doi": "10.1016/j.mochem.2026.100066",
+      "posted_at": "2026-07-21T06:06:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784613994.088489",
+      "summary_character_count": 117,
+      "summary_japanese": "メチル置換で配位子をねじり、らせん状Zn-pyrazolate鎖と交互の空洞・狭小開口をもつBUT-312を構築した。303 Kでn-hexaneと3-methylpentaneを選択吸着し、三成分の動的分離と高い化学安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ligand-conformation-directed assembly of a helical zinc-pyrazolate framework for C6 alkane separation"
     },
     "10.1016/j.talanta.2026.130238": {
       "doi": "10.1016/j.talanta.2026.130238",
