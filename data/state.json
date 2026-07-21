@@ -3,7 +3,7 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 15
+    "2026-07-21": 20
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -70,6 +70,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/ange.3935543": {
+      "doi": "10.1002/ange.3935543",
+      "posted_at": "2026-07-21T00:01:20+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784592080.666679",
+      "summary_character_count": 129,
+      "summary_japanese": "adamantyl、架橋、sialic acidを導入した自己集合性cyclodextrinは、SARS-CoV-2表面で協同的重合を核形成し、細胞毒性なく複数変異株のCPEを阻害した。非集合性・非結合性対照は不活性で、低リガンド分率でも強い阻害を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
     },
     "10.1002/ange.6881077": {
       "doi": "10.1002/ange.6881077",
@@ -231,6 +244,19 @@
       "posted_at": "2026-07-18T07:02:00+00:00",
       "recovered_from_run": 29635004972,
       "score": 30
+    },
+    "10.1002/anie.8164022": {
+      "doi": "10.1002/anie.8164022",
+      "posted_at": "2026-07-21T00:01:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784592088.976629",
+      "summary_character_count": 115,
+      "summary_japanese": "キラルN,N'-dioxide/Ni(II)触媒下、3-bromo-3-substituted oxindoleをsulfonimidamideへ高立体選択的に共役付加し、1,3-S(VI)・C立体中心を併せもつ生成物を合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Simultaneous Construction of Sulfur and Carbon Stereocenters via Asymmetric Desymmetrization of Sulfonimidamides With Oxindole Derivatives"
     },
     "10.1002/anie.8909722": {
       "doi": "10.1002/anie.8909722",
@@ -537,6 +563,19 @@
       "summary_used_fallback": false,
       "title": "Intensification of Transesterification for Biodiesel Production in a Submerged Rotating Packed Bed-Helical Coil Reactor"
     },
+    "10.1021/acs.inorgchem.6c01507": {
+      "doi": "10.1021/acs.inorgchem.6c01507",
+      "posted_at": "2026-07-21T00:01:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784592066.058619",
+      "summary_character_count": 106,
+      "summary_japanese": "{Ln6(μ3-OH)3(H2O)9}を{A-α-SiW9O34}10−で挟む6:2 Ln-POMクラスターを合成し、Ln–O–W結合でsrs型3次元キラル網目を形成した。1-Euは温度依存Eu3+発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Networks Assembled from Hexalanthanide Polyoxometalate Sandwich Building Units Showing Solid-State Temperature-Dependent Photoluminescence"
+    },
     "10.1021/acs.inorgchem.6c02821": {
       "doi": "10.1021/acs.inorgchem.6c02821",
       "posted_at": "2026-07-18T07:03:06+00:00",
@@ -645,6 +684,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Twist-Induced Chiroptical Response in Stacked Triangular Nanoprism Dimers: Leveraging the Lightning-Rod Effect"
+    },
+    "10.1021/acscatal.6c03214": {
+      "doi": "10.1021/acscatal.6c03214",
+      "posted_at": "2026-07-21T00:01:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784592070.662709",
+      "summary_character_count": 129,
+      "summary_japanese": "キラル鉄ポルフィリン触媒とα-methyl-α-diazoesterを用い、室温で53種のアルケンを不斉cyclopropanationし、最大99%収率、dr >99:1、ee 99%を達成した。中間体を分光学的に同定し、DFTで選択性支配因子を解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Iron Porphyrin-Catalyzed Asymmetric Cyclopropanation with α-Methyl-α-diazoesters with Enantiomeric Excess and Diastereomeric Ratios Values up to 99% and Applications"
     },
     "10.1021/acscatal.6c03374": {
       "doi": "10.1021/acscatal.6c03374",
@@ -911,6 +963,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Orthogonal assembly of hetero-porous structures by reversible adaptation for efficient isomeric separation"
+    },
+    "10.1038/s41467-026-75644-y": {
+      "doi": "10.1038/s41467-026-75644-y",
+      "posted_at": "2026-07-21T00:01:16+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784592076.567399",
+      "summary_character_count": 453,
+      "summary_japanese": "An amine/ammonium buffering system under photocatalytic conditions suppresses deprotonation of alkylamine-derived aminium radical cations, enabling efficient anti-Markovnikov hydroamination with near-stoichiometric olefin and amine amounts. The method provides good yields, broad functional-group tolerance, late-stage modification of complex alkenes, gaseous alkene hydroamination, and largely retained stereochemical fidelity for α-chiral alkylamines.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
     },
     "10.1063/5.0332479": {
       "doi": "10.1063/5.0332479",
