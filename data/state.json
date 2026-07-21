@@ -3,7 +3,8 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 36
+    "2026-07-21": 36,
+    "2026-07-22": 5
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -492,6 +493,19 @@
       "summary_used_fallback": false,
       "title": "Color-Tunable Broadband Chiral Copper(I) Halides Scintillators for High-Resolution X-Ray Polarization Imaging"
     },
+    "10.1002/smll.74684": {
+      "doi": "10.1002/smll.74684",
+      "posted_at": "2026-07-21T15:06:03+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784646363.062179",
+      "summary_character_count": 116,
+      "summary_japanese": "界面エネルギー駆動の自己巻回法により、Ti 3 C 2 T xナノスクロールを無溶媒で約100%収率製造し、graphene oxideにも適用した。1D構造は2D比約2倍の第二高調波発生強度と最大0.55の非線形円二色性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent-Free Preparation of Ti 3 C 2 T x Nanoscrolls for Enhanced Nonlinear Circular Dichroism"
+    },
     "10.1016/j.ejmp.2026.105900": {
       "doi": "10.1016/j.ejmp.2026.105900",
       "posted_at": "2026-07-20T21:14:57+00:00",
@@ -575,6 +589,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Metallogels and Molybdate Arrays Formed by Self-Assembly of Carbohydrate Molybdenum Complexes"
+    },
+    "10.1021/acs.chemmater.6c01270": {
+      "doi": "10.1021/acs.chemmater.6c01270",
+      "posted_at": "2026-07-21T15:06:09+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784646369.230659",
+      "summary_character_count": 131,
+      "summary_japanese": "indolo[3,2,1-jk]carbazole系nanographeneに立体的に伸長した非完全共役diphenylfluoreneを導入し、452–459 nmの純青色狭帯域発光と量子収率>90%を実現した。増感蛍光OLEDはEQE 22.6%超を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Constructing Pure Blue Multiple-Resonant Nanographene Emitters with an Enlarged pi-Skeleton via a Sterically Stretched Hindered Diphenylfluorene Moiety"
     },
     "10.1021/acs.chemmater.6c01554": {
       "doi": "10.1021/acs.chemmater.6c01554",
@@ -847,6 +874,19 @@
       "summary_used_fallback": false,
       "title": "Confined Chiral Microenvironments in Discrete Supramolecular Assemblies"
     },
+    "10.1021/jacs.6c04267": {
+      "doi": "10.1021/jacs.6c04267",
+      "posted_at": "2026-07-21T15:05:55+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784646354.998249",
+      "summary_character_count": 133,
+      "summary_japanese": "Al(Salen)Clの溶液挙動を3次元構造解析、固体27Al MAS NMR、計算で調べ、ハロゲン化物触媒的再配列によりR,R-(M)とR,R-(P)が高速平衡化することを示した。骨格はtrans-diequatorialを保ち、配位幾何の変化が軸性M/Pを生む。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereodynamism in Pentacoordinate Al(Salen) Catalysts"
+    },
     "10.1021/jacs.6c05337": {
       "doi": "10.1021/jacs.6c05337",
       "posted_at": "2026-07-20T04:37:26+00:00",
@@ -872,6 +912,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Supramolecular Predisposition Promotes Intramolecular Heavy-Atom Effects for Self-Sensitized Oxidation"
+    },
+    "10.1021/jacs.6c06526": {
+      "doi": "10.1021/jacs.6c06526",
+      "posted_at": "2026-07-21T15:05:59+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784646359.055169",
+      "summary_character_count": 110,
+      "summary_japanese": "D18/L8-BOにヒドロキシル末端結晶性アクセプターY-OHを導入し、結晶化シードで細径の相互貫入フィブリル網を形成した。三元OSCはPCE 20.90%を示し、65 °Cで900 h後も初期効率の約83%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Seeding-Induced Fibrillar Refinement for High Efficiency and Stable Organic Solar Cells"
     },
     "10.1021/jacs.6c06555": {
       "doi": "10.1021/jacs.6c06555",
@@ -1573,6 +1626,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Concise and Modular Access to a Chiral Biaryl Monophosphine Library via Ir-Catalysed Atroposelective C-H Arylation and Downstream Use in Catalytic Enantioselective Transformations"
+    },
+    "10.26434/chemrxiv.15006311/v1": {
+      "doi": "10.26434/chemrxiv.15006311/v1",
+      "posted_at": "2026-07-21T15:05:49+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784646349.052349",
+      "summary_character_count": 120,
+      "summary_japanese": "Bu2NDBABを酸化して空気安定な[Bu2NDBAB](SbF6)2を83%収率で得た。X線構造解析、NMR・ESR、DFTおよびNICS計算により、943 nmのNIR吸収と増強した反芳香族性を示す主に閉殻一重項基底状態を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulation of Open-Shell Character in Dibenzoazaborine Dications through Amino-Substituent Modification"
     },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
