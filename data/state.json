@@ -4,7 +4,7 @@
     "2026-07-19": 38,
     "2026-07-20": 20,
     "2026-07-21": 36,
-    "2026-07-22": 5
+    "2026-07-22": 10
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -1134,6 +1134,19 @@
       "summary_used_fallback": true,
       "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
     },
+    "10.1038/s41467-026-75769-0": {
+      "doi": "10.1038/s41467-026-75769-0",
+      "posted_at": "2026-07-21T18:02:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784656974.643419",
+      "summary_character_count": 115,
+      "summary_japanese": "電子不足N-ヘテロアレーンのCo触媒不斉移動型脱芳香族化環化を開発し、1,4-Co/hydride shiftと不斉環化を担う二種配位子の動的リレーにより、高効率・高選択的にキラルN-spiroheterocyclesを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ligand relay catalysis enables asymmetric migratory dearomative annulation of N-heteroarenes"
+    },
     "10.1038/s41467-026-75838-4": {
       "doi": "10.1038/s41467-026-75838-4",
       "posted_at": "2026-07-21T09:14:59+00:00",
@@ -1237,6 +1250,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Graphene-integrated silicon metasurface for dynamically tunable chirality and enhanced sensing enabled by high-Q quasi-bound states in the continuum"
+    },
+    "10.1088/2631-8695/ae8d83": {
+      "doi": "10.1088/2631-8695/ae8d83",
+      "posted_at": "2026-07-21T18:02:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784656961.669499",
+      "summary_character_count": 104,
+      "summary_japanese": "平行・角度軸芯ずれを対象に、歯片計算と接触線反復計算を統合したはすば歯車の時変かみあい剛性モデルを提案した。平行ずれでは剛性が低下し、角度ずれでは3歯かみあい域が縮小、2歯域が拡大し、有限要素解析と整合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Influence of Gear Shaft Misalignment Fault on Time-Varying Mesh Stiffness of Helical Gear Pairs"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
@@ -1653,6 +1679,32 @@
       "summary_used_fallback": false,
       "title": "Pedagogical Practices in Early Childhood Development: Roles of Facilitators in Community School ECD Centres"
     },
+    "10.3389/fonc.2026.1883024": {
+      "doi": "10.3389/fonc.2026.1883024",
+      "posted_at": "2026-07-21T18:02:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784656970.452139",
+      "summary_character_count": 126,
+      "summary_japanese": "498件のhelical tomotherapy計画から複雑性72項目と3D線量分布radiomics 851項目を抽出し、PSQA合否をSVMで予測した。両特徴を統合したモデルが両施設・両γ基準で最高の識別能を示したが、施設間の転用性は限定的だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Predicting patient-specific quality assurance outcomes in helical tomotherapy using plan complexity and 3D dose-distribution radiomics"
+    },
+    "10.3390/app16147260": {
+      "doi": "10.3390/app16147260",
+      "posted_at": "2026-07-21T18:02:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784656966.354389",
+      "summary_character_count": 100,
+      "summary_japanese": "砂中二枚翼ヘリカルアンカーの引抜き容量を、PIV模型試験で得た密度・根入れ・翼間隔に応じる4破壊様式と極限平衡理論に基づき推定した。提案式は全根入れ・間隔条件で円筒せん断法と独立翼支持力法に整合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Semiempirical Estimation Formula of Uplift Capacity of Two-Plate Helical Anchors in Sand"
+    },
     "10.3390/cryst16070465": {
       "doi": "10.3390/cryst16070465",
       "posted_at": "2026-07-21T12:08:32+00:00",
@@ -1665,6 +1717,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Behavior and Racemization of Salen-Type Ligands and Their Iron Complexes: An X-Ray Crystal Structure Study"
+    },
+    "10.3390/molecules31142526": {
+      "doi": "10.3390/molecules31142526",
+      "posted_at": "2026-07-21T18:02:37+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784656957.346549",
+      "summary_character_count": 126,
+      "summary_japanese": "thiourea系CSA S-1/S-2をDMAP存在下の1H NMRで評価し、S-1はα-arylacetic acidとthiohydantoin誘導体をジアステレオマー性錯体形成により識別し、最大ΔΔδは各0.021、0.019 ppmとなった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantiodifferentiation of α-Arylacetic Acid and Thiohydantoin Derivatives by NMR Using Thiourea-Based Chiral Solvating Agents"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
