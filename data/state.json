@@ -4,7 +4,7 @@
     "2026-07-19": 38,
     "2026-07-20": 20,
     "2026-07-21": 36,
-    "2026-07-22": 10
+    "2026-07-22": 14
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -428,6 +428,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Amide Chain End Directed Asymmetric Crystallization-Driven Self-Assembly of Oligo( p -phenylenevinylene) Oligomers: Influence of Structure of Amide Chain Ends †"
     },
+    "10.1002/cphc.70451": {
+      "doi": "10.1002/cphc.70451",
+      "posted_at": "2026-07-21T21:03:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784667813.962919",
+      "summary_character_count": 111,
+      "summary_japanese": "4種のactinide錯体の低エネルギー電子遷移を、spin-orbit相互作用を含む完全活性空間計算とSO自然軌道解析で評価した。U錯体の吸収とキラルCm錯体のCPLをモデル化し、後者は実験スペクトルと定性的に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Theoretical Analysis of Low Energy Electronic Transitions of Actinide Complexes Including Spin-Orbit Effects"
+    },
     "10.1002/lpor.71570": {
       "doi": "10.1002/lpor.71570",
       "posted_at": "2026-07-18T15:13:57+00:00",
@@ -505,6 +518,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Free Preparation of Ti 3 C 2 T x Nanoscrolls for Enhanced Nonlinear Circular Dichroism"
+    },
+    "10.1016/j.afres.2026.102418": {
+      "doi": "10.1016/j.afres.2026.102418",
+      "posted_at": "2026-07-21T21:03:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784667817.788209",
+      "summary_character_count": 94,
+      "summary_japanese": "Clevenger蒸留とキラルGC-MSを組み合わせ、α-iononeのR/S体比でラズベリー香料の真正性を判定する定量法を開発・検証した。13食品の分析で多くに合成ラセミ体が認められた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quantification of natural raspberry flavor in foods using chiral GC-MS"
+    },
+    "10.1016/j.csite.2026.108363": {
+      "doi": "10.1016/j.csite.2026.108363",
+      "posted_at": "2026-07-21T21:03:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784667821.533639",
+      "summary_character_count": 121,
+      "summary_japanese": "偏心吸収管をもつ空気式ETSCで、helical coilとring turbulatorの熱流動性能を実験・RNG k-ε CFDで比較した。連続coilが優れ、4 mm coilは熱効率66%を達成し、CFDの出口温度誤差は約5%だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental and CFD investigation of heat-transfer enhancement in eccentric evacuated-tube solar collectors using helical coils and ring turbulator inserts"
     },
     "10.1016/j.ejmp.2026.105900": {
       "doi": "10.1016/j.ejmp.2026.105900",
@@ -1042,6 +1081,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controlled Synthesis of Chiral β-Chloramines and Aziridines via an Organo- and Biocatalytic Cascade"
+    },
+    "10.1021/jacs.6c11520": {
+      "doi": "10.1021/jacs.6c11520",
+      "posted_at": "2026-07-21T21:03:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784667809.915409",
+      "summary_character_count": 374,
+      "summary_japanese": "L-leucine-derived squaramide pseudopeptide droplets were designed for enantioselective conjugate additions of α-nitrosulfone to acrylates and enones and Michael addition of acetylacetone to β-nitroalkenes. The system showed enhanced catalytic performance, with local substrate concentration increasing reactivity and the chiral microenvironment improving enantioselectivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Droplet-Enhanced Asymmetric Catalysis: Squaramide-Derived Pseudopeptide for Enantioselective Addition Reactions"
     },
     "10.1021/jacs.6c12367": {
       "doi": "10.1021/jacs.6c12367",
