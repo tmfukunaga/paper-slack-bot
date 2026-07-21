@@ -3,6 +3,7 @@ from __future__ import annotations
 import logging
 
 from editorial_watch import main as editorial_main
+from editorial_watch import resilient_runner
 from paper_watch.ai_summary import SummaryError
 
 
@@ -37,7 +38,7 @@ def _summarize_japanese_only(
 
 def main() -> None:
     editorial_main.OpenAISummarizer.summarize = _summarize_japanese_only
-    editorial_main.main()
+    resilient_runner.main()
 
 
 if __name__ == "__main__":
