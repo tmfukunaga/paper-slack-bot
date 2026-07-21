@@ -3,7 +3,7 @@
     "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
-    "2026-07-21": 31
+    "2026-07-21": 36
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -44,6 +44,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Spiro-Type Dual-Emission Emitters for Single-Molecule Circularly Polarized White OLEDs"
+    },
+    "10.1002/advs.76451": {
+      "doi": "10.1002/advs.76451",
+      "posted_at": "2026-07-21T12:08:22+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784635701.936679",
+      "summary_character_count": 128,
+      "summary_japanese": "CPLのスピン角運動量でAgを不斉析出させ、階層的Au@chiral Ag semi-core-shell nanorodsをプログラム合成した。Ag殻はキラルhot electron生成を介し、4-nitrophenol還元の円偏光光触媒活性を規定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Plasmonic Printing of Discrete Hierarchical Chiral Au@Chiral Ag Semi-Core-Shell Nanorods With Chiral Plasmon-Enhanced Photocatalysis"
     },
     "10.1002/advs.76555": {
       "doi": "10.1002/advs.76555",
@@ -711,6 +724,19 @@
       "recovered_from_run": 29635004972,
       "score": 27
     },
+    "10.1021/acsanm.6c01429": {
+      "doi": "10.1021/acsanm.6c01429",
+      "posted_at": "2026-07-21T12:08:28+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784635708.539669",
+      "summary_character_count": 111,
+      "summary_japanese": "無機・無機ハイブリッドのキラル圧電ナノ材料を、幾何学的キラリティー、格子キラリティー、キラリティー誘起格子歪み複合体に分類し、設計機構、性能、エネルギーハーベスティング、柔軟センシング、円偏光検出への応用と課題を総説した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Piezoelectric Inorganic and Inorganic Hybrid Nanomaterials for Flexible Electronics and Optoelectronic Applications"
+    },
     "10.1021/acsanm.6c01446": {
       "doi": "10.1021/acsanm.6c01446",
       "posted_at": "2026-07-19T03:09:33+00:00",
@@ -1120,6 +1146,19 @@
       "summary_used_fallback": false,
       "title": "Active thermodynamics of inertial chiral active gases: Equation of state and edge currents"
     },
+    "10.1080/14686996.2026.2705816": {
+      "doi": "10.1080/14686996.2026.2705816",
+      "posted_at": "2026-07-21T12:08:43+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784635723.616199",
+      "summary_character_count": 116,
+      "summary_japanese": "TEM画像からCNTのカイラル指数を自動抽出するPythonコードVibeTubeを開発した。明暗フリンジ間隔による直径測定と対称性・幾何学規則に基づくサブピクセル層線解析により、直径0.5–3.0 nmで90%超の精度を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "VibeTube: a code for accurate extraction of CNTs’ chirality from TEM images"
+    },
     "10.1088/0256-307x/43/8/080801": {
       "doi": "10.1088/0256-307x/43/8/080801",
       "posted_at": "2026-07-19T12:17:44+00:00",
@@ -1522,6 +1561,19 @@
       "summary_used_fallback": false,
       "title": "Computationally Guided Donor-Engineering of Azahelicenes Towards High-Performance Circularly Polarized Luminescence"
     },
+    "10.26434/chemrxiv.15006272/v1": {
+      "doi": "10.26434/chemrxiv.15006272/v1",
+      "posted_at": "2026-07-21T12:08:39+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784635719.106739",
+      "summary_character_count": 119,
+      "summary_japanese": "CpX-IrIII触媒によるphosphine oxideの軸不斉C–H arylationを核に、3段階で空気安定なキラルbiaryl monophosphineライブラリーを構築し、金・Pd触媒不斉反応で最大99:1 erを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Concise and Modular Access to a Chiral Biaryl Monophosphine Library via Ir-Catalysed Atroposelective C-H Arylation and Downstream Use in Catalytic Enantioselective Transformations"
+    },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
       "posted_at": "2026-07-20T18:14:55+00:00",
@@ -1534,6 +1586,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pedagogical Practices in Early Childhood Development: Roles of Facilitators in Community School ECD Centres"
+    },
+    "10.3390/cryst16070465": {
+      "doi": "10.3390/cryst16070465",
+      "posted_at": "2026-07-21T12:08:32+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784635712.573439",
+      "summary_character_count": 127,
+      "summary_japanese": "1,2-diphenylethylenediamine含有塩素置換salen型配位子と鉄錯体をX線結晶構造解析し、配位子合成およびFe(III)-O-Fe(III)錯体化ではラセミ化する一方、FeCl3錯体では(1S,2S)配置が保持されることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Behavior and Racemization of Salen-Type Ligands and Their Iron Complexes: An X-Ray Crystal Structure Study"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
