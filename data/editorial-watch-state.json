@@ -9,9 +9,23 @@
         "C&EN"
       ],
       "title": "Reappraising Dichloromethane: Uncovering a Hidden Coupling Reagent for Activating Carboxylic Acids in Direct Amide Synthesis"
+    },
+    "10.1038/s41467-026-75141-2": {
+      "doi": "10.1038/s41467-026-75141-2",
+      "posted_at": "2026-07-21T23:05:40+00:00",
+      "slack_ts": "1784675140.601649",
+      "sources": [
+        "C&EN"
+      ],
+      "title": "Reversal of protein chemical aging by enzymatic deglycation"
     }
   },
   "processed_articles": {
+    "https://cen.acs.org/biological-chemistry/biochemistry/engineered-enzyme-reverse-lysine-glycation/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "processed_at": "2026-07-21T23:05:40+00:00",
+      "source": "C&EN掲載",
+      "title": "Reversal of protein chemical aging by enzymatic deglycation"
+    },
     "https://cen.acs.org/biological-chemistry/gene-editing/ai-nuclease-design-crispr/104/web/2026/07?sc=230901_cenrssfeed_eng_Physicalrss_cen": {
       "processed_at": "2026-07-19T22:16:46+00:00",
       "source": "C&EN",
@@ -36,6 +50,17 @@
       "processed_at": "2026-07-19T22:17:01+00:00",
       "source": "C&EN掲載",
       "title": "Reappraising Dichloromethane: Uncovering a Hidden Coupling Reagent for Activating Carboxylic Acids in Direct Amide Synthesis"
+    }
+  },
+  "retry_articles": {
+    "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-07-21T23:05:32+00:00",
+      "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen')",
+      "last_failed_at": "2026-07-21T23:05:32+00:00",
+      "published_at": "2026-07-21T13:27:30+00:00",
+      "source": "C&EN",
+      "title": "Reaction rounds up atoms into unusual cyclic compounds"
     }
   }
 }
