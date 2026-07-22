@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
@@ -11,6 +12,9 @@ ROOT = Path(__file__).resolve().parent.parent
 STATE_PATH = ROOT / "data" / "state.json"
 RUN_STATUS_PATH = ROOT / "data" / "run_status.json"
 TIMEZONE = ZoneInfo("Asia/Tokyo")
+SELECTION_RE = re.compile(
+    r"Selection pool: eligible=(?P<eligible>\d+) selected=(?P<selected>\d+) run_cap=(?P<cap>\d+)"
+)
 
 
 def _load_json(path: Path, default: dict) -> dict:
@@ -56,6 +60,39 @@ def _prune_slots(slots: dict, now: datetime) -> None:
             slots.pop(key, None)
 
 
+def _diagnostics(output: str, posted_count: int, return_code: int) -> dict:
+    match = SELECTION_RE.search(output)
+    eligible_count = int(match.group("eligible")) if match else None
+    selected_count = int(match.group("selected")) if match else None
+    run_cap = int(match.group("cap")) if match else None
+    summary_failure_count = output.count("Summary failed completely")
+
+    if return_code != 0:
+        reason = "process_failed"
+        status = "failed"
+    elif posted_count > 0:
+        reason = "posted"
+        status = "success"
+    elif selected_count == 0:
+        reason = "no_eligible_papers"
+        status = "success"
+    elif selected_count is not None and summary_failure_count >= selected_count:
+        reason = "all_summaries_failed"
+        status = "failed"
+    else:
+        reason = "no_posts_after_selection"
+        status = "failed"
+
+    return {
+        "status": status,
+        "reason": reason,
+        "eligible_count": eligible_count,
+        "selected_count": selected_count,
+        "run_cap": run_cap,
+        "summary_failure_count": summary_failure_count,
+    }
+
+
 def main() -> int:
     started_at = datetime.now(timezone.utc).replace(microsecond=0)
     slot = _slot_start(started_at)
@@ -68,8 +105,15 @@ def main() -> int:
         status["slots"] = slots
 
     previous = slots.get(slot_key, {})
-    if isinstance(previous, dict) and previous.get("status") == "success":
-        print(f"Paper Watch slot {slot_key} already completed successfully; skipping duplicate trigger.")
+    if (
+        isinstance(previous, dict)
+        and previous.get("status") == "success"
+        and previous.get("reason")
+    ):
+        print(
+            f"Paper Watch slot {slot_key} already completed successfully "
+            f"({previous.get('reason')}); skipping duplicate trigger."
+        )
         return 0
 
     before = _posted_keys()
@@ -85,13 +129,21 @@ def main() -> int:
         [sys.executable, "-m", "paper_watch.main"],
         cwd=ROOT,
         check=False,
+        capture_output=True,
+        text=True,
     )
+    if completed.stdout:
+        print(completed.stdout, end="")
+    if completed.stderr:
+        print(completed.stderr, end="", file=sys.stderr)
 
     finished_at = datetime.now(timezone.utc).replace(microsecond=0)
     after = _posted_keys()
     posted_count = len(after - before)
+    combined_output = f"{completed.stdout}\n{completed.stderr}"
+    diagnostics = _diagnostics(combined_output, posted_count, completed.returncode)
     slots[slot_key] = {
-        "status": "success" if completed.returncode == 0 else "failed",
+        **diagnostics,
         "scheduled_slot": slot_key,
         "started_at": started_at.isoformat(),
         "finished_at": finished_at.isoformat(),
@@ -102,6 +154,9 @@ def main() -> int:
     status["latest_status"] = slots[slot_key]
     _prune_slots(slots, finished_at)
     _save_json(RUN_STATUS_PATH, status)
+
+    if diagnostics["status"] == "failed" and completed.returncode == 0:
+        return 2
     return completed.returncode
 
 
