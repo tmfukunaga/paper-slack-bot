@@ -5,7 +5,7 @@
     "2026-07-20": 20,
     "2026-07-21": 36,
     "2026-07-22": 14,
-    "2026-07-23": 7
+    "2026-07-23": 12
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -59,6 +59,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of Intramolecular CH-pi Interactions Through Push-Pull Electronic Effect for Enhanced Circularly Polarized Luminescence"
+    },
+    "10.1002/adsc.70629": {
+      "doi": "10.1002/adsc.70629",
+      "posted_at": "2026-07-22T21:01:45+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784754105.669149",
+      "summary_character_count": 122,
+      "summary_japanese": "キラルカルボン酸補助Rh(III)触媒によるsulfoximineとiodonium ylideの不斉C–H活性化を開発し、硫黄中心不斉sulfoximineを最大95%収率、97:3 erで得た。in situ生成ylideも適用可能である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rh(III)-Catalyzed Asymmetric CH Activation of Sulfoximines With Iodonium Ylides Enabled by Chiral Carboxylic Acid"
     },
     "10.1002/advs.76451": {
       "doi": "10.1002/advs.76451",
@@ -201,6 +214,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Oxidative Porphyrinoid Metamorphosis of Fourfold N-Confused [32]Octaphyrin Bis-Metal Complex to Doubly Linked 10-Oxacorrole Metal Complex Dimer"
+    },
+    "10.1002/anie.4145640": {
+      "doi": "10.1002/anie.4145640",
+      "posted_at": "2026-07-22T21:01:49+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784754109.400799",
+      "summary_character_count": 128,
+      "summary_japanese": "Ni触媒によるアルキンの初の不斉hydrophosphinamidationを開発し、N,N-dialkylおよびN-alkyl H-phosphinamideから多様なalkenyl phosphinamidateを高効率・高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nickel-Catalyzed Asymmetric Hydrophosphinamidation of Alkynes"
     },
     "10.1002/anie.4566077": {
       "doi": "10.1002/anie.4566077",
@@ -745,6 +771,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
+    },
+    "10.1021/acs.jpcb.6c02070": {
+      "doi": "10.1021/acs.jpcb.6c02070",
+      "posted_at": "2026-07-22T21:01:39+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784754099.043359",
+      "summary_character_count": 135,
+      "summary_japanese": "Viologen結合glutamideのGV-X集合体をUV-vis・CD測定とDFT/TD-DFTで解析し、対アニオンの電子供与性に応じた電荷移動がキロプト特性を支配すると示した。ナノファイバー状GV-Brは符号反転なしの可視域電気応答性キロプトスイッチングを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Anion-Exchange-Controlled Chiroptical Properties in Viologen-Linked Glutamide Nanofibrillar Assembly for Electroresponsive Chiroptical Switches"
     },
     "10.1021/acs.jpclett.6c01719": {
       "doi": "10.1021/acs.jpclett.6c01719",
@@ -1382,6 +1421,19 @@
       "summary_used_fallback": false,
       "title": "Graphene-integrated silicon metasurface for dynamically tunable chirality and enhanced sensing enabled by high-Q quasi-bound states in the continuum"
     },
+    "10.1088/1674-1056/ae8dad": {
+      "doi": "10.1088/1674-1056/ae8dad",
+      "posted_at": "2026-07-22T21:02:00+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784754120.084319",
+      "summary_character_count": 109,
+      "summary_japanese": "嗅覚受容体に捕捉されたキラル臭気分子で、多フォノン過程を伴うスピン反転非弾性電子移動をHuang-Rhys模型で計算し、移動時間がHuang-Rhys因子と遷移行列のキラリティにより鏡像体間で大きく異なることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-induced spin selectivity in olfaction"
+    },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
       "posted_at": "2026-07-21T18:02:41+00:00",
@@ -1550,6 +1602,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
+    },
+    "10.25259/ajc_57_2026": {
+      "doi": "10.25259/ajc_57_2026",
+      "posted_at": "2026-07-22T21:01:55+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784754115.433659",
+      "summary_character_count": 105,
+      "summary_japanese": "単量体・二量体γ-lactoneのECDをCREST/CENSO配座探索とTDDFTで解析し、sTD-DFT/GFN2-xTBはCotton効果の再現に失敗した一方、TD-CAM-B3LYPは実験値を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electronic circular dichroism prediction on monomeric and dimeric γ-lactone derivatives: An important role of conformational averaging"
     },
     "10.26434/chemrxiv.10001679/v3": {
       "doi": "10.26434/chemrxiv.10001679/v3",
