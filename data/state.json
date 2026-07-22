@@ -5,7 +5,7 @@
     "2026-07-20": 20,
     "2026-07-21": 36,
     "2026-07-22": 14,
-    "2026-07-23": 2
+    "2026-07-23": 7
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -46,6 +46,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Spiro-Type Dual-Emission Emitters for Single-Molecule Circularly Polarized White OLEDs"
+    },
+    "10.1002/adom.71476": {
+      "doi": "10.1002/adom.71476",
+      "posted_at": "2026-07-22T18:16:56+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784744216.516659",
+      "summary_character_count": 123,
+      "summary_japanese": "4,7,12,15-tetrasubstituted [2.2]paracyclophane単結晶で、para置換基の電子効果により分子内CH-pi相互作用を制御し、PLQYを0.28、|g_lum|を1.53/1.21×10^-3へ向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulation of Intramolecular CH-pi Interactions Through Push-Pull Electronic Effect for Enhanced Circularly Polarized Luminescence"
     },
     "10.1002/advs.76451": {
       "doi": "10.1002/advs.76451",
@@ -201,6 +214,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Triply N-Confused Hexaphyrins(1.1.1.1.1.0) Synthesized From N-Confused Hexaphyrin(2.1.1.1.1.1): Aromaticity Modulation, Metal Coordination, and Photothermal Conversion"
+    },
+    "10.1002/anie.4608575": {
+      "doi": "10.1002/anie.4608575",
+      "posted_at": "2026-07-22T18:17:00+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784744220.755499",
+      "summary_character_count": 113,
+      "summary_japanese": "天然cyclodextrinsと光活性decatungstate anion（W10O32^4−）のサイズ不一致による外部会合をNMR滴定・X線結晶構造解析で示し、C6-H近傍でのHATを促進して選択的C6官能基化を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Host-Guest Mismatch Enables Selective Hydrogen Atom Transfer"
     },
     "10.1002/anie.5096270": {
       "doi": "10.1002/anie.5096270",
@@ -966,6 +992,19 @@
       "summary_used_fallback": true,
       "title": "Total Synthesis of Benthol A: The Nominal and the Actual Natural Product"
     },
+    "10.1021/jacs.6c05797": {
+      "doi": "10.1021/jacs.6c05797",
+      "posted_at": "2026-07-22T18:16:46+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784744206.092499",
+      "summary_character_count": 321,
+      "summary_japanese": "Host–guest complexation of cationic thiocarbonylthio chain-transfer agents with CB[7] enhanced chain transfer and photolysis in aqueous photoiniferter and RAFT polymerizations. The approach enabled rapid synthesis of polymers with Mn up to 2,190 kg mol−1 and well-defined 20-block copolymers with high end-group fidelity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Supramolecular Modulation of Controlled Radical Polymerization"
+    },
     "10.1021/jacs.6c06445": {
       "doi": "10.1021/jacs.6c06445",
       "posted_at": "2026-07-17T21:11:10+00:00",
@@ -1017,6 +1056,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spinterface-like Mechanism of the Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Complexes"
+    },
+    "10.1021/jacs.6c07991": {
+      "doi": "10.1021/jacs.6c07991",
+      "posted_at": "2026-07-22T18:16:39+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784744199.896239",
+      "summary_character_count": 118,
+      "summary_japanese": "希土類イオン添加キラルPeQDsに量子切断を導入し、985 nmでg_lum=0.092、PLQY=157.2%のNIR-CPLを達成した。フェムト秒過渡吸収測定により、CISS効果によるスピン保存を伴う超高速エネルギー移動を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Quantum-Cutting"
     },
     "10.1021/jacs.6c09349": {
       "doi": "10.1021/jacs.6c09349",
@@ -1744,6 +1796,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of Open-Shell Character in Dibenzoazaborine Dications through Amino-Substituent Modification"
+    },
+    "10.26434/chemrxiv.15006344/v1": {
+      "doi": "10.26434/chemrxiv.15006344/v1",
+      "posted_at": "2026-07-22T18:16:50+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784744210.371269",
+      "summary_character_count": 109,
+      "summary_japanese": "超音波処理xanthan gum水溶液（最大30 wt%）のコレステリックらせんピッチを温度・濃度依存で測定し、高濃度での逆ピッチの強い非線形増大を、濃度依存の立体相関と有効引力を含むGVWT分子統計モデルで説明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Concentration and Temperature Dependence of the Helical Pitch in Cholesteric Xanthan Gum Solutions"
     },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
