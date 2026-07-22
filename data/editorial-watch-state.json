@@ -18,6 +18,15 @@
         "C&EN"
       ],
       "title": "Reversal of protein chemical aging by enzymatic deglycation"
+    },
+    "10.1126/science.aef0766": {
+      "doi": "10.1126/science.aef0766",
+      "posted_at": "2026-07-22T20:59:50+00:00",
+      "slack_ts": "1784753990.630369",
+      "sources": [
+        "Chemistry World"
+      ],
+      "title": "Vicinal disubstitution of alkyl C-X synthons via alkene radical cation generation"
     }
   },
   "processed_articles": {
@@ -50,14 +59,28 @@
       "processed_at": "2026-07-19T22:17:01+00:00",
       "source": "C&EN掲載",
       "title": "Reappraising Dichloromethane: Uncovering a Hidden Coupling Reagent for Activating Carboxylic Acids in Direct Amide Synthesis"
+    },
+    "https://www.chemistryworld.com/news/photoredox-catalyst-introduces-two-nucleophiles-across-a-carbon-carbon-bond-at-once/4023893.article": {
+      "processed_at": "2026-07-22T20:59:50+00:00",
+      "source": "Chemistry World掲載",
+      "title": "Vicinal disubstitution of alkyl C-X synthons via alkene radical cation generation"
     }
   },
   "retry_articles": {
-    "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+    "https://cen.acs.org/materials/biobased-materials/fungi-based-circuit-boards-make-industry-greener/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
       "attempts": 1,
+      "first_failed_at": "2026-07-22T20:59:40+00:00",
+      "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/materials/biobased-materials/fungi-based-circuit-boards-make-industry-greener/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen')",
+      "last_failed_at": "2026-07-22T20:59:40+00:00",
+      "published_at": "2026-07-22T18:26:33+00:00",
+      "source": "C&EN",
+      "title": "Fungi-based circuit boards could make industry greener"
+    },
+    "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "attempts": 2,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
       "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen')",
-      "last_failed_at": "2026-07-21T23:05:32+00:00",
+      "last_failed_at": "2026-07-22T20:59:40+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
