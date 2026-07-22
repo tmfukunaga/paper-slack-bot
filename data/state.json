@@ -4,7 +4,8 @@
     "2026-07-19": 38,
     "2026-07-20": 20,
     "2026-07-21": 36,
-    "2026-07-22": 14
+    "2026-07-22": 14,
+    "2026-07-23": 2
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -938,6 +939,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Arraying Shape-Persistent Molecular Alkynyl Trap into Highly Porous and Robust Zirconium Metal-Organic Framework for Propyne Capture and Propyne/Propylene Separation"
+    },
+    "10.1021/jacs.6c05580": {
+      "doi": "10.1021/jacs.6c05580",
+      "posted_at": "2026-07-22T15:05:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784732747.089189",
+      "summary_character_count": 119,
+      "summary_japanese": "Benthol Aの初全合成で、NMR・カップリング定数の差異を解析し、C40の立体配置誤帰属を特定して構造を改訂した。金触媒spiroacetalizationとBuchner-Curtius-Schlotterbeck反応を活用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Total Synthesis of Benthol A: Evidence for a Structure Revision"
+    },
+    "10.1021/jacs.6c05583": {
+      "doi": "10.1021/jacs.6c05583",
+      "posted_at": "2026-07-22T15:05:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784732740.633119",
+      "summary_character_count": 336,
+      "summary_japanese": "A multiconvergent total synthesis of the dinoflagellate-derived super-carbon-chain compound benthol A was completed in a longest linear sequence of 32 steps. The synthesis rigorously established that the configuration of the secondary OH group at C40, one of 35 stereogenic centers, had been misassigned in the original isolation study.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Total Synthesis of Benthol A: The Nominal and the Actual Natural Product"
     },
     "10.1021/jacs.6c06445": {
       "doi": "10.1021/jacs.6c06445",
