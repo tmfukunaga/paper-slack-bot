@@ -5,7 +5,7 @@
     "2026-07-20": 20,
     "2026-07-21": 36,
     "2026-07-22": 14,
-    "2026-07-23": 22
+    "2026-07-23": 27
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -947,6 +947,19 @@
       "recovered_from_run": 29635004972,
       "score": 27
     },
+    "10.1021/acsami.6c10610": {
+      "doi": "10.1021/acsami.6c10610",
+      "posted_at": "2026-07-23T06:22:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784787726.968299",
+      "summary_character_count": 102,
+      "summary_japanese": "ピロリジン触媒中心数を精密制御したキラルCOFを設計し、1日で-nitrobenzaldehydeの反応を収率91%、ee 88%で達成した。これは1孔道当たり3または4.5中心のCOFを大きく上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Precise Control over the Number of Pyrrolidine Catalytic Centers in Chiral COFs for Boosted Asymmetric Catalysis"
+    },
     "10.1021/acsanm.6c01429": {
       "doi": "10.1021/acsanm.6c01429",
       "posted_at": "2026-07-21T12:08:28+00:00",
@@ -1024,6 +1037,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "N-Heterocyclic Carbene-Catalyzed Desymmetrization of Bishydroxymethylphosphines to Access P-Stereogenic Compounds"
+    },
+    "10.1021/acscatal.6c04393": {
+      "doi": "10.1021/acscatal.6c04393",
+      "posted_at": "2026-07-23T06:22:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784787731.665769",
+      "summary_character_count": 126,
+      "summary_japanese": "合理設計したキラル単座oxazoline（MOX）配位子により、安定なsulfoxonium ylideと非活性末端アルケンのPd触媒不斉cyclopropanationを実現し、cis-cyclopropaneを最高99%収率、97:3 erで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Palladium-Catalyzed Enantioselective Cyclopropanation of Unactivated Alkenes with Sulfoxonium Ylides Using a Chiral Monodentate Oxazoline Ligand"
     },
     "10.1021/acsnano.6c06602": {
       "doi": "10.1021/acsnano.6c06602",
@@ -1460,6 +1486,19 @@
       "summary_used_fallback": false,
       "title": "Asymmetric radical type 1,2-aryloxy-phosphinolylation of vinylarenes catalyzed by chiral vanadyl complexes"
     },
+    "10.1055/a-2913-5787": {
+      "doi": "10.1055/a-2913-5787",
+      "posted_at": "2026-07-23T06:21:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784787718.916949",
+      "summary_character_count": 92,
+      "summary_japanese": "キラルアニリンを組み込む嵩高いPNキラル配位子FimipとPimipを設計・合成し、Foxapとの立体占有率・非共有結合相互作用解析により、金属中心周囲でより広がった立体環境を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design and Synthesis of Bulky PN Chiral Ligands Incorporating a Chiral Aniline Unit"
+    },
     "10.1063/5.0332479": {
       "doi": "10.1063/5.0332479",
       "posted_at": "2026-07-19T12:17:40+00:00",
@@ -1655,6 +1694,19 @@
       "summary_used_fallback": false,
       "title": "Repeated impact response and energy absorption of geometrically graded chiral sandwich panels"
     },
+    "10.1177/22104917261468814": {
+      "doi": "10.1177/22104917261468814",
+      "posted_at": "2026-07-23T06:22:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784787723.243019",
+      "summary_character_count": 118,
+      "summary_japanese": "180例の高齢者関節包外股関節骨折を対象に、TFNAのhelical bladeとscrewを後ろ向き比較した。6か月骨癒合率、固定失敗率、周術期出血量、在院日数、術後機能、死亡率に群間差はなく、整復の質は固定失敗の独立危険因子だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Retrospective comparison between helical blade and screw in geriatric hip fracture fixation with cephalomedullary devices"
+    },
     "10.12775/jehs.2026.94.72782": {
       "doi": "10.12775/jehs.2026.94.72782",
       "posted_at": "2026-07-20T18:14:47+00:00",
@@ -1693,6 +1745,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Physical modelling of cyclically thermally-activated helical piles under tensile loading"
+    },
+    "10.20944/preprints202607.1344.v1": {
+      "doi": "10.20944/preprints202607.1344.v1",
+      "posted_at": "2026-07-23T06:22:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784787735.195909",
+      "summary_character_count": 89,
+      "summary_japanese": "非対称Suzuki-Miyaura重合でAIE活性をもつキラル3D共役高分子を構築し、Ag+を0–900 μMで蛍光増強検出した。Fe3+とCr6+には二重チャネル応答を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aggregation-Induced Emission and Selective Ion Sensing of Chiral 3D Polymer"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
