@@ -5,7 +5,7 @@
     "2026-07-20": 20,
     "2026-07-21": 36,
     "2026-07-22": 14,
-    "2026-07-23": 12
+    "2026-07-23": 17
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -279,6 +279,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Supramolecular Arene-Perfluoroarene Assembly Enhances Photoiniferter Polymerization Kinetics"
+    },
+    "10.1002/anie.6078601": {
+      "doi": "10.1002/anie.6078601",
+      "posted_at": "2026-07-23T00:03:53+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784765033.059729",
+      "summary_character_count": 126,
+      "summary_japanese": "葉緑体を模倣したZn-TIPP/CdS超分子ヘテロ接合を設計し、Zn-TIPP籠の空間閉じ込め・多点触媒作用と高速電荷移動により、CO2からエタノールへのカスケード変換を達成した。生成速度は138.9 μmol g−1 h−1、選択性は93%であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Cage-Based Heterojunction: Chloroplast Mimicked Artificial Photosynthesis for Efficient Ethanol Production"
     },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
@@ -572,6 +585,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Free Preparation of Ti 3 C 2 T x Nanoscrolls for Enhanced Nonlinear Circular Dichroism"
     },
+    "10.1002/smll.74688": {
+      "doi": "10.1002/smll.74688",
+      "posted_at": "2026-07-23T00:04:03+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784765043.716919",
+      "summary_character_count": 114,
+      "summary_japanese": "脂肪族配位子の微調整で水素結合網を強化し、[Cu4I4]核のCu–Cu距離を圧縮して、ほぼunityのPLQYを保ちつつ発光を550–633 nmに連続調整した。キラル配位子導入によりglum 2.3×10−3のCPLも示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aliphatic Ligand-Mediated Cu-Cu Distance Tuning Enables Near-Unity Efficient and Color-Tunable Circularly Polarized Luminescent Copper(I) Iodide Clusters"
+    },
     "10.1016/j.afres.2026.102418": {
       "doi": "10.1016/j.afres.2026.102418",
       "posted_at": "2026-07-21T21:03:37+00:00",
@@ -811,6 +837,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Assembled Chiral Molecular Aggregates for Dual Energy and Chirality Transfer: Boosting the Circularly Polarized Luminescence"
     },
+    "10.1021/acs.nanolett.6c00913": {
+      "doi": "10.1021/acs.nanolett.6c00913",
+      "posted_at": "2026-07-23T00:03:42+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784765021.938149",
+      "summary_character_count": 92,
+      "summary_japanese": "固体HHGを理論解析し、駆動パルス長が高伝導帯励起を促して高光子エネルギーへ拡張する効果がRhSiで顕著であることを示した。さらに選択則を解明し、アト秒局所キラル近接場の生成を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pulse-Duration-Sensitive High Harmonics and Attosecond Locally Chiral Near Fields from a Chiral Topological Weyl Semimetal"
+    },
     "10.1021/acs.nanolett.6c01653": {
       "doi": "10.1021/acs.nanolett.6c01653",
       "posted_at": "2026-07-19T03:09:52+00:00",
@@ -836,6 +875,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Clicking 1,4-Dithiin Conjugated Dimaleimides for Chiroptical Evolution and Nanofabrication"
+    },
+    "10.1021/acs.orglett.6c02188": {
+      "doi": "10.1021/acs.orglett.6c02188",
+      "posted_at": "2026-07-23T00:03:57+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784765037.765849",
+      "summary_character_count": 134,
+      "summary_japanese": "α-bromophosphonatesとaryl iodidesのNi触媒不斉還元的クロスカップリングを電気化学的に実現し、温和な条件下で高エナンチオ選択的にα-aryl phosphonatesを得た。CVと対照実験から、Ni I種による単電子移動活性化が示された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrocatalytic Enantioselective Reductive Cross-Coupling for Accessing Chiral α-Aryl Phosphonates"
     },
     "10.1021/acs.orglett.6c02238": {
       "doi": "10.1021/acs.orglett.6c02238",
@@ -1303,6 +1355,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
+    },
+    "10.1038/s41467-026-75768-1": {
+      "doi": "10.1038/s41467-026-75768-1",
+      "posted_at": "2026-07-23T00:03:49+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784765029.204489",
+      "summary_character_count": 394,
+      "summary_japanese": "A palladium catalyst and a custom-designed polyfluorinated phosphoramidite ligand enabled dynamic kinetic asymmetric dearomatization of unactivated racemic naphthalene biaryls through alkyne migratory insertion. The enantioconvergent process converted configurationally labile substrates into enantioenriched spiro frameworks, with mechanistic studies supporting a 1:1 Pd/ligand active species.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Alkyne Migratory Insertion Enabled Dynamic Kinetic Asymmetric Dearomatization of Unactivated Racemic Biaryls"
     },
     "10.1038/s41467-026-75769-0": {
       "doi": "10.1038/s41467-026-75769-0",
