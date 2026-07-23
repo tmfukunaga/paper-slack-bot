@@ -1,6 +1,15 @@
 {
   "last_successful_check": "2026-07-20T21:00:29+00:00",
   "posted": {
+    "10.1016/j.clema.2026.100416": {
+      "doi": "10.1016/j.clema.2026.100416",
+      "posted_at": "2026-07-23T21:00:02+00:00",
+      "slack_ts": "1784840402.550899",
+      "sources": [
+        "C&EN"
+      ],
+      "title": "From biotechnological residues to biodegradable printed circuit boards: Aspergillus niger mycelium as a structural support material"
+    },
     "10.1021/jacs.6c05971": {
       "doi": "10.1021/jacs.6c05971",
       "posted_at": "2026-07-19T22:17:01+00:00",
@@ -10,6 +19,15 @@
       ],
       "title": "Reappraising Dichloromethane: Uncovering a Hidden Coupling Reagent for Activating Carboxylic Acids in Direct Amide Synthesis"
     },
+    "10.1021/jacs.6c08584": {
+      "doi": "10.1021/jacs.6c08584",
+      "posted_at": "2026-07-23T21:00:20+00:00",
+      "slack_ts": "1784840420.495939",
+      "sources": [
+        "Chemistry World"
+      ],
+      "title": "Highly Selective and Modular Assembly of Densely Substituted Tetrahydrofurans"
+    },
     "10.1038/s41467-026-75141-2": {
       "doi": "10.1038/s41467-026-75141-2",
       "posted_at": "2026-07-21T23:05:40+00:00",
@@ -18,6 +36,15 @@
         "C&EN"
       ],
       "title": "Reversal of protein chemical aging by enzymatic deglycation"
+    },
+    "10.1126/sciadv.adx7045": {
+      "doi": "10.1126/sciadv.adx7045",
+      "posted_at": "2026-07-23T21:00:15+00:00",
+      "slack_ts": "1784840415.880569",
+      "sources": [
+        "Chemistry World"
+      ],
+      "title": "Gastropod shells record larval migration from deep-sea hydrothermal vents to the euphotic zone"
     },
     "10.1126/science.aef0766": {
       "doi": "10.1126/science.aef0766",
@@ -40,6 +67,11 @@
       "source": "C&EN",
       "title": "AI-designed nucleases build on nature’s design"
     },
+    "https://cen.acs.org/materials/biobased-materials/fungi-based-circuit-boards-make-industry-greener/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
+      "processed_at": "2026-07-23T21:00:02+00:00",
+      "source": "C&EN掲載",
+      "title": "From biotechnological residues to biodegradable printed circuit boards: Aspergillus niger mycelium as a structural support material"
+    },
     "https://cen.acs.org/physical-chemistry/geochemistry/carbon-removal-climate-solution-erw/104/web/2026/07?sc=230901_cenrssfeed_eng_Physicalrss_cen": {
       "processed_at": "2026-07-19T22:16:46+00:00",
       "source": "C&EN",
@@ -60,30 +92,40 @@
       "source": "C&EN掲載",
       "title": "Reappraising Dichloromethane: Uncovering a Hidden Coupling Reagent for Activating Carboxylic Acids in Direct Amide Synthesis"
     },
+    "https://www.chemistryworld.com/news/chemical-analysis-of-limpet-shells-reveals-mechanism-behind-deep-sea-migrations/4023898.article": {
+      "processed_at": "2026-07-23T21:00:15+00:00",
+      "source": "Chemistry World掲載",
+      "title": "Gastropod shells record larval migration from deep-sea hydrothermal vents to the euphotic zone"
+    },
     "https://www.chemistryworld.com/news/photoredox-catalyst-introduces-two-nucleophiles-across-a-carbon-carbon-bond-at-once/4023893.article": {
       "processed_at": "2026-07-22T20:59:50+00:00",
       "source": "Chemistry World掲載",
       "title": "Vicinal disubstitution of alkyl C-X synthons via alkene radical cation generation"
+    },
+    "https://www.chemistryworld.com/news/unexpected-cyclisation-provides-easy-access-to-elusive-tetra-substituted-thfs/4023896.article": {
+      "processed_at": "2026-07-23T21:00:20+00:00",
+      "source": "Chemistry World掲載",
+      "title": "Highly Selective and Modular Assembly of Densely Substituted Tetrahydrofurans"
     }
   },
   "retry_articles": {
-    "https://cen.acs.org/materials/biobased-materials/fungi-based-circuit-boards-make-industry-greener/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 1,
-      "first_failed_at": "2026-07-22T20:59:40+00:00",
-      "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/materials/biobased-materials/fungi-based-circuit-boards-make-industry-greener/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen')",
-      "last_failed_at": "2026-07-22T20:59:40+00:00",
-      "published_at": "2026-07-22T18:26:33+00:00",
-      "source": "C&EN",
-      "title": "Fungi-based circuit boards could make industry greener"
-    },
     "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 2,
+      "attempts": 3,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
       "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen')",
-      "last_failed_at": "2026-07-22T20:59:40+00:00",
+      "last_failed_at": "2026-07-23T20:59:48+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
+    },
+    "https://cen.acs.org/synthesis/direct-sugar-chemistry-streamlines-drug-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-07-23T20:59:48+00:00",
+      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
+      "last_failed_at": "2026-07-23T20:59:48+00:00",
+      "published_at": "2026-07-23T13:33:41+00:00",
+      "source": "C&EN",
+      "title": "Direct sugar chemistry streamlines C-aryl glycoside synthesis"
     }
   }
 }
