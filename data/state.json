@@ -6,7 +6,7 @@
     "2026-07-21": 36,
     "2026-07-22": 14,
     "2026-07-23": 27,
-    "2026-07-24": 5
+    "2026-07-24": 10
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -34,6 +34,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Guided Chiral Assemblies and Chemical Doping of OEG-Functionalized Conjugated Polymers"
+    },
+    "10.1002/adma.74156": {
+      "doi": "10.1002/adma.74156",
+      "posted_at": "2026-07-23T21:05:22+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784840722.603749",
+      "summary_character_count": 119,
+      "summary_japanese": "AuNSsをエラストマー基板上に線状集積したプラズモニック膜は、伸長で生じるしわ誘起幾何学キラリティーを利用し、光の進行方向でCDの符号を反転させ、−0.8～10.8 degの強度を示した。伸長比・角度・配向により応答を動的に制御できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direction-Dependent Plasmonic Chiroptical Response With High Asymmetry and Dynamic Tunability"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -280,6 +293,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Fast-Charging and Durable Organic Cathodes Enabled by Two-Dimensional Supramolecular Polymerization"
+    },
+    "10.1002/anie.5149199": {
+      "doi": "10.1002/anie.5149199",
+      "posted_at": "2026-07-23T21:05:40+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784840740.674559",
+      "summary_character_count": 123,
+      "summary_japanese": "Biaryl oxazepineで第一級アリルアルコールを活性化し、CPA/脱離基複合体がアリルカチオンのエナンチオ選択性を制御するSN1反応を開発した。5,6-dihydrophenanthridine類などを高収率・高エナンチオ選択的に得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Activation of Allylic Primary Alcohols With Biaryl Oxazepine Reagent for Chiral Phosphoric Acid-Catalyzed Asymmetric S N 1 Reaction"
     },
     "10.1002/anie.5251809": {
       "doi": "10.1002/anie.5251809",
@@ -1292,6 +1318,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Quantum-Cutting"
     },
+    "10.1021/jacs.6c09335": {
+      "doi": "10.1021/jacs.6c09335",
+      "posted_at": "2026-07-23T21:05:33+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784840733.889559",
+      "summary_character_count": 115,
+      "summary_japanese": "cyclopropenone保護dibenzocyclooctyneとazideを末端にもつ直鎖分子のphoto-SPAACで、二量体を生じず18～51員環を高～定量収率で合成した。DFT解析と連続反応により17～34員環も得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Macrocyclic Structures by Intramolecular Photoclick Reaction"
+    },
     "10.1021/jacs.6c09349": {
       "doi": "10.1021/jacs.6c09349",
       "posted_at": "2026-07-21T09:14:55+00:00",
@@ -2135,6 +2174,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Concentration and Temperature Dependence of the Helical Pitch in Cholesteric Xanthan Gum Solutions"
+    },
+    "10.26434/chemrxiv.15006401/v1": {
+      "doi": "10.26434/chemrxiv.15006401/v1",
+      "posted_at": "2026-07-23T21:05:44+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784840744.573269",
+      "summary_character_count": 109,
+      "summary_japanese": "DAEを組み込んだCPP光スイッチをDFTで解析し、光異性化により空孔径を約1 Å可逆変化させ、C60、C70、C84選択性を制御した。環閉鎖でDAE中心CT状態が生じるが、迅速な電荷再結合によりその占有は制限された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photoswitchable Carbon Nanohoops with Light-Controlled Fullerene Recognition and Charge Transfer"
+    },
+    "10.26434/chemrxiv.15006439/v1": {
+      "doi": "10.26434/chemrxiv.15006439/v1",
+      "posted_at": "2026-07-23T21:05:27+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784840727.250479",
+      "summary_character_count": 112,
+      "summary_japanese": "cyclodextrinとcyclodextranの130種のhost–guest複合体を多尺度計算で比較し、α-(1→6)結合への置換が剛直な空孔を多経路で結合する適応的認識構造へ変え、相互作用様式を再編することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topology-Driven Molecular Recognition through Constitutional Isomerism"
     },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
