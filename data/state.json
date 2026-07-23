@@ -5,7 +5,7 @@
     "2026-07-20": 20,
     "2026-07-21": 36,
     "2026-07-22": 14,
-    "2026-07-23": 17
+    "2026-07-23": 22
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -143,6 +143,19 @@
       "posted_at": "2026-07-18T07:02:30+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1002/anie.1245058": {
+      "doi": "10.1002/anie.1245058",
+      "posted_at": "2026-07-23T03:04:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784775879.820229",
+      "summary_character_count": 122,
+      "summary_japanese": "DMA4InCl7:Sb3+とDETABiCl6:Sb3+単結晶で、強いスピン軌道相互作用を伴う静的Jahn–Teller効果が励起状態の対称性をOhからD4hへ低下させ、45 T下で左円偏光発光を優勢化し、gmは最大8.9×10−2に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Jahn-Teller Effect Dominates the Left-Hand Rule: Magneto-Optics in Metal Halide Lattice"
     },
     "10.1002/anie.1519414": {
       "doi": "10.1002/anie.1519414",
@@ -824,6 +837,19 @@
       "summary_used_fallback": false,
       "title": "Symmetry-Breaking and Selection-Rule Relaxation in CVD-Grown Hexagonal FeTe 2 Probed by Angle- and Helicity-Resolved Raman Spectroscopy"
     },
+    "10.1021/acs.langmuir.6c01158": {
+      "doi": "10.1021/acs.langmuir.6c01158",
+      "posted_at": "2026-07-23T03:04:22+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784775862.008889",
+      "summary_character_count": 113,
+      "summary_japanese": "SAAS-C12の各キラル異性体を気液界面で分子動力学解析し、配置に依存する自己集合と水素結合網の制御を比較した。エナンチオマーは類似し、多くは界面活性剤―水素結合が配向を支配した一方、RSSSは分子内・分子間結合も関与した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Dynamics Simulation of Sorbitol-Based Surfactants with Different Chiral Configurations at the Gas/Liquid Interface"
+    },
     "10.1021/acs.langmuir.6c03074": {
       "doi": "10.1021/acs.langmuir.6c03074",
       "posted_at": "2026-07-17T17:07:24+00:00",
@@ -888,6 +914,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Electrocatalytic Enantioselective Reductive Cross-Coupling for Accessing Chiral α-Aryl Phosphonates"
+    },
+    "10.1021/acs.orglett.6c02213": {
+      "doi": "10.1021/acs.orglett.6c02213",
+      "posted_at": "2026-07-23T03:04:28+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784775868.270409",
+      "summary_character_count": 315,
+      "summary_japanese": "Magnetic stirring in a sealed glass tube enabled the solid-state synthesis of neutral donor-acceptor [2] and [3]rotaxanes in 67% and 75% yields. In rotaxane 4b, Zn2+, Eu3+, or Lu3+ induced macrocycle 1b translocation from the NDI to the pyridine-2,6-dicarboxamide station, while tren restored its original position.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Magnetic Stirring-Driven Synthesis of Neutral Donor-Acceptor [2] and [3]Rotaxanes under Minimal Solvent Conditions"
     },
     "10.1021/acs.orglett.6c02238": {
       "doi": "10.1021/acs.orglett.6c02238",
@@ -1030,6 +1069,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Confined Chiral Microenvironments in Discrete Supramolecular Assemblies"
+    },
+    "10.1021/jacs.6c03282": {
+      "doi": "10.1021/jacs.6c03282",
+      "posted_at": "2026-07-23T03:04:36+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784775876.161529",
+      "summary_character_count": 117,
+      "summary_japanese": "CNの端部にcyanamide、平面にJ型NiPc dimerを配置し、純水中HMF改質でFDCAを2.14 mmol g−1 h−1、選択性98.2%で生成した。空間分離した部位が電荷再結合を抑え、電荷移動効率98.9%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Decoupled Molecular Motifs and Supramolecular Dimers for Highly Efficient FDCA Synthesis from Neutral Biomass"
     },
     "10.1021/jacs.6c04267": {
       "doi": "10.1021/jacs.6c04267",
@@ -1926,6 +1978,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of Open-Shell Character in Dibenzoazaborine Dications through Amino-Substituent Modification"
+    },
+    "10.26434/chemrxiv.15006342/v1": {
+      "doi": "10.26434/chemrxiv.15006342/v1",
+      "posted_at": "2026-07-23T03:04:32+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784775872.832149",
+      "summary_character_count": 130,
+      "summary_japanese": "D-Ile-L-Xaa（Xaa = Ala, Val, Leu, Ile）の異種キラル脂肪族ジペプチドについて、各種溶媒および中性緩衝水中での超分子挙動とゲル化を調べた。準安定ゲルの結晶化を利用したX線回折により、両親媒性層における分子充填様式を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular behavior of heterochiral dipeptides with Ile"
     },
     "10.26434/chemrxiv.15006344/v1": {
       "doi": "10.26434/chemrxiv.15006344/v1",
