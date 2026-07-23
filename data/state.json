@@ -5,7 +5,8 @@
     "2026-07-20": 20,
     "2026-07-21": 36,
     "2026-07-22": 14,
-    "2026-07-23": 27
+    "2026-07-23": 27,
+    "2026-07-24": 5
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -442,6 +443,19 @@
       "summary_used_fallback": false,
       "title": "5,12-Dichlorotetracene: A Building Block for an Axially Chiral Luminophore"
     },
+    "10.1002/chem.71457": {
+      "doi": "10.1002/chem.71457",
+      "posted_at": "2026-07-23T18:06:05+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784829965.646019",
+      "summary_character_count": 103,
+      "summary_japanese": "エステル型・アミド型キラルbinaphthyl誘導体をOFNとarene-perfluoroarene相互作用で共集合化し、CPL符号の反転と増強を実現した。glumは各々約0.016、0.038に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly Polarized Luminescence Reversion and Amplification Promoted by Hydrogen Bonding and Arene-Perfluoroarene Interactions"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -708,6 +722,19 @@
       "summary_used_fallback": false,
       "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
     },
+    "10.1021/acs.cgd.6c00771": {
+      "doi": "10.1021/acs.cgd.6c00771",
+      "posted_at": "2026-07-23T18:06:12+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784829972.321909",
+      "summary_character_count": 400,
+      "summary_japanese": "A novel organometallic bipyridine atropisomer comprising two ferrocene-functionalized (S)-BINOL units linked by a 4,4′-disubstituted 2,2′-bipyridine bridge was synthesized and structurally characterized. Single-crystal X-ray diffraction confirmed axial chirality. A Cu(II) complex was used to examine how peripheral substitution affects bipyridine coordination capacity and the solid-state structure.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Persistent Solid-State Bipyridine Atropisomerism in a Ferrocenyl-Functionalized Chiral BINOL Scaffold"
+    },
     "10.1021/acs.chemmater.6c00828": {
       "doi": "10.1021/acs.chemmater.6c00828",
       "posted_at": "2026-07-20T13:06:38+00:00",
@@ -836,6 +863,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Symmetry-Breaking and Selection-Rule Relaxation in CVD-Grown Hexagonal FeTe 2 Probed by Angle- and Helicity-Resolved Raman Spectroscopy"
+    },
+    "10.1021/acs.jpclett.6c02121": {
+      "doi": "10.1021/acs.jpclett.6c02121",
+      "posted_at": "2026-07-23T18:06:02+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784829962.108239",
+      "summary_character_count": 105,
+      "summary_japanese": "初期にアキラルな金ナノクラスターへGSHを作用させ、配位子交換と協同的非共有結合相互作用により蛍光性線維状集合体を形成した。集合過程でGSHの固有キラリティーが反転し、強いキロプティカル応答と蛍光増強を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Assembly-Driven Emergent Chirality with Simultaneous Induction and Ligand Inversion in Atomic Clusters"
     },
     "10.1021/acs.langmuir.6c01158": {
       "doi": "10.1021/acs.langmuir.6c01158",
@@ -1213,6 +1253,19 @@
       "summary_used_fallback": false,
       "title": "Programmable Helicity and Spin Polarization in Pt 6 L 4 Coordination Capsules through Guest-Mediated Chiral Control"
     },
+    "10.1021/jacs.6c07069": {
+      "doi": "10.1021/jacs.6c07069",
+      "posted_at": "2026-07-23T18:05:58+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784829957.991479",
+      "summary_character_count": 132,
+      "summary_japanese": "平面paratropic s-indacene核と[5]heliceneを縮環したらせんキラル反芳香族系を設計し、短波長近赤外域でgabs=10−2に達する吸収異方性を示した。GIMIC/NICS解析と電子構造計算で、環電流と熱誘起対称性破れの寄与を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Antiaromaticity as a Design Principle for Magnetically Enhanced Chiroptical Anisotropy"
+    },
     "10.1021/jacs.6c07331": {
       "doi": "10.1021/jacs.6c07331",
       "posted_at": "2026-07-18T22:19:43+00:00",
@@ -1433,6 +1486,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
+    },
+    "10.1038/s41467-026-75758-3": {
+      "doi": "10.1038/s41467-026-75758-3",
+      "posted_at": "2026-07-23T18:05:53+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784829953.769389",
+      "summary_character_count": 121,
+      "summary_japanese": "フッ素化π共役carbon dotsとM/P-[N] hexaheliceneの静電・水素結合によるキラル自己集合体を構築し、吸収dissymmetry factor 0.107、CP-LED輝度9655 cd m−2と0.035を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality induced by supramolecular self-assembly of fluorinated pi-conjugated carbon dots for bright circularly polarized electroluminescent light-emitting diodes"
     },
     "10.1038/s41467-026-75768-1": {
       "doi": "10.1038/s41467-026-75768-1",
