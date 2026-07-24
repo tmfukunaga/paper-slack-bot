@@ -6,7 +6,7 @@
     "2026-07-21": 36,
     "2026-07-22": 14,
     "2026-07-23": 27,
-    "2026-07-24": 10
+    "2026-07-24": 15
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -599,6 +599,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced Enantioselective Optical Trapping Enabled by Longitudinal Mie Resonances in Silicon Nanodisks"
     },
+    "10.1002/nap2.70218": {
+      "doi": "10.1002/nap2.70218",
+      "posted_at": "2026-07-24T00:21:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784852493.610689",
+      "summary_character_count": 124,
+      "summary_japanese": "4つの逆伝搬folded guided modesの相互作用を設計し、反位相固有モードの破壊的干渉によるキラル平坦帯quasi-BICを理論提案・数値実証した。強い閉じ込めにより、1 MW/cm−2で最大2.3×10−3の第三高調波変換効率を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Robust Chiral High- Q Response Driven by Quasi-Bound Flatband in the Continuum"
+    },
     "10.1002/pen.70741": {
       "doi": "10.1002/pen.70741",
       "posted_at": "2026-07-21T03:16:05+00:00",
@@ -695,6 +708,19 @@
       "posted_at": "2026-07-18T07:02:17+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1016/j.micromeso.2026.114323": {
+      "doi": "10.1016/j.micromeso.2026.114323",
+      "posted_at": "2026-07-24T00:21:40+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784852500.039299",
+      "summary_character_count": 120,
+      "summary_japanese": "キラルゼオライトGTM-4はcis-epoxidesの開環的不斉脱対称化を促進し、cis-stilbene oxideと1-propanolで最大62% eeを与えた。計算はGe(OH)部位のH結合と細孔のキラル環境による配向選別を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Desymmetrization of cis-epoxides by chiral zeolite catalyst GTM-4: H-bond-mediated induction of enantioselectivity"
     },
     "10.1016/j.mochem.2026.100066": {
       "doi": "10.1016/j.mochem.2026.100066",
@@ -1526,6 +1552,19 @@
       "summary_used_fallback": true,
       "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
     },
+    "10.1038/s41467-026-75699-x": {
+      "doi": "10.1038/s41467-026-75699-x",
+      "posted_at": "2026-07-24T00:21:44+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784852504.557899",
+      "summary_character_count": 118,
+      "summary_japanese": "CoPS3二次元ナノ結晶を速度論的テンプレートとして用い、共役ポリマー供与体と低分子受容体の自己集合・相分離を制御し、結晶性を高めずに長距離フィブリル網目を形成した。有機太陽電池は電荷生成・輸送の向上により21.0%の変換効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Kinetically templated fibrillar self-assembly via two-dimensional nanocrystals enables 21% efficient organic solar cells"
+    },
     "10.1038/s41467-026-75758-3": {
       "doi": "10.1038/s41467-026-75758-3",
       "posted_at": "2026-07-23T18:05:53+00:00",
@@ -1707,6 +1746,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Influence of Gear Shaft Misalignment Fault on Time-Varying Mesh Stiffness of Helical Gear Pairs"
+    },
+    "10.1093/nsr/nwag448": {
+      "doi": "10.1093/nsr/nwag448",
+      "posted_at": "2026-07-24T00:21:23+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784852483.595159",
+      "summary_character_count": 103,
+      "summary_japanese": "キラル誘起スピン選択性を用い、磁場でCo3O4のキラル非対称因子gを制御した。Li-S電池のセパレータ修飾剤として、gと触媒性能は正の線形相関を示し、Co dバンド中心の上昇により界面電荷移動が促進された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Achieving accelerated electrochemical kinetics in lithium-sulfur batteries by regulating the asymmetry factor g of chiral catalysts"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
@@ -1915,6 +1967,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Iridium-Catalyzed Regio- and Enantioselective Hydroamination of Allenes: Direct Access to α-Tertiary Chiral Allylic Amines"
+    },
+    "10.26434/chemrxiv.15001315/v2": {
+      "doi": "10.26434/chemrxiv.15001315/v2",
+      "posted_at": "2026-07-24T00:21:30+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784852490.020269",
+      "summary_character_count": 377,
+      "summary_japanese": "Encapsulation of albendazole and fenbendazole by native α-, β-, and γ-cyclodextrin was analyzed, showing that guest protonation enhances association. In β-cyclodextrin, albendazole inserts more deeply and engages a broader hydrogen-bond network at the rim, producing a larger enthalpic gain, while hydrophobic anchoring is required for stable protonation-dependent recognition.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Guest Protonation Gates Hydrogen-Bond-Driven Selectivity in Native Cyclodextrin Molecular Recognition"
     },
     "10.26434/chemrxiv.15002521/v2": {
       "doi": "10.26434/chemrxiv.15002521/v2",
