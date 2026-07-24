@@ -110,22 +110,31 @@
   },
   "retry_articles": {
     "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 3,
+      "attempts": 4,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
       "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen')",
-      "last_failed_at": "2026-07-23T20:59:48+00:00",
+      "last_failed_at": "2026-07-24T21:02:13+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
     },
     "https://cen.acs.org/synthesis/direct-sugar-chemistry-streamlines-drug-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 1,
+      "attempts": 2,
       "first_failed_at": "2026-07-23T20:59:48+00:00",
       "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-07-23T20:59:48+00:00",
+      "last_failed_at": "2026-07-24T21:02:13+00:00",
       "published_at": "2026-07-23T13:33:41+00:00",
       "source": "C&EN",
       "title": "Direct sugar chemistry streamlines C-aryl glycoside synthesis"
+    },
+    "https://www.chemistryworld.com/news/chemists-reveal-just-how-much-angle-and-proximity-matters-for-molecules-to-react-when-they-collide/4023909.article": {
+      "attempts": 1,
+      "first_failed_at": "2026-07-24T21:02:13+00:00",
+      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
+      "last_failed_at": "2026-07-24T21:02:13+00:00",
+      "published_at": "2026-07-24T09:52:00+00:00",
+      "source": "Chemistry World",
+      "title": "Chemists reveal just how much angle - and proximity - matters for molecules to react when they collide"
     }
   }
 }
