@@ -6,7 +6,7 @@
     "2026-07-21": 36,
     "2026-07-22": 14,
     "2026-07-23": 27,
-    "2026-07-24": 25
+    "2026-07-24": 26
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -773,6 +773,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ligand-conformation-directed assembly of a helical zinc-pyrazolate framework for C6 alkane separation"
+    },
+    "10.1016/j.sycrs.2026.100216": {
+      "doi": "10.1016/j.sycrs.2026.100216",
+      "posted_at": "2026-07-24T09:03:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784883805.275299",
+      "summary_character_count": 113,
+      "summary_japanese": "皮膚腫瘍切除後に耳輪の1/3超を欠損した2例を、局所麻酔下の二期的postauricular advancement flapで再建し、全層欠損例には同側軟骨移植を併用した。両例で短期・長期の経過および整容結果は良好であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Postauricular flap as a reference technique in complex cases of large surgical defects of the helical rim"
     },
     "10.1016/j.talanta.2026.130238": {
       "doi": "10.1016/j.talanta.2026.130238",
