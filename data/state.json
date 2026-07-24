@@ -6,7 +6,7 @@
     "2026-07-21": 36,
     "2026-07-22": 14,
     "2026-07-23": 27,
-    "2026-07-24": 20
+    "2026-07-24": 25
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -138,6 +138,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/ange.5149199": {
+      "doi": "10.1002/ange.5149199",
+      "posted_at": "2026-07-24T06:22:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784874120.629879",
+      "summary_character_count": 100,
+      "summary_japanese": "Biaryl oxazepineで第一級アリルアルコールを選択的に活性化し、CPAとの脱離基複合体によりアリルカルボカチオンを不斉制御するSN1反応を開発し、高収率・高エナンチオ選択的に生成物を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Activation of Allylic Primary Alcohols With Biaryl Oxazepine Reagent for Chiral Phosphoric Acid-Catalyzed Asymmetric S N 1 Reaction"
     },
     "10.1002/ange.6881077": {
       "doi": "10.1002/ange.6881077",
@@ -1117,6 +1130,19 @@
       "summary_used_fallback": false,
       "title": "Twist-Induced Chiroptical Response in Stacked Triangular Nanoprism Dimers: Leveraging the Lightning-Rod Effect"
     },
+    "10.1021/acscatal.6c03124": {
+      "doi": "10.1021/acscatal.6c03124",
+      "posted_at": "2026-07-24T06:22:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784874148.474459",
+      "summary_character_count": 120,
+      "summary_japanese": "キラルphenanthroline-Cu触媒で六員環型diaryliodonium塩を不斉alkynylation・aminationし、C(sp2)-I結合を有するキラルdiarylalkaneを最高99%収率、98:2 erで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Synthesis of Functionalized Chiral Diarylalkanes via Chiral Phenanthroline-Cu-Catalyzed Alkynylation and Amination of Six-Membered Cyclic Diaryliodonium Salts"
+    },
     "10.1021/acscatal.6c03214": {
       "doi": "10.1021/acscatal.6c03214",
       "posted_at": "2026-07-21T00:01:10+00:00",
@@ -1239,6 +1265,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Decoupled Molecular Motifs and Supramolecular Dimers for Highly Efficient FDCA Synthesis from Neutral Biomass"
+    },
+    "10.1021/jacs.6c03953": {
+      "doi": "10.1021/jacs.6c03953",
+      "posted_at": "2026-07-24T06:22:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784874127.172569",
+      "summary_character_count": 116,
+      "summary_japanese": "syn/anti-IIDBT diradicaloidsの温度可変定常・過渡吸収測定で、多段階励起緩和を同定した。振動活性化spin-orbit couplingによりspin-vibronic couplingがISCを促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin-Vibronic Coupling in Indenoindenodibenzothiophene Diradicaloids"
     },
     "10.1021/jacs.6c04267": {
       "doi": "10.1021/jacs.6c04267",
@@ -1473,6 +1512,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Coordination-Constraint-Driven Enhanced Chirality Induction in Perovskite Quantum Dot Solids"
+    },
+    "10.1021/jacs.6c11244": {
+      "doi": "10.1021/jacs.6c11244",
+      "posted_at": "2026-07-24T06:22:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784874142.065499",
+      "summary_character_count": 461,
+      "summary_japanese": "Simple arenes were programmably triple-functionalized by merging dearomative functionalization with double-atom swap, affording tri- to hexa-substituted benzenes with electronically predictable regioselectivity. The method tolerates diverse nucleophiles and dienophiles without preinstalled activating or directing groups. A novel lactone-type hexabenzocoronene nanographene synthesized using this approach showed a large Stokes shift and enhanced fluorescence.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Programmable Triple Functionalization of Benzenes by Merging Dearomative Functionalization and Skeletal Editing"
     },
     "10.1021/jacs.6c11300": {
       "doi": "10.1021/jacs.6c11300",
@@ -1746,6 +1798,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strain modulated Chiral Magnetic Structures in Two-Dimensional Janus NiIX (X = Br, Cl)"
+    },
+    "10.1088/1361-6587/ae8ead": {
+      "doi": "10.1088/1361-6587/ae8ead",
+      "posted_at": "2026-07-24T06:21:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784874116.650879",
+      "summary_character_count": 104,
+      "summary_japanese": "LHD放電189008をFAR3d線形・非線形計算で解析し、接線・垂直NBI由来の通過・へリカル捕捉EPの非線形相互作用がTAEとEICバーストを誘起し、EP損失と熱プラズマ閉じ込めを悪化させることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Analysis of the bursting activity in Large Helical Device plasma with multiple EP populations"
     },
     "10.1088/1402-4896/ae8c7e": {
       "doi": "10.1088/1402-4896/ae8c7e",
