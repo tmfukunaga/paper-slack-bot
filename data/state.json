@@ -6,7 +6,8 @@
     "2026-07-21": 36,
     "2026-07-22": 14,
     "2026-07-23": 27,
-    "2026-07-24": 26
+    "2026-07-24": 26,
+    "2026-07-25": 1
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -241,6 +242,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/anie.4069826": {
+      "doi": "10.1002/anie.4069826",
+      "posted_at": "2026-07-24T15:06:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784905589.770749",
+      "summary_character_count": 130,
+      "summary_japanese": "SPSiOP配位子を用いるNi触媒ヒドロシリル化により、単置換アレンから高い位置・エナンチオ選択性でallylsilaneを得た。QuinoxP*による1,3-二置換アレンの初の速度論的分割では、S factor最大133で二級allylsilaneを与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Hydrosilylation of Diverse Allenes via Nickel Catalysis"
     },
     "10.1002/anie.4104555": {
       "doi": "10.1002/anie.4104555",
