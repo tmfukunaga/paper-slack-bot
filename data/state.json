@@ -6,7 +6,7 @@
     "2026-07-21": 36,
     "2026-07-22": 14,
     "2026-07-23": 27,
-    "2026-07-24": 15
+    "2026-07-24": 20
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -625,6 +625,19 @@
       "summary_used_fallback": false,
       "title": "Twist-Assisted Bioprinting for Micro-Helical Topological Reconstruction"
     },
+    "10.1002/smll.74522": {
+      "doi": "10.1002/smll.74522",
+      "posted_at": "2026-07-24T03:18:23+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784863103.369729",
+      "summary_character_count": 89,
+      "summary_japanese": "D-chiral GNPsはMtlA/PTSを介して細菌の基礎代謝と表層近傍運動をL体より強く抑制し、マウス感染創で菌量を低下させ、創傷閉鎖を促進して炎症性微小環境を再分極した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Surface Chirality Enables MtlA-Dependent Antibacterial Activity and Immune Remodeling by Gold Nanoparticles"
+    },
     "10.1002/smll.74616": {
       "doi": "10.1002/smll.74616",
       "posted_at": "2026-07-17T17:27:29+00:00",
@@ -663,6 +676,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aliphatic Ligand-Mediated Cu-Cu Distance Tuning Enables Near-Unity Efficient and Color-Tunable Circularly Polarized Luminescent Copper(I) Iodide Clusters"
+    },
+    "10.1007/s10493-026-01164-5": {
+      "doi": "10.1007/s10493-026-01164-5",
+      "posted_at": "2026-07-24T03:18:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784863107.294279",
+      "summary_character_count": 113,
+      "summary_japanese": "ブラジル北東部のRhipicephalus microplus 5集団で、PBOとivermectin、eprinomectin、moxidectinの併用を評価し、有意な相乗作用により各薬剤で3～4集団のLC50が低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergistic action of piperonyl butoxide with macrocyclic lactones in Rhipicephalus microplus"
     },
     "10.1016/j.afres.2026.102418": {
       "doi": "10.1016/j.afres.2026.102418",
@@ -902,6 +928,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Anion-Exchange-Controlled Chiroptical Properties in Viologen-Linked Glutamide Nanofibrillar Assembly for Electroresponsive Chiroptical Switches"
+    },
+    "10.1021/acs.jpclett.6c01552": {
+      "doi": "10.1021/acs.jpclett.6c01552",
+      "posted_at": "2026-07-24T03:18:17+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784863097.449749",
+      "summary_character_count": 105,
+      "summary_japanese": "キラル静電ポテンシャル中の電子透過を3次元連続体モデルで解析し、軸方向運動量と軌道角運動量の結合による軌道選択性を示した。選択性はキラリティ反転で逆転し、DNA尺度で乱れに頑健かつキラル領域長とともに増大した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Induced Orbital Selectivity through Linear-Orbital Coupling"
     },
     "10.1021/acs.jpclett.6c01719": {
       "doi": "10.1021/acs.jpclett.6c01719",
@@ -1773,6 +1812,19 @@
       "summary_used_fallback": false,
       "title": "Magnetar field dynamics driven by chiral anomalies without magnetic helicity"
     },
+    "10.1115/1.4072363": {
+      "doi": "10.1115/1.4072363",
+      "posted_at": "2026-07-24T03:18:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784863113.050649",
+      "summary_character_count": 116,
+      "summary_japanese": "非反応・等温スワール燃焼器をURANSで解析し、center-body形状によるPVC変化を比較した。cylindrical CBはdouble-bullet CBの強い約122 HzのPVCを約25 Hzへ移し、大幅に減衰させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controlling Helical Instability By Modifying The Shape Of Swirler Centerbody In An Isothermal Turbulent Swirl Combustor Flow"
+    },
     "10.1126/sciadv.aec8167": {
       "doi": "10.1126/sciadv.aec8167",
       "posted_at": "2026-07-17T17:07:19+00:00",
@@ -1837,6 +1889,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Third-nearest-neighbor-hopping-driven competition between chiral p+ ip and triplet f-wave pairing in a doped honeycomb-lattice Hubbard model"
+    },
+    "10.1142/s0217732326502202": {
+      "doi": "10.1142/s0217732326502202",
+      "posted_at": "2026-07-24T03:18:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784863119.594519",
+      "summary_character_count": 124,
+      "summary_japanese": "物理的UVカットオフをもつde Sitter時空上のNambu-Jona-Lasinio模型を指数型proper-time正則化で解析し、強曲率域の構成フェルミオン質量をLambert W関数で厳密に導出した。実数解の条件から宇宙定数の上限を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral symmetry and curvature bounds in de Sitter spacetime"
     },
     "10.1177/14644207251409285": {
       "doi": "10.1177/14644207251409285",
