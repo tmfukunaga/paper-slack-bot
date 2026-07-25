@@ -8,7 +8,7 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 6
+    "2026-07-26": 11
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -419,6 +419,19 @@
       "summary_used_fallback": false,
       "title": "Simultaneous Construction of Sulfur and Carbon Stereocenters via Asymmetric Desymmetrization of Sulfonimidamides With Oxindole Derivatives"
     },
+    "10.1002/anie.8648830": {
+      "doi": "10.1002/anie.8648830",
+      "posted_at": "2026-07-25T21:13:47+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785014027.097059",
+      "summary_character_count": 135,
+      "summary_japanese": "sulfone additionで合成したdibenzocorannuleneをCPP骨格へ融合し、正曲率nanohoop DBCora[10]CPPを構築した。fullereneに最大10^8 M−1で結合し、C60との複合体は1.5 ns寿命の電荷分離状態を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Corannulene-Driven Curvature Engineering Enhances Fullerene Encapsulation in a Carbon Nanohoop"
+    },
     "10.1002/anie.8909722": {
       "doi": "10.1002/anie.8909722",
       "posted_at": "2026-07-17T17:06:57+00:00",
@@ -731,6 +744,19 @@
       "summary_used_fallback": false,
       "title": "Aliphatic Ligand-Mediated Cu-Cu Distance Tuning Enables Near-Unity Efficient and Color-Tunable Circularly Polarized Luminescent Copper(I) Iodide Clusters"
     },
+    "10.1002/smll.74704": {
+      "doi": "10.1002/smll.74704",
+      "posted_at": "2026-07-25T21:13:40+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785014020.530579",
+      "summary_character_count": 127,
+      "summary_japanese": "キラル配位子でPb2+に配位させ、格子キラリティーと表面欠陥不動態化を同時に導入したCsPbBr3ナノワイヤーを合成し、PLQYを高めつつ|g_lum|max=3.0×10−2のCPLを実現した。ハロゲンイオン交換により可視域全体で発光を連続調整できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-Ligand-Directed Synthesis of Circularly Polarized Luminescent Perovskite Nanowires"
+    },
     "10.1007/s10493-026-01164-5": {
       "doi": "10.1007/s10493-026-01164-5",
       "posted_at": "2026-07-24T03:18:27+00:00",
@@ -1009,6 +1035,19 @@
       "summary_used_fallback": false,
       "title": "Anion-Exchange-Controlled Chiroptical Properties in Viologen-Linked Glutamide Nanofibrillar Assembly for Electroresponsive Chiroptical Switches"
     },
+    "10.1021/acs.jpcb.6c03469": {
+      "doi": "10.1021/acs.jpcb.6c03469",
+      "posted_at": "2026-07-25T21:13:36+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785014016.445669",
+      "summary_character_count": 116,
+      "summary_japanese": "agar hydrogelの超分子組織を水熱炭化で継承したキラル蛍光carbon dotsを作製し、CD応答は12 hで最大、24 hでほぼ消失した。Agar-CDsはBSAと相互作用し、タンパク質蛍光を変調してCD応答を増幅した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structural Chirality Transfer from Agar Hydrogel to Chiral Luminescent Carbon Dots via Hydrothermal Carbonization"
+    },
     "10.1021/acs.jpclett.6c01552": {
       "doi": "10.1021/acs.jpclett.6c01552",
       "posted_at": "2026-07-24T03:18:17+00:00",
@@ -1099,6 +1138,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Vibrationally Mediated Dzyaloshinskii-Moriya Interaction as the Origin of Chirality-Induced Spin Selectivity in Donor-Acceptor Molecules"
+    },
+    "10.1021/acs.nanolett.6c02105": {
+      "doi": "10.1021/acs.nanolett.6c02105",
+      "posted_at": "2026-07-25T21:13:43+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785014023.792119",
+      "summary_character_count": 98,
+      "summary_japanese": "キラルセルロースナノ結晶などから外部キラル鋳型なしに高g_lum・凝集誘起発光CDsを合成し、分散時青色、凝集時赤色発光を示した。PVA膜では緑色CPLAを示し、階層的光捕集系で多色CPLを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-Template-Free Color-Tunable Circularly Polarized Long Afterglow from Carbon Dots with Aggregation-Induced Emission and High Dissymmetry Factor"
     },
     "10.1021/acs.nanolett.6c02245": {
       "doi": "10.1021/acs.nanolett.6c02245",
@@ -2008,6 +2060,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Biomimetic all-metal Pd 11 helicene"
+    },
+    "10.1126/sciadv.aeh2073": {
+      "doi": "10.1126/sciadv.aeh2073",
+      "posted_at": "2026-07-25T21:13:32+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785014012.759829",
+      "summary_character_count": 132,
+      "summary_japanese": "後期段階の有機触媒的不斉N-Hアルキル化でねじれ歪みによりキラル配座を固定し、プロキラル前駆体からエナンチオ濃縮tricyclic diazepinonesを合成した。ラセミ体の速度論的分割と、(+)-telenzepineの初の不斉合成・絶対配置決定も達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic asymmetric synthesis of inherently chiral tricyclic diazepinones: Access to (+)-telenzepine"
     },
     "10.1126/science.aeh1429": {
       "doi": "10.1126/science.aeh1429",
