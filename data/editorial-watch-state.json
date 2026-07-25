@@ -46,6 +46,15 @@
       ],
       "title": "Gastropod shells record larval migration from deep-sea hydrothermal vents to the euphotic zone"
     },
+    "10.1126/science.aec7913": {
+      "doi": "10.1126/science.aec7913",
+      "posted_at": "2026-07-25T21:03:06+00:00",
+      "slack_ts": "1785013386.614909",
+      "sources": [
+        "Chemistry World"
+      ],
+      "title": "Spatially resolving the cone of reaction for a single molecule"
+    },
     "10.1126/science.aef0766": {
       "doi": "10.1126/science.aef0766",
       "posted_at": "2026-07-22T20:59:50+00:00",
@@ -97,6 +106,11 @@
       "source": "Chemistry World掲載",
       "title": "Gastropod shells record larval migration from deep-sea hydrothermal vents to the euphotic zone"
     },
+    "https://www.chemistryworld.com/news/chemists-reveal-just-how-much-angle-and-proximity-matters-for-molecules-to-react-when-they-collide/4023909.article": {
+      "processed_at": "2026-07-25T21:03:06+00:00",
+      "source": "Chemistry World掲載",
+      "title": "Spatially resolving the cone of reaction for a single molecule"
+    },
     "https://www.chemistryworld.com/news/photoredox-catalyst-introduces-two-nucleophiles-across-a-carbon-carbon-bond-at-once/4023893.article": {
       "processed_at": "2026-07-22T20:59:50+00:00",
       "source": "Chemistry World掲載",
@@ -110,31 +124,22 @@
   },
   "retry_articles": {
     "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 4,
+      "attempts": 5,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
       "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen')",
-      "last_failed_at": "2026-07-24T21:02:13+00:00",
+      "last_failed_at": "2026-07-25T21:02:54+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
     },
     "https://cen.acs.org/synthesis/direct-sugar-chemistry-streamlines-drug-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 2,
+      "attempts": 3,
       "first_failed_at": "2026-07-23T20:59:48+00:00",
-      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-07-24T21:02:13+00:00",
+      "last_error": "abstract unavailable for DOI=10.47287/cen.539452.newsarticle",
+      "last_failed_at": "2026-07-25T21:02:54+00:00",
       "published_at": "2026-07-23T13:33:41+00:00",
       "source": "C&EN",
       "title": "Direct sugar chemistry streamlines C-aryl glycoside synthesis"
-    },
-    "https://www.chemistryworld.com/news/chemists-reveal-just-how-much-angle-and-proximity-matters-for-molecules-to-react-when-they-collide/4023909.article": {
-      "attempts": 1,
-      "first_failed_at": "2026-07-24T21:02:13+00:00",
-      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-07-24T21:02:13+00:00",
-      "published_at": "2026-07-24T09:52:00+00:00",
-      "source": "Chemistry World",
-      "title": "Chemists reveal just how much angle - and proximity - matters for molecules to react when they collide"
     }
   }
 }
