@@ -7,7 +7,8 @@
     "2026-07-22": 14,
     "2026-07-23": 27,
     "2026-07-24": 26,
-    "2026-07-25": 1
+    "2026-07-25": 1,
+    "2026-07-26": 1
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -2396,6 +2397,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Concentration and Temperature Dependence of the Helical Pitch in Cholesteric Xanthan Gum Solutions"
+    },
+    "10.26434/chemrxiv.15006371/v1": {
+      "doi": "10.26434/chemrxiv.15006371/v1",
+      "posted_at": "2026-07-25T15:05:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1784991954.615659",
+      "summary_character_count": 126,
+      "summary_japanese": "三重らせん閉環水素結合網を移動行列と連続体弾性論で解析し、Lk=±3によりプロトン配置空間が分断されるTPGを定式化した。ΩC=4(M−2)を導き、温度・観測時間依存の動的トポロジー制約とQuantum Topological Water像を提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Analytical Theory of Topological Proton Glass: Dynamic Topological Constraints and the Quantum Topological Water Picture"
     },
     "10.26434/chemrxiv.15006401/v1": {
       "doi": "10.26434/chemrxiv.15006401/v1",
