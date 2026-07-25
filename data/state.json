@@ -8,7 +8,7 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 1
+    "2026-07-26": 6
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -204,6 +204,19 @@
       "posted_at": "2026-07-18T07:02:10+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1002/anie.2073269": {
+      "doi": "10.1002/anie.2073269",
+      "posted_at": "2026-07-25T18:11:08+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785003068.783669",
+      "summary_character_count": 131,
+      "summary_japanese": "prochiral monomersから、逐次Co触媒C-H activation/annulationを用いる不斉重合により軸不斉側鎖ポリマーを定量的に合成し、高分子量・多様な構造と調整可能なキロプティカル特性、優れたatroposelectivityを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Construction of Axially Chiral Polymers by Asymmetric C-H Activation Polymerization"
     },
     "10.1002/anie.2204400": {
       "doi": "10.1002/anie.2204400",
@@ -509,6 +522,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly Polarized Luminescence Reversion and Amplification Promoted by Hydrogen Bonding and Arene-Perfluoroarene Interactions"
+    },
+    "10.1002/chem.71460": {
+      "doi": "10.1002/chem.71460",
+      "posted_at": "2026-07-25T18:11:01+00:00",
+      "score": 43,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785003061.579909",
+      "summary_character_count": 107,
+      "summary_japanese": "PDC核とキラルリンカーからなる蛍光性macrocycle CFMを設計・合成し、自己集合でキラルねじれリボンを形成した。TCNBとの電荷移動錯体化により高比率で球状体へ転移し、650 nmで橙赤色CPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charge-Transfer-Induced Morphological Transformation of a Butterfly-Shaped Pyrene-Flanked Chiral Macrocycle"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -893,6 +919,19 @@
       "summary_used_fallback": false,
       "title": "Efficient Macrocyclic Trap for Capture of Pyridine"
     },
+    "10.1021/acs.chemrev.6c00011": {
+      "doi": "10.1021/acs.chemrev.6c00011",
+      "posted_at": "2026-07-25T18:11:05+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785003065.028309",
+      "summary_character_count": 90,
+      "summary_japanese": "キラルπ-amphiphilesの分子設計、分類、階層的自己集合ナノ構造と機能を総説し、円偏光発光、キラル認識・分離、キラル生体医療、スピンエレクトロニクスへの応用と展望を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical Self-Assembly, Nanoarchitectonics, and Emerging Functionalities of Chiral pi-Amphiphiles"
+    },
     "10.1021/acs.iecr.6c00723": {
       "doi": "10.1021/acs.iecr.6c00723",
       "posted_at": "2026-07-20T18:14:58+00:00",
@@ -1112,6 +1151,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Carbene-Catalyzed Desymmetric Amidation Enables Modular Access to Planar Chiral Thioureas and Imides"
+    },
+    "10.1021/acs.orglett.6c02479": {
+      "doi": "10.1021/acs.orglett.6c02479",
+      "posted_at": "2026-07-25T18:11:12+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785003072.122519",
+      "summary_character_count": 116,
+      "summary_japanese": "アミノ酸由来キラルカルボン酸アミドをステアリング配位子とするCo(II)触媒的不斉C–H環化により、arylphosphinamidesとalkynesからP-立体中心および軸不斉を有する生成物を最大99%収率、98% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Amide-Enabled Cobalt-Catalyzed Enantioselective C-H Annulation for the Synthesis of P -Stereogenic Arylphosphinamides"
     },
     "10.1021/acs.orglett.6c02536": {
       "doi": "10.1021/acs.orglett.6c02536",
@@ -1514,6 +1566,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of Chiral Triarylmethanes via Catalytic Asymmetric Skeletal Editing"
+    },
+    "10.1021/jacs.6c10931": {
+      "doi": "10.1021/jacs.6c10931",
+      "posted_at": "2026-07-25T18:10:57+00:00",
+      "score": 46,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785003057.574399",
+      "summary_character_count": 122,
+      "summary_japanese": "溶液中で動的ラセミ化するpillar[5]arene系マクロ環は、結晶化でコンゴロメラートとして自発分割し、X線回折、固体ECD・VCD、DFT計算で絶対配置を決定した。半面像の結晶面により手選別も可能で、キラルゲストは片方の結晶化を偏らせた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Resolving Conformational Chirality in a Stereolabile Macrocycle"
     },
     "10.1021/jacs.6c11182": {
       "doi": "10.1021/jacs.6c11182",
