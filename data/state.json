@@ -8,7 +8,8 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 36
+    "2026-07-26": 36,
+    "2026-07-27": 5
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -887,6 +888,19 @@
       "summary_used_fallback": false,
       "title": "Virtual Prototyping and Experimental Assessment of Gating-System Optimization for Rapid Investment Casting of Miniaturized Cu-Al-Mn Shape Memory Alloy Helical Springs"
     },
+    "10.1007/s44245-026-00199-7": {
+      "doi": "10.1007/s44245-026-00199-7",
+      "posted_at": "2026-07-26T15:02:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785078169.315689",
+      "summary_character_count": 118,
+      "summary_japanese": "ヘリカルケーブル集合体の曲げ剛性を、軸荷重下の素線伸びとCoulomb摩擦・Hertz接触力を含む改訂すべり理論で解析・数値予測し、4層ACSR Bersimis Conductorの軸・横荷重試験により従来法より高い推定精度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A novel approach for estimation of bending stiffness of helical strand assemblies and experimental validation"
+    },
     "10.1016/j.afres.2026.102418": {
       "doi": "10.1016/j.afres.2026.102418",
       "posted_at": "2026-07-21T21:03:37+00:00",
@@ -899,6 +913,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Quantification of natural raspberry flavor in foods using chiral GC-MS"
+    },
+    "10.1016/j.bbamem.2026.184561": {
+      "doi": "10.1016/j.bbamem.2026.184561",
+      "posted_at": "2026-07-26T15:03:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785078179.978409",
+      "summary_character_count": 100,
+      "summary_japanese": "R-/S-DPPCとrac-DPPC二重膜の相挙動をDSC・高圧透過率で解析し、rac-DPPCはラメラ結晶相を形成せず転移協同性も低下した。R-DPPCは全相でS-DPPCより熱力学的に安定だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermodynamic characterization of chirality effects in dipalmitoylphosphatidylcholine bilayers"
     },
     "10.1016/j.csite.2026.108363": {
       "doi": "10.1016/j.csite.2026.108363",
@@ -925,6 +952,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhanced 3D-GRID radiotherapy on helical tomotherapy via personalized geometric optimization: A comparative study with IMRT and VMAT"
+    },
+    "10.1016/j.envpol.2026.128817": {
+      "doi": "10.1016/j.envpol.2026.128817",
+      "posted_at": "2026-07-26T15:02:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785078176.243179",
+      "summary_character_count": 104,
+      "summary_japanese": "Profoxydimの4立体異性体をChiralcel OJ-Hによる順相HPLCで完全分離し、生物活性を評価した。異性体1・3は除草活性が高く、魚類細胞毒性とMicrotox毒性には立体選択性が認められた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral resolution of profoxydim: Implications for herbicidal efficacy and ecotoxicological assessment"
     },
     "10.1016/j.heliyon.2026.e45236": {
       "doi": "10.1016/j.heliyon.2026.e45236",
@@ -2126,6 +2166,19 @@
       "summary_used_fallback": false,
       "title": "Thermal performances of a heat pipe with a flexible helical adiabatic section"
     },
+    "10.1080/10589759.2026.2706680": {
+      "doi": "10.1080/10589759.2026.2706680",
+      "posted_at": "2026-07-26T15:02:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785078172.743919",
+      "summary_character_count": 103,
+      "summary_japanese": "アルミニウム管でStaggered PPMおよびHalbach EMATを比較し、磁石第2列を半波長ずらして最大14°、26°のヘリカルガイド波ビーム操舵を実証し、AVS、SMLR、BDSで性能を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Generation of the ultrasonic helical guided waves in a pipe structure using Staggered EMAT"
+    },
     "10.1080/14686996.2026.2705816": {
       "doi": "10.1080/14686996.2026.2705816",
       "posted_at": "2026-07-21T12:08:43+00:00",
@@ -2190,6 +2243,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-induced spin selectivity in olfaction"
+    },
+    "10.1088/1674-1137/ae8f24": {
+      "doi": "10.1088/1674-1137/ae8f24",
+      "posted_at": "2026-07-26T15:02:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785078165.346549",
+      "summary_character_count": 110,
+      "summary_japanese": "RHICのAu+Au衝突で新規event shape selectionによりflow背景を抑え電荷分離を測定し、20–50%中心度の11.5、14.6、19.6 GeVで正の残余信号を各2.8σ、3σ、3.2σで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charge Separation Measurements in Au+Au collisions at √sNN=7.7-200 GeV in Search of the Chiral Magnetic Effect"
     },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
