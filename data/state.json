@@ -8,7 +8,7 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 11
+    "2026-07-26": 16
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -75,6 +75,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of Intramolecular CH-pi Interactions Through Push-Pull Electronic Effect for Enhanced Circularly Polarized Luminescence"
+    },
+    "10.1002/adom.71499": {
+      "doi": "10.1002/adom.71499",
+      "posted_at": "2026-07-26T00:13:00+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785024780.018619",
+      "summary_character_count": 125,
+      "summary_japanese": "BINAMとm-carboraneを二重B–Nクロスカップリング、N–Hアリール化、Au(I)錯体化で段階修飾し、骨格剛直化により|g_lum|を1.5×10−3から1.1×10−2へ増大させた。Au(I)錯体はマトリクス中で最長4秒の残光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stepwise Modification of Carborane-Fused Heterocycles for Enhanced Circularly Polarized Luminescence"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -679,6 +692,19 @@
       "summary_used_fallback": false,
       "title": "Robust Chiral High- Q Response Driven by Quasi-Bound Flatband in the Continuum"
     },
+    "10.1002/pen.70670": {
+      "doi": "10.1002/pen.70670",
+      "posted_at": "2026-07-26T00:13:10+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785024790.714529",
+      "summary_character_count": 113,
+      "summary_japanese": "CNCsをPEG、glucose、glycerolで修飾し、温度制御EISAで虹彩膜を作製した。55°Cで蒸発したCNCs/PEG/glucose膜は凝集を抑えキラルネマチック秩序を維持し、熱安定性、引張強度、靱性が向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Temperature Regulating Evaporation-Induced Self-Assembly of Chiral Nematic Cellulose Nanocrystals for Rational Design of Iridescent Films"
+    },
     "10.1002/pen.70741": {
       "doi": "10.1002/pen.70741",
       "posted_at": "2026-07-21T03:16:05+00:00",
@@ -756,6 +782,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral-Ligand-Directed Synthesis of Circularly Polarized Luminescent Perovskite Nanowires"
+    },
+    "10.1002/smll.74778": {
+      "doi": "10.1002/smll.74778",
+      "posted_at": "2026-07-26T00:13:06+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785024786.071319",
+      "summary_character_count": 117,
+      "summary_japanese": "enantiopure Cu-Cysteineの熱変換で格子キラルCuOナノ粒子を合成し、CO2RRでHERを抑制してC2+/C1比を最大68.5%向上させた。分光・DFT解析は、CO2活性化と*CO、*OCCO中間体の変調を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Lattice Chirality in Copper Oxide Nanoparticles Biases C-C Coupling Selectivity in CO 2 Electroreduction"
     },
     "10.1007/s10493-026-01164-5": {
       "doi": "10.1007/s10493-026-01164-5",
@@ -1222,6 +1261,19 @@
       "posted_at": "2026-07-18T07:02:48+00:00",
       "recovered_from_run": 29635004972,
       "score": 27
+    },
+    "10.1021/acsami.6c10251": {
+      "doi": "10.1021/acsami.6c10251",
+      "posted_at": "2026-07-26T00:12:55+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785024775.557499",
+      "summary_character_count": 120,
+      "summary_japanese": "α-methylbenzylamineとformamidinium塩の無溶媒熱縮合で、キラルamidinium発色団を共有結合的に含む有機溶媒可溶CNCsを作製した。トルエン中のキラルアミン識別とCsPbBr3膜の発光・安定性向上を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Organo-Soluble Carbon Nanocolloids with Dual-Mode Optical Responsiveness: From Nonpolar Enantioselective Sensing to Lead-Halide Perovskite Passivation"
     },
     "10.1021/acsami.6c10610": {
       "doi": "10.1021/acsami.6c10610",
@@ -1852,6 +1904,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Relaxor-like ferroelectric response and achiral-chiral switching in an amorphous molecular solid"
+    },
+    "10.1038/s41467-026-76036-y": {
+      "doi": "10.1038/s41467-026-76036-y",
+      "posted_at": "2026-07-26T00:12:51+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785024771.392499",
+      "summary_character_count": 91,
+      "summary_japanese": "直接フッ素化、加水分解、不斉フッ素化を連続する一工程の動的速度論的不斉フッ素化により、穏和な条件下で多様な高エナンチオ選択的sulfonimidoyl fluoridesを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Counteranion-mediated dynamic kinetic asymmetric fluorination to access sulfur-stereogenic center"
     },
     "10.1038/s42004-026-02132-1": {
       "doi": "10.1038/s42004-026-02132-1",
