@@ -8,7 +8,7 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 26
+    "2026-07-26": 31
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -861,6 +861,19 @@
       "summary_used_fallback": false,
       "title": "Synergistic action of piperonyl butoxide with macrocyclic lactones in Rhipicephalus microplus"
     },
+    "10.1007/s40962-026-02075-2": {
+      "doi": "10.1007/s40962-026-02075-2",
+      "posted_at": "2026-07-26T09:02:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785056546.306179",
+      "summary_character_count": 123,
+      "summary_japanese": "小型Cu-7.90Al-5.40Mn形状記憶合金ばねの迅速精密鋳造で、湯道端形状等を16条件で数値解析・実鋳造評価した。最適湯道端は流動を安定化し、350 rpm/1053 °Cで最良の充填・外観健全性を示し、110 °C超の加熱で形状回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Virtual Prototyping and Experimental Assessment of Gating-System Optimization for Rapid Investment Casting of Miniaturized Cu-Al-Mn Shape Memory Alloy Helical Springs"
+    },
     "10.1016/j.afres.2026.102418": {
       "doi": "10.1016/j.afres.2026.102418",
       "posted_at": "2026-07-21T21:03:37+00:00",
@@ -899,6 +912,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhanced 3D-GRID radiotherapy on helical tomotherapy via personalized geometric optimization: A comparative study with IMRT and VMAT"
+    },
+    "10.1016/j.heliyon.2026.e45236": {
+      "doi": "10.1016/j.heliyon.2026.e45236",
+      "posted_at": "2026-07-26T09:02:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785056538.483669",
+      "summary_character_count": 111,
+      "summary_japanese": "粘土・砂中の単杭および2×2群杭ヘリカルパイルの載荷沈下を、CPTで較正したHS・SS・MCの3次元有限要素モデルで解析した。粘土地盤では施工乱れを反映して剛性を25～50%低減すると実測と整合し、砂では調整不要であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Three-dimensional finite element analysis of static compression tests on steel helical piles in clay and sand"
     },
     "10.1016/j.jciso.2026.100196": {
       "doi": "10.1016/j.jciso.2026.100196",
@@ -2684,6 +2710,19 @@
       "summary_used_fallback": false,
       "title": "Modulation of Open-Shell Character in Dibenzoazaborine Dications through Amino-Substituent Modification"
     },
+    "10.26434/chemrxiv.15006311/v2": {
+      "doi": "10.26434/chemrxiv.15006311/v2",
+      "posted_at": "2026-07-26T09:02:14+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785056534.638679",
+      "summary_character_count": 98,
+      "summary_japanese": "Bu2NDBABの酸化で空気安定な[Bu2NDBAB](SbF6)2を83%収率で得た。Bu2N置換は周辺部へのスピン非局在化を抑え、ジラジカル性y=0.122の主に閉殻な一重項基底状態を与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulation of Open-Shell Character in Dibenzoazaborine Dications through Amino-Substituent Modification"
+    },
     "10.26434/chemrxiv.15006342/v1": {
       "doi": "10.26434/chemrxiv.15006342/v1",
       "posted_at": "2026-07-23T03:04:32+00:00",
@@ -2749,6 +2788,19 @@
       "summary_used_fallback": false,
       "title": "Topology-Driven Molecular Recognition through Constitutional Isomerism"
     },
+    "10.26434/chemrxiv.15006486/v1": {
+      "doi": "10.26434/chemrxiv.15006486/v1",
+      "posted_at": "2026-07-26T09:02:10+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785056530.597609",
+      "summary_character_count": 106,
+      "summary_japanese": "Weaire-Phelanトポロジーに基づくSi-B-C-N骨格を設計し、DFTで低エネルギーのキラル多形を同定した。残る動的不安定性はB/N配列とケージのキラリティーに強く結合した単一の協同モードに限定された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structurally Stable Saturated Heteropolyhedrane BCC Crystals Si24B8N8C6"
+    },
     "10.26434/chemrxiv.15006523/v1": {
       "doi": "10.26434/chemrxiv.15006523/v1",
       "posted_at": "2026-07-26T06:05:42+00:00",
@@ -2800,6 +2852,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Semiempirical Estimation Formula of Uplift Capacity of Two-Plate Helical Anchors in Sand"
+    },
+    "10.3390/computation14080166": {
+      "doi": "10.3390/computation14080166",
+      "posted_at": "2026-07-26T09:02:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785056542.343929",
+      "summary_character_count": 91,
+      "summary_japanese": "TEHL・摩耗と動力学を双方向結合したダブルヘリカル歯車モデルで多源励振を解析し、偏心誤差は変位、摩耗は速度への影響が大きく、FZG試験の加速度測定と誤差20%未満で傾向が一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonlinear Dynamics of Double-Helical Gear Transmission Under Multi-Source Excitations with TEHL and Wear Coupling"
     },
     "10.3390/cryst16070465": {
       "doi": "10.3390/cryst16070465",
