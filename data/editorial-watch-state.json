@@ -124,19 +124,19 @@
   },
   "retry_articles": {
     "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 5,
+      "attempts": 6,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
       "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen')",
-      "last_failed_at": "2026-07-25T21:02:54+00:00",
+      "last_failed_at": "2026-07-26T20:58:42+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
     },
     "https://cen.acs.org/synthesis/direct-sugar-chemistry-streamlines-drug-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 3,
+      "attempts": 4,
       "first_failed_at": "2026-07-23T20:59:48+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.539452.newsarticle",
-      "last_failed_at": "2026-07-25T21:02:54+00:00",
+      "last_failed_at": "2026-07-26T20:58:42+00:00",
       "published_at": "2026-07-23T13:33:41+00:00",
       "source": "C&EN",
       "title": "Direct sugar chemistry streamlines C-aryl glycoside synthesis"
