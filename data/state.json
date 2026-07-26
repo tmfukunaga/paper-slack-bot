@@ -8,7 +8,7 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 16
+    "2026-07-26": 21
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -256,6 +256,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Planar Chiral Carbazole-Naphthalene Bisimide Hetero-Cyclophane for Circularly Polarized Delayed Fluorescence"
+    },
+    "10.1002/anie.2653602": {
+      "doi": "10.1002/anie.2653602",
+      "posted_at": "2026-07-26T03:03:08+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785034987.985809",
+      "summary_character_count": 114,
+      "summary_japanese": "thiourea活性部位をもつ一過性[2]rotaxane mechanocatalystを設計し、力で活性化後に自発的に不活性化する可逆機構を実証した。溶液中で5回再利用でき、圧縮下の固相でlactideの開環重合を触媒した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Transiently Activated Rotaxane Mechanocatalyst"
     },
     "10.1002/anie.3935543": {
       "doi": "10.1002/anie.3935543",
@@ -1645,6 +1658,19 @@
       "summary_used_fallback": false,
       "title": "Deactivating Emission in Azulene via Solvent-Induced (Anti)Aromaticity"
     },
+    "10.1021/jacs.6c09765": {
+      "doi": "10.1021/jacs.6c09765",
+      "posted_at": "2026-07-26T03:02:50+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785034970.652129",
+      "summary_character_count": 113,
+      "summary_japanese": "aryl・heterobiaryl含有環状ペプチドを、等方・異方性NMR、拡張サンプリング計算、DFTで解析した。RDCにより溶液中の動的アンサンブルを捉え、各環系の実験データには最大3種の相互変換する主鎖配座が必要と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamics of (Hetero)aryl Motifs: An Integrative Approach To Study the Conformational Landscape in Macrocycles"
+    },
     "10.1021/jacs.6c09990": {
       "doi": "10.1021/jacs.6c09990",
       "posted_at": "2026-07-17T17:06:52+00:00",
@@ -2113,6 +2139,19 @@
       "summary_used_fallback": false,
       "title": "Interfacial solvothermal synthesis of superhydrophilic ionic salt-derived chiral helical COFs with strong chiroptical activity"
     },
+    "10.1126/sciadv.aef0912": {
+      "doi": "10.1126/sciadv.aef0912",
+      "posted_at": "2026-07-26T03:02:54+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785034974.439939",
+      "summary_character_count": 119,
+      "summary_japanese": "天然afterfeathersとazobenzene官能基の光重合アクチュエータを統合したキラル飛翔体を開発し、光誘起ねじれと空気抵抗変調により、定常気流下で回転・高度を可逆制御した。複数機の独立制御と渦誘起凝集による空中回収も実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Biohybrid chiral materials for an ultralight reconfigurable flying robot"
+    },
     "10.1126/sciadv.aef7488": {
       "doi": "10.1126/sciadv.aef7488",
       "posted_at": "2026-07-20T09:43:28+00:00",
@@ -2216,6 +2255,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Retrospective comparison between helical blade and screw in geriatric hip fracture fixation with cephalomedullary devices"
+    },
+    "10.1209/0295-5075/ae9008": {
+      "doi": "10.1209/0295-5075/ae9008",
+      "posted_at": "2026-07-26T03:03:04+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785034984.383779",
+      "summary_character_count": 123,
+      "summary_japanese": "自律整列トルクと安定なキラルドリフトを備えたbristlebotを設計し、軌跡のLangevin型モデル化により単粒子動力学を解析した。円形境界電流の安定性とnautilus障害物による幾何学的整流、剛体連結体の並進・回転モード自発切替を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Geometry-induced transport of self-aligning chiral bristlebots"
     },
     "10.12775/jehs.2026.94.72782": {
       "doi": "10.12775/jehs.2026.94.72782",
@@ -2329,6 +2381,19 @@
       "slack_ts": "1784852490.020269",
       "summary_character_count": 377,
       "summary_japanese": "Encapsulation of albendazole and fenbendazole by native α-, β-, and γ-cyclodextrin was analyzed, showing that guest protonation enhances association. In β-cyclodextrin, albendazole inserts more deeply and engages a broader hydrogen-bond network at the rim, producing a larger enthalpic gain, while hydrophobic anchoring is required for stable protonation-dependent recognition.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Guest Protonation Gates Hydrogen-Bond-Driven Selectivity in Native Cyclodextrin Molecular Recognition"
+    },
+    "10.26434/chemrxiv.15001315/v3": {
+      "doi": "10.26434/chemrxiv.15001315/v3",
+      "posted_at": "2026-07-26T03:03:00+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785034980.742929",
+      "summary_character_count": 326,
+      "summary_japanese": "Encapsulation of albendazole and fenbendazole by native α-, β-, and γ-cyclodextrins was analyzed, showing that guest protonation enhances association. In β-cyclodextrin, protonated albendazole inserts more deeply and engages a broader hydrogen-bond network at the host rim, producing a larger enthalpic gain than fenbendazole.",
       "summary_language": "en",
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
