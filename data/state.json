@@ -9,7 +9,7 @@
     "2026-07-24": 26,
     "2026-07-25": 1,
     "2026-07-26": 36,
-    "2026-07-27": 10
+    "2026-07-27": 15
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -37,6 +37,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Polarization Sensitivity of Chiral Manganese Halide Scintillators Enables High-Resolution X-Ray Imaging"
+    },
+    "10.1002/adfm.77316": {
+      "doi": "10.1002/adfm.77316",
+      "posted_at": "2026-07-26T21:15:01+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785100501.093649",
+      "summary_character_count": 123,
+      "summary_japanese": "pillar[5]arene包接でNIR-II AIE luminogenの凝集を制御し、励起状態の散逸経路を調整したPTNI NPsを開発した。4T1乳腫瘍で強いNIR-II蛍光、長期滞留、光力学・光熱併用療法による顕著な腫瘍増殖抑制を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocyclic-Engineered Supramolecular AIE Photosensitizer for Boosted NIR-II Phototheranostics"
     },
     "10.1002/adma.74130": {
       "doi": "10.1002/adma.74130",
@@ -2036,6 +2049,19 @@
       "summary_used_fallback": false,
       "title": "Dielectric-tuned charge and exciton dynamics in perylene bisimide supramolecular aggregates"
     },
+    "10.1038/s41467-026-75612-6": {
+      "doi": "10.1038/s41467-026-75612-6",
+      "posted_at": "2026-07-26T21:15:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785100512.507989",
+      "summary_character_count": 123,
+      "summary_japanese": "Fe10Dy10の62 billion次元低エネルギー状態をab initio情報に基づく転送行列法で解析し、熱揺らぎに頑健な有限温度トロイダル感受率を示した。時間非対称近赤外パルス列で分極を蓄積し、電場誘起磁気信号として読み出す手法を提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Finite-temperature toroidal moment amenable to direct observation in an Fe10Dy10 molecular ring"
+    },
     "10.1038/s41467-026-75619-z": {
       "doi": "10.1038/s41467-026-75619-z",
       "posted_at": "2026-07-19T00:15:01+00:00",
@@ -2074,6 +2100,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Kinetically templated fibrillar self-assembly via two-dimensional nanocrystals enables 21% efficient organic solar cells"
+    },
+    "10.1038/s41467-026-75712-3": {
+      "doi": "10.1038/s41467-026-75712-3",
+      "posted_at": "2026-07-26T21:14:57+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785100497.158409",
+      "summary_character_count": 129,
+      "summary_japanese": "polymer-grafted gold nanoparticleの二成分系を、透析制御下で長距離静電引力と短距離水素結合により水中自己集合させ、収率最大95%、従来比3桁高濃度のcolloidal moleculesを得て、配列や開孔性階層構造を構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Highly scalable, dialysis-controlled synthesis of colloidal molecules via regulated self-assembly of polymer-grafted gold nanoparticles"
     },
     "10.1038/s41467-026-75758-3": {
       "doi": "10.1038/s41467-026-75758-3",
@@ -2126,6 +2165,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Relaxor-like ferroelectric response and achiral-chiral switching in an amorphous molecular solid"
+    },
+    "10.1038/s41467-026-75854-4": {
+      "doi": "10.1038/s41467-026-75854-4",
+      "posted_at": "2026-07-26T21:15:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785100508.926269",
+      "summary_character_count": 110,
+      "summary_japanese": "Ni触媒系で放射線生成ラジカルを制御し、光増感剤不要の選択的C-H arylationを実現した。収率は5%未満から最大82%へ向上し、キラル配位子によりC(sp3)-H arylationで最大90% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nickel catalysis enables chemoselectivity in radiation chemistry"
     },
     "10.1038/s41467-026-76036-y": {
       "doi": "10.1038/s41467-026-76036-y",
@@ -2243,6 +2295,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Generation of the ultrasonic helical guided waves in a pipe structure using Staggered EMAT"
+    },
+    "10.1080/10601325.2026.2703150": {
+      "doi": "10.1080/10601325.2026.2703150",
+      "posted_at": "2026-07-26T21:15:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785100504.930079",
+      "summary_character_count": 93,
+      "summary_japanese": "セルロース、アミロースなどの多糖類や片手らせん合成高分子を用いるキラル分離を概説し、膜分離、エナンチオ選択的結晶化、クロマトグラフィーについて材料合成、分離機構、ラセミ体分離を詳述する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Utilization and efficiency of the polymeric materials for chiral resolution: an overview"
     },
     "10.1080/14686996.2026.2705816": {
       "doi": "10.1080/14686996.2026.2705816",
