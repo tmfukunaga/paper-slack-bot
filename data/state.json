@@ -8,7 +8,7 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 21
+    "2026-07-26": 26
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -179,6 +179,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/ange.8648830": {
+      "doi": "10.1002/ange.8648830",
+      "posted_at": "2026-07-26T06:05:45+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785045945.804679",
+      "summary_character_count": 121,
+      "summary_japanese": "sulfone additionで合成したdibenzocorannuleneをCPP骨格へ融合し、正曲率nanohoop DBCora[10]CPPを構築した。C60を最大10^8 M−1で包接し、1.5 ns持続する電荷分離状態を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Corannulene-Driven Curvature Engineering Enhances Fullerene Encapsulation in a Carbon Nanohoop"
     },
     "10.1002/ange.8987942": {
       "doi": "10.1002/ange.8987942",
@@ -399,6 +412,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Cage-Based Heterojunction: Chloroplast Mimicked Artificial Photosynthesis for Efficient Ethanol Production"
+    },
+    "10.1002/anie.6443941": {
+      "doi": "10.1002/anie.6443941",
+      "posted_at": "2026-07-26T06:05:49+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785045949.868449",
+      "summary_character_count": 128,
+      "summary_japanese": "R/S-2MPAZE2+を導入したR/S-2MPAZE-NH4I3·H2O単結晶を設計し、構造再配列によるBPVE増強とイオン移動抑制を実証した。自己駆動X線検出器は感度65 μC Gyair−1 cm−2、検出限界67.3 nGyair s−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergistic Effect of Chirality and Symmetry Reduction Enables Metal-Free Perovskite Single Crystal With Stable Self-Driven X-ray Detection"
     },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
@@ -652,6 +678,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Theoretical Analysis of Low Energy Electronic Transitions of Actinide Complexes Including Spin-Orbit Effects"
+    },
+    "10.1002/ejoc.70700": {
+      "doi": "10.1002/ejoc.70700",
+      "posted_at": "2026-07-26T06:05:31+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785045931.939829",
+      "summary_character_count": 98,
+      "summary_japanese": "キラルなindole-fused中・大員環の触媒的不斉合成について、最新の合成戦略、反応機構、触媒モデルおよび生成物の応用可能性を包括的に概説し、残る課題と今後の研究方向を展望するレビューである。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Enantioselective Synthesis of Chiral Indole-Fused Medium and Large Rings: A Burgeoning Field"
     },
     "10.1002/lpor.71570": {
       "doi": "10.1002/lpor.71570",
@@ -1644,6 +1683,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral 3d-4f Clusters with NIR-III Magneto-Optical Activity Driven by Lanthanide f-f Transition"
+    },
+    "10.1021/jacs.6c09487": {
+      "doi": "10.1021/jacs.6c09487",
+      "posted_at": "2026-07-26T06:05:35+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785045935.909739",
+      "summary_character_count": 101,
+      "summary_japanese": "二重壁超分子ナノチューブを2次元電子分光・低温TEM・偏光単一ナノチューブ顕微鏡で解析し、光照射が酸素媒介クロモフォア光酸化により外壁励起子応答のみを抑制し、内壁の秩序と非局在性を維持することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Light-Induced Selective Control of Excitonic States in Supramolecular Nanotubes"
     },
     "10.1021/jacs.6c09744": {
       "doi": "10.1021/jacs.6c09744",
@@ -2696,6 +2748,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Topology-Driven Molecular Recognition through Constitutional Isomerism"
+    },
+    "10.26434/chemrxiv.15006523/v1": {
+      "doi": "10.26434/chemrxiv.15006523/v1",
+      "posted_at": "2026-07-26T06:05:42+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785045942.280529",
+      "summary_character_count": 125,
+      "summary_japanese": "3-thia-7-aza-1,5(2,6)-dipyridinacyclooctaphaneを選択的N-alkyl化してドナー環境を調整したN/Sキレート剤を合成し、Cu(I/II)錯体を解析した。picolyl誘導体は64Cuを定量的に取り込んだ。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thia-Aza Pyridinophane Chelators for Copper Coordination and"
     },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
