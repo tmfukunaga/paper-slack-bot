@@ -9,7 +9,7 @@
     "2026-07-24": 26,
     "2026-07-25": 1,
     "2026-07-26": 36,
-    "2026-07-27": 5
+    "2026-07-27": 10
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -24,6 +24,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Diverse High-Performance Circularly Polarized Organic Light-Emitting Diodes Based on Chiral Host Molecules via Chiral Energy Transfer Process"
+    },
+    "10.1002/adfm.77307": {
+      "doi": "10.1002/adfm.77307",
+      "posted_at": "2026-07-26T18:17:19+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785089839.533639",
+      "summary_character_count": 118,
+      "summary_japanese": "ゼロ次元キラルMnハライドR/S-(TCHD)2MnCl4(Cl)2を設計し、PLQY約99.03%、発光異方性因子±1.4×10−2を達成した。偏光選択的な散乱光抑制により、柔軟膜で17.09 lp·mm−1のX線画像分解能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarization Sensitivity of Chiral Manganese Halide Scintillators Enables High-Resolution X-Ray Imaging"
     },
     "10.1002/adma.74130": {
       "doi": "10.1002/adma.74130",
@@ -50,6 +63,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Direction-Dependent Plasmonic Chiroptical Response With High Asymmetry and Dynamic Tunability"
+    },
+    "10.1002/adma.74308": {
+      "doi": "10.1002/adma.74308",
+      "posted_at": "2026-07-26T18:17:05+00:00",
+      "score": 40,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785089825.887329",
+      "summary_character_count": 105,
+      "summary_japanese": "キラルR/S準2Dペロブスカイト微小共振器を設計し、分子のg_mol∼10^-4をg_laser∼0.78の円偏光単一モードレーザーへ増幅した。R/S鏡像体で1～3 psの逆向き超高速ヘリシティ切替も観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly Polarized Lasing and Ultrafast Optical Helicity Switching in Chiral Perovskite Microcavities"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -199,6 +225,32 @@
       "posted_at": "2026-07-18T07:02:30+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1002/ange.9590374": {
+      "doi": "10.1002/ange.9590374",
+      "posted_at": "2026-07-26T18:17:09+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785089829.485379",
+      "summary_character_count": 122,
+      "summary_japanese": "CPL活性heliceneとquencherを備えるrotaxane mechanophoreをDN gel架橋点へ導入し、膨潤・収縮で伝達される力により単一分子CPLを可逆的にon/off制御した。等方膨潤により試料配向由来の影響も抑制した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Force-Induced Control of Circularly Polarized Luminescence With Rotaxane Architecture"
+    },
+    "10.1002/anie.1147827": {
+      "doi": "10.1002/anie.1147827",
+      "posted_at": "2026-07-26T18:17:15+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785089835.456759",
+      "summary_character_count": 115,
+      "summary_japanese": "Croconaine系双極性D-A chromophoreにアミド水素結合を導入し、ヘテロ会合優先をホモ会合へ転換した。協同的ホモキラル集合によりNIRキロプト応答を増幅し、ヘテロ接合デバイスで効率的なNIR円偏光検出を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hydrogen-Bond-Induced Switching of Interaction Hierarchy in Dipolar D-A Chromophores for NIR Circularly Polarized Photodetection"
     },
     "10.1002/anie.1245058": {
       "doi": "10.1002/anie.1245058",
@@ -510,6 +562,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "A General and Scalable Chiral Surrogate Rotaxane Strategy for Highly Enantioenriched Mechanically Planar Chiral Rotaxanes"
+    },
+    "10.1002/anie.9590374": {
+      "doi": "10.1002/anie.9590374",
+      "posted_at": "2026-07-26T18:17:02+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785089822.209879",
+      "summary_character_count": 108,
+      "summary_japanese": "CPL活性heliceneと消光剤からなるrotaxane mechanophoreをDN gel架橋点に導入し、膨潤・収縮で伝わる力によりCPLを可逆的にon/off制御した。等方膨潤により配向由来の影響を抑えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Force-Induced Control of Circularly Polarized Luminescence With Rotaxane Architecture"
     },
     "10.1002/asia.70866": {
       "doi": "10.1002/asia.70866",
