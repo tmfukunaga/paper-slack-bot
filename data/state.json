@@ -8,7 +8,7 @@
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
-    "2026-07-26": 31
+    "2026-07-26": 36
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -704,6 +704,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Liquid Crystal-Enabled Chiral Quasi-BIC Metasurface Laser With Temperature-Controlled Polarization"
+    },
+    "10.1002/lpor.71619": {
+      "doi": "10.1002/lpor.71619",
+      "posted_at": "2026-07-26T12:21:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785068494.945659",
+      "summary_character_count": 116,
+      "summary_japanese": "磁気光学ジャイロトロピーとキラルbianisotropyを組み合わせ、順逆方向の光路を分離する受動・線形メタ表面を設計した。偏光非依存で最大97.5%の透過率、±50°の動作角を示し、非相反ビームルーティングとメタレンズを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Passive Polarization-Independent Nonreciprocal Magneto-Optical Chiral Metasurfaces for Decoupled Bidirectional Wavefront Manipulation"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -2022,6 +2035,19 @@
       "summary_used_fallback": false,
       "title": "Counteranion-mediated dynamic kinetic asymmetric fluorination to access sulfur-stereogenic center"
     },
+    "10.1038/s41565-026-02193-2": {
+      "doi": "10.1038/s41565-026-02193-2",
+      "posted_at": "2026-07-26T12:21:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785068498.800459",
+      "summary_character_count": 98,
+      "summary_japanese": "cm-IR-sSNOMにより1.8 K・最大5 TでZrTe5のスピン偏極ヘリカルエッジチャネルをナノスケール観察し、磁場誘起赤外明増光と二車線状再編成を確認した。近接場応答は原子層数に比例した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe5"
+    },
     "10.1038/s42004-026-02132-1": {
       "doi": "10.1038/s42004-026-02132-1",
       "posted_at": "2026-07-21T03:16:01+00:00",
@@ -2086,6 +2112,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Active thermodynamics of inertial chiral active gases: Equation of state and edge currents"
+    },
+    "10.1080/08916152.2026.2708635": {
+      "doi": "10.1080/08916152.2026.2708635",
+      "posted_at": "2026-07-26T12:21:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785068487.172569",
+      "summary_character_count": 111,
+      "summary_japanese": "最大120%伸長可能な螺旋状断熱部を持つ柔軟熱パイプを設計・実験評価し、充填率30%、16 W、伸長率120%で熱抵抗0.8 °C/Wを達成した。最適傾斜角は45°で、反復伸長後の熱抵抗変動は約0.1 °C/W以内だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermal performances of a heat pipe with a flexible helical adiabatic section"
     },
     "10.1080/14686996.2026.2705816": {
       "doi": "10.1080/14686996.2026.2705816",
@@ -2398,6 +2437,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aggregation-Induced Emission and Selective Ion Sensing of Chiral 3D Polymer"
+    },
+    "10.20944/preprints202607.1703.v1": {
+      "doi": "10.20944/preprints202607.1703.v1",
+      "posted_at": "2026-07-26T12:21:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785068502.406029",
+      "summary_character_count": 133,
+      "summary_japanese": "NACA 0012三翼球形ローターと二翼helical Savonius rotorを組み合わせた垂直軸潮流タービンを設計し、CFDと海岸実験で評価した。1.8 m/sのCFDで平均14.34 rad/s、実海域で自己起動と48–116 rpmの連続回転を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design, Development, and Hydrodynamic Analysis of a Vertical Spherical Turbine Circumscribing a Helical Savonius Rotor"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
@@ -2891,6 +2943,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantiodifferentiation of α-Arylacetic Acid and Thiohydantoin Derivatives by NMR Using Thiourea-Based Chiral Solvating Agents"
+    },
+    "10.3390/sym18081250": {
+      "doi": "10.3390/sym18081250",
+      "posted_at": "2026-07-26T12:21:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785068491.209469",
+      "summary_character_count": 116,
+      "summary_japanese": "Au nanorod–Ag nanowireギャッププラズモン導波路をFDTDで解析し、形状・長さ最適化とAg nanowire改変による局所電磁場制御を検証した。先端なしAu nanorodではキラル光の方向性が約89%に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Simulation of Tailoring Chiral Light Propagation in Gold-Silver Hybrid Plasmonic Waveguides"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
