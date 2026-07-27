@@ -9,7 +9,8 @@
     "2026-07-24": 26,
     "2026-07-25": 1,
     "2026-07-26": 36,
-    "2026-07-27": 15
+    "2026-07-27": 15,
+    "2026-07-28": 5
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -181,6 +182,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
     },
+    "10.1002/ange.2073269": {
+      "doi": "10.1002/ange.2073269",
+      "posted_at": "2026-07-27T15:16:07+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785165367.048279",
+      "summary_character_count": 132,
+      "summary_japanese": "prochiral monomerをCo触媒C-H活性化/環化で逐次重合し、高分子量で化学構造とキロプティカル特性を調整可能な軸不斉側鎖ポリマーを定量的に合成した。モデル反応の立体化学解析により、重合における優れたatroposelectivity制御を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Construction of Axially Chiral Polymers by Asymmetric C-H Activation Polymerization"
+    },
     "10.1002/ange.3935543": {
       "doi": "10.1002/ange.3935543",
       "posted_at": "2026-07-21T00:01:20+00:00",
@@ -219,6 +233,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/ange.7978333": {
+      "doi": "10.1002/ange.7978333",
+      "posted_at": "2026-07-27T15:15:56+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785165356.269539",
+      "summary_character_count": 119,
+      "summary_japanese": "para連結芳香族部の分子内水素結合で単一ねじれを固定した初のaramide Möbius macrocycleを設計し、結晶構造で確認した。水クラスター導入により平面Hückel型へ可逆転換し、キラルアミノ酸錯形成ではCD応答を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological Isomerism of Möbius-Shaped Aramide Macrocycles Induced by Host-Guest Interactions"
     },
     "10.1002/ange.8648830": {
       "doi": "10.1002/ange.8648830",
@@ -518,11 +545,37 @@
       "summary_used_fallback": false,
       "title": "Engineering LE-CT State Synergy in Aminoboranes for Single Molecule White Light Emission and Dual-Mode Chiroptical/Phosphorescence Output"
     },
+    "10.1002/anie.7100719": {
+      "doi": "10.1002/anie.7100719",
+      "posted_at": "2026-07-27T15:16:02+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785165362.883509",
+      "summary_character_count": 116,
+      "summary_japanese": "tetraazacyclophane骨格の二・四ホウ素化MR-TADF材料DPN2B/DPN4Bをone-pot合成し、442–451 nmの狭帯域深青色発光を示した。溶液プロセスOLEDは最大EQE 6.4%/4.0%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocyclic Dual- and Tetra-Borated Multi-Resonance Thermally Activated Delayed Fluorescence Materials Based on Tetraazacyclophane"
+    },
     "10.1002/anie.7974480": {
       "doi": "10.1002/anie.7974480",
       "posted_at": "2026-07-18T07:02:00+00:00",
       "recovered_from_run": 29635004972,
       "score": 30
+    },
+    "10.1002/anie.7978333": {
+      "doi": "10.1002/anie.7978333",
+      "posted_at": "2026-07-27T15:15:51+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785165351.742489",
+      "summary_character_count": 121,
+      "summary_japanese": "para連結芳香族部位の分子内水素結合で単一ねじれを固定した初のaramide Möbius macrocyclesを設計し、結晶解析で構造を確認した。水クラスターにより平面Hückel型へ可逆転換し、キラルアミノ酸錯形成でCD応答を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological Isomerism of Möbius-Shaped Aramide Macrocycles Induced by Host-Guest Interactions"
     },
     "10.1002/anie.8164022": {
       "doi": "10.1002/anie.8164022",
@@ -770,6 +823,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Catalytic Enantioselective Synthesis of Chiral Indole-Fused Medium and Large Rings: A Burgeoning Field"
+    },
+    "10.1002/ejoc.70710": {
+      "doi": "10.1002/ejoc.70710",
+      "posted_at": "2026-07-27T15:16:13+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785165373.898379",
+      "summary_character_count": 109,
+      "summary_japanese": "2,12-diborylated Ni(II) porphyrinのPt媒介ワンポット環化により、橋長の異なるER2–ER4とjaw型二量体JWを合成し、NMR、X線、UV/Visで歪みと吸収特性の構造依存性を調べた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "One-Pot Shotgun Synthesis of Earring-Shaped and Jaw-Like Porphyrin Macrocycles"
     },
     "10.1002/lpor.71570": {
       "doi": "10.1002/lpor.71570",
