@@ -123,20 +123,38 @@
     }
   },
   "retry_articles": {
+    "https://cen.acs.org/materials/2-d-materials/mxene-2d-magnetic-semiconducting/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-07-27T21:01:39+00:00",
+      "last_error": "abstract unavailable for DOI=10.1038/s41586-026-10802-2",
+      "last_failed_at": "2026-07-27T21:01:39+00:00",
+      "published_at": "2026-07-27T14:02:12+00:00",
+      "source": "C&EN",
+      "title": "Introducing rare earth MXenes"
+    },
+    "https://cen.acs.org/policy/intellectual-property/mechanochemistry-patents-industry/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-07-27T21:01:39+00:00",
+      "last_error": "article=HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/policy/intellectual-property/mechanochemistry-patents-industry/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen'); title_fallback=HTTPError('400 Client Error: Bad Request for url: https://api.openalex.org/works?search=Will+mechanochemistry+come+into+its+own%3F&per-page=25&api_key=ozhwdRjwIt2ZCQLjhrlaFK')",
+      "last_failed_at": "2026-07-27T21:01:39+00:00",
+      "published_at": "2026-07-27T16:06:33+00:00",
+      "source": "C&EN",
+      "title": "Will mechanochemistry come into its own?"
+    },
     "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 6,
+      "attempts": 7,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
-      "last_error": "article retrieval failed: HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen')",
-      "last_failed_at": "2026-07-26T20:58:42+00:00",
+      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
+      "last_failed_at": "2026-07-27T21:01:39+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
     },
     "https://cen.acs.org/synthesis/direct-sugar-chemistry-streamlines-drug-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 4,
+      "attempts": 5,
       "first_failed_at": "2026-07-23T20:59:48+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.539452.newsarticle",
-      "last_failed_at": "2026-07-26T20:58:42+00:00",
+      "last_failed_at": "2026-07-27T21:01:39+00:00",
       "published_at": "2026-07-23T13:33:41+00:00",
       "source": "C&EN",
       "title": "Direct sugar chemistry streamlines C-aryl glycoside synthesis"
