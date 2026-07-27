@@ -10,7 +10,7 @@
     "2026-07-25": 1,
     "2026-07-26": 36,
     "2026-07-27": 15,
-    "2026-07-28": 5
+    "2026-07-28": 8
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -142,6 +142,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Rh(III)-Catalyzed Asymmetric CH Activation of Sulfoximines With Iodonium Ylides Enabled by Chiral Carboxylic Acid"
+    },
+    "10.1002/adsc.70643": {
+      "doi": "10.1002/adsc.70643",
+      "posted_at": "2026-07-27T18:09:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785175798.445059",
+      "summary_character_count": 126,
+      "summary_japanese": "Rh触媒によるα-aminofumaric acid diestersおよび不飽和1,4-benzoheterocycle estersの不斉水素化で、各種キラルaspartate誘導体を94–99%収率、最高99% ee、TON 1000で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rh-Catalyzed Enantioselective Hydrogenation of N -Aryl α -Aminofumaric Acid Derivatives for Synthesis of Chiral Aspartates"
+    },
+    "10.1002/adsc.70659": {
+      "doi": "10.1002/adsc.70659",
+      "posted_at": "2026-07-27T18:10:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785175802.440929",
+      "summary_character_count": 101,
+      "summary_japanese": "2015～2026年のC─N、N─N、C─C軸性キラルアミドの触媒的不斉合成を総説し、プロキラルアミドの脱対称化、動的速度論的分割、アトロプ選択的アミド形成の触媒系とエナンチオ選択性支配因子を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Asymmetric Synthesis of Axially Chiral Amides"
     },
     "10.1002/advs.76451": {
       "doi": "10.1002/advs.76451",
@@ -2608,6 +2634,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral symmetry and curvature bounds in de Sitter spacetime"
+    },
+    "10.1177/08927057261471597": {
+      "doi": "10.1177/08927057261471597",
+      "posted_at": "2026-07-27T18:10:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785175809.764549",
+      "summary_character_count": 103,
+      "summary_japanese": "carbon-Kevlar繊維強化polypropylene複合材の穴あけで通常ドリリングとhelical millingを比較し、後者は温度が90.94%高い一方、推力、層間剝離係数、表面粗さを低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A comparative study of conventional drilling and helical milling of carbon-Kevlar hybrid thermoplastic composite"
     },
     "10.1177/14644207251409285": {
       "doi": "10.1177/14644207251409285",
