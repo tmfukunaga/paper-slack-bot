@@ -11,7 +11,7 @@
     "2026-07-26": 36,
     "2026-07-27": 15,
     "2026-07-28": 8,
-    "2026-07-29": 1
+    "2026-07-29": 6
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -52,6 +52,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macrocyclic-Engineered Supramolecular AIE Photosensitizer for Boosted NIR-II Phototheranostics"
+    },
+    "10.1002/adfm.77377": {
+      "doi": "10.1002/adfm.77377",
+      "posted_at": "2026-07-28T21:03:46+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785272626.869149",
+      "summary_character_count": 102,
+      "summary_japanese": "近赤外の平面自由形状キラルメタサーフェスを逆設計し、円二色性の波長位置、振幅、線形、帯域を制御した。Fano、Gaussian、ゲート形状などのスペクトルを実現し、実験はシミュレーションと良好に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Planar Freeform Metasurfaces with Customized Circular Dichroism Responses"
     },
     "10.1002/adma.74130": {
       "doi": "10.1002/adma.74130",
@@ -584,6 +597,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macrocyclic Dual- and Tetra-Borated Multi-Resonance Thermally Activated Delayed Fluorescence Materials Based on Tetraazacyclophane"
+    },
+    "10.1002/anie.7110390": {
+      "doi": "10.1002/anie.7110390",
+      "posted_at": "2026-07-28T21:03:26+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785272606.269229",
+      "summary_character_count": 125,
+      "summary_japanese": "芳香族tripeptide修飾macrocycleは、低濃度で単分子chloride channelとして機能し、高濃度では協同的芳香族相互作用により安定なnanoporeへ自己集合してcarboxyfluoresceinやglucoseを輸送した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
     },
     "10.1002/anie.7974480": {
       "doi": "10.1002/anie.7974480",
@@ -1564,6 +1590,19 @@
       "recovered_from_run": 29635004972,
       "score": 27
     },
+    "10.1021/acs.orglett.6c02925": {
+      "doi": "10.1021/acs.orglett.6c02925",
+      "posted_at": "2026-07-28T21:03:32+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785272612.141839",
+      "summary_character_count": 124,
+      "summary_japanese": "B置換BODIPYを、ケトンとの酸化的求核的水素置換と分子内B–O環化でN,O,Bキレート化BODIPYへ変換し、強い近赤外吸収・発光を実現した。X線構造解析で不斉四面体ホウ素中心を示し、HPLC分割とCD測定でエナンチオマーの光学活性を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tandem Oxidative Nucleophilic Hydrogen Substitution/B-O Cyclization Enables Chiral Near-Infrared N,O,B-Chelated BODIPYs"
+    },
     "10.1021/acsami.6c10251": {
       "doi": "10.1021/acsami.6c10251",
       "posted_at": "2026-07-26T00:12:55+00:00",
@@ -1764,6 +1803,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spin-Vibronic Coupling in Indenoindenodibenzothiophene Diradicaloids"
+    },
+    "10.1021/jacs.6c04114": {
+      "doi": "10.1021/jacs.6c04114",
+      "posted_at": "2026-07-28T21:03:41+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785272621.246629",
+      "summary_character_count": 127,
+      "summary_japanese": "SulfonimidamidesおよびSulfondiimidamidesのRh触媒環化により、立体中心硫黄をもつ多様な芳香族複素環を合成した。計算・分光解析で立体化学と芳香族性の関係を調べ、enzalutamide類縁体の薬物動態と生物活性を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Rhodium-Catalyzed Cyclization of Sulfonimidamides and Sulfondiimidamides: Synthesis and Exploration of Chiral Aromatic Heterocycles"
     },
     "10.1021/jacs.6c04267": {
       "doi": "10.1021/jacs.6c04267",
@@ -2128,6 +2180,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controllable patterning of magnetic bits with atomically sharp boundaries"
+    },
+    "10.1038/s41467-026-75259-3": {
+      "doi": "10.1038/s41467-026-75259-3",
+      "posted_at": "2026-07-28T21:03:36+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785272616.679009",
+      "summary_character_count": 119,
+      "summary_japanese": "AV3Sb5のループ電流秩序が軌道磁化を介してネマティックなカイラルd-wave超伝導を安定化する機構を示した。結合秩序との共存でネマティック性が増強され、希薄不純物は引力相互作用下でs-wave相を回復し、2×2対密度変調も予測された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nematic and chiral superconductivity emerging within the loop-current phase in kagome metals"
     },
     "10.1038/s41467-026-75548-x": {
       "doi": "10.1038/s41467-026-75548-x",
