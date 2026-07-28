@@ -10,7 +10,8 @@
     "2026-07-25": 1,
     "2026-07-26": 36,
     "2026-07-27": 15,
-    "2026-07-28": 8
+    "2026-07-28": 8,
+    "2026-07-29": 1
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -2114,6 +2115,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral packings in cylinders are ultrasensitive to confinement deformation"
+    },
+    "10.1038/s41467-026-74996-9": {
+      "doi": "10.1038/s41467-026-74996-9",
+      "posted_at": "2026-07-28T15:16:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785251766.354109",
+      "summary_character_count": 120,
+      "summary_japanese": "NiFe2O4/FMビットをAFM rock-salt spacer内に電子線誘起相転移で原子レベルに形成し、in situ EMCDで幅約4 nmドメインを読出した。外部磁場により各ビットの磁化を反転し、0/1情報を決定論的に書き込んだ。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controllable patterning of magnetic bits with atomically sharp boundaries"
     },
     "10.1038/s41467-026-75548-x": {
       "doi": "10.1038/s41467-026-75548-x",
