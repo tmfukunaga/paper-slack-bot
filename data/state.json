@@ -11,7 +11,7 @@
     "2026-07-26": 36,
     "2026-07-27": 15,
     "2026-07-28": 8,
-    "2026-07-29": 16
+    "2026-07-29": 21
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -286,6 +286,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/ange.7100719": {
+      "doi": "10.1002/ange.7100719",
+      "posted_at": "2026-07-29T06:04:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785305065.505559",
+      "summary_character_count": 110,
+      "summary_japanese": "tetraazacyclophane系二・四ホウ素化MR-TADF材料DPN2B/DPN4Bをワンポット合成し、442–451 nmの狭帯域深青色発光を得た。溶液プロセスOLEDは最大EQE 6.4%/4.0%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocyclic Dual- and Tetra-Borated Multi-Resonance Thermally Activated Delayed Fluorescence Materials Based on Tetraazacyclophane"
     },
     "10.1002/ange.7110390": {
       "doi": "10.1002/ange.7110390",
@@ -3376,6 +3389,32 @@
       "summary_used_fallback": false,
       "title": "Thia-Aza Pyridinophane Chelators for Copper Coordination and"
     },
+    "10.26434/chemrxiv.15006573/v1": {
+      "doi": "10.26434/chemrxiv.15006573/v1",
+      "posted_at": "2026-07-29T06:04:19+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785305059.158279",
+      "summary_character_count": 93,
+      "summary_japanese": "CB7によるアミノ酸認識をpH依存ITC、X線結晶構造解析、MDで解析し、親和性はアンモニウム‐ポータル相互作用と連動する4種のプロトン結合型水和状態の集団分布で説明されることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Proton-Linked Hydration Ensembles Govern Supramolecular Recognition in Water"
+    },
+    "10.26434/chemrxiv.15006578/v1": {
+      "doi": "10.26434/chemrxiv.15006578/v1",
+      "posted_at": "2026-07-29T06:04:15+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785305055.347969",
+      "summary_character_count": 105,
+      "summary_japanese": "分子動力学・メタダイナミクスと過渡吸収分光により、C60/C70⊂[n]CPP⊂nanocageの揺動、脱離、相対回転を解析し、C60系で光励起後のnanocapsuleからC60への分子間電子移動を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fullerene-encapsulating Matryoshkas: from molecular subcomponents mobility to charge carrier dynamics"
+    },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
       "posted_at": "2026-07-20T18:14:55+00:00",
@@ -3388,6 +3427,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pedagogical Practices in Early Childhood Development: Roles of Facilitators in Community School ECD Centres"
+    },
+    "10.3389/fbioe.2026.1849836": {
+      "doi": "10.3389/fbioe.2026.1849836",
+      "posted_at": "2026-07-29T06:04:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785305075.186269",
+      "summary_character_count": 86,
+      "summary_japanese": "2名のドナー由来初代NK細胞をbatch培養し、DoEにより複数のCPPがCQAsに及ぼす単独および組合せ効果を詳細に解析した。最大生細胞数を予測する統計モデルを構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of CPPs on primary human NK cell CQAs during cell expansion - an experimental study using design of experiments"
     },
     "10.3389/fonc.2026.1883024": {
       "doi": "10.3389/fonc.2026.1883024",
@@ -3544,6 +3596,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Novel Chiroptical Spectroscopy Technique"
+    },
+    "10.64898/2026.07.24.740591": {
+      "doi": "10.64898/2026.07.24.740591",
+      "posted_at": "2026-07-29T06:04:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785305069.778659",
+      "summary_character_count": 113,
+      "summary_japanese": "ヒトマクロファージpodosomeのactin networkをcryo-electron tomography、配向解析、Markov連鎖で解析し、膜法線方向に約33 nm周期の三層らせん秩序と母鎖‐娘鎖配向遷移を同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Layered helical order reveals assembly states in podosome actin networks"
     }
   }
 }
