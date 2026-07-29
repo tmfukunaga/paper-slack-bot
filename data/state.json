@@ -11,7 +11,7 @@
     "2026-07-26": 36,
     "2026-07-27": 15,
     "2026-07-28": 8,
-    "2026-07-29": 6
+    "2026-07-29": 11
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -1882,6 +1882,19 @@
       "summary_used_fallback": true,
       "title": "Supramolecular Modulation of Controlled Radical Polymerization"
     },
+    "10.1021/jacs.6c06132": {
+      "doi": "10.1021/jacs.6c06132",
+      "posted_at": "2026-07-29T00:04:33+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785283473.262879",
+      "summary_character_count": 122,
+      "summary_japanese": "置換基をもつtetracarbazoleのScholl cyclizationで[1,4]diazocine内包3D nanographeneを合成し、自己集合により直線・ジグザグ1Dまたは連結2Dチャネルをもつ非共有結合多孔質結晶を形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Adaptive Fabrication of Porous Crystals through Multiple-Site Noncovalent Conjunction of [1,4]Diazocine-Embedded Three-Dimensionally Concave Nanographenes"
+    },
     "10.1021/jacs.6c06445": {
       "doi": "10.1021/jacs.6c06445",
       "posted_at": "2026-07-17T21:11:10+00:00",
@@ -1946,6 +1959,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spinterface-like Mechanism of the Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Complexes"
+    },
+    "10.1021/jacs.6c07362": {
+      "doi": "10.1021/jacs.6c07362",
+      "posted_at": "2026-07-29T00:04:41+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785283481.118569",
+      "summary_character_count": 96,
+      "summary_japanese": "水素結合で5d軌道のエネルギー整合を制御し、キラリティー導入に伴う構造低次元化とバンドギャップ拡大の従来のトレードオフを克服する狭バンドギャップ零次元キラルハイブリッドペロブスカイトを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Narrow-Bandgap Zero-Dimensional Chiral Hybrid Perovskites"
     },
     "10.1021/jacs.6c07991": {
       "doi": "10.1021/jacs.6c07991",
@@ -2063,6 +2089,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Resolving Conformational Chirality in a Stereolabile Macrocycle"
+    },
+    "10.1021/jacs.6c10980": {
+      "doi": "10.1021/jacs.6c10980",
+      "posted_at": "2026-07-29T00:04:47+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785283487.031259",
+      "summary_character_count": 441,
+      "summary_japanese": "An enantioselective C–H activation/hydroarylation was developed using chiral transient directing groups and Ru(II) η-arene catalysts for cooperative enantiomeric control. The method efficiently affords benzo-fused six-membered heterocycles, including chiral chromanes and xanthenes, and mechanistic studies revealed condition-dependent turnover-determining transition states and distinct rate-determining steps for the enantiomeric pathways.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Hydroarylation via Chiral Transient Directing Groups: Access to Chiral Benzo-Fused Heterocycles with Collaborative Enantiomeric Control"
     },
     "10.1021/jacs.6c11182": {
       "doi": "10.1021/jacs.6c11182",
@@ -2362,6 +2401,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Counteranion-mediated dynamic kinetic asymmetric fluorination to access sulfur-stereogenic center"
+    },
+    "10.1038/s41467-026-76125-y": {
+      "doi": "10.1038/s41467-026-76125-y",
+      "posted_at": "2026-07-29T00:04:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785283467.269149",
+      "summary_character_count": 100,
+      "summary_japanese": "二官能性キラルNHC触媒によるビアリール埋込みlactamの不斉開環、鎖長可変alcohol導入、C–C/C–N環化を組み合わせ、9～14員環の軸不斉環状ビアリール49例を最大99% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective synthesis of ring-constrained biaryls via a twist-expand-seal strategy"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
@@ -2882,6 +2934,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Iridium-Catalyzed Regio- and Enantioselective Hydroamination of Allenes: Direct Access to α-Tertiary Chiral Allylic Amines"
+    },
+    "10.26434/chemrxiv.10001805/v2": {
+      "doi": "10.26434/chemrxiv.10001805/v2",
+      "posted_at": "2026-07-29T00:04:37+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785283477.299539",
+      "summary_character_count": 134,
+      "summary_japanese": "Methacrylated PLA-PEG-PLA（MPL）とα-CD、β-CD、HP-β-CDの包接に基づく光硬化性超分子マクロモノマーを作製し、分光・熱分析と分子ドッキングで構造を解析した。CD種が会合強度、重合速度、ネットワーク形成および物性を系統的に左右した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photocurable Supramolecular Macromonomers Based on Host-Guest Interaction between poly(L-lactide)-b-poly(ethylene glycol)-b-poly(L-lactide) copolymer and different cyclodextrins"
     },
     "10.26434/chemrxiv.15001315/v2": {
       "doi": "10.26434/chemrxiv.15001315/v2",
