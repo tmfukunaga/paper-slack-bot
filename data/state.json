@@ -12,7 +12,7 @@
     "2026-07-27": 15,
     "2026-07-28": 8,
     "2026-07-29": 25,
-    "2026-07-30": 5
+    "2026-07-30": 10
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -455,6 +455,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Transiently Activated Rotaxane Mechanocatalyst"
+    },
+    "10.1002/anie.3186961": {
+      "doi": "10.1002/anie.3186961",
+      "posted_at": "2026-07-29T18:18:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785349113.970249",
+      "summary_character_count": 102,
+      "summary_japanese": "マンガン触媒により環状・非環状のpolarized olefinsを不斉移動水素化し、多様なキラル生成物を最高99%収率、>99% eeで得た。DFT解析は六員環遷移状態を経る協奏的水素移動経路を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Manganese-Catalyzed Asymmetric Transfer Hydrogenation of Polarized Olefins via a Collaborative Hydrogen Transfer Process"
     },
     "10.1002/anie.3935543": {
       "doi": "10.1002/anie.3935543",
@@ -1137,6 +1150,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Lattice Chirality in Copper Oxide Nanoparticles Biases C-C Coupling Selectivity in CO 2 Electroreduction"
+    },
+    "10.1002/smll.74841": {
+      "doi": "10.1002/smll.74841",
+      "posted_at": "2026-07-29T18:18:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785349130.411759",
+      "summary_character_count": 133,
+      "summary_japanese": "phenothiazine系macrocycleを一段階で合成し、環状空孔内の相乗的超分子相互作用によりBBB透過性と細胞取り込みを向上させた。macrocycleは小分子体、既存化学療法薬やnanomaterial群を上回る抗glioblastoma活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Boosting Drug Permeability Across the Blood-Brain Barrier Through Supramolecular Macrocyclization"
     },
     "10.1007/s10493-026-01164-5": {
       "doi": "10.1007/s10493-026-01164-5",
@@ -2572,6 +2598,19 @@
       "summary_used_fallback": false,
       "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe5"
     },
+    "10.1038/s42004-026-02120-5": {
+      "doi": "10.1038/s42004-026-02120-5",
+      "posted_at": "2026-07-29T18:18:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785349120.653589",
+      "summary_character_count": 128,
+      "summary_japanese": "hCAII/PhSiH3でaryl-1,2-propanedionesを還元し、enantiopureなanti/syn-1,2-diolsを選択的に生成した。置換基効果を実験・計算で解析し、chiral 1,2-diolsのスケーラブル合成法を開発した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Human carbonic anhydrase II as a versatile biocatalyst for the synthesis of chiral aryl-1,2-diols"
+    },
     "10.1038/s42004-026-02132-1": {
       "doi": "10.1038/s42004-026-02132-1",
       "posted_at": "2026-07-21T03:16:01+00:00",
@@ -2584,6 +2623,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric radical type 1,2-aryloxy-phosphinolylation of vinylarenes catalyzed by chiral vanadyl complexes"
+    },
+    "10.1051/e3sconf/202672802001/pdf": {
+      "doi": "10.1051/e3sconf/202672802001/pdf",
+      "posted_at": "2026-07-29T18:18:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785349134.826649",
+      "summary_character_count": 99,
+      "summary_japanese": "海成軟弱粘土を模擬した24本のPGHP模型試験で、回転速度と貫入速度が杭径・軸支持力・セメント改良土の力学特性に及ぼす影響を検討した。過大な回転速度はグラウト注入量を減らし、杭径と強度を低下させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rotational and Penetration Rate Effects on the Formation and Axial Capacity of Pressure-Grouted Helical Piles"
     },
     "10.1055/a-2913-5787": {
       "doi": "10.1055/a-2913-5787",
@@ -3623,6 +3675,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cyclic Monoterpene-Aromatic Hybrids from Chiral Pool Terpenoid Ketones: Practical Synthetic Methodology for Accessing Them and In Silico Assessment as Cannabinoid Receptor CB1/CB2 Ligands"
+    },
+    "10.3390/photonics13080710": {
+      "doi": "10.3390/photonics13080710",
+      "posted_at": "2026-07-29T18:18:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785349126.719889",
+      "summary_character_count": 101,
+      "summary_japanese": "等角分割・半径方向変位変調を用いるSASZPを設計・ダイヤモンド基板に作製し、構造パラメータで複合渦ビームのOAMスペクトル、花弁状強度分布、モード純度を制御できることを理論と可視光集光実験で検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Generating Composite Vortex Beams with Single-Helicity Annulus-Sector Spiral Zone Plates"
     },
     "10.3390/sym18081250": {
       "doi": "10.3390/sym18081250",
