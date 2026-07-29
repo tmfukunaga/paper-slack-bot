@@ -12,7 +12,7 @@
     "2026-07-27": 15,
     "2026-07-28": 8,
     "2026-07-29": 25,
-    "2026-07-30": 10
+    "2026-07-30": 13
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -2377,6 +2377,19 @@
       "summary_used_fallback": false,
       "title": "Controllable patterning of magnetic bits with atomically sharp boundaries"
     },
+    "10.1038/s41467-026-75251-x": {
+      "doi": "10.1038/s41467-026-75251-x",
+      "posted_at": "2026-07-29T21:16:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785359786.856119",
+      "summary_character_count": 115,
+      "summary_japanese": "全結合トラップドイオン量子計算機でMERAと部分系トモグラフィーを実装し、量子相転移に伴う自発的対称性の破れとエンタングルメント変化を観測した。臨界点で部分系エントロピーのlog則スケーリングをデジタル量子計算機で初めて実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing entanglement scaling across a quantum phase transition on a quantum computer"
+    },
     "10.1038/s41467-026-75259-3": {
       "doi": "10.1038/s41467-026-75259-3",
       "posted_at": "2026-07-28T21:03:36+00:00",
@@ -2467,6 +2480,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Amine/ammonium buffering enables efficient anti-Markovnikov hydroamination of olefins with alkylamines"
+    },
+    "10.1038/s41467-026-75671-9": {
+      "doi": "10.1038/s41467-026-75671-9",
+      "posted_at": "2026-07-29T21:16:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785359791.520579",
+      "summary_character_count": 105,
+      "summary_japanese": "層状反強磁性体CoTa3S6で、抵抗率異方性と光学複屈折を伴うネマティック秩序を観測し、ひずみまたは面内磁場で切替制御した。面内磁場は顕著な不揮発性メモリー効果を示し、面外磁場で輸送の三回回転対称性が回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonvolatile nematic order manipulated by strain and magnetic field in a layered antiferromagnet"
     },
     "10.1038/s41467-026-75699-x": {
       "doi": "10.1038/s41467-026-75699-x",
@@ -2922,6 +2948,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes"
+    },
+    "10.1137/25m1757381": {
+      "doi": "10.1137/25m1757381",
+      "posted_at": "2026-07-29T21:16:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785359798.056579",
+      "summary_character_count": 121,
+      "summary_japanese": "渦度伸長のない螺旋対称3次元Euler方程式で、helix近傍に集中した単一渦糸を解析した。helical Biot-Savart kernelの漸近展開と重み付き汎関数により、固定時間区間での回転螺旋渦糸近傍への集中と角速度を定量評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Long Time Dynamics for Helical Vortex Filament in Euler Flows"
     },
     "10.1139/cgj-2026-0043": {
       "doi": "10.1139/cgj-2026-0043",
