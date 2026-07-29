@@ -11,7 +11,7 @@
     "2026-07-26": 36,
     "2026-07-27": 15,
     "2026-07-28": 8,
-    "2026-07-29": 21
+    "2026-07-29": 25
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -954,6 +954,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Passive Polarization-Independent Nonreciprocal Magneto-Optical Chiral Metasurfaces for Decoupled Bidirectional Wavefront Manipulation"
+    },
+    "10.1002/lpor.71627": {
+      "doi": "10.1002/lpor.71627",
+      "posted_at": "2026-07-29T09:14:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785316475.411149",
+      "summary_character_count": 122,
+      "summary_japanese": "誘電体メタサーフェスで一般的なhelical polymorphic beamsを生成し、幾何学的位相による複素振幅制御とphase-only符号化を実証した。目標場の逆伝搬を用いる中間面ホログラフィーにより、実験効率を30%相対的に改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Generating Helical Polymorphic Beams Using Dielectric Metasurfaces"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -2011,6 +2024,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Narrow-Bandgap Zero-Dimensional Chiral Hybrid Perovskites"
+    },
+    "10.1021/jacs.6c07395": {
+      "doi": "10.1021/jacs.6c07395",
+      "posted_at": "2026-07-29T09:14:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785316485.657349",
+      "summary_character_count": 96,
+      "summary_japanese": "温度・化学分析対象・光に応答する反応性CLC液滴をポリマー中に埋め込み、放射状らせん配列による角度非依存の構造色を示す強靱なフィルムと印刷インクを開発した。外部刺激で反射帯は可逆的に変化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multiresponsive Isotropic Structural Color in Cholesteric Liquid Crystals"
     },
     "10.1021/jacs.6c07991": {
       "doi": "10.1021/jacs.6c07991",
@@ -3415,6 +3441,19 @@
       "summary_used_fallback": false,
       "title": "Fullerene-encapsulating Matryoshkas: from molecular subcomponents mobility to charge carrier dynamics"
     },
+    "10.31224/7727": {
+      "doi": "10.31224/7727",
+      "posted_at": "2026-07-29T09:14:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785316481.600229",
+      "summary_character_count": 134,
+      "summary_japanese": "理想化60チャネルhelical DAS位相アレイで、位相枝を保持して方位誤差を分解する診断法を評価し、小さいcircular RMSEでも枝不一致と大きな絶対誤差が生じ、compound stress下で約13°のnominal-manifold biasを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Branch-Aware Phase-to-Bearing Diagnostics in an Idealized Helical DAS Phase Array"
+    },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
       "posted_at": "2026-07-20T18:14:55+00:00",
@@ -3505,6 +3544,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantiodifferentiation of α-Arylacetic Acid and Thiohydantoin Derivatives by NMR Using Thiourea-Based Chiral Solvating Agents"
+    },
+    "10.3390/molecules31152599": {
+      "doi": "10.3390/molecules31152599",
+      "posted_at": "2026-07-29T09:14:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785316492.867569",
+      "summary_character_count": 134,
+      "summary_japanese": "menthone・trans-tetrahydrocarvone由来enol triflateのSuzuki–Miyaura couplingと立体選択的水素化により芳香族ハイブリッドを合成し、従来未到達の立体異性体を得た。計算ドッキングでCB1/CB2候補を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cyclic Monoterpene-Aromatic Hybrids from Chiral Pool Terpenoid Ketones: Practical Synthetic Methodology for Accessing Them and In Silico Assessment as Cannabinoid Receptor CB1/CB2 Ligands"
     },
     "10.3390/sym18081250": {
       "doi": "10.3390/sym18081250",
