@@ -11,7 +11,8 @@
     "2026-07-26": 36,
     "2026-07-27": 15,
     "2026-07-28": 8,
-    "2026-07-29": 25
+    "2026-07-29": 25,
+    "2026-07-30": 5
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -825,6 +826,19 @@
       "summary_used_fallback": false,
       "title": "Charge-Transfer-Induced Morphological Transformation of a Butterfly-Shaped Pyrene-Flanked Chiral Macrocycle"
     },
+    "10.1002/chem.71485": {
+      "doi": "10.1002/chem.71485",
+      "posted_at": "2026-07-29T16:53:56+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785344036.528529",
+      "summary_character_count": 124,
+      "summary_japanese": "Keggin cluster–OF剛直球棒両親媒性分子のリンカー長を変え、THF/water中の自己集合を解析した。短鎖C3は常にオニオン状構造を形成し、長鎖C15は溶媒組成に応じたT型/I型配座変化により縞状球から完全なオニオン状構造へ転移した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Morphological Transitions in the Self-Assembly of Rigid Sphere-Rod Amphiphiles Achieved by Adjusting the Linker Length"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -1020,6 +1034,19 @@
       "summary_used_fallback": false,
       "title": "Temperature Regulating Evaporation-Induced Self-Assembly of Chiral Nematic Cellulose Nanocrystals for Rational Design of Iridescent Films"
     },
+    "10.1002/pen.70739": {
+      "doi": "10.1002/pen.70739",
+      "posted_at": "2026-07-29T16:53:51+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785344031.410089",
+      "summary_character_count": 113,
+      "summary_japanese": "CNCとPVAを共自己組織化し、laccaic acidを導入した柔軟なキラルネマチック光子複合膜を作製した。構造色・蛍光・CPLを示し、溶媒・pH応答による可逆発光切替と、DMF処理後−0.56のCPL異方性因子を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Engineering Flexible Photonic Composites From Cellulose Nanocrystals and Poly(Vinyl Alcohol) With Multi-Stimuli Responsive Optical Properties"
+    },
     "10.1002/pen.70741": {
       "doi": "10.1002/pen.70741",
       "posted_at": "2026-07-21T03:16:05+00:00",
@@ -1123,6 +1150,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synergistic action of piperonyl butoxide with macrocyclic lactones in Rhipicephalus microplus"
+    },
+    "10.1007/s11200-026-00027-4": {
+      "doi": "10.1007/s11200-026-00027-4",
+      "posted_at": "2026-07-29T16:54:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785344042.461349",
+      "summary_character_count": 111,
+      "summary_japanese": "楕円等高分布における最良整数同変推定（ECD-BIE）定理のスペクトル形式を導出し、BLUE補正としての整数周期的推定量の空間表現をFourier表現へ変換した。正規・汚染正規・多変量Student分布で両表現を比較した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The ECD-BIE Estimation Theorem in Spectral Form"
     },
     "10.1007/s40962-026-02075-2": {
       "doi": "10.1007/s40962-026-02075-2",
@@ -2324,6 +2364,19 @@
       "summary_used_fallback": false,
       "title": "Nematic and chiral superconductivity emerging within the loop-current phase in kagome metals"
     },
+    "10.1038/s41467-026-75280-6": {
+      "doi": "10.1038/s41467-026-75280-6",
+      "posted_at": "2026-07-29T16:53:42+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785344022.315679",
+      "summary_character_count": 107,
+      "summary_japanese": "π共役炭化水素の内部結合切断と環拡大により、最大170個のsp2炭素から成るキラルナノカーボン3種を合成した。さらに内部二重結合の再形成で、26個の六員環を含むヘリカルナノグラフェンを位置・エナンチオ選択的に得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Skeletal transformation to chiral nanocarbon molecules"
+    },
     "10.1038/s41467-026-75548-x": {
       "doi": "10.1038/s41467-026-75548-x",
       "posted_at": "2026-07-18T22:19:50+00:00",
@@ -3440,6 +3493,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Fullerene-encapsulating Matryoshkas: from molecular subcomponents mobility to charge carrier dynamics"
+    },
+    "10.26434/chemrxiv.15006628/v1": {
+      "doi": "10.26434/chemrxiv.15006628/v1",
+      "posted_at": "2026-07-29T16:53:46+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785344026.236079",
+      "summary_character_count": 107,
+      "summary_japanese": "Ni(II)中心とpyridine系配位子からなるラセミMOFで、同一単結晶のX線回折によりNi(II)→Zn(II)交換を追跡し、結晶形態・骨格・螺旋チャネルのキラリティーが格子により立体保持されることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metal Cation Exchange in MOFs: A Single-Crystal-to-Single-Crystal Transformation with Retention of Chirality"
     },
     "10.31224/7727": {
       "doi": "10.31224/7727",
