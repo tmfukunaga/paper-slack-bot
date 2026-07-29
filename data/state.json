@@ -11,7 +11,7 @@
     "2026-07-26": 36,
     "2026-07-27": 15,
     "2026-07-28": 8,
-    "2026-07-29": 11
+    "2026-07-29": 16
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -183,6 +183,19 @@
       "summary_used_fallback": false,
       "title": "Catalytic Asymmetric Synthesis of Axially Chiral Amides"
     },
+    "10.1002/advs.202522741": {
+      "doi": "10.1002/advs.202522741",
+      "posted_at": "2026-07-29T03:03:47+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785294227.173469",
+      "summary_character_count": 119,
+      "summary_japanese": "L-cysteineを共有結合導入したpolyurethaneナノ粒子L-CNは、M1マクロファージのNF-κBを抑制してECM分解を低減し、ELラットでCD163+ M2分極、FBN1・MFAP2発現回復とチン小帯線維再構築を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Nanoparticles Suppress Inflammatory Infiltration to Promote Extracellular Matrix Remodeling for Ectopia Lentis Therapy"
+    },
     "10.1002/advs.76451": {
       "doi": "10.1002/advs.76451",
       "posted_at": "2026-07-21T12:08:22+00:00",
@@ -273,6 +286,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/ange.7110390": {
+      "doi": "10.1002/ange.7110390",
+      "posted_at": "2026-07-29T03:03:50+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785294230.774949",
+      "summary_character_count": 105,
+      "summary_japanese": "芳香族tripeptide修飾macrocycle MC-F・MC-Wは、低濃度で単分子塩化物チャネルとして働き、高濃度では協同的芳香族相互作用により自己集合して小分子輸送可能な安定nanoporeへ転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
     },
     "10.1002/ange.7978333": {
       "doi": "10.1002/ange.7978333",
@@ -2103,6 +2129,19 @@
       "summary_used_fallback": true,
       "title": "Enantioselective Hydroarylation via Chiral Transient Directing Groups: Access to Chiral Benzo-Fused Heterocycles with Collaborative Enantiomeric Control"
     },
+    "10.1021/jacs.6c11054": {
+      "doi": "10.1021/jacs.6c11054",
+      "posted_at": "2026-07-29T03:04:02+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785294242.840329",
+      "summary_character_count": 98,
+      "summary_japanese": "キラルリン酸触媒によるC–O結合の不斉水素化分解を開発し、反応はエナンチオ選択的1,4-移動水素化で開始後、芳香族化駆動の遠隔プロトン移動と骨格転位を経て進行すると機構実験とDFT計算で示唆した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Phosphoric Acid-Catalyzed Asymmetric Hydrogenolysis of C-O Bonds"
+    },
     "10.1021/jacs.6c11182": {
       "doi": "10.1021/jacs.6c11182",
       "posted_at": "2026-07-17T21:11:34+00:00",
@@ -2180,6 +2219,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "An Iron(V)-Oxo TAML Radical Cation Complex in Photocatalytic Water Oxidation and Electron-Transfer Reactions"
+    },
+    "10.1021/jacs.6c12866": {
+      "doi": "10.1021/jacs.6c12866",
+      "posted_at": "2026-07-29T03:03:58+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785294238.422299",
+      "summary_character_count": 110,
+      "summary_japanese": "Metal-organic helices（MOHs）を一次元ビルディングユニットとして用い、多様なゼオライト様トポロジーをもつZMOFsを設計した。MOH概念の一般性とisoreticular設計原理との両立を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From Metal-Organic Helices to Zeolite-like Supramolecular Assemblies"
     },
     "10.1021/jacsau.6c00720": {
       "doi": "10.1021/jacsau.6c00720",
@@ -2843,6 +2895,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Polarization-Mediated Entanglement as Detector-Plane Readout: Toward a Helical Photon Framework"
+    },
+    "10.15495/epub_ubt_00009527": {
+      "doi": "10.15495/epub_ubt_00009527",
+      "posted_at": "2026-07-29T03:03:54+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785294234.641009",
+      "summary_character_count": 100,
+      "summary_japanese": "収束した水素結合受容部位を持つzinc(II) Salphen錯体は、閉じ込めた構造水が金属中心を架橋する中空ナノファイバーを水中で形成し、熱機械応答性ヒドロゲルとアミノ酸の選択的キラル認識を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hydrogelation via Supramolecular Copolymerization of Structural Water within Adaptive Metal-Organic Fibers"
     },
     "10.1680/jgele.24.00170": {
       "doi": "10.1680/jgele.24.00170",
