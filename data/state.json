@@ -12,7 +12,8 @@
     "2026-07-27": 15,
     "2026-07-28": 8,
     "2026-07-29": 25,
-    "2026-07-30": 13
+    "2026-07-30": 13,
+    "2026-07-31": 2
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -92,6 +93,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Direction-Dependent Plasmonic Chiroptical Response With High Asymmetry and Dynamic Tunability"
+    },
+    "10.1002/adma.74303": {
+      "doi": "10.1002/adma.74303",
+      "posted_at": "2026-07-30T21:01:00+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785445260.196969",
+      "summary_character_count": 113,
+      "summary_japanese": "構造キラル・非極性altermagnetであるK[Co(HCOO)]に、キラリティ固定g-waveスピン分裂とNéelベクトル再配向・エナンチオマー切替で符号反転する電気分極を見いだし、電子・光学応答による状態読出しを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Altermagnetic Magnetoelectrics"
     },
     "10.1002/adma.74308": {
       "doi": "10.1002/adma.74308",
@@ -3156,6 +3170,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
+    },
+    "10.24033/bsmf.2922": {
+      "doi": "10.24033/bsmf.2922",
+      "posted_at": "2026-07-30T21:01:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785445266.572649",
+      "summary_character_count": 134,
+      "summary_japanese": "swirlなしhelical対称3次元Euler方程式で、異なる半径のhelix周りに集中した渦度がfilament近傍に保たれ、filamentが並進・回転するhelixとなることを示した。2次元定式化でBiot–Savart kernel特異部の明示式を導出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamics of helical vortex filaments in nonviscous incompressible flows"
     },
     "10.25259/ajc_57_2026": {
       "doi": "10.25259/ajc_57_2026",
