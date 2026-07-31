@@ -64,6 +64,15 @@
       ],
       "title": "Late-stage functionalization with strain-release warheads enables tunable covalent inhibition"
     },
+    "10.1126/science.aec6298": {
+      "doi": "10.1126/science.aec6298",
+      "posted_at": "2026-07-31T21:02:17+00:00",
+      "slack_ts": "1785531737.000139",
+      "sources": [
+        "C&EN"
+      ],
+      "title": "Catalytic Appel fluorination of alcohols with potassium fluoride"
+    },
     "10.1126/science.aec7913": {
       "doi": "10.1126/science.aec7913",
       "posted_at": "2026-07-25T21:03:06+00:00",
@@ -129,6 +138,11 @@
       "source": "C&EN",
       "title": "Chemistry in Pictures: Small world"
     },
+    "https://cen.acs.org/synthesis/fluorination/appel-reaction-finally-fluorinate/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "processed_at": "2026-07-31T21:02:17+00:00",
+      "source": "C&EN掲載",
+      "title": "Catalytic Appel fluorination of alcohols with potassium fluoride"
+    },
     "https://cen.acs.org/synthesis/reagents/dcm-amide-coupling-reagent-inexpensive/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
       "processed_at": "2026-07-19T22:17:01+00:00",
       "source": "C&EN掲載",
@@ -157,91 +171,91 @@
   },
   "retry_articles": {
     "https://cen.acs.org/materials/2-d-materials/mxene-2d-magnetic-semiconducting/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 5,
+      "attempts": 6,
       "first_failed_at": "2026-07-27T21:01:39+00:00",
       "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-27T14:02:12+00:00",
       "source": "C&EN",
       "title": "Introducing rare earth MXenes"
     },
     "https://cen.acs.org/materials/coatings/Quiz-causes-sunscreen-stains/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 4,
+      "attempts": 5,
       "first_failed_at": "2026-07-28T21:02:37+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.554650.periodicgraphicsquiz",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-28T17:00:03+00:00",
       "source": "C&EN",
       "title": "Quiz: What causes sunscreen stains?"
     },
     "https://cen.acs.org/materials/nanomaterials/metal-nitride-nanocrystals-solution-based-colloidal-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 3,
+      "attempts": 4,
       "first_failed_at": "2026-07-29T21:00:53+00:00",
       "last_error": "abstract unavailable for DOI=10.1038/s41586-026-10801-3",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-29T11:08:58+00:00",
       "source": "C&EN",
       "title": "Making these nanocrystals has stumped chemists for 30 years"
     },
     "https://cen.acs.org/materials/nanomaterials/metal-nitride-nanocrystals-solution-based-colloidal-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 3,
+      "attempts": 4,
       "first_failed_at": "2026-07-29T21:00:53+00:00",
       "last_error": "abstract unavailable for DOI=10.1038/s41586-026-10801-3",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-29T11:08:58+00:00",
       "source": "C&EN",
       "title": "Making these nanocrystals has stumped chemists for 30 years"
     },
     "https://cen.acs.org/physical-chemistry/protein-folding/New-AI-based-program-shrink/104/web/2026/07?sc=230901_cenrssfeed_eng_Physicalrss_cen": {
-      "attempts": 3,
+      "attempts": 4,
       "first_failed_at": "2026-07-29T21:00:53+00:00",
-      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_error": "abstract unavailable for DOI=10.47287/cen.556450.newsarticle",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-29T19:04:17+00:00",
       "source": "C&EN",
       "title": "New AI-based program is a shrink ray for proteins"
     },
     "https://cen.acs.org/policy/intellectual-property/mechanochemistry-patents-industry/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 5,
+      "attempts": 6,
       "first_failed_at": "2026-07-27T21:01:39+00:00",
       "last_error": "article=HTTPError('404 Client Error: Not Found for url: https://cen.acs.org/policy/intellectual-property/mechanochemistry-patents-industry/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen'); title_fallback=HTTPError('400 Client Error: Bad Request for url: https://api.openalex.org/works?search=Will+mechanochemistry+come+into+its+own%3F&per-page=25&api_key=ozhwdRjwIt2ZCQLjhrlaFK')",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-27T16:06:33+00:00",
       "source": "C&EN",
       "title": "Will mechanochemistry come into its own?"
     },
+    "https://cen.acs.org/synthesis/biocatalysis/cen-weekly-chemistry-news-quiz-july-31/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-07-31T21:01:46+00:00",
+      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
+      "published_at": "2026-07-31T10:30:04+00:00",
+      "source": "C&EN",
+      "title": "C&EN weekly chemistry news quiz, July 31"
+    },
     "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 11,
+      "attempts": 12,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.542002.newsarticle",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
     },
     "https://cen.acs.org/synthesis/direct-sugar-chemistry-streamlines-drug-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 9,
+      "attempts": 10,
       "first_failed_at": "2026-07-23T20:59:48+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.539452.newsarticle",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-23T13:33:41+00:00",
       "source": "C&EN",
       "title": "Direct sugar chemistry streamlines C-aryl glycoside synthesis"
     },
-    "https://cen.acs.org/synthesis/fluorination/appel-reaction-finally-fluorinate/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 2,
-      "first_failed_at": "2026-07-30T21:16:55+00:00",
-      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
-      "published_at": "2026-07-30T18:00:04+00:00",
-      "source": "C&EN",
-      "title": "Appel reaction can finally fluorinate"
-    },
     "https://www.chemistryworld.com/news/ferric-chloride-steers-lithium-away-from-dendrites-to-improve-safety-of-lithium-metal-batteries/4023956.article": {
-      "attempts": 3,
+      "attempts": 4,
       "first_failed_at": "2026-07-29T21:00:53+00:00",
       "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-07-31T01:01:56+00:00",
+      "last_failed_at": "2026-07-31T21:01:46+00:00",
       "published_at": "2026-07-29T08:14:00+00:00",
       "source": "Chemistry World",
       "title": "Ferric chloride steers lithium away from dendrites to improve safety of lithium-metal batteries"
