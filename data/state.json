@@ -13,7 +13,7 @@
     "2026-07-28": 8,
     "2026-07-29": 25,
     "2026-07-30": 13,
-    "2026-07-31": 12
+    "2026-07-31": 17
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -146,6 +146,19 @@
       "summary_used_fallback": false,
       "title": "Modulation of Intramolecular CH-pi Interactions Through Push-Pull Electronic Effect for Enhanced Circularly Polarized Luminescence"
     },
+    "10.1002/adom.71479": {
+      "doi": "10.1002/adom.71479",
+      "posted_at": "2026-07-31T09:16:21+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785489381.866189",
+      "summary_character_count": 112,
+      "summary_japanese": "Sn、Sb、Mn、Cu、Ln、In/Sb系を含む鉛フリーキラル金属ハライドの設計・合成・デバイス応用を総説し、結晶学的キラリティー、次元性、組成が電子構造、CPL、CP-EL効率・非対称因子を支配する構造物性相関を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Lead-Free Chiral Hybrid Metal Halides for Circularly Polarized Light-Emitting Diodes"
+    },
     "10.1002/adom.71499": {
       "doi": "10.1002/adom.71499",
       "posted_at": "2026-07-26T00:13:00+00:00",
@@ -262,6 +275,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A NEAT Approach to Evolving Neural-Network-Based Optimization of Chiral Photonic Metasurfaces: Application of a NeuroEvolution-of-Augmenting-Topologies Pipeline"
+    },
+    "10.1002/ange.1030078": {
+      "doi": "10.1002/ange.1030078",
+      "posted_at": "2026-07-31T09:16:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785489401.635199",
+      "summary_character_count": 123,
+      "summary_japanese": "ortho-diboronで多重共鳴骨格を補強したB,N-embedded [9]helicene、B4ONAは、462 nm・半値幅20 nmの青色発光と5.03×10−3の発光解離因子を示し、OLEDで最大34.4%の外部量子効率を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vicinal-Diboron Reinforced [9]Helicene Enables Narrowband Blue Circularly Polarized Emitter With Large Dissymmetry Factor and High Device Efficiency"
     },
     "10.1002/ange.1519414": {
       "doi": "10.1002/ange.1519414",
@@ -716,6 +742,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/anie.6908076": {
+      "doi": "10.1002/anie.6908076",
+      "posted_at": "2026-07-31T09:16:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785489406.767589",
+      "summary_character_count": 113,
+      "summary_japanese": "光誘起Cu触媒と(R)-BINOL/BOPAの多重非共有結合を用い、環状アミンのα-C(sp3)-Hをアミド、N-複素環、イミンで高エナンチオ・ジアステレオ選択的にアミノ化した。DFTはラジカル付加後の内圏還元的脱離を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photoinduced Copper-Catalyzed Stereoselective C(sp 3 )-H Amination Enabled by Preorganized Multiple Noncovalent Interactions"
+    },
+    "10.1002/anie.6957654": {
+      "doi": "10.1002/anie.6957654",
+      "posted_at": "2026-07-31T09:16:33+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785489393.120549",
+      "summary_character_count": 112,
+      "summary_japanese": "(3-CF3py)2SnBr4で、圧力増強F···F相互作用を利用する分子ロックにより、約4.0 GPaで生じる非中心対称相を常圧へ速度論的に固定化した。SHGは約8 GPaで約400倍に増大し、一次元類縁体にも適用された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Kinetic Trapping of Pressure-Induced Symmetry Breaking in Hybrid Metal Halides via Fluorine-Mediated Molecular Locking"
     },
     "10.1002/anie.6980332": {
       "doi": "10.1002/anie.6980332",
@@ -3754,6 +3806,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Metal Cation Exchange in MOFs: A Single-Crystal-to-Single-Crystal Transformation with Retention of Chirality"
+    },
+    "10.26434/chemrxiv.15006689/v1": {
+      "doi": "10.26434/chemrxiv.15006689/v1",
+      "posted_at": "2026-07-31T09:16:26+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785489386.421989",
+      "summary_character_count": 101,
+      "summary_japanese": "[Ar3Te]+とクラウンエーテル・非環状ポリエーテルのカルコゲン結合を、X線回折、NMR、DOSY、ITCで解析した。短いTe•••O相互作用は溶液中でも持続し、会合定数はKa ~ 10^6に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Telluronium Cation Coordination of Crown Ethers and Polyethers through Chalcogen Bonding: Coulombically Driven Strong Association and Templated Cyclization"
     },
     "10.31224/7727": {
       "doi": "10.31224/7727",
