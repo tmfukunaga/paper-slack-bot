@@ -13,7 +13,7 @@
     "2026-07-28": 8,
     "2026-07-29": 25,
     "2026-07-30": 13,
-    "2026-07-31": 7
+    "2026-07-31": 12
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -236,6 +236,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe 2"
+    },
+    "10.1002/advs.76885": {
+      "doi": "10.1002/advs.76885",
+      "posted_at": "2026-07-31T06:06:15+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785477975.708329",
+      "summary_character_count": 87,
+      "summary_japanese": "コレステリック指ループの緩和を電気テンプレートで制御し、プログラム可能な同心多重ソリトンリングを形成した。光重合体はトポロジーを保持し、熱で可逆的に城郭状表面形状を変調した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermal Control of Concentric Topographies Patterned by Dynamic Electro-Templated Generated Chiral Solitonic Structures"
+    },
+    "10.1002/aisy.70468": {
+      "doi": "10.1002/aisy.70468",
+      "posted_at": "2026-07-31T06:06:11+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785477971.252799",
+      "summary_character_count": 116,
+      "summary_japanese": "GaP誘電体キラルメタサーフェス9600種のシミュレーションデータで、NEATによりNNのトポロジーと重みを進化させた。標準化により小型NNでも従来の密結合MLPと同等以上の予測・汎化性能を示し、可視域の強い円二色性構造を推論した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A NEAT Approach to Evolving Neural-Network-Based Optimization of Chiral Photonic Metasurfaces: Application of a NeuroEvolution-of-Augmenting-Topologies Pipeline"
     },
     "10.1002/ange.1519414": {
       "doi": "10.1002/ange.1519414",
@@ -865,6 +891,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Volatile Chemical Activator Enables Waste-Free Dissipative Supramolecular Assembly"
+    },
+    "10.1002/chem.71445": {
+      "doi": "10.1002/chem.71445",
+      "posted_at": "2026-07-31T06:06:19+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785477979.781519",
+      "summary_character_count": 104,
+      "summary_japanese": "polyA、polyC、polyG、polyUのRaman・ROAスペクトルを広域で測定し、MD/DFT計算と比較した。温度変化に伴う構造変化を反映し、RNA.Shaw力場はRNA.OL3より良好に再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Raman Optical Activity as a Tool to Monitor Polynucleotide Conformation in Solutions"
     },
     "10.1002/chem.71446": {
       "doi": "10.1002/chem.71446",
@@ -2443,6 +2482,19 @@
       "summary_used_fallback": false,
       "title": "Controllable patterning of magnetic bits with atomically sharp boundaries"
     },
+    "10.1038/s41467-026-75023-7": {
+      "doi": "10.1038/s41467-026-75023-7",
+      "posted_at": "2026-07-31T06:06:06+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785477966.835619",
+      "summary_character_count": 114,
+      "summary_japanese": "2023年発見のaperiodic monotileを用い、完全なC3対称性と鏡映対称性のない準周期構造を提案・作製した。回折実験で明瞭なBraggピークと照射位置非依存性、ピンホイール状パターンおよび円偏光依存応答を観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral diffraction from aperiodic monotile structure"
+    },
     "10.1038/s41467-026-75251-x": {
       "doi": "10.1038/s41467-026-75251-x",
       "posted_at": "2026-07-29T21:16:26+00:00",
@@ -2702,6 +2754,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe5"
+    },
+    "10.1038/s41586-026-10845-5": {
+      "doi": "10.1038/s41586-026-10845-5",
+      "posted_at": "2026-07-31T06:06:23+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785477983.831039",
+      "summary_character_count": 117,
+      "summary_japanese": "単軸ひずみで単位胞内に相反するキラル断片をもつ非キラル結晶のキラリティーを誘起するpiezochiral effectを対称性解析で示し、AgGaS2のひずみ下の旋光測定で実証した。ひずみ方向や圧縮・引張の切替により掌性を調整できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The piezochiral effect"
     },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
