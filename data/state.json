@@ -13,7 +13,7 @@
     "2026-07-28": 8,
     "2026-07-29": 25,
     "2026-07-30": 13,
-    "2026-07-31": 2
+    "2026-07-31": 7
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -289,6 +289,19 @@
       "summary_used_fallback": false,
       "title": "Activation of Allylic Primary Alcohols With Biaryl Oxazepine Reagent for Chiral Phosphoric Acid-Catalyzed Asymmetric S N 1 Reaction"
     },
+    "10.1002/ange.5198135": {
+      "doi": "10.1002/ange.5198135",
+      "posted_at": "2026-07-31T03:01:29+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785466889.037469",
+      "summary_character_count": 123,
+      "summary_japanese": "キラル低分子(R/S)-4LCの自己集合体はRayleigh型円偏光散乱によりCPLを選択的に増幅し、g_lum=0.73（散乱なしの200倍）を達成した。無キラルQDsへの放射エネルギー移動とCPS増強QLEDsでキロプティカル信号も増幅した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Harnessing Supramolecular Circularly Polarized Scattering for Enhanced Chiroptical Performance"
+    },
     "10.1002/ange.6881077": {
       "doi": "10.1002/ange.6881077",
       "posted_at": "2026-07-17T21:10:59+00:00",
@@ -373,6 +386,19 @@
       "summary_used_fallback": false,
       "title": "Force-Induced Control of Circularly Polarized Luminescence With Rotaxane Architecture"
     },
+    "10.1002/anie.1030078": {
+      "doi": "10.1002/anie.1030078",
+      "posted_at": "2026-07-31T03:01:32+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785466892.886839",
+      "summary_character_count": 121,
+      "summary_japanese": "ortho-diboron補強したB,N-embedded [9]helicene B4ONAは、462 nm・半値幅20 nmの純青色発光と発光膜で5.03×10−3の発光非対称因子を示し、OLEDで最大34.4%の外部量子効率を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vicinal-Diboron Reinforced [9]Helicene Enables Narrowband Blue Circularly Polarized Emitter With Large Dissymmetry Factor and High Device Efficiency"
+    },
     "10.1002/anie.1147827": {
       "doi": "10.1002/anie.1147827",
       "posted_at": "2026-07-26T18:17:15+00:00",
@@ -417,6 +443,19 @@
       "posted_at": "2026-07-18T07:02:10+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1002/anie.2026-m2607093500": {
+      "doi": "10.1002/anie.2026-m2607093500",
+      "posted_at": "2026-07-31T03:01:36+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785466896.477879",
+      "summary_character_count": 125,
+      "summary_japanese": "天然由来(-)-α-pineneから4段階で合成したキラルRh(III)触媒により、ジアゾ化合物からsilanes、cyclopropanes、dihydroisoquinolones、protoberberine alkaloidsを不斉合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Outside Back Cover: Rhodium(III)-Catalyzed Asymmetric Synthesis of Silanes and Cyclopropanes From Diazo Compounds Using Chiral α -Pinene-Derived Indenyl Ligands"
     },
     "10.1002/anie.2073269": {
       "doi": "10.1002/anie.2073269",
@@ -586,6 +625,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Activation of Allylic Primary Alcohols With Biaryl Oxazepine Reagent for Chiral Phosphoric Acid-Catalyzed Asymmetric S N 1 Reaction"
+    },
+    "10.1002/anie.5198135": {
+      "doi": "10.1002/anie.5198135",
+      "posted_at": "2026-07-31T03:01:22+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785466882.623369",
+      "summary_character_count": 121,
+      "summary_japanese": "キラル低分子(R/S)-4LCの超分子集合体はRayleigh様の円偏光散乱を示し、CPLを選択的に増幅してglum=0.73、散乱なしの200倍を達成した。放射エネルギー移動で非キラルQDsにCPLを誘起し、CPS増強QLEDsを作製した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Harnessing Supramolecular Circularly Polarized Scattering for Enhanced Chiroptical Performance"
     },
     "10.1002/anie.5251809": {
       "doi": "10.1002/anie.5251809",
@@ -2520,6 +2572,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Kinetically templated fibrillar self-assembly via two-dimensional nanocrystals enables 21% efficient organic solar cells"
+    },
+    "10.1038/s41467-026-75711-4": {
+      "doi": "10.1038/s41467-026-75711-4",
+      "posted_at": "2026-07-31T03:01:40+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785466900.616699",
+      "summary_character_count": 89,
+      "summary_japanese": "キラリティ分離SWCNT膜を伝導加熱し、850 Kで励起子共鳴に由来するピーク熱放射と絶対放射率を測定した。SWCNT／透明誘電体の交互積層により、励起子共鳴で放射率を増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exciton thermal radiation from macroscale membranes composed of chirality-sorted carbon nanotubes and its control"
     },
     "10.1038/s41467-026-75712-3": {
       "doi": "10.1038/s41467-026-75712-3",
