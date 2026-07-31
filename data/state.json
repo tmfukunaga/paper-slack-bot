@@ -14,7 +14,7 @@
     "2026-07-29": 25,
     "2026-07-30": 13,
     "2026-07-31": 22,
-    "2026-08-01": 1
+    "2026-08-01": 6
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -316,6 +316,19 @@
       "summary_used_fallback": false,
       "title": "Construction of Axially Chiral Polymers by Asymmetric C-H Activation Polymerization"
     },
+    "10.1002/ange.3408014": {
+      "doi": "10.1002/ange.3408014",
+      "posted_at": "2026-07-31T18:03:31+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785521011.814649",
+      "summary_character_count": 113,
+      "summary_japanese": "Carbazole埋込みCPPをSuzuki couplingと位置選択的臭素化で多環化し、TMCとPMCを合成した。TMCはC60で空孔を拡張する1:1錯体、C70を無変形で包接する一方、PMCは両者と2:1錯体を形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
+    },
     "10.1002/ange.3935543": {
       "doi": "10.1002/ange.3935543",
       "posted_at": "2026-07-21T00:01:20+00:00",
@@ -478,6 +491,19 @@
       "summary_used_fallback": false,
       "title": "Jahn-Teller Effect Dominates the Left-Hand Rule: Magneto-Optics in Metal Halide Lattice"
     },
+    "10.1002/anie.1508190": {
+      "doi": "10.1002/anie.1508190",
+      "posted_at": "2026-07-31T18:03:40+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785521019.983119",
+      "summary_character_count": 105,
+      "summary_japanese": "π共役系修飾アミノ酸、TCNQ、EDAの三成分共集合体で自発的[2+2]環化付加を進行させ、非平面付加体の生成に伴い高相純度の巨視的ヘリックスを形成した。付加体はキラル誘起と近赤外キロプティカル特性を増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reshaping Chiral Self-Assemblies Through Alkyne-Involved Click Chemistry"
+    },
     "10.1002/anie.1519414": {
       "doi": "10.1002/anie.1519414",
       "posted_at": "2026-07-17T17:07:08+00:00",
@@ -562,6 +588,19 @@
       "summary_used_fallback": false,
       "title": "A Transiently Activated Rotaxane Mechanocatalyst"
     },
+    "10.1002/anie.2661433": {
+      "doi": "10.1002/anie.2661433",
+      "posted_at": "2026-07-31T18:03:20+00:00",
+      "score": 57,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785521000.712309",
+      "summary_character_count": 125,
+      "summary_japanese": "大環状ケトン型プロキラルrotaxaneを基盤に、有機触媒的不斉縮合で高エナンチオ選択的なMPCを得た。Beckmann転位によるlactam型MPCへの変換と、還元条件制御によるSchill-type type 1 MGI両異性体の合成も達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereoselective Synthesis of Mechanically Planar Chiral Rotaxanes and Mechanical Geometric Isomers From a Macrocyclic Ketone-Based Prochiral Rotaxane"
+    },
     "10.1002/anie.3186961": {
       "doi": "10.1002/anie.3186961",
       "posted_at": "2026-07-29T18:18:34+00:00",
@@ -574,6 +613,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Manganese-Catalyzed Asymmetric Transfer Hydrogenation of Polarized Olefins via a Collaborative Hydrogen Transfer Process"
+    },
+    "10.1002/anie.3408014": {
+      "doi": "10.1002/anie.3408014",
+      "posted_at": "2026-07-31T18:03:27+00:00",
+      "score": 54,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785521007.666459",
+      "summary_character_count": 120,
+      "summary_japanese": "carbazole-embedded CPPをSuzuki couplingと位置選択的臭素化で多環化し、TMCとPMCを構築した。TMCはC60で空孔を拡張する1:1錯体、C70を無変形で包接する一方、PMCは両者と2:1錯体を形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
     },
     "10.1002/anie.3935543": {
       "doi": "10.1002/anie.3935543",
@@ -2820,6 +2872,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Counteranion-mediated dynamic kinetic asymmetric fluorination to access sulfur-stereogenic center"
+    },
+    "10.1038/s41467-026-76074-6": {
+      "doi": "10.1038/s41467-026-76074-6",
+      "posted_at": "2026-07-31T18:03:35+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785521015.724329",
+      "summary_character_count": 121,
+      "summary_japanese": "トポロジカルキラル[2]catenaneを骨格とするD-A•型TTM中性ラジカルを設計し、薄膜で可逆的CPL on/offスイッチングを実現した。CP-OLEDは深赤色発光、EQEmax 3.92%、|gEL| 7.2 × 10−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly polarized electroluminescence from topologically chiral [2]catenane-based neutral radicals with tunable deep-red emission"
     },
     "10.1038/s41467-026-76125-y": {
       "doi": "10.1038/s41467-026-76125-y",
