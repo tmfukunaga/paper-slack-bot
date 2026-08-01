@@ -15,7 +15,7 @@
     "2026-07-30": 13,
     "2026-07-31": 22,
     "2026-08-01": 26,
-    "2026-08-02": 2
+    "2026-08-02": 7
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -343,6 +343,32 @@
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
     },
+    "10.1002/ange.1807439": {
+      "doi": "10.1002/ange.1807439",
+      "posted_at": "2026-08-01T18:03:38+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785607418.712629",
+      "summary_character_count": 120,
+      "summary_japanese": "BF4−を持つS/R-キラル二価tetrapyridyl Pd(II)錯体の非極性媒体中での超分子重合を解析し、BF4−位置の変化が配列と水素結合を調節して、S体でキラル信号反転を伴うAggIからAggIIへの競合的転移を生むことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Counterion Dynamics in Chiral Supramolecular Polymerization"
+    },
+    "10.1002/ange.1877364": {
+      "doi": "10.1002/ange.1877364",
+      "posted_at": "2026-08-01T18:03:31+00:00",
+      "score": 50,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785607411.042599",
+      "summary_character_count": 122,
+      "summary_japanese": "機械的平面キラルrotaxaneを配座安定なキラリティー源として用い、PDIに単一巻き方向のらせんを誘起して持続的なCD・CPLを実現した。PDIのπ表面による自己集合では、機械的結合が二量体形状を、機械的平面キラリティーが巻き方向を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Mechanical Planar Chiral Rotaxane Induces Single-Handed Helicity in a Twisted Perylene Diimide"
+    },
     "10.1002/ange.202524631": {
       "doi": "10.1002/ange.202524631",
       "posted_at": "2026-08-01T00:15:36+00:00",
@@ -583,6 +609,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
     },
+    "10.1002/anie.1807439": {
+      "doi": "10.1002/anie.1807439",
+      "posted_at": "2026-08-01T18:03:34+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785607414.810939",
+      "summary_character_count": 113,
+      "summary_japanese": "BF4−を有するキラルdicationic tetrapyridyl Pd(II)複合体の超分子重合で、counterion位置の変化が配列と水素結合を制御し、S体は準安定AggIからキラル信号が反転したAggIIへ移行した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Counterion Dynamics in Chiral Supramolecular Polymerization"
+    },
     "10.1002/anie.1862545": {
       "doi": "10.1002/anie.1862545",
       "posted_at": "2026-08-01T12:01:15+00:00",
@@ -595,6 +634,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spatially Hierarchical Gradient Orientation of Liquid Crystal Gels for Antagonistic Cooperative Actuation"
+    },
+    "10.1002/anie.1877364": {
+      "doi": "10.1002/anie.1877364",
+      "posted_at": "2026-08-01T18:03:27+00:00",
+      "score": 60,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785607407.330219",
+      "summary_character_count": 131,
+      "summary_japanese": "機械的平面キラルrotaxaneを配座安定なキラリティー源として用い、twisted PDIに単一巻き方向のらせん性を誘起し、持続的な円二色性と円偏光発光を得た。PDIのπ表面による自己集合では、機械的結合が二量体形状、平面キラリティーがその巻き方向を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Mechanical Planar Chiral Rotaxane Induces Single-Handed Helicity in a Twisted Perylene Diimide"
     },
     "10.1002/anie.202524631": {
       "doi": "10.1002/anie.202524631",
@@ -1744,6 +1796,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ligand-conformation-directed assembly of a helical zinc-pyrazolate framework for C6 alkane separation"
+    },
+    "10.1016/j.nanoen.2026.112256": {
+      "doi": "10.1016/j.nanoen.2026.112256",
+      "posted_at": "2026-08-01T18:03:42+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785607422.677259",
+      "summary_character_count": 114,
+      "summary_japanese": "PNCと逆手性二層CLCsを組み合わせ、温度によるCLCsのフォトニックバンドギャップ移動で円偏光を選択抑制し、発光体を変えずにCP発光の手性を可逆反転した。可視域で最大g_lum 1.84、Δg_lum > 3.3を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reversible thermally-switchable chirality of circularly polarized luminescence in perovskite nanocrystals enabled by cholesteric liquid crystals"
     },
     "10.1016/j.sycrs.2026.100216": {
       "doi": "10.1016/j.sycrs.2026.100216",
