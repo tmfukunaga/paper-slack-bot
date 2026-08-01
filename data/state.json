@@ -14,7 +14,7 @@
     "2026-07-29": 25,
     "2026-07-30": 13,
     "2026-07-31": 22,
-    "2026-08-01": 16
+    "2026-08-01": 21
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -368,6 +368,19 @@
       "summary_used_fallback": false,
       "title": "Construction of Axially Chiral Polymers by Asymmetric C-H Activation Polymerization"
     },
+    "10.1002/ange.2496785": {
+      "doi": "10.1002/ange.2496785",
+      "posted_at": "2026-08-01T06:04:48+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785564288.176889",
+      "summary_character_count": 111,
+      "summary_japanese": "quinoxaline導入二光子発光cavitand TQACは、黄緑・橙色発光する2多形を形成した。多孔性TQAC αはbenzene・pyridine蒸気に迅速応答し、検出限界は各7.5、3.3 mg L−1であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Dual-Color Two-Photon-Active Cavitand for Guest-Responsive Sensing of Benzene and Pyridine Vapors"
+    },
     "10.1002/ange.3408014": {
       "doi": "10.1002/ange.3408014",
       "posted_at": "2026-07-31T18:03:31+00:00",
@@ -705,6 +718,19 @@
       "summary_used_fallback": false,
       "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
     },
+    "10.1002/anie.3713814": {
+      "doi": "10.1002/anie.3713814",
+      "posted_at": "2026-08-01T06:04:27+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785564267.647829",
+      "summary_character_count": 341,
+      "summary_japanese": "A host–guest strategy enabled switchable fluorescent and phosphorescent radioluminescence from a single guest emitter in organic X-ray scintillators. Fluorescence at 450 nm decayed in 4.28 ns, whereas phosphorescence at 529 nm lasted 1140.41 ms. The phosphorescent scintillator 2-TBASF@DMAP showed afterglow exceeding 0.8 s from 78 to 375 K.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Switching Fluorescent-Phosphorescent Radioluminescence in Organic X-Ray Scintillators via a Host-Guest Strategy"
+    },
     "10.1002/anie.3935543": {
       "doi": "10.1002/anie.3935543",
       "posted_at": "2026-07-19T00:14:58+00:00",
@@ -939,6 +965,19 @@
       "summary_used_fallback": false,
       "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
     },
+    "10.1002/anie.7699965": {
+      "doi": "10.1002/anie.7699965",
+      "posted_at": "2026-08-01T06:04:34+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785564274.265369",
+      "summary_character_count": 109,
+      "summary_japanese": "butane-1,2,3,4-tetracarboxylic acidホストへアミノ基含有ゲストをドープし、安定な水素結合網により430 K超で青～赤の全色有機残光を実現した。非水素結合供与性溶媒中でも性能を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Amino Acid Simulated Host-Guest Systems With Full-Color High-Temperature Organic Afterglow"
+    },
     "10.1002/anie.7974480": {
       "doi": "10.1002/anie.7974480",
       "posted_at": "2026-07-18T07:02:00+00:00",
@@ -1139,6 +1178,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Morphological Transitions in the Self-Assembly of Rigid Sphere-Rod Amphiphiles Achieved by Adjusting the Linker Length"
+    },
+    "10.1002/chem.71489": {
+      "doi": "10.1002/chem.71489",
+      "posted_at": "2026-08-01T06:04:38+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785564278.232859",
+      "summary_character_count": 128,
+      "summary_japanese": "EG鎖長の異なるper-EG-functionalized resorcin[4]arene 1d–1fを合成し、物性・自己集合・包接能を評価した。1e、1fは室温で粘性液体となり、CDCl3中で動的な六量体カプセルを形成して小型アンモニウム塩を包接した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis, Physicochemical Characteristics, Self-Assembly and Encapsulation Ability of per-Ethylene-Glycol-Functionalized Resorcin[4]Arenes and Their Molecular Capsules: On the Road to Liquid Capsules"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -4067,6 +4119,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Telluronium Cation Coordination of Crown Ethers and Polyethers through Chalcogen Bonding: Coulombically Driven Strong Association and Templated Cyclization"
+    },
+    "10.26434/chemrxiv.15006740/v1": {
+      "doi": "10.26434/chemrxiv.15006740/v1",
+      "posted_at": "2026-08-01T06:04:42+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785564282.282639",
+      "summary_character_count": 115,
+      "summary_japanese": "MISTにおいて対イオンでミセル構造を制御し、cis体の熱安定性を調整した。tetrabutylammonium塩は最長44年の半減期を示し、光誘起相分離により2.38 mM溶液400 μLから最大18.2 °Cの放熱を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Counterion-Controlled Self-Assembly Enables Simultaneous Tuning of Lifetime and Energy Density in Micellar Solar Thermal Energy Storage"
     },
     "10.31224/7727": {
       "doi": "10.31224/7727",
