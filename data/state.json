@@ -14,7 +14,7 @@
     "2026-07-29": 25,
     "2026-07-30": 13,
     "2026-07-31": 22,
-    "2026-08-01": 11
+    "2026-08-01": 16
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -68,6 +68,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Planar Freeform Metasurfaces with Customized Circular Dichroism Responses"
+    },
+    "10.1002/adfm.77389": {
+      "doi": "10.1002/adfm.77389",
+      "posted_at": "2026-08-01T00:15:43+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785543343.661919",
+      "summary_character_count": 120,
+      "summary_japanese": "(R/S)-binaphtholの3,3′位にMR-TADFユニットを直結し、光学分割不要で高収率の軸不斉(R/S)-DBNPを合成した。R-DBNP溶液プロセスCP-OLEDは最大EQE 28.1%、|gEL| 2.9×10−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3,3'-Substituted Binaphthol-Based Axially Chiral MR-TADF Enantiomers for Solution-Processed Circularly Polarized Organic Light-Emitting Diodes (CP-OLEDs) With External Quantum Efficiency Over 28%"
     },
     "10.1002/adma.74130": {
       "doi": "10.1002/adma.74130",
@@ -328,6 +341,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/ange.202524631": {
+      "doi": "10.1002/ange.202524631",
+      "posted_at": "2026-08-01T00:15:36+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785543336.031519",
+      "summary_character_count": 133,
+      "summary_japanese": "キラルCOBI触媒下、allylsilaneの環化/1,2-hydride shiftを伴う形式的[3+2]環化付加により、cis-2,5-disubstituted tetrahydrofuran-3-oneを最高88%収率、99% ee、>20:1 drで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Highly Enantio- and Diastereoselective Synthesis of Tetrahydrofuran Frameworks via Chiral Lewis Acid-Catalyzed Formal [3+2] Cycloaddition of Allylsilanes"
     },
     "10.1002/ange.2073269": {
       "doi": "10.1002/ange.2073269",
@@ -1244,6 +1270,19 @@
       "summary_used_fallback": false,
       "title": "Passive Polarization-Independent Nonreciprocal Magneto-Optical Chiral Metasurfaces for Decoupled Bidirectional Wavefront Manipulation"
     },
+    "10.1002/lpor.71625": {
+      "doi": "10.1002/lpor.71625",
+      "posted_at": "2026-08-01T00:15:30+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785543330.246069",
+      "summary_character_count": 361,
+      "summary_japanese": "All-optical dynamic polarization switching was demonstrated using phase-transition optical activity in chiral metasurfaces. Exploiting the extreme sensitivity near the phase-transition point, the approach achieved a 90° nonlinear polarization rotation with a control-power variation of only 0.2 mW, enabling low-power and highly responsive polarization control.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Optically-Induced 90° Dynamic Polarization Rotation via Phase-Transition Optical Activity in Metasurfaces"
+    },
     "10.1002/lpor.71627": {
       "doi": "10.1002/lpor.71627",
       "posted_at": "2026-07-29T09:14:35+00:00",
@@ -1425,6 +1464,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Boosting Drug Permeability Across the Blood-Brain Barrier Through Supramolecular Macrocyclization"
+    },
+    "10.1007/s10483-026-3420-6": {
+      "doi": "10.1007/s10483-026-3420-6",
+      "posted_at": "2026-08-01T00:15:39+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785543339.863219",
+      "summary_character_count": 119,
+      "summary_japanese": "tetra-chiral auxeticコアを持つMEEスマートサンドイッチナノプレートの熱機械振動を、非局所ひずみ勾配弾性と4変数せん断変形理論で解析した。磁場とひずみ勾配は剛性・安定性を高め、電位と非局所パラメータは軟化をもたらした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effect of the tetra-chiral auxetic cell and layer geometries on the thermomechanical vibration response of magneto-electro-elastic smart sandwich nanoplates"
     },
     "10.1007/s10493-026-01164-5": {
       "doi": "10.1007/s10493-026-01164-5",
@@ -2963,6 +3015,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective synthesis of ring-constrained biaryls via a twist-expand-seal strategy"
+    },
+    "10.1038/s41467-026-76182-3": {
+      "doi": "10.1038/s41467-026-76182-3",
+      "posted_at": "2026-08-01T00:15:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785543324.880629",
+      "summary_character_count": 94,
+      "summary_japanese": "Schiff-base結晶の光異性化で生じる窒素近傍の動的TSCを、フェムト秒過渡吸収・高圧実験・計算で検証した。TSCは遷移状態障壁と準安定状態の安定性を調節し、光スイッチ効率を高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable photofluorochromic switch driven by dynamic through-space conjugation"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
