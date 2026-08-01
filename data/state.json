@@ -14,7 +14,8 @@
     "2026-07-29": 25,
     "2026-07-30": 13,
     "2026-07-31": 22,
-    "2026-08-01": 26
+    "2026-08-01": 26,
+    "2026-08-02": 2
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -1334,6 +1335,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Umpolung Character of Styrenes: Mechanism and Stereoselective Studies of α , β -Substituted Amino Acids Using Chiral Ir-Phosphine Complexes"
+    },
+    "10.1002/jccs.70261": {
+      "doi": "10.1002/jccs.70261",
+      "posted_at": "2026-08-01T15:02:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785596553.945239",
+      "summary_character_count": 134,
+      "summary_japanese": "O/Oエマルション中でchiral MOF形成と界面重合を同時進行させ、MOF/polyureaコアシェル微小反応器を作製した。Ru錯体内包体はacetophenone移動水素化で完全転化と(R)-1-phenylethanolへの最大64%エナンチオ選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Metal-Organic Framework/Polyurea Composite Microreactors From Oil-In-Oil Emulsions"
     },
     "10.1002/lpor.71570": {
       "doi": "10.1002/lpor.71570",
@@ -3470,6 +3484,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Catalytic asymmetric synthesis of inherently chiral tricyclic diazepinones: Access to (+)-telenzepine"
+    },
+    "10.1126/science.aeb1157": {
+      "doi": "10.1126/science.aeb1157",
+      "posted_at": "2026-08-01T15:02:29+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785596549.133769",
+      "summary_character_count": 107,
+      "summary_japanese": "butterfly liliesでは、遺伝的キラリティーと重力屈性が雌雄器官を偏向させる。MIR156-RとYUCCA-Rを含むhemizygous supergeneが左右反対の配置を制御し、生殖多型を維持する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supergene control of chiral development in mirror-image flowers"
     },
     "10.1126/science.aeh1429": {
       "doi": "10.1126/science.aeh1429",
