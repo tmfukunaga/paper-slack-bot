@@ -14,7 +14,7 @@
     "2026-07-29": 25,
     "2026-07-30": 13,
     "2026-07-31": 22,
-    "2026-08-01": 21
+    "2026-08-01": 26
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -581,6 +581,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.1862545": {
+      "doi": "10.1002/anie.1862545",
+      "posted_at": "2026-08-01T12:01:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785585675.228569",
+      "summary_character_count": 109,
+      "summary_japanese": "パターン化nanoassembliesでLC配向を空間的勾配化し、一体型拮抗LCアクチュエータを作製した。splayed構造はらせん形状で緩み・締まりの双方向可逆変形を示し、ひずみは−85%～233%で調整可能だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spatially Hierarchical Gradient Orientation of Liquid Crystal Gels for Antagonistic Cooperative Actuation"
     },
     "10.1002/anie.202524631": {
       "doi": "10.1002/anie.202524631",
@@ -1218,6 +1231,19 @@
       "summary_used_fallback": false,
       "title": "Consequences of Mechanical Bonding on the Optical Activity of Cyclo[18]carbon Rings"
     },
+    "10.1002/chir.70131": {
+      "doi": "10.1002/chir.70131",
+      "posted_at": "2026-08-01T12:01:24+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785585684.467979",
+      "summary_character_count": 132,
+      "summary_japanese": "Phenylalanine添加剤と種晶によるaspartic acid racemateの単結晶化分割を検討し、水中一回の結晶化で平均85% eeを達成した。過剰エナンチオマーはPhenylalanineの配置で決まり、生成物はconglomerateを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Resolution of Aspartic Acid Racemate by Single Crystallization With Phenylalanine as Additive"
+    },
     "10.1002/cjoc.70681": {
       "doi": "10.1002/cjoc.70681",
       "posted_at": "2026-07-20T18:14:50+00:00",
@@ -1295,6 +1321,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "One-Pot Shotgun Synthesis of Earring-Shaped and Jaw-Like Porphyrin Macrocycles"
+    },
+    "10.1002/jcc.70477": {
+      "doi": "10.1002/jcc.70477",
+      "posted_at": "2026-08-01T12:01:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785585666.520339",
+      "summary_character_count": 130,
+      "summary_japanese": "キラルIr-ホスフィン触媒によるglycine誘導体・(arylamino)acrylateとstyreneの反応をDFT解析し、styreneが基質に応じ求核剤または求電子剤として働く逆極性を解明した。二核・単核経路はいずれも(S,S)体を高選択的に与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Umpolung Character of Styrenes: Mechanism and Stereoselective Studies of α , β -Substituted Amino Acids Using Chiral Ir-Phosphine Complexes"
     },
     "10.1002/lpor.71570": {
       "doi": "10.1002/lpor.71570",
@@ -4198,6 +4237,19 @@
       "summary_used_fallback": false,
       "title": "Semiempirical Estimation Formula of Uplift Capacity of Two-Plate Helical Anchors in Sand"
     },
+    "10.3390/bios16080411": {
+      "doi": "10.3390/bios16080411",
+      "posted_at": "2026-08-01T12:01:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785585678.927029",
+      "summary_character_count": 120,
+      "summary_japanese": "chiral SLSP resonatorを回転してα=49°、210°にEPを形成し、約0.5 μLの試料でグルコースをマイクロ波検出した。グルコース量2.78–27.8 nmolで周波数分裂は1.506から1.372 GHzへ低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exceptional-Point-Enhanced Chiral Spoof Localized Surface Plasmon Resonator for Sub-Microliter Glucose Microwave Biosensing"
+    },
     "10.3390/computation14080166": {
       "doi": "10.3390/computation14080166",
       "posted_at": "2026-07-26T09:02:22+00:00",
@@ -4262,6 +4314,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cyclic Monoterpene-Aromatic Hybrids from Chiral Pool Terpenoid Ketones: Practical Synthetic Methodology for Accessing Them and In Silico Assessment as Cannabinoid Receptor CB1/CB2 Ligands"
+    },
+    "10.3390/molecules31152652": {
+      "doi": "10.3390/molecules31152652",
+      "posted_at": "2026-08-01T12:01:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785585670.590739",
+      "summary_character_count": 87,
+      "summary_japanese": "TPAおよび誘導体を用いる2D配位駆動型超分子メタラサイクルについて、設計・合成法と、階層的自己集合、超分子ポリマー、蛍光制御、応用を体系的に概説し、今後の課題と展望を示す。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Triphenylamine-Based Supramolecular Coordination Metallacycles"
     },
     "10.3390/photonics13080710": {
       "doi": "10.3390/photonics13080710",
