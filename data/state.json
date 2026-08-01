@@ -15,7 +15,7 @@
     "2026-07-30": 13,
     "2026-07-31": 22,
     "2026-08-01": 26,
-    "2026-08-02": 7
+    "2026-08-02": 12
   },
   "posted": {
     "10.1002/adfm.77215": {
@@ -135,6 +135,19 @@
       "summary_used_fallback": false,
       "title": "Circularly Polarized Lasing and Ultrafast Optical Helicity Switching in Chiral Perovskite Microcavities"
     },
+    "10.1002/adma.74368": {
+      "doi": "10.1002/adma.74368",
+      "posted_at": "2026-08-01T21:03:20+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785618200.732259",
+      "summary_character_count": 100,
+      "summary_japanese": "キラルmetasurfaceの円二色性・光学活性を高める面内・面外対称性破れと低対称格子設計を整理し、機械学習・逆設計、イメージング、キラルセンシング、CPL発光、非線形機能への応用と課題を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multidimensional Symmetry Engineering of Metasurfaces for Circular Dichroism and Advanced Photonics"
+    },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
       "posted_at": "2026-07-20T09:43:17+00:00",
@@ -186,6 +199,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stepwise Modification of Carborane-Fused Heterocycles for Enhanced Circularly Polarized Luminescence"
+    },
+    "10.1002/adom.71528": {
+      "doi": "10.1002/adom.71528",
+      "posted_at": "2026-08-01T21:03:30+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785618210.174589",
+      "summary_character_count": 102,
+      "summary_japanese": "機械延伸でCsPbBr3 NW/EVA偏光発光層と位相差を整合したEVA層を積層し、±45°配置で左右CPLを発現する柔軟フィルムを作製した。g_lum=0.307を示し、延伸比でCPL信号を可変化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stretch-Assembled Flexible Circularly Polarized Luminescence Films for Multifunctional Anti-Counterfeiting"
+    },
+    "10.1002/adom.71553": {
+      "doi": "10.1002/adom.71553",
+      "posted_at": "2026-08-01T21:03:26+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785618206.638549",
+      "summary_character_count": 115,
+      "summary_japanese": "キラル酸素ドナー配位子でracemicなC@Au6Ag6/Au6Ag5を光学分割し、3組のenantiopureクラスターを単離した。phosphate保護C@Au6Ag6はPLQY 0.93、|g_lum| 0.008を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioresolution of Well-Defined Au-Ag Clusters With Near-Unity Phosphorescent Quantum Yields for Brilliant Circularly Polarized Luminescence"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -1075,6 +1114,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Simultaneous Construction of Sulfur and Carbon Stereocenters via Asymmetric Desymmetrization of Sulfonimidamides With Oxindole Derivatives"
+    },
+    "10.1002/anie.8630985": {
+      "doi": "10.1002/anie.8630985",
+      "posted_at": "2026-08-01T21:03:38+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785618218.759229",
+      "summary_character_count": 117,
+      "summary_japanese": "chlorogenic acidのsonoafterglow特性を見出し、自己集合性プロドラッグ超分子ヒドロゲルを設計した。verteporfin含有ゲルは、GBM術後のSDTとONOO−応答性発光による治療モニタリングを可能にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "In Situ Sonoafterglow Supramolecular Hydrogel From Natural Substrate for Post-Surgical Glioblastoma Treatment"
     },
     "10.1002/anie.8648830": {
       "doi": "10.1002/anie.8648830",
@@ -4432,6 +4484,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Generating Composite Vortex Beams with Single-Helicity Annulus-Sector Spiral Zone Plates"
+    },
+    "10.3390/photonics13080730": {
+      "doi": "10.3390/photonics13080730",
+      "posted_at": "2026-08-01T21:03:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785618213.502619",
+      "summary_character_count": 126,
+      "summary_japanese": "SiO2/Si基板上の非対称プラズモニックnanocylinder trimerを設計し、円偏光で生じる異種モード間の近接場干渉により、782 nmで局所CDパラメータ0.94を達成した。1 nmの小ギャップと直角trimerで巨大局所CDが得られた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Local Circular Dichroism Induced by Near-Field Interference in Asymmetric Plasmonic Nanocylinder Trimer"
     },
     "10.3390/sym18081250": {
       "doi": "10.3390/sym18081250",
