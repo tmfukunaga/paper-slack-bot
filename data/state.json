@@ -16,7 +16,7 @@
     "2026-07-31": 22,
     "2026-08-01": 26,
     "2026-08-02": 18,
-    "2026-08-03": 1
+    "2026-08-03": 3
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1596,6 +1596,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Twist-Assisted Bioprinting for Micro-Helical Topological Reconstruction"
+    },
+    "10.1002/rcm.70144": {
+      "doi": "10.1002/rcm.70144",
+      "posted_at": "2026-08-02T18:15:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785694528.343079",
+      "summary_character_count": 130,
+      "summary_japanese": "Mitiglinideの不純物・キラル純度を、1D reversed-phase LC-HRMSとC18/多糖系キラルカラムをオンライン接続したheart-cutting 2D-LC-HRMSで評価し、主要不純物5種中4種を構造解析、エナンチオマーを分離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Integrated 1D-LC-HRMS and Heart-Cutting 2D-LC-MS for Impurity Profiling and Chiral Separation of Mitiglinide Drug Substance"
     },
     "10.1002/smll.74522": {
       "doi": "10.1002/smll.74522",
@@ -4407,6 +4420,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Branch-Aware Phase-to-Bearing Diagnostics in an Idealized Helical DAS Phase Array"
+    },
+    "10.31224/7818": {
+      "doi": "10.31224/7818",
+      "posted_at": "2026-08-02T18:15:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785694534.728259",
+      "summary_character_count": 122,
+      "summary_japanese": "未知複素振幅をもつ理想点チャネル螺旋DAS配列で、振幅・遅延情報が等しい有限配列周波数を厳密導出し、723幾何で最大相対誤差4.24×10^−15を確認した。さらにHann–DFT–MUSIC連鎖の適合性と局所分散・擬似真値バイアスを検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exact Amplitude--Delay Information Crossover for an Idealized Helical DAS Array"
     },
     "10.3126/amrj.v5i1.98046": {
       "doi": "10.3126/amrj.v5i1.98046",
