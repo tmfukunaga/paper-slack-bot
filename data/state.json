@@ -15,7 +15,8 @@
     "2026-07-30": 13,
     "2026-07-31": 22,
     "2026-08-01": 26,
-    "2026-08-02": 18
+    "2026-08-02": 18,
+    "2026-08-03": 1
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2782,6 +2783,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
+    },
+    "10.1021/jacs.6c10166": {
+      "doi": "10.1021/jacs.6c10166",
+      "posted_at": "2026-08-02T15:18:16+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785683896.050919",
+      "summary_character_count": 126,
+      "summary_japanese": "cinchona alkaloid由来水素原子引抜触媒により1,3-diolの立体選択的エピマー化を実現し、対称基質では一方のエナンチオマーを高選択的にmeso体へ変換した。非対称基質も置換基効果を系統的に解析し、syn・anti体双方で高eeを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "StereoselectiveEpimerization of 1,3-Diols Using aChiral Hydrogen Atom Abstraction Catalyst"
     },
     "10.1021/jacs.6c10180": {
       "doi": "10.1021/jacs.6c10180",
