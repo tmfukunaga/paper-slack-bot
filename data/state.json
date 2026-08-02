@@ -15,9 +15,22 @@
     "2026-07-30": 13,
     "2026-07-31": 22,
     "2026-08-01": 26,
-    "2026-08-02": 12
+    "2026-08-02": 17
   },
   "posted": {
+    "10.1002/adfm.202600059": {
+      "doi": "10.1002/adfm.202600059",
+      "posted_at": "2026-08-02T00:04:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785629082.147939",
+      "summary_character_count": 110,
+      "summary_japanese": "W/CoFeB/MgOのchiral multilayerで、SOT誘起ドメイン再配向とstripe-to-bubble転移を用いる3次元AHE磁場センシングを提案し、面内のオフセットフリー検出と面外の線形動作を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Three-Dimensional Anomalous Hall Sensing Enabled By Spin-Orbit Torque Driven Domain Reconfiguration In Chiral Multilayers"
+    },
     "10.1002/adfm.77215": {
       "doi": "10.1002/adfm.77215",
       "posted_at": "2026-07-19T09:12:33+00:00",
@@ -1712,6 +1725,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The ECD-BIE Estimation Theorem in Spectral Form"
+    },
+    "10.1007/s40263-026-01317-5": {
+      "doi": "10.1007/s40263-026-01317-5",
+      "posted_at": "2026-08-02T00:04:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785629086.042679",
+      "summary_character_count": 111,
+      "summary_japanese": "急性統合失調症入院患者189例を対象に、PDE10A阻害薬alofropodectを4週間投与する無作為化二重盲検第2相試験で、20/40 mgはいずれもPANSS陽性尺度と総得点をプラセボより改善し、忍容性は良好だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "PDE10A Inhibition in Schizophrenia: A Randomised, Placebo-Controlled Phase 2 Study of Alofropodect (CPL’36) in Patients Experiencing Acute Schizophrenia"
     },
     "10.1007/s40962-026-02075-2": {
       "doi": "10.1007/s40962-026-02075-2",
@@ -3485,6 +3511,19 @@
       "summary_used_fallback": false,
       "title": "Charge Separation Measurements in Au+Au collisions at √sNN=7.7-200 GeV in Search of the Chiral Magnetic Effect"
     },
+    "10.1088/1741-4326/ae9326": {
+      "doi": "10.1088/1741-4326/ae9326",
+      "posted_at": "2026-08-02T00:04:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785629094.302069",
+      "summary_character_count": 129,
+      "summary_japanese": "Large Helical DeviceでW pellet注入後のW密度時空間分布を、UTA 191.7 Å線のSlice & Stack再構成と衝突放射モデルで評価した。Wは周辺でアブレーション後に拡散し、NBI breakdown後には中心部へ蓄積した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Evaluation of spatiotemporal tungsten density profiles using Unresolved Transition Arrays in the Large Helical Device"
+    },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
       "posted_at": "2026-07-21T18:02:41+00:00",
@@ -3510,6 +3549,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Achieving accelerated electrochemical kinetics in lithium-sulfur batteries by regulating the asymmetry factor g of chiral catalysts"
+    },
+    "10.1097/md.0000000000050002": {
+      "doi": "10.1097/md.0000000000050002",
+      "posted_at": "2026-08-02T00:04:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785629090.692989",
+      "summary_character_count": 91,
+      "summary_japanese": "左側乳房放射線治療61例を後方視的に比較し、HTは3D-FIFより胃の全線量指標と胃毒性が有意に高く、小胃容量は毒性と関連した。低分割照射ではHTがPTVのD95%を有意に改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gastric dose-volume parameters and toxicity in left-sided breast radiotherapy: A single-center retrospective comparison of helical tomotherapy and 3-dimensional field-in-field techniques"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
@@ -4328,6 +4380,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Branch-Aware Phase-to-Bearing Diagnostics in an Idealized Helical DAS Phase Array"
+    },
+    "10.3126/amrj.v5i1.98046": {
+      "doi": "10.3126/amrj.v5i1.98046",
+      "posted_at": "2026-08-02T00:04:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785629098.531249",
+      "summary_character_count": 109,
+      "summary_japanese": "Mangalsen Municipalityの地域学校内ECDセンター5校を混合研究法で調査し、専用校舎・家具・遊具・安全設備の不足、基準未達の教室環境、予算・監督・連携の不備により物理的管理が脆弱であることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Current Status of Physical Management of Early Childhood Development (ECD) Centers Operated in Community Schools: A Study of Mangalsen Municipality"
     },
     "10.3126/ire.v11i1.96702": {
       "doi": "10.3126/ire.v11i1.96702",
