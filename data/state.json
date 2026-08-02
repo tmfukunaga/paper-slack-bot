@@ -15,7 +15,7 @@
     "2026-07-30": 13,
     "2026-07-31": 22,
     "2026-08-01": 26,
-    "2026-08-02": 17
+    "2026-08-02": 18
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1926,6 +1926,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Recent advances in the asymmetric catalytic construction of chiral indenols"
+    },
+    "10.1017/hpl.2026.10192": {
+      "doi": "10.1017/hpl.2026.10192",
+      "posted_at": "2026-08-02T03:03:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785639797.774539",
+      "summary_character_count": 115,
+      "summary_japanese": "light springパルスで気体プラズマに三次元らせん状wakefieldを形成し、縦加速場と方位電場・径方向集束場によりOAMを持つ高エネルギーらせん電子ビームを生成した。ビームのOAMとらせん構造は真空伝搬後も保持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Energetic helical electron-bunch generation driven by a light spring wakefield"
     },
     "10.1021/accountsmr.6c00071": {
       "doi": "10.1021/accountsmr.6c00071",
