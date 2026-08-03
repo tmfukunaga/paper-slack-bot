@@ -16,7 +16,8 @@
     "2026-07-31": 22,
     "2026-08-01": 26,
     "2026-08-02": 18,
-    "2026-08-03": 3
+    "2026-08-03": 3,
+    "2026-08-04": 2
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3317,6 +3318,19 @@
       "summary_used_fallback": false,
       "title": "Tunable photofluorochromic switch driven by dynamic through-space conjugation"
     },
+    "10.1038/s41467-026-76333-6": {
+      "doi": "10.1038/s41467-026-76333-6",
+      "posted_at": "2026-08-03T15:18:13+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785770293.479279",
+      "summary_character_count": 119,
+      "summary_japanese": "C1対称phosphorus-chalcogen cageを部位選択的に同族置換し、エナンチオ純粋結晶の歪みでSHG-CDを制御した。1064 nmでgSHG-CD=0.48–1.70、2050 nmで強いSHGと広い赤外透過性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Distortion-engineered C1-symmetric inorganic molecular cages enable tunable chiroptical nonlinear optics with broad infrared transparency"
+    },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
       "posted_at": "2026-07-26T12:21:38+00:00",
@@ -3836,6 +3850,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Role of the Male Urobiome and Dysbiosis in the Pathogenesis of Prostatic Diseases (CP/CPPS and BPH)."
+    },
+    "10.12913/22998624/224465": {
+      "doi": "10.12913/22998624/224465",
+      "posted_at": "2026-08-03T15:18:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785770297.877449",
+      "summary_character_count": 119,
+      "summary_japanese": "平板型太陽熱温水器の吸収管背面にparaffin waxとhelical half-finを組み込み、CFD有限体積法で融解を解析した。半フィンモデルは14～20時の平均液相率が9.33%増加し、深夜の出口水温は304.36 Kに達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modeling and simulation of a helical-finned tube integrated with paraffin wax in a solar water heater system for enhanced thermal energy storage performance"
     },
     "10.1364/opticaopen.32538849.v3": {
       "doi": "10.1364/opticaopen.32538849.v3",
