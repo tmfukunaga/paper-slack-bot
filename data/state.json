@@ -18,7 +18,7 @@
     "2026-08-02": 18,
     "2026-08-03": 3,
     "2026-08-04": 2,
-    "2026-08-05": 5
+    "2026-08-05": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3371,6 +3371,19 @@
       "summary_used_fallback": false,
       "title": "Tunable photofluorochromic switch driven by dynamic through-space conjugation"
     },
+    "10.1038/s41467-026-76299-5": {
+      "doi": "10.1038/s41467-026-76299-5",
+      "posted_at": "2026-08-04T18:15:43+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785867343.344989",
+      "summary_character_count": 133,
+      "summary_japanese": "celluloseとpolymethyl methacrylateの超分子ポリマーは、水で伸長性ネットワークが高密度架橋ドメインへ変換し、引張強度が2.7から61.7 MPaへ22倍超増加した。−196～200 °Cで構造を維持し、海水や排水中でも成形・補強できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular polymers with water-triggered dense domains enabling mechanical robustness programmability and weather resistance"
+    },
     "10.1038/s41467-026-76333-6": {
       "doi": "10.1038/s41467-026-76333-6",
       "posted_at": "2026-08-03T15:18:13+00:00",
@@ -3500,6 +3513,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Active thermodynamics of inertial chiral active gases: Equation of state and edge currents"
+    },
+    "10.1080/00387010.2026.2710321": {
+      "doi": "10.1080/00387010.2026.2710321",
+      "posted_at": "2026-08-04T18:15:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785867324.693319",
+      "summary_character_count": 124,
+      "summary_japanese": "Bubonium graveolens精油主要成分trans-chrysanthemyl acetate、δ-cadinol、δ-cadineneの絶対配置を実測VCDとDFT計算VCDで決定し、前者は1異性体、後二者は各2異性体の配置を同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Application of vibrational circular dichroism for determining the absolute configuration of Bubonium graveolens plant major constituents"
     },
     "10.1080/08916152.2026.2708635": {
       "doi": "10.1080/08916152.2026.2708635",
@@ -3643,6 +3669,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Influence of Gear Shaft Misalignment Fault on Time-Varying Mesh Stiffness of Helical Gear Pairs"
+    },
+    "10.1093/chemle/upag153": {
+      "doi": "10.1093/chemle/upag153",
+      "posted_at": "2026-08-04T18:15:34+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785867333.971909",
+      "summary_character_count": 135,
+      "summary_japanese": "leptolyngbyalides A–CのC1–C15断片を立体選択的に合成した。キラル補助基によるジアステレオ選択反応でC4–C12領域をモジュール化し、aldol、Narasaka-Prasad還元、Suzuki-Miyauraカップリングで開鎖型骨格を構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthetic Studies on Leptolyngbyalides A-C: Stereoselective Synthesis of the C1-C15 Fragment"
     },
     "10.1093/nsr/nwag448": {
       "doi": "10.1093/nsr/nwag448",
@@ -4501,6 +4540,19 @@
       "summary_used_fallback": false,
       "title": "Counterion-Controlled Self-Assembly Enables Simultaneous Tuning of Lifetime and Energy Density in Micellar Solar Thermal Energy Storage"
     },
+    "10.26434/chemrxiv.15006949/v1": {
+      "doi": "10.26434/chemrxiv.15006949/v1",
+      "posted_at": "2026-08-04T18:15:20+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785867320.566579",
+      "summary_character_count": 105,
+      "summary_japanese": "プロトン化可能なキラルドーパントでネマチック液晶にコレステリック相を誘起し、HCl蒸気によるプロトン化でピッチと選択反射波長を変調するセンサーを設計した。HClに対し約3.26 nm ppm−1の感度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Protonatable Chiral Dopant Strategy for HCl Sensing via Selective Reflection Modulation in Cholesteric Liquid Crystal"
+    },
     "10.31224/7727": {
       "doi": "10.31224/7727",
       "posted_at": "2026-07-29T09:14:41+00:00",
@@ -4708,6 +4760,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Local Circular Dichroism Induced by Near-Field Interference in Asymmetric Plasmonic Nanocylinder Trimer"
+    },
+    "10.3390/photonics13080734": {
+      "doi": "10.3390/photonics13080734",
+      "posted_at": "2026-08-04T18:15:29+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785867329.601049",
+      "summary_character_count": 89,
+      "summary_japanese": "超キラル光場とSi半導体探針を組み合わせ、磁気双極子励起を利用するナノスケール光誘起力キラル計測を提案した。円偏光下のAu探針基準に対し、左右円偏光での光学力差を約2桁増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Superchiral-Field-Enhanced Photoinduced Force Microscopy for Nanoscale Chiral Characterization via Magnetic-Dipole Excitation"
     },
     "10.3390/sym18081250": {
       "doi": "10.3390/sym18081250",
