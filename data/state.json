@@ -17,7 +17,8 @@
     "2026-08-01": 26,
     "2026-08-02": 18,
     "2026-08-03": 3,
-    "2026-08-04": 2
+    "2026-08-04": 2,
+    "2026-08-05": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -344,6 +345,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermal Control of Concentric Topographies Patterned by Dynamic Electro-Templated Generated Chiral Solitonic Structures"
+    },
+    "10.1002/advs.76943": {
+      "doi": "10.1002/advs.76943",
+      "posted_at": "2026-08-04T15:03:12+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785855792.413979",
+      "summary_character_count": 112,
+      "summary_japanese": "L-PhePBIはwater/DMSO組成をΔfwater=0.2変えると、凝集度を保ったままらせん性を完全反転した。MDと温度可変分光により、第一水和殻と水素結合の再編成が異なるキラル経路と熱的反転を選択することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Local Solvent Ordering Drives Supramolecular Chirality Inversion"
     },
     "10.1002/aisy.70468": {
       "doi": "10.1002/aisy.70468",
@@ -1402,6 +1416,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral Amide Chain End Directed Asymmetric Crystallization-Driven Self-Assembly of Oligo( p -phenylenevinylene) Oligomers: Influence of Structure of Amide Chain Ends †"
+    },
+    "10.1002/cjoc.70716": {
+      "doi": "10.1002/cjoc.70716",
+      "posted_at": "2026-08-04T15:03:20+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785855800.576709",
+      "summary_character_count": 127,
+      "summary_japanese": "Yttrium(III)触媒による2-fluoro-1,3-indanedionesの不斉allylationを開発し、脱対称化により四級C–F立体中心を有する3-hydroxyindanonesを高収率・高エナンチオ選択性、>20:1 drで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Yttrium( III )-Catalyzed Desymmetrization of 2-Fluoro-1,3-indanediones via Allylation towards Chiral 3-Hydroxyindanones Bearing Quaternary C-F Stereogenic Centers"
     },
     "10.1002/cphc.70451": {
       "doi": "10.1002/cphc.70451",
@@ -3201,6 +3228,19 @@
       "summary_used_fallback": false,
       "title": "Ligand relay catalysis enables asymmetric migratory dearomative annulation of N-heteroarenes"
     },
+    "10.1038/s41467-026-75813-z": {
+      "doi": "10.1038/s41467-026-75813-z",
+      "posted_at": "2026-08-04T15:03:25+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785855805.038189",
+      "summary_character_count": 128,
+      "summary_japanese": "単層NbTe2の√19×√19電荷密度波で、逆の手性をもつ原子変位2単位が再構成単位胞内で交互に配列することを実空間解析で示した。スピン偏極STMは手性秩序と相関するスピン偏極を捉え、第一原理計算は臨界値超のオンサイトCoulomb反発がその起源と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Alternating-chiral charge density waves and associated spin polarization in monolayered NbTe2"
+    },
     "10.1038/s41467-026-75838-4": {
       "doi": "10.1038/s41467-026-75838-4",
       "posted_at": "2026-07-21T09:14:59+00:00",
@@ -3278,6 +3318,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Counteranion-mediated dynamic kinetic asymmetric fluorination to access sulfur-stereogenic center"
+    },
+    "10.1038/s41467-026-76059-5": {
+      "doi": "10.1038/s41467-026-76059-5",
+      "posted_at": "2026-08-04T15:03:07+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785855787.136749",
+      "summary_character_count": 132,
+      "summary_japanese": "C2-キラルindenofluoreneモノマーのSuzuki-Miyaura重合と位置選択的ラダー化で、分子面を分化したbifacial ladder polymersを合成した。薄膜は一方向らせんに自己集合し、CDは100倍超、スピン偏極は±90%超を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bifacial ladder polymers enabled by chirality-assisted synthesis that exhibit self-assembly and chirality-induced spin selectivity"
     },
     "10.1038/s41467-026-76074-6": {
       "doi": "10.1038/s41467-026-76074-6",
@@ -3967,6 +4020,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamics of helical vortex filaments in nonviscous incompressible flows"
+    },
+    "10.2494/photopolymer.39.25": {
+      "doi": "10.2494/photopolymer.39.25",
+      "posted_at": "2026-08-04T15:03:29+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785855809.523689",
+      "summary_character_count": 122,
+      "summary_japanese": "新規キラル分子ガラスとして(S)/(R)-BFAPEおよびBFANEを設計・合成し、再沈殿試料は非晶質でTg約86°Cを示した。溶液・非晶質膜でCDを示し、DFT計算からtriarylamine部位のプロペラキラリティーに起因すると示唆された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Creation of Chiral Molecular Glasses"
     },
     "10.25259/ajc_57_2026": {
       "doi": "10.25259/ajc_57_2026",
