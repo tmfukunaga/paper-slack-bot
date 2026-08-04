@@ -18,7 +18,7 @@
     "2026-08-02": 18,
     "2026-08-03": 3,
     "2026-08-04": 2,
-    "2026-08-05": 10
+    "2026-08-05": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1339,6 +1339,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis, Physicochemical Characteristics, Self-Assembly and Encapsulation Ability of per-Ethylene-Glycol-Functionalized Resorcin[4]Arenes and Their Molecular Capsules: On the Road to Liquid Capsules"
     },
+    "10.1002/chem.71506": {
+      "doi": "10.1002/chem.71506",
+      "posted_at": "2026-08-04T21:18:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785878282.657639",
+      "summary_character_count": 123,
+      "summary_japanese": "アルキル鎖長の異なるPt(II)-salphen錯体を用い、長鎖体が芳香族溶媒で線維状organogelを形成し、鎖長とともに強度が増すことを示した。多尺度解析により、線維形成へのPt-Pt相互作用とπ-π stackingの寄与を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Scale Investigation of Supramolecular Organogels Assembled From Pt(II)-Salphen Complexes"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -1884,6 +1897,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Three-dimensional finite element analysis of static compression tests on steel helical piles in clay and sand"
+    },
+    "10.1016/j.jcat.2026.117094": {
+      "doi": "10.1016/j.jcat.2026.117094",
+      "posted_at": "2026-08-04T21:18:21+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785878301.089959",
+      "summary_character_count": 104,
+      "summary_japanese": "DFTと微視的速度論により、Pt(643)のキラルキンクでhydroxyacetoneを1,2-PDへ不斉水素化する機構を解析した。約500 K、10−2 barでテラス経路を抑え、eeは99%近くに達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective hydrogenation of hydroxyacetone on intrinsically chiral Pt(643) surfaces"
     },
     "10.1016/j.jciso.2026.100196": {
       "doi": "10.1016/j.jciso.2026.100196",
@@ -3696,6 +3722,19 @@
       "summary_used_fallback": false,
       "title": "Achieving accelerated electrochemical kinetics in lithium-sulfur batteries by regulating the asymmetry factor g of chiral catalysts"
     },
+    "10.1093/pnasnexus/pgag248": {
+      "doi": "10.1093/pnasnexus/pgag248",
+      "posted_at": "2026-08-04T21:18:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785878286.470009",
+      "summary_character_count": 126,
+      "summary_japanese": "多層積層cluster Mott絶縁体の特異表面にchiral Abelian topological orderを提案し、第一原理計算とslave-rotor平均場理論で表面状態を解析した。異常な表面分数化の検出には角度分解光電子分光測定を提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Surface chiral Abelian topological order on multilayer cluster Mott insulators"
+    },
     "10.1097/md.0000000000050002": {
       "doi": "10.1097/md.0000000000050002",
       "posted_at": "2026-08-02T00:04:50+00:00",
@@ -4657,6 +4696,19 @@
       "summary_used_fallback": false,
       "title": "Exceptional-Point-Enhanced Chiral Spoof Localized Surface Plasmon Resonator for Sub-Microliter Glucose Microwave Biosensing"
     },
+    "10.3390/buildings16153058": {
+      "doi": "10.3390/buildings16153058",
+      "posted_at": "2026-08-04T21:18:16+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785878296.879359",
+      "summary_character_count": 112,
+      "summary_japanese": "乾燥密砂中の異なる径・配置のhelical pileを大型試験で評価し、施工時の砂乱れは側方支持力を低下、helix径増大は引抜き支持力を向上させた。双方向繰返し側方載荷後もhelical pileの側方支持力は維持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Large-Scale Experimental Investigation of the Performance of Helical Piles Under Cyclic Lateral Loading in Dense Sand"
+    },
     "10.3390/computation14080166": {
       "doi": "10.3390/computation14080166",
       "posted_at": "2026-07-26T09:02:22+00:00",
@@ -4734,6 +4786,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Triphenylamine-Based Supramolecular Coordination Metallacycles"
+    },
+    "10.3390/molecules31152689": {
+      "doi": "10.3390/molecules31152689",
+      "posted_at": "2026-08-04T21:18:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785878292.818849",
+      "summary_character_count": 120,
+      "summary_japanese": "β-dicarbonyl化合物とenamineの環化縮合で、キラルpyrimidineアミノ酸誘導体を合成した。β-enamino keto ester由来体は90.2–100% eeを保持した一方、強塩基・高温条件では完全にラセミ化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Characterization of New Functionalized Pyrimidine (Hetero)Cyclic Molecular Hybrids as Chiral Heterocyclic Amino Acid Derivatives"
     },
     "10.3390/photonics13080710": {
       "doi": "10.3390/photonics13080710",
