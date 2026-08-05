@@ -19,7 +19,7 @@
     "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
-    "2026-08-06": 5
+    "2026-08-06": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1743,6 +1743,19 @@
       "summary_used_fallback": false,
       "title": "Boosting Drug Permeability Across the Blood-Brain Barrier Through Supramolecular Macrocyclization"
     },
+    "10.1002/smll.75000": {
+      "doi": "10.1002/smll.75000",
+      "posted_at": "2026-08-05T18:03:54+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785953034.006729",
+      "summary_character_count": 125,
+      "summary_japanese": "両親媒性calix[4]arene QC4A-8Cは、luminol包接によるpKa変化で生理近傍pHの持続発光を実現し、蛍光受容体との逐次CRETで650–700 nmへ長波長化した。腹膜炎モデルでfree luminolより強いシグナルを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Compartmentalized Amplification and Spectral Engineering of Luminol Chemiluminescence via Host-Guest Cavity Binding and Amphiphilic Self-Assembly"
+    },
     "10.1007/s10483-026-3420-6": {
       "doi": "10.1007/s10483-026-3420-6",
       "posted_at": "2026-08-01T00:15:39+00:00",
@@ -2138,6 +2151,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Networks Assembled from Hexalanthanide Polyoxometalate Sandwich Building Units Showing Solid-State Temperature-Dependent Photoluminescence"
+    },
+    "10.1021/acs.inorgchem.6c02545": {
+      "doi": "10.1021/acs.inorgchem.6c02545",
+      "posted_at": "2026-08-05T18:03:58+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785953038.554239",
+      "summary_character_count": 126,
+      "summary_japanese": "二核Al三重らせん錯体をN-bromosuccinimideで事後臭素化し、らせん構造を保持したmono体とoctadecabromo体を選択的に得た。臭素化度の増加で吸収・発光は赤方移動し、octadecabromo体は約5倍の三重項ESAを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "PostsyntheticBromination of a Dinuclear AluminumHelicate and Its Chiroptical Properties"
     },
     "10.1021/acs.inorgchem.6c02821": {
       "doi": "10.1021/acs.inorgchem.6c02821",
@@ -2644,6 +2670,19 @@
       "summary_used_fallback": false,
       "title": "Stereodynamism in Pentacoordinate Al(Salen) Catalysts"
     },
+    "10.1021/jacs.6c04854": {
+      "doi": "10.1021/jacs.6c04854",
+      "posted_at": "2026-08-05T18:04:07+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785953047.328129",
+      "summary_character_count": 130,
+      "summary_japanese": "Au–Ni表面にキラルNHCである(S,S)-および(R,R)-SINpEt薄膜を作製し、最大60%の電子スピン偏極を示すスピンフィルターとして初めて利用した。薄膜はpH 13で50サイクルの電気化学的安定性を示し、ORRへのスピン偏極電子の利用を可能にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral N-HeterocyclicCarbene On-Surface InducedElectronic Spin Filtration"
+    },
     "10.1021/jacs.6c05337": {
       "doi": "10.1021/jacs.6c05337",
       "posted_at": "2026-07-20T04:37:26+00:00",
@@ -2825,6 +2864,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Theoretical Assessmentof Magneto-Chiral Dichroismin a Chiral Ytterbium(III) Complex"
+    },
+    "10.1021/jacs.6c08837": {
+      "doi": "10.1021/jacs.6c08837",
+      "posted_at": "2026-08-05T18:03:49+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785953029.465259",
+      "summary_character_count": 97,
+      "summary_japanese": "溶媒嫌い効果による基質結合を利用する大環状超分子マンガン触媒を設計し、多様なアルカンや官能基含有基質のC4位C–H酸化を選択的に達成した。非官能基化アルカンでも中程度のエナンチオ選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvophobic Effect-DrivenC4-Selective C-HOxidation of Diverse Alkyl Substrates by a Macrocyclic SupramolecularCatalyst"
     },
     "10.1021/jacs.6c09335": {
       "doi": "10.1021/jacs.6c09335",
@@ -5021,6 +5073,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Novel Chiroptical Spectroscopy Technique"
+    },
+    "10.5445/ir/1000195948": {
+      "doi": "10.5445/ir/1000195948",
+      "posted_at": "2026-08-05T18:04:14+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785953054.464029",
+      "summary_character_count": 89,
+      "summary_japanese": "HSIによる単一SWCNT計数とECD・ROAを組み合わせ、標準試料なしでエナンチオマー過剰率を絶対定量した。最も均一な分離試料からECD・ROA強度の普遍的較正曲線を確立した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Absolute quantification of enantiomeric purity of sorted carbon nanotubes by correlating hyperspectral fluorescence microscopy with ensemble chiroptical spectroscopy"
     },
     "10.64898/2026.07.24.740591": {
       "doi": "10.64898/2026.07.24.740591",
