@@ -18,7 +18,8 @@
     "2026-08-02": 18,
     "2026-08-03": 3,
     "2026-08-04": 2,
-    "2026-08-05": 16
+    "2026-08-05": 16,
+    "2026-08-06": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2254,6 +2255,19 @@
       "summary_used_fallback": false,
       "title": "Molecular Dynamics Simulation of Sorbitol-Based Surfactants with Different Chiral Configurations at the Gas/Liquid Interface"
     },
+    "10.1021/acs.langmuir.6c02922": {
+      "doi": "10.1021/acs.langmuir.6c02922",
+      "posted_at": "2026-08-05T16:13:05+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785946385.582079",
+      "summary_character_count": 123,
+      "summary_japanese": "AFM、CD、FFMD、DFTBでenantiopure [7]-heliceneのZnO上集合を解析し、最表面原子種が吸着を支配すると示した。O終端・非極性面では約4 nmの均一nanoislandsが形成され、Zn終端面では吸着が抑制された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Oxygen-ControlledAssembly of Chiral [7]-Heliceneon ZnO Surfaces"
+    },
     "10.1021/acs.langmuir.6c03074": {
       "doi": "10.1021/acs.langmuir.6c03074",
       "posted_at": "2026-07-17T17:07:24+00:00",
@@ -2376,6 +2390,19 @@
       "posted_at": "2026-07-18T07:02:48+00:00",
       "recovered_from_run": 29635004972,
       "score": 27
+    },
+    "10.1021/acs.orglett.6c02884": {
+      "doi": "10.1021/acs.orglett.6c02884",
+      "posted_at": "2026-08-05T16:12:59+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785946379.524039",
+      "summary_character_count": 126,
+      "summary_japanese": "Co/Salox触媒による不斉C–H活性化・スピロ環化で、N–N軸性とスピロ中心の二重キラリティーを持つγ-lactamを合成した。prochiral maleimideの脱対称化により、最大95% ee、>20:1 dr、34–62%収率を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "EnantioselectiveSynthesis of Spirocyclic γ-LactamsFeaturing Dual Central and N-N Axial Chirality via Cobalt-CatalyzedStereochemical Induction"
     },
     "10.1021/acs.orglett.6c02925": {
       "doi": "10.1021/acs.orglett.6c02925",
@@ -2786,6 +2813,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Quantum-Cutting"
     },
+    "10.1021/jacs.6c08513": {
+      "doi": "10.1021/jacs.6c08513",
+      "posted_at": "2026-08-05T16:13:13+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785946393.411289",
+      "summary_character_count": 120,
+      "summary_japanese": "[Yb(hfac)3(P-H6bpy)]のMChDをCASSCF/CASPT2/RASSI-SOとBV理論で初めてab initio解析し、4 Kでは基底状態の磁場分裂に伴うC項が支配的で、遷移エネルギーとバンド符号は実験と良好に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Theoretical Assessmentof Magneto-Chiral Dichroismin a Chiral Ytterbium(III) Complex"
+    },
     "10.1021/jacs.6c09335": {
       "doi": "10.1021/jacs.6c09335",
       "posted_at": "2026-07-23T21:05:33+00:00",
@@ -2993,6 +3033,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Droplet-Enhanced Asymmetric Catalysis: Squaramide-Derived Pseudopeptide for Enantioselective Addition Reactions"
+    },
+    "10.1021/jacs.6c11636": {
+      "doi": "10.1021/jacs.6c11636",
+      "posted_at": "2026-08-05T16:12:54+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785946374.828729",
+      "summary_character_count": 121,
+      "summary_japanese": "(R)/(S)-(C4H9FN)2CuCl4で、キラル3-fluoropyrrolidiniumがほぼ中心対称なCu–Cl層にキラル磁気秩序を誘起した。TN=2.23 Kの反強磁性転移と二次磁気電気効果を示し、ラセミ体では後者を示さなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality Transferto the Magnetic Sublattice in theHybrid Perovskite (R)-/(S)-3-Fluoropyrrolidinium Copper(II) Chloride"
     },
     "10.1021/jacs.6c12367": {
       "doi": "10.1021/jacs.6c12367",
@@ -4604,6 +4657,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Protonatable Chiral Dopant Strategy for HCl Sensing via Selective Reflection Modulation in Cholesteric Liquid Crystal"
+    },
+    "10.26599/pom.2026.9140153": {
+      "doi": "10.26599/pom.2026.9140153",
+      "posted_at": "2026-08-05T16:13:09+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785946389.442639",
+      "summary_character_count": 114,
+      "summary_japanese": "Pym-5-CAの配位様式と[Mo2O2S2]2+の集積を調整し、無機環およびホスト–ゲストPOTMを構築した。Mo10@Pym-5-CAは70 °C・90% RHで8.76 × 10−3 S·cm−1のプロトン伝導度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Construction of inorganic macrocyclic host-guest architectures with high proton conductivity via coordination mode tuning"
     },
     "10.31224/7727": {
       "doi": "10.31224/7727",
