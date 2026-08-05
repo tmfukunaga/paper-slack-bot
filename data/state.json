@@ -18,7 +18,7 @@
     "2026-08-02": 18,
     "2026-08-03": 3,
     "2026-08-04": 2,
-    "2026-08-05": 15
+    "2026-08-05": 16
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1819,6 +1819,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A novel approach for estimation of bending stiffness of helical strand assemblies and experimental validation"
+    },
+    "10.1016/j.aca.2026.346060": {
+      "doi": "10.1016/j.aca.2026.346060",
+      "posted_at": "2026-08-05T00:17:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785889066.901029",
+      "summary_character_count": 111,
+      "summary_japanese": "白ワイン中107種のキラル・アキラル農薬を対象に、γ-cyclodextrinカラムを用いる低圧GC–三連四重極MS法を開発した。市販ワイン10試料で7種の汚染物質を検出し、1種のエナンチオマーは最大残留基準値を超過した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "ENANTIOSELECTIVE LOW-PRESSURE GAS CHROMATOGRAPHY COMBINED WITH TRIPLE QUADRUPOLE MASS SPECTROMETRY FOR THE ANALYSIS OF 107 CHIRAL AND ACHIRAL PESTICIDE RESIDUES IN WINE"
     },
     "10.1016/j.afres.2026.102418": {
       "doi": "10.1016/j.afres.2026.102418",
