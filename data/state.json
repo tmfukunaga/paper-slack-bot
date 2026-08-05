@@ -19,7 +19,7 @@
     "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
-    "2026-08-06": 10
+    "2026-08-06": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -359,6 +359,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Local Solvent Ordering Drives Supramolecular Chirality Inversion"
+    },
+    "10.1002/agt2.70411": {
+      "doi": "10.1002/agt2.70411",
+      "posted_at": "2026-08-05T21:16:06+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785964566.398139",
+      "summary_character_count": 120,
+      "summary_japanese": "配座柔軟なhelico BODIPY二量体を設計し、溶液成膜でキラル励起子結合を保持した光学活性等方性薄膜を再現性よく作製した。構造調整により溶液のECD・円偏光発光を増強し、薄膜でも溶液に近い鋭いECDカップレットと吸収異方性値を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helically Flexible Boron-Dipyrromethenes for Solution-Processed Isotropic Films With Preserved Chiral Exciton Coupling"
     },
     "10.1002/aisy.70468": {
       "doi": "10.1002/aisy.70468",
@@ -2061,6 +2074,19 @@
       "summary_used_fallback": false,
       "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
     },
+    "10.1021/acs.cgd.6c00617": {
+      "doi": "10.1021/acs.cgd.6c00617",
+      "posted_at": "2026-08-05T21:16:01+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785964561.424899",
+      "summary_character_count": 125,
+      "summary_japanese": "Fe(III)-nucleoside monophosphate-TPA三元錯体を疎水性アンブレラとして設計し、結晶構造解析、CD、計算により、5′配位ヌクレオチドがA-motif・i-motifへ協同的に自己集合する機構と局所水和層の役割を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hydrophobic Effectin Self-Assembly of Metal-BoundNucleotides: A Structural Study of Iron-Nucleotide Ternary Complexes"
+    },
     "10.1021/acs.cgd.6c00771": {
       "doi": "10.1021/acs.cgd.6c00771",
       "posted_at": "2026-07-23T18:06:12+00:00",
@@ -2306,6 +2332,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Solvent-Assembled Chiral Molecular Aggregates for Dual Energy and Chirality Transfer: Boosting the Circularly Polarized Luminescence"
+    },
+    "10.1021/acs.macromol.6c00949": {
+      "doi": "10.1021/acs.macromol.6c00949",
+      "posted_at": "2026-08-05T21:16:20+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785964580.332899",
+      "summary_character_count": 115,
+      "summary_japanese": "pillarareneを組み込んだ[2]catenaneを構築し、Li+配位で収縮、12-crown-4によるLi+除去で弛緩する可逆的分子スプリングを実現した。系はLi+に高選択的で、CTおよびPETによりNDI•−も生成する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Lithium IonResponsive [2]Catenane Molecular Spring"
     },
     "10.1021/acs.nanolett.6c00913": {
       "doi": "10.1021/acs.nanolett.6c00913",
@@ -2572,6 +2611,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Palladium-Catalyzed Enantioselective Cyclopropanation of Unactivated Alkenes with Sulfoxonium Ylides Using a Chiral Monodentate Oxazoline Ligand"
+    },
+    "10.1021/acsnano.6c05585": {
+      "doi": "10.1021/acsnano.6c05585",
+      "posted_at": "2026-08-05T21:16:10+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785964570.531589",
+      "summary_character_count": 102,
+      "summary_japanese": "GO膜の層間を化学変換で固定し、macrocycle cavityで局所輸送環境を再編するslit-cavity構造を設計した。最適なcavityはNa2SO4を約99.8%、NaClを約95%阻止した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aperture-in-InterlayerEngineering of 2D GrapheneOxide Nanochannels via Structural Locking and Macrocyclic Cavity Reorganization"
     },
     "10.1021/acsnano.6c06602": {
       "doi": "10.1021/acsnano.6c06602",
@@ -3124,6 +3176,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "From Metal-Organic Helices to Zeolite-like Supramolecular Assemblies"
+    },
+    "10.1021/jacsau.6c00661": {
+      "doi": "10.1021/jacsau.6c00661",
+      "posted_at": "2026-08-05T21:16:15+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785964575.774989",
+      "summary_character_count": 115,
+      "summary_japanese": "超原子価ヨウ素の動的交換能と化学センシングを組み合わせ、キラルカルボン酸を識別する金属フリーの19F標識NMRプローブを開発した。競合官能基に高い耐性を示し、複雑試料中のエナンチオマー識別、ee評価、触媒反応選択性の解析に用いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Repurposing HypervalentIodine: From Synthetic Reagentsto Dynamic 19F NMR Probes for Chiral Discrimination"
     },
     "10.1021/jacsau.6c00720": {
       "doi": "10.1021/jacsau.6c00720",
