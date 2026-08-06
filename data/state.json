@@ -19,7 +19,7 @@
     "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
-    "2026-08-06": 25
+    "2026-08-06": 30
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2534,6 +2534,32 @@
       "summary_used_fallback": false,
       "title": "Tandem Oxidative Nucleophilic Hydrogen Substitution/B-O Cyclization Enables Chiral Near-Infrared N,O,B-Chelated BODIPYs"
     },
+    "10.1021/acs.orglett.6c03028": {
+      "doi": "10.1021/acs.orglett.6c03028",
+      "posted_at": "2026-08-06T06:16:01+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785996960.997659",
+      "summary_character_count": 122,
+      "summary_japanese": "NHC触媒による動的速度論的分割を用い、N-sulfonamide aminoaldehydesの選択的酸化的エステル化でC–N軸不斉N-arylindole amino estersを合成し、3 mol%で高収率・高エナンチオ選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "OrganocatalyticEnantioselective Synthesis of C-NAxially Chiral N -Arylindole Amino Esters viaOxidative Esterification with Dynamic Kinetic Resolution"
+    },
+    "10.1021/acs.orglett.6c03062": {
+      "doi": "10.1021/acs.orglett.6c03062",
+      "posted_at": "2026-08-06T06:16:08+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785996968.415259",
+      "summary_character_count": 321,
+      "summary_japanese": "A photoinduced enantioselective 1,4-radical hydroalkylation of 2-acyl 1,3-enynes with inert C(sp3)-H compounds was achieved using synergistic quinone-based hydrogen atom transfer photocatalysis and a chiral N,N′-dioxide/Sc(III) complex. The method furnished chiral allenes in high yields and with high enantioselectivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Hydrogen Atom Transfer-Triggered EnantioselectiveHydroalkylation of 1,3-Enynes to Chiral Allenes"
+    },
     "10.1021/acsami.6c10251": {
       "doi": "10.1021/acsami.6c10251",
       "posted_at": "2026-07-26T00:12:55+00:00",
@@ -2559,6 +2585,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Precise Control over the Number of Pyrrolidine Catalytic Centers in Chiral COFs for Boosted Asymmetric Catalysis"
+    },
+    "10.1021/acsanm.6c00732": {
+      "doi": "10.1021/acsanm.6c00732",
+      "posted_at": "2026-08-06T06:16:21+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785996981.750269",
+      "summary_character_count": 104,
+      "summary_japanese": "PS-b-PMMAのナノインプリント支援自己組織化と円偏光下光析出により、誘導キラルAuナノ粒子配列を含む偽造防止ラベルを作製した。方向性、プラズモン応答、キロプティカル特性を統合し、三モード識別を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Channel Anti-CounterfeitingLabels via GuidedChiral Au Nanoparticle Arrays Derived from Self-Assembled Block Copolymers"
     },
     "10.1021/acsanm.6c01429": {
       "doi": "10.1021/acsanm.6c01429",
@@ -3228,6 +3267,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controlled Synthesis of Chiral β-Chloramines and Aziridines via an Organo- and Biocatalytic Cascade"
+    },
+    "10.1021/jacs.6c11488": {
+      "doi": "10.1021/jacs.6c11488",
+      "posted_at": "2026-08-06T06:16:12+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785996972.411119",
+      "summary_character_count": 116,
+      "summary_japanese": "cucurbituril系MOF CUST-Fe/Co/Niを設計し、1次元サブナノメートルチャネルの水素結合相乗作用を検証した。CUST-Niは60 °C、97% RHで8.8 × 10−3 S cm−1のプロトン伝導度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exceptionally HighProton Conductivity in Cucurbituril-BasedMetal-Organic Frameworks with Subnanometer Scale Channels"
     },
     "10.1021/jacs.6c11520": {
       "doi": "10.1021/jacs.6c11520",
@@ -5073,6 +5125,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Behavior and Racemization of Salen-Type Ligands and Their Iron Complexes: An X-Ray Crystal Structure Study"
+    },
+    "10.3390/gels12080693": {
+      "doi": "10.3390/gels12080693",
+      "posted_at": "2026-08-06T06:16:16+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785996976.872039",
+      "summary_character_count": 109,
+      "summary_japanese": "hydrazone形成媒介型超分子ゲル化系でHofmeister系列アニオンの影響を系統的に解析し、コスモトロピックアニオンは自己集合を加速して高密度繊維網と高剛性を与える一方、カオトロピックアニオンはこれを阻害した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Control over the Self-Assembly of Supramolecular Hydrogels Using Hofmeister Effect"
     },
     "10.3390/molecules31142526": {
       "doi": "10.3390/molecules31142526",
