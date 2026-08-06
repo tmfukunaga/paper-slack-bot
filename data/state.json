@@ -19,7 +19,7 @@
     "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
-    "2026-08-06": 15
+    "2026-08-06": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2437,6 +2437,19 @@
       "summary_used_fallback": false,
       "title": "Carbene-Catalyzed Desymmetric Amidation Enables Modular Access to Planar Chiral Thioureas and Imides"
     },
+    "10.1021/acs.orglett.6c02405": {
+      "doi": "10.1021/acs.orglett.6c02405",
+      "posted_at": "2026-08-06T00:18:08+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785975488.174829",
+      "summary_character_count": 120,
+      "summary_japanese": "contorted hexabenzocoronene 2単位を直線縮合した非平面nanographene L8・L9を合成し、単結晶X線解析で長さ1.95・2.18 nmの階段状に湾曲したoctacene・nonacene骨格を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ladder Acenes:Staircase-Bending Nanographenes"
+    },
     "10.1021/acs.orglett.6c02479": {
       "doi": "10.1021/acs.orglett.6c02479",
       "posted_at": "2026-07-25T18:11:12+00:00",
@@ -2520,6 +2533,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Piezoelectric Inorganic and Inorganic Hybrid Nanomaterials for Flexible Electronics and Optoelectronic Applications"
+    },
+    "10.1021/acsanm.6c01439": {
+      "doi": "10.1021/acsanm.6c01439",
+      "posted_at": "2026-08-06T00:18:14+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785975494.217899",
+      "summary_character_count": 126,
+      "summary_japanese": "金属ナノ構造の周期配列からなるchiral plasmonic superlatticesについて、格子対称性の破れによるchiroptical応答増強、top-down・bottom-up・統合法と、キラル分子検出・円偏光制御などへの応用を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral PlasmonicSuperlattices: Principle, Progress,and Applications"
     },
     "10.1021/acsanm.6c01446": {
       "doi": "10.1021/acsanm.6c01446",
@@ -2656,6 +2682,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "In Situ Growth of Copper Phenylacetylide Nanobelts on Copper Foil for Enhanced Electroreduction of CO 2 to Multi-Carbon Products"
+    },
+    "10.1021/acspolymersau.6c00119": {
+      "doi": "10.1021/acspolymersau.6c00119",
+      "posted_at": "2026-08-06T00:18:23+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785975503.956579",
+      "summary_character_count": 96,
+      "summary_japanese": "Azo-Upyを導入したヘリカルPICをNi触媒重合で合成し、UV/青色光によるE/Z異性化で四重水素結合を可逆制御した。濃度・溶媒に応じて鎖内収縮と鎖間架橋を切替え、らせん構造は保持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "PhotoresponsiveReversible Assembly of Helical Poly(isocyanide)s"
     },
     "10.1021/cbe.6c00062": {
       "doi": "10.1021/cbe.6c00062",
@@ -2969,6 +3008,19 @@
       "summary_used_fallback": false,
       "title": "Light-Induced Selective Control of Excitonic States in Supramolecular Nanotubes"
     },
+    "10.1021/jacs.6c09683": {
+      "doi": "10.1021/jacs.6c09683",
+      "posted_at": "2026-08-06T00:18:27+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785975507.958769",
+      "summary_character_count": 132,
+      "summary_japanese": "acridine光触媒とCo触媒を組み合わせ、N-sulfinylphthalimidesからS–N結合開裂で生じるsulfinyl radicalを用い、carboxylic acidsを脱炭酸的に高エナンチオ選択的chiral sulfoxidesへ変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric RadicalSulfinylation via StereoablativeSulfinyl Radical Generation"
+    },
     "10.1021/jacs.6c09744": {
       "doi": "10.1021/jacs.6c09744",
       "posted_at": "2026-07-19T12:17:50+00:00",
@@ -3150,6 +3202,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality Transferto the Magnetic Sublattice in theHybrid Perovskite (R)-/(S)-3-Fluoropyrrolidinium Copper(II) Chloride"
+    },
+    "10.1021/jacs.6c12029": {
+      "doi": "10.1021/jacs.6c12029",
+      "posted_at": "2026-08-06T00:18:19+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1785975499.805709",
+      "summary_character_count": 339,
+      "summary_japanese": "A new class of atropisomeric aryl-hydrazones was constructed by stereospecific hydrazine addition to axially chiral vinyl quinone methides generated in situ from aryl-alkynes under chiral Brønsted acid catalysis. The reaction afforded Z-configured atropisomers with high Z/E and enantioselectivity and broad functional-group compatibility.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "AtropisomericAryl-Hydrazone Frameworks: Discoveryand Organocatalytic Enantioselective Construction"
     },
     "10.1021/jacs.6c12367": {
       "doi": "10.1021/jacs.6c12367",
