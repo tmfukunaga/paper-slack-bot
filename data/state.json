@@ -19,7 +19,7 @@
     "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
-    "2026-08-06": 35
+    "2026-08-06": 40
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1444,6 +1444,19 @@
       "summary_used_fallback": false,
       "title": "Absolute Configuration Assignment From a Single Reflection Using Resonant X-Ray Diffraction"
     },
+    "10.1002/chir.70130": {
+      "doi": "10.1002/chir.70130",
+      "posted_at": "2026-08-06T12:18:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786018685.100779",
+      "summary_character_count": 114,
+      "summary_japanese": "(S)-(+)-2-Phenylglycinolを導入したtetraazacalix-triazine誘導体を合成し、不斉直接アルドール反応を評価した。最適条件で収率92%、enantioselectivity 95%に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Tetraazacalix-Triazine Derivatives as Organocatalysts for Asymmetric Direct Aldol Reactions: Synthesis and Enantioselective Evaluation"
+    },
     "10.1002/chir.70131": {
       "doi": "10.1002/chir.70131",
       "posted_at": "2026-08-01T12:01:24+00:00",
@@ -2048,6 +2061,19 @@
       "summary_used_fallback": false,
       "title": "Ligand-conformation-directed assembly of a helical zinc-pyrazolate framework for C6 alkane separation"
     },
+    "10.1016/j.mtcomm.2026.115849": {
+      "doi": "10.1016/j.mtcomm.2026.115849",
+      "posted_at": "2026-08-06T12:17:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786018678.442339",
+      "summary_character_count": 298,
+      "summary_japanese": "An auxetic sandwich structure combining a Sierpiński fractal curve with circular chiral units was analyzed using ABAQUS/Explicit. It showed a two-stage deformation mechanism and dual-plateau compressive response. The minimum Poisson’s ratio was −0.749, and total energy absorption reached 1508.3 J.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Dynamic Mechanical Response of a Fractal-Derived Chiral Auxetic Structure"
+    },
     "10.1016/j.nanoen.2026.112256": {
       "doi": "10.1016/j.nanoen.2026.112256",
       "posted_at": "2026-08-01T18:03:42+00:00",
@@ -2216,6 +2242,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hierarchical Self-Assembly, Nanoarchitectonics, and Emerging Functionalities of Chiral pi-Amphiphiles"
+    },
+    "10.1021/acs.chemrev.6c00360": {
+      "doi": "10.1021/acs.chemrev.6c00360",
+      "posted_at": "2026-08-06T12:18:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786018705.157849",
+      "summary_character_count": 85,
+      "summary_japanese": "機能化マクロ環および中員環の合成を目的に、より入手容易な小環から2段階以上の環拡大を逐次行う戦略を総説し、非効率な末端間環化を回避する有効かつスケーラブルな合成法を扱う。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Successive RingExpansion Strategies for the Synthesisof Macrocycles and Medium-Sized Rings"
     },
     "10.1021/acs.iecr.6c00723": {
       "doi": "10.1021/acs.iecr.6c00723",
@@ -2768,6 +2807,19 @@
       "summary_used_fallback": false,
       "title": "Palladium-Catalyzed Enantioselective Cyclopropanation of Unactivated Alkenes with Sulfoxonium Ylides Using a Chiral Monodentate Oxazoline Ligand"
     },
+    "10.1021/acscatal.6c04411": {
+      "doi": "10.1021/acscatal.6c04411",
+      "posted_at": "2026-08-06T12:17:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786018671.246179",
+      "summary_character_count": 97,
+      "summary_japanese": "Ni触媒により末端アルキンとヘテロビアリール求電子剤を逐次ホウ素化・trans付加するワンポット三官能基化を開発し、軸不斉B–N含有七員環架橋ビアリールを最大98%収率、98% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nickel-Catalyzed Enantioselective Construction of Axially Chiral B-N Embedded Seven-Membered Bridged Biaryls via Trifunctionalization of Terminal Alkynes"
+    },
     "10.1021/acsnano.6c05585": {
       "doi": "10.1021/acsnano.6c05585",
       "posted_at": "2026-08-05T21:16:10+00:00",
@@ -3085,6 +3137,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Quantum-Cutting"
+    },
+    "10.1021/jacs.6c08244": {
+      "doi": "10.1021/jacs.6c08244",
+      "posted_at": "2026-08-06T12:18:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786018698.981749",
+      "summary_character_count": 319,
+      "summary_japanese": "A cobalt-catalyzed enantioselective borylcyclopropanation of simple alkenes, enabled by a pi-extended redox-active ligand, furnished cis-cyclopropylboronates typically with >99% ee and >20/1 dr. The C–B bond served as a stereoretentive handle for stereospecific conversion into diverse functionalized cis-cyclopropanes.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "pi-ExtendedRedox-Active Ligand-PromotedCobalt-Catalyzed Diastereo- and Enantioselective Borylcyclopropanationof Alkenes"
     },
     "10.1021/jacs.6c08513": {
       "doi": "10.1021/jacs.6c08513",
