@@ -19,7 +19,8 @@
     "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
-    "2026-08-06": 40
+    "2026-08-06": 40,
+    "2026-08-07": 2
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2164,6 +2165,32 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Design Strategies for Developing Chiral Macrocyclic Chelators as a Diagnostic Tool"
+    },
+    "10.1021/acs.accounts.6c00354": {
+      "doi": "10.1021/acs.accounts.6c00354",
+      "posted_at": "2026-08-06T15:03:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786028628.073129",
+      "summary_character_count": 120,
+      "summary_japanese": "BINOL由来selenide／SPINOL由来sulfide触媒でアレーンの不斉求電子的C–H sulfenylationを開発し、多様なキラル有機硫黄化合物を合成した。NMR・DFT解析は水素結合とπ–π相互作用による立体制御を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "OrganocatalyticEnantioselective Electrophilic C-HSulfenylation of Arenes"
+    },
+    "10.1021/acs.analchem.6c02841": {
+      "doi": "10.1021/acs.analchem.6c02841",
+      "posted_at": "2026-08-06T15:03:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786028632.447179",
+      "summary_character_count": 104,
+      "summary_japanese": "cysteine誘導L-CuO/D-CuOを用い、luminol-H2O2化学発光でAla鏡像異性体を6分以内に識別した。触媒活性は非キラルCuOの約20倍で、CISS効果によるH2O2活性化増強が示された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral SurfaceEngineering-Boosted CatalyticActivity of CuO Nanomaterials on Luminol-H2O2 Chemiluminescence for Facile Discrimination of Alanine Enantiomers"
     },
     "10.1021/acs.cgd.6c00617": {
       "doi": "10.1021/acs.cgd.6c00617",
