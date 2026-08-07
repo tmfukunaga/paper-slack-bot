@@ -20,7 +20,8 @@
     "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
-    "2026-08-07": 27
+    "2026-08-07": 27,
+    "2026-08-08": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -997,6 +998,19 @@
       "summary_used_fallback": false,
       "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
     },
+    "10.1002/anie.3694976": {
+      "doi": "10.1002/anie.3694976",
+      "posted_at": "2026-08-07T15:11:49+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786115509.161689",
+      "summary_character_count": 119,
+      "summary_japanese": "Cu6S6/Cu8S6クラスターMOFの異なる細孔にR4N+界面活性剤と対イオンを選択包接し、界面を改質した。長鎖アルキル基は内孔を占有してプロトン還元を抑えCO2還元を促進し、CO/H2比0.01～4.31のsyngas組成を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modifying Surfactants Within Divergent Pores of Cluster-Based Metal-Organic Frameworks for Syngas Electrosynthesis"
+    },
     "10.1002/anie.3713814": {
       "doi": "10.1002/anie.3713814",
       "posted_at": "2026-08-01T06:04:27+00:00",
@@ -1366,6 +1380,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Corannulene-Driven Curvature Engineering Enhances Fullerene Encapsulation in a Carbon Nanohoop"
+    },
+    "10.1002/anie.8769084": {
+      "doi": "10.1002/anie.8769084",
+      "posted_at": "2026-08-07T15:11:43+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786115503.341049",
+      "summary_character_count": 92,
+      "summary_japanese": "ドナー・アクセプター共役大環状光触媒をミセル内でJ会合化し、808 nm光下でNADH酸化とNO放出を連動させた。低酸素下でも触媒サイクルを維持し、腫瘍増殖をin vivoで抑制した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "J-Aggregated Macrocyclic Photocatalysts Enable Nitric Oxide (NO)-Enhanced Near-Infrared Photocatalytic Tumor Therapy"
     },
     "10.1002/anie.8909722": {
       "doi": "10.1002/anie.8909722",
@@ -3068,6 +3095,19 @@
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Enantioselective Construction of Axially Chiral B-N Embedded Seven-Membered Bridged Biaryls via Trifunctionalization of Terminal Alkynes"
     },
+    "10.1021/acscatal.6c05124": {
+      "doi": "10.1021/acscatal.6c05124",
+      "posted_at": "2026-08-07T15:12:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786115524.599189",
+      "summary_character_count": 355,
+      "summary_japanese": "A semi-rationally engineered ω-transaminase from Arthrobacter sp. KNK168, ArTA-M2 (G136M/S223P), enabled direct asymmetric amination of 2,6-disubstituted spiro[3.3]heptanones under mild aqueous conditions. The biocatalyst produced axially chiral spiro amines across a broad substrate range with conversions up to 91% and enantioselectivities up to 99% ee.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Reprogramming ω -Transaminase for Enantioselective Assembly of Axially Chiral Spiro[3.3]heptane Building Blocks"
+    },
     "10.1021/acsnano.6c05585": {
       "doi": "10.1021/acsnano.6c05585",
       "posted_at": "2026-08-05T21:16:10+00:00",
@@ -3671,6 +3711,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controlled Synthesis of Chiral β-Chloramines and Aziridines via an Organo- and Biocatalytic Cascade"
+    },
+    "10.1021/jacs.6c11377": {
+      "doi": "10.1021/jacs.6c11377",
+      "posted_at": "2026-08-07T15:12:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786115531.890429",
+      "summary_character_count": 119,
+      "summary_japanese": "air-stable Ni(II)塩と嵩高い(R)-TCYPにより、β-methylene C(sp3)-Hの初の不斉alkynylationを実現し、methyl基共存下でも選択的に活性化して最高98%収率、99% eeで生成物を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Overriding IntrinsicSite-Selectivity in Nickel(II)-CatalyzedEnantioselective Methylene C(sp3)-H Alkynylation"
     },
     "10.1021/jacs.6c11488": {
       "doi": "10.1021/jacs.6c11488",
@@ -4841,6 +4894,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Physical modelling of cyclically thermally-activated helical piles under tensile loading"
+    },
+    "10.17615/m9w8-8474": {
+      "doi": "10.17615/m9w8-8474",
+      "posted_at": "2026-08-07T15:11:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786115516.715419",
+      "summary_character_count": 122,
+      "summary_japanese": "D1R PAMのBMS Compound Aの4立体異性体を、キラルketalのジアステレオ選択的cyclopropanationで合成・評価した。D1R PAM活性はsyn/antiで最も異なり、全異性体がD2R agonist活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and systematic evaluation of four stereoisomers of BMS compound A enabled by a diastereoselective cyclopropanation on a chiral ketal intermediate"
     },
     "10.20944/preprints202607.1344.v1": {
       "doi": "10.20944/preprints202607.1344.v1",
