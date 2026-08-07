@@ -20,7 +20,7 @@
     "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
-    "2026-08-07": 12
+    "2026-08-07": 17
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -464,6 +464,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Mechanical Planar Chiral Rotaxane Induces Single-Handed Helicity in a Twisted Perylene Diimide"
+    },
+    "10.1002/ange.1974825": {
+      "doi": "10.1002/ange.1974825",
+      "posted_at": "2026-08-07T06:03:41+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786082621.002149",
+      "summary_character_count": 119,
+      "summary_japanese": "P-chiral monophosphine配位Pd触媒による不斉分子内C–Hアリール化で、骨格由来キラリティーを持つbowl-shaped tribenzo[b,d,f]azepinesを合成し、最大95%収率、97% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Bowl-Shaped N -Heterocycles via Pd-Catalyzed Enantioselective Intramolecular C-H Arylation"
     },
     "10.1002/ange.202524631": {
       "doi": "10.1002/ange.202524631",
@@ -2140,6 +2153,19 @@
       "summary_used_fallback": false,
       "title": "Ligand-conformation-directed assembly of a helical zinc-pyrazolate framework for C6 alkane separation"
     },
+    "10.1016/j.molstruc.2026.147270": {
+      "doi": "10.1016/j.molstruc.2026.147270",
+      "posted_at": "2026-08-07T06:03:34+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786082614.810089",
+      "summary_character_count": 119,
+      "summary_japanese": "4種の1,2-二置換平面キラルferroceneを合成し、XRD、分光法、CV、ECDとTD-DFT、QTAIM/RDG解析で評価した。実験・理論結果は良好に一致し、振動・電子遷移、絶対配置、キロプチカルおよび電気化学特性を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral planar 1,2-disubstituted ferrocenes: synthesis, spectroscopy, electrochemical characterization and DFT calculations"
+    },
     "10.1016/j.mtcomm.2026.115849": {
       "doi": "10.1016/j.mtcomm.2026.115849",
       "posted_at": "2026-08-06T12:17:58+00:00",
@@ -2528,6 +2554,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Molecular Dynamics Simulation of Sorbitol-Based Surfactants with Different Chiral Configurations at the Gas/Liquid Interface"
+    },
+    "10.1021/acs.langmuir.6c02550": {
+      "doi": "10.1021/acs.langmuir.6c02550",
+      "posted_at": "2026-08-07T06:03:49+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786082629.435179",
+      "summary_character_count": 125,
+      "summary_japanese": "5種のmacrocycleによるCVOCsと1,4-dioxaneの水中吸着をDFT、MD、実験で解析し、環境濃度ではCVOCsが選択的に吸着すること、親水性1,4-dioxaneの脱溶媒和に伴う高いエネルギー損失が相対吸着量を支配することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unveiling Mechanismsof Chlorinated Volatile OrganicCompounds (CVOCs) and 1,4-Dioxane Sorption in Macrocyclic Materials:A DFT, MD, and Experimental Study"
     },
     "10.1021/acs.langmuir.6c02922": {
       "doi": "10.1021/acs.langmuir.6c02922",
@@ -4270,6 +4309,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-induced spin selectivity in olfaction"
     },
+    "10.1088/1674-1056/ae952a": {
+      "doi": "10.1088/1674-1056/ae952a",
+      "posted_at": "2026-08-07T06:03:53+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786082633.871099",
+      "summary_character_count": 105,
+      "summary_japanese": "Chiral phononsの局在2次元モードから伝搬3次元モードへの展開をレビューし、ダイオード効果、トポロジカル界面伝送、電場・磁場・光による制御を整理した。検出・選択励起・高速デバイス制御の課題も論じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Propagation and Manipulation of Chiral Phonons"
+    },
     "10.1088/1674-1137/ae8f24": {
       "doi": "10.1088/1674-1137/ae8f24",
       "posted_at": "2026-07-26T15:02:45+00:00",
@@ -5230,6 +5282,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Linearly Expanded Azulenes in the S0, T1, and Qu1 States: A Unified View of Electronic Structure and Aromaticity"
+    },
+    "10.26434/chemrxiv.15007046/v1": {
+      "doi": "10.26434/chemrxiv.15007046/v1",
+      "posted_at": "2026-08-07T06:03:44+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786082624.795739",
+      "summary_character_count": 110,
+      "summary_japanese": "エステル結合型thiourea/tertiary amine固定化有機触媒の失活経路を計算・実験で解析し、活性低下の根本原因を特定した。これに基づき、寿命と再使用性を改善したtriazole結合型触媒の設計指針を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mitigating Catalyst Leaching and Deactivation in Heterogeneous Hydrogen-Bonding/Tertiary Amine Chiral Organocatalysts"
     },
     "10.26599/pom.2026.9140153": {
       "doi": "10.26599/pom.2026.9140153",
