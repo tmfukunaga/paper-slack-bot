@@ -20,7 +20,7 @@
     "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
-    "2026-08-07": 22
+    "2026-08-07": 27
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -893,6 +893,19 @@
       "summary_used_fallback": false,
       "title": "Cycloazulenylene"
     },
+    "10.1002/anie.2275817": {
+      "doi": "10.1002/anie.2275817",
+      "posted_at": "2026-08-07T12:07:01+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786104421.165409",
+      "summary_character_count": 121,
+      "summary_japanese": "naphthalimide融合cyclo[8]pyrroleは持続的な中性酸化還元状態と有機溶媒中で高いBrønsted酸性を示し、硫酸塩の強い結合によりDMSOでの実効的な第一pKaを約4単位増加させる直交型アニオン作動酸スイッチとなった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Orthosteric Control of Acidity Through Sulfate Binding in a Neutral Cyclo[8]pyrrole"
+    },
     "10.1002/anie.2300390": {
       "doi": "10.1002/anie.2300390",
       "posted_at": "2026-07-17T17:28:06+00:00",
@@ -944,6 +957,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stereoselective Synthesis of Mechanically Planar Chiral Rotaxanes and Mechanical Geometric Isomers From a Macrocyclic Ketone-Based Prochiral Rotaxane"
+    },
+    "10.1002/anie.2691122": {
+      "doi": "10.1002/anie.2691122",
+      "posted_at": "2026-08-07T12:06:52+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786104411.988549",
+      "summary_character_count": 123,
+      "summary_japanese": "開殻NFAのMAZ-1/MAZ-2をD18:N3太陽電池へ添加し、ESR・可変温度測定で熱的に到達可能な三重項状態を確認した。CT状態のスピン進化を変調して非放射損失を最大約20 meV低減し、変換効率を18.52%から20.23%へ向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Open-Shell Guest Acceptors Manipulate Charge-Transfer Spin Dynamics in Organic Solar Cells"
     },
     "10.1002/anie.3186961": {
       "doi": "10.1002/anie.3186961",
@@ -1257,6 +1283,19 @@
       "summary_used_fallback": false,
       "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
     },
+    "10.1002/anie.7256115": {
+      "doi": "10.1002/anie.7256115",
+      "posted_at": "2026-08-07T12:06:56+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786104416.481099",
+      "summary_character_count": 128,
+      "summary_japanese": "燃料消費型エステル化・加水分解サイクルで酸を一時貯蔵・再生するproton reservoirを設計し、両親媒性蛍光集合体の非平衡組織化を制御した。酸マスキング時間を0～250 min、再生を10～120 minに調整し、青～白色の蛍光で変換を可視化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Fluorescence Visualization of Nonequilibrium Supramolecular Assembly Regulated by a Proton Reservoir"
+    },
     "10.1002/anie.7699965": {
       "doi": "10.1002/anie.7699965",
       "posted_at": "2026-08-01T06:04:34+00:00",
@@ -1353,6 +1392,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "A General and Scalable Chiral Surrogate Rotaxane Strategy for Highly Enantioenriched Mechanically Planar Chiral Rotaxanes"
+    },
+    "10.1002/anie.9365925": {
+      "doi": "10.1002/anie.9365925",
+      "posted_at": "2026-08-07T12:07:09+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786104429.044399",
+      "summary_character_count": 114,
+      "summary_japanese": "radical-polar crossoverを用いるCr触媒法で、配位子の非共有結合相互作用によりキラルβ-fluoro alcoholのsyn/anti選択性を制御し、fluorosugar誘導体の全4立体異性体を合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chromium-Catalyzed Stereodivergent Carbonyl Addition Dictated by Non-Covalent Interactions"
     },
     "10.1002/anie.9590374": {
       "doi": "10.1002/anie.9590374",
@@ -3203,6 +3255,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Total Synthesis of Benthol A: The Nominal and the Actual Natural Product"
+    },
+    "10.1021/jacs.6c05693": {
+      "doi": "10.1021/jacs.6c05693",
+      "posted_at": "2026-08-07T12:07:13+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786104433.712069",
+      "summary_character_count": 105,
+      "summary_japanese": "極低温気相IR分光とCH伸縮の非調和解析でLi+–Cs+のクラウンエーテル錯体を構造帰属し、真の選択的包接にはイオン包接と酸素平面からの等距離配置が必要で、18-crown-6ではK+のみが満たすことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spectroscopic Trackingof Size Selectivity in CrownEthers: A Unified Molecular Picture of Encapsulation"
     },
     "10.1021/jacs.6c05797": {
       "doi": "10.1021/jacs.6c05797",
