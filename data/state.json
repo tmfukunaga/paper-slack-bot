@@ -20,7 +20,7 @@
     "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
-    "2026-08-07": 7
+    "2026-08-07": 12
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -594,6 +594,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/ange.7041180": {
+      "doi": "10.1002/ange.7041180",
+      "posted_at": "2026-08-07T03:04:40+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786071880.854529",
+      "summary_character_count": 114,
+      "summary_japanese": "初の2Dキラルhybrid fluorozirconate (R/S-MBA)ZrF5を逆Type-I量子井戸設計で構築し、4.60 eVの広帯域と異方性因子1.05のSHG-CD、水中7日後も保たれる構造・応答安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reversed Quantum-Well Engineering Unlocks Large Ultraviolet Chiral Nonlinear Optical Response in a Water-Resistant 2D Hybrid Fluorozirconate"
     },
     "10.1002/ange.7100719": {
       "doi": "10.1002/ange.7100719",
@@ -2425,6 +2438,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
     },
+    "10.1021/acs.joc.6c01097": {
+      "doi": "10.1021/acs.joc.6c01097",
+      "posted_at": "2026-08-07T03:04:37+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786071877.153859",
+      "summary_character_count": 121,
+      "summary_japanese": "Cp2TiCl2とCp2MoCl2を用い、カルボン酸のキラル光学センシングを開発した。穏和な塩化物交換で生じるカルボキシラート錯体は長波長CDを示し、結晶構造解析によりTiでは二置換、Moでは単置換を確認し、広い組成域でerを正確に測定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Recognitionand Chirality Sensing with MetalloceneDichloride Complexes"
+    },
     "10.1021/acs.jpcb.6c02070": {
       "doi": "10.1021/acs.jpcb.6c02070",
       "posted_at": "2026-07-22T21:01:39+00:00",
@@ -3243,6 +3269,19 @@
       "summary_used_fallback": true,
       "title": "pi-ExtendedRedox-Active Ligand-PromotedCobalt-Catalyzed Diastereo- and Enantioselective Borylcyclopropanationof Alkenes"
     },
+    "10.1021/jacs.6c08313": {
+      "doi": "10.1021/jacs.6c08313",
+      "posted_at": "2026-08-07T03:04:31+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786071871.198289",
+      "summary_character_count": 118,
+      "summary_japanese": "市販H8-BINOLからD4対称キラルphthalocyanineを合成し、置換基と非共有結合の設計でJ型らせん凝集を制御した。凝集体はfwhm 15 nmの近赤外発光と最大glum 0.01のCPLを示し、500 nMでも検出された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "TunableChiral D4-Symmetric Phthalocyanineswith Rationally Designed Aggregation for Near-Infrared CircularlyPolarized Luminescence"
+    },
     "10.1021/jacs.6c08513": {
       "doi": "10.1021/jacs.6c08513",
       "posted_at": "2026-08-05T16:13:13+00:00",
@@ -3385,6 +3424,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of Chiral Triarylmethanes via Catalytic Asymmetric Skeletal Editing"
+    },
+    "10.1021/jacs.6c10817": {
+      "doi": "10.1021/jacs.6c10817",
+      "posted_at": "2026-08-07T03:04:45+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786071885.045449",
+      "summary_character_count": 132,
+      "summary_japanese": "ortho-B-π-Bトポロジーの全六員環縮環BN[7]heliceneを設計し、558 nmでFWHM 23 nmの黄色情報を示す(P/M)-DBN-cpICzを得た。250 °Cで6日間の配座安定性を保ち、CP-OLEDで572 nmの狭帯域CPELを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An Ortho -B-pi-B-FusedAll-Six-Membered BN[7]Helicene for Narrowband Circularly PolarizedLuminescence with Robust Configurational Stability"
     },
     "10.1021/jacs.6c10931": {
       "doi": "10.1021/jacs.6c10931",
@@ -4347,6 +4399,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Experimental and Numerical Analysis of a Sand-Based Thermal Energy Storage System With a Helical Coil Heat Exchanger"
+    },
+    "10.1126/sciadv.aeb0500": {
+      "doi": "10.1126/sciadv.aeb0500",
+      "posted_at": "2026-08-07T03:04:27+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786071867.396619",
+      "summary_character_count": 95,
+      "summary_japanese": "surface cosine wavesで等振幅・π位相差の円偏光干渉場を形成し、単一キラル散乱体の構造的な左右性に由来する振幅・位相非対称性をCSDとCSRとして同時に捉える手法を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dual-parameter chiral detection at the single-particle level enabled by surface cosine waves"
     },
     "10.1126/sciadv.aec8167": {
       "doi": "10.1126/sciadv.aec8167",
