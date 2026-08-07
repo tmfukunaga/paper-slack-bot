@@ -20,7 +20,7 @@
     "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
-    "2026-08-07": 17
+    "2026-08-07": 22
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -243,6 +243,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stretch-Assembled Flexible Circularly Polarized Luminescence Films for Multifunctional Anti-Counterfeiting"
+    },
+    "10.1002/adom.71542": {
+      "doi": "10.1002/adom.71542",
+      "posted_at": "2026-08-07T09:04:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786093463.980579",
+      "summary_character_count": 103,
+      "summary_japanese": "LTCC技術を用い、空間変化する銀meta-atomsを低損失LTCCマトリクスへスクリーン印刷・低温同時焼成で埋め込む3Dキラルmetamaterialsを設計・作製し、ミリ波域で強い円二色性を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Monolithically Integrated Three-Dimensional Chiral Metamaterials"
     },
     "10.1002/adom.71553": {
       "doi": "10.1002/adom.71553",
@@ -757,6 +770,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
     },
+    "10.1002/anie.1547062": {
+      "doi": "10.1002/anie.1547062",
+      "posted_at": "2026-08-07T09:04:41+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786093481.354589",
+      "summary_character_count": 115,
+      "summary_japanese": "結晶性多孔質有機塩でDMSO水素結合によるフェノール性OHの保護・脱保護を行い、単結晶相転移を介して細孔表面OHと多孔性を発現させた。活性Form IIIは休眠Form IIよりNH3吸着が増大し、他ガスよりNH3を選択吸着した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Protection-Deprotection for Switching Pore-Surface Functionality in a Crystalline Porous Organic Salt"
+    },
     "10.1002/anie.1807439": {
       "doi": "10.1002/anie.1807439",
       "posted_at": "2026-08-01T18:03:34+00:00",
@@ -1009,6 +1035,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Asymmetric Hydrophosphinamidation of Alkynes"
+    },
+    "10.1002/anie.4560740": {
+      "doi": "10.1002/anie.4560740",
+      "posted_at": "2026-08-07T09:04:35+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786093475.840789",
+      "summary_character_count": 90,
+      "summary_japanese": "PDT用photosensitizersの励起状態を超分子集合で制御する近年の戦略を概説し、項間交差促進と失活経路調節によるROS生成およびType-I/II過程の制御を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Strategies for Modulating Excited-State Properties of Photosensitizers in Photodynamic Therapy"
     },
     "10.1002/anie.4566077": {
       "doi": "10.1002/anie.4566077",
@@ -4023,6 +4062,19 @@
       "summary_used_fallback": false,
       "title": "Circularly polarized electroluminescence from topologically chiral [2]catenane-based neutral radicals with tunable deep-red emission"
     },
+    "10.1038/s41467-026-76089-z": {
+      "doi": "10.1038/s41467-026-76089-z",
+      "posted_at": "2026-08-07T09:04:28+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786093468.047669",
+      "summary_character_count": 103,
+      "summary_japanese": "ネマティックmesophase由来の閉じ込め異方性分子媒体で、電場駆動の対称性破れによりミクロン級キラルpinwheel構造を形成し、アキラル前駆体から巨視的キラル光学材料を簡便かつスケーラブルに作製した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Microchiral pinwheel arrays based on achiral molecules"
+    },
     "10.1038/s41467-026-76125-y": {
       "doi": "10.1038/s41467-026-76125-y",
       "posted_at": "2026-07-29T00:04:27+00:00",
@@ -4074,6 +4126,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Distortion-engineered C1-symmetric inorganic molecular cages enable tunable chiroptical nonlinear optics with broad infrared transparency"
+    },
+    "10.1038/s41467-026-76445-z": {
+      "doi": "10.1038/s41467-026-76445-z",
+      "posted_at": "2026-08-07T09:04:31+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786093471.933949",
+      "summary_character_count": 99,
+      "summary_japanese": "フォノニック結晶で二次元高次トポロジカル金属を提案・実証し、空気伝搬音実験により金属バルク状態、ギャップをもつanti-helicalエッジ状態、連続体中に埋め込まれたトポロジカル角状態を観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Acoustic higher-order topological metals with bound corner states in the continuum"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
