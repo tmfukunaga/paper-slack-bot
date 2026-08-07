@@ -21,7 +21,7 @@
     "2026-08-05": 16,
     "2026-08-06": 40,
     "2026-08-07": 27,
-    "2026-08-08": 5
+    "2026-08-08": 9
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2595,6 +2595,19 @@
       "summary_used_fallback": false,
       "title": "Molecular Recognitionand Chirality Sensing with MetalloceneDichloride Complexes"
     },
+    "10.1021/acs.joc.6c01398": {
+      "doi": "10.1021/acs.joc.6c01398",
+      "posted_at": "2026-08-07T18:06:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786126013.660879",
+      "summary_character_count": 109,
+      "summary_japanese": "2,6-dihydroxyterephthalateで第二環の閉環を前組織化し、立体障害で加水分解不能なテンプレート結合エステルをaluminum hydrideで切断して、機械的に連結したcatenaneを遊離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Covalent TemplatedCatenane Synthesis Requiring HinderedEster Cleavage"
+    },
     "10.1021/acs.jpcb.6c02070": {
       "doi": "10.1021/acs.jpcb.6c02070",
       "posted_at": "2026-07-22T21:01:39+00:00",
@@ -3425,6 +3438,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multiresponsive Isotropic Structural Color in Cholesteric Liquid Crystals"
+    },
+    "10.1021/jacs.6c07797": {
+      "doi": "10.1021/jacs.6c07797",
+      "posted_at": "2026-08-07T18:06:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786126009.235119",
+      "summary_character_count": 131,
+      "summary_japanese": "電子供与性C–Ru結合をもつ嵩高いキラルGrubbs触媒で、自己重合性の高いcyclobuteneとnorborneneを1:1で交互ROMPし、高分子量・低分散性ポリマーを得た。ランダム共重合体やpolynorborneneより高強度・高靱性で弾性を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Alternating Copolymerizationof Cyclobutenes and Norbornenesby a Dual-Site Grubbs Catalyst"
     },
     "10.1021/jacs.6c07991": {
       "doi": "10.1021/jacs.6c07991",
@@ -4895,6 +4921,19 @@
       "summary_used_fallback": false,
       "title": "Physical modelling of cyclically thermally-activated helical piles under tensile loading"
     },
+    "10.17182/hepdata.159952": {
+      "doi": "10.17182/hepdata.159952",
+      "posted_at": "2026-08-07T18:07:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786126024.899009",
+      "summary_character_count": 114,
+      "summary_japanese": "STARはRHIC Au+Au衝突でEvent Shape Selectionにより楕円流背景を抑制し、11.5～19.6 GeV・20–50%中心度でCME指標Δγ^112に約3σの信号とエネルギー依存の増減傾向を見いだした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Search for the chiral magnetic effect through beam energy dependence of charge separation using event shape selection"
+    },
     "10.17615/m9w8-8474": {
       "doi": "10.17615/m9w8-8474",
       "posted_at": "2026-08-07T15:11:56+00:00",
@@ -4933,6 +4972,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Design, Development, and Hydrodynamic Analysis of a Vertical Spherical Turbine Circumscribing a Helical Savonius Rotor"
+    },
+    "10.20944/preprints202608.0088.v1": {
+      "doi": "10.20944/preprints202608.0088.v1",
+      "posted_at": "2026-08-07T18:06:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786126017.170729",
+      "summary_character_count": 89,
+      "summary_japanese": "非接触3D走査で磁場下Q355B鋼の腐食形態を定量化し、60 mTで最大孔食深さが42.9%増加した。腐食ヘリカルアンカーの引抜支持力は非線形に変化し、30 mTで最大となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magnetic Field Effects on Q355B Steel Corrosion Morphology and Helical Anchor Uplift Behavior"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
