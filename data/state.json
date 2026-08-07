@@ -20,7 +20,7 @@
     "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
-    "2026-08-07": 2
+    "2026-08-07": 7
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -504,6 +504,19 @@
       "summary_used_fallback": false,
       "title": "A Dual-Color Two-Photon-Active Cavitand for Guest-Responsive Sensing of Benzene and Pyridine Vapors"
     },
+    "10.1002/ange.2661433": {
+      "doi": "10.1002/ange.2661433",
+      "posted_at": "2026-08-07T00:06:02+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786061162.108779",
+      "summary_character_count": 131,
+      "summary_japanese": "Macrocyclic ketone-based prochiral rotaxaneを基盤に、有機触媒的不斉縮合でMPC rotaxaneを得た。還元条件の調整により、Schill-type type 1 MGI rotaxaneの両機械幾何異性体も合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereoselective Synthesis of Mechanically Planar Chiral Rotaxanes and Mechanical Geometric Isomers From a Macrocyclic Ketone-Based Prochiral Rotaxane"
+    },
     "10.1002/ange.3408014": {
       "doi": "10.1002/ange.3408014",
       "posted_at": "2026-07-31T18:03:31+00:00",
@@ -555,6 +568,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Harnessing Supramolecular Circularly Polarized Scattering for Enhanced Chiroptical Performance"
+    },
+    "10.1002/ange.6690121": {
+      "doi": "10.1002/ange.6690121",
+      "posted_at": "2026-08-07T00:06:07+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786061167.096179",
+      "summary_character_count": 112,
+      "summary_japanese": "局所反芳香族性キラルドナーとtriazine受容体を組み合わせ、混成局在・電荷移動励起状態とhot-exciton経路を実現した。ABH-2TRZは深青色円偏光ELでg=+7.4×10−3、EQEmax 6.38%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Local Antiaromaticity-Mediated Chiral Donor-Acceptor Strategy for Efficient Circularly Polarized Luminescence"
     },
     "10.1002/ange.6881077": {
       "doi": "10.1002/ange.6881077",
@@ -743,6 +769,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Mechanical Planar Chiral Rotaxane Induces Single-Handed Helicity in a Twisted Perylene Diimide"
+    },
+    "10.1002/anie.1974825": {
+      "doi": "10.1002/anie.1974825",
+      "posted_at": "2026-08-07T00:06:17+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786061177.668909",
+      "summary_character_count": 103,
+      "summary_japanese": "P-キラル単座ホスフィン配位Pd触媒による不斉分子内C–Hアリール化で、骨格キラリティーをもつbowl-shaped tribenzo[b,d,f]azepinesを最大95%収率、97% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Bowl-Shaped N -Heterocycles via Pd-Catalyzed Enantioselective Intramolecular C-H Arylation"
     },
     "10.1002/anie.202524631": {
       "doi": "10.1002/anie.202524631",
@@ -1049,6 +1088,19 @@
       "summary_used_fallback": false,
       "title": "Synergistic Effect of Chirality and Symmetry Reduction Enables Metal-Free Perovskite Single Crystal With Stable Self-Driven X-ray Detection"
     },
+    "10.1002/anie.6690121": {
+      "doi": "10.1002/anie.6690121",
+      "posted_at": "2026-08-07T00:05:55+00:00",
+      "score": 54,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786061155.479739",
+      "summary_character_count": 116,
+      "summary_japanese": "局所反芳香族性キラルdonorとtriazine acceptorを組み合わせ、熱励起子経路を備えるD–A/A–D–A発光体を設計した。ABH-2TRZは深青色CPELでgEL=+7.4×10−3、EQEmax 6.38%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Local Antiaromaticity-Mediated Chiral Donor-Acceptor Strategy for Efficient Circularly Polarized Luminescence"
+    },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
       "posted_at": "2026-07-17T17:07:13+00:00",
@@ -1100,6 +1152,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Engineering LE-CT State Synergy in Aminoboranes for Single Molecule White Light Emission and Dual-Mode Chiroptical/Phosphorescence Output"
+    },
+    "10.1002/anie.7041180": {
+      "doi": "10.1002/anie.7041180",
+      "posted_at": "2026-08-07T00:06:10+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786061170.789999",
+      "summary_character_count": 111,
+      "summary_japanese": "初の2Dキラルhybrid fluorozirconate (R/S-MBA)ZrF5を逆Type-I量子井戸構造として設計し、4.60 eVの広帯域、SHG-CD異方性因子1.05、水中7日後の構造・応答安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reversed Quantum-Well Engineering Unlocks Large Ultraviolet Chiral Nonlinear Optical Response in a Water-Resistant 2D Hybrid Fluorozirconate"
     },
     "10.1002/anie.7100719": {
       "doi": "10.1002/anie.7100719",
