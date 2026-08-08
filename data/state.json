@@ -22,7 +22,7 @@
     "2026-08-06": 40,
     "2026-08-07": 27,
     "2026-08-08": 29,
-    "2026-08-09": 5
+    "2026-08-09": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2201,6 +2201,19 @@
       "summary_used_fallback": false,
       "title": "Synergistic action of piperonyl butoxide with macrocyclic lactones in Rhipicephalus microplus"
     },
+    "10.1007/s10894-026-00595-7": {
+      "doi": "10.1007/s10894-026-00595-7",
+      "posted_at": "2026-08-08T19:20:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786216812.316209",
+      "summary_character_count": 109,
+      "summary_japanese": "LHDでMW級ECH用gyrotronを用いるミリ波CTS診断を開発し、NBI生成の高速・異方性イオンを測定した。303 GHz gyrotronと高性能notch filterにより背景放射低減とSNR向上を図った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development and Application of Collective Thomson Scattering Diagnostics for Energetic and Bulk Ion Measurements in the Large Helical Device"
+    },
     "10.1007/s11200-026-00027-4": {
       "doi": "10.1007/s11200-026-00027-4",
       "posted_at": "2026-07-29T16:54:02+00:00",
@@ -3635,6 +3648,19 @@
       "summary_used_fallback": false,
       "title": "Narrow-Bandgap Zero-Dimensional Chiral Hybrid Perovskites"
     },
+    "10.1021/jacs.6c07373": {
+      "doi": "10.1021/jacs.6c07373",
+      "posted_at": "2026-08-08T19:20:01+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786216801.755689",
+      "summary_character_count": 326,
+      "summary_japanese": "Amphiphilicity-controlled cucurbituril host-guest complexes were interfacially cross-linked to form 1.6 nm-thick porous monolayers. Their high-density subnanometer pores enabled reversible charge-gating of ion transport through host-guest recognition, while cucurbituril cavities served as dynamic molecular recognition sites.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Bioinspired Large-AreaPolymeric Cucurbituril Monolayerswith Ultrahigh-Density Nanopores Enabling Reversible Charge-Gatingof Ion Transport via Host-Guest Recognition"
+    },
     "10.1021/jacs.6c07395": {
       "doi": "10.1021/jacs.6c07395",
       "posted_at": "2026-07-29T09:14:45+00:00",
@@ -4480,6 +4506,19 @@
       "summary_used_fallback": false,
       "title": "Tunable photofluorochromic switch driven by dynamic through-space conjugation"
     },
+    "10.1038/s41467-026-76200-4": {
+      "doi": "10.1038/s41467-026-76200-4",
+      "posted_at": "2026-08-08T19:19:55+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786216795.649729",
+      "summary_character_count": 104,
+      "summary_japanese": "SolanumのSGAキラリティをGAME8が制御し、4残基でR/S選択性が切り替わることを変異導入とドッキングで示した。野生トマト優勢のR型SGAはPhthorimaea absolutaへの防御に優れた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Biosynthetic mechanism and ecological function of chirality in Solanum steroidal alkaloids"
+    },
     "10.1038/s41467-026-76289-7": {
       "doi": "10.1038/s41467-026-76289-7",
       "posted_at": "2026-08-08T14:06:41+00:00",
@@ -4674,6 +4713,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Unveiling chiral electron-photon correlation effects in circularly polarized optical devices"
+    },
+    "10.1063/5.0343778": {
+      "doi": "10.1063/5.0343778",
+      "posted_at": "2026-08-08T19:20:16+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786216816.098329",
+      "summary_character_count": 128,
+      "summary_japanese": "単一らせん鎖の三軌道tight-binding模型で、原子spin-orbit couplingなしにキラリティが運動量依存の軌道角運動量テクスチャを生むことを示した。平衡平均はゼロだが、持続的電流と電場誘起Orbital Edelstein応答が現れる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Orbital angular momentum textures and currents in a discrete helix: Equilibrium and linear response"
     },
     "10.1073/pnas.2532158123": {
       "doi": "10.1073/pnas.2532158123",
@@ -6168,6 +6220,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Simulation of Tailoring Chiral Light Propagation in Gold-Silver Hybrid Plasmonic Waveguides"
+    },
+    "10.3390/universe12080237": {
+      "doi": "10.3390/universe12080237",
+      "posted_at": "2026-08-08T19:20:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786216808.426839",
+      "summary_character_count": 117,
+      "summary_japanese": "large-Nc rainbow枠組みでLECと格子quark mass functionからquark self-energyを逆推定し、kernelパラメータ化で不確実性を2–4倍低減した。L8は規制子走査でもPan値を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inverting the Quark Self-Energy from Chiral Low-Energy Constants: A Possible L8 Tension in the Leading-Nc Rainbow Framework"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
