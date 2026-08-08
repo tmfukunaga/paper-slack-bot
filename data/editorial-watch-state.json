@@ -64,6 +64,15 @@
       ],
       "title": "Gastropod shells record larval migration from deep-sea hydrothermal vents to the euphotic zone"
     },
+    "10.1126/sciadv.aeg0819": {
+      "doi": "10.1126/sciadv.aeg0819",
+      "posted_at": "2026-08-08T21:03:32+00:00",
+      "slack_ts": "1786223012.641969",
+      "sources": [
+        "C&EN"
+      ],
+      "title": "Artificial Neptune balls: Superadhesive biomimetic networks for broad-size microplastics capture and removal"
+    },
     "10.1126/sciadv.aeg8299": {
       "doi": "10.1126/sciadv.aeg8299",
       "posted_at": "2026-07-31T01:02:27+00:00",
@@ -81,6 +90,15 @@
         "C&EN"
       ],
       "title": "Late-stage functionalization with strain-release warheads enables tunable covalent inhibition"
+    },
+    "10.1126/science.adx7367": {
+      "doi": "10.1126/science.adx7367",
+      "posted_at": "2026-08-08T21:03:36+00:00",
+      "slack_ts": "1786223016.751269",
+      "sources": [
+        "C&EN"
+      ],
+      "title": "Calcium tunes snail mucus-based materials to multiple functions"
     },
     "10.1126/science.aec6298": {
       "doi": "10.1126/science.aec6298",
@@ -130,10 +148,20 @@
       "source": "C&EN",
       "title": "AI-designed nucleases build on nature’s design"
     },
+    "https://cen.acs.org/environment/persistent-pollutants/microplastics-water-removal/104/web/2026/08?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
+      "processed_at": "2026-08-08T21:03:32+00:00",
+      "source": "C&EN掲載",
+      "title": "Artificial Neptune balls: Superadhesive biomimetic networks for broad-size microplastics capture and removal"
+    },
     "https://cen.acs.org/materials/biobased-materials/fungi-based-circuit-boards-make-industry-greener/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
       "processed_at": "2026-07-23T21:00:02+00:00",
       "source": "C&EN掲載",
       "title": "From biotechnological residues to biodegradable printed circuit boards: Aspergillus niger mycelium as a structural support material"
+    },
+    "https://cen.acs.org/materials/biobased-materials/snails-use-chemistry-modify-mucus/104/web/2026/08?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
+      "processed_at": "2026-08-08T21:03:36+00:00",
+      "source": "C&EN掲載",
+      "title": "Calcium tunes snail mucus-based materials to multiple functions"
     },
     "https://cen.acs.org/materials/new-alloy-discovered-hiroshima-a-bomb/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
       "processed_at": "2026-07-31T01:02:27+00:00",
@@ -195,6 +223,11 @@
       "source": "Chemistry World掲載",
       "title": "Spatially resolving the cone of reaction for a single molecule"
     },
+    "https://www.chemistryworld.com/news/covalent-drugs-just-got-a-new-spring-loaded-warhead/4023989.article": {
+      "processed_at": "2026-08-08T21:02:48+00:00",
+      "source": "Chemistry World",
+      "title": "Covalent drugs just got a new ‘spring-loaded’ warhead"
+    },
     "https://www.chemistryworld.com/news/photoredox-catalyst-introduces-two-nucleophiles-across-a-carbon-carbon-bond-at-once/4023893.article": {
       "processed_at": "2026-07-22T20:59:50+00:00",
       "source": "Chemistry World掲載",
@@ -213,109 +246,136 @@
   },
   "retry_articles": {
     "https://cen.acs.org/energy/iron-fuel-combustion-energy-heat/104/web/2026/08?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 2,
+      "attempts": 3,
       "first_failed_at": "2026-08-04T21:03:54+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.509604.featurearticle",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-08-04T12:00:20+00:00",
       "source": "C&EN",
       "title": "New iron age: Metal fuel forges ahead"
     },
     "https://cen.acs.org/materials/2-d-materials/mxene-2d-magnetic-semiconducting/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 11,
+      "attempts": 12,
       "first_failed_at": "2026-07-27T21:01:39+00:00",
       "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-27T14:02:12+00:00",
       "source": "C&EN",
       "title": "Introducing rare earth MXenes"
     },
     "https://cen.acs.org/materials/coatings/Quiz-causes-sunscreen-stains/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 10,
+      "attempts": 11,
       "first_failed_at": "2026-07-28T21:02:37+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.554650.periodicgraphicsquiz",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-28T17:00:03+00:00",
       "source": "C&EN",
       "title": "Quiz: What causes sunscreen stains?"
     },
     "https://cen.acs.org/materials/nanomaterials/chempics-driving-around-janus-droplets/104/web/2026/08?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 2,
+      "attempts": 3,
       "first_failed_at": "2026-08-04T21:03:54+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.560800.chempics",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-08-04T16:26:50+00:00",
       "source": "C&EN",
       "title": "Chemistry in Pictures: Droplet with a steering wheel"
     },
     "https://cen.acs.org/materials/nanomaterials/metal-nitride-nanocrystals-solution-based-colloidal-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
-      "attempts": 9,
+      "attempts": 10,
       "first_failed_at": "2026-07-29T21:00:53+00:00",
       "last_error": "abstract unavailable for DOI=10.1038/s41586-026-10801-3",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-29T11:08:58+00:00",
       "source": "C&EN",
       "title": "Making these nanocrystals has stumped chemists for 30 years"
     },
     "https://cen.acs.org/materials/nanomaterials/metal-nitride-nanocrystals-solution-based-colloidal-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 9,
+      "attempts": 10,
       "first_failed_at": "2026-07-29T21:00:53+00:00",
       "last_error": "abstract unavailable for DOI=10.1038/s41586-026-10801-3",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-29T11:08:58+00:00",
       "source": "C&EN",
       "title": "Making these nanocrystals has stumped chemists for 30 years"
     },
+    "https://cen.acs.org/materials/photonics/chemistry-pictures-crystal-wolf/104/web/2026/08?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-08-08T21:02:48+00:00",
+      "last_error": "abstract unavailable for DOI=10.47287/cen.568351.chempics",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
+      "published_at": "2026-08-07T15:30:00+00:00",
+      "source": "C&EN",
+      "title": "Chemistry in Pictures: Crystal wolf"
+    },
+    "https://cen.acs.org/physical-chemistry/computational-chemistry/cen-weekly-chemistry-news-quiz-august-7/104/web/2026/08?sc=230901_cenrssfeed_eng_Materialsrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-08-08T21:02:48+00:00",
+      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
+      "published_at": "2026-08-07T13:17:31+00:00",
+      "source": "C&EN",
+      "title": "C&EN weekly chemistry news quiz, August 7"
+    },
+    "https://cen.acs.org/physical-chemistry/computational-chemistry/cen-weekly-chemistry-news-quiz-august-7/104/web/2026/08?sc=230901_cenrssfeed_eng_Physicalrss_cen": {
+      "attempts": 1,
+      "first_failed_at": "2026-08-08T21:02:48+00:00",
+      "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
+      "published_at": "2026-08-07T13:17:31+00:00",
+      "source": "C&EN",
+      "title": "C&EN weekly chemistry news quiz, August 7"
+    },
     "https://cen.acs.org/physical-chemistry/computational-chemistry/quantum-advantage-ibm-proof/104/web/2026/08?sc=230901_cenrssfeed_eng_Physicalrss_cen": {
-      "attempts": 3,
+      "attempts": 4,
       "first_failed_at": "2026-08-03T21:00:06+00:00",
       "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-08-03T20:24:29+00:00",
       "source": "C&EN",
       "title": "IBM claims their quantum computers outperform classical ones"
     },
     "https://cen.acs.org/policy/intellectual-property/mechanochemistry-patents-industry/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 11,
+      "attempts": 12,
       "first_failed_at": "2026-07-27T21:01:39+00:00",
       "last_error": "article=None; title_fallback=HTTPError('400 Client Error: Bad Request for url: https://api.openalex.org/works?search=Will+mechanochemistry+come+into+its+own%3F&per-page=25&api_key=ozhwdRjwIt2ZCQLjhrlaFK')",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-27T16:06:33+00:00",
       "source": "C&EN",
       "title": "Will mechanochemistry come into its own?"
     },
     "https://cen.acs.org/synthesis/biocatalysis/cen-weekly-chemistry-news-quiz-july-31/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 6,
+      "attempts": 7,
       "first_failed_at": "2026-07-31T21:01:46+00:00",
       "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-31T10:30:04+00:00",
       "source": "C&EN",
       "title": "C&EN weekly chemistry news quiz, July 31"
     },
     "https://cen.acs.org/synthesis/chiral-aromatic-heterocycles-novel-motifs/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 17,
+      "attempts": 18,
       "first_failed_at": "2026-07-21T23:05:32+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.542002.newsarticle",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-21T13:27:30+00:00",
       "source": "C&EN",
       "title": "Reaction rounds up atoms into unusual cyclic compounds"
     },
     "https://cen.acs.org/synthesis/direct-sugar-chemistry-streamlines-drug-synthesis/104/web/2026/07?sc=230901_cenrssfeed_eng_Synthesisrss_cen": {
-      "attempts": 15,
+      "attempts": 16,
       "first_failed_at": "2026-07-23T20:59:48+00:00",
       "last_error": "abstract unavailable for DOI=10.47287/cen.539452.newsarticle",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-23T13:33:41+00:00",
       "source": "C&EN",
       "title": "Direct sugar chemistry streamlines C-aryl glycoside synthesis"
     },
     "https://www.chemistryworld.com/news/ferric-chloride-steers-lithium-away-from-dendrites-to-improve-safety-of-lithium-metal-batteries/4023956.article": {
-      "attempts": 9,
+      "attempts": 10,
       "first_failed_at": "2026-07-29T21:00:53+00:00",
       "last_error": "article contained no uniquely resolvable DOI and exact-title recovery found no unique paper",
-      "last_failed_at": "2026-08-05T21:02:23+00:00",
+      "last_failed_at": "2026-08-08T21:02:48+00:00",
       "published_at": "2026-07-29T08:14:00+00:00",
       "source": "Chemistry World",
       "title": "Ferric chloride steers lithium away from dendrites to improve safety of lithium-metal batteries"
