@@ -21,7 +21,8 @@
     "2026-08-05": 16,
     "2026-08-06": 40,
     "2026-08-07": 27,
-    "2026-08-08": 29
+    "2026-08-08": 29,
+    "2026-08-09": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1075,6 +1076,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/anie.3999519": {
+      "doi": "10.1002/anie.3999519",
+      "posted_at": "2026-08-08T15:14:58+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786202098.442559",
+      "summary_character_count": 116,
+      "summary_japanese": "修飾Ming-Phosを配位子とするPd触媒的不斉Larock反応により、多様な基質からキラルisoindolo[2,1-a]indole縮環複素環を良好～優れたエナンチオ選択性で合成し、生成物の蛍光、円二色性、量子収率を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pd-Catalyzed Enantioselective Construction of Isoindolo[2,1- a ]indoles"
     },
     "10.1002/anie.4069826": {
       "doi": "10.1002/anie.4069826",
@@ -2648,6 +2662,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Networks Assembled from Hexalanthanide Polyoxometalate Sandwich Building Units Showing Solid-State Temperature-Dependent Photoluminescence"
     },
+    "10.1021/acs.inorgchem.6c02112": {
+      "doi": "10.1021/acs.inorgchem.6c02112",
+      "posted_at": "2026-08-08T15:15:06+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786202106.332239",
+      "summary_character_count": 93,
+      "summary_japanese": "IMPとbpeからpH条件の異なるCo/Cd結晶錯体3種を合成し、酸性ではIMPのpurine N配位と五炭糖T型、弱塩基性ではphosphate O・bpe配位とE型への転換を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "pH Modulatesthe Coordination Mode and Pentose RingConformation Response Mechanism of Inosine 5′-MonophosphateMetal Complexes"
+    },
     "10.1021/acs.inorgchem.6c02545": {
       "doi": "10.1021/acs.inorgchem.6c02545",
       "posted_at": "2026-08-05T18:03:58+00:00",
@@ -3237,6 +3264,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Enantioselective Construction of Axially Chiral B-N Embedded Seven-Membered Bridged Biaryls via Trifunctionalization of Terminal Alkynes"
+    },
+    "10.1021/acscatal.6c05079": {
+      "doi": "10.1021/acscatal.6c05079",
+      "posted_at": "2026-08-08T15:14:50+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786202090.733789",
+      "summary_character_count": 129,
+      "summary_japanese": "amide-based bisphosphonium salt触媒によるprochiral α,α-dichloro BODIPYとphenolの不斉SNAr反応で、最大99%収率、>99% eeのboron-stereogenic BODIPYを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Highly Enantioselective Synthesis of Boron-Stereogenic Scaffolds via Bioinspired Bisphosphonium Salt-Catalyzed SNAr Reaction"
     },
     "10.1021/acscatal.6c05124": {
       "doi": "10.1021/acscatal.6c05124",
@@ -3958,6 +3998,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Droplet-Enhanced Asymmetric Catalysis: Squaramide-Derived Pseudopeptide for Enantioselective Addition Reactions"
+    },
+    "10.1021/jacs.6c11600": {
+      "doi": "10.1021/jacs.6c11600",
+      "posted_at": "2026-08-08T15:15:02+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786202102.253759",
+      "summary_character_count": 118,
+      "summary_japanese": "内縁にN原子をもつ平面配位子4N7とexpanded azahelicene 5N9を多重閉環オレフィンメタセシスで合成し、構造をX線解析で確認した。両者はAg(I)に強く結合し、縮環による事前組織化が錯形成のエントロピー寄与を高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "ExpandedAza-Helicenes Featuring Inner Rim Metal Coordination"
     },
     "10.1021/jacs.6c11636": {
       "doi": "10.1021/jacs.6c11636",
@@ -5803,6 +5856,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Exploring the Influence of Microsolvation on Rayleigh Optical Activity: A Case Study with (S)-Methyloxirane"
+    },
+    "10.26434/chemrxiv.15007176/v1": {
+      "doi": "10.26434/chemrxiv.15007176/v1",
+      "posted_at": "2026-08-08T15:14:54+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786202094.300929",
+      "summary_character_count": 131,
+      "summary_japanese": "環状phenanthroline-Cu(I) iodide錯体を用いる分子内Sonogashira型環化で、pyreneまたはNDIを含むABB型・ABC型[3]catenaneを合成した。ABC型ではpyreneとNDI間の相互作用を観測し、光物性を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Photophysical Properties of [3]Catenanes composed of Two or Three Different Rings: Proximity Effect of the Chromophores"
     },
     "10.26599/pom.2026.9140153": {
       "doi": "10.26599/pom.2026.9140153",
