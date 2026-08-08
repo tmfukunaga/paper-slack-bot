@@ -21,7 +21,7 @@
     "2026-08-05": 16,
     "2026-08-06": 40,
     "2026-08-07": 27,
-    "2026-08-08": 19
+    "2026-08-08": 24
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1498,6 +1498,19 @@
       "summary_used_fallback": false,
       "title": "Axially Chiral Cross-Shaped Bianthracene Architectures With Chiroptical Activity and Electrochemical Polymerization"
     },
+    "10.1002/asia.70934": {
+      "doi": "10.1002/asia.70934",
+      "posted_at": "2026-08-08T09:17:23+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786180643.722999",
+      "summary_character_count": 123,
+      "summary_japanese": "3,6-bis(pyridin-3-yloxy)-1,2,4,5-tetrazineから自己集合する発光性Pd2L4ケージを構築し、剛直なヘリカル構造とNO3−への選択的結合を確認した。NO3−包接では非線形、PF6−では線形の蛍光消光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Guest-Dependent Fluorescence Response by a Highly Emissive s -Tetrazine Pd 2 L 4 Cage"
+    },
     "10.1002/bmc.70546": {
       "doi": "10.1002/bmc.70546",
       "posted_at": "2026-07-19T12:17:24+00:00",
@@ -1823,6 +1836,19 @@
       "summary_used_fallback": false,
       "title": "Development of Sandwich-Compound-Based Planar-Chiral Six-Membered Unsaturated N -Heterocyclic Carbene Ligands"
     },
+    "10.1002/ejoc.70750": {
+      "doi": "10.1002/ejoc.70750",
+      "posted_at": "2026-08-08T09:17:19+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786180639.251849",
+      "summary_character_count": 107,
+      "summary_japanese": "N配位を利用するCo・Ni触媒による軸不斉aryl isoquinolineのエナンチオ収束的官能基化を概説し、配位子制御の軸異性化と各種C–C・C–ヘテロ原子結合形成、基質一般性やスケールアップの課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Synthesis of Axial Chiral Aryl Isoquinolines via N-Directed 3d Metal Catalysts: A Perspective"
+    },
     "10.1002/jcc.70477": {
       "doi": "10.1002/jcc.70477",
       "posted_at": "2026-08-01T12:01:06+00:00",
@@ -1978,6 +2004,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Twist-Assisted Bioprinting for Micro-Helical Topological Reconstruction"
+    },
+    "10.1002/pola.70286": {
+      "doi": "10.1002/pola.70286",
+      "posted_at": "2026-08-08T09:17:30+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786180650.239759",
+      "summary_character_count": 135,
+      "summary_japanese": "β-CD-grafted polyacrylamide、adamantane-modified xanthan gum、BZI-Sから成るCO2応答性HXG-BZIを設計した。競合包接により低粘度注入後に架橋を回復し、CO2応答後の鉱物吸着をCTAB比約73%低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "CO 2 -Responsive Supramolecular Polymer-Surfactant System Enabled by Competitive Host-Guest Occupancy for Enhanced Oil Recovery in Low-Permeability Reservoirs"
     },
     "10.1002/rcm.70144": {
       "doi": "10.1002/rcm.70144",
@@ -2913,6 +2952,19 @@
       "recovered_from_run": 29635004972,
       "score": 27
     },
+    "10.1021/acs.orglett.6c02745": {
+      "doi": "10.1021/acs.orglett.6c02745",
+      "posted_at": "2026-08-08T09:17:14+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786180634.166109",
+      "summary_character_count": 368,
+      "summary_japanese": "An enantioselective ring-opening of oxygen-fused six-membered cyclic diaryliodonium salts was developed using phosphoric acids and phosphine oxides as nucleophiles. Axially chiral diaryl ethers bearing a phosphinate moiety were obtained in up to 78% yield and mostly 99% ee. Thermal racemization studies showed that the products possess high configurational stability.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "The EnantioselectiveRing-Opening of Six-MemberedCyclic Iodonium Salts for the Synthesis of Axially Chiral Diaryl EthersContaining Phosphinate Moiety"
+    },
     "10.1021/acs.orglett.6c02884": {
       "doi": "10.1021/acs.orglett.6c02884",
       "posted_at": "2026-08-05T16:12:59+00:00",
@@ -3763,6 +3815,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective Hydroarylation via Chiral Transient Directing Groups: Access to Chiral Benzo-Fused Heterocycles with Collaborative Enantiomeric Control"
+    },
+    "10.1021/jacs.6c11035": {
+      "doi": "10.1021/jacs.6c11035",
+      "posted_at": "2026-08-08T09:17:08+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786180628.418189",
+      "summary_character_count": 116,
+      "summary_japanese": "気相低温IR-UV二重共鳴分光と計算により、cryptand cage 1のF−、Cl−、Br−錯体を解析した。F−は9配位D3構造、より大きいCl−・Br−は6配位三角柱型C3h構造をとり、ハライド径に応じた包接構造変化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Adaptive Halide Bindingwith Anion Size: TriggeringChiral D3 to Trigonal Prism Changes in a Molecular Cage"
     },
     "10.1021/jacs.6c11054": {
       "doi": "10.1021/jacs.6c11054",
