@@ -21,7 +21,7 @@
     "2026-08-05": 16,
     "2026-08-06": 40,
     "2026-08-07": 27,
-    "2026-08-08": 24
+    "2026-08-08": 29
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -596,6 +596,19 @@
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
     },
+    "10.1002/ange.5082047": {
+      "doi": "10.1002/ange.5082047",
+      "posted_at": "2026-08-08T14:06:37+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786197997.430919",
+      "summary_character_count": 95,
+      "summary_japanese": "単一キラル鋳型から、動的共有結合進化とモノマー交換で24種のメソスコピックらせんCCOFを構築し、らせん向きに伴う反転と、同一らせん性での異なるキラル充填に由来するキロプト活性反転を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical Chirality Memory Governs Dual Chiroptical Inversion in Mesoscopic Helical Covalent Organic Frameworks"
+    },
     "10.1002/ange.5149199": {
       "doi": "10.1002/ange.5149199",
       "posted_at": "2026-07-24T06:22:00+00:00",
@@ -1140,6 +1153,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Host-Guest Mismatch Enables Selective Hydrogen Atom Transfer"
+    },
+    "10.1002/anie.5082047": {
+      "doi": "10.1002/anie.5082047",
+      "posted_at": "2026-08-08T14:06:30+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786197990.625169",
+      "summary_character_count": 91,
+      "summary_japanese": "単一キラル鋳型から、動的共有結合進化とモノマー交換で24種のメソスコピックらせんCCOFを構築し、らせん性同一でも異なる副ナノメートル充填に由来する二様のキロプト光学反転を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical Chirality Memory Governs Dual Chiroptical Inversion in Mesoscopic Helical Covalent Organic Frameworks"
     },
     "10.1002/anie.5096270": {
       "doi": "10.1002/anie.5096270",
@@ -4401,6 +4427,19 @@
       "summary_used_fallback": false,
       "title": "Tunable photofluorochromic switch driven by dynamic through-space conjugation"
     },
+    "10.1038/s41467-026-76289-7": {
+      "doi": "10.1038/s41467-026-76289-7",
+      "posted_at": "2026-08-08T14:06:41+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786198001.252419",
+      "summary_character_count": 126,
+      "summary_japanese": "有機host–guest系にtrap stateを導入し、chiral guestのsinglet・triplet状態を再占有させることで、室温で4 h持続する二波長白色CPLを実現し、最大g_lumは1.6×10^-3/−2.3×10^-3に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Trap-induced white circularly polarized persistent luminescence from a host-guest molecular system"
+    },
     "10.1038/s41467-026-76299-5": {
       "doi": "10.1038/s41467-026-76299-5",
       "posted_at": "2026-08-04T18:15:43+00:00",
@@ -4426,6 +4465,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Distortion-engineered C1-symmetric inorganic molecular cages enable tunable chiroptical nonlinear optics with broad infrared transparency"
+    },
+    "10.1038/s41467-026-76426-2": {
+      "doi": "10.1038/s41467-026-76426-2",
+      "posted_at": "2026-08-08T14:06:48+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786198008.458529",
+      "summary_character_count": 132,
+      "summary_japanese": "キラルAuナノ粒子にcyclic underpotential depositionとgalvanic replacementで厚さ制御Pt殻を形成し、キラル構造を保持した。殻厚さとORR性能は火山型相関を示し、Au@PtはCISS-likeスピン偏極能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Atomic-scale engineering of Pt shells on chiral Au nanoparticles for enhanced oxygen reduction"
     },
     "10.1038/s41467-026-76445-z": {
       "doi": "10.1038/s41467-026-76445-z",
@@ -5738,6 +5790,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controlling through-space spin coupling via spin-density contact in helical diradicaloids: Insights from fluoreno[3,4-c]fluorene"
+    },
+    "10.26434/chemrxiv.15007149/v1": {
+      "doi": "10.26434/chemrxiv.15007149/v1",
+      "posted_at": "2026-08-08T14:06:55+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786198015.308649",
+      "summary_character_count": 122,
+      "summary_japanese": "(S)-MethyloxiraneのRayOAを水、methanol、benzene、acetonitrileによる明示的ミクロ溶媒和計算で評価し、SRと比較した。RayOAの符号は溶媒種に依存したが、溶媒分子数の変化にはSRより一貫していた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exploring the Influence of Microsolvation on Rayleigh Optical Activity: A Case Study with (S)-Methyloxirane"
     },
     "10.26599/pom.2026.9140153": {
       "doi": "10.26599/pom.2026.9140153",
