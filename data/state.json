@@ -21,7 +21,7 @@
     "2026-08-05": 16,
     "2026-08-06": 40,
     "2026-08-07": 27,
-    "2026-08-08": 14
+    "2026-08-08": 19
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1205,6 +1205,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Cage-Based Heterojunction: Chloroplast Mimicked Artificial Photosynthesis for Efficient Ethanol Production"
+    },
+    "10.1002/anie.6088506": {
+      "doi": "10.1002/anie.6088506",
+      "posted_at": "2026-08-08T06:20:08+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786170008.363889",
+      "summary_character_count": 105,
+      "summary_japanese": "内包Zr–Sb Zintlクラスター[Zr@Sb12]2−と[Zr@Sb13]3−を比較し、AdNDP・磁気応答解析とfs-TA測定で、Sb 1原子の付加がS2P6芳香族性と励起種寿命を低下させることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-Atom Control of Aromaticity and Excited-State Dynamics in Endohedral Zirconium-Antimony Zintl Clusters"
     },
     "10.1002/anie.6443941": {
       "doi": "10.1002/anie.6443941",
@@ -3231,6 +3244,19 @@
       "summary_used_fallback": false,
       "title": "ParametricControl of Extrinsic Chiral Response inTHz Nonlocal Metasurfaces via Quasi-Bound States in the Continuum"
     },
+    "10.1021/acsphotonics.6c01273": {
+      "doi": "10.1021/acsphotonics.6c01273",
+      "posted_at": "2026-08-08T06:20:13+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786170012.941399",
+      "summary_character_count": 110,
+      "summary_japanese": "chiral supramolecular glassesを光ファイバーコアに用い、利得色素を組み込んだ内在的キラルファイバーレーザーを作製・評価した。狭線幅の円偏光レーザーを安定に発振し、glumは約0.31を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intrinsic ChiralFiber Lasers Enabled by Chiral SupramolecularGlasses"
+    },
     "10.1021/acspolymersau.6c00119": {
       "doi": "10.1021/acspolymersau.6c00119",
       "posted_at": "2026-08-06T00:18:23+00:00",
@@ -3308,6 +3334,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stereodynamism in Pentacoordinate Al(Salen) Catalysts"
+    },
+    "10.1021/jacs.6c04476": {
+      "doi": "10.1021/jacs.6c04476",
+      "posted_at": "2026-08-08T06:20:29+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786170029.368799",
+      "summary_character_count": 391,
+      "summary_japanese": "A Lewis basic isothiourea catalyst enabled the enantioselective Sommelet-Hauser rearrangement of heteroaromatic-substituted ammonium ylides, affording α-heteroaryl α-amino acid derivatives with up to 98:2 er. Computational and crossover studies supported a stepwise pathway with near-instantaneous recombination, making the overall process effectively a concerted asynchronous rearrangement.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "The Catalytic EnantioselectiveSommelet-HauserRearrangement"
     },
     "10.1021/jacs.6c04854": {
       "doi": "10.1021/jacs.6c04854",
@@ -4335,6 +4374,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Acoustic higher-order topological metals with bound corner states in the continuum"
+    },
+    "10.1038/s41467-026-76507-2": {
+      "doi": "10.1038/s41467-026-76507-2",
+      "posted_at": "2026-08-08T06:20:23+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786170023.021299",
+      "summary_character_count": 101,
+      "summary_japanese": "超分子イオン液体接着剤は、溶媒交換で誘起されるMarangoni流と水素結合・pi-pi stacking・静電相互作用により水和層を貫通し、迅速で高強度かつ長期安定な水中接着と優れた再利用性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macroscopic assembly of supramolecular coacervates for underwater adhesion"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
@@ -5608,6 +5660,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mitigating Catalyst Leaching and Deactivation in Heterogeneous Hydrogen-Bonding/Tertiary Amine Chiral Organocatalysts"
+    },
+    "10.26434/chemrxiv.15007137/v1": {
+      "doi": "10.26434/chemrxiv.15007137/v1",
+      "posted_at": "2026-08-08T06:20:18+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786170018.788479",
+      "summary_character_count": 131,
+      "summary_japanese": "らせん状一重項diradicaloid fluoreno[3,4-c]fluoreneを合成し、through-spaceとthrough-bondの交換相互作用を分離した。最大スピン密度領域の直接接触が有効なthrough-space交換に必要であると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controlling through-space spin coupling via spin-density contact in helical diradicaloids: Insights from fluoreno[3,4-c]fluorene"
     },
     "10.26599/pom.2026.9140153": {
       "doi": "10.26599/pom.2026.9140153",
