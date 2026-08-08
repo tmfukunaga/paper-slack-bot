@@ -22,7 +22,7 @@
     "2026-08-06": 40,
     "2026-08-07": 27,
     "2026-08-08": 29,
-    "2026-08-09": 10
+    "2026-08-09": 13
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1525,6 +1525,19 @@
       "summary_used_fallback": false,
       "title": "Force-Induced Control of Circularly Polarized Luminescence With Rotaxane Architecture"
     },
+    "10.1002/anie.9635327": {
+      "doi": "10.1002/anie.9635327",
+      "posted_at": "2026-08-08T22:01:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786226489.411429",
+      "summary_character_count": 129,
+      "summary_japanese": "Au(111)上でdicarbahemiporphyrazineを一次元重合し、熱処理でdibenzo-p-dioxane共有結合架橋、Co添加でO···Co···O配位ネットワークを形成した。STM、nc-AFM、DFT、XPSで構造と反応経路を解明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Oxygen Connectivity in Carbaporphyrinoid Polymers on Metal Surfaces"
+    },
     "10.1002/asia.70866": {
       "doi": "10.1002/asia.70866",
       "posted_at": "2026-07-17T17:07:49+00:00",
@@ -2058,6 +2071,19 @@
       "summary_used_fallback": false,
       "title": "CO 2 -Responsive Supramolecular Polymer-Surfactant System Enabled by Competitive Host-Guest Occupancy for Enhanced Oil Recovery in Low-Permeability Reservoirs"
     },
+    "10.1002/qua.70278": {
+      "doi": "10.1002/qua.70278",
+      "posted_at": "2026-08-08T22:01:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786226482.432089",
+      "summary_character_count": 114,
+      "summary_japanese": "Nd@Cs(6)-C82とNd@C2v(9)-C82をDFT/TDDFTで解析し、両者の基底状態が五重項であることを示した。吸収・非線形光学応答は主にC82ケージが支配し、Nd包接は電子遷移を介してキロプティカル応答を調節した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "DFT / TDDFT Investigation of Excited-State Charge Transfer and Spectroscopic Properties in Nd@ C 82 Endohedral Metallofullerenes"
+    },
     "10.1002/rcm.70144": {
       "doi": "10.1002/rcm.70144",
       "posted_at": "2026-08-02T18:15:28+00:00",
@@ -2375,6 +2401,19 @@
       "posted_at": "2026-07-18T07:02:17+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1016/j.jmapro.2026.07.076": {
+      "doi": "10.1016/j.jmapro.2026.07.076",
+      "posted_at": "2026-08-08T22:01:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786226477.953579",
+      "summary_character_count": 93,
+      "summary_japanese": "316L薄肉回転部品のLDEDに螺旋ベクトル直交積層法を適用し、粉末・エネルギー入力を均一化した。硬さ均一性を高め、切削力・振動を低減し、真円度は≤0.035 mm、表面粗さも改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interrupting the hereditary effect: helical path vector-orthogonal additive method for enhanced subtractive machining performance and accuracy of thin-walled rotational parts"
     },
     "10.1016/j.micromeso.2026.114323": {
       "doi": "10.1016/j.micromeso.2026.114323",
