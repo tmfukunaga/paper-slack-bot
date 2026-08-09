@@ -22,7 +22,7 @@
     "2026-08-06": 40,
     "2026-08-07": 27,
     "2026-08-08": 29,
-    "2026-08-09": 18
+    "2026-08-09": 23
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -700,6 +700,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
+    },
+    "10.1002/ange.7946369": {
+      "doi": "10.1002/ange.7946369",
+      "posted_at": "2026-08-09T14:08:16+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786284496.927089",
+      "summary_character_count": 98,
+      "summary_japanese": "3組の縮環5/7員環をもつ椀状nanographene TATを三重分子内Heck反応で合成し、結晶構造解析で凹形状を確認した。TATナノ粒子は超高速無放射失活により41%の光熱変換効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis, Structure, and Photothermal Conversion of a Bowl-Shaped Nanographene Containing Fused 5-/7-Ring Pairs"
     },
     "10.1002/ange.7978333": {
       "doi": "10.1002/ange.7978333",
@@ -1564,6 +1577,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Oxygen Connectivity in Carbaporphyrinoid Polymers on Metal Surfaces"
     },
+    "10.1002/anie.9666828": {
+      "doi": "10.1002/anie.9666828",
+      "posted_at": "2026-08-09T14:08:01+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786284481.625099",
+      "summary_character_count": 132,
+      "summary_japanese": "共役organoboraneの精密post-phosphorizationにより、曲がったC42B2PおよびC42B2P2骨格のB/P共ドープnanographeneを合成し、青方偏移した誘導放出・ASEを観測した。硫化体はF−とAg+への二重イオン応答も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Heterocyclic Nanographenes Doped with Boron and Phosphorus: Post-Phosphorization Synthesis, Excited-State Dynamics and Ion-Responsive Properties"
+    },
     "10.1002/asia.70866": {
       "doi": "10.1002/asia.70866",
       "posted_at": "2026-07-17T17:07:49+00:00",
@@ -1875,6 +1901,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Theoretical Analysis of Low Energy Electronic Transitions of Actinide Complexes Including Spin-Orbit Effects"
+    },
+    "10.1002/ejic.70298": {
+      "doi": "10.1002/ejic.70298",
+      "posted_at": "2026-08-09T14:08:25+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786284505.010459",
+      "summary_character_count": 120,
+      "summary_japanese": "(1R,2R)/(1S,2S)-diaminocyclohexane配位Cr(III)錯体を合成し、CD・MChD測定でスピン禁制d-d吸収のMChD活性と低温でtris(oxalato)chromate(III)並みのgMChDを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magneto-Chiral Dichroism of Tris-Chelated Cr(III) Complexes for Magneto-Chiral Photochemistry Studies"
     },
     "10.1002/ejoc.70700": {
       "doi": "10.1002/ejoc.70700",
@@ -2791,6 +2830,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "PostsyntheticBromination of a Dinuclear AluminumHelicate and Its Chiroptical Properties"
+    },
+    "10.1021/acs.inorgchem.6c02592": {
+      "doi": "10.1021/acs.inorgchem.6c02592",
+      "posted_at": "2026-08-09T14:08:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786284492.667569",
+      "summary_character_count": 99,
+      "summary_japanese": "キラルなK3[Ln2(NO3)9]（Ln = La–Gd）を自然分割で光学分割し、固体4f–4f CDを系統測定した。Pr、Nd、Sm、Euで鋭いCD帯を確認し、Sm3+が最大の|gCD|を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Element-SpecificSensitivity of Lanthanoid Ions toChiral Crystal Fields in K3[Ln2(NO3)9] Probed by 4f-4f Circular Dichroism"
     },
     "10.1021/acs.inorgchem.6c02821": {
       "doi": "10.1021/acs.inorgchem.6c02821",
@@ -4700,6 +4752,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macroscopic assembly of supramolecular coacervates for underwater adhesion"
+    },
+    "10.1038/s41467-026-76538-9": {
+      "doi": "10.1038/s41467-026-76538-9",
+      "posted_at": "2026-08-09T14:08:08+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786284488.622039",
+      "summary_character_count": 130,
+      "summary_japanese": "Nb3Cl8の構造・電気光学特性を解析し、Kagome格子の三角形呼吸歪みに由来するbreathing ferroelectricityを実証した。薄膜ではflat-bandsを伴う励起子様吸収、厚膜では半導体様吸収端とchiral phononsを観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Breathing ferroelectricity, flat-bands and multiple chiral phonons in van der Waals breathing kagome Nb3Cl8"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
