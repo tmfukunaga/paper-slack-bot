@@ -22,7 +22,7 @@
     "2026-08-06": 40,
     "2026-08-07": 27,
     "2026-08-08": 29,
-    "2026-08-09": 13
+    "2026-08-09": 18
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1402,6 +1402,19 @@
       "summary_used_fallback": false,
       "title": "Amino Acid Simulated Host-Guest Systems With Full-Color High-Temperature Organic Afterglow"
     },
+    "10.1002/anie.7946369": {
+      "doi": "10.1002/anie.7946369",
+      "posted_at": "2026-08-09T10:19:23+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786270763.465139",
+      "summary_character_count": 97,
+      "summary_japanese": "3組の縮環5/7員環をもつ椀型nanographene TATを三重分子内Heck反応で合成し、構造と高速な椀反転を確認した。TATナノ粒子は超高速無放射失活により41%の光熱変換効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis, Structure, and Photothermal Conversion of a Bowl-Shaped Nanographene Containing Fused 5-/7-Ring Pairs"
+    },
     "10.1002/anie.7974480": {
       "doi": "10.1002/anie.7974480",
       "posted_at": "2026-07-18T07:02:00+00:00",
@@ -1498,6 +1511,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "A General and Scalable Chiral Surrogate Rotaxane Strategy for Highly Enantioenriched Mechanically Planar Chiral Rotaxanes"
+    },
+    "10.1002/anie.9135596": {
+      "doi": "10.1002/anie.9135596",
+      "posted_at": "2026-08-09T10:19:06+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786270746.454489",
+      "summary_character_count": 125,
+      "summary_japanese": "非対称アキラルnaphthalene誘導体N1は、構造水が4分子を架橋するC2対称tetramerを形成し、充填フラストレーションを介してラセミP/Mらせん繊維へ自己集合した。酸塩基刺激で形態は可逆変換し、キラル芳香族アミノ酸によりホモキラル化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule"
     },
     "10.1002/anie.9365925": {
       "doi": "10.1002/anie.9365925",
@@ -2188,6 +2214,19 @@
       "summary_used_fallback": false,
       "title": "Boosting Drug Permeability Across the Blood-Brain Barrier Through Supramolecular Macrocyclization"
     },
+    "10.1002/smll.74908": {
+      "doi": "10.1002/smll.74908",
+      "posted_at": "2026-08-09T10:19:10+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786270750.543269",
+      "summary_character_count": 89,
+      "summary_japanese": "長距離秩序化でキロプト応答を高めたキラル2Dペロブスカイトを、非接触CP-TRSPVで解析し、R体とS体でそれぞれ−0.7、0.17の巨大な光起電圧異方性因子gSPVを観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Contactless Detection of Giant Helicity-Dependent Photovoltage in Chiral 2D Perovskites"
+    },
     "10.1002/smll.75000": {
       "doi": "10.1002/smll.75000",
       "posted_at": "2026-08-05T18:03:54+00:00",
@@ -2200,6 +2239,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Compartmentalized Amplification and Spectral Engineering of Luminol Chemiluminescence via Host-Guest Cavity Binding and Amphiphilic Self-Assembly"
+    },
+    "10.1002/smll.75074": {
+      "doi": "10.1002/smll.75074",
+      "posted_at": "2026-08-09T10:19:19+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786270759.433059",
+      "summary_character_count": 133,
+      "summary_japanese": "triarylamine官能化キラル両面IDT系HTMを設計し、(R,R)-1と(S,S)-1薄膜で約60%のCISSスピン偏極を確認した。ペロブスカイトをホモキラル(R,R)-1でパッシベートした素子は、メソ体・ラセミ体より高効率かつ約3倍高い正孔移動度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Bifacial Indacenodithiophene-Based Hole-Transport Materials With Chirality-Induced Spin Selectivity: Chirality-Spin Polarity Correspondence and Perovskite Passivation"
     },
     "10.1007/s10483-026-3420-6": {
       "doi": "10.1007/s10483-026-3420-6",
@@ -4622,6 +4674,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Acoustic higher-order topological metals with bound corner states in the continuum"
+    },
+    "10.1038/s41467-026-76490-8": {
+      "doi": "10.1038/s41467-026-76490-8",
+      "posted_at": "2026-08-09T10:19:14+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786270754.921959",
+      "summary_character_count": 123,
+      "summary_japanese": "軸不斉架橋配位子をもつdiplatinum(II) phosphorにより、780 nmでEQEmax 8.46%、gEL +0.114/−0.111を示すNIR CP-PHOLEDを作製し、TADF増感でEQEmax 11.38%へ向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Near-infrared circularly polarized electroluminescence from axially chiral diplatinum(II) phosphors"
     },
     "10.1038/s41467-026-76507-2": {
       "doi": "10.1038/s41467-026-76507-2",
