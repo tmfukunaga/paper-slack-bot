@@ -23,7 +23,8 @@
     "2026-08-07": 27,
     "2026-08-08": 29,
     "2026-08-09": 23,
-    "2026-08-10": 11
+    "2026-08-10": 11,
+    "2026-08-12": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -746,6 +747,19 @@
       "posted_at": "2026-07-18T07:02:30+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1002/ange.9135596": {
+      "doi": "10.1002/ange.9135596",
+      "posted_at": "2026-08-11T15:31:31+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786462291.185489",
+      "summary_character_count": 100,
+      "summary_japanese": "非対称アキラルnaphthalene誘導体N1は、構造水が四価水素結合ノードとして形成する非平面C2対称tetramerにより、充填フラストレーションを伴うラセミP/Mらせんfiberへ自己集合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule"
     },
     "10.1002/ange.9590374": {
       "doi": "10.1002/ange.9590374",
@@ -3195,6 +3209,19 @@
       "summary_used_fallback": false,
       "title": "Clicking 1,4-Dithiin Conjugated Dimaleimides for Chiroptical Evolution and Nanofabrication"
     },
+    "10.1021/acs.nanolett.6c02584": {
+      "doi": "10.1021/acs.nanolett.6c02584",
+      "posted_at": "2026-08-11T15:31:23+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786462282.958199",
+      "summary_character_count": 104,
+      "summary_japanese": "cysteine添加ポリマー被覆Si NSを用い、キラル殻が共鳴時の差分吸収・散乱を誘起することを解析・実験で示し、Mie共鳴にCD信号を観測してcysteineからナノアンテナへのキラリティ移動を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality Transferfrom Chiral Molecules to Mie-ResonantSilicon Nanoparticles"
+    },
     "10.1021/acs.orglett.6c02188": {
       "doi": "10.1021/acs.orglett.6c02188",
       "posted_at": "2026-07-23T00:03:57+00:00",
@@ -4351,6 +4378,19 @@
       "summary_used_fallback": false,
       "title": "From Metal-Organic Helices to Zeolite-like Supramolecular Assemblies"
     },
+    "10.1021/jacs.6c12900": {
+      "doi": "10.1021/jacs.6c12900",
+      "posted_at": "2026-08-11T15:31:38+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786462298.766449",
+      "summary_character_count": 315,
+      "summary_japanese": "A chiral isothiourea catalyst enabled highly selective nucleophilic substitution of chlorophosphines with phenols and alcohols to synthesize P(III)-stereogenic phosphinites. DFT calculations indicated that chloride-assisted pyramidal inversion at phosphorus supports an efficient dynamic kinetic resolution process.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Achieving OrganocatalyticControl of P(III)-CenteredChirality for the Construction of P(III)/(V) Stereogenic Compounds"
+    },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
       "posted_at": "2026-08-05T21:16:15+00:00",
@@ -5222,6 +5262,19 @@
       "summary_used_fallback": false,
       "title": "Synthetic Studies on Leptolyngbyalides A-C: Stereoselective Synthesis of the C1-C15 Fragment"
     },
+    "10.1093/chemle/upag158": {
+      "doi": "10.1093/chemle/upag158",
+      "posted_at": "2026-08-11T15:31:17+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786462277.670099",
+      "summary_character_count": 123,
+      "summary_japanese": "極性非プロトン性acetonitrile中のthalidomideのキロプチカル特性を円二色性・旋光度で系統的に測定し、Kramers-Krönig解析と量子化学計算により、応答は主に単量体由来のn→π*およびπ→π*混成遷移に起因すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circular dichroism and optical activity of thalidomide in polar aprotic acetonitrile"
+    },
     "10.1093/nsr/nwag448": {
       "doi": "10.1093/nsr/nwag448",
       "posted_at": "2026-07-24T00:21:23+00:00",
@@ -5754,6 +5807,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Guest Protonation Gates Hydrogen-Bond-Driven Selectivity in Native Cyclodextrin Molecular Recognition"
+    },
+    "10.26434/chemrxiv.15002272/v3": {
+      "doi": "10.26434/chemrxiv.15002272/v3",
+      "posted_at": "2026-08-11T15:31:12+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786462272.866929",
+      "summary_character_count": 104,
+      "summary_japanese": "粘土ナノシート上でキラルIr(III)錯体Ir1-PF6とIr2-PF6の吸着・配列を分光測定とMDで解析し、光学純度依存の充填様式を示した。enantiopure Ir1+ではCPL強度が顕著に増幅された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Adsorption of Chiral Ir(III) Complexes on Clay Nanosheets: Optical-Purity-Dependent Packing and Amplified Circularly Polarized Luminescence"
     },
     "10.26434/chemrxiv.15002521/v2": {
       "doi": "10.26434/chemrxiv.15002521/v2",
