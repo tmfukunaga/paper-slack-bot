@@ -24,7 +24,7 @@
     "2026-08-08": 29,
     "2026-08-09": 23,
     "2026-08-10": 11,
-    "2026-08-12": 5
+    "2026-08-12": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -416,6 +416,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Local Solvent Ordering Drives Supramolecular Chirality Inversion"
+    },
+    "10.1002/advs.77047": {
+      "doi": "10.1002/advs.77047",
+      "posted_at": "2026-08-11T20:12:01+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786479121.399879",
+      "summary_character_count": 120,
+      "summary_japanese": "cobalt/Salox触媒によるarylamideとdialkynylboronのC−H/N−H環化で、B中心の不斉脱対称化とC−N軸不斉を同時構築し、広い基質範囲で高いジアステレオ・エナンチオ選択性を示した。生成物は顕著な蛍光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cobalt-Catalyzed Asymmetric Construction of Boron Stereocenters With C-N Axial Chirality"
     },
     "10.1002/agt2.70411": {
       "doi": "10.1002/agt2.70411",
@@ -3358,6 +3371,19 @@
       "summary_used_fallback": false,
       "title": "OrganocatalyticEnantioselective Synthesis of C-NAxially Chiral N -Arylindole Amino Esters viaOxidative Esterification with Dynamic Kinetic Resolution"
     },
+    "10.1021/acs.orglett.6c03036": {
+      "doi": "10.1021/acs.orglett.6c03036",
+      "posted_at": "2026-08-11T20:12:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786479132.699939",
+      "summary_character_count": 99,
+      "summary_japanese": "剛直な置換基で柱[5]areneの結晶充填を制御し、o-PYP5を合成した。水素結合二量体ネットワークの内在・環間空孔協同性により、マスタードガス模擬剤CEESのモル吸着量はEtP5の2倍となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle-Dimer-BasedHydrogen-Bonded Networks forCapture of a Mustard Gas Simulant via Intra- and Intercavity DualCooperativity"
+    },
     "10.1021/acs.orglett.6c03062": {
       "doi": "10.1021/acs.orglett.6c03062",
       "posted_at": "2026-08-06T06:16:08+00:00",
@@ -4209,6 +4235,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Phosphoric Acid-Catalyzed Asymmetric Hydrogenolysis of C-O Bonds"
     },
+    "10.1021/jacs.6c11091": {
+      "doi": "10.1021/jacs.6c11091",
+      "posted_at": "2026-08-11T20:12:25+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786479145.392769",
+      "summary_character_count": 104,
+      "summary_japanese": "Venus flytrap様構造をもつ陰イオン性In-MOF ZJU-X66は、Cs+誘起の骨格収縮・空孔閉鎖による包接機構で137Cs+を選択的に捕捉し、West Lake水で10分以内に>98%除去した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A SmartBiomimetic Supramolecular Adsorbent for DynamicRadiocesium Capture from Contaminated Water"
+    },
     "10.1021/jacs.6c11182": {
       "doi": "10.1021/jacs.6c11182",
       "posted_at": "2026-07-17T21:11:34+00:00",
@@ -4897,6 +4936,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Near-infrared circularly polarized electroluminescence from axially chiral diplatinum(II) phosphors"
+    },
+    "10.1038/s41467-026-76498-0": {
+      "doi": "10.1038/s41467-026-76498-0",
+      "posted_at": "2026-08-11T20:12:07+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786479127.833319",
+      "summary_character_count": 112,
+      "summary_japanese": "WSe2近接chiral twisted double bilayer grapheneで、連続体模型計算と1/4充填輸送測定により、結晶方位Φ≈0°ではC=+1 Chern絶縁体、Φ≈15°ではC=0相となることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2"
     },
     "10.1038/s41467-026-76507-2": {
       "doi": "10.1038/s41467-026-76507-2",
@@ -6300,6 +6352,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and Photophysical Properties of [3]Catenanes composed of Two or Three Different Rings: Proximity Effect of the Chromophores"
+    },
+    "10.26434/chemrxiv.15007210/v1": {
+      "doi": "10.26434/chemrxiv.15007210/v1",
+      "posted_at": "2026-08-11T20:12:21+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786479141.674549",
+      "summary_character_count": 125,
+      "summary_japanese": "ポリスチレン担持Ad-TRIP CPAによるイミンの不斉移動水素化で、連続フロー最適化により3,5-di-tert-butylphenyl置換benzothiazolineを見出し、15種のキラルbenzylic amineを最大99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Immobilized Chiral Phosphoric Acid-Catalyzed Transfer Hydrogenation of Imines via Reductant Fine-tuning in Continuous Flow"
     },
     "10.26599/pom.2026.9140153": {
       "doi": "10.26599/pom.2026.9140153",
