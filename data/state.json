@@ -24,7 +24,7 @@
     "2026-08-08": 29,
     "2026-08-09": 23,
     "2026-08-10": 11,
-    "2026-08-12": 10
+    "2026-08-12": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -429,6 +429,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cobalt-Catalyzed Asymmetric Construction of Boron Stereocenters With C-N Axial Chirality"
+    },
+    "10.1002/aenm.71428": {
+      "doi": "10.1002/aenm.71428",
+      "posted_at": "2026-08-11T23:23:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786490619.671149",
+      "summary_character_count": 113,
+      "summary_japanese": "Bi-Sn/Cの再構築界面と2.2.2-cryptandによるK+制御を組み合わせ、低K+・pH 1でCO2還元によるHCOOH生成を達成した。cryptand修飾触媒は50 mM K2SO4で94%のファラデー効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reconstructed Bi-Sn Interfacial Sites Coupled with a Supramolecular Cation Cage Enable Low K + Acidic CO 2 Electroreduction to Formate"
     },
     "10.1002/agt2.70411": {
       "doi": "10.1002/agt2.70411",
@@ -2371,6 +2384,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Bifacial Indacenodithiophene-Based Hole-Transport Materials With Chirality-Induced Spin Selectivity: Chirality-Spin Polarity Correspondence and Perovskite Passivation"
+    },
+    "10.1002/smll.75160": {
+      "doi": "10.1002/smll.75160",
+      "posted_at": "2026-08-11T23:23:35+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786490614.953279",
+      "summary_character_count": 95,
+      "summary_japanese": "新規pyrene系液晶メソゲンPy-LCMを設計し、溶媒極性・濃度と自己集合の速度論経路により分子充填構造を制御して多様な発光を得た。巨視的配向では偏光依存発光を示し、光学暗号化へ応用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Connecting Nanoscale Molecular Self-Assembly to Macroscale Photophysical Property of Pyrene-Based Liquid Crystal Mesogen"
     },
     "10.1007/s10483-026-3420-6": {
       "doi": "10.1007/s10483-026-3420-6",
@@ -5054,6 +5080,19 @@
       "summary_used_fallback": false,
       "title": "Rotational and Penetration Rate Effects on the Formation and Axial Capacity of Pressure-Grouted Helical Piles"
     },
+    "10.1051/epjconf/202637803004/pdf": {
+      "doi": "10.1051/epjconf/202637803004/pdf",
+      "posted_at": "2026-08-11T23:23:23+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786490603.484899",
+      "summary_character_count": 102,
+      "summary_japanese": "相対論的重イオン衝突におけるchiral magnetic effect探索を対象に、考案された観測量と解析手法の長所・限界を整理し、大きな背景寄与のため確定的結論に至っていない実験研究の現状を展望する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The chiral magnetic effect in relativistic heavy-ion collisions - an experimental perspective"
+    },
     "10.1055/a-2913-5787": {
       "doi": "10.1055/a-2913-5787",
       "posted_at": "2026-07-23T06:21:58+00:00",
@@ -5274,6 +5313,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Charge Separation Measurements in Au+Au collisions at √sNN=7.7-200 GeV in Search of the Chiral Magnetic Effect"
+    },
+    "10.1088/1674-1137/ae973a": {
+      "doi": "10.1088/1674-1137/ae973a",
+      "posted_at": "2026-08-11T23:23:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786490625.980879",
+      "summary_character_count": 106,
+      "summary_japanese": "ベクトル中間子nonetを含む高次カイラルLagrangianを各表現で構成し、tensor-fieldとhidden local symmetry表現の既報の冗長項を同定するとともに、両表現の等価性を検討した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Higher-order chiral Lagrangians with vector meson nonet in different representations"
     },
     "10.1088/1741-4326/ae9326": {
       "doi": "10.1088/1741-4326/ae9326",
@@ -6365,6 +6417,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Immobilized Chiral Phosphoric Acid-Catalyzed Transfer Hydrogenation of Imines via Reductant Fine-tuning in Continuous Flow"
+    },
+    "10.26434/chemrxiv.15007235/v1": {
+      "doi": "10.26434/chemrxiv.15007235/v1",
+      "posted_at": "2026-08-11T23:23:30+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786490610.256579",
+      "summary_character_count": 109,
+      "summary_japanese": "有機光触媒によるα-bromo N-acyl sulfinamidesの可視光還元でα-carbonyl radicalを発生させ、分子内aryl移動により四級炭素中心を主に有するα-aryl amidesを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reductive Sulfinyl Smiles-Truce Rearrangement of α-Bromoamides to α-Aryl Quaternary Centers"
     },
     "10.26599/pom.2026.9140153": {
       "doi": "10.26599/pom.2026.9140153",
