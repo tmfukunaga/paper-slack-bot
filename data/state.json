@@ -25,7 +25,7 @@
     "2026-08-09": 23,
     "2026-08-10": 11,
     "2026-08-12": 25,
-    "2026-08-13": 5
+    "2026-08-13": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3093,6 +3093,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
     },
+    "10.1021/acs.joc.6c00943": {
+      "doi": "10.1021/acs.joc.6c00943",
+      "posted_at": "2026-08-12T20:11:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786565515.767909",
+      "summary_character_count": 114,
+      "summary_japanese": "初の5-monoazaporphyrin族Si(IV)/Sn(IV)六配位錯体を合成し、X線・分光・CV・DFTで評価した。金属中心はHOMO/LUMOを安定化し環電流を弱め、meso窒素置換による正電荷は芳香族性を低下させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis, Aromaticity,and Optical and Redox Propertiesof Silicon(IV) and Tin(IV) Complexes of meso -Substituted5-Monoazaporphyrin Derivatives"
+    },
     "10.1021/acs.joc.6c01097": {
       "doi": "10.1021/acs.joc.6c01097",
       "posted_at": "2026-08-07T03:04:37+00:00",
@@ -4262,6 +4275,19 @@
       "summary_used_fallback": false,
       "title": "Antiaromatic Cyclooctatetraene-Embedded, BODIPY-Fused Nanographene with an NIR-II Chiroptical Response"
     },
+    "10.1021/jacs.6c10023": {
+      "doi": "10.1021/jacs.6c10023",
+      "posted_at": "2026-08-12T20:11:40+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786565500.471639",
+      "summary_character_count": 121,
+      "summary_japanese": "合成キャリアP1–7は、液膜を介してPFASを構造依存的・一方向的に輸送した。UV-Vis、NMR、DFTとLC-MSで相互作用・輸送を評価し、競合種をほぼ輸送せず標的PFASを90%超で選択輸送し、湖水中ppt濃度のPFOSにも有効だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Carrier-Mediated SelectiveTransport of PFAS acrossLiquid Membranes"
+    },
     "10.1021/jacs.6c10166": {
       "doi": "10.1021/jacs.6c10166",
       "posted_at": "2026-08-02T15:18:16+00:00",
@@ -5107,6 +5133,19 @@
       "summary_used_fallback": false,
       "title": "Cavity-Enabled Supramolecular Regulation of Capacitive-Redox Bromine Electrochemistry in Zinc-Bromine Batteries"
     },
+    "10.1038/s41467-026-76584-3": {
+      "doi": "10.1038/s41467-026-76584-3",
+      "posted_at": "2026-08-12T20:11:47+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786565507.322699",
+      "summary_character_count": 126,
+      "summary_japanese": "cycloalkoxy官能基化アクセプターO6R-4Fを設計し、L8-BO-C5の過剰凝集を抑えてドナー/アクセプターの協調的凝集・結晶化を促進した。as-cast D18:L8-BO-C5:O6R-4F素子は後処理なしで変換効率20.9%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular navigation strategy enables fibrillar self-assembly for efficient as-cast organic solar cells"
+    },
     "10.1038/s41467-026-76656-4": {
       "doi": "10.1038/s41467-026-76656-4",
       "posted_at": "2026-08-12T09:48:01+00:00",
@@ -5236,6 +5275,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Positional Effects of Amine-Induced Chiral Perturbation on Circularly Polarized Luminescence in Cyanoarene-Based TADF Emitters"
+    },
+    "10.1063/5.0325213": {
+      "doi": "10.1063/5.0325213",
+      "posted_at": "2026-08-12T20:11:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786565511.975909",
+      "summary_character_count": 103,
+      "summary_japanese": "交互エナンチオマー周期構造のキラル媒質におけるポンプ枯渇を含む三波パラメトリック相互作用を解析し、順・逆伝搬の増幅しきい値を導出した。helicenebisquinone filmで逆伝搬が高効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Theory of quasi-phase matching parametric interaction of optical waves in chiral structures considering pump depletion"
     },
     "10.1063/5.0332479": {
       "doi": "10.1063/5.0332479",
@@ -7003,6 +7055,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Necessity of the Standard Model: Placement Theorems for the Higgs and Fermion Chirality"
+    },
+    "10.5283/epub.80327": {
+      "doi": "10.5283/epub.80327",
+      "posted_at": "2026-08-12T20:11:36+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786565496.299799",
+      "summary_character_count": 122,
+      "summary_japanese": "非対称グレーティングを備えた2次元tellureneでTHzラチェット効果を調べ、円偏光ヘリシティに応じて向きが反転するc軸方向光電流を室温・広範なゲート電圧域で観測した。Boltzmann運動論に基づく理論は偏光・ゲート電圧依存性を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating"
     },
     "10.5445/ir/1000195221": {
       "doi": "10.5445/ir/1000195221",
