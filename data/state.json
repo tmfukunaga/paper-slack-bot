@@ -24,7 +24,8 @@
     "2026-08-08": 29,
     "2026-08-09": 23,
     "2026-08-10": 11,
-    "2026-08-12": 25
+    "2026-08-12": 25,
+    "2026-08-13": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -812,6 +813,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Heterocyclic Nanographenes Doped with Boron and Phosphorus: Post-Phosphorization Synthesis, Excited-State Dynamics and Ion-Responsive Properties"
+    },
+    "10.1002/anie.1026671": {
+      "doi": "10.1002/anie.1026671",
+      "posted_at": "2026-08-12T15:31:24+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786548683.981019",
+      "summary_character_count": 102,
+      "summary_japanese": "dodecane中でTPE-Aの二次核形成誘起超分子重合により、蛍光性の超長尺・剛直な束状繊維を形成した。繊維の疎水性レーンを鋳型として、半導体ナノ結晶の固有光学特性を損なわず長距離一次元配列を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Harnessing Secondary Nucleation-Driven Supramolecular Bundled Fibers for Long-Range One-Dimensional Assembly of Semiconductor Nanocrystals"
     },
     "10.1002/anie.1030078": {
       "doi": "10.1002/anie.1030078",
@@ -2190,6 +2204,19 @@
       "summary_used_fallback": false,
       "title": "Robust Chiral High- Q Response Driven by Quasi-Bound Flatband in the Continuum"
     },
+    "10.1002/nap2.70246": {
+      "doi": "10.1002/nap2.70246",
+      "posted_at": "2026-08-12T15:31:03+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786548663.404289",
+      "summary_character_count": 98,
+      "summary_japanese": "多色一般化Lorenz–Mie理論で、任意方向OAMをもつSTOVのキラル球粒子による渦状微分散乱を解析した。縦OAM成分は渦状二色性を示し、トポロジカル電荷増大と時空間スケール縮小で増強された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vortical Differential Scattering of Spatio-Temporal Optical Vortex With Arbitrarily Oriented Orbital Angular Momentum by Chiral Spherical Particle"
+    },
     "10.1002/pen.70670": {
       "doi": "10.1002/pen.70670",
       "posted_at": "2026-07-26T00:13:10+00:00",
@@ -3014,6 +3041,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Element-SpecificSensitivity of Lanthanoid Ions toChiral Crystal Fields in K3[Ln2(NO3)9] Probed by 4f-4f Circular Dichroism"
+    },
+    "10.1021/acs.inorgchem.6c02731": {
+      "doi": "10.1021/acs.inorgchem.6c02731",
+      "posted_at": "2026-08-12T15:31:11+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786548671.460759",
+      "summary_character_count": 130,
+      "summary_japanese": "half-sandwich rhodium錯体とヘテロアリールアミド配位子の自己集合で、-CH2-はD型[2]-catenaneを形成し、-CH2CH2-はmetallacycleのみを与えた。2,2′-bipyridineによる共役拡張でD型形成が回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "ControlledSelf-Assembly of [2]-Catenanes Via Tuningthe Length and Conjugation Area of Flexible Building Units"
     },
     "10.1021/acs.inorgchem.6c02821": {
       "doi": "10.1021/acs.inorgchem.6c02821",
@@ -5457,6 +5497,19 @@
       "summary_used_fallback": false,
       "title": "Circular dichroism and optical activity of thalidomide in polar aprotic acetonitrile"
     },
+    "10.1093/chemle/upag161": {
+      "doi": "10.1093/chemle/upag161",
+      "posted_at": "2026-08-12T15:31:19+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786548679.082259",
+      "summary_character_count": 120,
+      "summary_japanese": "o-aminophenol基とacetal保護salicylaldehyde基をもつmonomer 2から、6個のONO型三座sap部位を含む大環状配位子hexasapを合成した。六核Ga錯体は空孔内で配位子が規則的に配列した構造を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Hexasap Macrocyclic Ligand with Six Tridentate Sap Chelating Units and Its Gallium Complex"
+    },
     "10.1093/nsr/nwag448": {
       "doi": "10.1093/nsr/nwag448",
       "posted_at": "2026-07-24T00:21:23+00:00",
@@ -5872,6 +5925,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetic Field Effects on Q355B Steel Corrosion Morphology and Helical Anchor Uplift Behavior"
+    },
+    "10.20944/preprints202608.0609.v1": {
+      "doi": "10.20944/preprints202608.0609.v1",
+      "posted_at": "2026-08-12T15:31:28+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786548688.364029",
+      "summary_character_count": 90,
+      "summary_japanese": "キラルプラズモニックナノ材料の多様な構造、キラリティー発現機構、光学応答制御を概説し、エナンチオ選択的検出、触媒変換、バイオメディカル応用と合成・利用上の課題、将来戦略を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Advances and Prospects of Chiral Plasmonic Nanomaterials in Emerging Applications"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
