@@ -24,7 +24,7 @@
     "2026-08-08": 29,
     "2026-08-09": 23,
     "2026-08-10": 11,
-    "2026-08-12": 15
+    "2026-08-12": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2228,6 +2228,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "CO 2 -Responsive Supramolecular Polymer-Surfactant System Enabled by Competitive Host-Guest Occupancy for Enhanced Oil Recovery in Low-Permeability Reservoirs"
+    },
+    "10.1002/pola.70298": {
+      "doi": "10.1002/pola.70298",
+      "posted_at": "2026-08-12T05:46:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786513578.068489",
+      "summary_character_count": 122,
+      "summary_japanese": "ʟ-alanine由来ジアミンとphthalaldehydesから光学活性Schiff base polymersを合成し、芳香環結合位置とN-メチル化がCD応答・加水分解性を規定することを示した。para体は穏和な酸で解重合後、再重合できた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structure-Conformation-Reactivity Relationships in Optically Active Schiff Base Polymers: Effects of Aromatic Linkage Geometry on Chiroptical Properties and Chemical Recyclability"
     },
     "10.1002/qua.70278": {
       "doi": "10.1002/qua.70278",
@@ -5093,6 +5106,19 @@
       "summary_used_fallback": false,
       "title": "The chiral magnetic effect in relativistic heavy-ion collisions - an experimental perspective"
     },
+    "10.1051/epjconf/202637807004/pdf": {
+      "doi": "10.1051/epjconf/202637807004/pdf",
+      "posted_at": "2026-08-12T05:46:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786513587.868049",
+      "summary_character_count": 126,
+      "summary_japanese": "レプトン数を2単位破るspin-1/2 hyperonの0ν二重β崩壊B−1→B+1l−l−を、共変baryon chiral perturbation theoryの1ループで計算し、6つの物理的崩壊過程の振幅二乗のDalitz plotを提示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hyperon neutrinoless double beta decays in chiral perturbation theory"
+    },
     "10.1055/a-2913-5787": {
       "doi": "10.1055/a-2913-5787",
       "posted_at": "2026-07-23T06:21:58+00:00",
@@ -6431,6 +6457,19 @@
       "summary_used_fallback": false,
       "title": "Reductive Sulfinyl Smiles-Truce Rearrangement of α-Bromoamides to α-Aryl Quaternary Centers"
     },
+    "10.26599/nr.2026.94909085": {
+      "doi": "10.26599/nr.2026.94909085",
+      "posted_at": "2026-08-12T05:46:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786513582.706089",
+      "summary_character_count": 135,
+      "summary_japanese": "キラルCNT担持単原子触媒71種をDFTで評価し、45種の自由エネルギー経路からNO3−吸着エネルギーと活性の一貫した火山型関係を確認した。V-C2N2/CNTとOs-C2N2/CNTは限界電位−0.36、−0.37 Vを示し、機械学習でΔG*NO3の主要因を抽出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Validation of nitrate adsorption energy as an activity descriptor for nitrate electroreduction on single-atom catalysts supported by chiral carbon nanotubes: DFT calculations and machine learning"
+    },
     "10.26599/pom.2026.9140153": {
       "doi": "10.26599/pom.2026.9140153",
       "posted_at": "2026-08-05T16:13:09+00:00",
@@ -6521,6 +6560,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Predicting patient-specific quality assurance outcomes in helical tomotherapy using plan complexity and 3D dose-distribution radiomics"
+    },
+    "10.3390/analytica7030053": {
+      "doi": "10.3390/analytica7030053",
+      "posted_at": "2026-08-12T05:46:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786513573.279969",
+      "summary_character_count": 121,
+      "summary_japanese": "モロッコの主要農業生態地域で採取したTriticum aestivum・T. durum由来CPP-23を調製し、ISO準拠で均質性・安定性を評価した。8機関の比較試験により多元素の認証値を設定し、全分析対象で拡張不確かさは15%未満だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development and Certification of CPP-23: A Multi-Element Certified Reference Material for Cereal Plant Tissue from Semi-Arid Regions"
     },
     "10.3390/app16147260": {
       "doi": "10.3390/app16147260",
@@ -6859,6 +6911,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Layered helical order reveals assembly states in podosome actin networks"
+    },
+    "10.7759/cureus.114278": {
+      "doi": "10.7759/cureus.114278",
+      "posted_at": "2026-08-12T05:46:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786513568.917589",
+      "summary_character_count": 124,
+      "summary_japanese": "不安定転子部骨折のCMNにおけるhelical bladeとlag screwを臨床・生体力学・レジストリ研究で比較し、全固定失敗率に一貫した優劣はなかった。tip-apex distance＞25 mm、整復・留置精度が固定具選択より重要だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Blade Versus Lag Screw Fixation in Cephalomedullary Nailing of Unstable Trochanteric Fractures: A Narrative Review"
     }
   }
 }
