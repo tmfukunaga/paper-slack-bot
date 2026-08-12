@@ -25,7 +25,7 @@
     "2026-08-09": 23,
     "2026-08-10": 11,
     "2026-08-12": 25,
-    "2026-08-13": 10
+    "2026-08-13": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1092,6 +1092,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Open-Shell Guest Acceptors Manipulate Charge-Transfer Spin Dynamics in Organic Solar Cells"
+    },
+    "10.1002/anie.3141713": {
+      "doi": "10.1002/anie.3141713",
+      "posted_at": "2026-08-12T23:22:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786576953.617999",
+      "summary_character_count": 133,
+      "summary_japanese": "酸摂動で合成したmetal-tripyridinium cage glass 1gは、radical状態と電荷移動を安定化して2000 nm超まで吸収し、1060 nm照射下で93.1±1.2%の光熱変換効率を示した。熱電モジュールとの統合で2.53 Vを発生した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Broad Optical Absorption and Photochromism in a Metal-Tripyridinium Cage Glass via Acid Perturbation for Efficient Photothermo-Electric Synergistic Conversion"
     },
     "10.1002/anie.3186961": {
       "doi": "10.1002/anie.3186961",
@@ -2451,6 +2464,19 @@
       "summary_used_fallback": false,
       "title": "Connecting Nanoscale Molecular Self-Assembly to Macroscale Photophysical Property of Pyrene-Based Liquid Crystal Mesogen"
     },
+    "10.1002/zaac.70190": {
+      "doi": "10.1002/zaac.70190",
+      "posted_at": "2026-08-12T23:22:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786576966.347519",
+      "summary_character_count": 123,
+      "summary_japanese": "2,9-dichloro-1,10-phenanthroline類をアミノ化・フッ素化し、縮合によりbis-phenanthroline macrocyclesを59–80%収率で合成した。4,5-(OBu)2置換体と金属錯体は高溶解性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Facile Synthesis of 2,9-Diamino-1,10-Phenanthrolines, 2,9-Difluoro-1,10-Phenanthrolines and Soluble Bis-Phenanthroline-Macrocycles"
+    },
     "10.1007/s10483-026-3420-6": {
       "doi": "10.1007/s10483-026-3420-6",
       "posted_at": "2026-08-01T00:15:39+00:00",
@@ -3806,6 +3832,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "ParametricControl of Extrinsic Chiral Response inTHz Nonlocal Metasurfaces via Quasi-Bound States in the Continuum"
+    },
+    "10.1021/acsphotonics.6c00889": {
+      "doi": "10.1021/acsphotonics.6c00889",
+      "posted_at": "2026-08-12T23:22:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786576959.862119",
+      "summary_character_count": 101,
+      "summary_japanese": "自己集合体の純粋な光学回転に向け、色素共鳴のエネルギー非縮退を設計原理として提案した。α/β-CdSクラスター混合系で吸収・CDの弱い領域に生じるCBを実証し、ABAB配列で回転性能が向上すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Route toPure Optical Rotation in Self-AssembledMaterials through Energetic Nondegeneracy"
     },
     "10.1021/acsphotonics.6c01273": {
       "doi": "10.1021/acsphotonics.6c01273",
@@ -5796,6 +5835,19 @@
       "summary_used_fallback": false,
       "title": "Chiral symmetry and curvature bounds in de Sitter spacetime"
     },
+    "10.1142/s0219887826503561": {
+      "doi": "10.1142/s0219887826503561",
+      "posted_at": "2026-08-12T23:22:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786576945.262469",
+      "summary_character_count": 131,
+      "summary_japanese": "string cloudとquintessenceを伴う非線形磁気電荷AdS黒穴で各種場をSchrödinger形へ還元し、greybody factorを評価した。fermionではhelicityにより透過が最大となるquintessence条件が異なった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity-Resolved Greybody Factors of AdS-NLED Black Holes with Strings and Quintessence"
+    },
     "10.1177/08927057261471597": {
       "doi": "10.1177/08927057261471597",
       "posted_at": "2026-07-27T18:10:09+00:00",
@@ -6977,6 +7029,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inverting the Quark Self-Energy from Chiral Low-Energy Constants: A Possible L8 Tension in the Leading-Nc Rainbow Framework"
+    },
+    "10.4028/p-8rklk7": {
+      "doi": "10.4028/p-8rklk7",
+      "posted_at": "2026-08-12T23:22:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786576949.520599",
+      "summary_character_count": 125,
+      "summary_japanese": "カイラル液晶中のfull skyrmionを、結晶欠陥用Eulerian形式論とFrank-Oseen記述を接続して歪み電荷で特徴付け、一般化Peach-Koehler力とNewtonの第二法則から運動方程式を導出した。既報の挙動を解析的に再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamics of Full Skyrmions in a Chiral Liquid Crystal"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
