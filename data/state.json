@@ -24,7 +24,7 @@
     "2026-08-08": 29,
     "2026-08-09": 23,
     "2026-08-10": 11,
-    "2026-08-12": 20
+    "2026-08-12": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1826,6 +1826,19 @@
       "summary_used_fallback": false,
       "title": "Multi-Scale Investigation of Supramolecular Organogels Assembled From Pt(II)-Salphen Complexes"
     },
+    "10.1002/chem.71535": {
+      "doi": "10.1002/chem.71535",
+      "posted_at": "2026-08-12T09:47:56+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786528076.560809",
+      "summary_character_count": 124,
+      "summary_japanese": "methoxy-phenylおよびphenol由来キラルpyridyldiamide配位子から、熱力学制御下で3:1の光学純粋Tb(III)錯体を合成した。配位子励起でTb(III)中心発光とCPLを示し、速度論的自己集合もin situ解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Lanthanide Centered and Circular Polarized Luminescence (CPL) From Tb(III) Complexes Made From Structurally Simple Methoxy-Phenyl and Phenol-Derived Pyridyldiamide (pda) Ligands"
+    },
     "10.1002/chem.71537": {
       "doi": "10.1002/chem.71537",
       "posted_at": "2026-08-06T09:02:04+00:00",
@@ -3066,6 +3079,19 @@
       "summary_used_fallback": false,
       "title": "Covalent TemplatedCatenane Synthesis Requiring HinderedEster Cleavage"
     },
+    "10.1021/acs.jpca.6c04444": {
+      "doi": "10.1021/acs.jpca.6c04444",
+      "posted_at": "2026-08-12T09:48:05+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786528085.534439",
+      "summary_character_count": 111,
+      "summary_japanese": "キラルCNT(6,m)にNH3·HXを内包し、CNT(6,3)内でNH3·HClがNH4+Cl−へ完全にプロトン移動することを示した。C3対称のN–H···π相互作用により|gabs|は0.088から0.856へ増大した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Proton Transferand Chirality of Ammonia-HX (X = F,Cl, Br) Complexes Confined in Carbon Nanotubes"
+    },
     "10.1021/acs.jpcb.6c02070": {
       "doi": "10.1021/acs.jpcb.6c02070",
       "posted_at": "2026-07-22T21:01:39+00:00",
@@ -3643,6 +3669,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Reprogramming ω -Transaminase for Enantioselective Assembly of Axially Chiral Spiro[3.3]heptane Building Blocks"
+    },
+    "10.1021/acsmaterialsau.5c00256": {
+      "doi": "10.1021/acsmaterialsau.5c00256",
+      "posted_at": "2026-08-12T09:48:17+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786528097.010839",
+      "summary_character_count": 120,
+      "summary_japanese": "共役高分子の液晶メソ相で、二種の貧溶媒混合によるcosolvencyを利用し、混合比で繊維凝集体の剛直性を制御した。剛直化によりtactoidのアスペクト比と相転移臨界体積、twist-bend nematic相のヘリカルピッチが増加した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Large Modulationof Conjugated Polymer Liquid CrystalStructure and Supramolecular Helicity via Cosolvency Effect"
     },
     "10.1021/acsnano.6c05585": {
       "doi": "10.1021/acsnano.6c05585",
@@ -5027,6 +5066,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cavity-Enabled Supramolecular Regulation of Capacitive-Redox Bromine Electrochemistry in Zinc-Bromine Batteries"
+    },
+    "10.1038/s41467-026-76656-4": {
+      "doi": "10.1038/s41467-026-76656-4",
+      "posted_at": "2026-08-12T09:48:01+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786528081.255389",
+      "summary_character_count": 125,
+      "summary_japanese": "キラルπ共役quinquethiophene-rhodanine誘導体は、同一条件下で4種の単離可能な集合体を形成した。熱・機械処理、熱量測定、速度論解析により、二次核生成に支配される最安定superhelixへのhelix転移と相互変換網を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From helices to superhelices through hierarchical assembly across competing pathways"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
@@ -6456,6 +6508,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Reductive Sulfinyl Smiles-Truce Rearrangement of α-Bromoamides to α-Aryl Quaternary Centers"
+    },
+    "10.26434/chemrxiv.15007300/v1": {
+      "doi": "10.26434/chemrxiv.15007300/v1",
+      "posted_at": "2026-08-12T09:48:12+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786528092.841439",
+      "summary_character_count": 132,
+      "summary_japanese": "inosineと2’-deoxyinosineをdiaryliodonium塩でCu(OAc)2/Cs2CO3存在下アリール化し、N-arylationが優先した。一部生成物では導入aryl基やOTBS保護基に由来するN–C軸不斉atropisomerを観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "N-Arylation of Inosine and 2’-Deoxyinosine with Diaryliodonium Reagents and Atropisomerism of the Products"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
