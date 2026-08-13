@@ -25,7 +25,8 @@
     "2026-08-09": 23,
     "2026-08-10": 11,
     "2026-08-12": 25,
-    "2026-08-13": 15
+    "2026-08-13": 15,
+    "2026-08-14": 2
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1365,6 +1366,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Single-Atom Control of Aromaticity and Excited-State Dynamics in Endohedral Zirconium-Antimony Zintl Clusters"
+    },
+    "10.1002/anie.6268409": {
+      "doi": "10.1002/anie.6268409",
+      "posted_at": "2026-08-13T15:32:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786635154.894689",
+      "summary_character_count": 132,
+      "summary_japanese": "キラルbicyclo[3.2.1]octaneによる遠隔配座制御下の可視光photoredox環化で、ent-kaurenoic acid骨格を高ジアステレオ選択的に構築し、共通中間体からnoueinsiancin Dを含む7種のditerpenoidを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Total Synthesis of ent -Kaurenoic Acid Diterpenoids Enabled by Distal Conformational Control in Photoredox Radical Polyene Cyclization"
     },
     "10.1002/anie.6443941": {
       "doi": "10.1002/anie.6443941",
@@ -7159,6 +7173,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Absolute quantification of enantiomeric purity of sorted carbon nanotubes by correlating hyperspectral fluorescence microscopy with ensemble chiroptical spectroscopy"
+    },
+    "10.59345/sjrir.v4i1.323": {
+      "doi": "10.59345/sjrir.v4i1.323",
+      "posted_at": "2026-08-13T15:32:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786635159.871129",
+      "summary_character_count": 112,
+      "summary_japanese": "48人の腫瘍患者で等モル量の高relaxivityおよび標準macrocyclic GBCAを用いた3.0 T肝MRIを比較し、高relaxivity剤はCNRと微小転移感度を88.7%へ有意に向上させ、特異度は同等だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intra-individual Comparison of High-Relaxivity versus Standard Macrocyclic Gadolinium Agents for Detecting Hepatic Micrometastases at 3.0 T"
     },
     "10.64898/2026.07.24.740591": {
       "doi": "10.64898/2026.07.24.740591",
