@@ -26,7 +26,7 @@
     "2026-08-10": 11,
     "2026-08-12": 25,
     "2026-08-13": 15,
-    "2026-08-14": 2
+    "2026-08-14": 3
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5939,6 +5939,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modeling and simulation of a helical-finned tube integrated with paraffin wax in a solar water heater system for enhanced thermal energy storage performance"
+    },
+    "10.1364/oe.608824": {
+      "doi": "10.1364/oe.608824",
+      "posted_at": "2026-08-13T20:03:45+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786651425.922399",
+      "summary_character_count": 107,
+      "summary_japanese": "平面誘電体メタサーフェスでエッチング曲線を回転・並進し、chiral guided mode resonanceの位相差を制御した。固定波長でCDを−0.996から+0.985へ反転し、Q値は10^3超を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Near-unity and high-Q circular dichroism reversal enabled by chiral guided mode resonance in planar dielectric metasurfaces"
     },
     "10.1364/opticaopen.32538849.v3": {
       "doi": "10.1364/opticaopen.32538849.v3",
