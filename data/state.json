@@ -26,7 +26,7 @@
     "2026-08-10": 11,
     "2026-08-12": 25,
     "2026-08-13": 15,
-    "2026-08-14": 13
+    "2026-08-14": 18
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3471,6 +3471,19 @@
       "summary_used_fallback": false,
       "title": "Chirality Transferfrom Chiral Molecules to Mie-ResonantSilicon Nanoparticles"
     },
+    "10.1021/acs.organomet.6c00227": {
+      "doi": "10.1021/acs.organomet.6c00227",
+      "posted_at": "2026-08-14T09:43:36+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786700616.347599",
+      "summary_character_count": 134,
+      "summary_japanese": "imidazole系dithiolate dimerとhexachlorodisilaneから、初のdithiolene系不飽和propellaneであるキラルな2を合成した。X線解析とDFT計算により、P/Mらせん性は嵩高い置換基間の立体相互作用に由来すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Flash Communication:A Dithiolene-Based Hexathiadisila[4.4.4]propellene"
+    },
     "10.1021/acs.orglett.6c02188": {
       "doi": "10.1021/acs.orglett.6c02188",
       "posted_at": "2026-07-23T00:03:57+00:00",
@@ -4353,6 +4366,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvophobic Effect-DrivenC4-Selective C-HOxidation of Diverse Alkyl Substrates by a Macrocyclic SupramolecularCatalyst"
+    },
+    "10.1021/jacs.6c08998": {
+      "doi": "10.1021/jacs.6c08998",
+      "posted_at": "2026-08-14T09:43:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786700608.688639",
+      "summary_character_count": 342,
+      "summary_japanese": "A Pd(0)/chiral phosphoramidite ligand system enabled enantioselective cross-[4 + 2] cycloadditions of 2-carboalkoxy-1,3-butadienes generated from Morita-Baylis-Hillman carbonates with 1,3-dienes. The method afforded para-substituted cyclohexenes bearing quaternary chiral centers in high yields with excellent regio- and enantioselectivities.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Pd(0)-Catalyzed EnantioselectiveFormal Normal-Electron-DemandCross-[4 + 2] Cycloadditions of Morita-Baylis-HillmanCarbonates with 1,3-Dienes"
     },
     "10.1021/jacs.6c09248": {
       "doi": "10.1021/jacs.6c09248",
@@ -5341,6 +5367,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "From helices to superhelices through hierarchical assembly across competing pathways"
+    },
+    "10.1038/s41534-026-01338-4": {
+      "doi": "10.1038/s41534-026-01338-4",
+      "posted_at": "2026-08-14T09:43:20+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786700600.755929",
+      "summary_character_count": 95,
+      "summary_japanese": "キラル導波路に結合した三準位量子エミッタのSPRINTを用いる決定論的単一光子減算を解析・数値評価し、コヒーレント状態・Fock状態のパルス入力で減算確率が理想極限で1に近づくことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photon subtraction using a three-level emitter coupled to a chiral waveguide"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
@@ -6940,6 +6979,19 @@
       "summary_used_fallback": false,
       "title": "Impact of CPPs on primary human NK cell CQAs during cell expansion - an experimental study using design of experiments"
     },
+    "10.3389/fchem.2026.1924748": {
+      "doi": "10.3389/fchem.2026.1924748",
+      "posted_at": "2026-08-14T09:43:11+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786700591.792469",
+      "summary_character_count": 114,
+      "summary_japanese": "pillar[n]areneホスト—ゲスト系PDTを総説し、光増感剤複合体の設計と包接による消光抑制、一重項酸素収率向上、腫瘍微小環境応答放出を整理した。抗腫瘍・抗菌・画像誘導治療への応用と生体適合性・深部到達性の課題を論じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent advances in photodynamic therapy systems based on pillar[n]arene host-guest chemistry"
+    },
     "10.3389/fonc.2026.1883024": {
       "doi": "10.3389/fonc.2026.1883024",
       "posted_at": "2026-07-21T18:02:50+00:00",
@@ -7069,6 +7121,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Control over the Self-Assembly of Supramolecular Hydrogels Using Hofmeister Effect"
+    },
+    "10.3390/md24080279": {
+      "doi": "10.3390/md24080279",
+      "posted_at": "2026-08-14T09:43:16+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786700596.787169",
+      "summary_character_count": 129,
+      "summary_japanese": "サンゴ由来Pestalotiopsis microsporaから新規indole誘導体2種を単離し、分光解析、ECD計算、X線解析で構造を決定した。稀なラセミ体6/5/5三環性furoindolin Aを含み、複数化合物がLPS誘導NF-κB活性を阻害した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Two New Indole Derivatives from the Beibu Gulf Coral-Derived Fungus Pestalotiopsis microspora GXIMD 02530"
     },
     "10.3390/molecules31142526": {
       "doi": "10.3390/molecules31142526",
