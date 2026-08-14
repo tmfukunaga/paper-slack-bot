@@ -27,7 +27,7 @@
     "2026-08-12": 25,
     "2026-08-13": 15,
     "2026-08-14": 18,
-    "2026-08-15": 5
+    "2026-08-15": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -446,6 +446,19 @@
       "summary_used_fallback": false,
       "title": "Cobalt-Catalyzed Asymmetric Construction of Boron Stereocenters With C-N Axial Chirality"
     },
+    "10.1002/advs.77074": {
+      "doi": "10.1002/advs.77074",
+      "posted_at": "2026-08-14T18:10:55+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786731055.678789",
+      "summary_character_count": 114,
+      "summary_japanese": "液晶ポリマーネットワークの巨視的キラル形状変化を扱うレビューで、リボンの異方性・配向ずれ・アスペクト比による形状選択と、二層化、機械成形、3D印刷による実現法を整理し、植物模倣アクチュエータやソフトロボティクスへの応用例を示す。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Morphing of Liquid Crystal Polymer Networks"
+    },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
       "posted_at": "2026-08-11T23:23:39+00:00",
@@ -692,6 +705,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Harnessing Supramolecular Circularly Polarized Scattering for Enhanced Chiroptical Performance"
+    },
+    "10.1002/ange.5451795": {
+      "doi": "10.1002/ange.5451795",
+      "posted_at": "2026-08-14T18:10:41+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786731041.233989",
+      "summary_character_count": 413,
+      "summary_japanese": "This Review outlines design principles for macrocycle-based charge-transfer cocrystals, focusing on how cavity-confined complexation and exo-wall CT assembly regulate packing, electronic coupling, and excited states. It summarizes advances in vapochromic sensing, molecular separation, photothermal conversion, and luminescence modulation, emphasizing competitive and cooperative structural regulation mechanisms.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
     },
     "10.1002/ange.6690121": {
       "doi": "10.1002/ange.6690121",
@@ -1998,6 +2024,19 @@
       "summary_used_fallback": false,
       "title": "Skeleton-Rearranged Prenylated Acetophenone Dimers With Anti-Renal Fibrosis Activity From Maclurodendron oligophlebium"
     },
+    "10.1002/chem.71546": {
+      "doi": "10.1002/chem.71546",
+      "posted_at": "2026-08-14T18:10:51+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786731051.179499",
+      "summary_character_count": 94,
+      "summary_japanese": "遷移金属触媒による不斉C–Cクロスカップリングを用いたα-キラルallylic amine合成の近年の進展を概説し、入手容易な出発物質からの骨格構築を支える触媒戦略と機構的知見を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Transition-Metal-Catalyzed Carbon-Carbon Cross-Coupling: Synthesis of α-Chiral Allylic Amines"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -3224,6 +3263,19 @@
       "posted_at": "2026-07-18T07:03:00+00:00",
       "recovered_from_run": 29635004972,
       "score": 26
+    },
+    "10.1021/acs.inorgchem.6c02943": {
+      "doi": "10.1021/acs.inorgchem.6c02943",
+      "posted_at": "2026-08-14T18:10:46+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786731046.061889",
+      "summary_character_count": 126,
+      "summary_japanese": "キラルアニオン媒介超分子法でIr2((+)-CS)とIr2((-)-CS)微結晶を構築し、C-H···O水素結合によるキラリティー移動で量子収率61%、|glum|=1.8×10−2を達成した。粉砕・CH2Cl2蒸気で発光色とCPL活性を可逆調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Iridium(III)Microcrystals with Mechano-TunableCircularly Polarized Luminescence"
     },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
@@ -6953,6 +7005,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "N-Arylation of Inosine and 2’-Deoxyinosine with Diaryliodonium Reagents and Atropisomerism of the Products"
+    },
+    "10.26434/chemrxiv.15007389/v1": {
+      "doi": "10.26434/chemrxiv.15007389/v1",
+      "posted_at": "2026-08-14T18:11:00+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786731060.146509",
+      "summary_character_count": 129,
+      "summary_japanese": "chitosanの水中reacetylationでregenerated nanochitinを調製し、DA約90%超で繊維絡み合いに伴う粘度増加と短いfibrilの自己集合を確認した。XRDはα-chitin型結晶性を示し、DAが結晶性と繊維長を規定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Regenerated Nanochitin Formed via Self-Assembly during Aqueous Reacetylation of Chitosan"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
