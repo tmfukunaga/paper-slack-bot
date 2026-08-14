@@ -26,7 +26,8 @@
     "2026-08-10": 11,
     "2026-08-12": 25,
     "2026-08-13": 15,
-    "2026-08-14": 18
+    "2026-08-14": 18,
+    "2026-08-15": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -301,6 +302,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioresolution of Well-Defined Au-Ag Clusters With Near-Unity Phosphorescent Quantum Yields for Brilliant Circularly Polarized Luminescence"
+    },
+    "10.1002/adom.71595": {
+      "doi": "10.1002/adom.71595",
+      "posted_at": "2026-08-14T15:08:41+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786720120.995179",
+      "summary_character_count": 126,
+      "summary_japanese": "非発光性0D Cs4PbBr6ナノ粒子の相転移を利用し、Mn2+、Pb2+、Br−、Cl−を制御導入した3D Cs(Pb1-xMnx)(Br1-yCly)3を作製した。キラル脂質ゲル化剤との共集合で多色CPLを示し、|glum|は10−3程度に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Phase Transformation Directed Mn 2+ Incorporation and Chiral Self-Assembly Unlocks Tunable Multicolor and Circularly Polarized Light Emission in Metal Halide Perovskite Nanoparticles"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -600,6 +614,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stereoselective Synthesis of Mechanically Planar Chiral Rotaxanes and Mechanical Geometric Isomers From a Macrocyclic Ketone-Based Prochiral Rotaxane"
+    },
+    "10.1002/ange.2908295": {
+      "doi": "10.1002/ange.2908295",
+      "posted_at": "2026-08-14T15:08:32+00:00",
+      "score": 43,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786720112.004199",
+      "summary_character_count": 130,
+      "summary_japanese": "両末端にpillar[5]arene host/guestを持つalanine由来側鎖PPAをリビング重合で合成し、会合体化した。溶媒による分子内水素結合の切替でらせん反転と剛直性変化を誘起し、環状から剛直棒状へ形態転換して粘度は対照の最大2000倍となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain-End Host-Guest Interactions"
     },
     "10.1002/ange.3408014": {
       "doi": "10.1002/ange.3408014",
@@ -1106,6 +1133,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Open-Shell Guest Acceptors Manipulate Charge-Transfer Spin Dynamics in Organic Solar Cells"
+    },
+    "10.1002/anie.2908295": {
+      "doi": "10.1002/anie.2908295",
+      "posted_at": "2026-08-14T15:08:26+00:00",
+      "score": 53,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786720105.930969",
+      "summary_character_count": 131,
+      "summary_japanese": "両末端にpillar[5]arene host/guestを導入したalanine由来側鎖PPAをリビング重合で合成し、分子間包接により超分子重合体化した。溶媒による分子内水素結合の切替でらせん反転と剛直性変調を起こし、環状構造と剛直ロッド構造間で形態転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain-End Host-Guest Interactions"
     },
     "10.1002/anie.3141713": {
       "doi": "10.1002/anie.3141713",
@@ -3457,6 +3497,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Clicking 1,4-Dithiin Conjugated Dimaleimides for Chiroptical Evolution and Nanofabrication"
+    },
+    "10.1021/acs.nanolett.6c02254": {
+      "doi": "10.1021/acs.nanolett.6c02254",
+      "posted_at": "2026-08-14T15:08:45+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786720125.529179",
+      "summary_character_count": 121,
+      "summary_japanese": "光学g因子とプラズモン共鳴の離調が異なるキラルAuナノ粒子を合成し、キラリティ分解フェムト秒過渡吸収で解析した。ホットキャリア冷却は偏光の左右性に依存せず、Au–Agでは表面・界面プラズモン、Au–Ag2Sでは界面電荷移動がg因子を調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exploring theGeometry and Interface Effects in Correlationbetween Steady-State and Ultrafast Responses of Chiral Plasmonic Nanoparticles"
     },
     "10.1021/acs.nanolett.6c02584": {
       "doi": "10.1021/acs.nanolett.6c02584",
@@ -6173,6 +6226,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Search for the chiral magnetic effect through beam energy dependence of charge separation using event shape selection"
+    },
+    "10.17605/osf.io/qw8rf": {
+      "doi": "10.17605/osf.io/qw8rf",
+      "posted_at": "2026-08-14T15:08:36+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786720116.373839",
+      "summary_character_count": 116,
+      "summary_japanese": "General Connectivity仮説に基づき、重力が電磁場のヘリシティ成分のみに結合するとする定理を提案・導出し、NMR共鳴で駆動する二重らせんコイルによる反ヘリカル位相相殺型反重力を構想した。反証可能な実験経路も提示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Helical-Gravitational Coupling Theorem and Chiral RF Anti-Gravity"
     },
     "10.17615/m9w8-8474": {
       "doi": "10.17615/m9w8-8474",
