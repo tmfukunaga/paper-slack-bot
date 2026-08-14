@@ -27,7 +27,7 @@
     "2026-08-12": 25,
     "2026-08-13": 15,
     "2026-08-14": 18,
-    "2026-08-15": 10
+    "2026-08-15": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3998,6 +3998,19 @@
       "summary_used_fallback": false,
       "title": "Large Modulationof Conjugated Polymer Liquid CrystalStructure and Supramolecular Helicity via Cosolvency Effect"
     },
+    "10.1021/acsmaterialslett.6c00700": {
+      "doi": "10.1021/acsmaterialslett.6c00700",
+      "posted_at": "2026-08-14T21:53:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786744431.822729",
+      "summary_character_count": 125,
+      "summary_japanese": "キラル1-methoxyethyl pyridine配位子からなる0次元銅(I)ヨウ化物ハイブリッドのエナンチオマー対を合成し、最大96%の発光量子収率を示した。S-1はX線シンチレータとして高い放射ルミネッセンス光収率、安定性、空間分解能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Highly Emissive Chiral Copper(I) Iodide Hybrid Materials for X-ray Imaging Scintillators"
+    },
     "10.1021/acsnano.6c05585": {
       "doi": "10.1021/acsnano.6c05585",
       "posted_at": "2026-08-05T21:16:10+00:00",
@@ -4094,6 +4107,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intrinsic ChiralFiber Lasers Enabled by Chiral SupramolecularGlasses"
+    },
+    "10.1021/acsphyschemau.6c00115": {
+      "doi": "10.1021/acsphyschemau.6c00115",
+      "posted_at": "2026-08-14T21:53:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786744427.573489",
+      "summary_character_count": 402,
+      "summary_japanese": "Late-stage functionalization of a hexa-peri-benzocoronene-fluoranthene hybrid bearing a K-type bay region gave regioselective bromination at two peripheral positions, contrary to predictions. The selectivity was rationalized by dynamic helical inversion destabilizing Wheland intermediates in the bay region. Subsequent nitrile derivatives showed solution photoluminescence quantum yields of up to 76%.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Late-StageFunctionalization of a Hexa- peri -Benzocoronene-FluorantheneHybrid Influenced by Dynamic Inversionof Helicity"
     },
     "10.1021/acspolymersau.6c00119": {
       "doi": "10.1021/acspolymersau.6c00119",
@@ -5317,6 +5343,19 @@
       "summary_used_fallback": false,
       "title": "Biosynthetic mechanism and ecological function of chirality in Solanum steroidal alkaloids"
     },
+    "10.1038/s41467-026-76270-4": {
+      "doi": "10.1038/s41467-026-76270-4",
+      "posted_at": "2026-08-14T21:53:36+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786744416.544199",
+      "summary_character_count": 105,
+      "summary_japanese": "Tröger’s base分子ボックスを電子豊富なホストに用い、BTNまたはTCNBを包接する1:1 CT共結晶を設計した。BTN包接体は弱いTSCT相互作用により黄緑～明るいシアンの可変TADF発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inclusion co-crystals based on Tröger’s base molecular box for thermally activated delayed fluorescence"
+    },
     "10.1038/s41467-026-76289-7": {
       "doi": "10.1038/s41467-026-76289-7",
       "posted_at": "2026-08-08T14:06:41+00:00",
@@ -6383,6 +6422,19 @@
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
     },
+    "10.23960/jitet.v14i3.10711": {
+      "doi": "10.23960/jitet.v14i3.10711",
+      "posted_at": "2026-08-14T21:53:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786744420.850149",
+      "summary_character_count": 124,
+      "summary_japanese": "University of LampungのCPL算定を対象に、LaravelとAgile KanbanでCPL、CPMK、授業、学生、アカウント管理用のモジュール型バックエンドAPIを開発し、PHPUnitのダミーデータ試験で主要機能を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "RANCANG BANGUN BACK-END SISTEM INFORMASI CAPAIAN PEMBELAJARAN LULUSAN (CPL) MENGGUNAKAN LARAVEL"
+    },
     "10.24033/bsmf.2922": {
       "doi": "10.24033/bsmf.2922",
       "posted_at": "2026-07-30T21:01:06+00:00",
@@ -7148,6 +7200,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Development and Certification of CPP-23: A Multi-Element Certified Reference Material for Cereal Plant Tissue from Semi-Arid Regions"
+    },
+    "10.3390/antiox15081008": {
+      "doi": "10.3390/antiox15081008",
+      "posted_at": "2026-08-14T21:53:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786744438.840739",
+      "summary_character_count": 114,
+      "summary_japanese": "Polygonum multiflorum Thunb.葉を2D-LC-ECDとUHPLC-Orbitrap-MS/MSで解析し、抗酸化候補43種を同定した。31ロットの化学計量学解析で産地別4群と識別マーカー10種を抽出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Characterization of Antioxidant Constituents and Geographical Differentiation of Polygonum multiflorum Thunb. Leaves Using 2D-LC-ECD and UHPLC-Orbitrap-MS/MS"
     },
     "10.3390/app16147260": {
       "doi": "10.3390/app16147260",
