@@ -26,7 +26,7 @@
     "2026-08-10": 11,
     "2026-08-12": 25,
     "2026-08-13": 15,
-    "2026-08-14": 8
+    "2026-08-14": 13
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -731,6 +731,19 @@
       "summary_used_fallback": false,
       "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
     },
+    "10.1002/ange.7494092": {
+      "doi": "10.1002/ange.7494092",
+      "posted_at": "2026-08-14T05:47:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786686444.140969",
+      "summary_character_count": 114,
+      "summary_japanese": "固有キラルC-Salen-COFs-ZnでCISS効果を利用し、2e−ORRのスピン禁制遷移を緩和してH2O2を選択的に電解合成した。スピン偏極効率90%以上で、H2O2選択性87.0%、ファラデー効率最大93.7%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Induced Selective Electrosynthesis Hydrogen Peroxide and Tandem Green Chemical Synthesis"
+    },
     "10.1002/ange.7946369": {
       "doi": "10.1002/ange.7946369",
       "posted_at": "2026-08-09T14:08:16+00:00",
@@ -1132,6 +1145,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
+    },
+    "10.1002/anie.3543072": {
+      "doi": "10.1002/anie.3543072",
+      "posted_at": "2026-08-14T05:47:28+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786686448.838789",
+      "summary_character_count": 95,
+      "summary_japanese": "対向するverdazyl radicalを導入したIr@Au12クラスターを合成し、分光・EPRで三重項励起核から配位子への電子移動と、核を介するradical間の弱い磁気相互作用を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gold Clusters With Open-Shell Ligands: Superatom Mediated Magnetic Interaction"
     },
     "10.1002/anie.3568920": {
       "doi": "10.1002/anie.3568920",
@@ -1593,6 +1619,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Simultaneous Construction of Sulfur and Carbon Stereocenters via Asymmetric Desymmetrization of Sulfonimidamides With Oxindole Derivatives"
+    },
+    "10.1002/anie.8252460": {
+      "doi": "10.1002/anie.8252460",
+      "posted_at": "2026-08-14T05:47:32+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786686452.862599",
+      "summary_character_count": 129,
+      "summary_japanese": "carbazole系ホストとbenzoindole系ドーパントによる有機RTPを対象に、herringbone配列を安定化する分子間相互作用をマルチスケール理論で解析し、新規ホスト結晶を設計・合成した。単結晶ホスト–ゲスト材料は数百msのりん光寿命を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dopant-Tailored Matrices: A Crystal Engineering Strategy for Organic Room-Temperature Phosphorescent Host-Guest Systems and Beyond"
     },
     "10.1002/anie.8630985": {
       "doi": "10.1002/anie.8630985",
@@ -2126,6 +2165,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Axial Chiral Aryl Isoquinolines via N-Directed 3d Metal Catalysts: A Perspective"
+    },
+    "10.1002/ejoc.70774": {
+      "doi": "10.1002/ejoc.70774",
+      "posted_at": "2026-08-14T05:47:36+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786686456.636639",
+      "summary_character_count": 107,
+      "summary_japanese": "熱的に安定なmacrocyclic triazole-borane complex 1によるcarbonylおよびimine官能基の還元を検討し、aldehydeとimineに対する化学選択性を理論計算で解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemoselective Aldehyde and Imine Reduction by a Macrocyclic Triazole-Borane Complex Triggered by a Non-innocent Proton-Hydride Interaction"
     },
     "10.1002/jcc.70477": {
       "doi": "10.1002/jcc.70477",
@@ -3937,6 +3989,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "PhotoresponsiveReversible Assembly of Helical Poly(isocyanide)s"
+    },
+    "10.1021/acssuschemeng.6c07574": {
+      "doi": "10.1021/acssuschemeng.6c07574",
+      "posted_at": "2026-08-14T05:47:19+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786686439.544769",
+      "summary_character_count": 133,
+      "summary_japanese": "citrate媒介水熱法でアスペクト比と表面電荷を調整したHAp nanorodsを合成し、濃度に応じたisotropic–nematic–chiral nematic相転移を実現した。水素結合、Ca2+-COO-配位、イオン強度・pHが相安定性とピッチを制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multivariable Modulation of the Self-Assembly Behavior and Chiral Nematic Phase of Hydroxyapatite Nanorods"
     },
     "10.1021/cbe.6c00062": {
       "doi": "10.1021/cbe.6c00062",
