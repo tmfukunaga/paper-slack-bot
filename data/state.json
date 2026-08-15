@@ -27,7 +27,7 @@
     "2026-08-12": 25,
     "2026-08-13": 15,
     "2026-08-14": 18,
-    "2026-08-15": 20
+    "2026-08-15": 21
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -7512,6 +7512,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inverting the Quark Self-Energy from Chiral Low-Energy Constants: A Possible L8 Tension in the Leading-Nc Rainbow Framework"
+    },
+    "10.35814/xm72tc53": {
+      "doi": "10.35814/xm72tc53",
+      "posted_at": "2026-08-15T07:19:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786778392.079939",
+      "summary_character_count": 121,
+      "summary_japanese": "Sign Language MNISTのASL静的手話24種を、左右反転を除く拡張とbatch normalization、二段dropoutを備えたCNNで分類し、7,172枚のテストで100.00%精度、全クラスF1=1.00を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Classifying American Sign Language Alphabets with a Chirality-Preserving CNN and Adaptive Augmentation Strategy"
     },
     "10.4028/p-8rklk7": {
       "doi": "10.4028/p-8rklk7",
