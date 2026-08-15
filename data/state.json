@@ -28,7 +28,7 @@
     "2026-08-13": 15,
     "2026-08-14": 18,
     "2026-08-15": 21,
-    "2026-08-16": 5
+    "2026-08-16": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1174,6 +1174,19 @@
       "summary_used_fallback": false,
       "title": "Open-Shell Guest Acceptors Manipulate Charge-Transfer Spin Dynamics in Organic Solar Cells"
     },
+    "10.1002/anie.2703281": {
+      "doi": "10.1002/anie.2703281",
+      "posted_at": "2026-08-15T19:01:53+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786820513.660619",
+      "summary_character_count": 122,
+      "summary_japanese": "benzofuran足場のワンポット合成でhetero[9]heliceneを[12]・[15]heliceneへ伸長し、環数増加に伴いgabsとglumが向上した。[15]heliceneは475 nmでglum=1.95×10−2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhancement of Dissymmetry Factors Through Axial Elongation of Hetero[ n ]helicenes"
+    },
     "10.1002/anie.2908295": {
       "doi": "10.1002/anie.2908295",
       "posted_at": "2026-08-14T15:08:26+00:00",
@@ -2012,6 +2025,19 @@
       "summary_used_fallback": false,
       "title": "Charge-Transfer-Induced Morphological Transformation of a Butterfly-Shaped Pyrene-Flanked Chiral Macrocycle"
     },
+    "10.1002/chem.71479": {
+      "doi": "10.1002/chem.71479",
+      "posted_at": "2026-08-15T19:01:57+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786820517.726869",
+      "summary_character_count": 117,
+      "summary_japanese": "N3Oマクロ環Cu(I)錯体1は低温でO2をend-on peroxodicopper(II)種へ変換し、触媒的4e−/4H+還元でH2Oを与えた。小員環N4錯体3は配位子支援プロトン化を介し、2e−/2H+還元でH2O2を生成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dioxygen Reduction at a Cu(I) Complex Supported by a Macrocyclic N 3 O Ligand System"
+    },
     "10.1002/chem.71485": {
       "doi": "10.1002/chem.71485",
       "posted_at": "2026-07-29T16:53:56+00:00",
@@ -2089,6 +2115,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Transition-Metal-Catalyzed Carbon-Carbon Cross-Coupling: Synthesis of α-Chiral Allylic Amines"
+    },
+    "10.1002/chem.71565": {
+      "doi": "10.1002/chem.71565",
+      "posted_at": "2026-08-15T19:01:37+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786820497.229149",
+      "summary_character_count": 113,
+      "summary_japanese": "phenanthroline誘導体マクロ環と1,3-diyne軸をもつ[2]rotaxaneのNMR解析とDFT計算により弱い会合相互作用を定量評価し、C─H⋯N相互作用と1,3-diyneの低い立体障害をその起源と推定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Evaluation of Weak Interactions Between the Ring Component and Axle Component in [2]Rotaxanes With 1,3-Diyne Moiety"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -3829,6 +3868,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Triptycene-Cored Double [5]Helicene: Chirality Transfervia the R / S Triptycene Core to P / M Helical Motifs"
+    },
+    "10.1021/acsabm.6c00819": {
+      "doi": "10.1021/acsabm.6c00819",
+      "posted_at": "2026-08-15T19:01:46+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786820506.183179",
+      "summary_character_count": 107,
+      "summary_japanese": "EGDEでcurdlan C6位へdopamineを選択的に導入し、単一らせん化したCur-DA hydrogelを作製した。最大10.21 kPaの組織接着性、自己修復性・注入性を示し、マウス創傷治癒を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-Helical Dopamine-g-Curdlan Hydrogels Showing High Adhesiveness and Injectability"
     },
     "10.1021/acsami.6c09202": {
       "doi": "10.1021/acsami.6c09202",
@@ -6071,6 +6123,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Gastric dose-volume parameters and toxicity in left-sided breast radiotherapy: A single-center retrospective comparison of helical tomotherapy and 3-dimensional field-in-field techniques"
+    },
+    "10.1098/rsfs.2025.0099": {
+      "doi": "10.1098/rsfs.2025.0099",
+      "posted_at": "2026-08-15T19:01:41+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786820501.235849",
+      "summary_character_count": 106,
+      "summary_japanese": "qtzとqzdの双対ネットから、6回スクリュー対称性をもつキラルな非平衡三重周期極小曲面H’-T族を数値構築し、分岐トーラス上のWeierstrass表示で存在を証明した。族は両極限でScherk曲面へ収束する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The chiral gyrating H’-T surface family: construction from the dual qtz - qzd nets and existence proof using a toroidal Weierstrass method"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
