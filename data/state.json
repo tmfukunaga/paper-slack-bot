@@ -27,7 +27,7 @@
     "2026-08-12": 25,
     "2026-08-13": 15,
     "2026-08-14": 18,
-    "2026-08-15": 15
+    "2026-08-15": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1763,6 +1763,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "A General and Scalable Chiral Surrogate Rotaxane Strategy for Highly Enantioenriched Mechanically Planar Chiral Rotaxanes"
+    },
+    "10.1002/anie.9070689": {
+      "doi": "10.1002/anie.9070689",
+      "posted_at": "2026-08-15T03:04:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786763057.231219",
+      "summary_character_count": 104,
+      "summary_japanese": "キラルホスフィン配位子とquinoline間の水素結合で動的配位子交換を制御し、末端アルキンを用いる初の不斉アリル脱芳香族化を達成した。二つの立体中心を持つN-複素環を最大85%収率、99% e.e.で得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Allylic Dearomatization of Quinolines via Dynamic Ligand Exchange"
     },
     "10.1002/anie.9135596": {
       "doi": "10.1002/anie.9135596",
@@ -4940,6 +4953,19 @@
       "summary_used_fallback": false,
       "title": "Tetrahedral M II 4 L 6 ( M = Fe, Zn) Cages Equipped with Walls Featuring Antiaromatic Pentalene Motifs"
     },
+    "10.1021/jasms.6c00250": {
+      "doi": "10.1021/jasms.6c00250",
+      "posted_at": "2026-08-15T03:04:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786763072.180869",
+      "summary_character_count": 116,
+      "summary_japanese": "6種の低分子炭水化物をキラル付加体としてcyclic IMS-MSで評価し、アミノ酸・医薬品15組のエナンチオマーを最短1 mで分離した。99:1のenantiomeric excessを定量し、検出限界は最小5 nMと推定された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral CarbohydrateAdducts are Effective for EnantiomericIon Mobility Separations"
+    },
     "10.1038/s41467-026-74709-2": {
       "doi": "10.1038/s41467-026-74709-2",
       "posted_at": "2026-07-17T17:27:36+00:00",
@@ -5642,6 +5668,19 @@
       "summary_used_fallback": false,
       "title": "Positional Effects of Amine-Induced Chiral Perturbation on Circularly Polarized Luminescence in Cyanoarene-Based TADF Emitters"
     },
+    "10.1055/a-2921-9542": {
+      "doi": "10.1055/a-2921-9542",
+      "posted_at": "2026-08-15T03:04:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786763052.552269",
+      "summary_character_count": 387,
+      "summary_japanese": "N-Aryl C4-substituted 5H-dibenz[b,f]azepines were synthesized, and their atropisomers were isolated by chiral HPLC. Electron-withdrawing substituents at the 4′-position of pendant-Ar increased axial chirality stability and interconversion barriers. Computational conformational analysis suggested that greater sp2 hybridization of the central nitrogen enhances axial chirality stability.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Atropisomeric Properties of N-Aryl 5H-dibenz[b,f]azepines"
+    },
     "10.1063/5.0325213": {
       "doi": "10.1063/5.0325213",
       "posted_at": "2026-08-12T20:11:52+00:00",
@@ -6278,6 +6317,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Polarization-Mediated Entanglement as Detector-Plane Readout: Toward a Helical Photon Framework"
+    },
+    "10.1364/opticaopen.33228225": {
+      "doi": "10.1364/opticaopen.33228225",
+      "posted_at": "2026-08-15T03:04:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786763068.396299",
+      "summary_character_count": 115,
+      "summary_japanese": "Q-BICに基づくbilayer ADRR/PI/silicon製2-bit THz encoderを実証し、θ=±30°で0.757および0.806 THzのquasi-BICとキラル応答を反転させ、入射角と偏光状態を検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "2-Bit Terahertz Angle Tunable Chiral Encode for Polarization and Incidence Angle Detection"
+    },
+    "10.1364/opticaopen.33228225.v1": {
+      "doi": "10.1364/opticaopen.33228225.v1",
+      "posted_at": "2026-08-15T03:04:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786763062.624919",
+      "summary_character_count": 114,
+      "summary_japanese": "Q-BICを用いたbilayer ADRR/PI/Si構造の2-bit THz encoderを実証し、入射角±30°で0.757・0.806 THzのquasi-BICとキラル応答を反転させ、THz波の入射角と偏光を検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "2-Bit Terahertz Angle Tunable Chiral Encode for Polarization and Incidence Angle Detection"
     },
     "10.15495/epub_ubt_00009527": {
       "doi": "10.15495/epub_ubt_00009527",
