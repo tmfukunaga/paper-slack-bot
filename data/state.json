@@ -27,7 +27,8 @@
     "2026-08-12": 25,
     "2026-08-13": 15,
     "2026-08-14": 18,
-    "2026-08-15": 21
+    "2026-08-15": 21,
+    "2026-08-16": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -654,6 +655,19 @@
       "summary_used_fallback": false,
       "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
     },
+    "10.1002/ange.3778438": {
+      "doi": "10.1002/ange.3778438",
+      "posted_at": "2026-08-15T15:44:06+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786808645.959489",
+      "summary_character_count": 122,
+      "summary_japanese": "Bi系鉛フリーハライド(S/rac/R-XPEA)4Bi2I10でハロゲン置換によりキラル静電環境を調節し、Br置換でスピン偏極効率を68%から89%へ向上させた。柔軟X線検出器は8865.82±403 μC Gy−1 cm−2の感度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Halogen Substitution as a “Chirality Editor” for Amplifying Spin-Selective Transport in Lead-Free Metal-Halide Hybrids"
+    },
     "10.1002/ange.3935543": {
       "doi": "10.1002/ange.3935543",
       "posted_at": "2026-07-21T00:01:20+00:00",
@@ -1264,6 +1278,19 @@
       "summary_used_fallback": true,
       "title": "Switching Fluorescent-Phosphorescent Radioluminescence in Organic X-Ray Scintillators via a Host-Guest Strategy"
     },
+    "10.1002/anie.3778438": {
+      "doi": "10.1002/anie.3778438",
+      "posted_at": "2026-08-15T15:43:43+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786808623.489449",
+      "summary_character_count": 92,
+      "summary_japanese": "Bi系キラル金属ハライドでXPEAのハロゲンをFからBrへ置換し、Rashba分裂とCISS効果を増強した。Br体はスピン偏極89%、μτ 3.26×10−3 cm2 V−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Halogen Substitution as a “Chirality Editor” for Amplifying Spin-Selective Transport in Lead-Free Metal-Halide Hybrids"
+    },
     "10.1002/anie.3935543": {
       "doi": "10.1002/anie.3935543",
       "posted_at": "2026-07-19T00:14:58+00:00",
@@ -1328,6 +1355,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Asymmetric Hydrophosphinamidation of Alkynes"
+    },
+    "10.1002/anie.4146793": {
+      "doi": "10.1002/anie.4146793",
+      "posted_at": "2026-08-15T15:44:01+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786808641.906969",
+      "summary_character_count": 114,
+      "summary_japanese": "TMTとCH3COOLiの自己集合超分子により、Li-S配位と水素結合で固相再生の熱分解順序を制御し、LFP格子への優先的Li補充とN/S共ドープ炭素層形成を実現した。再生正極は1 Cで500サイクル後も容量の88%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Self-Assembly Enables Controlled Lithium Replenishment Toward High-Performance and Sustainable Regeneration of Spent LiFePO 4 Batteries"
     },
     "10.1002/anie.4560740": {
       "doi": "10.1002/anie.4560740",
@@ -5537,6 +5577,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "From helices to superhelices through hierarchical assembly across competing pathways"
+    },
+    "10.1038/s41467-026-76735-6": {
+      "doi": "10.1038/s41467-026-76735-6",
+      "posted_at": "2026-08-15T15:43:57+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786808637.600659",
+      "summary_character_count": 130,
+      "summary_japanese": "achiral nitro-conjugated cyanostilbenesは、protic guestの選択的包接により巨視的らせん形成または結晶化を示した。[2 + 2] photodimerizationで結晶変形とin-situらせん生成も実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macroscopic chirogenesis and photoinduced chiral motions enabled by selective accommodation of protic guests"
+    },
+    "10.1038/s41467-026-76742-7": {
+      "doi": "10.1038/s41467-026-76742-7",
+      "posted_at": "2026-08-15T15:43:51+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786808631.178589",
+      "summary_character_count": 127,
+      "summary_japanese": "伸縮性photonic crystal fiberを機械可変chiroptical waveguideとして設計し、伸長によりCPLのglumを0.153からほぼ零へ線形変調した。光損失は約0.0922 dB/mmで、自己較正型ひずみセンシングを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly polarized luminescence optical waveguides in stretchable photonic crystal fibers for advanced human motion monitoring"
     },
     "10.1038/s41534-026-01338-4": {
       "doi": "10.1038/s41534-026-01338-4",
