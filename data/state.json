@@ -28,7 +28,7 @@
     "2026-08-13": 15,
     "2026-08-14": 18,
     "2026-08-15": 21,
-    "2026-08-16": 10
+    "2026-08-16": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -680,6 +680,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/ange.4146793": {
+      "doi": "10.1002/ange.4146793",
+      "posted_at": "2026-08-15T21:43:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786830224.024999",
+      "summary_character_count": 110,
+      "summary_japanese": "廃LiFePO4をTMTとCH3COOLiの自己集合超分子で再生し、Li-S配位と水素結合により炭素層形成前のLi格子導入を促進した。再生正極は1 Cで143.0 mAh g−1、500サイクル後も容量88%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Self-Assembly Enables Controlled Lithium Replenishment Toward High-Performance and Sustainable Regeneration of Spent LiFePO 4 Batteries"
     },
     "10.1002/ange.5082047": {
       "doi": "10.1002/ange.5082047",
@@ -5721,6 +5734,19 @@
       "summary_used_fallback": false,
       "title": "Asymmetric radical type 1,2-aryloxy-phosphinolylation of vinylarenes catalyzed by chiral vanadyl complexes"
     },
+    "10.1038/s42004-026-02166-5": {
+      "doi": "10.1038/s42004-026-02166-5",
+      "posted_at": "2026-08-15T21:43:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786830232.657599",
+      "summary_character_count": 114,
+      "summary_japanese": "La0.7Sr0.3MnO3薄膜のXMCD・RIXS-MCDを、電荷移動、CVEC、Jahn-Teller歪みを含むAnderson impurity modelで解析し、CTとCVECの考慮が実験スペクトルを整合的に記述した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Influence of many-body correlation and mixed-valence fluctuations on X-ray magnetic circular dichroism and resonant inelastic X-ray scattering spectra"
+    },
     "10.1051/e3sconf/202672802001/pdf": {
       "doi": "10.1051/e3sconf/202672802001/pdf",
       "posted_at": "2026-07-29T18:18:54+00:00",
@@ -6513,6 +6539,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Search for the chiral magnetic effect through beam energy dependence of charge separation using event shape selection"
+    },
+    "10.17605/osf.io/g9uzy": {
+      "doi": "10.17605/osf.io/g9uzy",
+      "posted_at": "2026-08-15T21:43:40+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786830220.333239",
+      "summary_character_count": 118,
+      "summary_japanese": "General Connectivity枠組みで、ヘリカル電磁場のみが重力と結合すると仮定し、chiral DCトロイドと核Larmor周波数の円偏光RFを組み合わせたchiral NMRによる重量変化・浮上の検証プロトコルを提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Practical Chiral Anti-Gravity"
     },
     "10.17605/osf.io/qw8rf": {
       "doi": "10.17605/osf.io/qw8rf",
@@ -7384,6 +7423,19 @@
       "summary_used_fallback": false,
       "title": "Predicting patient-specific quality assurance outcomes in helical tomotherapy using plan complexity and 3D dose-distribution radiomics"
     },
+    "10.3389/fonc.2026.1891272": {
+      "doi": "10.3389/fonc.2026.1891272",
+      "posted_at": "2026-08-15T21:43:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786830236.421649",
+      "summary_character_count": 126,
+      "summary_japanese": "ヘリカルトモセラピー20例でMFを段階的に低減し、ガントリー周期が約11.8 sの機械的プラトー直前となるMF limitを選定した。MF limitは照射時間をほぼ損なわず、MF minよりPTV均一性・適合性と1%/1 mmガンマ通過率が高かった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gantry-period-guided modulation factor selection in helical tomotherapy: effects on delivery efficiency, dosimetry and verification accuracy"
+    },
     "10.3390/analytica7030053": {
       "doi": "10.3390/analytica7030053",
       "posted_at": "2026-08-12T05:46:13+00:00",
@@ -7617,6 +7669,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Superchiral-Field-Enhanced Photoinduced Force Microscopy for Nanoscale Chiral Characterization via Magnetic-Dipole Excitation"
+    },
+    "10.3390/solar6040050": {
+      "doi": "10.3390/solar6040050",
+      "posted_at": "2026-08-15T21:43:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786830227.402959",
+      "summary_character_count": 121,
+      "summary_japanese": "同一のhelical copper absorberを備える放物面トラフ集熱器でmirror-glassとAISI 304 stainless-steel反射板を3日間屋外比較し、前者は全体として温度応答がやや高く日平均値の変動も小さかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reflector Material Effects on the Outdoor Thermal Response of Helical-Absorber Parabolic Trough Collectors"
     },
     "10.3390/sym18081250": {
       "doi": "10.3390/sym18081250",
