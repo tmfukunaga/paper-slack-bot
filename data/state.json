@@ -28,7 +28,7 @@
     "2026-08-13": 15,
     "2026-08-14": 18,
     "2026-08-15": 21,
-    "2026-08-16": 19
+    "2026-08-16": 22
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2805,6 +2805,19 @@
       "summary_used_fallback": false,
       "title": "The ECD-BIE Estimation Theorem in Spectral Form"
     },
+    "10.1007/s11224-026-02858-7": {
+      "doi": "10.1007/s11224-026-02858-7",
+      "posted_at": "2026-08-16T09:54:51+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786874091.638489",
+      "summary_character_count": 133,
+      "summary_japanese": "環状化の微量生成物として、前例のない開鎖型[P2(μ-NtBu)2]5骨格をもつcyclophosph(III)azane 3を単離し、構造・配座を解析した。計算上、高エネルギー配座はハロゲン化物を包接するが、事前組織化コストは剛直な環状host 2より不利だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structure and conformational landscape of an unprecedented acyclic pentakis(cyclodiphosphazane)"
+    },
     "10.1007/s40263-026-01317-5": {
       "doi": "10.1007/s40263-026-01317-5",
       "posted_at": "2026-08-02T00:04:46+00:00",
@@ -3999,6 +4012,19 @@
       "summary_used_fallback": false,
       "title": "Twist-Induced Chiroptical Response in Stacked Triangular Nanoprism Dimers: Leveraging the Lightning-Rod Effect"
     },
+    "10.1021/acsanm.6c02903": {
+      "doi": "10.1021/acsanm.6c02903",
+      "posted_at": "2026-08-16T09:54:44+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786874084.148329",
+      "summary_character_count": 106,
+      "summary_japanese": "硫黄/ニッケル比を制御してCMCs、CCNFs、CNFsを合成し、成長機構と2–18 GHzでの吸収特性を比較した。CMCsは最小反射損失−43.26 dB、実効吸収帯域5.84 GHzを示し、他形態を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controllable Preparationof Carbon-Based Micro- andNanomaterials with Different Helical Morphologies for ElectromagneticWave Absorption"
+    },
     "10.1021/acscatal.6c03124": {
       "doi": "10.1021/acscatal.6c03124",
       "posted_at": "2026-07-24T06:22:28+00:00",
@@ -4316,6 +4342,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spin-Vibronic Coupling in Indenoindenodibenzothiophene Diradicaloids"
+    },
+    "10.1021/jacs.6c03978": {
+      "doi": "10.1021/jacs.6c03978",
+      "posted_at": "2026-08-16T09:54:56+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786874096.955409",
+      "summary_character_count": 334,
+      "summary_japanese": "Terbium(III)-bound Al-LanM variants with controlled tryptophan antenna configurations were used to separate the effects of local coordination geometry and chromophore orientation on CPL. Spectroscopy yielded resolved signals with glum up to 0.144 and showed that dynamic versus static coupling dominates different Tb(III) transitions.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "CircularlyPolarized Luminescence in Terbium-Lanmodulin:Disentangling the Effects of Primary Coordination Sphere and ChromophoreGeometry"
     },
     "10.1021/jacs.6c04114": {
       "doi": "10.1021/jacs.6c04114",
