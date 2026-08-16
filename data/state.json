@@ -28,7 +28,7 @@
     "2026-08-13": 15,
     "2026-08-14": 18,
     "2026-08-15": 21,
-    "2026-08-16": 18
+    "2026-08-16": 19
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5655,6 +5655,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "From helices to superhelices through hierarchical assembly across competing pathways"
+    },
+    "10.1038/s41467-026-76724-9": {
+      "doi": "10.1038/s41467-026-76724-9",
+      "posted_at": "2026-08-16T07:45:14+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786866314.323009",
+      "summary_character_count": 124,
+      "summary_japanese": "非ヘリカル前駆体ポリマーの定量的多重環化により、配座不安定な[4]heliceneのみから成る動的poly[4]helicene nanoribbonを初合成した。光学活性溶媒中で協同的にPまたはM単一らせんを誘起し、切替可能な円偏光発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic helical poly[4]helicene nanoribbon"
     },
     "10.1038/s41467-026-76735-6": {
       "doi": "10.1038/s41467-026-76735-6",
