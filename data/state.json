@@ -28,7 +28,7 @@
     "2026-08-13": 15,
     "2026-08-14": 18,
     "2026-08-15": 21,
-    "2026-08-16": 15
+    "2026-08-16": 18
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3525,6 +3525,19 @@
       "summary_used_fallback": false,
       "title": "Symmetry-Breaking and Selection-Rule Relaxation in CVD-Grown Hexagonal FeTe 2 Probed by Angle- and Helicity-Resolved Raman Spectroscopy"
     },
+    "10.1021/acs.jpclett.6c02095": {
+      "doi": "10.1021/acs.jpclett.6c02095",
+      "posted_at": "2026-08-16T03:16:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786850203.889529",
+      "summary_character_count": 111,
+      "summary_japanese": "(MBA)2PbBr4·(CsPbBr3)x混合膜を円偏光レーザーで光学スピンポンピングし、最大6%の円偏光発光を室温で観測した。偏光度はxと負相関し、CsPbBr3ナノ結晶界面で増強されたRashba様分裂が示唆された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly PolarizedPhotoluminescence Obtained byOptical Spin Pumping in Achiral Lead-Halide Perovskites: Implicationsof Interface-Induced Rashba Splitting"
+    },
     "10.1021/acs.jpclett.6c02121": {
       "doi": "10.1021/acs.jpclett.6c02121",
       "posted_at": "2026-07-23T18:06:02+00:00",
@@ -6163,6 +6176,19 @@
       "summary_used_fallback": false,
       "title": "The chiral gyrating H’-T surface family: construction from the dual qtz - qzd nets and existence proof using a toroidal Weierstrass method"
     },
+    "10.1098/rsfs.2026.0003": {
+      "doi": "10.1098/rsfs.2026.0003",
+      "posted_at": "2026-08-16T03:16:36+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786850195.964049",
+      "summary_character_count": 108,
+      "summary_japanese": "既知の結晶ネットの辺を幾何学的足場としてn回らせん巻きを施し、高対称な三次元周期もつれネットワークとフィラメントの例を構築した。反復する幾何学的モチーフを示し、結晶・分子・生体系における周期的もつれの構成を考察した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Entanglement by design: symmetry-guided periodic helical assemblies"
+    },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
       "posted_at": "2026-07-18T22:19:36+00:00",
@@ -7383,6 +7409,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pedagogical Practices in Early Childhood Development: Roles of Facilitators in Community School ECD Centres"
+    },
+    "10.33263/briac164.113": {
+      "doi": "10.33263/briac164.113",
+      "posted_at": "2026-08-16T03:16:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1786850199.881739",
+      "summary_character_count": 131,
+      "summary_japanese": "DFTによりnirmatrelvirの(5,5) armchair SWCNTへの吸着を解析し、PDOSでC、N、O、F軌道の共有結合性寄与を示した。13C-NMRで活性部位を検討し、ECDでは200–300 nmの吸収帯と248.49 nmの鋭いピークを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "DFT Investigation of Nirmatrelvir Adsorption on Carbon Nanotubes for Nanodrug Delivery"
     },
     "10.3389/fbioe.2026.1849836": {
       "doi": "10.3389/fbioe.2026.1849836",
