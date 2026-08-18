@@ -29,7 +29,7 @@
     "2026-08-14": 18,
     "2026-08-15": 21,
     "2026-08-16": 22,
-    "2026-08-19": 1
+    "2026-08-19": 6
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1564,6 +1564,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synergistic Effect of Chirality and Symmetry Reduction Enables Metal-Free Perovskite Single Crystal With Stable Self-Driven X-ray Detection"
+    },
+    "10.1002/anie.6479535": {
+      "doi": "10.1002/anie.6479535",
+      "posted_at": "2026-08-18T18:34:38+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787078078.077359",
+      "summary_character_count": 121,
+      "summary_japanese": "Ni触媒とH2雰囲気下でsyn置換2,5-dihydrophosphole 1-oxideを不斉異性化し、隣接するP不斉中心を含む2,3-dihydrophosphole 1-oxideを最高99%収率、>20:1 dr、98% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nickel-Catalyzed H 2 -Enabled Asymmetric Olefin Isomerization: Direct Access to P -Stereogenic Phospholenes With Adjacent Stereocenters"
     },
     "10.1002/anie.6690121": {
       "doi": "10.1002/anie.6690121",
@@ -3961,6 +3974,19 @@
       "summary_used_fallback": false,
       "title": "Precise Control over the Number of Pyrrolidine Catalytic Centers in Chiral COFs for Boosted Asymmetric Catalysis"
     },
+    "10.1021/acsami.6c12055": {
+      "doi": "10.1021/acsami.6c12055",
+      "posted_at": "2026-08-18T18:34:52+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787078092.110809",
+      "summary_character_count": 132,
+      "summary_japanese": "軸不斉binaphthalene-azobenzene誘導体をアニールし、テンプレート不要で均一な螺旋状3D microflowerを形成した。溶媒・水素結合が誘導する層間滑りと螺旋分子鎖が、screw dislocationと巨視的キラリティを生むことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Uniform Helical 3D Microflowers from Single-Component Hierarchical Assembly"
+    },
     "10.1021/acsanm.6c00732": {
       "doi": "10.1021/acsanm.6c00732",
       "posted_at": "2026-08-06T06:16:21+00:00",
@@ -5956,6 +5982,19 @@
       "summary_used_fallback": false,
       "title": "Orbital angular momentum textures and currents in a discrete helix: Equilibrium and linear response"
     },
+    "10.1063/5.0346826": {
+      "doi": "10.1063/5.0346826",
+      "posted_at": "2026-08-18T18:34:56+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787078096.382389",
+      "summary_character_count": 106,
+      "summary_japanese": "L-cysteineを層間挿入したMoS2 nanosheetsで、分子濃度による変形がキラリティーとスピン偏極を制御した。CDと走査トンネル分光、DFTにより、積層誘起対称性破れとスピン選択輸送の関係を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Deformation-driven modulation of chirality and spin polarization in L-cysteine intercalated MoS2 nanosheets: A mechanistic approach to chirality-induced spin selectivity in two-dimensional material"
+    },
     "10.1073/pnas.2532158123": {
       "doi": "10.1073/pnas.2532158123",
       "posted_at": "2026-07-19T22:57:29+00:00",
@@ -6879,6 +6918,19 @@
       "summary_used_fallback": false,
       "title": "Bright Red Solid-State Circularly Polarized Luminescence from Crystalline H-Aggregated Perylene Bisimide"
     },
+    "10.26434/chemrxiv.15003748/v3": {
+      "doi": "10.26434/chemrxiv.15003748/v3",
+      "posted_at": "2026-08-18T18:34:46+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787078086.942899",
+      "summary_character_count": 115,
+      "summary_japanese": "キラル系のenantiomer-specific spin polarizationを対称性とSOC演算子から解析し、軌道形状が行列要素の位相を通じてhandednessを反映すること、磁気異方性は必要だが十分でないことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-induced spin polarization: Some fundamental ingredients"
+    },
     "10.26434/chemrxiv.15005651/v2": {
       "doi": "10.26434/chemrxiv.15005651/v2",
       "posted_at": "2026-07-18T07:02:53+00:00",
@@ -7397,6 +7449,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Regenerated Nanochitin Formed via Self-Assembly during Aqueous Reacetylation of Chitosan"
+    },
+    "10.26434/chemrxiv.15007482/v1": {
+      "doi": "10.26434/chemrxiv.15007482/v1",
+      "posted_at": "2026-08-18T18:34:33+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787078073.557749",
+      "summary_character_count": 108,
+      "summary_japanese": "三つの負曲率部位と12個の七員環をもつ三角形graphenic macrocycle TNMを合成し、X線結晶構造解析で構造を確認した。七員環は非芳香族的で、電子豊富な空孔はC60・C70と強い包接相互作用を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Triply Negatively Curved Graphenic Macrocycle"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
