@@ -29,7 +29,7 @@
     "2026-08-14": 18,
     "2026-08-15": 21,
     "2026-08-16": 22,
-    "2026-08-19": 6
+    "2026-08-19": 11
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -746,6 +746,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
+    },
+    "10.1002/ange.6479535": {
+      "doi": "10.1002/ange.6479535",
+      "posted_at": "2026-08-18T21:21:52+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787088112.596539",
+      "summary_character_count": 123,
+      "summary_japanese": "syn置換2,5-dihydrophosphole 1-oxidesをH2雰囲気下でNi触媒不斉異性化し、隣接するP-不斉中心を含む2,3-dihydrophosphole 1-oxidesを最高99%収率、>20:1 dr、98% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nickel-Catalyzed H 2 -Enabled Asymmetric Olefin Isomerization: Direct Access to P -Stereogenic Phospholenes With Adjacent Stereocenters"
     },
     "10.1002/ange.6690121": {
       "doi": "10.1002/ange.6690121",
@@ -3935,6 +3948,32 @@
       "summary_used_fallback": false,
       "title": "Single-Helical Dopamine-g-Curdlan Hydrogels Showing High Adhesiveness and Injectability"
     },
+    "10.1021/acsaelm.6c01154": {
+      "doi": "10.1021/acsaelm.6c01154",
+      "posted_at": "2026-08-18T21:21:48+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787088108.127259",
+      "summary_character_count": 128,
+      "summary_japanese": "非共役酸素架橋でcarbonyl/amine MR-TADFコア2基を水素化BINOL由来骨格に連結した(R/S)-CONBOは、486 nm・半値幅37 nmのsky-blue CPLを示し、OLEDで最大EQE 11.8%、半値幅42 nmを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Chiral Dual-Core Carbonyl/Amine MR-TADF Emitter for Organic Light-Emitting Devices"
+    },
+    "10.1021/acsami.6c08888": {
+      "doi": "10.1021/acsami.6c08888",
+      "posted_at": "2026-08-18T21:21:43+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787088103.853669",
+      "summary_character_count": 113,
+      "summary_japanese": "naphthalimide系TADF発光体をキラルネマチック液晶にドープし、均一・垂直配向を制御してCPLを評価した。均一配向では0.5 wt%の低濃度でも最大glum 0.14を示し、キロプティカル応答は30日間安定だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Alignment-Controlled Circularly Polarized Thermally Activated Delayed Fluorescence in Chiral Nematic Liquid Crystals"
+    },
     "10.1021/acsami.6c09202": {
       "doi": "10.1021/acsami.6c09202",
       "posted_at": "2026-08-06T09:01:58+00:00",
@@ -4629,6 +4668,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multiresponsive Isotropic Structural Color in Cholesteric Liquid Crystals"
+    },
+    "10.1021/jacs.6c07657": {
+      "doi": "10.1021/jacs.6c07657",
+      "posted_at": "2026-08-18T21:21:57+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787088117.027409",
+      "summary_character_count": 134,
+      "summary_japanese": "B/Pd二元触媒により、三級propargylic carbonatesとα-hydroxy ketonesの不斉propargylic substitutionを開発し、アルキンを保持したvicinal四級・三級立体中心を高ジアステレオ・エナンチオ選択的に構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "B/Pd-Catalyzed AsymmetricPropargylic Substitutionfor Vicinal Quaternary/Tertiary Stereocenters"
     },
     "10.1021/jacs.6c07797": {
       "doi": "10.1021/jacs.6c07797",
@@ -6345,6 +6397,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Two-spin-multiplexed optoacoustic light storage in chiral photonic crystal fiber"
+    },
+    "10.1117/1.ap.8.5.056003": {
+      "doi": "10.1117/1.ap.8.5.056003",
+      "posted_at": "2026-08-18T21:21:39+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787088099.065899",
+      "summary_character_count": 103,
+      "summary_japanese": "対称三重ビームスプリッターによる「true balance」CD分光で広帯域レーザー雑音を相殺し、600–800 nmで雑音等価CD 10 μdegとsucrose 0.48 nmolの検出限界を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Broadband ultrasensitive circular dichroism near the shot-noise limit"
     },
     "10.1126/sciadv.aeb0500": {
       "doi": "10.1126/sciadv.aeb0500",
