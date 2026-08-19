@@ -29,7 +29,7 @@
     "2026-08-15": 21,
     "2026-08-16": 22,
     "2026-08-19": 21,
-    "2026-08-20": 1
+    "2026-08-20": 6
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2260,6 +2260,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Resolution of Aspartic Acid Racemate by Single Crystallization With Phenylalanine as Additive"
     },
+    "10.1002/chir.70134": {
+      "doi": "10.1002/chir.70134",
+      "posted_at": "2026-08-19T18:32:10+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787164329.945099",
+      "summary_character_count": 110,
+      "summary_japanese": "limoneneのVCDスペクトルでSNRに基づく領域選択と単純な多変量回帰を組み合わせ、eeを迅速定量した。30分測定で交差検証R²=0.997、RMSE約2% eeを達成し、5分測定でも予測性能の約97%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rapid Quantitative Determination of Enantiomeric Excess by Vibrational Circular Dichroism Using Noise Based Spectral Selection"
+    },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
       "posted_at": "2026-08-10T10:41:00+00:00",
@@ -2818,6 +2831,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Connecting Nanoscale Molecular Self-Assembly to Macroscale Photophysical Property of Pyrene-Based Liquid Crystal Mesogen"
+    },
+    "10.1002/smll.75282": {
+      "doi": "10.1002/smll.75282",
+      "posted_at": "2026-08-19T18:32:01+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787164321.011059",
+      "summary_character_count": 120,
+      "summary_japanese": "enantiomeric limoneneでP3HT-b-PMMAを結晶化自己集合させたP・MらせんナノワイヤをP(VDF-TrFE)へ導入し、CPL依存の残留分極を実現した。空間分極から均一性約0.5の256-bit PUF識別子を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crystallization-Driven Helical Conjugated Polymer Nanowires for Circularly Polarized Light-Addressable Ferroelectric Physical Unclonable Functions"
     },
     "10.1002/zaac.70190": {
       "doi": "10.1002/zaac.70190",
@@ -4130,6 +4156,19 @@
       "summary_used_fallback": false,
       "title": "Twist-Induced Chiroptical Response in Stacked Triangular Nanoprism Dimers: Leveraging the Lightning-Rod Effect"
     },
+    "10.1021/acsanm.6c02586": {
+      "doi": "10.1021/acsanm.6c02586",
+      "posted_at": "2026-08-19T18:32:05+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787164325.793349",
+      "summary_character_count": 134,
+      "summary_japanese": "porphyrin、calixarene、cyclodextrinなどのmacrocycle-QD界面を批判的に総説し、認識・増感機能、FRET/PET等の機構識別、実試料・細胞での検証を比較した。空孔標的適合性、界面安定性、機構対照に基づく用途別設計指針を提案する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Macrocycle-Quantum Dot Interfaces for Molecular Sensing and Bioimaging"
+    },
     "10.1021/acsanm.6c02903": {
       "doi": "10.1021/acsanm.6c02903",
       "posted_at": "2026-08-16T09:54:44+00:00",
@@ -5254,6 +5293,19 @@
       "summary_used_fallback": true,
       "title": "Achieving OrganocatalyticControl of P(III)-CenteredChirality for the Construction of P(III)/(V) Stereogenic Compounds"
     },
+    "10.1021/jacs.6c13007": {
+      "doi": "10.1021/jacs.6c13007",
+      "posted_at": "2026-08-19T18:32:17+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787164337.043979",
+      "summary_character_count": 125,
+      "summary_japanese": "電子求引基置換tetraarylantimony bromidesとchiral silver phosphatesからキラルSb触媒を構築し、epoxideとanilineの開環でβ-amino alcoholsを高収率・高エナンチオ選択的に得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Designof Chiral Antimony Catalyst for Ring-OpeningReaction of Epoxides with Anilines"
+    },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
       "posted_at": "2026-08-05T21:16:15+00:00",
@@ -5279,6 +5331,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tetrahedral M II 4 L 6 ( M = Fe, Zn) Cages Equipped with Walls Featuring Antiaromatic Pentalene Motifs"
+    },
+    "10.1021/jacsau.6c01002": {
+      "doi": "10.1021/jacsau.6c01002",
+      "posted_at": "2026-08-19T18:31:52+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787164312.041689",
+      "summary_character_count": 129,
+      "summary_japanese": "(R)-または(S)-BINOLを外部付加した[9]CPPで、空間的立体相互作用により骨格の非対称ねじれを熱力学的に固定した。優先配座は293 Kで99%以上を占め、CD、可変温NMR、X線解析、TD-DFTによりCPP由来の強いCotton効果を帰属した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermodynamic Locking of Conformational Chirality in a [9]Cycloparaphenylene"
     },
     "10.1021/jasms.6c00250": {
       "doi": "10.1021/jasms.6c00250",
