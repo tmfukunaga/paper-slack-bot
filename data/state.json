@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-18": 40,
     "2026-07-19": 38,
     "2026-07-20": 20,
     "2026-07-21": 36,
@@ -29,7 +28,7 @@
     "2026-08-14": 18,
     "2026-08-15": 21,
     "2026-08-16": 22,
-    "2026-08-19": 11
+    "2026-08-19": 16
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2753,6 +2752,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Bifacial Indacenodithiophene-Based Hole-Transport Materials With Chirality-Induced Spin Selectivity: Chirality-Spin Polarity Correspondence and Perovskite Passivation"
+    },
+    "10.1002/smll.75150": {
+      "doi": "10.1002/smll.75150",
+      "posted_at": "2026-08-19T01:06:18+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787101578.256189",
+      "summary_character_count": 358,
+      "summary_japanese": "A methylthio-modified Pd(II) metal-organic macrocycle, PdS-MOM, was designed as a crystalline mate for flavonoid glycosides. Synergistic pi-pi stacking and C-H···O interactions stably encapsulated the substrates, enabling SCXRD structural elucidation of 13 glycosides and offline LC-SCXRD analysis of isoflavone glycosides directly from crude plant extracts.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Crystalline Mate Assists Structural Elucidation and Offline LC-SCXRD Analysis of Flavonoid Glycosides via Synergistic pi-pi Stacking and C-H···O Interactions"
     },
     "10.1002/smll.75160": {
       "doi": "10.1002/smll.75160",
@@ -5774,6 +5786,19 @@
       "summary_used_fallback": false,
       "title": "Molecular navigation strategy enables fibrillar self-assembly for efficient as-cast organic solar cells"
     },
+    "10.1038/s41467-026-76626-w": {
+      "doi": "10.1038/s41467-026-76626-w",
+      "posted_at": "2026-08-19T01:06:10+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787101570.659019",
+      "summary_character_count": 135,
+      "summary_japanese": "流体―高分子相境界にナノ閉じ込め勾配層を設けたsupramolecular organohydrogelは、緩和スペクトルを連続化し、−30～100 oC・0.5–200 Hzでtan δ≥0.8を達成して、機械擾乱下でartifact-free ECG記録を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Broadband and wide-temperature dissipation continuum in a supramolecular damping organohydrogel for motion-tolerant bioelectronics"
+    },
     "10.1038/s41467-026-76656-4": {
       "doi": "10.1038/s41467-026-76656-4",
       "posted_at": "2026-08-12T09:48:01+00:00",
@@ -6319,6 +6344,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Gastric dose-volume parameters and toxicity in left-sided breast radiotherapy: A single-center retrospective comparison of helical tomotherapy and 3-dimensional field-in-field techniques"
+    },
+    "10.1097/sap.0000000000004860": {
+      "doi": "10.1097/sap.0000000000004860",
+      "posted_at": "2026-08-19T01:06:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787101582.016979",
+      "summary_character_count": 134,
+      "summary_japanese": "Type IIB constricted ear 23耳に、反転したhelix cartilage graftとretroauricular V-Y advancement flapによる一期的矯正を施行し、耳介垂直高は25.3%増加、AOS・満足度も有意に改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Cartilage Inversion and V-Y Advancement Flap for Type IIB Constricted Ear Correction"
     },
     "10.1098/rsfs.2025.0099": {
       "doi": "10.1098/rsfs.2025.0099",
@@ -7801,6 +7839,19 @@
       "summary_used_fallback": false,
       "title": "Control over the Self-Assembly of Supramolecular Hydrogels Using Hofmeister Effect"
     },
+    "10.3390/jne7030054": {
+      "doi": "10.3390/jne7030054",
+      "posted_at": "2026-08-19T01:06:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787101585.968579",
+      "summary_character_count": 95,
+      "summary_japanese": "Helical coiled tube内の核沸騰を多相CFDで解析し、BPG準拠の格子独立性評価と気泡動力学相関の影響検討を実施した。既往実験との比較で、平均熱伝達係数の予測可能性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Feasibility Study of CFD Boiling Methodology for Predicting Nucleate Boiling Characteristics in a Helical Coiled Tube"
+    },
     "10.3390/md24080279": {
       "doi": "10.3390/md24080279",
       "posted_at": "2026-08-14T09:43:16+00:00",
@@ -7904,6 +7955,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Superchiral-Field-Enhanced Photoinduced Force Microscopy for Nanoscale Chiral Characterization via Magnetic-Dipole Excitation"
+    },
+    "10.3390/separations13080232": {
+      "doi": "10.3390/separations13080232",
+      "posted_at": "2026-08-19T01:06:06+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787101566.619129",
+      "summary_character_count": 382,
+      "summary_japanese": "A polyamine-silica macrocyclic stationary phase, CPAM-Sil, was synthesized by incorporating a branched-chain-containing monomer. It achieved baseline separation of phenylenediamine and phenylenediol positional isomers and improved terphenyl isomer separation. Compared with a commercial C18 column, CPAM-Sil showed more favorable peak asymmetry factors and higher column efficiency.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Preparation of Polyamine-Silica Macrocyclic Chromatographic Stationary Phase for the Separation of Aromatic Compounds"
     },
     "10.3390/solar6040050": {
       "doi": "10.3390/solar6040050",
