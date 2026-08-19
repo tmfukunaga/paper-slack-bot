@@ -28,7 +28,7 @@
     "2026-08-14": 18,
     "2026-08-15": 21,
     "2026-08-16": 22,
-    "2026-08-19": 16
+    "2026-08-19": 21
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -108,6 +108,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "3,3'-Substituted Binaphthol-Based Axially Chiral MR-TADF Enantiomers for Solution-Processed Circularly Polarized Organic Light-Emitting Diodes (CP-OLEDs) With External Quantum Efficiency Over 28%"
+    },
+    "10.1002/adfm.77580": {
+      "doi": "10.1002/adfm.77580",
+      "posted_at": "2026-08-19T03:44:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787111062.306649",
+      "summary_character_count": 126,
+      "summary_japanese": "多孔性らせん状carbon nanorod上のBiが運転中にBiOnへ再構成される2e−ORR触媒を開発し、固体電解質セルで550 mA cm−2時にH2O2を20.16 mol g−1 h−1生成、250 mA cm−2で100 hの耐久性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrochemically-Driven Geometric Restructuring of Bismuth on Helical Carbon Nanorods Boosts H 2 O 2 Electrosynthesis"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -1934,6 +1947,19 @@
       "summary_used_fallback": false,
       "title": "Heterocyclic Nanographenes Doped with Boron and Phosphorus: Post-Phosphorization Synthesis, Excited-State Dynamics and Ion-Responsive Properties"
     },
+    "10.1002/anie.9795533": {
+      "doi": "10.1002/anie.9795533",
+      "posted_at": "2026-08-19T03:44:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787111071.406189",
+      "summary_character_count": 114,
+      "summary_japanese": "二核(salen)titanium触媒によるラジカル開環で2-aryl oxetanesを速度論的光学分割し、高い位置・エナンチオ選択性で光学富化oxetanesを与え、(S)-Atomoxetineなどへ立体保持的に変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Kinetic Resolution of 2-Aryl Oxetanes by Dinuclear Titanium Radical Catalysis"
+    },
     "10.1002/asia.70866": {
       "doi": "10.1002/asia.70866",
       "posted_at": "2026-07-17T17:07:49+00:00",
@@ -2531,6 +2557,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Vortical Differential Scattering of Spatio-Temporal Optical Vortex With Arbitrarily Oriented Orbital Angular Momentum by Chiral Spherical Particle"
+    },
+    "10.1002/pc.71524": {
+      "doi": "10.1002/pc.71524",
+      "posted_at": "2026-08-19T03:44:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787111075.736379",
+      "summary_character_count": 96,
+      "summary_japanese": "UHMWPE繊維複合材のUVHMで、間欠切削に基づくエネルギー蓄積枠組みとRSM-GRA入れ子最適化を開発した。剥離率を従来法比2.6–7.3%低減し、最適条件で灰色関係度0.7816を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Delamination Prediction and Multi-Objective Optimization in Ultrasonic Vibration-Assisted Helical Milling ( UVHM ) of UHMWPE Composites"
     },
     "10.1002/pen.70670": {
       "doi": "10.1002/pen.70670",
@@ -4167,6 +4206,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "N-Heterocyclic Carbene-Catalyzed Desymmetrization of Bishydroxymethylphosphines to Access P-Stereogenic Compounds"
+    },
+    "10.1021/acscatal.6c04180": {
+      "doi": "10.1021/acscatal.6c04180",
+      "posted_at": "2026-08-19T03:44:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787111067.241679",
+      "summary_character_count": 122,
+      "summary_japanese": "ヒドロキシル基含有quinine由来アンモニウム触媒によるキラルカチオン性イオン対触媒で、prochiral electrophileのアルコール開環を動的速度論的分割し、最大99%収率・99% eeでC-C/C-N軸不斉アミノ酸誘導体を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Atroposelective Ion-Pair Catalysis: Accessing C-C and C-N Axially Chiral Amino Acid Derivatives from Prochiral Electrophiles"
     },
     "10.1021/acscatal.6c04393": {
       "doi": "10.1021/acscatal.6c04393",
@@ -7851,6 +7903,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Feasibility Study of CFD Boiling Methodology for Predicting Nucleate Boiling Characteristics in a Helical Coiled Tube"
+    },
+    "10.3390/magnetochemistry12080089": {
+      "doi": "10.3390/magnetochemistry12080089",
+      "posted_at": "2026-08-19T03:44:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787111082.589609",
+      "summary_character_count": 108,
+      "summary_japanese": "10 T級超伝導helical-channel MHD thrusterをMaxwell-Fluent双方向連成で解析し、螺旋ピッチ14.29°で15.5 kg/s時に推力262.56 N、電磁効率7.23%を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Study of Helix Angle Parameters of Helical-Channel Magnetohydrodynamic Thrusters"
     },
     "10.3390/md24080279": {
       "doi": "10.3390/md24080279",
