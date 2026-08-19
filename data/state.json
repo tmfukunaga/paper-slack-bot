@@ -29,7 +29,7 @@
     "2026-08-15": 21,
     "2026-08-16": 22,
     "2026-08-19": 21,
-    "2026-08-20": 6
+    "2026-08-20": 11
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2962,6 +2962,19 @@
       "summary_used_fallback": false,
       "title": "Virtual Prototyping and Experimental Assessment of Gating-System Optimization for Rapid Investment Casting of Miniaturized Cu-Al-Mn Shape Memory Alloy Helical Springs"
     },
+    "10.1007/s42114-026-02032-x": {
+      "doi": "10.1007/s42114-026-02032-x",
+      "posted_at": "2026-08-19T21:23:17+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787174597.481839",
+      "summary_character_count": 96,
+      "summary_japanese": "キラルナノ粒子、超分子ハイドロゲル、キラル表面構造の分類・作製法を整理し、免疫微小環境、骨形成分化、血管新生、神経再生の調節を介する骨修復促進機構と、臨床応用への課題・今後の方向性を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Advances in applications of chiral biomaterials in bone regeneration"
+    },
     "10.1007/s44245-026-00199-7": {
       "doi": "10.1007/s44245-026-00199-7",
       "posted_at": "2026-07-26T15:02:49+00:00",
@@ -3279,6 +3292,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral SurfaceEngineering-Boosted CatalyticActivity of CuO Nanomaterials on Luminol-H2O2 Chemiluminescence for Facile Discrimination of Alanine Enantiomers"
+    },
+    "10.1021/acs.analchem.6c03185": {
+      "doi": "10.1021/acs.analchem.6c03185",
+      "posted_at": "2026-08-19T21:23:28+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787174608.589319",
+      "summary_character_count": 113,
+      "summary_japanese": "多色無キラルcarbon dots（B-, G-, Y-CDs）による三チャネル蛍光アレイを構築し、Lys、His、Argの6種エナンチオマーを100%識別した。l-Lysはスマホ画像を用いるRGB/Lab解析で可視定量した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multicolor Achiral Carbon Dot-Based Fluorescent Sensors for Chiral Recognition and Visual Detection of Basic Amino Acid Enantiomers"
     },
     "10.1021/acs.cgd.6c00617": {
       "doi": "10.1021/acs.cgd.6c00617",
@@ -4643,6 +4669,19 @@
       "summary_used_fallback": true,
       "title": "Total Synthesis of Benthol A: The Nominal and the Actual Natural Product"
     },
+    "10.1021/jacs.6c05615": {
+      "doi": "10.1021/jacs.6c05615",
+      "posted_at": "2026-08-19T21:23:05+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787174585.843509",
+      "summary_character_count": 109,
+      "summary_japanese": "核位置Xと核運動量Pに依存するラジカルのポテンシャル面を用い、異なるスピン状態が非縮退面をたどることを示した。面の差はKramers縮退と矛盾せず、実験的spin-rotation couplingと定量的に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conceptual Shift inOur Understanding of DegenerateRadical Spin Systems: Spin-Rotation Coupling Turned on Its Head"
+    },
     "10.1021/jacs.6c05693": {
       "doi": "10.1021/jacs.6c05693",
       "posted_at": "2026-08-07T12:07:13+00:00",
@@ -5032,6 +5071,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of Chiral Triarylmethanes via Catalytic Asymmetric Skeletal Editing"
+    },
+    "10.1021/jacs.6c10197": {
+      "doi": "10.1021/jacs.6c10197",
+      "posted_at": "2026-08-19T21:23:12+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787174592.877369",
+      "summary_character_count": 132,
+      "summary_japanese": "低対称benzo[18]crown-6で[(o-fluoroanilinium+)(benzo[18]crown-6)][MnIICrIII(oxalate)3]-層状結晶を構築し、分子の配向・配座変化を伴う可逆相転移により、強誘電性と二次元強磁性の共存を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Low-Symmetry Crown Ether Design for Coexisting Ferroelectricity and Ferromagnetism in a Two-Dimensional Molecular Crystal"
     },
     "10.1021/jacs.6c10817": {
       "doi": "10.1021/jacs.6c10817",
@@ -5513,6 +5565,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nonvolatile nematic order manipulated by strain and magnetic field in a layered antiferromagnet"
+    },
+    "10.1038/s41467-026-75689-z": {
+      "doi": "10.1038/s41467-026-75689-z",
+      "posted_at": "2026-08-19T21:23:21+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787174601.920059",
+      "summary_character_count": 104,
+      "summary_japanese": "複数の構造解析により、イッカクの牙の鉱化コラーゲン線維から巨視的左巻きらせんまでの階層構造を解明した。セメント質の左巻きと象牙質の右巻きコラーゲン配列が、逆キラリティーの二重らせんとして巨視的構造を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The narwhal tusk assembles its macroscopic helix from building blocks with opposing twists"
     },
     "10.1038/s41467-026-75699-x": {
       "doi": "10.1038/s41467-026-75699-x",
