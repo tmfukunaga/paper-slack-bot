@@ -28,7 +28,7 @@
     "2026-08-15": 21,
     "2026-08-16": 22,
     "2026-08-19": 21,
-    "2026-08-20": 16
+    "2026-08-20": 18
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3188,6 +3188,19 @@
       "summary_used_fallback": false,
       "title": "Reversible thermally-switchable chirality of circularly polarized luminescence in perovskite nanocrystals enabled by cholesteric liquid crystals"
     },
+    "10.1016/j.nxmate.2026.103190": {
+      "doi": "10.1016/j.nxmate.2026.103190",
+      "posted_at": "2026-08-20T03:44:24+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787197464.582549",
+      "summary_character_count": 120,
+      "summary_japanese": "CrCl3触媒を用いる一段階水熱法で、相互接続したnanobeltから成る多孔質3D階層MoO3 microflowerを合成し、Liイオン電池負極で1114 mA g−1にて634 mAh g−1、3000サイクルで低い容量減衰を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3D hierarchical assembly of MoO3 nanobelt microflowers for enhanced lithium-ion battery anodes"
+    },
     "10.1016/j.sycrs.2026.100216": {
       "doi": "10.1016/j.sycrs.2026.100216",
       "posted_at": "2026-07-24T09:03:25+00:00",
@@ -4258,6 +4271,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Rh(III)-Catalyzed Enantioselective Multicomponent C-H Functionalization Cascade toward Chiral Indoles"
+    },
+    "10.1021/acscatal.6c03761": {
+      "doi": "10.1021/acscatal.6c03761",
+      "posted_at": "2026-08-20T03:44:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787197458.818989",
+      "summary_character_count": 129,
+      "summary_japanese": "銅触媒[3+2]プロパルギル環化と酸促進芳香族化を連結し、長鎖アルキル基を有するキラルN,N,P配位子で立体制御する、oxa[5]helicenes、aza[5]helicenes、diheterohelicenesの高エナンチオ選択的収束合成法を開発した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Convergent Synthesis of Heterohelicenes via Copper-Catalyzed Propargylic Annulation/Acid-Promoted Aromatization"
     },
     "10.1021/acscatal.6c03795": {
       "doi": "10.1021/acscatal.6c03795",
