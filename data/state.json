@@ -28,7 +28,8 @@
     "2026-08-15": 21,
     "2026-08-16": 22,
     "2026-08-19": 21,
-    "2026-08-20": 18
+    "2026-08-20": 18,
+    "2026-08-21": 1
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -6123,6 +6124,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Photon subtraction using a three-level emitter coupled to a chiral waveguide"
+    },
+    "10.1038/s41557-026-02231-5": {
+      "doi": "10.1038/s41557-026-02231-5",
+      "posted_at": "2026-08-20T15:31:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787239878.328089",
+      "summary_character_count": 118,
+      "summary_japanese": "有機ビスマス担体9-bismatriptycene（BisTrip）で多様なケトンのリチウムエノラートを位置選択的にα-アリール化した。Aryl-BisTripは一段階で調製・定量回収でき、嵩高い四級中心やiodoaryl基を導入した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Regiospecific α-arylation of diverse carbonyl compounds using an organobismuth transporter"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
