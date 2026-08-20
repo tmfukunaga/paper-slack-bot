@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-19": 38,
     "2026-07-20": 20,
     "2026-07-21": 36,
     "2026-07-22": 14,
@@ -29,7 +28,7 @@
     "2026-08-15": 21,
     "2026-08-16": 22,
     "2026-08-19": 21,
-    "2026-08-20": 11
+    "2026-08-20": 16
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5189,6 +5188,19 @@
       "summary_used_fallback": false,
       "title": "Coordination-Constraint-Driven Enhanced Chirality Induction in Perovskite Quantum Dot Solids"
     },
+    "10.1021/jacs.6c11216": {
+      "doi": "10.1021/jacs.6c11216",
+      "posted_at": "2026-08-20T01:05:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787187938.057909",
+      "summary_character_count": 341,
+      "summary_japanese": "Rapidly racemizing N-sulfonyl ynamides were used as pro-atropisomers in a dynamic kinetic resolution. A catalytic asymmetric sulfa-Michael addition furnished configurationally stable C-N atropisomeric enamides in up to 97% yield and 97:3 e.r., demonstrating access to highly enantioenriched products from readily prepared ynamide precursors.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Pro-Atropisomeric Ynamides as Starting Materials for the Synthesis of C-N Atropisomers by Dynamic Kinetic Resolution Reactions"
+    },
     "10.1021/jacs.6c11244": {
       "doi": "10.1021/jacs.6c11244",
       "posted_at": "2026-07-24T06:22:22+00:00",
@@ -5358,6 +5370,19 @@
       "summary_used_fallback": false,
       "title": "Designof Chiral Antimony Catalyst for Ring-OpeningReaction of Epoxides with Anilines"
     },
+    "10.1021/jacs.6c15679": {
+      "doi": "10.1021/jacs.6c15679",
+      "posted_at": "2026-08-20T01:05:27+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787187927.395569",
+      "summary_character_count": 119,
+      "summary_japanese": "水溶性deep cavitand CV-1でα,ω-dithiolsを可溶化・J字型に配向し、thiyl radicalを包接して副反応を抑制した。空気酸化により8～14員環cyclic disulfidesを61～89%収率で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Deep Cavitand Mediated Selective Aerobic Oxidative Cyclization of Thiols to Cyclic Disulfides"
+    },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
       "posted_at": "2026-08-05T21:16:15+00:00",
@@ -5396,6 +5421,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermodynamic Locking of Conformational Chirality in a [9]Cycloparaphenylene"
+    },
+    "10.1021/jacsau.6c01038": {
+      "doi": "10.1021/jacsau.6c01038",
+      "posted_at": "2026-08-20T01:05:18+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787187918.922549",
+      "summary_character_count": 107,
+      "summary_japanese": "αGalCerの脂肪族鎖を全炭化水素マクロ環化し、CD1dのA′ポケット占有を最適化したGCC-1/2は、αGalCer比約12倍のin vivo IFN-γ産生を示す強力なTh1偏向NKT細胞アゴニストとなった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "All-Hydrocarbon Macrocycle Enables Highly Potent Th1-Biased NKT Cell Agonists for Immunotherapy"
     },
     "10.1021/jasms.6c00250": {
       "doi": "10.1021/jasms.6c00250",
@@ -6255,6 +6293,19 @@
       "summary_used_fallback": false,
       "title": "Orbital angular momentum textures and currents in a discrete helix: Equilibrium and linear response"
     },
+    "10.1063/5.0346143": {
+      "doi": "10.1063/5.0346143",
+      "posted_at": "2026-08-20T01:05:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787187931.397789",
+      "summary_character_count": 112,
+      "summary_japanese": "(+)-fenchone、(+)-α-pinene、(+)-3-careneの400 nm多光子イオン化PEELDを、速度マップ撮像と新規トモグラフィー再構成で解析し、円筒対称性の破れと楕円率依存の複雑な角度構造を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tomographic reconstruction of photoelectron elliptical dichroism in chiral terpenes and terpenoids"
+    },
     "10.1063/5.0346826": {
       "doi": "10.1063/5.0346826",
       "posted_at": "2026-08-18T18:34:56+00:00",
@@ -6982,6 +7033,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Practical Chiral Anti-Gravity"
+    },
+    "10.17605/osf.io/mk426": {
+      "doi": "10.17605/osf.io/mk426",
+      "posted_at": "2026-08-20T01:05:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787187945.239709",
+      "summary_character_count": 133,
+      "summary_japanese": "逆キラリティ生体分子からなるmirror-lifeの数学的枠組みを構築し、coherence fieldsとchirality-inversion operatorsを導出して、地球生命と直交する第二の生物圏やmirror-humansの生殖隔離を理論的に解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mirror Biology, Synthetic Chirality, and the Next Evolutionary Turning Point"
     },
     "10.17605/osf.io/qw8rf": {
       "doi": "10.17605/osf.io/qw8rf",
