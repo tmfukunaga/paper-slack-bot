@@ -29,7 +29,7 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 1
+    "2026-08-22": 2
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -6488,6 +6488,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Graphene-integrated silicon metasurface for dynamically tunable chirality and enhanced sensing enabled by high-Q quasi-bound states in the continuum"
+    },
+    "10.1088/1572-9494/ae9b88": {
+      "doi": "10.1088/1572-9494/ae9b88",
+      "posted_at": "2026-08-21T18:33:18+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787337198.848999",
+      "summary_character_count": 125,
+      "summary_japanese": "Quantum anomalous Hall insulator-superconductorヘテロ構造のμ≠0におけるMajoranaエッジ状態を解析し、高精度近似解を導出した。分散は編組状に変形し、エッジモードは双方向伝搬する非キラル性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality Breaking of Majorana Edge Modes Induced by Chemical Potential Shifts"
     },
     "10.1088/1674-1056/ae8dad": {
       "doi": "10.1088/1674-1056/ae8dad",
