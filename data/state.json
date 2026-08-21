@@ -29,7 +29,7 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 2
+    "2026-08-22": 4
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -759,6 +759,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
+    },
+    "10.1002/ange.5800931": {
+      "doi": "10.1002/ange.5800931",
+      "posted_at": "2026-08-21T21:21:36+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787347295.977339",
+      "summary_character_count": 105,
+      "summary_japanese": "Co(II) bis-trifluoroacetylcamphorate錯体のcis/trans平衡とVCDを解析し、アセトニトリル中30 mM超の微結晶化で1600 cm−1における|g|≈0.2を観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Record Dissymmetry in Vibrational Optical Activity: Combining Vibronic Coupling and Aggregation in Cobalt(II) Camphorate Complexes"
     },
     "10.1002/ange.6479535": {
       "doi": "10.1002/ange.6479535",
@@ -5071,6 +5084,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Carrier-Mediated SelectiveTransport of PFAS acrossLiquid Membranes"
+    },
+    "10.1021/jacs.6c10086": {
+      "doi": "10.1021/jacs.6c10086",
+      "posted_at": "2026-08-21T21:21:43+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787347303.340689",
+      "summary_character_count": 102,
+      "summary_japanese": "Ru(II) metallocycle RuB-C12を設計し、超音波下でROS産生と真菌膜親和性、biofilm浸透性を高めた。Candida albicans感染マウスで全身毒性なく真菌量を低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Iteratively Designed Phospholipid-Targeted Supramolecular Sonosensitizers for Precision Treatment of Pulmonary Infections"
     },
     "10.1021/jacs.6c10166": {
       "doi": "10.1021/jacs.6c10166",
