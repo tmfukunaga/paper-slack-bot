@@ -29,7 +29,7 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 5
+    "2026-08-23": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2416,6 +2416,19 @@
       "summary_used_fallback": false,
       "title": "Evaluation of Weak Interactions Between the Ring Component and Axle Component in [2]Rotaxanes With 1,3-Diyne Moiety"
     },
+    "10.1002/chem.71596": {
+      "doi": "10.1002/chem.71596",
+      "posted_at": "2026-08-22T18:26:32+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787423191.974889",
+      "summary_character_count": 293,
+      "summary_japanese": "This work computationally examines aromaticity in complex molecular structures and excited states, reassessing the applicability of aromaticity rules and descriptors to systems with multiple delocalization pathways, σ-, π-, δ-, or φ-electrons, and nonplanar or three-dimensional architectures.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Exploring the Boundaries of Aromaticity in Complex Structures and Excited States Through Computational Analysis"
+    },
     "10.1002/chem.71604": {
       "doi": "10.1002/chem.71604",
       "posted_at": "2026-08-22T15:18:32+00:00",
@@ -2428,6 +2441,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Vibrational Circular Dichroism Spectra of 2,5-Diaminoterephtalate Macrocycles Reveal Distant Vibrational Exciton Coupling"
+    },
+    "10.1002/chem.71610": {
+      "doi": "10.1002/chem.71610",
+      "posted_at": "2026-08-22T18:26:20+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787423180.318429",
+      "summary_character_count": 134,
+      "summary_japanese": "DFTによりAl(acnac)3の異性化・ラセミ化機構を解析し、mer体はfac体より1.7 kcal mol−1安定で、ラセミ化障壁は約20 kcal mol−1と示した。N位メチル化はd,l-trans経路のみを残し、障壁を28.1 kcal mol−1へ高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-at-Metal Racemization of Tris-Chelated Octahedral Complexes: A DFT Case Study of Al(acnac) 3"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -8308,6 +8334,19 @@
       "summary_used_fallback": false,
       "title": "Imprinting chirality on a vibronic density of a non chiral vibrating molecule with a short femtosecond NIR chiral pulse"
     },
+    "10.26434/chemrxiv.15007724/v1": {
+      "doi": "10.26434/chemrxiv.15007724/v1",
+      "posted_at": "2026-08-22T18:26:25+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787423185.779079",
+      "summary_character_count": 129,
+      "summary_japanese": "valinolbridged PDI dimer macrocycleとPAHの包接体をsub-50 fs過渡吸収で解析し、pyrene・perylene・coroneneが超高速正孔移動を誘起して、数百ps～ns持続する電荷分離状態を形成することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast Charge Separation Controlled by Aromatic Guests in a Perylene Dimer"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -8464,6 +8503,19 @@
       "summary_used_fallback": false,
       "title": "Development and Certification of CPP-23: A Multi-Element Certified Reference Material for Cereal Plant Tissue from Semi-Arid Regions"
     },
+    "10.3390/ani16162627": {
+      "doi": "10.3390/ani16162627",
+      "posted_at": "2026-08-22T18:26:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787423195.930929",
+      "summary_character_count": 118,
+      "summary_japanese": "跛行歴のない中年Warmblood馬14頭の腰仙部をtransrectal US、helical CT、組織学で比較し、軽度画像異常は高頻度だった。ITJsではCT所見のみが組織学スコアと有意に相関し、LSDsではUSとCTが相関した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Detector Helical Computer Tomography, Transrectal Ultrasonography and Histology of the Lumbosacral Area: A Comparative Study in Warmblood Horse Cadavers"
+    },
     "10.3390/antiox15081008": {
       "doi": "10.3390/antiox15081008",
       "posted_at": "2026-08-14T21:53:58+00:00",
@@ -8580,6 +8632,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Control over the Self-Assembly of Supramolecular Hydrogels Using Hofmeister Effect"
+    },
+    "10.3390/inorganics14080220": {
+      "doi": "10.3390/inorganics14080220",
+      "posted_at": "2026-08-22T18:26:16+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787423176.260219",
+      "summary_character_count": 99,
+      "summary_japanese": "Au8クラスターのcore-Au部位とexo-Au部位に異なるキラル配位子を選択導入し、前者の二座ホスフィン配位が骨格歪みを増大させ、電子円二色性応答を著しく増強することをTD-DFT計算で示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Site-Selective Coordination Controls Chirality Transfer in an Atomically Precise Au8 Cluster"
     },
     "10.3390/jne7030054": {
       "doi": "10.3390/jne7030054",
