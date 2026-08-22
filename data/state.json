@@ -28,7 +28,7 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 14
+    "2026-08-22": 19
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -629,6 +629,19 @@
       "summary_used_fallback": false,
       "title": "Construction of Axially Chiral Polymers by Asymmetric C-H Activation Polymerization"
     },
+    "10.1002/ange.2118217": {
+      "doi": "10.1002/ange.2118217",
+      "posted_at": "2026-08-22T06:36:18+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787380578.380359",
+      "summary_character_count": 106,
+      "summary_japanese": "天然アミノ酸と金属イオンで1Dキラル配位高分子テンプレートを構築し、[Zn(SCN)4]2−の配列を制御してSHGを調整した。[K2(L-ser)][Zn(SCN)4]は8.0×KH2PO4のSHG強度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Supramolecular Templating Enables Tunable Second-Harmonic Generation in Hybrid Zinc Thiocyanates"
+    },
     "10.1002/ange.2496785": {
       "doi": "10.1002/ange.2496785",
       "posted_at": "2026-08-01T06:04:48+00:00",
@@ -784,6 +797,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Harnessing Supramolecular Circularly Polarized Scattering for Enhanced Chiroptical Performance"
+    },
+    "10.1002/ange.5252700": {
+      "doi": "10.1002/ange.5252700",
+      "posted_at": "2026-08-22T06:36:02+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787380562.659279",
+      "summary_character_count": 115,
+      "summary_japanese": "複数のジアステレオマーをとるdiarylethene-[5]helicene光スイッチで、閉環体の速いヘリックス反転と開環体の高い反転障壁を利用し、光開環後に閉環体で得たヘリシティを速度論的に捕捉して持続的な非平衡配置を生成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Light-Driven Out-of-Equilibrium Helicity Control in a Diarylethene-Helicene Photosystem"
     },
     "10.1002/ange.5451795": {
       "doi": "10.1002/ange.5451795",
@@ -2558,6 +2584,19 @@
       "summary_used_fallback": false,
       "title": "Chemoselective Aldehyde and Imine Reduction by a Macrocyclic Triazole-Borane Complex Triggered by a Non-innocent Proton-Hydride Interaction"
     },
+    "10.1002/ejoc.70791": {
+      "doi": "10.1002/ejoc.70791",
+      "posted_at": "2026-08-22T06:36:14+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787380574.517699",
+      "summary_character_count": 131,
+      "summary_japanese": "キラルarylboronic esterとキラルbenzyl carbamateを用いるMatteson homologationにより、benzestrolを高立体選択的に合成した。2つの不斉中心を導入し、残る1つを保持して転写し、6段階・総収率30%で得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Straightforward Synthesis of Benzestrol by Matteson Homologation Using Chiral Benzyl Carbamates"
+    },
     "10.1002/jcc.70477": {
       "doi": "10.1002/jcc.70477",
       "posted_at": "2026-08-01T12:01:06+00:00",
@@ -3836,6 +3875,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Assembly-Driven Emergent Chirality with Simultaneous Induction and Ligand Inversion in Atomic Clusters"
+    },
+    "10.1021/acs.jpclett.6c02333": {
+      "doi": "10.1021/acs.jpclett.6c02333",
+      "posted_at": "2026-08-22T06:36:10+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787380570.095369",
+      "summary_character_count": 115,
+      "summary_japanese": "RR/SS-1,2-cyclohexanediamine上の二色団で一方の遷移エネルギーを置換基により離調し、CD/CPLを解析した。離調でCDはbisignateからmonosignateへ変化し、gabsとglumは低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bichromophores as a Molecular Platform to Explore Chiroptical Responses: Resonant Coupling and Beyond"
     },
     "10.1021/acs.langmuir.6c01158": {
       "doi": "10.1021/acs.langmuir.6c01158",
@@ -8033,6 +8085,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Triply Negatively Curved Graphenic Macrocycle"
+    },
+    "10.26434/chemrxiv.15007635/v1": {
+      "doi": "10.26434/chemrxiv.15007635/v1",
+      "posted_at": "2026-08-22T06:35:57+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787380557.719949",
+      "summary_character_count": 105,
+      "summary_japanese": "円偏光と分子立体化学の関係に着想を得た複素数値メッセージパッシングNNは、分子特徴を振幅・位相で符号化し、キラル中心周辺の立体化学差を捉えることで、特にキラリティー感受性クロマトグラフィーの物性予測を改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Aware Molecular Learning via Complex-Valued Representations Inspired by Circular Polarization"
     },
     "10.26434/chemrxiv.15007658/v1": {
       "doi": "10.26434/chemrxiv.15007658/v1",
