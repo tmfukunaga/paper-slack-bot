@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-21": 36,
     "2026-07-22": 14,
     "2026-07-23": 27,
     "2026-07-24": 26,
@@ -29,7 +28,7 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 4
+    "2026-08-22": 9
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -330,6 +329,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Phase Transformation Directed Mn 2+ Incorporation and Chiral Self-Assembly Unlocks Tunable Multicolor and Circularly Polarized Light Emission in Metal Halide Perovskite Nanoparticles"
+    },
+    "10.1002/adom.71654": {
+      "doi": "10.1002/adom.71654",
+      "posted_at": "2026-08-22T01:05:19+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787360719.248299",
+      "summary_character_count": 120,
+      "summary_japanese": "相転移でBr欠陥を導入したキラル0次元Cs4PbBr6 NCsは青色発光とCPLを示し、配位子比によりCD/CPLが反転した。TA測定はCPLがスピン偏極に由来し、S/R-MBA配座変化が結晶構造を保ったままバンド構造を変えることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Defect-Induced Circularly Polarized Luminescence of Zero-Dimensional Cs 4 PbBr 6 Perovskite Nanocrystals With Ligand-Ratio Dependent CPL Inversion"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -668,6 +680,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
+    },
+    "10.1002/ange.3461860": {
+      "doi": "10.1002/ange.3461860",
+      "posted_at": "2026-08-22T01:05:27+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787360727.377039",
+      "summary_character_count": 110,
+      "summary_japanese": "MAPbI3コアとNEA系キラル殻からなるコアシェルナノ結晶で、励起波長によりCISS媒介スピン注入を制御した。375 nm励起でg_lumは1.5×10−3から3.8×10−3へ増大し、最大85%のスピン偏極を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Excitation-Wavelength-Controlled Spin Injection in Core-Shell Chiral Perovskite Nanocrystals for Amplified Circularly Polarized Luminescence"
     },
     "10.1002/ange.3778438": {
       "doi": "10.1002/ange.3778438",
@@ -1136,6 +1161,19 @@
       "summary_used_fallback": false,
       "title": "Construction of Axially Chiral Polymers by Asymmetric C-H Activation Polymerization"
     },
+    "10.1002/anie.2118217": {
+      "doi": "10.1002/anie.2118217",
+      "posted_at": "2026-08-22T01:05:31+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787360731.391349",
+      "summary_character_count": 122,
+      "summary_japanese": "アルカリ／アルカリ土類金属イオンと天然アミノ酸の1Dキラル配位高分子を鋳型に、[Zn(SCN)4]2−の配列を制御したハイブリッド亜鉛チオシアネートを構築し、[K2(L-ser)][Zn(SCN)4]は8.0×KH2PO4のSHG強度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Supramolecular Templating Enables Tunable Second-Harmonic Generation in Hybrid Zinc Thiocyanates"
+    },
     "10.1002/anie.2204400": {
       "doi": "10.1002/anie.2204400",
       "posted_at": "2026-07-18T15:13:37+00:00",
@@ -1291,6 +1329,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multi-Macrocyclic Nanohoops Bearing Carbazole-Embedded Cycloparaphenylenes as Geometry-Adaptive Hosts Toward Fullerenes"
+    },
+    "10.1002/anie.3461860": {
+      "doi": "10.1002/anie.3461860",
+      "posted_at": "2026-08-22T01:05:14+00:00",
+      "score": 46,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787360714.234289",
+      "summary_character_count": 124,
+      "summary_japanese": "MAPbI3コアとNEA系キラル殻からなるコアシェルナノ結晶で、励起波長によりCISS媒介スピン注入を制御した。375 nm励起では殻からコアへの移動によりCPLのg_lumが3.8×10−3へ増大し、532 nm励起の1.5×10−3を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Excitation-Wavelength-Controlled Spin Injection in Core-Shell Chiral Perovskite Nanocrystals for Amplified Circularly Polarized Luminescence"
     },
     "10.1002/anie.3543072": {
       "doi": "10.1002/anie.3543072",
@@ -1538,6 +1589,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Supramolecular Arene-Perfluoroarene Assembly Enhances Photoiniferter Polymerization Kinetics"
+    },
+    "10.1002/anie.5252700": {
+      "doi": "10.1002/anie.5252700",
+      "posted_at": "2026-08-22T01:05:23+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787360723.649179",
+      "summary_character_count": 110,
+      "summary_japanese": "複数ジアステレオマーをもつdiarylethene-[5]helicene光スイッチで、閉環体の迅速な熱力学的平衡化と開環後のヘリシティの速度論的捕捉を利用し、単一共有結合分子内で持続的な非平衡ヘリシティ制御を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Light-Driven Out-of-Equilibrium Helicity Control in a Diarylethene-Helicene Photosystem"
     },
     "10.1002/anie.5451795": {
       "doi": "10.1002/anie.5451795",
