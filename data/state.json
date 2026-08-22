@@ -28,7 +28,7 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 19
+    "2026-08-22": 24
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1103,6 +1103,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
     },
+    "10.1002/anie.1543450": {
+      "doi": "10.1002/anie.1543450",
+      "posted_at": "2026-08-22T09:24:45+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787390685.838389",
+      "summary_character_count": 110,
+      "summary_japanese": "CZAに水素結合に富む多孔性フレームワークを物理混合し、界面近傍のmethanolを非共有結合的に捕捉・脱離させた。再吸着を抑え、選択性92.3%以上を維持してmethanol時空収率を1.12–1.43倍に向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Non-Covalent Host-Guest Extraction of Methanol Enables Enhanced Syngas-to-Methanol Conversion Over Hybrid Oxide-Porous Framework Catalysis"
+    },
     "10.1002/anie.1547062": {
       "doi": "10.1002/anie.1547062",
       "posted_at": "2026-08-07T09:04:41+00:00",
@@ -1115,6 +1128,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Protection-Deprotection for Switching Pore-Surface Functionality in a Crystalline Porous Organic Salt"
+    },
+    "10.1002/anie.1729522": {
+      "doi": "10.1002/anie.1729522",
+      "posted_at": "2026-08-22T09:24:37+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787390676.983219",
+      "summary_character_count": 131,
+      "summary_japanese": "R-およびS-BNPで修飾したSnO2により、CO2還元の生成物選択性をCOからformateへ転換した。in-situ ATR-SEIRASは、キラル界面がformate経路のO-bound *OCHOを選択的に安定化し、水素結合動力学を変調することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin-Polarized Interfaces Redirect CO 2 Reduction From CO to Formate"
     },
     "10.1002/anie.1807439": {
       "doi": "10.1002/anie.1807439",
@@ -2584,6 +2610,19 @@
       "summary_used_fallback": false,
       "title": "Chemoselective Aldehyde and Imine Reduction by a Macrocyclic Triazole-Borane Complex Triggered by a Non-innocent Proton-Hydride Interaction"
     },
+    "10.1002/ejoc.70784": {
+      "doi": "10.1002/ejoc.70784",
+      "posted_at": "2026-08-22T09:24:53+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787390693.398759",
+      "summary_character_count": 338,
+      "summary_japanese": "A molecular loop incorporating a 9,9′-spirobifluorene core, thiol anchors, and a cycloparaphenylene backbone was synthesized by Suzuki–Miyaura coupling and reductive aromatization. MCBJ measurements showed reproducible single-molecule conductance plateaus near 2 × 10^-4 and 4 × 10^-5 G0, consistent with multiple junction configurations.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Competing Charge Transport Pathways: A Spirobifluorene-Based Molecular Loop"
+    },
     "10.1002/ejoc.70791": {
       "doi": "10.1002/ejoc.70791",
       "posted_at": "2026-08-22T06:36:14+00:00",
@@ -3643,6 +3682,19 @@
       "summary_used_fallback": false,
       "title": "pH Modulatesthe Coordination Mode and Pentose RingConformation Response Mechanism of Inosine 5′-MonophosphateMetal Complexes"
     },
+    "10.1021/acs.inorgchem.6c02258": {
+      "doi": "10.1021/acs.inorgchem.6c02258",
+      "posted_at": "2026-08-22T09:24:32+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787390672.413469",
+      "summary_character_count": 107,
+      "summary_japanese": "高温合成したδ-Co2.5Zn17.5およびMn置換相をX線・中性子回折と計算で解析し、MnはZnを介して6cサイトを占有すると示した。反磁性母相はMn導入で、10 Kにスピン凍結するクラスターガラス磁性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diamagnetic to Cluster Glass Transition in the Mn-Substituted δ-Co2.5Zn17.5 Chiral Intermetallic Phase"
+    },
     "10.1021/acs.inorgchem.6c02545": {
       "doi": "10.1021/acs.inorgchem.6c02545",
       "posted_at": "2026-08-05T18:03:58+00:00",
@@ -3706,6 +3758,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Iridium(III)Microcrystals with Mechano-TunableCircularly Polarized Luminescence"
+    },
+    "10.1021/acs.inorgchem.6c03618": {
+      "doi": "10.1021/acs.inorgchem.6c03618",
+      "posted_at": "2026-08-22T09:24:41+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787390681.707869",
+      "summary_character_count": 109,
+      "summary_japanese": "キラルdirhodium触媒によるdiazo化合物を用いたsulfenamideのアルキル化をDFT、VTNA、ESI-HRMS、UV-visで解析し、硫黄中心形成段階は可逆で、後続段階が立体決定的であることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "How Dirhodium Catalysts Build Chiral Sulfur Centers: An Unexpected Mechanistic Blueprint from Kinetics, Spectroscopy, and Computation"
     },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
