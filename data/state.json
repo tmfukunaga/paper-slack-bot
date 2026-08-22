@@ -29,7 +29,7 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 10
+    "2026-08-23": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3410,6 +3410,19 @@
       "summary_used_fallback": false,
       "title": "Interrupting the hereditary effect: helical path vector-orthogonal additive method for enhanced subtractive machining performance and accuracy of thin-walled rotational parts"
     },
+    "10.1016/j.mechmachtheory.2026.106568": {
+      "doi": "10.1016/j.mechmachtheory.2026.106568",
+      "posted_at": "2026-08-22T21:19:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787433574.320389",
+      "summary_character_count": 101,
+      "summary_japanese": "有限厚みをもつ理論上無限平面の収納・展開に向け、多ハブchiral origamiを統合した折紙戦略を提案した。設計則、面積・体積比、数値シミュレーションと単一・四ハブ試作実験により展開挙動を検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A folding and deployment strategy for infinite planes based on multi-hub chiral origami"
+    },
     "10.1016/j.micromeso.2026.114323": {
       "doi": "10.1016/j.micromeso.2026.114323",
       "posted_at": "2026-07-24T00:21:40+00:00",
@@ -6515,6 +6528,19 @@
       "summary_used_fallback": false,
       "title": "A unified and desymmetric approach to axially chiral atropisomers"
     },
+    "10.1038/s41528-026-00634-5": {
+      "doi": "10.1038/s41528-026-00634-5",
+      "posted_at": "2026-08-22T21:19:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787433593.452999",
+      "summary_character_count": 91,
+      "summary_japanese": "CNT電極・半導体チャネルと3種の有機macrocycle吸収体をインクジェット印刷した柔軟光検出器アレイは、可視光の波長・強度を識別し、変形下と1000回の照射後も安定に動作した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fully inkjet-printed flexible photodetector array for light color detection utilizing carbon nanotubes-organic macrocycles hybrid structures"
+    },
     "10.1038/s41534-026-01338-4": {
       "doi": "10.1038/s41534-026-01338-4",
       "posted_at": "2026-08-14T09:43:20+00:00",
@@ -6957,6 +6983,19 @@
       "summary_used_fallback": false,
       "title": "Higher-order chiral Lagrangians with vector meson nonet in different representations"
     },
+    "10.1088/1674-1137/ae9c1d": {
+      "doi": "10.1088/1674-1137/ae9c1d",
+      "posted_at": "2026-08-22T21:19:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787433586.225769",
+      "summary_character_count": 109,
+      "summary_japanese": "ChQMでJ^{PC}=2^{++}の全重tetraquarkを解析し、束縛状態は得られなかったが、実スケーリング法によりcc̄cc̄で約7002、7227 MeV、bb̄bb̄で約19743 MeVの共鳴状態を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Investigation of fully heavy tetraquark within chiral quark model"
+    },
     "10.1088/1741-4326/ae9326": {
       "doi": "10.1088/1741-4326/ae9326",
       "posted_at": "2026-08-02T00:04:54+00:00",
@@ -6969,6 +7008,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Evaluation of spatiotemporal tungsten density profiles using Unresolved Transition Arrays in the Large Helical Device"
+    },
+    "10.1088/1741-4326/ae9ccb": {
+      "doi": "10.1088/1741-4326/ae9ccb",
+      "posted_at": "2026-08-22T21:19:30+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787433570.697749",
+      "summary_character_count": 114,
+      "summary_japanese": "Large Helical DeviceにおけるL-modeから定常H-modeへの遷移を解析し、初期遷移では平均Er×B流曲率と乱流の非線形エネルギーカスケードが、定常化には乱流と大規模MHDモードの非線形結合が重要と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic mechanisms across the transition from the L-mode to steady-state H-mode in Large Helical Device"
     },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
@@ -8892,6 +8944,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "What Is the Real-Time Atomistic Mechanism Behind Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Molecules?"
+    },
+    "10.51878/educator.v5i4.15098": {
+      "doi": "10.51878/educator.v5i4.15098",
+      "posted_at": "2026-08-22T21:19:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787433578.712989",
+      "summary_character_count": 89,
+      "summary_japanese": "西ロンボクの中学9年生を対象に、VCDと顕微鏡を用いる生物学習をposttest-only設計で比較した。VCD群は動機づけと学業成績が有意に高く、両者には正の相関が認められた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "PENGARUH PENGGUNAAN MEDIA VCD DAN MIKROSKOP TERHADAP PENINGKATAN MOTIVASI DAN PRESTASI BELAJAR BIOLOGI SISWA SMP"
     },
     "10.5194/ms-17-799-2026": {
       "doi": "10.5194/ms-17-799-2026",
