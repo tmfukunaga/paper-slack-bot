@@ -28,7 +28,7 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 24
+    "2026-08-22": 29
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -212,6 +212,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Unconventional Superconductivity in ScIr 2 Chiral Crystal With a Kagome Lattice"
+    },
+    "10.1002/adma.74733": {
+      "doi": "10.1002/adma.74733",
+      "posted_at": "2026-08-22T12:34:40+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787402080.498279",
+      "summary_character_count": 116,
+      "summary_japanese": "An34C10ホストとF4TCNQゲストのCT共結晶は、808 nm照射下で98.0%の光熱変換効率を示した。これを担持したPUフォームは1 sun下で蒸発速度1.343 kg m−2 h−1、太陽光‐蒸気効率91.1%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Host-Guest Charge-Transfer Co-Crystals With Record-High Photothermal Conversion Efficiency for Solar-Driven Interfacial Water Evaporation"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -1927,6 +1940,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Amino Acid Simulated Host-Guest Systems With Full-Color High-Temperature Organic Afterglow"
+    },
+    "10.1002/anie.7715311": {
+      "doi": "10.1002/anie.7715311",
+      "posted_at": "2026-08-22T12:34:32+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787402072.720879",
+      "summary_character_count": 111,
+      "summary_japanese": "Tb(OTf)3/PyBoxキラルLewis酸でnaphthaleneの励起状態を制御し、alkeneとの部位選択的脱芳香族化[2+2]光環化を達成した。cyclobutaneを47–97%収率、最大>99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Site-Selective Dearomative [2+2] Photocycloaddition of Naphthalene Derivatives With Alkenes"
     },
     "10.1002/anie.7946369": {
       "doi": "10.1002/anie.7946369",
@@ -4149,6 +4175,19 @@
       "summary_used_fallback": false,
       "title": "Carbene-Catalyzed Desymmetric Amidation Enables Modular Access to Planar Chiral Thioureas and Imides"
     },
+    "10.1021/acs.orglett.6c02348": {
+      "doi": "10.1021/acs.orglett.6c02348",
+      "posted_at": "2026-08-22T12:34:20+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787402060.121359",
+      "summary_character_count": 118,
+      "summary_japanese": "Cobalt-photoredox触媒によるN-aryl benzamidesと2,5-dihydrofuranのC-H annulationで、中心不斉とC-N軸不斉を一段階導入し、最大>99% ee、>20:1 drで生成物を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cobalt-Photoredox-Catalyzed C-H Annulation of N -Aryl Benzamides with 2,5-Dihydrofuran: Double Stereo Induction"
+    },
     "10.1021/acs.orglett.6c02405": {
       "doi": "10.1021/acs.orglett.6c02405",
       "posted_at": "2026-08-06T00:18:08+00:00",
@@ -5617,6 +5656,19 @@
       "summary_used_fallback": false,
       "title": "An Iron(V)-Oxo TAML Radical Cation Complex in Photocatalytic Water Oxidation and Electron-Transfer Reactions"
     },
+    "10.1021/jacs.6c12829": {
+      "doi": "10.1021/jacs.6c12829",
+      "posted_at": "2026-08-22T12:34:24+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787402064.737509",
+      "summary_character_count": 114,
+      "summary_japanese": "外因性シグナル分子の分子認識で配座変化し、ゲスト結合空間を形成する人工分子トランスデューサーを開発した。anthraceneの光応答で結合・放出を制御し、cm厚水層で順・逆濃度勾配輸送とbioorthogonal反応を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An Artificial Molecular Transducer Driven by Molecular Recognition"
+    },
     "10.1021/jacs.6c12866": {
       "doi": "10.1021/jacs.6c12866",
       "posted_at": "2026-07-29T03:03:58+00:00",
@@ -6435,6 +6487,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The piezochiral effect"
+    },
+    "10.1038/s41598-026-67057-0": {
+      "doi": "10.1038/s41598-026-67057-0",
+      "posted_at": "2026-08-22T12:34:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787402084.715669",
+      "summary_character_count": 109,
+      "summary_japanese": "歯形誤差を考慮したはすば歯車対の多目的ロバスト最適化で、解析モデルと機械学習EHLソルバー、Kriging代理モデルによるMonte Carlo解析を用いた。決定論的最適化比でPPTEと効率の標準偏差を50%低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Surrogate-assisted multi-objective robust optimization of helical gear pair considering manufacturing uncertainty due to profile error"
     },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
