@@ -28,7 +28,7 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 9
+    "2026-08-22": 14
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -733,6 +733,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Self-Assembly Enables Controlled Lithium Replenishment Toward High-Performance and Sustainable Regeneration of Spent LiFePO 4 Batteries"
     },
+    "10.1002/ange.4944487": {
+      "doi": "10.1002/ange.4944487",
+      "posted_at": "2026-08-22T03:39:34+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787369974.885509",
+      "summary_character_count": 125,
+      "summary_japanese": "spirocyclic橋で多環芳香族単位を連結したspiro[16]areneを合成し、上下の電子豊富な四角形空孔により[6]CPPを1:1、C70を1:2で溶液・固体中に包接した。剛直性により固有キラリティーを保持し、分割体はCD・CPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spiro[16]arene: A Spirocycle-Bridged Macrocycle With Nanocarbon Recognition"
+    },
     "10.1002/ange.5082047": {
       "doi": "10.1002/ange.5082047",
       "posted_at": "2026-08-08T14:06:37+00:00",
@@ -797,6 +810,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Record Dissymmetry in Vibrational Optical Activity: Combining Vibronic Coupling and Aggregation in Cobalt(II) Camphorate Complexes"
+    },
+    "10.1002/ange.5989322": {
+      "doi": "10.1002/ange.5989322",
+      "posted_at": "2026-08-22T03:39:25+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787369965.283509",
+      "summary_character_count": 134,
+      "summary_japanese": "キラルbinaphthyl crown ether配位子から2Dハロゲン結合有機骨格XOF-TPH/TPOを構築し、crown etherサイズで柔軟性と結晶性を制御した。両者は配位子よりCISS効果が増強され、高結晶性XOF-TPHは最大94%のスピン偏極を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Chiral Halogen-Bonded Organic Frameworks Enhance Efficient Chirality-Induced Spin Selectivity"
     },
     "10.1002/ange.6479535": {
       "doi": "10.1002/ange.6479535",
@@ -1525,6 +1551,19 @@
       "summary_used_fallback": false,
       "title": "Host-Guest Mismatch Enables Selective Hydrogen Atom Transfer"
     },
+    "10.1002/anie.4944487": {
+      "doi": "10.1002/anie.4944487",
+      "posted_at": "2026-08-22T03:39:30+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787369970.233939",
+      "summary_character_count": 103,
+      "summary_japanese": "スピロ環架橋型マクロ環SP16を設計し、上下の電子豊富な四角形空孔により[6]CPPを1:1、C70を1:2で溶液・固体中捕捉した。剛直な架橋に由来する固有キラリティーを分割し、CDおよびCPLを確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spiro[16]arene: A Spirocycle-Bridged Macrocycle With Nanocarbon Recognition"
+    },
     "10.1002/anie.5082047": {
       "doi": "10.1002/anie.5082047",
       "posted_at": "2026-08-08T14:06:30+00:00",
@@ -1615,6 +1654,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
+    },
+    "10.1002/anie.5989322": {
+      "doi": "10.1002/anie.5989322",
+      "posted_at": "2026-08-22T03:39:21+00:00",
+      "score": 54,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787369961.150209",
+      "summary_character_count": 131,
+      "summary_japanese": "キラルbinaphthyl crown ether配位子から2Dハロゲン結合有機骨格XOF-TPH/TPOを構築し、crown etherサイズで柔軟性と結晶性を制御した。高結晶性XOF-TPHは、単量体配位子を上回るCISSを示し、スピン偏極率94%に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Chiral Halogen-Bonded Organic Frameworks Enhance Efficient Chirality-Induced Spin Selectivity"
     },
     "10.1002/anie.6078601": {
       "doi": "10.1002/anie.6078601",
@@ -7981,6 +8033,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Triply Negatively Curved Graphenic Macrocycle"
+    },
+    "10.26434/chemrxiv.15007658/v1": {
+      "doi": "10.26434/chemrxiv.15007658/v1",
+      "posted_at": "2026-08-22T03:39:39+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787369979.688939",
+      "summary_character_count": 132,
+      "summary_japanese": "Co/Salox触媒によるaryl hydrazoneとmaleimideの不斉脱対称化で、遠隔四級中心と軸不斉を高エナンチオ選択的に同時構築した。可逆的C–H活性化がエナンチオ決定段階であり、切断可能な配向基により1,3-非隣接多不斉骨格へ化学選択的に展開した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cobalt Catalyzed Divergent Construction of Non-Adjacent Multiple Chiral Elements"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
