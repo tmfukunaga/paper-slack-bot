@@ -28,7 +28,8 @@
     "2026-08-19": 21,
     "2026-08-20": 18,
     "2026-08-21": 1,
-    "2026-08-22": 29
+    "2026-08-22": 29,
+    "2026-08-23": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -498,6 +499,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Morphing of Liquid Crystal Polymer Networks"
+    },
+    "10.1002/advs.77336": {
+      "doi": "10.1002/advs.77336",
+      "posted_at": "2026-08-22T15:18:25+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787411905.702989",
+      "summary_character_count": 115,
+      "summary_japanese": "Tb-threonine超分子キラル発光体Tb-Thr D/L-G NCsを水系ワンポット合成し、可調発光・CPLとpH応答オンオフを実現した。時間制御、自律消去、4種の復号鍵を備える多段階暗号化と偽造防止インクへの応用を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Terbium-Threonine Chiral Emitters with Tunable Circularly Polarized Luminescence as Anticounterfeiting-Ink for Autonomous Data Encryption"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -2401,6 +2415,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Evaluation of Weak Interactions Between the Ring Component and Axle Component in [2]Rotaxanes With 1,3-Diyne Moiety"
+    },
+    "10.1002/chem.71604": {
+      "doi": "10.1002/chem.71604",
+      "posted_at": "2026-08-22T15:18:32+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787411912.466609",
+      "summary_character_count": 380,
+      "summary_japanese": "VCD and FT-Raman spectra of chiral macrocycles based on the 2,5-diaminoterephthalate scaffold were analyzed using exciton coupling theory and quantum-chemical calculations. The study resolved coupling between C═O stretching and N─H bending vibrations, showing that carbonyl configurations favor through-space dipolar interactions over through-bond interactions between C═O groups.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Vibrational Circular Dichroism Spectra of 2,5-Diaminoterephtalate Macrocycles Reveal Distant Vibrational Exciton Coupling"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -5643,6 +5670,19 @@
       "summary_used_fallback": true,
       "title": "AtropisomericAryl-Hydrazone Frameworks: Discoveryand Organocatalytic Enantioselective Construction"
     },
+    "10.1021/jacs.6c12135": {
+      "doi": "10.1021/jacs.6c12135",
+      "posted_at": "2026-08-22T15:18:42+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787411922.833979",
+      "summary_character_count": 101,
+      "summary_japanese": "cysteine濃度で異なる内在的キラル形態のAu NPsを作製し、形態に伴うプラズモンhandednessの反転がスピン偏極の符号を反転させた。局所形態のhandednessがスピン選択性を規定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intrinsic Morphological Chirality Governs Spin Selectivity in Gold Nanoparticles"
+    },
     "10.1021/jacs.6c12367": {
       "doi": "10.1021/jacs.6c12367",
       "posted_at": "2026-07-20T15:27:29+00:00",
@@ -6435,6 +6475,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly polarized luminescence optical waveguides in stretchable photonic crystal fibers for advanced human motion monitoring"
+    },
+    "10.1038/s41467-026-76924-3": {
+      "doi": "10.1038/s41467-026-76924-3",
+      "posted_at": "2026-08-22T15:18:49+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787411929.270469",
+      "summary_character_count": 125,
+      "summary_japanese": "prochiral dicarboxylic estersとisocyanoacetatesの銀触媒脱対称Schöllkopf反応により、C-C、C-N、N-N、C-O軸をもつ4種の軸不斉atropisomerを高収率・高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A unified and desymmetric approach to axially chiral atropisomers"
     },
     "10.1038/s41534-026-01338-4": {
       "doi": "10.1038/s41534-026-01338-4",
@@ -8241,6 +8294,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cobalt Catalyzed Divergent Construction of Non-Adjacent Multiple Chiral Elements"
+    },
+    "10.26434/chemrxiv.15007721/v1": {
+      "doi": "10.26434/chemrxiv.15007721/v1",
+      "posted_at": "2026-08-22T15:18:36+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787411916.634389",
+      "summary_character_count": 134,
+      "summary_japanese": "全量子電子・核結合動力学により、短いフェムト秒NIRキラルパルスの多光子励起で生じる電子コヒーレンスが、極性LiHの振電密度にキラリティーを誘起することを示した。d(t)と非定常電子角運動量L(t)で追跡し、パルスのキラリティー反転で振電密度のキラリティーも反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Imprinting chirality on a vibronic density of a non chiral vibrating molecule with a short femtosecond NIR chiral pulse"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
