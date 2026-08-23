@@ -28,7 +28,7 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 20
+    "2026-08-23": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2571,6 +2571,19 @@
       "summary_used_fallback": false,
       "title": "Rapid Quantitative Determination of Enantiomeric Excess by Vibrational Circular Dichroism Using Noise Based Spectral Selection"
     },
+    "10.1002/chir.70137": {
+      "doi": "10.1002/chir.70137",
+      "posted_at": "2026-08-23T03:48:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787456934.471289",
+      "summary_character_count": 114,
+      "summary_japanese": "S-NaproxenのECD反転を水・エタノール・アセトニトリルで測定し、MDとTD-DFTで解析した。pH依存のプロトン化平衡により、主要遷移がπ→π*からn→π*へ変化し、水で負、アセトニトリルで正の信号となることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Evaluating the Solvent and pH Effect in the Inversion of the Circular Dichroism Signal of S -Naproxen"
+    },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
       "posted_at": "2026-08-10T10:41:00+00:00",
@@ -2753,6 +2766,19 @@
       "summary_used_fallback": false,
       "title": "A Straightforward Synthesis of Benzestrol by Matteson Homologation Using Chiral Benzyl Carbamates"
     },
+    "10.1002/elps.70144": {
+      "doi": "10.1002/elps.70144",
+      "posted_at": "2026-08-23T03:48:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787456939.157919",
+      "summary_character_count": 115,
+      "summary_japanese": "21種の非対称置換ruthenocene・ferroceneを、8種の被覆・固定化多糖系キラル固定相で順相LC分析した。誘導体構造、固定相、移動相アルコールによりエナンチオ分離は大きく異なり、全異性体を分離できるカラムはなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Coated and Immobilized Polysaccharides-Based Stationary Phases for Planar Metallocenes Enantioseparation in Liquid Chromatography"
+    },
     "10.1002/jcc.70477": {
       "doi": "10.1002/jcc.70477",
       "posted_at": "2026-08-01T12:01:06+00:00",
@@ -2843,6 +2869,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Twin-Image Free Multichannel Vectorial Holography With Nonlinear Chiroptical Metasurfaces"
+    },
+    "10.1002/lpor.71779": {
+      "doi": "10.1002/lpor.71779",
+      "posted_at": "2026-08-23T03:48:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787456923.970399",
+      "summary_character_count": 132,
+      "summary_japanese": "Hybrid Poincaré beamの空間偏光分布を用い、偏極原子集団のZeeman副準位との位置選択的相互作用を設計した。静磁場方位に応じた空間コヒーレンスと円二色性の変調を、透過光のStokesパラメータ、偏光楕円、Poincaré球上の軌跡で可視化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulation of Spatial Coherence and Circular Dichroism of Atoms Based on Hybrid Poincaré Beams"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -4726,6 +4765,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Enantioselective Construction of Axially Chiral B-N Embedded Seven-Membered Bridged Biaryls via Trifunctionalization of Terminal Alkynes"
+    },
+    "10.1021/acscatal.6c04677": {
+      "doi": "10.1021/acscatal.6c04677",
+      "posted_at": "2026-08-23T03:48:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787456930.594129",
+      "summary_character_count": 366,
+      "summary_japanese": "An asymmetric allylation/lactonization of olefinic azlactones using zwitterionic oxy π-allyl-Ir/Pd intermediates achieved complete α-selective functionalization through noncovalent interactions. The cascade furnished chiral γ-butyrolactones bearing contiguous quaternary and tertiary stereocenters with high E/Z control, diastereoselectivity, and enantioselectivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Harnessing Noncovalent Interactions in Transition-Metal Catalysis: An Asymmetric Allylation/Lactonization Cascade to Chiral γ-Butyrolactones"
     },
     "10.1021/acscatal.6c05079": {
       "doi": "10.1021/acscatal.6c05079",
@@ -8735,6 +8787,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Behavior and Racemization of Salen-Type Ligands and Their Iron Complexes: An X-Ray Crystal Structure Study"
+    },
+    "10.3390/eng7080423": {
+      "doi": "10.3390/eng7080423",
+      "posted_at": "2026-08-23T03:48:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787456919.802249",
+      "summary_character_count": 135,
+      "summary_japanese": "加熱円管内乱流空気に共回転Helical screw tapeを1～6枚挿入して数値解析した。3枚配置はplain tube比でNusselt数を126.0～158.8%向上させ、熱性能係数が最大、全エントロピー生成とexergy destructionが最小となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Numerical Analysis of First- and Second-Law Performance in Round Tubes Equipped with Multiple Helical Screw Tape Inserts"
     },
     "10.3390/gels12080693": {
       "doi": "10.3390/gels12080693",
