@@ -28,7 +28,8 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 37
+    "2026-08-23": 37,
+    "2026-08-24": 3
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1914,6 +1915,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Single-Atom Control of Aromaticity and Excited-State Dynamics in Endohedral Zirconium-Antimony Zintl Clusters"
+    },
+    "10.1002/anie.6267376": {
+      "doi": "10.1002/anie.6267376",
+      "posted_at": "2026-08-23T15:19:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787498398.549329",
+      "summary_character_count": 113,
+      "summary_japanese": "Co/chiral N,N′-dioxide触媒によりvinyl carbene連続反応を開発し、多様な半飽和複素環を高収率・高立体選択的に合成した。速度論・DFTはC(sp2)–HまたはN–H挿入後の分子内共役付加を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cobalt-Catalyzed Enantioselective Vinyl Carbene Annulation: A Versatile Platform for Semisaturated Heterocycles"
     },
     "10.1002/anie.6268409": {
       "doi": "10.1002/anie.6268409",
@@ -6514,6 +6528,19 @@
       "summary_used_fallback": false,
       "title": "Enantioselective synthesis of ring-constrained biaryls via a twist-expand-seal strategy"
     },
+    "10.1038/s41467-026-76133-y": {
+      "doi": "10.1038/s41467-026-76133-y",
+      "posted_at": "2026-08-23T15:19:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787498391.216689",
+      "summary_character_count": 132,
+      "summary_japanese": "spiropyran光異性化と高分子網目相互作用を組み合わせ、40秒で体積80,000%超膨張する均質photoactive hydrogelを開発した。照射界面のひずみ差により、光で可逆的にhelicesやtwistsの左右性を再構成し、自己推進回転も実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reconfiguring handed shape-morphing and actuation in hydrogels via light-encoded rapid expansion"
+    },
     "10.1038/s41467-026-76182-3": {
       "doi": "10.1038/s41467-026-76182-3",
       "posted_at": "2026-08-01T00:15:24+00:00",
@@ -6786,6 +6813,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A unified and desymmetric approach to axially chiral atropisomers"
+    },
+    "10.1038/s41467-026-77039-5": {
+      "doi": "10.1038/s41467-026-77039-5",
+      "posted_at": "2026-08-23T15:20:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787498402.812799",
+      "summary_character_count": 124,
+      "summary_japanese": "雄マウスの競争で初勝利はmPFCアストロサイトのD2受容体依存的Ca2+活性とグルタミン酸放出を誘導し、mPFC-NAc投射ニューロンのドーパミン応答を増強して勝利記憶を固定した。アストロサイトD2受容体欠失は優位記憶と安定した階層形成を阻害した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Astrocytes amplify cortical dopamine to encode winning memory in male mice"
     },
     "10.1038/s41528-026-00634-5": {
       "doi": "10.1038/s41528-026-00634-5",
