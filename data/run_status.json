@@ -1,32 +1,19 @@
 {
-  "latest_slot": "2026-08-24T00:00:00+09:00",
+  "latest_slot": "2026-08-24T03:00:00+09:00",
   "latest_status": {
-    "eligible_count": 3,
-    "finished_at": "2026-08-23T15:20:04+00:00",
-    "posted_count": 3,
-    "reason": "posted",
+    "eligible_count": 0,
+    "finished_at": "2026-08-23T18:25:47+00:00",
+    "posted_count": 0,
+    "reason": "no_eligible_papers",
     "return_code": 0,
     "run_cap": 5,
-    "scheduled_slot": "2026-08-24T00:00:00+09:00",
-    "selected_count": 3,
-    "started_at": "2026-08-23T15:19:09+00:00",
+    "scheduled_slot": "2026-08-24T03:00:00+09:00",
+    "selected_count": 0,
+    "started_at": "2026-08-23T18:24:59+00:00",
     "status": "success",
     "summary_failure_count": 0
   },
   "slots": {
-    "2026-08-10T03:00:00+09:00": {
-      "eligible_count": 1,
-      "finished_at": "2026-08-09T19:50:45+00:00",
-      "posted_count": 1,
-      "reason": "posted",
-      "return_code": 0,
-      "run_cap": 5,
-      "scheduled_slot": "2026-08-10T03:00:00+09:00",
-      "selected_count": 1,
-      "started_at": "2026-08-09T19:49:53+00:00",
-      "status": "success",
-      "summary_failure_count": 0
-    },
     "2026-08-10T06:00:00+09:00": {
       "eligible_count": 0,
       "finished_at": "2026-08-09T22:03:31+00:00",
@@ -1246,6 +1233,19 @@
       "scheduled_slot": "2026-08-24T00:00:00+09:00",
       "selected_count": 3,
       "started_at": "2026-08-23T15:19:09+00:00",
+      "status": "success",
+      "summary_failure_count": 0
+    },
+    "2026-08-24T03:00:00+09:00": {
+      "eligible_count": 0,
+      "finished_at": "2026-08-23T18:25:47+00:00",
+      "posted_count": 0,
+      "reason": "no_eligible_papers",
+      "return_code": 0,
+      "run_cap": 5,
+      "scheduled_slot": "2026-08-24T03:00:00+09:00",
+      "selected_count": 0,
+      "started_at": "2026-08-23T18:24:59+00:00",
       "status": "success",
       "summary_failure_count": 0
     }
