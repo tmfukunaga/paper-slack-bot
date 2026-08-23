@@ -28,7 +28,7 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 27
+    "2026-08-23": 32
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -122,6 +122,19 @@
       "summary_used_fallback": false,
       "title": "Electrochemically-Driven Geometric Restructuring of Bismuth on Helical Carbon Nanorods Boosts H 2 O 2 Electrosynthesis"
     },
+    "10.1002/adfm.77928": {
+      "doi": "10.1002/adfm.77928",
+      "posted_at": "2026-08-23T09:25:31+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787477131.870159",
+      "summary_character_count": 105,
+      "summary_japanese": "4種のキラルAuNCで、溶媒‐配位子間O─H···O═S水素結合によりクラスター核数の可逆変換、発光色・CPLの反転を制御した。PLQYは90.95%に達し、時間依存シグナルを3次元情報暗号化・復号に応用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent-Mediated Reversible Intercluster Transformation and Chiroptical Inversion in Gold Nanoclusters for Time-Resolved Information Encryption"
+    },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
       "posted_at": "2026-08-06T03:17:04+00:00",
@@ -213,6 +226,19 @@
       "summary_used_fallback": false,
       "title": "Unconventional Superconductivity in ScIr 2 Chiral Crystal With a Kagome Lattice"
     },
+    "10.1002/adma.74664": {
+      "doi": "10.1002/adma.74664",
+      "posted_at": "2026-08-23T09:25:27+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787477127.401419",
+      "summary_character_count": 113,
+      "summary_japanese": "CAIH法によりヘリカルキラル四座配位Pt(II)錯体をジアステレオ選択的かつグラムスケールで合成し、R,M-PtCam2は量子効率99%、深青色CP-OLEDで最大EQE 33.2%、最大輝度51592 cd/m2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helically Chiral Tetradentate Pt(II) Complexes for Simultaneous Deep-Blue Electroluminescence and Circularly Polarized Luminescence via Diastereoselective Synthesis"
+    },
     "10.1002/adma.74733": {
       "doi": "10.1002/adma.74733",
       "posted_at": "2026-08-22T12:34:40+00:00",
@@ -225,6 +251,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Host-Guest Charge-Transfer Co-Crystals With Record-High Photothermal Conversion Efficiency for Solar-Driven Interfacial Water Evaporation"
+    },
+    "10.1002/adma.74767": {
+      "doi": "10.1002/adma.74767",
+      "posted_at": "2026-08-23T09:25:18+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787477118.940479",
+      "summary_character_count": 135,
+      "summary_japanese": "phenylalanine系ゲル化剤LPF/DPFと微量berberineの共集合化で、0.2のguest/host比でもキラリティー移動を増幅し、|g_lum|≈0.08を達成した。疎な挿入は水素結合網を保ち、π-π相互作用と静電相互作用によりヘリカル配列を固定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sub-Stoichiometric Supramolecular Co-Assembly Strategy Enabling Efficient Chirality Transfer and CPL Amplification"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -771,6 +810,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Self-Assembly Enables Controlled Lithium Replenishment Toward High-Performance and Sustainable Regeneration of Spent LiFePO 4 Batteries"
+    },
+    "10.1002/ange.4171725": {
+      "doi": "10.1002/ange.4171725",
+      "posted_at": "2026-08-23T09:25:23+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787477123.411039",
+      "summary_character_count": 132,
+      "summary_japanese": "軸不斉BINOL系両親媒性分子カプセルへの包接により、直鎖芳香族オリゴマーのPL、CD、CPLを水中で活性化し、最大ΦF=87%、|glum|=4×10−3を達成した。固体のfluorene trimer複合体では|gabs|=|glum|≈3×10−2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Non-Covalent PL, CD, and CPL Activation of Linear Aromatic Oligomers within Axially Chiral Aromatic Capsules"
     },
     "10.1002/ange.4944487": {
       "doi": "10.1002/ange.4944487",
@@ -1615,6 +1667,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Self-Assembly Enables Controlled Lithium Replenishment Toward High-Performance and Sustainable Regeneration of Spent LiFePO 4 Batteries"
+    },
+    "10.1002/anie.4171725": {
+      "doi": "10.1002/anie.4171725",
+      "posted_at": "2026-08-23T09:25:14+00:00",
+      "score": 51,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787477114.106969",
+      "summary_character_count": 88,
+      "summary_japanese": "軸不斉BINOL系芳香族カプセルで各種芳香族オリゴマーを水中包接し、PL、CD、CPLを活性化した。fluorene系ではΦF最大87%、|glum|最大4×10−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Non-Covalent PL, CD, and CPL Activation of Linear Aromatic Oligomers within Axially Chiral Aromatic Capsules"
     },
     "10.1002/anie.4237539": {
       "doi": "10.1002/anie.4237539",
