@@ -28,7 +28,7 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 32
+    "2026-08-23": 37
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -394,6 +394,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Defect-Induced Circularly Polarized Luminescence of Zero-Dimensional Cs 4 PbBr 6 Perovskite Nanocrystals With Ligand-Ratio Dependent CPL Inversion"
+    },
+    "10.1002/adom.71668": {
+      "doi": "10.1002/adom.71668",
+      "posted_at": "2026-08-23T12:34:40+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787488480.058169",
+      "summary_character_count": 87,
+      "summary_japanese": "(R-/S-MBA)2CuCl4薄膜で結晶配向がCDに及ぼすLD・LB寄与を解析し、無配向膜では内因性CDが約60%、高配向膜ではLDLB由来が約90%を占めることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of Crystal Orientations on the Circular and Linear Dichroism Signals in Chiral Perovskite"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -1207,6 +1220,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Protection-Deprotection for Switching Pore-Surface Functionality in a Crystalline Porous Organic Salt"
     },
+    "10.1002/anie.1681939": {
+      "doi": "10.1002/anie.1681939",
+      "posted_at": "2026-08-23T12:34:43+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787488483.916549",
+      "summary_character_count": 135,
+      "summary_japanese": "adamantyl置換pyrene結晶で、分散力を利用したadamantylクランプにより一次元のzero-offset πスタックを形成し、100 Kで3.297(3) Åの面間距離を示した。結晶化に伴う−0.761 eVの赤方偏移は主に分子間軌道相互作用に由来した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dispersion-Clamped Crystalline Supramolecular Columnar pi-Stacks of Adamantyl-Substituted Pyrenes"
+    },
     "10.1002/anie.1729522": {
       "doi": "10.1002/anie.1729522",
       "posted_at": "2026-08-22T09:24:37+00:00",
@@ -1258,6 +1284,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Mechanical Planar Chiral Rotaxane Induces Single-Handed Helicity in a Twisted Perylene Diimide"
+    },
+    "10.1002/anie.1958506": {
+      "doi": "10.1002/anie.1958506",
+      "posted_at": "2026-08-23T12:34:51+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787488491.571879",
+      "summary_character_count": 127,
+      "summary_japanese": "γ-CDとpyrene由来dt-pseudo[4]rotaxane架橋剤をHEAと共重合し、組成を保った異なる架橋トポロジーのゲルを作製した。dt-slide ring networkは>1050%の破断伸び、溶媒応答性、高靭性と低ヒステリシスを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of Threading State on the Mechanics of γ-Cyclodextrin-Pyrene Gels"
     },
     "10.1002/anie.1974825": {
       "doi": "10.1002/anie.1974825",
@@ -3273,6 +3312,19 @@
       "summary_used_fallback": false,
       "title": "Crystallization-Driven Helical Conjugated Polymer Nanowires for Circularly Polarized Light-Addressable Ferroelectric Physical Unclonable Functions"
     },
+    "10.1002/smll.75406": {
+      "doi": "10.1002/smll.75406",
+      "posted_at": "2026-08-23T12:34:36+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787488476.186029",
+      "summary_character_count": 107,
+      "summary_japanese": "磁場配向したプラズモニックナノ粒子鎖を含む高分子フィルムをねじれ積層し、層間配向で円二色性の波長・強度・旋光性を連続制御した。可視プラズモン共鳴により光学回転分散由来の色も調整でき、ヘテロ構造・多層積層へ拡張した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Chirality by Stacking Films of Magnetically Assembled Plasmonic Nanochains"
+    },
     "10.1002/zaac.70190": {
       "doi": "10.1002/zaac.70190",
       "posted_at": "2026-08-12T23:22:46+00:00",
@@ -3551,6 +3603,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Interrupting the hereditary effect: helical path vector-orthogonal additive method for enhanced subtractive machining performance and accuracy of thin-walled rotational parts"
+    },
+    "10.1016/j.jphotochem.2026.117626": {
+      "doi": "10.1016/j.jphotochem.2026.117626",
+      "posted_at": "2026-08-23T12:34:47+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787488487.430689",
+      "summary_character_count": 132,
+      "summary_japanese": "PDI-based macrocyclesでcyclo[48]carbonを包接したC48·3(PDI-CP) [4]catenaneを計算設計し、分子動力学・電子構造計算でPDI-CPからC48への約0.9 eの光誘起電子移動と、数十psでの電荷分離を予測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Computational design of a photoactive [4]catenane with cyclo[48]carbon as an electron-accepting hub"
     },
     "10.1016/j.mechmachtheory.2026.106568": {
       "doi": "10.1016/j.mechmachtheory.2026.106568",
