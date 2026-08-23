@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-22": 14,
     "2026-07-23": 27,
     "2026-07-24": 26,
     "2026-07-25": 1,
@@ -29,7 +28,7 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 15
+    "2026-08-23": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1383,6 +1382,19 @@
       "summary_used_fallback": false,
       "title": "Enhancement of Dissymmetry Factors Through Axial Elongation of Hetero[ n ]helicenes"
     },
+    "10.1002/anie.2812801": {
+      "doi": "10.1002/anie.2812801",
+      "posted_at": "2026-08-23T01:10:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787447453.123919",
+      "summary_character_count": 115,
+      "summary_japanese": "DTEとsultam由来hemiaminalを統合し、閉環体でのみ可逆的C–N結合形成・開裂する光制御系を開発した。光と酸塩基によりmacrocycle/線状体変換、自己選別、polymer分解・macrocycle化を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Remote Control Over Covalent Assemblies With Photoswitch-Modulated Dynamic C-N Bonds"
+    },
     "10.1002/anie.2908295": {
       "doi": "10.1002/anie.2908295",
       "posted_at": "2026-08-14T15:08:26+00:00",
@@ -1500,6 +1512,19 @@
       "summary_used_fallback": true,
       "title": "Switching Fluorescent-Phosphorescent Radioluminescence in Organic X-Ray Scintillators via a Host-Guest Strategy"
     },
+    "10.1002/anie.3729447": {
+      "doi": "10.1002/anie.3729447",
+      "posted_at": "2026-08-23T01:10:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787447449.205979",
+      "summary_character_count": 125,
+      "summary_japanese": "TiO2(110)上でHPBをcyclodehydrogenationしてHPHACを生成し、さらにannealingでcyclooctatetraene縮環二量体を形成した。STM/STS、DFTにより二量体のみが基板へ単電子移動することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Surface-Assisted Cyclodehydrogenation and Annulative Dimerization on TiO 2 (110): Formation of an Azacoronene and Its Octagon-Fused Dimer"
+    },
     "10.1002/anie.3778438": {
       "doi": "10.1002/anie.3778438",
       "posted_at": "2026-08-15T15:43:43+00:00",
@@ -1590,6 +1615,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Self-Assembly Enables Controlled Lithium Replenishment Toward High-Performance and Sustainable Regeneration of Spent LiFePO 4 Batteries"
+    },
+    "10.1002/anie.4237539": {
+      "doi": "10.1002/anie.4237539",
+      "posted_at": "2026-08-23T01:10:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787447441.282949",
+      "summary_character_count": 112,
+      "summary_japanese": "Hantzsch型三成分縮合でpyridine-3,5-dicarbonitrile結合CPPを合成し、thiophene donorを持つHCPP-1は実海水・空気下でH2O2を4850 μmol g−1 h−1生成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Constructing Substituted-Pyridine-Linked Conjugated Porous Polymers via Multicomponent Hantzsch-Type Reaction for Efficient Hydrogen Peroxide Photosynthesis from Real Seawater and Air"
     },
     "10.1002/anie.4560740": {
       "doi": "10.1002/anie.4560740",
@@ -4715,6 +4753,19 @@
       "summary_used_fallback": true,
       "title": "Reprogramming ω -Transaminase for Enantioselective Assembly of Axially Chiral Spiro[3.3]heptane Building Blocks"
     },
+    "10.1021/acscatal.6c05226": {
+      "doi": "10.1021/acscatal.6c05226",
+      "posted_at": "2026-08-23T01:10:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787447437.822339",
+      "summary_character_count": 121,
+      "summary_japanese": "キラルリン酸触媒を用い、polycyclic indolesとquinone estersの酸化的形式[3+2]環化付加により、furan・pyrrole含有hetero[7]/[6]helicenesを高収率・高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Synthesis of Heterohelicenes via Organocatalyzed Oxidative Formal [3 + 2] Cycloadditions between Polycyclic Indoles and Quinones"
+    },
     "10.1021/acsmaterialsau.5c00256": {
       "doi": "10.1021/acsmaterialsau.5c00256",
       "posted_at": "2026-08-12T09:48:17+00:00",
@@ -7411,6 +7462,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Retrospective comparison between helical blade and screw in geriatric hip fracture fixation with cephalomedullary devices"
+    },
+    "10.1186/s13071-026-07344-x": {
+      "doi": "10.1186/s13071-026-07344-x",
+      "posted_at": "2026-08-23T01:10:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787447445.318429",
+      "summary_character_count": 102,
+      "summary_japanese": "1246頭のclass 1・2犬糸状虫症保護犬で、ML/doxy併用下のmelarsomine 2回・3回投与を後ろ向き比較した。抗原陰性率は各96.0%、100%で差はなく、2回投与は代替法となり得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A retrospective comparison of two-dose and three-dose melarsomine, with doxycycline and a macrocyclic lactone, in 1246 shelter dogs"
     },
     "10.1209/0295-5075/ae9008": {
       "doi": "10.1209/0295-5075/ae9008",
