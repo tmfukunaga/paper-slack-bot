@@ -28,7 +28,7 @@
     "2026-08-20": 18,
     "2026-08-21": 1,
     "2026-08-22": 29,
-    "2026-08-23": 25
+    "2026-08-23": 27
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4649,6 +4649,19 @@
       "summary_used_fallback": false,
       "title": "Controllable Preparationof Carbon-Based Micro- andNanomaterials with Different Helical Morphologies for ElectromagneticWave Absorption"
     },
+    "10.1021/acsapm.6c02040": {
+      "doi": "10.1021/acsapm.6c02040",
+      "posted_at": "2026-08-23T06:36:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787467016.372129",
+      "summary_character_count": 112,
+      "summary_japanese": "Polyrotaxaneの骨格構造とトポロジー動力学・機能の関係を総説し、柔軟骨格ではmacrocycleの滑りによる応力分散・エネルギー散逸、剛直π共役骨格では局在動力学による光電子性能向上を示す階層的設計指針を提示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Backbone-Governed Design of Polyrotaxanes: Linking Macrocycle Dynamics to Functional Materials"
+    },
     "10.1021/acscatal.6c03124": {
       "doi": "10.1021/acscatal.6c03124",
       "posted_at": "2026-07-24T06:22:28+00:00",
@@ -5967,6 +5980,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral CarbohydrateAdducts are Effective for EnantiomericIon Mobility Separations"
+    },
+    "10.1021/prechem.6c00101": {
+      "doi": "10.1021/prechem.6c00101",
+      "posted_at": "2026-08-23T06:36:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787467012.352299",
+      "summary_character_count": 375,
+      "summary_japanese": "Ambrettolide-derived 17-membered macrolactones bearing an internal double bond, epoxide, or five-membered cyclic carbonate were selectively polymerized by Lewis pair catalysis. The resulting high-molecular-weight PE-like polyesters retained their functional groups. Bulk melt depolymerization recovered macrocyclic monomers, which remained repolymerizable after purification.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Functionalized and Chemically Recyclable “Polyethylene-like” Polyesters from Selective Ring-Opening Polymerization of Bifunctional Macrocycles"
     },
     "10.1038/s41467-026-74709-2": {
       "doi": "10.1038/s41467-026-74709-2",
