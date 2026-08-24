@@ -28,7 +28,7 @@
     "2026-08-21": 1,
     "2026-08-22": 29,
     "2026-08-23": 37,
-    "2026-08-24": 3
+    "2026-08-24": 6
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -238,6 +238,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helically Chiral Tetradentate Pt(II) Complexes for Simultaneous Deep-Blue Electroluminescence and Circularly Polarized Luminescence via Diastereoselective Synthesis"
+    },
+    "10.1002/adma.74722": {
+      "doi": "10.1002/adma.74722",
+      "posted_at": "2026-08-24T09:44:15+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787564655.181299",
+      "summary_character_count": 118,
+      "summary_japanese": "超分子コレステリック集合とin situオレフィン光重合を統合し、らせん液晶性電荷捕捉キラル高分子を構築した。蛍光・りん光由来の白色CPLで量子効率39%、約20 sの残光を示し、キラルFRETにより黄～NIRのCP-LPLも実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programming Helical Charge-Trapping Superstructures for High-Performance White Circularly Polarized Luminescence and Multicolor Long-Persistent Luminescence"
     },
     "10.1002/adma.74733": {
       "doi": "10.1002/adma.74733",
@@ -4188,6 +4201,19 @@
       "summary_used_fallback": false,
       "title": "Structural Chirality Transfer from Agar Hydrogel to Chiral Luminescent Carbon Dots via Hydrothermal Carbonization"
     },
+    "10.1021/acs.jpcc.6c02485": {
+      "doi": "10.1021/acs.jpcc.6c02485",
+      "posted_at": "2026-08-24T09:44:20+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787564660.056649",
+      "summary_character_count": 119,
+      "summary_japanese": "phenylalanine置換OPEのキラルハンドル位置を比較し、meta体は水/メタノール中でらせんスタックを形成してbisignate CDと強いCPLを示す一方、para体は梯子状集合で弱いmonosignate CDのみを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structural Origin of Mono- and Bisignate Circular Dichroism Signals in Phenyleneethynylene Assemblies"
+    },
     "10.1021/acs.jpcc.6c03543": {
       "doi": "10.1021/acs.jpcc.6c03543",
       "posted_at": "2026-08-09T16:04:15+00:00",
@@ -7189,6 +7215,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strain modulated Chiral Magnetic Structures in Two-Dimensional Janus NiIX (X = Br, Cl)"
+    },
+    "10.1088/0256-307x/43/9/090701": {
+      "doi": "10.1088/0256-307x/43/9/090701",
+      "posted_at": "2026-08-24T09:44:24+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787564664.337209",
+      "summary_character_count": 120,
+      "summary_japanese": "第一原理計算とBoltzmann輸送理論でhelical Teを解析し、lone pairとらせん鎖が格子非調和性増大・phonon群速度低下を通じ低格子熱伝導率を生むことを示した。Born有効電荷の導入は最大zTを約31.0%低下させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interplay of Long-Range Interactions, Helical Chains, and Lone Pairs in Tellurium"
     },
     "10.1088/1361-6587/ae8ead": {
       "doi": "10.1088/1361-6587/ae8ead",
