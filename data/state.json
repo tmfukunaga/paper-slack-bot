@@ -27,7 +27,8 @@
     "2026-08-21": 1,
     "2026-08-22": 29,
     "2026-08-23": 37,
-    "2026-08-24": 6
+    "2026-08-24": 6,
+    "2026-08-26": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1393,6 +1394,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Cycloazulenylene"
+    },
+    "10.1002/anie.2205198": {
+      "doi": "10.1002/anie.2205198",
+      "posted_at": "2026-08-25T15:40:10+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787672410.238419",
+      "summary_character_count": 102,
+      "summary_japanese": "多様なnaphthalene-based aryltrimethylsilanesを用いる二段階APEXにより、8～10環縮環nanographeneを合成し、5・6・7員環を含む負曲率体を構造解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diversity-Oriented Two-Step Annulative pi-Extension Enables Access to Structurally Complex Nanographenes"
     },
     "10.1002/anie.2275817": {
       "doi": "10.1002/anie.2275817",
@@ -5863,6 +5877,19 @@
       "summary_used_fallback": false,
       "title": "Coordination-Constraint-Driven Enhanced Chirality Induction in Perovskite Quantum Dot Solids"
     },
+    "10.1021/jacs.6c11214": {
+      "doi": "10.1021/jacs.6c11214",
+      "posted_at": "2026-08-25T15:40:02+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787672402.766219",
+      "summary_character_count": 96,
+      "summary_japanese": "キラルCuOにおける熱キャリアのスピン依存散乱を、開発した超高速XUV-CDで測定した。キャリア―フォノン相互作用でスピン偏極が超高速に生じ、フォノン媒介ホッピング中も保持されることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Real-Time Observation of Dynamic Spin Polarization in Copper Oxide by Carrier Scattering with Chiral Phonons"
+    },
     "10.1021/jacs.6c11216": {
       "doi": "10.1021/jacs.6c11216",
       "posted_at": "2026-08-20T01:05:38+00:00",
@@ -6824,6 +6851,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly polarized luminescence optical waveguides in stretchable photonic crystal fibers for advanced human motion monitoring"
+    },
+    "10.1038/s41467-026-76921-6": {
+      "doi": "10.1038/s41467-026-76921-6",
+      "posted_at": "2026-08-25T15:39:57+00:00",
+      "score": 40,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787672397.524679",
+      "summary_character_count": 99,
+      "summary_japanese": "楕円形・半円形拘束細胞のactin繊維を解析し、内側細胞のキラル回転と境界細胞のキラル傾斜モデルを構築した。島面積・形状比の操作と動態観察により、キラル秩序が境界で生じて内側へ伝播することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Actin based cell chirality emerging at the boundary of 2D-microtissue directs chiral multicellular pattern formation"
     },
     "10.1038/s41467-026-76924-3": {
       "doi": "10.1038/s41467-026-76924-3",
@@ -8748,6 +8788,19 @@
       "summary_used_fallback": false,
       "title": "Ultrafast Charge Separation Controlled by Aromatic Guests in a Perylene Dimer"
     },
+    "10.26434/chemrxiv.15007774/v1": {
+      "doi": "10.26434/chemrxiv.15007774/v1",
+      "posted_at": "2026-08-25T15:40:17+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787672417.897589",
+      "summary_character_count": 129,
+      "summary_japanese": "biphenol含有macrocycleをthreadingした蛍光BODIPY rotaxaneを合成し、BF3·OEt2とAlCl3でboron配位を1分以内に定量的に可逆変換した。両状態は最大91%の蛍光量子収率を示し、二光子吸収も前駆体より増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Efficient and reversible boron coordination in a fluorescent BODIPY rotaxane"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -9189,6 +9242,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Superchiral-Field-Enhanced Photoinduced Force Microscopy for Nanoscale Chiral Characterization via Magnetic-Dipole Excitation"
+    },
+    "10.3390/polym18172040": {
+      "doi": "10.3390/polym18172040",
+      "posted_at": "2026-08-25T15:39:52+00:00",
+      "score": 53,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787672392.810639",
+      "summary_character_count": 124,
+      "summary_japanese": "(R)-/(S)-C[4]Bとachiral bis-thiazole orangeを超強力に包接し、水中で一次元重合する発光性超分子ポリマーを構築した。キラリティー移動により625 nmの赤色CPLと8.5 × 10−3の発光異方性因子を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrastrong Host-Guest Recognition Driven Chiral Supramolecular Polymers with Circularly Polarized Luminescence in Water"
     },
     "10.3390/separations13080232": {
       "doi": "10.3390/separations13080232",
