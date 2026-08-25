@@ -28,7 +28,7 @@
     "2026-08-22": 29,
     "2026-08-23": 37,
     "2026-08-24": 6,
-    "2026-08-26": 5
+    "2026-08-26": 9
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -121,6 +121,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Electrochemically-Driven Geometric Restructuring of Bismuth on Helical Carbon Nanorods Boosts H 2 O 2 Electrosynthesis"
+    },
+    "10.1002/adfm.77853": {
+      "doi": "10.1002/adfm.77853",
+      "posted_at": "2026-08-25T18:36:36+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787682996.325629",
+      "summary_character_count": 128,
+      "summary_japanese": "PEGDA-β-CD polyrotaxaneとgelatinからcurcumin担持hydrogelを作製し、β-CDのthreading density増加で層状構造と高減衰性を誘導し、靱性・弾性率を向上させた。in vivoで良好な創傷治癒も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanical Programming of PEGDA- β -CD Polyrotaxane-Based Hydrogels via Host-Guest Molecular Recognition"
     },
     "10.1002/adfm.77928": {
       "doi": "10.1002/adfm.77928",
@@ -563,6 +576,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Morphing of Liquid Crystal Polymer Networks"
+    },
+    "10.1002/advs.77099": {
+      "doi": "10.1002/advs.77099",
+      "posted_at": "2026-08-25T18:36:31+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787682991.751969",
+      "summary_character_count": 90,
+      "summary_japanese": "液中誘電体メタサーフェスが生成する集束渦ビームの波面指紋を用い、ビーム品質空間分散・双曲線伝搬・Fresnel回折理論から液体の屈折率と消衰係数を定量取得するMHWF法を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metasurface-Enabled Helical Wavefront Fingerprint Metrology for Quantitative Retrieval of Liquid Optical Constants"
     },
     "10.1002/advs.77336": {
       "doi": "10.1002/advs.77336",
@@ -7086,6 +7112,19 @@
       "summary_used_fallback": true,
       "title": "Atropisomeric Properties of N-Aryl 5H-dibenz[b,f]azepines"
     },
+    "10.1055/a-2934-2961": {
+      "doi": "10.1055/a-2934-2961",
+      "posted_at": "2026-08-25T18:36:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787683005.417309",
+      "summary_character_count": 398,
+      "summary_japanese": "A scalable stereoselective synthesis of (R)-N-(tert-butyloxycarbonyl)-5-methyl-1-[(S)-2-methyloxiran-2-yl]-1-oxohex-4-en-2-amine was developed from a carbonyl compound through reduction to a chiral hydroxyl intermediate and induced epoxidation. The target was obtained in high overall yield and exceptional enantiomeric purity, with its structure and stereochemistry confirmed by NMR, MS, and HPLC.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "A Scalable Stereoselective Synthetic Route to the Valuable Chiral Epoxyketone Building Block (R)-N-(tert-butyloxycarbonyl)-5-methyl-1-[(S)-2-methyloxiran-2-yl]-1-oxohex-4-en-2-amine"
+    },
     "10.1063/5.0325213": {
       "doi": "10.1063/5.0325213",
       "posted_at": "2026-08-12T20:11:52+00:00",
@@ -7748,6 +7787,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity-Resolved Greybody Factors of AdS-NLED Black Holes with Strings and Quintessence"
+    },
+    "10.1177/00219983261480358": {
+      "doi": "10.1177/00219983261480358",
+      "posted_at": "2026-08-25T18:36:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787683010.926189",
+      "summary_character_count": 117,
+      "summary_japanese": "勾配キラル花弁ハニカム4構成を対象に、63次元形状から24次元力学特性を予測するアンサンブル学習と逆設計モデルを構築した。R²>99%の順予測、平均R²>98%の逆予測を達成し、4種の目標形状変形曲線を平均相対誤差2%以内で設計した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Machine learning prediction and data-driven inverse design of gradient chiral petal honeycombs"
     },
     "10.1177/08927057261471597": {
       "doi": "10.1177/08927057261471597",
