@@ -27,7 +27,8 @@
     "2026-08-22": 29,
     "2026-08-23": 37,
     "2026-08-24": 6,
-    "2026-08-26": 9
+    "2026-08-26": 9,
+    "2026-08-27": 1
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -6876,6 +6877,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly polarized luminescence optical waveguides in stretchable photonic crystal fibers for advanced human motion monitoring"
+    },
+    "10.1038/s41467-026-76794-9": {
+      "doi": "10.1038/s41467-026-76794-9",
+      "posted_at": "2026-08-26T16:16:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787760982.997819",
+      "summary_character_count": 111,
+      "summary_japanese": "CsAg2I3で、偏極フォノンの渦状振動がヨウ素原子クラスターの二次元短距離秩序を誘起し、フォノン散乱中心を増加させることを散乱実験とab initio MDで示した。単結晶は室温で0.08 W/m-Kの熱伝導率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vorticity-induced short-range ordering for heat insulation in anisotropically bonded CsAg2I3"
     },
     "10.1038/s41467-026-76921-6": {
       "doi": "10.1038/s41467-026-76921-6",
