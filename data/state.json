@@ -28,7 +28,7 @@
     "2026-08-23": 37,
     "2026-08-24": 6,
     "2026-08-26": 9,
-    "2026-08-27": 1
+    "2026-08-27": 2
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -7917,6 +7917,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Near-unity and high-Q circular dichroism reversal enabled by chiral guided mode resonance in planar dielectric metasurfaces"
+    },
+    "10.1364/oe.611147": {
+      "doi": "10.1364/oe.611147",
+      "posted_at": "2026-08-26T19:45:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787773508.482879",
+      "summary_character_count": 108,
+      "summary_japanese": "digital alkali laser内でLGモードのchiralityを制御し、半波長板とvortex retarderにより偏光次数・トポロジカル電荷がともに1次のVVBを直接生成し、最大出力5.9 Wを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Generation of chirality controllable vector vortex beams from a digital alkali laser"
     },
     "10.1364/opticaopen.32538849.v3": {
       "doi": "10.1364/opticaopen.32538849.v3",
