@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-26": 36,
     "2026-07-27": 15,
     "2026-07-28": 8,
     "2026-07-29": 25,
@@ -28,7 +27,7 @@
     "2026-08-23": 37,
     "2026-08-24": 6,
     "2026-08-26": 9,
-    "2026-08-27": 2
+    "2026-08-27": 7
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -433,6 +432,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Impact of Crystal Orientations on the Circular and Linear Dichroism Signals in Chiral Perovskite"
+    },
+    "10.1002/adom.71675": {
+      "doi": "10.1002/adom.71675",
+      "posted_at": "2026-08-27T00:27:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787790447.613629",
+      "summary_character_count": 122,
+      "summary_japanese": "PB[7]Hを中心・末端環融合してHPAH 1、2を合成し、Clar’s sextet移動を誘起した。末端拡張2はπ-clamped構造を示し、拡張に伴う光学ギャップ低下と振動子強度の非単調変化をTMD解析で説明し、1では非放射失活が遅延した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Regioselective pi-Extension of Helical PAHs: Tuning Energy Gaps and Excited-State Dynamics Directed by Clar's Sextet Migration"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -2135,6 +2147,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamic Fluorescence Visualization of Nonequilibrium Supramolecular Assembly Regulated by a Proton Reservoir"
+    },
+    "10.1002/anie.7295217": {
+      "doi": "10.1002/anie.7295217",
+      "posted_at": "2026-08-27T00:27:32+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787790452.054559",
+      "summary_character_count": 122,
+      "summary_japanese": "indium-triazole配位錯体から構造水含有supramolecular glassを水熱攪乱法で作製し、青～黄に励起依存で可変な室温りん光を実現した。L-tyrosine添加により204.6 msの青色残光とキラル光学機能を付与した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hydrothermal Disturbance-Driven Coordination Assembly of Supramolecular Glasses With Multi-Excitation-Tunable Afterglow"
     },
     "10.1002/anie.7494092": {
       "doi": "10.1002/anie.7494092",
@@ -7138,6 +7163,19 @@
       "summary_used_fallback": true,
       "title": "A Scalable Stereoselective Synthetic Route to the Valuable Chiral Epoxyketone Building Block (R)-N-(tert-butyloxycarbonyl)-5-methyl-1-[(S)-2-methyloxiran-2-yl]-1-oxohex-4-en-2-amine"
     },
+    "10.1055/a-2939-7758": {
+      "doi": "10.1055/a-2939-7758",
+      "posted_at": "2026-08-27T00:27:09+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787790429.706029",
+      "summary_character_count": 88,
+      "summary_japanese": "Pd/PC-Phos触媒による高エナンチオ選択的マクロ環化で、触媒活性官能基DMAPを有する固有キラル大環状分子をde novo構築し、最高74%収率、90% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Enantioselective Synthesis of DMAP-based Inherently Chiral Macrocycles"
+    },
     "10.1063/5.0325213": {
       "doi": "10.1063/5.0325213",
       "posted_at": "2026-08-12T20:11:52+00:00",
@@ -8878,6 +8916,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Efficient and reversible boron coordination in a fluorescent BODIPY rotaxane"
+    },
+    "10.26434/chemrxiv.15007824/v1": {
+      "doi": "10.26434/chemrxiv.15007824/v1",
+      "posted_at": "2026-08-27T00:27:18+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787790438.592499",
+      "summary_character_count": 129,
+      "summary_japanese": "cobalt/salox触媒でaryl hydrazonesとmaleimidesを[3+2]環化し、indane-fused succinimidesを最高99%収率、>99:1 erで得た。ortho置換基質ではC–N軸不斉と3中心不斉を同時に構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cobalt-Catalyzed Enantio- and Diastereoselective Synthesis of Indane-Fused Succinimides through Multiple Chiral Induction: Access to Central and Axial Chirality"
+    },
+    "10.26434/chemrxiv.15007837/v1": {
+      "doi": "10.26434/chemrxiv.15007837/v1",
+      "posted_at": "2026-08-27T00:27:23+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787790443.492069",
+      "summary_character_count": 130,
+      "summary_japanese": "phenanthroline骨格とB-O-B架橋を組み合わせた剛直なヘリセン型発光体6種を合成し、置換基とねじれ角でcyan～yellow発光を制御した。励起状態緩和の抑制と、結合開裂を伴う最小ラセミ化経路（ΔG‡=51.77 kcal mol−1）を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Geometric Locking in B-O-B Bridged Helicenes: Simultaneous Enhancement of Emission Efficiency and Configurational Stability"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
