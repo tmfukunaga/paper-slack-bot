@@ -27,7 +27,7 @@
     "2026-08-23": 37,
     "2026-08-24": 6,
     "2026-08-26": 9,
-    "2026-08-27": 7
+    "2026-08-27": 12
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1588,6 +1588,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Manganese-Catalyzed Asymmetric Transfer Hydrogenation of Polarized Olefins via a Collaborative Hydrogen Transfer Process"
+    },
+    "10.1002/anie.3308853": {
+      "doi": "10.1002/anie.3308853",
+      "posted_at": "2026-08-27T13:46:05+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787838364.991109",
+      "summary_character_count": 93,
+      "summary_japanese": "両親媒性den-BBCPsは親水性セグメント体積分率fにより自己集合経路を選択し、f<50%で角度非依存色の多孔質、f>50%で強い鏡面反射を示す同心ラメラ光子ミクロスフェアを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanism-Selective Self-Assembly of Amphiphilic Dendronized Brush Block Copolymers Into Lamellar and Porous Photonic Pigments"
     },
     "10.1002/anie.3408014": {
       "doi": "10.1002/anie.3408014",
@@ -8320,6 +8333,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-induced spin polarization: Some fundamental ingredients"
     },
+    "10.26434/chemrxiv.15004988/v3": {
+      "doi": "10.26434/chemrxiv.15004988/v3",
+      "posted_at": "2026-08-27T13:46:14+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787838374.341779",
+      "summary_character_count": 124,
+      "summary_japanese": "Pnictogen bondingを用い、Sb・As系thiolate cageを有機媒体で自己集合させた。Sb系は持続的な逆二重層vesicleを形成し、蛍光プローブで化学的区画化を示した一方、As系は弱い相互作用により動的で区画化能が低かった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pnictogen-bond-directed self-assembly of Sb and As cages enables partitioning of organic reaction media"
+    },
     "10.26434/chemrxiv.15005651/v2": {
       "doi": "10.26434/chemrxiv.15005651/v2",
       "posted_at": "2026-07-18T07:02:53+00:00",
@@ -8916,6 +8942,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Efficient and reversible boron coordination in a fluorescent BODIPY rotaxane"
+    },
+    "10.26434/chemrxiv.15007805/v1": {
+      "doi": "10.26434/chemrxiv.15007805/v1",
+      "posted_at": "2026-08-27T13:45:52+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787838352.850819",
+      "summary_character_count": 125,
+      "summary_japanese": "異種CNT合成データから成長物理を抽出する特徴分離型・物理誘導転移学習を構築し、35試料のSWCNTカイラリティをleave-one-out交差検証で88.6%の精度で予測した。H/C比・温度・炭素供給が成長域を、触媒・担体特性が選択境界を規定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Feature-disentangled prior transfer for small-sample chirality prediction in carbon nanotube synthesis"
+    },
+    "10.26434/chemrxiv.15007809/v1": {
+      "doi": "10.26434/chemrxiv.15007809/v1",
+      "posted_at": "2026-08-27T13:46:09+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787838369.752209",
+      "summary_character_count": 114,
+      "summary_japanese": "4nπ反芳香族分子の共面積層で生じるstacked-ring aromaticityを解析し、圧縮により層間電流とthrough-space結合が増強して量子干渉が再編され、単量体と二量体で最適な電極接続が逆転することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stacked-Ring Aromaticity Rewires Quantum Interference and Through-Space Transport"
     },
     "10.26434/chemrxiv.15007824/v1": {
       "doi": "10.26434/chemrxiv.15007824/v1",
@@ -9605,6 +9657,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Absolute quantification of enantiomeric purity of sorted carbon nanotubes by correlating hyperspectral fluorescence microscopy with ensemble chiroptical spectroscopy"
+    },
+    "10.54946/wilm.12260": {
+      "doi": "10.54946/wilm.12260",
+      "posted_at": "2026-08-27T13:45:59+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787838359.620449",
+      "summary_character_count": 124,
+      "summary_japanese": "金融市場の左右非対称性をfinancial chiralityとしてimplied volatility surface Sigma(k,T)上で定式化し、chi(T)で測定した。対称モデルはchiral riskを系統的に誤価格付けすると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality in Finance"
     },
     "10.59345/sjrir.v4i1.323": {
       "doi": "10.59345/sjrir.v4i1.323",
