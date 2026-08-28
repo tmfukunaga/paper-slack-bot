@@ -27,7 +27,7 @@
     "2026-08-24": 6,
     "2026-08-26": 9,
     "2026-08-27": 12,
-    "2026-08-28": 5
+    "2026-08-28": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -445,6 +445,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Regioselective pi-Extension of Helical PAHs: Tuning Energy Gaps and Excited-State Dynamics Directed by Clar's Sextet Migration"
+    },
+    "10.1002/adom.71699": {
+      "doi": "10.1002/adom.71699",
+      "posted_at": "2026-08-28T14:53:26+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787928806.333719",
+      "summary_character_count": 99,
+      "summary_japanese": "Zn-Tbヘテロ金属錯体のキラル分子シンチレータを合成し、最大|g_lum| 3.8×10−2、量子収率73.2%を達成した。PMMA膜はX線イメージングで20.131 lp/mmの分解能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Molecular Scintillators of Zn-Tb Heterometallic Complex With Excellent Circularly Polarized Luminescence and High-Resolution X-Ray Imaging"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -1154,6 +1167,19 @@
       "summary_used_fallback": false,
       "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule"
     },
+    "10.1002/ange.9296585": {
+      "doi": "10.1002/ange.9296585",
+      "posted_at": "2026-08-28T14:53:36+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787928815.951089",
+      "summary_character_count": 109,
+      "summary_japanese": "X字型キラルCBBC-TICを設計し、均質なアモルファス電子伝導膜を溶液成膜した。電子輸送層としてペロブスカイト太陽電池で20.6%の変換効率を示し、エナンチオマー膜では最大80%のCISS由来スピン選択伝導を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An X-Shaped Chiral Non-Fullerene n-Type Semiconductor: Application in Perovskite Solar Cells and Chirality-Induced Spin Selectivity"
+    },
     "10.1002/ange.9590374": {
       "doi": "10.1002/ange.9590374",
       "posted_at": "2026-07-26T18:17:09+00:00",
@@ -1601,6 +1627,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Broad Optical Absorption and Photochromism in a Metal-Tripyridinium Cage Glass via Acid Perturbation for Efficient Photothermo-Electric Synergistic Conversion"
+    },
+    "10.1002/anie.3163680": {
+      "doi": "10.1002/anie.3163680",
+      "posted_at": "2026-08-28T14:53:40+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787928820.397779",
+      "summary_character_count": 113,
+      "summary_japanese": "L-histidineをHf6クラスターへグラフトしたMOF-808(Hf)-Hisは、対称性低下とC═N導入によりd33を108.8 pm/Vへ高め、助触媒なしでH2発生速度5215.70 μmol g−1 h−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Driven Piezocatalysis in MOFs: Achieving Efficient Cocatalyst-Free Hydrogen Evolution"
     },
     "10.1002/anie.3186961": {
       "doi": "10.1002/anie.3186961",
@@ -2440,6 +2479,19 @@
       "summary_used_fallback": false,
       "title": "Force-Induced Control of Circularly Polarized Luminescence With Rotaxane Architecture"
     },
+    "10.1002/anie.9624904": {
+      "doi": "10.1002/anie.9624904",
+      "posted_at": "2026-08-28T14:53:31+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787928811.383249",
+      "summary_character_count": 109,
+      "summary_japanese": "中心キラリティ誘起ヘリカルキラリティ戦略で、NHC配位子をもつヘリカル四座Pt(II)発光体をグラムスケール合成し、P-PtCP1素子はCIE y<0.12でEQE 18.3%、輝度19933 cd m−2を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helically Chiral Tetradentate Pt(II) Emitters via Efficient Diastereoselective Synthesis for High-Performance Deep-Blue CP-PhOLEDs"
+    },
     "10.1002/anie.9635327": {
       "doi": "10.1002/anie.9635327",
       "posted_at": "2026-08-08T22:01:29+00:00",
@@ -2751,6 +2803,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral-at-Metal Racemization of Tris-Chelated Octahedral Complexes: A DFT Case Study of Al(acnac) 3"
+    },
+    "10.1002/chem.71623": {
+      "doi": "10.1002/chem.71623",
+      "posted_at": "2026-08-28T14:53:48+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787928828.775549",
+      "summary_character_count": 381,
+      "summary_japanese": "Sulfonimidoyl chlorides or fluorides were reacted with sulfonamides with inversion of configuration to produce chiral-at-sulfur sulfonimidamides bearing acidic NH groups. Reactions with sulfonimidamides afforded C2-symmetric Brønsted acids, while attachment to a BINOL-derived phosphoryl chloride scaffold generated acids combining sulfur point chirality and BINOL axial chirality.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Synthesis of Chiral-at-Sulfur(VI) Sulfonimidamide Brønsted Acids"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
