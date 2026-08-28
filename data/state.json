@@ -27,7 +27,8 @@
     "2026-08-24": 6,
     "2026-08-26": 9,
     "2026-08-27": 12,
-    "2026-08-28": 10
+    "2026-08-28": 10,
+    "2026-08-29": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -394,6 +395,19 @@
       "summary_used_fallback": false,
       "title": "Enantioresolution of Well-Defined Au-Ag Clusters With Near-Unity Phosphorescent Quantum Yields for Brilliant Circularly Polarized Luminescence"
     },
+    "10.1002/adom.71588": {
+      "doi": "10.1002/adom.71588",
+      "posted_at": "2026-08-28T15:23:47+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787930627.040319",
+      "summary_character_count": 129,
+      "summary_japanese": "金キャップCo/Ni強磁性多層膜上にキラルリンカー介してポルフィリン化oligopeptide単分子膜を作製し、フェムト秒過渡吸収で励起状態を解析した。表面吸着により一重項寿命は短縮したが、長寿命電荷移動種や磁化方向・分子キラリティ依存性は検出されなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Porphyrin Monolayers on Ferromagnetic Thin Films: Ultrafast Spectroscopy of Hybrid Interfaces"
+    },
     "10.1002/adom.71595": {
       "doi": "10.1002/adom.71595",
       "posted_at": "2026-08-14T15:08:41+00:00",
@@ -666,6 +680,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A NEAT Approach to Evolving Neural-Network-Based Optimization of Chiral Photonic Metasurfaces: Application of a NeuroEvolution-of-Augmenting-Topologies Pipeline"
+    },
+    "10.1002/andp.70282": {
+      "doi": "10.1002/andp.70282",
+      "posted_at": "2026-08-28T15:24:04+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787930644.053479",
+      "summary_character_count": 96,
+      "summary_japanese": "単一金ヘリカルnanoantennaの分極率テンソル解析で、基底・高次共鳴の光学活性をそれぞれ異なる多重極結合に帰属し、構造ねじれとキラル応答を結ぶ規格化幾何学的torsion因子を導入した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multipolar Coupling Engineered by Normalized Geometric Torsion for Enhanced Chiral Plasmonic Responses"
     },
     "10.1002/ange.1030078": {
       "doi": "10.1002/ange.1030078",
@@ -2843,6 +2870,19 @@
       "summary_used_fallback": false,
       "title": "Consequences of Mechanical Bonding on the Optical Activity of Cyclo[18]carbon Rings"
     },
+    "10.1002/chir.70128": {
+      "doi": "10.1002/chir.70128",
+      "posted_at": "2026-08-28T15:23:56+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787930636.435309",
+      "summary_character_count": 108,
+      "summary_japanese": "水中Δ/Λ-[Co(en)3]3+の532 nm近共鳴ROAを測定し、溶液のECD-Raman寄与を補正した。DFT/TD-DFTと4配座・溶媒和モデルによりスペクトルを再現し、SMDが振動特性をより正確に記述した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Near Resonant Raman Optical Activity Study of the Complex Cation Tris(ethylenediamine)cobalt(III) in Water: Experiment and DFT Calculation"
+    },
     "10.1002/chir.70129": {
       "doi": "10.1002/chir.70129",
       "posted_at": "2026-08-06T09:01:48+00:00",
@@ -3258,6 +3298,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Vortical Differential Scattering of Spatio-Temporal Optical Vortex With Arbitrarily Oriented Orbital Angular Momentum by Chiral Spherical Particle"
+    },
+    "10.1002/open.70291": {
+      "doi": "10.1002/open.70291",
+      "posted_at": "2026-08-28T15:23:52+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787930632.050999",
+      "summary_character_count": 111,
+      "summary_japanese": "有機溶媒中の[2]rotaxaneシャトル・スイッチをDFT、全原子MD、QTAIM、IGMHで解析し、macrocycle移動、金属誘起固定、刺激応答スイッチングを支配する相互作用と分光観測量を定量的に再現・合理化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanically Interlocked Molecules: A Supramolecular Computational Picture of Rotaxane-Based Switches, Shuttles, and Tristable Devices in Solution"
     },
     "10.1002/pc.71524": {
       "doi": "10.1002/pc.71524",
@@ -9527,6 +9580,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and Characterization of New Functionalized Pyrimidine (Hetero)Cyclic Molecular Hybrids as Chiral Heterocyclic Amino Acid Derivatives"
+    },
+    "10.3390/ph19091351": {
+      "doi": "10.3390/ph19091351",
+      "posted_at": "2026-08-28T15:24:08+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787930648.955729",
+      "summary_character_count": 114,
+      "summary_japanese": "柔軟なキラルdopamine agonist rotigotineのECD、ORD、VCDを測定し、PCA-Torで代表配座群を選定してDFT/TDDFT計算と比較した。計算は主要スペクトル特性を再現し、既知のS配置を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Representative Conformational Sampling for Chiroptical Analysis of the Flexible Dopamine Agonist Rotigotine"
     },
     "10.3390/photonics13080710": {
       "doi": "10.3390/photonics13080710",
