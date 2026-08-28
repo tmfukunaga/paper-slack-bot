@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-27": 15,
     "2026-07-28": 8,
     "2026-07-29": 25,
     "2026-07-30": 13,
@@ -27,7 +26,8 @@
     "2026-08-23": 37,
     "2026-08-24": 6,
     "2026-08-26": 9,
-    "2026-08-27": 12
+    "2026-08-27": 12,
+    "2026-08-28": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1044,6 +1044,19 @@
       "summary_used_fallback": false,
       "title": "Reversed Quantum-Well Engineering Unlocks Large Ultraviolet Chiral Nonlinear Optical Response in a Water-Resistant 2D Hybrid Fluorozirconate"
     },
+    "10.1002/ange.7074723": {
+      "doi": "10.1002/ange.7074723",
+      "posted_at": "2026-08-28T00:14:33+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787876073.735979",
+      "summary_character_count": 111,
+      "summary_japanese": "tetraphenylethylene-alanine誘導体を超音波で階層集合化し、逆手性のコア・樹枝状サブユニットからなるヘテロ接合らせんを形成した。CPLは反転・増幅し、g_lum 0.2、蛍光量子収率50%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrasound-Triggered Heterojunction Helices With Inverted Supramolecular Chirality and Significantly Amplified Circularly Polarized Luminescence"
+    },
     "10.1002/ange.7100719": {
       "doi": "10.1002/ange.7100719",
       "posted_at": "2026-07-29T06:04:25+00:00",
@@ -1458,6 +1471,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Orthosteric Control of Acidity Through Sulfate Binding in a Neutral Cyclo[8]pyrrole"
+    },
+    "10.1002/anie.2292773": {
+      "doi": "10.1002/anie.2292773",
+      "posted_at": "2026-08-28T00:14:39+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787876079.125049",
+      "summary_character_count": 109,
+      "summary_japanese": "ゼロ次元CHMH (S/R-C9H20ON2)In0.93Sb0.07Cl5·H2Oで3種の水素結合を協働的に導入し、八面体間水素結合による格子間キラリティー移動を介して、PLQYほぼ1と発光非対称因子0.1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "High Luminescence Dissymmetry in Zero-Dimensional Chiral Hybrid Metal Halide With Inter-Octahedral Hydrogen Bonding"
     },
     "10.1002/anie.2300390": {
       "doi": "10.1002/anie.2300390",
@@ -2122,6 +2148,19 @@
       "summary_used_fallback": false,
       "title": "Reversed Quantum-Well Engineering Unlocks Large Ultraviolet Chiral Nonlinear Optical Response in a Water-Resistant 2D Hybrid Fluorozirconate"
     },
+    "10.1002/anie.7074723": {
+      "doi": "10.1002/anie.7074723",
+      "posted_at": "2026-08-28T00:14:28+00:00",
+      "score": 57,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787876068.700659",
+      "summary_character_count": 110,
+      "summary_japanese": "tetraphenylethylene-alanine誘導体を超音波で階層集合化し、逆手性のcore/dendritic異種接合ヘリックスを形成した。CPLは反転・増幅し、g_lum=0.2、蛍光量子収率50%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrasound-Triggered Heterojunction Helices With Inverted Supramolecular Chirality and Significantly Amplified Circularly Polarized Luminescence"
+    },
     "10.1002/anie.7100719": {
       "doi": "10.1002/anie.7100719",
       "posted_at": "2026-07-27T15:16:02+00:00",
@@ -2361,6 +2400,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule"
+    },
+    "10.1002/anie.9332776": {
+      "doi": "10.1002/anie.9332776",
+      "posted_at": "2026-08-28T00:14:44+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787876084.182529",
+      "summary_character_count": 123,
+      "summary_japanese": "14員環di(ester-thioester) 14-DETをLa触媒でED-ROPし、Mn最大163 kDa、PABH最大0.97のP(14-DET)を得た。温度・濃度・時間により重合体、MCO、環状二量体を選択的に制御し、回収物も再重合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermodynamic and Kinetic Control of Ring-Chain Interconversion in Entropy-Driven Ring-Opening Polymerization of a Macrocyclic Di(Ester-thioester)"
     },
     "10.1002/anie.9365925": {
       "doi": "10.1002/anie.9365925",
@@ -6252,6 +6304,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Functionalized and Chemically Recyclable “Polyethylene-like” Polyesters from Selective Ring-Opening Polymerization of Bifunctional Macrocycles"
+    },
+    "10.1038/s41467-026-74378-1": {
+      "doi": "10.1038/s41467-026-74378-1",
+      "posted_at": "2026-08-28T00:14:52+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787876092.415659",
+      "summary_character_count": 127,
+      "summary_japanese": "Cu触媒・Ph-BPE配位子で環状酸無水物と1,1-disubstituted allenesを不斉アリル化し、最大3立体中心のγ-keto carboxylic acidsを生成した。DFT計算で六員環遷移状態の立体相互作用が選択性を支配すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Copper-catalyzed enantioselective allylation of cyclic anhydrides for generation of multiple chiral centers"
     },
     "10.1038/s41467-026-74709-2": {
       "doi": "10.1038/s41467-026-74709-2",
