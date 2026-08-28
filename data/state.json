@@ -28,7 +28,7 @@
     "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
-    "2026-08-29": 5
+    "2026-08-29": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -811,6 +811,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Supramolecular Templating Enables Tunable Second-Harmonic Generation in Hybrid Zinc Thiocyanates"
     },
+    "10.1002/ange.2292773": {
+      "doi": "10.1002/ange.2292773",
+      "posted_at": "2026-08-28T23:51:45+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787961105.597179",
+      "summary_character_count": 113,
+      "summary_japanese": "3種の水素結合を統合したゼロ次元CHMH、(S/R-C9H20ON2)In0.93Sb0.07Cl5·H2Oを合成し、ほぼ100%のPL量子収率と0.1のluminescence dissymmetry factorを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "High Luminescence Dissymmetry in Zero-Dimensional Chiral Hybrid Metal Halide With Inter-Octahedral Hydrogen Bonding"
+    },
     "10.1002/ange.2496785": {
       "doi": "10.1002/ange.2496785",
       "posted_at": "2026-08-01T06:04:48+00:00",
@@ -1219,6 +1232,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Force-Induced Control of Circularly Polarized Luminescence With Rotaxane Architecture"
+    },
+    "10.1002/ange.9624904": {
+      "doi": "10.1002/ange.9624904",
+      "posted_at": "2026-08-28T23:51:52+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787961112.315269",
+      "summary_character_count": 121,
+      "summary_japanese": "中心キラリティ誘起ヘリカルキラリティ戦略により、NHC配位子を基盤とするヘリカル四座Pt(II)発光体をグラムスケールで合成した。P-PtCP1素子は深青色CP-PhOLEDとしてEQE 18.3%、最大輝度19933 cd m−2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helically Chiral Tetradentate Pt(II) Emitters via Efficient Diastereoselective Synthesis for High-Performance Deep-Blue CP-PhOLEDs"
     },
     "10.1002/ange.9666828": {
       "doi": "10.1002/ange.9666828",
@@ -2818,6 +2844,19 @@
       "summary_used_fallback": true,
       "title": "Vibrational Circular Dichroism Spectra of 2,5-Diaminoterephtalate Macrocycles Reveal Distant Vibrational Exciton Coupling"
     },
+    "10.1002/chem.71607": {
+      "doi": "10.1002/chem.71607",
+      "posted_at": "2026-08-28T23:51:58+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787961118.290719",
+      "summary_character_count": 116,
+      "summary_japanese": "4-isopropylphenyl stopper型[2]rotaxaneに23C7/X23C7とmethyl triazoliumを導入し、TBAF応答は23C7系でextrusion、X23C7系でshuttlingが優先した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tuning Halide Induced Metastability in a [2]Rotaxane by Varying Axle, Crown Ether, and Employing Bistability"
+    },
     "10.1002/chem.71610": {
       "doi": "10.1002/chem.71610",
       "posted_at": "2026-08-22T18:26:20+00:00",
@@ -3597,6 +3636,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tunable Chirality by Stacking Films of Magnetically Assembled Plasmonic Nanochains"
+    },
+    "10.1002/sscp.70297": {
+      "doi": "10.1002/sscp.70297",
+      "posted_at": "2026-08-28T23:52:02+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787961122.031529",
+      "summary_character_count": 107,
+      "summary_japanese": "二つの不斉中心をもつparoxetine hydrochlorideの全4立体異性体を合成・分離し、NMR、IR、MS、旋光度で同定した。キラル固定相HPLCにより初めて全異性体を同時分離し、異性体純度を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereochemical Investigation of Paroxetine: Synthesis, Characterization, and Chiral High-Performance Liquid Chromatography Separation of All Four Stereoisomers"
     },
     "10.1002/zaac.70190": {
       "doi": "10.1002/zaac.70190",
@@ -7150,6 +7202,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Astrocytes amplify cortical dopamine to encode winning memory in male mice"
+    },
+    "10.1038/s41467-026-77208-6": {
+      "doi": "10.1038/s41467-026-77208-6",
+      "posted_at": "2026-08-28T23:52:05+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787961125.942619",
+      "summary_character_count": 127,
+      "summary_japanese": "量子異常ホール系で一方向chiral edge modeと拡散normal edge modeの相互作用が連続Hatano-Nelson modelで記述される非相反輸送を生み、電位・局所発熱の指数空間分布と縦伝導の指数減衰、量子化Hall伝導を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Non-Hermitian topology from edge transport in Hermitian quantum anomalous Hall systems"
     },
     "10.1038/s41528-026-00634-5": {
       "doi": "10.1038/s41528-026-00634-5",
