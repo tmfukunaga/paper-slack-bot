@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-28": 8,
     "2026-07-29": 25,
     "2026-07-30": 13,
     "2026-07-31": 22,
@@ -28,7 +27,7 @@
     "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
-    "2026-08-29": 10
+    "2026-08-29": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -863,6 +862,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain-End Host-Guest Interactions"
     },
+    "10.1002/ange.3163680": {
+      "doi": "10.1002/ange.3163680",
+      "posted_at": "2026-08-29T01:46:17+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787967977.455269",
+      "summary_character_count": 118,
+      "summary_japanese": "L-histidineをHf6クラスターへグラフトしてMOF-808(Hf)の対称性を破り、d33を44.2から108.8 pm/Vへ向上させた。cocatalyst不要でH2発生速度5215.70 μmol g−1 h−1を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Driven Piezocatalysis in MOFs: Achieving Efficient Cocatalyst-Free Hydrogen Evolution"
+    },
     "10.1002/ange.3408014": {
       "doi": "10.1002/ange.3408014",
       "posted_at": "2026-07-31T18:03:31+00:00",
@@ -1220,6 +1232,19 @@
       "summary_used_fallback": false,
       "title": "An X-Shaped Chiral Non-Fullerene n-Type Semiconductor: Application in Perovskite Solar Cells and Chirality-Induced Spin Selectivity"
     },
+    "10.1002/ange.9332776": {
+      "doi": "10.1002/ange.9332776",
+      "posted_at": "2026-08-29T01:46:13+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787967973.183609",
+      "summary_character_count": 129,
+      "summary_japanese": "14員環di(ester-thioester) 14-DETをLa触媒で室温ED-ROPし、Mn最大163 kDa・高交互配列のP(14-DET)を得た。温度・濃度・時間で環鎖平衡を制御し、cyclic dimerとMCOsも再重合できる閉ループ系を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermodynamic and Kinetic Control of Ring-Chain Interconversion in Entropy-Driven Ring-Opening Polymerization of a Macrocyclic Di(Ester-thioester)"
+    },
     "10.1002/ange.9590374": {
       "doi": "10.1002/ange.9590374",
       "posted_at": "2026-07-26T18:17:09+00:00",
@@ -1258,6 +1283,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Heterocyclic Nanographenes Doped with Boron and Phosphorus: Post-Phosphorization Synthesis, Excited-State Dynamics and Ion-Responsive Properties"
+    },
+    "10.1002/ange.9685756": {
+      "doi": "10.1002/ange.9685756",
+      "posted_at": "2026-08-29T01:46:23+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787967983.265719",
+      "summary_character_count": 110,
+      "summary_japanese": "Bi3+とsorbitolの多座配位を利用し、FeドープBiOBrのらせん表面をもつキラル閉じ込め反応器を構築した。非対称双極子場が異方的電荷分離を促進し、模擬太陽光下でNH3生成活性は未修飾BiOBrの約8倍となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Dipole-Field Engineering in Chiral Mesostructures for Efficient Photocatalytic N 2 Reduction"
     },
     "10.1002/anie.1026671": {
       "doi": "10.1002/anie.1026671",
@@ -3064,6 +3102,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Theoretical Analysis of Low Energy Electronic Transitions of Actinide Complexes Including Spin-Orbit Effects"
+    },
+    "10.1002/cssc.71010": {
+      "doi": "10.1002/cssc.71010",
+      "posted_at": "2026-08-29T01:46:08+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787967968.068839",
+      "summary_character_count": 115,
+      "summary_japanese": "UiO-67に擬ペプチド性亜鉛マクロ環を超分子固定化し、欠陥駆動型包接を示すCO2変換synzymeを構築した。C3@UiO-67は細孔減少にもかかわらず、常圧・無添加でのCO2とエポキシドの環化付加でMOFと分子錯体を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bioinspired Zinc Macrocycles Confined in UiO-67: A Heterogeneous Synzyme for Sustainable CO 2 Valorization"
     },
     "10.1002/ejic.70298": {
       "doi": "10.1002/ejic.70298",
@@ -9242,6 +9293,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Geometric Locking in B-O-B Bridged Helicenes: Simultaneous Enhancement of Emission Efficiency and Configurational Stability"
+    },
+    "10.26434/chemrxiv.15007907/v1": {
+      "doi": "10.26434/chemrxiv.15007907/v1",
+      "posted_at": "2026-08-29T01:46:28+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787967988.040359",
+      "summary_character_count": 131,
+      "summary_japanese": "Δ/Λ-[Ru(phen)3]2+で修飾したhectorite層間にrac-[Ir(nBuBQ)2Cl]を保持し、Na2BPS注入で[Ir(nBuBQ)2(BPS)]−へ変換した。ラセミ体の回収率は88%で、単離各エナンチオマーの10%、15%を大きく上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantiomeric enrichment at a microcavity embedded in a modified clay: In-column reactions of a coordinatively unsaturated racemic iridium(III) complex"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
