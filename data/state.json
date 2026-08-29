@@ -27,7 +27,8 @@
     "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
-    "2026-08-29": 30
+    "2026-08-29": 30,
+    "2026-08-30": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3194,6 +3195,19 @@
       "summary_used_fallback": false,
       "title": "Computational Studies on a Palladium Atom Adsorption on the Surface of Edge-Modified Nanographenes"
     },
+    "10.1002/cptc.70225": {
+      "doi": "10.1002/cptc.70225",
+      "posted_at": "2026-08-29T16:44:17+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788021857.105559",
+      "summary_character_count": 286,
+      "summary_japanese": "Chiral bis-naphthalene tetracarboxydiimides, D-/L-LyMebNDI, were synthesized and showed intramolecular excimer emission and mirror-image CD and CPL spectra in polar organic solvents. In acetonitrile, LyMebNDI achieved a B_CPL of 12 M^-1 cm^-1, a five-fold increase over that of LyMebNI.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enhanced Circularly Polarised Luminescence via Intramolecular Excimers in Chiral Bis-Naphthalene-1,8:4,5-Tetracarboxydiimide Derivatives"
+    },
     "10.1002/cssc.71010": {
       "doi": "10.1002/cssc.71010",
       "posted_at": "2026-08-29T01:46:08+00:00",
@@ -5668,6 +5682,19 @@
       "summary_used_fallback": false,
       "title": "Confined Chiral Microenvironments in Discrete Supramolecular Assemblies"
     },
+    "10.1021/cbmi.6c00151": {
+      "doi": "10.1021/cbmi.6c00151",
+      "posted_at": "2026-08-29T16:44:29+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788021869.575589",
+      "summary_character_count": 94,
+      "summary_japanese": "自己集合Eu錯体をATP用CPLプローブとして開発し、TR-CPLと定常・時間分解発光分光により生体干渉物質下の相互作用を解析した。二光子CPL応答とミトコンドリア局在を細胞内で確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Time-Resolved CPL Sensing of ATP in Complex Biological Matrices Using a Self-Assembled Eu Probe"
+    },
     "10.1021/jacs.6c03282": {
       "doi": "10.1021/jacs.6c03282",
       "posted_at": "2026-07-23T03:04:36+00:00",
@@ -6655,6 +6682,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Functionalized and Chemically Recyclable “Polyethylene-like” Polyesters from Selective Ring-Opening Polymerization of Bifunctional Macrocycles"
+    },
+    "10.1038/s41378-026-01419-6": {
+      "doi": "10.1038/s41378-026-01419-6",
+      "posted_at": "2026-08-29T16:44:21+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788021861.629329",
+      "summary_character_count": 129,
+      "summary_japanese": "斜方蒸着で作製したwafer-scale chiral Si nanohelicesは、300 nm未満のSiのinterband由来負誘電率により270 nm付近で強い円二色性を示し、4年以上の保存およびpH 1.9でも安定で、屈折率センシングを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Deep-ultraviolet chiral interband plasmonics in silicon nanohelices"
     },
     "10.1038/s41467-026-74378-1": {
       "doi": "10.1038/s41467-026-74378-1",
@@ -8190,6 +8230,19 @@
       "summary_used_fallback": false,
       "title": "Interfacial solvothermal synthesis of superhydrophilic ionic salt-derived chiral helical COFs with strong chiroptical activity"
     },
+    "10.1126/sciadv.aed8846": {
+      "doi": "10.1126/sciadv.aed8846",
+      "posted_at": "2026-08-29T16:44:40+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788021880.142819",
+      "summary_character_count": 111,
+      "summary_japanese": "二段階リソグラフィーでWS2 gratingを積層し、層内結合に匹敵する強い層間結合を実現した。大きなtwist angleでも超広帯域flat bandが生じ、chiral flat-band cascadeを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strong interlayer coupling and chiral flat-band cascades in twisted bilayer gratings"
+    },
     "10.1126/sciadv.aef0912": {
       "doi": "10.1126/sciadv.aef0912",
       "posted_at": "2026-07-26T03:02:54+00:00",
@@ -9644,6 +9697,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Gantry-period-guided modulation factor selection in helical tomotherapy: effects on delivery efficiency, dosimetry and verification accuracy"
+    },
+    "10.3389/frsfm.2026.1928826": {
+      "doi": "10.3389/frsfm.2026.1928826",
+      "posted_at": "2026-08-29T16:44:09+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788021849.565689",
+      "summary_character_count": 117,
+      "summary_japanese": "cholesteryl–Schiff-base非対称液晶dimer 16種を合成し、POM、DSC、XRD、CDで相挙動を解析した。全試料がN*、SmA、SmC*、TGB相を示し、N→SmC*転移で超分子らせんの熱誘起反転を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical chirality transfer and thermally induced supramolecular chirality inversion in cholesteryl schiff-base liquid crystal dimers"
     },
     "10.3390/analytica7030053": {
       "doi": "10.3390/analytica7030053",
