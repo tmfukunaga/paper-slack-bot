@@ -27,7 +27,7 @@
     "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
-    "2026-08-29": 25
+    "2026-08-29": 30
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3181,6 +3181,19 @@
       "summary_used_fallback": false,
       "title": "Theoretical Analysis of Low Energy Electronic Transitions of Actinide Complexes Including Spin-Orbit Effects"
     },
+    "10.1002/cphc.70547": {
+      "doi": "10.1002/cphc.70547",
+      "posted_at": "2026-08-29T12:17:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788005823.110129",
+      "summary_character_count": 114,
+      "summary_japanese": "N-methyl imide環を端部にもつC174 nanographeneへのPd原子吸着をDFTで解析し、THFモデルの有無を問わずPdは端部を優先し、epoxy基近傍への吸着はより低選択的、基底面では選択性を示さなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Computational Studies on a Palladium Atom Adsorption on the Surface of Edge-Modified Nanographenes"
+    },
     "10.1002/cssc.71010": {
       "doi": "10.1002/cssc.71010",
       "posted_at": "2026-08-29T01:46:08+00:00",
@@ -4239,6 +4252,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Energetic helical electron-bunch generation driven by a light spring wakefield"
+    },
+    "10.1017/jfm.2026.11930": {
+      "doi": "10.1017/jfm.2026.11930",
+      "posted_at": "2026-08-29T12:17:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788005834.459319",
+      "summary_character_count": 110,
+      "summary_japanese": "回転翼が生成するhelical vortexの短波長変位不安定性を実験・数値・理論で解析し、既存理論と整合しない広い不安定波数帯を確認した。Kelvin modesの新たな族の非共鳴ひずみ相互作用が観測特性を説明し得る。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Short-wave displacement instability of a helical vortex"
     },
     "10.1021/accountsmr.6c00071": {
       "doi": "10.1021/accountsmr.6c00071",
@@ -7436,6 +7462,19 @@
       "summary_used_fallback": false,
       "title": "The piezochiral effect"
     },
+    "10.1038/s41586-026-10902-z": {
+      "doi": "10.1038/s41586-026-10902-z",
+      "posted_at": "2026-08-29T12:17:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788005830.324009",
+      "summary_character_count": 130,
+      "summary_japanese": "CrSbで磁場回転下の磁気量子振動を測定し、spin-split Fermi sheetの対称性低下を3次元的にマッピングした。up/down spin間のexchange splittingはY₄⁻³=yz(3x²−y²)型g-waveプロファイルに従った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3D bulk-resolved g-wave altermagnetic order parameter in CrSb"
+    },
     "10.1038/s41598-026-67057-0": {
       "doi": "10.1038/s41598-026-67057-0",
       "posted_at": "2026-08-22T12:34:44+00:00",
@@ -7734,6 +7773,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Utilization and efficiency of the polymeric materials for chiral resolution: an overview"
+    },
+    "10.1080/1064119x.2026.2720096": {
+      "doi": "10.1080/1064119x.2026.2720096",
+      "posted_at": "2026-08-29T12:16:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788005819.252849",
+      "summary_character_count": 111,
+      "summary_japanese": "海洋軟弱地盤中multi helix helical pilesの施工をCEL解析し、ARと非排水せん断強さが施工挙動・引抜き性能に及ぼす影響を評価した。AR=1で施工協調性と短期引抜き耐力360.1 kNが最大となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Installation behavior and uplift performance of multi helix helical piles in marine soft soil"
     },
     "10.1080/14686996.2026.2705816": {
       "doi": "10.1080/14686996.2026.2705816",
@@ -8436,6 +8488,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "2-Bit Terahertz Angle Tunable Chiral Encode for Polarization and Incidence Angle Detection"
+    },
+    "10.1364/prj.608183": {
+      "doi": "10.1364/prj.608183",
+      "posted_at": "2026-08-29T12:16:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788005814.747909",
+      "summary_character_count": 365,
+      "summary_japanese": "Two phase-programmable atoms coupled to a spinning whispering-gallery-mode resonator use quantum interference to amplify weak Fizeau splitting. The system produces directional photon statistics, with bright antibunched emission in one direction and strongly bunched emission in the other. Correlation and brightness isolations reach 65 dB and 17.3 dB, respectively.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Quantum Interference Amplifies Weak Chirality into Giant Quantum Nonreciprocity"
     },
     "10.15495/epub_ubt_00009527": {
       "doi": "10.15495/epub_ubt_00009527",
