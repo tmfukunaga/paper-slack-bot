@@ -27,7 +27,7 @@
     "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
-    "2026-08-29": 20
+    "2026-08-29": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -809,6 +809,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Supramolecular Templating Enables Tunable Second-Harmonic Generation in Hybrid Zinc Thiocyanates"
+    },
+    "10.1002/ange.2205198": {
+      "doi": "10.1002/ange.2205198",
+      "posted_at": "2026-08-29T10:05:22+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787997922.546309",
+      "summary_character_count": 134,
+      "summary_japanese": "多様なnaphthalene-based aryltrimethylsilanesを用いるPd/o-chloranil触媒C–H arylationと酸化的環化脱水素化の二段階APEXにより、8～10環縮合ナノグラフェンを合成し、5・6・7員環を含む負曲率構造を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diversity-Oriented Two-Step Annulative pi-Extension Enables Access to Structurally Complex Nanographenes"
     },
     "10.1002/ange.2292773": {
       "doi": "10.1002/ange.2292773",
@@ -3077,6 +3090,19 @@
       "summary_used_fallback": false,
       "title": "Evaluating the Solvent and pH Effect in the Inversion of the Circular Dichroism Signal of S -Naproxen"
     },
+    "10.1002/chir.70142": {
+      "doi": "10.1002/chir.70142",
+      "posted_at": "2026-08-29T10:05:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787997929.499969",
+      "summary_character_count": 111,
+      "summary_japanese": "phenylalanine由来enantiomer、flavonoid、chitosanを共集合させたキラル注射液を作製し、キラル移動で安定性を高めた。抗酸化・抗菌性を示し、S. aureus感染慢性創傷の閉鎖を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Herb-Based Chiral Nanomaterials: Potential Application in Wound Healing and Nanomedicine"
+    },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
       "posted_at": "2026-08-10T10:41:00+00:00",
@@ -3285,6 +3311,19 @@
       "summary_used_fallback": false,
       "title": "Coated and Immobilized Polysaccharides-Based Stationary Phases for Planar Metallocenes Enantioseparation in Liquid Chromatography"
     },
+    "10.1002/hlca.70096": {
+      "doi": "10.1002/hlca.70096",
+      "posted_at": "2026-08-29T10:05:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787997935.223439",
+      "summary_character_count": 99,
+      "summary_japanese": "Hydrazone formationとEschenmoser fragmentationを連結した二段階フロー合成により、exaltone前駆体を89%、muscone前駆体を50%の収率で得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Flow Synthesis of Muscone-Macrocycles Using the Eschenmoser Rearrangement as a Key Step"
+    },
     "10.1002/jcc.70477": {
       "doi": "10.1002/jcc.70477",
       "posted_at": "2026-08-01T12:01:06+00:00",
@@ -3310,6 +3349,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Metal-Organic Framework/Polyurea Composite Microreactors From Oil-In-Oil Emulsions"
+    },
+    "10.1002/jssc.70518": {
+      "doi": "10.1002/jssc.70518",
+      "posted_at": "2026-08-29T10:05:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787997938.839699",
+      "summary_character_count": 117,
+      "summary_japanese": "低純度quinineを対象に、SFC分離液を濃縮せずISとD2Oを加えるSFC-ISC-SS-qNMRを開発した。quinidineを10分以内に分離し、zgesgpでmethanolを抑制して純度95.40%±0.17%を定量した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Evaporation-free Supercritical Fluid Chromatography-Internal Standard Correction-Solvent Suppression-Quantitative Nuclear Magnetic Resonance for Chiral Separation and Quantification of Quinine"
     },
     "10.1002/lpor.71570": {
       "doi": "10.1002/lpor.71570",
@@ -7994,6 +8046,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetar field dynamics driven by chiral anomalies without magnetic helicity"
+    },
+    "10.1111/andr.70353": {
+      "doi": "10.1111/andr.70353",
+      "posted_at": "2026-08-29T10:05:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787997943.698159",
+      "summary_character_count": 95,
+      "summary_japanese": "progesterone（10 pM）勾配下のヒト精子約54,000軌跡をDHMで3D追跡し、遊泳上昇率は23.0%へ増加した。連続らせん運動は4.7倍に増え、上昇中もより安定に維持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3D Tracking Reveals Helical Motion as a Key Strategy for Human Sperm Chemotactic Navigation"
     },
     "10.1115/1.4072363": {
       "doi": "10.1115/1.4072363",
