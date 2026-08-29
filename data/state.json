@@ -28,7 +28,7 @@
     "2026-08-27": 12,
     "2026-08-28": 10,
     "2026-08-29": 30,
-    "2026-08-30": 10
+    "2026-08-30": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3169,6 +3169,19 @@
       "summary_used_fallback": false,
       "title": "Yttrium( III )-Catalyzed Desymmetrization of 2-Fluoro-1,3-indanediones via Allylation towards Chiral 3-Hydroxyindanones Bearing Quaternary C-F Stereogenic Centers"
     },
+    "10.1002/cjoc.70735": {
+      "doi": "10.1002/cjoc.70735",
+      "posted_at": "2026-08-29T22:59:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788044383.472539",
+      "summary_character_count": 134,
+      "summary_japanese": "vinyl cationを経るdiynesとaryl aminesの銅触媒不斉Büchner反応により、chiral cyclohepta[b]indolesを高enantioselectivityで合成し、cyclohepta[b]benzofuranにも展開した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Copper-Catalyzed Asymmetric Büchner Reaction of Diynes to Access Chiral Cyclohepta[ b ]indoles"
+    },
     "10.1002/cphc.70451": {
       "doi": "10.1002/cphc.70451",
       "posted_at": "2026-07-21T21:03:34+00:00",
@@ -4026,6 +4039,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermodynamic characterization of chirality effects in dipalmitoylphosphatidylcholine bilayers"
+    },
+    "10.1016/j.compgeo.2026.108592": {
+      "doi": "10.1016/j.compgeo.2026.108592",
+      "posted_at": "2026-08-29T22:59:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788044377.416189",
+      "summary_character_count": 117,
+      "summary_japanese": "軸圧縮helical pilesを対象に、shaft抵抗とhelix plate支持を連成した非線形荷重伝達モデルを有限差分反復で解いた。荷重増加で抵抗はshaftからplateへ再配分され、plate上方に非単調な主伝達域が現れた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A nonlinear shaft-plate coupled load transfer model for axially loaded helical piles"
     },
     "10.1016/j.compstruct.2026.120759": {
       "doi": "10.1016/j.compstruct.2026.120759",
@@ -7255,6 +7281,19 @@
       "summary_used_fallback": false,
       "title": "Acoustic higher-order topological metals with bound corner states in the continuum"
     },
+    "10.1038/s41467-026-76455-x": {
+      "doi": "10.1038/s41467-026-76455-x",
+      "posted_at": "2026-08-29T22:59:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788044392.875819",
+      "summary_character_count": 125,
+      "summary_japanese": "容易に得られるenaminoketoneを用いるde Mayo反応を開発し、N保護基調整とキラルBrønsted酸によるイミン中間体の速度論的分割で、regiospecificにcyclohexenoneおよび1,5-diketone骨格へ到達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Regiospecific de mayo reactions of enamino ketones"
+    },
     "10.1038/s41467-026-76490-8": {
       "doi": "10.1038/s41467-026-76490-8",
       "posted_at": "2026-08-09T10:19:14+00:00",
@@ -7879,6 +7918,19 @@
       "summary_used_fallback": false,
       "title": "VibeTube: a code for accurate extraction of CNTs’ chirality from TEM images"
     },
+    "10.1080/17415993.2026.2722417": {
+      "doi": "10.1080/17415993.2026.2722417",
+      "posted_at": "2026-08-29T22:59:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788044389.135249",
+      "summary_character_count": 133,
+      "summary_japanese": "天然物leinamycinや抗潰瘍薬esomeprazole誘導体を含むchiral sulfoxidesについて、chiral building blocks、ligands、auxiliariesとしての利用に向けた近年の化学的・生物学的合成戦略を文献調査した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A review on synthetic methodologies of chiral sulfoxides"
+    },
     "10.1088/0256-307x/43/8/080801": {
       "doi": "10.1088/0256-307x/43/8/080801",
       "posted_at": "2026-07-19T12:17:44+00:00",
@@ -7969,6 +8021,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Propagation and Manipulation of Chiral Phonons"
+    },
+    "10.1088/1674-1056/ae9fc7": {
+      "doi": "10.1088/1674-1056/ae9fc7",
+      "posted_at": "2026-08-29T22:59:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788044372.748459",
+      "summary_character_count": 101,
+      "summary_japanese": "キラル分子の四準位回転モデルで、制約付き多目的量子最適制御によりESST用マイクロ波を設計し、偶奇a経路の干渉で識別度0.999超を達成した。四準位最適化は制御時間を短縮し、回転緩和への頑健性を高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-dependent pathway interference in optimal enantioselective state transfer"
     },
     "10.1088/1674-1137/ae8f24": {
       "doi": "10.1088/1674-1137/ae8f24",
