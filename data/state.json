@@ -28,7 +28,7 @@
     "2026-08-27": 12,
     "2026-08-28": 10,
     "2026-08-29": 30,
-    "2026-08-30": 5
+    "2026-08-30": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3845,6 +3845,19 @@
       "summary_used_fallback": false,
       "title": "Facile Synthesis of 2,9-Diamino-1,10-Phenanthrolines, 2,9-Difluoro-1,10-Phenanthrolines and Soluble Bis-Phenanthroline-Macrocycles"
     },
+    "10.1007/s00253-026-13996-7": {
+      "doi": "10.1007/s00253-026-13996-7",
+      "posted_at": "2026-08-29T18:10:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788027054.039979",
+      "summary_character_count": 109,
+      "summary_japanese": "Komagataella phaffiiでrhCOL3α1末端プロペプチドを再設計し、P4HαβとBaP4Hの共発現、Ost1・シャペロン導入により、安定な三重らせんrhCOL3を5 L培養で430 mg/L生産した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced biosynthesis of full-length triple-helical human type III collagen in engineered Komagataella phaffii"
+    },
     "10.1007/s10483-026-3420-6": {
       "doi": "10.1007/s10483-026-3420-6",
       "posted_at": "2026-08-01T00:15:39+00:00",
@@ -4079,6 +4092,19 @@
       "summary_used_fallback": false,
       "title": "Three-dimensional finite element analysis of static compression tests on steel helical piles in clay and sand"
     },
+    "10.1016/j.isci.2026.117348": {
+      "doi": "10.1016/j.isci.2026.117348",
+      "posted_at": "2026-08-29T18:10:37+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788027037.521259",
+      "summary_character_count": 107,
+      "summary_japanese": "非対称平面キラル格子・誘電体ギャップ・金属膜からなるCPAを設計し、異方性キラリティーによる反射光の破壊的干渉で円偏光を選択的に完全吸収した。VO2ギャップにより能動調整も可能で、反射円二色性は約0.94に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dissymmetrical planar gratings enabled actively chiral perfect absorber"
+    },
     "10.1016/j.jcat.2026.117094": {
       "doi": "10.1016/j.jcat.2026.117094",
       "posted_at": "2026-08-04T21:18:21+00:00",
@@ -4188,6 +4214,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Dynamic Mechanical Response of a Fractal-Derived Chiral Auxetic Structure"
+    },
+    "10.1016/j.mtcomm.2026.115963": {
+      "doi": "10.1016/j.mtcomm.2026.115963",
+      "posted_at": "2026-08-29T18:10:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788027032.975949",
+      "summary_character_count": 126,
+      "summary_japanese": "bistable chiral seed Z BとZ 3 Bから7種の位相変換で多安定構造を生成・分類するMSMDMを提案し、超キラリティ次数χとVoronoi単位胞により平面・空間テッセレーションに適合させ、既存・新規設計と多様な力学応答を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A multi-stable metamaterial design method (MSMDM) based on a bistable chiral structure"
     },
     "10.1016/j.nanoen.2026.112256": {
       "doi": "10.1016/j.nanoen.2026.112256",
@@ -9555,6 +9594,19 @@
       "summary_used_fallback": true,
       "title": "Progress towards Biomimetic Supramolecular Hydrogels Capable of Dual Covalent/Dynamic Covalent Stabilization"
     },
+    "10.26434/chemrxiv.15007995/v1": {
+      "doi": "10.26434/chemrxiv.15007995/v1",
+      "posted_at": "2026-08-29T18:10:42+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788027042.051759",
+      "summary_character_count": 123,
+      "summary_japanese": "逐次偏光依存STORM（SPD-STORM）により、発光標識なしでSachCHO超分子繊維の偏光不均一性を可視化した。繊維内の交互ドメインと束状繊維の横方向不均一性を示し、低温では偏光選好ドメインが長く、高温では偏光混合が増すことを明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Label-Free mapping of nanoscale polarization heterogeneity in supramolecular fibers"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -9853,6 +9905,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Numerical Analysis of First- and Second-Law Performance in Round Tubes Equipped with Multiple Helical Screw Tape Inserts"
+    },
+    "10.3390/fluids11090215": {
+      "doi": "10.3390/fluids11090215",
+      "posted_at": "2026-08-29T18:10:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788027049.454309",
+      "summary_character_count": 255,
+      "summary_japanese": "Ni-Fe3O4/water hybrid nanofluid performance in a shell and helical tube heat exchanger was evaluated using a two-phase Eulerian mixture model and experiments. At MR 4:1 and φ = 1%, the Nusselt number increased by 56%, while the friction factor rose by 6%.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Thermo-Hydraulic Performance of Ni-Fe3O4 Hybrid Nanofluids in a Shell and Helical Tube Heat Exchanger: Two-Phase Flow Modeling"
     },
     "10.3390/gels12080693": {
       "doi": "10.3390/gels12080693",
