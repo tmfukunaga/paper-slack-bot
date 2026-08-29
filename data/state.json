@@ -27,7 +27,7 @@
     "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
-    "2026-08-29": 15
+    "2026-08-29": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1693,6 +1693,19 @@
       "summary_used_fallback": false,
       "title": "Remote Control Over Covalent Assemblies With Photoswitch-Modulated Dynamic C-N Bonds"
     },
+    "10.1002/anie.2885108": {
+      "doi": "10.1002/anie.2885108",
+      "posted_at": "2026-08-29T05:37:31+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787981851.864669",
+      "summary_character_count": 103,
+      "summary_japanese": "ひょうたん型キラル有機カチオンS/R-430を設計し、[S/R-430M][FeBr4]を合成した。α相は約355 Kで可逆的一次強誘電相転移を示し、室温b軸方向の飽和分極は31.7 μC/cm2に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "High Saturation Polarization Ferroelectricity in a Pair of α-Phase Enantiomorphic Crystals Based on Calabash-Shaped Molecules"
+    },
     "10.1002/anie.2908295": {
       "doi": "10.1002/anie.2908295",
       "posted_at": "2026-08-14T15:08:26+00:00",
@@ -2395,6 +2408,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis, Structure, and Photothermal Conversion of a Bowl-Shaped Nanographene Containing Fused 5-/7-Ring Pairs"
     },
+    "10.1002/anie.7957354": {
+      "doi": "10.1002/anie.7957354",
+      "posted_at": "2026-08-29T05:37:27+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787981847.867239",
+      "summary_character_count": 120,
+      "summary_japanese": "自己集合する発光性Pt(II)錯体は、優れたイメージング能とredox活性を示し、Hydra vulgarisでROS応答・抗酸化能・関連遺伝子発現を調節して幹細胞増殖を促進し、Nematostella vectensisの変態を加速した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembled Pt(II) Complexes Boost Up Stem Cell Proliferation and Accelerate Metamorphosis in Living Organisms"
+    },
     "10.1002/anie.7974480": {
       "doi": "10.1002/anie.7974480",
       "posted_at": "2026-07-18T07:02:00+00:00",
@@ -2791,6 +2817,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis, Physicochemical Characteristics, Self-Assembly and Encapsulation Ability of per-Ethylene-Glycol-Functionalized Resorcin[4]Arenes and Their Molecular Capsules: On the Road to Liquid Capsules"
     },
+    "10.1002/chem.71501": {
+      "doi": "10.1002/chem.71501",
+      "posted_at": "2026-08-29T05:37:37+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787981857.262739",
+      "summary_character_count": 123,
+      "summary_japanese": "HAT(CN)6とoligoresorcinolを用い、ハロゲン化物・擬ハロゲン化物を集団結合する5種の三成分synthonを設計した。SC XRD、NMR、DFT+Dにより、固体・溶液間の転移性とanion–π、π–π、水素結合の寄与を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Engineering Supramolecular {HAT(CN) 6 ;Oligoresorcinol;Anion} Synthons and Knots via Cooperating Multimodal Noncovalent Interactions"
+    },
     "10.1002/chem.71506": {
       "doi": "10.1002/chem.71506",
       "posted_at": "2026-08-04T21:18:02+00:00",
@@ -2907,6 +2946,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral-at-Metal Racemization of Tris-Chelated Octahedral Complexes: A DFT Case Study of Al(acnac) 3"
+    },
+    "10.1002/chem.71611": {
+      "doi": "10.1002/chem.71611",
+      "posted_at": "2026-08-29T05:37:41+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787981861.528719",
+      "summary_character_count": 106,
+      "summary_japanese": "EG鎖とDB24C8からなるcrown ether系LCST材料CGを開発し、カチオンとの超分子錯形成で相転移を調整した。スマート窓はΔTlum 97.2%、ΔTIR 79.4%、ΔTsol 86.4%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Crown Ether-Based LCST Molecule With Cation Size Selective Matching Capability for Efficient Management of Solar Radiation"
     },
     "10.1002/chem.71623": {
       "doi": "10.1002/chem.71623",
@@ -9306,6 +9358,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantiomeric enrichment at a microcavity embedded in a modified clay: In-column reactions of a coordinatively unsaturated racemic iridium(III) complex"
+    },
+    "10.26434/chemrxiv.15007911/v1": {
+      "doi": "10.26434/chemrxiv.15007911/v1",
+      "posted_at": "2026-08-29T05:37:23+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1787981843.419069",
+      "summary_character_count": 428,
+      "summary_japanese": "An aldehyde-functionalized benzene-1,3,5-tricarboxamide hydrogelator self-assembled into fibrous hydrogels. Heating induced irreversible aldehyde self-condensation within the network, while bifunctional hydrazide or hydroxylamine crosslinkers introduced dynamic covalent reinforcement. Both modes increased hydrogel strength while preserving shear-thinning, viscoelastic relaxation, elasticity, self-healing, and processability.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Progress towards Biomimetic Supramolecular Hydrogels Capable of Dual Covalent/Dynamic Covalent Stabilization"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
