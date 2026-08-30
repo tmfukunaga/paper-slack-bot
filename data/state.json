@@ -27,7 +27,8 @@
     "2026-08-27": 12,
     "2026-08-28": 10,
     "2026-08-29": 30,
-    "2026-08-30": 25
+    "2026-08-30": 25,
+    "2026-08-31": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1082,6 +1083,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed H 2 -Enabled Asymmetric Olefin Isomerization: Direct Access to P -Stereogenic Phospholenes With Adjacent Stereocenters"
+    },
+    "10.1002/ange.6583201": {
+      "doi": "10.1002/ange.6583201",
+      "posted_at": "2026-08-30T16:01:58+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788105718.537319",
+      "summary_character_count": 102,
+      "summary_japanese": "キラルナノ構造CoをH-type mesoporous MFI zeoliteに閉じ込め、スピン偏極で*OCCOをC2+ alcoholsへ水素化し、443 KでC5+炭化水素選択率85.6%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Nanostructured Cobalt Nanoparticles Confined in Zeolite for Syngas Conversion to Liquid Fuels at Low Temperature"
     },
     "10.1002/ange.6690121": {
       "doi": "10.1002/ange.6690121",
@@ -3518,6 +3532,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of Spatial Coherence and Circular Dichroism of Atoms Based on Hybrid Poincaré Beams"
+    },
+    "10.1002/lpor.71818": {
+      "doi": "10.1002/lpor.71818",
+      "posted_at": "2026-08-30T16:02:04+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788105724.289059",
+      "summary_character_count": 102,
+      "summary_japanese": "過渡吸収分光法で解明されたアキラル・キラルペロブスカイトのスピン生成・緩和・応用を概説し、主要な緩和機構、spin funneling、optical Stark effect、研究課題と展望を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Carrier Spin Dynamics in Perovskite Materials Revealed by Transient Absorption Spectroscopy: Progress and Perspectives"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -7579,6 +7606,19 @@
       "summary_used_fallback": false,
       "title": "Non-Hermitian topology from edge transport in Hermitian quantum anomalous Hall systems"
     },
+    "10.1038/s41467-026-77269-7": {
+      "doi": "10.1038/s41467-026-77269-7",
+      "posted_at": "2026-08-30T16:02:08+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788105728.815199",
+      "summary_character_count": 120,
+      "summary_japanese": "液化木材を反応性エマルション媒介自己組織化でメソ多孔性炭素へ変換し、TOPによるミセル曲率・界面制御で、秩序化ナノファイバーから中空・ボウル状構造へ形態を制御した。中空炭素ナノファイバーMTEGは12.33 mV K−1の熱起電力を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programmable mesoporous carbon architectures from liquefied wood via reactive-emulsion-mediated self-assembly"
+    },
     "10.1038/s41467-026-77274-w": {
       "doi": "10.1038/s41467-026-77274-w",
       "posted_at": "2026-08-30T11:15:38+00:00",
@@ -8540,6 +8580,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Third-nearest-neighbor-hopping-driven competition between chiral p+ ip and triplet f-wave pairing in a doped honeycomb-lattice Hubbard model"
+    },
+    "10.1142/s0129183127501452": {
+      "doi": "10.1142/s0129183127501452",
+      "posted_at": "2026-08-30T16:02:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788105734.621159",
+      "summary_character_count": 122,
+      "summary_japanese": "非零化学ポテンシャルQCDのchiral random matrix modelでCLの誤収束とstep-size biasを解析し、condensate誤差と相関するanti-Hermiticity order parameterを導入した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diagnosing wrong convergence in complex langevin simulations of chiral random matrix theory: Step-size effects and an anti-hermiticity order parameter"
     },
     "10.1142/s0217732326502202": {
       "doi": "10.1142/s0217732326502202",
@@ -10541,6 +10594,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Layered helical order reveals assembly states in podosome actin networks"
+    },
+    "10.64898/2026.08.25.747076": {
+      "doi": "10.64898/2026.08.25.747076",
+      "posted_at": "2026-08-30T16:01:52+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788105712.439069",
+      "summary_character_count": 114,
+      "summary_japanese": "曲面基板上のmyoblast組織は、曲率符号に応じて右巻き／反転したらせん配列を自己組織化した。actin骨格に伴う単細胞の時計回り運動と有効キラル駆動を結ぶ連続体理論がこれを定量的に再現し、高曲率では分化が低下または遅延した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Curvature-guided chiral collective organization of myoblast tissues"
     },
     "10.7759/cureus.114278": {
       "doi": "10.7759/cureus.114278",
