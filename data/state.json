@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-07-29": 25,
     "2026-07-30": 13,
     "2026-07-31": 22,
     "2026-08-01": 26,
@@ -28,7 +27,7 @@
     "2026-08-27": 12,
     "2026-08-28": 10,
     "2026-08-29": 30,
-    "2026-08-30": 15
+    "2026-08-30": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3090,6 +3089,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Evaluating the Solvent and pH Effect in the Inversion of the Circular Dichroism Signal of S -Naproxen"
+    },
+    "10.1002/chir.70141": {
+      "doi": "10.1002/chir.70141",
+      "posted_at": "2026-08-30T03:36:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788060993.218089",
+      "summary_character_count": 100,
+      "summary_japanese": "Chiral phosphoric acid（CPA）触媒による不斉脱対称化反応の近年の進展を総説し、単純なアキラル基質からのエナンチオ濃縮生成物合成と、CPAを協働触媒として用いる代表例を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent Advances in Enantioselective Desymmetrization Enabled by Chiral Phosphoric Acid Catalysis"
     },
     "10.1002/chir.70142": {
       "doi": "10.1002/chir.70142",
@@ -8100,6 +8112,19 @@
       "summary_used_fallback": false,
       "title": "Dynamic mechanisms across the transition from the L-mode to steady-state H-mode in Large Helical Device"
     },
+    "10.1088/1741-4326/ae9e49": {
+      "doi": "10.1088/1741-4326/ae9e49",
+      "posted_at": "2026-08-30T03:36:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788060997.304419",
+      "summary_character_count": 101,
+      "summary_japanese": "LHDの強電子加熱・低密度プラズマで、NBI衝突加熱を大きく上回る非衝突的イオン加熱により中心イオン温度が電子温度近傍まで上昇した。高振幅EGAMの非線形イオンLandau減衰が有力な機構と示唆された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Observation of significant non-collisional ion heating in helical plasmas with dominant electron heating by neutral beam injection on LHD"
+    },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
       "posted_at": "2026-07-21T18:02:41+00:00",
@@ -8750,6 +8775,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis and systematic evaluation of four stereoisomers of BMS compound A enabled by a diastereoselective cyclopropanation on a chiral ketal intermediate"
     },
+    "10.18203/issn.2455-4510.intjresorthop20262905": {
+      "doi": "10.18203/issn.2455-4510.intjresorthop20262905",
+      "posted_at": "2026-08-30T03:36:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788061012.749039",
+      "summary_character_count": 104,
+      "summary_japanese": "不安定型転子間大腿骨骨折の60歳超70例をhelical bladeまたは2-screw PFNに無作為化し比較した。機能成績は同等だが、helical群は手術時間が短く、早期骨癒合が多く合併症も少なかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Comparison of clinical and radiological outcomes of a proximal femoral nail with a helical screw versus a proximal femoral nail with two screws in elderly patients with intertrochanteric femur fractures"
+    },
     "10.20944/preprints202607.1344.v1": {
       "doi": "10.20944/preprints202607.1344.v1",
       "posted_at": "2026-07-23T06:22:15+00:00",
@@ -8827,6 +8865,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
+    },
+    "10.21468/scipostphyscore.9.3.052": {
+      "doi": "10.21468/scipostphyscore.9.3.052",
+      "posted_at": "2026-08-30T03:36:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788061004.511929",
+      "summary_character_count": 111,
+      "summary_japanese": "界面DMI勾配をもつキラルmagnonic crystalを計算・シミュレーション・解析で調べ、低周波フラットバンドの蓄積と強いスピン波局在を示した。局所DMIと交換相互作用は残留時のキラルテクスチャ形成への遷移も結んだ。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Flat-band localization and chiral texture formation in magnonic crystals with graded Dzyaloshinskii-Moriya interaction"
     },
     "10.23960/jitet.v14i3.10711": {
       "doi": "10.23960/jitet.v14i3.10711",
@@ -10204,6 +10255,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Simulation of Tailoring Chiral Light Propagation in Gold-Silver Hybrid Plasmonic Waveguides"
+    },
+    "10.3390/toxics14090747": {
+      "doi": "10.3390/toxics14090747",
+      "posted_at": "2026-08-30T03:36:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788061008.899619",
+      "summary_character_count": 126,
+      "summary_japanese": "Cd汚染水田の低・高Cd蓄積イネ2品種でCaCO3とキラル農薬tetraconazoleを併用評価し、CaCO3は玄米Cdを60.0–82.9%低減した。両処理は土壌微生物群集を変化させ、玄米中のCd・tetraconazole残留は基準値未満だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effects of Soil Amendment Calcium Carbonate and Chiral Pesticide Tetraconazole on the Residues of Pesticide and Cadmium in Rice"
     },
     "10.3390/universe12080237": {
       "doi": "10.3390/universe12080237",
