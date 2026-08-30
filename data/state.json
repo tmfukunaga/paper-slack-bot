@@ -27,7 +27,7 @@
     "2026-08-27": 12,
     "2026-08-28": 10,
     "2026-08-29": 30,
-    "2026-08-30": 20
+    "2026-08-30": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2226,6 +2226,19 @@
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed H 2 -Enabled Asymmetric Olefin Isomerization: Direct Access to P -Stereogenic Phospholenes With Adjacent Stereocenters"
     },
+    "10.1002/anie.6583201": {
+      "doi": "10.1002/anie.6583201",
+      "posted_at": "2026-08-30T11:15:58+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788088558.007969",
+      "summary_character_count": 85,
+      "summary_japanese": "キラルナノ構造CoをHMMZに閉じ込め、スピン偏極で*OCCOをC2+ alcoholsへ水素化する低温FT触媒を設計した。443 KでC5+選択性85.6%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Nanostructured Cobalt Nanoparticles Confined in Zeolite for Syngas Conversion to Liquid Fuels at Low Temperature"
+    },
     "10.1002/anie.6690121": {
       "doi": "10.1002/anie.6690121",
       "posted_at": "2026-08-07T00:05:55+00:00",
@@ -3089,6 +3102,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Evaluating the Solvent and pH Effect in the Inversion of the Circular Dichroism Signal of S -Naproxen"
+    },
+    "10.1002/chir.70140": {
+      "doi": "10.1002/chir.70140",
+      "posted_at": "2026-08-30T11:16:02+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788088562.097329",
+      "summary_character_count": 125,
+      "summary_japanese": "Ag-thiolate coordination polymersでL-cysにD-cysまたはMPAを共導入し、混合エントロピーと形態複雑性指標を解析した。D-cysは複雑性・光学活性を低下させた一方、MPAは光学活性を反転・最大8.3倍増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Complexity and Optical Activity Regulation Through Chirality Engineering in Ag-Thiolate Coordination Polymers"
     },
     "10.1002/chir.70141": {
       "doi": "10.1002/chir.70141",
@@ -4142,6 +4168,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dissymmetrical planar gratings enabled actively chiral perfect absorber"
+    },
+    "10.1016/j.isci.2026.117379": {
+      "doi": "10.1016/j.isci.2026.117379",
+      "posted_at": "2026-08-30T11:15:42+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788088542.559449",
+      "summary_character_count": 111,
+      "summary_japanese": "軸性キラル蛍光Schiff base (R/S)-BN-2HGCAは、希薄溶液で明瞭なCPLを示す一方、自己集合した微小球ではCPLが抑制され、平均Q値約190のwhispering gallery mode共鳴を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Functional switching from circularly polarized luminescence to whispering gallery modes in a chiral Schiff base"
     },
     "10.1016/j.jcat.2026.117094": {
       "doi": "10.1016/j.jcat.2026.117094",
@@ -7501,6 +7540,19 @@
       "summary_used_fallback": false,
       "title": "A unified and desymmetric approach to axially chiral atropisomers"
     },
+    "10.1038/s41467-026-76984-5": {
+      "doi": "10.1038/s41467-026-76984-5",
+      "posted_at": "2026-08-30T11:15:50+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788088550.616369",
+      "summary_character_count": 103,
+      "summary_japanese": "carbonyl、imine、hydroxylを集積した六角形単環benzoquinone正極は、806 mAh g−1と1507 Wh kgHPBQ−1を示し、1000サイクル後も容量の81%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocyclic molecular engineering enables high-energy and durable organic electrode for lithium-ion batteries"
+    },
     "10.1038/s41467-026-77039-5": {
       "doi": "10.1038/s41467-026-77039-5",
       "posted_at": "2026-08-23T15:20:02+00:00",
@@ -7526,6 +7578,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Non-Hermitian topology from edge transport in Hermitian quantum anomalous Hall systems"
+    },
+    "10.1038/s41467-026-77274-w": {
+      "doi": "10.1038/s41467-026-77274-w",
+      "posted_at": "2026-08-30T11:15:38+00:00",
+      "score": 46,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788088538.595989",
+      "summary_character_count": 86,
+      "summary_japanese": "ionic gel媒介の二段階核生成・再結晶により、異方性ナノ構造をもつキラルMBA2PbI4薄膜を合成し、結晶欠陥低減により最大10−2の大きな固有円二色性gCDを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ionic gel-mediated synthesis of nanostructured chiral 2D halide perovskites with amplified chiroptical response"
     },
     "10.1038/s41528-026-00634-5": {
       "doi": "10.1038/s41528-026-00634-5",
