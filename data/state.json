@@ -27,7 +27,7 @@
     "2026-08-28": 10,
     "2026-08-29": 30,
     "2026-08-30": 25,
-    "2026-08-31": 5
+    "2026-08-31": 9
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3701,6 +3701,19 @@
       "summary_used_fallback": false,
       "title": "DFT / TDDFT Investigation of Excited-State Charge Transfer and Spectroscopic Properties in Nd@ C 82 Endohedral Metallofullerenes"
     },
+    "10.1002/qute.70421": {
+      "doi": "10.1002/qute.70421",
+      "posted_at": "2026-08-31T12:41:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788180085.851709",
+      "summary_character_count": 107,
+      "summary_japanese": "偏光依存遷移を示す2つのV型原子をカイラル導波路に結合し、励起状態間を外部駆動場でコヒーレント結合した。単一偏光および偏光重ね合わせ単一光子で、駆動場制御下の偏光選択的な一方向透過・反射と選択的偏光変換を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarization-Selective Transports in a Chiral Photon-Atom Coupled System"
+    },
     "10.1002/rcm.70144": {
       "doi": "10.1002/rcm.70144",
       "posted_at": "2026-08-02T18:15:28+00:00",
@@ -3713,6 +3726,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Integrated 1D-LC-HRMS and Heart-Cutting 2D-LC-MS for Impurity Profiling and Chiral Separation of Mitiglinide Drug Substance"
+    },
+    "10.1002/slct.74092": {
+      "doi": "10.1002/slct.74092",
+      "posted_at": "2026-08-31T12:41:21+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788180081.902839",
+      "summary_character_count": 135,
+      "summary_japanese": "高温・高塩濃度貯留層向けに、塩で高分子自己集合様式が転移するthermoviscosifying fracturing fluid HTEPを設計・評価した。100°C、100 s−1で粘度保持率80.49%を示し、分子動力学計算は昇温による高分子間会合の増強を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Study of a Novel Thermoviscosifying Polymers Fracturing Fluid Based on Supramolecular Self-Assembly"
     },
     "10.1002/smll.74522": {
       "doi": "10.1002/smll.74522",
@@ -5375,6 +5401,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Uniform Helical 3D Microflowers from Single-Component Hierarchical Assembly"
+    },
+    "10.1021/acsami.6c12507": {
+      "doi": "10.1021/acsami.6c12507",
+      "posted_at": "2026-08-31T12:41:17+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788180076.956249",
+      "summary_character_count": 95,
+      "summary_japanese": "ゲルクロマトグラフィーで多種界面活性剤組合せのSWCNTキラリティー選択性を系統評価し、三元系の濃度制御によりnear-zigzag単一キラリティーSWCNTを光学純度約100%で分離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diverse Combinations of Multiple Surfactants for Chirality Recognition and Separation of Carbon Nanotubes"
     },
     "10.1021/acsanm.6c00732": {
       "doi": "10.1021/acsanm.6c00732",
@@ -8826,6 +8865,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Physical modelling of cyclically thermally-activated helical piles under tensile loading"
+    },
+    "10.17163/lgr.n44.2026.03": {
+      "doi": "10.17163/lgr.n44.2026.03",
+      "posted_at": "2026-08-31T12:41:30+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788180090.473859",
+      "summary_character_count": 128,
+      "summary_japanese": "NCBI登録のStaphylococcus aureus 4ゲノムでATAT、ACAC、AGAG反復をMFindと表面プロットで定量し、Gn2–Gn4ではATAT優勢、Gn1ではACAC富化とピーク位置の偏位を認め、反復配列配置のキラル差の可能性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tendencia a la asimetría funcional y quiralidad helicoidal inducida por microsatélites en Staphylococcus aureus"
     },
     "10.17182/hepdata.159952": {
       "doi": "10.17182/hepdata.159952",
