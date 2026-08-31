@@ -27,7 +27,8 @@
     "2026-08-28": 10,
     "2026-08-29": 30,
     "2026-08-30": 25,
-    "2026-08-31": 9
+    "2026-08-31": 9,
+    "2026-09-01": 1
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1705,6 +1706,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhancement of Dissymmetry Factors Through Axial Elongation of Hetero[ n ]helicenes"
+    },
+    "10.1002/anie.2717326": {
+      "doi": "10.1002/anie.2717326",
+      "posted_at": "2026-08-31T20:39:19+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788208759.087669",
+      "summary_character_count": 107,
+      "summary_japanese": "非中心対称分子結晶で熱駆動TAAC重合を行い、a軸+19.9%、c軸−13.3%の異方的格子変形に伴う亀裂後、極性破断面間の静電引力と重合進行により自律修復するhelical polymerへの単結晶変換を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cracking and Self-Healing in a Molecular Crystal Driven by Topochemical Polymerization"
     },
     "10.1002/anie.2812801": {
       "doi": "10.1002/anie.2812801",
