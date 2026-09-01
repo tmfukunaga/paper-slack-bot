@@ -27,7 +27,7 @@
     "2026-08-29": 30,
     "2026-08-30": 25,
     "2026-08-31": 9,
-    "2026-09-01": 1
+    "2026-09-01": 6
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3168,6 +3168,19 @@
       "summary_used_fallback": false,
       "title": "Herb-Based Chiral Nanomaterials: Potential Application in Wound Healing and Nanomedicine"
     },
+    "10.1002/chir.70146": {
+      "doi": "10.1002/chir.70146",
+      "posted_at": "2026-09-01T13:55:48+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788270947.967609",
+      "summary_character_count": 132,
+      "summary_japanese": "CCOFのキラリティ導入・増幅法と、円偏光発光・検出への応用を総説し、骨格構造、host–guest閉じ込め、スピン選択的輸送とdissymmetry factorの関係を整理した。螺旋形態が発色団配列と異方的電荷・スピン輸送を介してキラリティを増幅すると論じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Covalent Organic Frameworks for Circularly Polarized Luminescence and Light Detection Applications"
+    },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
       "posted_at": "2026-08-10T10:41:00+00:00",
@@ -3284,6 +3297,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enhanced Circularly Polarised Luminescence via Intramolecular Excimers in Chiral Bis-Naphthalene-1,8:4,5-Tetracarboxydiimide Derivatives"
+    },
+    "10.1002/cptc.70272": {
+      "doi": "10.1002/cptc.70272",
+      "posted_at": "2026-09-01T13:56:14+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788270974.214529",
+      "summary_character_count": 110,
+      "summary_japanese": "BPO donorとdicyanobenzene受容体からなるD-A分子をSNArで合成し、BPO両ortho位の嵩高置換でC–N軸回転障壁を高め光学分割を可能にした。LE/CT二重発光を示し、低温でCPLが増強された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "C-N Axial Chirality in Donor-Acceptor Luminophores: A Design Strategy for Circularly Polarized Luminescence-Active Systems"
     },
     "10.1002/cssc.71010": {
       "doi": "10.1002/cssc.71010",
@@ -5109,6 +5135,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality Transferfrom Chiral Molecules to Mie-ResonantSilicon Nanoparticles"
+    },
+    "10.1021/acs.nanolett.6c03326": {
+      "doi": "10.1021/acs.nanolett.6c03326",
+      "posted_at": "2026-09-01T13:55:54+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788270954.041759",
+      "summary_character_count": 116,
+      "summary_japanese": "ネマチック液晶中でpyrene系分子の離散的dimerを形成し、濃度依存の集合化とTCNB包接による配置変化をCPLで追跡した。monomerと逆のhandednessによりキラル光学応答が反転し、最大glum 0.97を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Revealing Concentration-Dependent Amplification and Inversion of Circularly Polarized Luminescence in Liquid Crystal Self-Assemblies"
     },
     "10.1021/acs.organomet.6c00227": {
       "doi": "10.1021/acs.organomet.6c00227",
@@ -9905,6 +9944,19 @@
       "summary_used_fallback": false,
       "title": "Label-Free mapping of nanoscale polarization heterogeneity in supramolecular fibers"
     },
+    "10.26434/chemrxiv.15008070/v1": {
+      "doi": "10.26434/chemrxiv.15008070/v1",
+      "posted_at": "2026-09-01T13:56:04+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788270964.437439",
+      "summary_character_count": 127,
+      "summary_japanese": "D-/L-cysteineを用いるseedless soft-templated ligand-assisted成長法で、高アスペクト比の左右対掌性金ナノファイバーを合成した。4D STEMで原子のキラル配列を示し、紙チップ上で神経細胞の配向を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direct synthesis of high aspect ratio chiral gold nanofibers"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -10476,6 +10528,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Classifying American Sign Language Alphabets with a Chirality-Preserving CNN and Adaptive Augmentation Strategy"
+    },
+    "10.35848/1347-4065/aea09d": {
+      "doi": "10.35848/1347-4065/aea09d",
+      "posted_at": "2026-09-01T13:55:59+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788270959.271949",
+      "summary_character_count": 128,
+      "summary_japanese": "L-, D-, DL-alaninePbX3·H2O（X = Br, I）のCD・吸収を測定し、L/Dで鏡像CD、DLでほぼ無信号を確認した。バンドギャップはほぼ同一だが吸収端近傍にCD帯が現れ、halide-pからPb-6pへの遷移との関連が示唆された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circular dichroism arising from band-edge electronic transitions in chiral alaninePbX3·H2O (X = Br, I)"
     },
     "10.4028/p-8rklk7": {
       "doi": "10.4028/p-8rklk7",
