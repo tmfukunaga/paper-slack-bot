@@ -28,7 +28,7 @@
     "2026-08-30": 25,
     "2026-08-31": 9,
     "2026-09-01": 6,
-    "2026-09-02": 5
+    "2026-09-02": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2558,6 +2558,19 @@
       "summary_used_fallback": false,
       "title": "Dopant-Tailored Matrices: A Crystal Engineering Strategy for Organic Room-Temperature Phosphorescent Host-Guest Systems and Beyond"
     },
+    "10.1002/anie.8498677": {
+      "doi": "10.1002/anie.8498677",
+      "posted_at": "2026-09-01T23:00:38+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788303638.539739",
+      "summary_character_count": 107,
+      "summary_japanese": "配座固定した鞍形pentaboron-embedded B,N-doped nanographene PB-Uは、17 nm幅・量子収率98%の緑色TADFを示し、非増感OLEDで最大EQE 35.3%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Curved B,N-Doped Nanographene Beyond Narrowband Emission"
+    },
     "10.1002/anie.8630985": {
       "doi": "10.1002/anie.8630985",
       "posted_at": "2026-08-01T21:03:38+00:00",
@@ -2661,6 +2674,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermodynamic and Kinetic Control of Ring-Chain Interconversion in Entropy-Driven Ring-Opening Polymerization of a Macrocyclic Di(Ester-thioester)"
+    },
+    "10.1002/anie.9341514": {
+      "doi": "10.1002/anie.9341514",
+      "posted_at": "2026-09-01T23:01:11+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788303671.667509",
+      "summary_character_count": 126,
+      "summary_japanese": "半減期81日のcyano-terminated thioxanthene dioxide radical MRを基盤に、酸化環化でtriplet基底状態のDRとsinglet基底状態のTRを合成し、TRはT1/T2＝85.47/1.17 μsを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Stable Thioxanthene Dioxide Radical Motif for Modular Access to High-Spin Diradical and Fully-Fused Tetraradicaloid Scaffold"
     },
     "10.1002/anie.9365925": {
       "doi": "10.1002/anie.9365925",
@@ -9997,6 +10023,19 @@
       "summary_used_fallback": false,
       "title": "Label-Free mapping of nanoscale polarization heterogeneity in supramolecular fibers"
     },
+    "10.26434/chemrxiv.15008058/v1": {
+      "doi": "10.26434/chemrxiv.15008058/v1",
+      "posted_at": "2026-09-01T23:00:53+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788303653.364019",
+      "summary_character_count": 135,
+      "summary_japanese": "可溶性[Ln(Cpttt)I2]を用いてCnt配位子の酸化還元化学を開拓し、還元でhomo-aromaticな(C9H9²⁻)2二量体、別経路でMöbius aromaticなC9H9³⁻錯体を得た。両者はCnt⁻とのcomproportionationで相互変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Redox Chemistry of the Cyclononatetraenyl Ligand: A Tale of Radical Coupling, Homo - and Möbius Aromaticity, and Comproportionation"
+    },
     "10.26434/chemrxiv.15008070/v1": {
       "doi": "10.26434/chemrxiv.15008070/v1",
       "posted_at": "2026-09-01T13:56:04+00:00",
@@ -10010,6 +10049,19 @@
       "summary_used_fallback": false,
       "title": "Direct synthesis of high aspect ratio chiral gold nanofibers"
     },
+    "10.26434/chemrxiv.15008081/v1": {
+      "doi": "10.26434/chemrxiv.15008081/v1",
+      "posted_at": "2026-09-01T23:00:48+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788303648.095389",
+      "summary_character_count": 320,
+      "summary_japanese": "A fluorescent [2]rotaxane comprising a cationic organometallic pillarplex ring and fluorescein stoppers was developed. It was taken up by A549 cancer cells and localized predominantly in the cytoplasm. Co-assembly with siRNA and cationic polymers into polyplexes further enhanced cellular uptake and imaging performance.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "A Fluorescent Pillarplex Rotaxane as a Modular Supramolecular Organometallic Platform for Nanoassemblies"
+    },
     "10.26434/chemrxiv.15008083/v1": {
       "doi": "10.26434/chemrxiv.15008083/v1",
       "posted_at": "2026-09-01T18:09:33+00:00",
@@ -10022,6 +10074,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Temporal Control of Chiral Selection in Non-Covalent Systems through Kinetically Programmed Threading"
+    },
+    "10.26434/chemrxiv.15008085/v1": {
+      "doi": "10.26434/chemrxiv.15008085/v1",
+      "posted_at": "2026-09-01T23:01:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788303662.161169",
+      "summary_character_count": 126,
+      "summary_japanese": "Alginate ionic hydrogelsをレオロジー、薬物放出、分光分析で評価し、Ca-alginate egg-boxを一次単位、対アニオン駆動の組織化を階層構造と示した。acetateへの置換はpH中和と初期バースト放出の抑制をもたらした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Alginate Ionic Hydrogels as Hierarchical Supramolecular Materials"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
