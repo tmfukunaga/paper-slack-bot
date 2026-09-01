@@ -27,7 +27,8 @@
     "2026-08-29": 30,
     "2026-08-30": 25,
     "2026-08-31": 9,
-    "2026-09-01": 6
+    "2026-09-01": 6,
+    "2026-09-02": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -146,6 +147,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Mediated Reversible Intercluster Transformation and Chiroptical Inversion in Gold Nanoclusters for Time-Resolved Information Encryption"
+    },
+    "10.1002/adfm.78089": {
+      "doi": "10.1002/adfm.78089",
+      "posted_at": "2026-09-01T18:09:51+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788286191.855369",
+      "summary_character_count": 125,
+      "summary_japanese": "chitosanとL-ascorbic acidのプロトン移動で得たキラル超分子添加剤は、Zn(101)面との格子不整合δ<20%の保護層と極性チャネルを形成し、Zn析出を均一化してZn//Zn電池を1.0 mA cm−2で4900 h超作動させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Supramolecular Electrolyte Engineering Enables Ultra-Long-Cycling Aqueous Zinc-Ion Batteries"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -289,6 +303,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Sub-Stoichiometric Supramolecular Co-Assembly Strategy Enabling Efficient Chirality Transfer and CPL Amplification"
+    },
+    "10.1002/adma.74882": {
+      "doi": "10.1002/adma.74882",
+      "posted_at": "2026-09-01T18:09:40+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788286180.913009",
+      "summary_character_count": 123,
+      "summary_japanese": "分子モーター添加CLCをPVA/PDA-PVA間に挟み、紫外線でPBGとらせん性を可逆制御するCPL光ダイオードを開発した。波長・偏光ヘリシティを切替え、全試験波長で15.10 dB超、980 nmで15.80 dBのアイソレーション比を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Wavelength- and Helicity-Reconfigurable Circularly Polarized Optical Diodes Enabled by Molecular Photoswitches"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -471,6 +498,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Molecular Scintillators of Zn-Tb Heterometallic Complex With Excellent Circularly Polarized Luminescence and High-Resolution X-Ray Imaging"
+    },
+    "10.1002/adom.71737": {
+      "doi": "10.1002/adom.71737",
+      "posted_at": "2026-09-01T18:09:56+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788286196.765179",
+      "summary_character_count": 93,
+      "summary_japanese": "弱測定を利用するサブ波長二重ねじれ格子DTGCAを設計し、共鳴から離れた領域でCDとORDの線形相関を実証した。可視光プラットフォームで分離係数200超のエナンチオマー比識別を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Off-Resonant Chiroptical Enhancement for Enantiomeric Discrimination Through Weak Measurement"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -3583,6 +3623,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Carrier Spin Dynamics in Perovskite Materials Revealed by Transient Absorption Spectroscopy: Progress and Perspectives"
+    },
+    "10.1002/lpor.71845": {
+      "doi": "10.1002/lpor.71845",
+      "posted_at": "2026-09-01T18:09:46+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788286186.427259",
+      "summary_character_count": 91,
+      "summary_japanese": "PF8系キラル共集合発光層と増感層を空間分離し、界面エネルギー移動を利用したCP-OLEDを作製した。青色素子は|gEL|=0.032を維持しつつEQEmax 2.48%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Decoupling Charge Transport and Chiral Emission in Narrowband CP-OLEDs via Synergistic Chiral Supramolecular Assembly and Interlayer Sensitization"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -9956,6 +10009,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Direct synthesis of high aspect ratio chiral gold nanofibers"
+    },
+    "10.26434/chemrxiv.15008083/v1": {
+      "doi": "10.26434/chemrxiv.15008083/v1",
+      "posted_at": "2026-09-01T18:09:33+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788286173.561249",
+      "summary_character_count": 126,
+      "summary_japanese": "可逆的(pseudo)[2]rotaxaneのthreading経路と活性化障壁を設計し、速度論的キラル選択性とその寿命を制御した。chromophoric guestの包接によりキラルバイアスの生成・減衰を時間依存の光学信号へ変換し、加熱で消去した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Temporal Control of Chiral Selection in Non-Covalent Systems through Kinetically Programmed Threading"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
