@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-01": 26,
     "2026-08-02": 18,
     "2026-08-03": 3,
     "2026-08-04": 2,
@@ -28,7 +27,7 @@
     "2026-08-30": 25,
     "2026-08-31": 9,
     "2026-09-01": 6,
-    "2026-09-02": 10
+    "2026-09-02": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1252,6 +1251,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Topological Isomerism of Möbius-Shaped Aramide Macrocycles Induced by Host-Guest Interactions"
+    },
+    "10.1002/ange.8498677": {
+      "doi": "10.1002/ange.8498677",
+      "posted_at": "2026-09-02T02:51:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788317486.635689",
+      "summary_character_count": 127,
+      "summary_japanese": "配座固定した鞍型pentaboron-embedded B,N-doped nanographene PB-Uは、17 nm幅・98%量子収率の緑色TADFを示し、非増感OLEDで最大EQE 35.3%、10 000 cd m−2で26.6%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Curved B,N-Doped Nanographene Beyond Narrowband Emission"
     },
     "10.1002/ange.8648830": {
       "doi": "10.1002/ange.8648830",
@@ -4052,6 +4064,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stereochemical Investigation of Paroxetine: Synthesis, Characterization, and Chiral High-Performance Liquid Chromatography Separation of All Four Stereoisomers"
+    },
+    "10.1002/tcr.70244": {
+      "doi": "10.1002/tcr.70244",
+      "posted_at": "2026-09-02T02:51:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788317493.652979",
+      "summary_character_count": 94,
+      "summary_japanese": "N-heterocyclic carbene触媒を用いるaza-axis含有アトロプ異性体の不斉構築を総説し、速度論的分割、脱対称化、環化、直接N-acylationなどの手法を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Synthesis of Atropisomers Featuring an Aza-Axis via N -Heterocyclic Carbene Catalysis"
     },
     "10.1002/zaac.70190": {
       "doi": "10.1002/zaac.70190",
@@ -8581,6 +8606,19 @@
       "summary_used_fallback": false,
       "title": "Experimental and Numerical Analysis of a Sand-Based Thermal Energy Storage System With a Helical Coil Heat Exchanger"
     },
+    "10.1115/1.4072665": {
+      "doi": "10.1115/1.4072665",
+      "posted_at": "2026-09-02T02:51:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788317470.085729",
+      "summary_character_count": 135,
+      "summary_japanese": "Al2O3、CuO、Fe2O3を0.5 wt.% CMCに分散した非ニュートン性ナノ流体を用いるSHHEを実験し、NTU法とエクセルギー解析で性能を評価した。CuOが最高の熱性能を示し、濃度・温度上昇でNTUは増加した一方、Deと温度差の増大でエネルギー損失も増加した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermal Performance, Exergy, and NTU Analysis of a Shell and Helical Coil Heat Exchanger using non-Newtonian Nanofluids"
+    },
     "10.1117/1.ap.8.5.056002": {
       "doi": "10.1117/1.ap.8.5.056002",
       "posted_at": "2026-08-09T16:04:21+00:00",
@@ -10426,6 +10464,19 @@
       "summary_used_fallback": false,
       "title": "Site-Selective Coordination Controls Chirality Transfer in an Atomically Precise Au8 Cluster"
     },
+    "10.3390/jmmp10090322": {
+      "doi": "10.3390/jmmp10090322",
+      "posted_at": "2026-09-02T02:51:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788317482.191259",
+      "summary_character_count": 98,
+      "summary_japanese": "非接触3D走査で磁場下Q355B鋼の腐食形態を定量化し、最大局所孔食深さは60 mTで42.9%増加した。腐食helical anchorの引抜き支持力は非線形に変化し、30 mTで最大となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magnetic Field Effects on Q355B Steel Corrosion Morphology and Helical Anchor Uplift Behavior"
+    },
     "10.3390/jne7030054": {
       "doi": "10.3390/jne7030054",
       "posted_at": "2026-08-19T01:06:26+00:00",
@@ -10815,6 +10866,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Absolute quantification of enantiomeric purity of sorted carbon nanotubes by correlating hyperspectral fluorescence microscopy with ensemble chiroptical spectroscopy"
+    },
+    "10.5445/ir/1000196694": {
+      "doi": "10.5445/ir/1000196694",
+      "posted_at": "2026-09-02T02:51:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788317477.434819",
+      "summary_character_count": 376,
+      "summary_japanese": "Curcumin-loaded hydrogels were constructed from PEGDA-β-CD polyrotaxanes and gelatin. Increasing β-CD threading density changed the microstructure to an ordered laminar morphology, raised damping from 13.53% to 46.56%, and enhanced toughness and modulus. In vivo studies confirmed wound-healing performance associated with suitable mechanical and anti-inflammatory properties.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Mechanical Programming of PEGDA- β -CD Polyrotaxane-Based Hydrogels via Host-Guest Molecular Recognition"
     },
     "10.54946/wilm.12260": {
       "doi": "10.54946/wilm.12260",
