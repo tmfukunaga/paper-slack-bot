@@ -27,7 +27,8 @@
     "2026-08-30": 25,
     "2026-08-31": 9,
     "2026-09-01": 6,
-    "2026-09-02": 18
+    "2026-09-02": 18,
+    "2026-09-03": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -771,6 +772,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
     },
+    "10.1002/ange.1803367": {
+      "doi": "10.1002/ange.1803367",
+      "posted_at": "2026-09-02T21:04:50+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788383090.879309",
+      "summary_character_count": 106,
+      "summary_japanese": "TPEP5と高分子ゲストの超分子ポリマーにDBTとDAEを共集合化し、カスケードFRETとキラリティー移動で|g_lum|=10^-2の赤方CPLを得た。DAEの光環化・開環によりCPLを可逆的に消光・回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cascaded Energy Transfer in Supramolecular Assemblies Enables Amplified and Photoswitchable Circularly Polarized Luminescence"
+    },
     "10.1002/ange.1807439": {
       "doi": "10.1002/ange.1807439",
       "posted_at": "2026-08-01T18:03:38+00:00",
@@ -1504,6 +1518,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spin-Polarized Interfaces Redirect CO 2 Reduction From CO to Formate"
+    },
+    "10.1002/anie.1803367": {
+      "doi": "10.1002/anie.1803367",
+      "posted_at": "2026-09-02T21:04:38+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788383078.462979",
+      "summary_character_count": 107,
+      "summary_japanese": "TPEP5と高分子ゲストの超分子ポリマーにDBTとDAEを共集合化し、カスケードFRETとキラリティ移動で|g_lum|=10^-2の赤方偏移CPLを得た。DAEの光環化によりCPLを可逆的にon/off制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cascaded Energy Transfer in Supramolecular Assemblies Enables Amplified and Photoswitchable Circularly Polarized Luminescence"
     },
     "10.1002/anie.1807439": {
       "doi": "10.1002/anie.1807439",
@@ -3116,6 +3143,19 @@
       "summary_used_fallback": true,
       "title": "Synthesis of Chiral-at-Sulfur(VI) Sulfonimidamide Brønsted Acids"
     },
+    "10.1002/chem.71637": {
+      "doi": "10.1002/chem.71637",
+      "posted_at": "2026-09-02T21:04:46+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788383086.484139",
+      "summary_character_count": 352,
+      "summary_japanese": "Chiral dipicolinamides with an extended π-conjugated backbone linking an NMe2 donor to pyridine were synthesized using enantiopure amines at the 2,6-amide chains. They showed solution quantum yields up to 15%, and two compounds formed glass-supported thin films exhibiting nonreciprocal circularly polarized luminescence with |g_lum| values up to 0.06.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral Dipicolinamide-Based Push-Pull pi-Conjugated Systems as Nonreciprocal Circularly Polarized Luminescence Emitters"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -3661,6 +3701,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of Spatial Coherence and Circular Dichroism of Atoms Based on Hybrid Poincaré Beams"
+    },
+    "10.1002/lpor.71801": {
+      "doi": "10.1002/lpor.71801",
+      "posted_at": "2026-09-02T21:05:03+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788383103.180219",
+      "summary_character_count": 123,
+      "summary_japanese": "R/S-3-aminoquinine由来の0D antimony-based halidesは、PLQYほぼ100%とg_lum約±7.61×10^-4を示し、DMSO浸漬と110°C加熱でCPLを可逆変換して二重暗号化・CP-LEDに応用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reversible Circularly Polarized Luminescence Response of Chiral Antimony-Based Hybrid Halides and Its Applications in Information Anti-Counterfeiting and CP-LED"
     },
     "10.1002/lpor.71818": {
       "doi": "10.1002/lpor.71818",
@@ -10151,6 +10204,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Alginate Ionic Hydrogels as Hierarchical Supramolecular Materials"
+    },
+    "10.26434/chemrxiv.15008146/v1": {
+      "doi": "10.26434/chemrxiv.15008146/v1",
+      "posted_at": "2026-09-02T21:04:55+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788383095.552049",
+      "summary_character_count": 93,
+      "summary_japanese": "F8T2とキラル誘起剤を直交溶媒から逐次成膜し、熱アニール後にEtOHで誘起剤を選択除去した。R-5011では見かけの|gabs|=1.06、CP-LEDで|gEL|=1.02を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sequential Chiral-Layer Processing for Large Chiroptical Responses in Polymer Films and CP-LEDs"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
