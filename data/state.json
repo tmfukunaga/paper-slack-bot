@@ -27,7 +27,7 @@
     "2026-08-30": 25,
     "2026-08-31": 9,
     "2026-09-01": 6,
-    "2026-09-02": 15
+    "2026-09-02": 18
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2634,6 +2634,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Pre-Crosslinked Network-Mediated Dual Exchange Enables Boosting Chiroptical Activity and Decoupled Two-Level Chirality in Covalent Organic Frameworks"
+    },
+    "10.1002/anie.8922921": {
+      "doi": "10.1002/anie.8922921",
+      "posted_at": "2026-09-02T04:35:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788323717.842329",
+      "summary_character_count": 357,
+      "summary_japanese": "A Ni(0)-catalyzed, redox-neutral enantioselective three-component coupling of aldehydes, sulfonamides, and terminal alkenes was developed. In situ generated sulfonyl imines and a chiral SIPHOS-PE phosphoramidite ligand enabled highly regio- and enantioselective synthesis of N-sulfonyl homoallylic amines, with broad tolerance for alkene-derived substrates.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Nickel(0)-Catalyzed Enantioselective Three-Component Imino-Ene-Type Coupling of Aldehydes, Sulfonamides, and Alkenes"
     },
     "10.1002/anie.8987942": {
       "doi": "10.1002/anie.8987942",
@@ -8749,6 +8762,19 @@
       "summary_used_fallback": false,
       "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes"
     },
+    "10.1134/s106377882614005x": {
+      "doi": "10.1134/s106377882614005x",
+      "posted_at": "2026-09-02T04:35:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788323705.800909",
+      "summary_character_count": 92,
+      "summary_japanese": "低Coulomb衝突性でのプラズマ流模擬に向け建設中のSMOLA*装置について、鏡映対称ヘリカル端栓を備える新磁場配置、補助ICR加熱、プラズマ回転生成法および診断系の特徴を検討した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Upgrading the SMOLA Helical Open Trap for Experiments in the Low Coulomb Collisionality Regime"
+    },
     "10.1137/25m1757381": {
       "doi": "10.1137/25m1757381",
       "posted_at": "2026-07-29T21:16:38+00:00",
@@ -10632,6 +10658,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrastrong Host-Guest Recognition Driven Chiral Supramolecular Polymers with Circularly Polarized Luminescence in Water"
+    },
+    "10.3390/s26175464": {
+      "doi": "10.3390/s26175464",
+      "posted_at": "2026-09-02T04:35:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788323710.008129",
+      "summary_character_count": 107,
+      "summary_japanese": "60 cm螺旋電極を備える水位用capacitance level sensorに、ANN適応校正による自動レンジ機能を実装・検証し、利用者指定範囲でのフルスケール感度を4.9 V/mから58 V/mへ向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development of Autoranging Functionality to Enhance the Sensitivity of Helical Capacitance Level Sensors via Neural Networks"
     },
     "10.3390/separations13080232": {
       "doi": "10.3390/separations13080232",
