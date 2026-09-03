@@ -28,7 +28,7 @@
     "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
-    "2026-09-04": 5
+    "2026-09-04": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3221,6 +3221,19 @@
       "summary_used_fallback": true,
       "title": "Synthesis of Chiral-at-Sulfur(VI) Sulfonimidamide Brønsted Acids"
     },
+    "10.1002/chem.71624": {
+      "doi": "10.1002/chem.71624",
+      "posted_at": "2026-09-03T18:21:00+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788459660.645469",
+      "summary_character_count": 406,
+      "summary_japanese": "This review surveys polymer chemosensors based on supramolecular allosteric signal-amplification sensing. It discusses homotropic and heterotropic systems in which recognition-induced conformational or aggregation changes amplify responses to anions, amino acids, and saccharides, and introduces dynamic allosteric effectors whose properties can be continuously tuned through supramolecular polymerization.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Concepts, Strategies, and Prospects of Allosteric Signal-Amplification Sensing: What Is a Dynamic Allosteric Effector?"
+    },
     "10.1002/chem.71627": {
       "doi": "10.1002/chem.71627",
       "posted_at": "2026-09-03T02:55:15+00:00",
@@ -4839,6 +4852,19 @@
       "summary_used_fallback": false,
       "title": "OrganocatalyticEnantioselective Electrophilic C-HSulfenylation of Arenes"
     },
+    "10.1021/acs.analchem.6c02740": {
+      "doi": "10.1021/acs.analchem.6c02740",
+      "posted_at": "2026-09-03T18:20:41+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788459641.046469",
+      "summary_character_count": 127,
+      "summary_japanese": "mercury架橋ribonucleosideの金属媒介塩基対をESI-MS、NMR、ROAで初検出し、核酸塩基環変形に由来する3本のROAバンドが協奏的に符号反転した。この応答はN1-glycosidic結合反転をもつ非架橋体でもほぼ同様に観測された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Chiroptical Switch Owing to Mercury-Crosslinked Ribonucleosides"
+    },
     "10.1021/acs.analchem.6c02841": {
       "doi": "10.1021/acs.analchem.6c02841",
       "posted_at": "2026-08-06T15:03:52+00:00",
@@ -5623,6 +5649,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Synthesis of Axially Chiral Spiro Aziridines and Spiro Thiazolidinethiones from Sulfonyl Bicyclobutanes"
+    },
+    "10.1021/acs.orglett.6c02694": {
+      "doi": "10.1021/acs.orglett.6c02694",
+      "posted_at": "2026-09-03T18:20:52+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788459652.154229",
+      "summary_character_count": 96,
+      "summary_japanese": "Ni/Al二金属触媒により、formyladamantanesの三級C–H結合をalkynesとエナンチオ選択的に環化し、キラルadamantanesを最大83%収率、95% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Adamantanes via Ni/Al Bimetal-Catalyzed Tertiary C-H Annulation of Formyladamantanes with Alkynes"
     },
     "10.1021/acs.orglett.6c02744": {
       "doi": "10.1021/acs.orglett.6c02744",
@@ -9036,6 +9075,19 @@
       "summary_used_fallback": false,
       "title": "Strong interlayer coupling and chiral flat-band cascades in twisted bilayer gratings"
     },
+    "10.1126/sciadv.aee3256": {
+      "doi": "10.1126/sciadv.aee3256",
+      "posted_at": "2026-09-03T18:20:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788459646.250349",
+      "summary_character_count": 115,
+      "summary_japanese": "alginate ECMの粘弾性を濃度とnorbornene-tetrazine架橋で調整し、type I collagen線維の自己集合を解析した。粘弾性低下と共有結合架橋増加は、実験・シミュレーションで集合速度と量を抑制した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanical cues of an interpenetrating polysaccharide matrix regulate self-assembly of collagen fibers"
+    },
     "10.1126/sciadv.aef0912": {
       "doi": "10.1126/sciadv.aef0912",
       "posted_at": "2026-07-26T03:02:54+00:00",
@@ -10984,6 +11036,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and Characterization of New Functionalized Pyrimidine (Hetero)Cyclic Molecular Hybrids as Chiral Heterocyclic Amino Acid Derivatives"
+    },
+    "10.3390/nano16171099": {
+      "doi": "10.3390/nano16171099",
+      "posted_at": "2026-09-03T18:21:05+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788459665.899809",
+      "summary_character_count": 91,
+      "summary_japanese": "キラルプラズモニックナノ材料の多様な構造、キラリティー発現機構、光学応答の調整を総説し、エナンチオ選択的検出、触媒変換、バイオメディカル応用と合成・利用上の課題、将来戦略を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Advances and Prospects of Chiral Plasmonic Nanomaterials in Emerging Applications"
     },
     "10.3390/ph19091351": {
       "doi": "10.3390/ph19091351",
