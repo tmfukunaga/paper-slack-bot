@@ -27,7 +27,8 @@
     "2026-08-31": 9,
     "2026-09-01": 6,
     "2026-09-02": 18,
-    "2026-09-03": 25
+    "2026-09-03": 25,
+    "2026-09-04": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4604,6 +4605,32 @@
       "summary_used_fallback": false,
       "title": "Computational design of a photoactive [4]catenane with cyclo[48]carbon as an electron-accepting hub"
     },
+    "10.1016/j.matlit.2026.100112": {
+      "doi": "10.1016/j.matlit.2026.100112",
+      "posted_at": "2026-09-03T16:26:35+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788452795.006219",
+      "summary_character_count": 131,
+      "summary_japanese": "Au nanocube clusterの周期格子NCCLで、分子アクセス可能なnanogapと狭いSLRを結合し、in situ導入したキラル分子のhandednessをextinction変化を抑えて集団モードのcircular dichroismへ変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical nanogap-lattice coupling transduces molecular chirality into collective optical modes"
+    },
+    "10.1016/j.matlit.2026.100114": {
+      "doi": "10.1016/j.matlit.2026.100114",
+      "posted_at": "2026-09-03T16:26:39+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788452799.500009",
+      "summary_character_count": 112,
+      "summary_japanese": "D-A変調とイオン化設計による温度応答性キラルdiphosphoniumsを開発し、全色域の円偏光蛍光・残光を実現した。ヘリカルCPLC膜は最大g_lum 0.75、二層反射構造では1.8に達し、X線イメージング能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Customizing chiral liquid crystal scintillators for efficient circularly polarized afterglow and radiography"
+    },
     "10.1016/j.mechmachtheory.2026.106568": {
       "doi": "10.1016/j.mechmachtheory.2026.106568",
       "posted_at": "2026-08-22T21:19:34+00:00",
@@ -5007,6 +5034,19 @@
       "summary_used_fallback": false,
       "title": "Diamagnetic to Cluster Glass Transition in the Mn-Substituted δ-Co2.5Zn17.5 Chiral Intermetallic Phase"
     },
+    "10.1021/acs.inorgchem.6c02394": {
+      "doi": "10.1021/acs.inorgchem.6c02394",
+      "posted_at": "2026-09-03T16:26:47+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788452807.468519",
+      "summary_character_count": 123,
+      "summary_japanese": "cyclometalated platinum(II) rotor含有コレステリック液晶で、濃度に応じ緑色・黄色の高異方性CPLを実現した。420 nm照射と暗所での可逆配座変化により相転移とCPLを切替え、書換えパターンと多段階暗号化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conformation-Induced Dynamic Circularly Polarized Luminescence in Platinum(II) Rotor-Doped Cholesteric Liquid Crystals for Time-Encoded Encryption"
+    },
     "10.1021/acs.inorgchem.6c02545": {
       "doi": "10.1021/acs.inorgchem.6c02545",
       "posted_at": "2026-08-05T18:03:58+00:00",
@@ -5356,6 +5396,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Lithium IonResponsive [2]Catenane Molecular Spring"
+    },
+    "10.1021/acs.macromol.6c01499": {
+      "doi": "10.1021/acs.macromol.6c01499",
+      "posted_at": "2026-09-03T16:26:52+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788452812.627859",
+      "summary_character_count": 112,
+      "summary_japanese": "PLLAとPDLAからなるキラルヘテロ構造を設計し、S字・Z字状にねじれたラメラにより自立PLAフィルムへ不均一応力を導入した。応力は厚さを問わず保持・調整でき、容量を約100%向上させ、コンデンサの機械・熱安定性も高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inhomogeneous Stress Enabled by a Chiral Heterostructure for Strain Engineering in Freestanding Poly(lactic acid) Bulk"
     },
     "10.1021/acs.nanolett.6c00913": {
       "doi": "10.1021/acs.nanolett.6c00913",
@@ -8020,6 +8073,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macrocyclic molecular engineering enables high-energy and durable organic electrode for lithium-ion batteries"
+    },
+    "10.1038/s41467-026-77020-2": {
+      "doi": "10.1038/s41467-026-77020-2",
+      "posted_at": "2026-09-03T16:26:59+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788452819.556009",
+      "summary_character_count": 354,
+      "summary_japanese": "In a three-dimensional gyromagnetic photonic-crystal higher-order nodal-ring semimetal, near-field scanning observed antichiral hinge states propagating in the same direction along two parallel hinges. The states showed robust transport against metallic scatterers, and their spatial positions could be reconfigured by adding or removing photonic layers.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Antichiral hinge states in a higher-order photonic nodal ring semimetal"
     },
     "10.1038/s41467-026-77039-5": {
       "doi": "10.1038/s41467-026-77039-5",
