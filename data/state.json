@@ -27,7 +27,7 @@
     "2026-08-31": 9,
     "2026-09-01": 6,
     "2026-09-02": 18,
-    "2026-09-03": 15
+    "2026-09-03": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2316,6 +2316,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Single-Atom Control of Aromaticity and Excited-State Dynamics in Endohedral Zirconium-Antimony Zintl Clusters"
+    },
+    "10.1002/anie.6219487": {
+      "doi": "10.1002/anie.6219487",
+      "posted_at": "2026-09-03T07:48:05+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788421685.782209",
+      "summary_character_count": 117,
+      "summary_japanese": "AntPhos配位Ni触媒で、aldehydeを有する5-amino-2,4-dienoatesを分子内還元的カップリングし、anti型amino alcoholを持つ光学活性tetrahydroisoquinoline類を合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intramolecular Nickel-Catalyzed Reductive Coupling: Enantioselective Synthesis of Tetrahydroisoquinolines and Related Heterocycles"
     },
     "10.1002/anie.6267376": {
       "doi": "10.1002/anie.6267376",
@@ -5519,6 +5532,19 @@
       "recovered_from_run": 29635004972,
       "score": 27
     },
+    "10.1021/acs.orglett.6c02691": {
+      "doi": "10.1021/acs.orglett.6c02691",
+      "posted_at": "2026-09-03T07:47:45+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788421665.589979",
+      "summary_character_count": 118,
+      "summary_japanese": "キラルsulfinamide含有bicyclobutaneをCs2CO3で開環し、軸不斉と中心不斉を併せ持つchiral 1-aza-spiro[2,3]hexanesおよびspiro thiazolidinethionesを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Synthesis of Axially Chiral Spiro Aziridines and Spiro Thiazolidinethiones from Sulfonyl Bicyclobutanes"
+    },
     "10.1021/acs.orglett.6c02744": {
       "doi": "10.1021/acs.orglett.6c02744",
       "posted_at": "2026-08-13T23:24:57+00:00",
@@ -6577,6 +6603,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "TunableChiral D4-Symmetric Phthalocyanineswith Rationally Designed Aggregation for Near-Infrared CircularlyPolarized Luminescence"
+    },
+    "10.1021/jacs.6c08421": {
+      "doi": "10.1021/jacs.6c08421",
+      "posted_at": "2026-09-03T07:47:40+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788421660.927589",
+      "summary_character_count": 88,
+      "summary_japanese": "量子化学計算とMarcus・Savéantモデルにより、PFASのヘリカル主鎖の巻き戻りが段階的・協奏的還元的脱フッ素化の選好を変え、構造依存的分解速度を説明することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Unwinding Governs Divergent Kinetics in the Reductive Defluorination of Per- and Polyfluoroalkyl Substances"
     },
     "10.1021/jacs.6c08513": {
       "doi": "10.1021/jacs.6c08513",
@@ -10346,6 +10385,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Sequential Chiral-Layer Processing for Large Chiroptical Responses in Polymer Films and CP-LEDs"
+    },
+    "10.26434/chemrxiv.15008154/v1": {
+      "doi": "10.26434/chemrxiv.15008154/v1",
+      "posted_at": "2026-09-03T07:47:52+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788421672.750079",
+      "summary_character_count": 94,
+      "summary_japanese": "可視域で強い円偏光発光を示す既存のキラル半導体ナノヘリックスを組成調整し、近赤外通信波長域で円偏光発光する材料群の拡充を目指した。近赤外域のキラル発光体開発の課題に対応する設計を提示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nanostructured Semiconductor Helices with Circularly Polarized Light Emission in Near Infrared Telecommunication Wavelengths"
+    },
+    "10.26434/chemrxiv.15008171/v1": {
+      "doi": "10.26434/chemrxiv.15008171/v1",
+      "posted_at": "2026-09-03T07:47:57+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788421677.810999",
+      "summary_character_count": 134,
+      "summary_japanese": "azaheptafulvenesとdonor-acceptor cyclopropanesの不斉Brønsted塩基触媒(8+3)-環化付加により、七員環cycloheptatriene縮環型キラルpiperidine誘導体を高立体選択的かつ広い基質適用性で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Construction of Chiral Piperidine Scaffold through an Enantioselective (8+3)-Cycloaddition of Donor-Acceptor Cyclopropanes with Azaheptafulvenes"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
