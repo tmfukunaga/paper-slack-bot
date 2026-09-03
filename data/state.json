@@ -27,7 +27,7 @@
     "2026-08-31": 9,
     "2026-09-01": 6,
     "2026-09-02": 18,
-    "2026-09-03": 20
+    "2026-09-03": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2551,6 +2551,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-Induced Selective Electrosynthesis Hydrogen Peroxide and Tandem Green Chemical Synthesis"
     },
+    "10.1002/anie.7495552": {
+      "doi": "10.1002/anie.7495552",
+      "posted_at": "2026-09-03T11:15:40+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788434140.507249",
+      "summary_character_count": 123,
+      "summary_japanese": "aramid nanofiber/silica二重網目に双方向水素結合の動的二重剛性界面を設計し、(SiO)6を(SiO)4へ相転移させた。skin-core aerogel fiberは弾性率1.15 GPa、靭性8.1 MJ m−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Engineering of Dynamically Interlocked Dual-Stiffness Interphase for Biomimetic Strong and Tough Double Network Aerogel"
+    },
     "10.1002/anie.7699965": {
       "doi": "10.1002/anie.7699965",
       "posted_at": "2026-08-01T06:04:34+00:00",
@@ -4207,6 +4220,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tunable Chirality by Stacking Films of Magnetically Assembled Plasmonic Nanochains"
+    },
+    "10.1002/smll.75575": {
+      "doi": "10.1002/smll.75575",
+      "posted_at": "2026-09-03T11:15:53+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788434152.982029",
+      "summary_character_count": 134,
+      "summary_japanese": "achiral pyridinium homodimer LDはctDNAのminor grooveに静電的に結合し、DNAからのキラリティー移動と非放射失活抑制により、CPLとthree-photon excitation fluorescenceを同時に発現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "ct DNA-Driven Helical Assembly of Achiral Dimers: Simultaneous Activation of Three-Photon Fluorescence and Circularly Polarized Luminescence"
     },
     "10.1002/sscp.70297": {
       "doi": "10.1002/sscp.70297",
@@ -8008,6 +8034,19 @@
       "summary_used_fallback": false,
       "title": "Astrocytes amplify cortical dopamine to encode winning memory in male mice"
     },
+    "10.1038/s41467-026-77101-2": {
+      "doi": "10.1038/s41467-026-77101-2",
+      "posted_at": "2026-09-03T11:15:26+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788434126.473169",
+      "summary_character_count": 95,
+      "summary_japanese": "同位体標識で基板支持系CNTの成長履歴を解析し、触媒粗大化により成長速度は同温度で最大2倍のヒステリシスを示す一方、同一CNTは数百μmにわたり原子レベルで同一の格子構造を保持すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Isotope-labeled growth histories reveal persistent chirality in individual carbon nanotubes despite catalyst evolution"
+    },
     "10.1038/s41467-026-77208-6": {
       "doi": "10.1038/s41467-026-77208-6",
       "posted_at": "2026-08-28T23:52:05+00:00",
@@ -8657,6 +8696,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Observation of significant non-collisional ion heating in helical plasmas with dominant electron heating by neutral beam injection on LHD"
+    },
+    "10.1088/1742-5468/ae9931": {
+      "doi": "10.1088/1742-5468/ae9931",
+      "posted_at": "2026-09-03T11:15:32+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788434132.934719",
+      "summary_character_count": 121,
+      "summary_japanese": "放射状周期ラチェット中のキラル能動粒子を解析し、有限捕捉域から位相固定半径へ収束する軌道、弱い半径力に対するキラリティ奇の横移動度、整数近傍の巻き付き分枝を示した。第二高調波は障壁と到達分枝を変え、雑音誘起位相滑りは半径方向拡散をもたらした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Geometry-rectified transport of chiral active particles in a radial ratchet"
     },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
@@ -10372,6 +10424,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Alginate Ionic Hydrogels as Hierarchical Supramolecular Materials"
+    },
+    "10.26434/chemrxiv.15008143/v1": {
+      "doi": "10.26434/chemrxiv.15008143/v1",
+      "posted_at": "2026-09-03T11:15:48+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788434148.881589",
+      "summary_character_count": 322,
+      "summary_japanese": "Twistacene dipyridyl ligands differing by 6° in curvature were assembled with Pd(II) or Pt(II) corners to examine equilibria between {M}2L2 rhomboids and {M}3L3 hexagons. Increasing ligand curvature raised the enthalpic cost of ring expansion from 6–10 to 17–18 kJ mol−1, reshaping the self-assembly free-energy landscape.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Ligand Curvature Controls the Size of Self-Assembled Twisted Metallacycles"
     },
     "10.26434/chemrxiv.15008146/v1": {
       "doi": "10.26434/chemrxiv.15008146/v1",
