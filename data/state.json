@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-02": 18,
     "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
@@ -28,7 +27,7 @@
     "2026-08-31": 9,
     "2026-09-01": 6,
     "2026-09-02": 18,
-    "2026-09-03": 5
+    "2026-09-03": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -147,6 +146,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Mediated Reversible Intercluster Transformation and Chiroptical Inversion in Gold Nanoclusters for Time-Resolved Information Encryption"
+    },
+    "10.1002/adfm.78022": {
+      "doi": "10.1002/adfm.78022",
+      "posted_at": "2026-09-03T02:55:19+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788404119.907019",
+      "summary_character_count": 103,
+      "summary_japanese": "強誘電ネマチック液晶を3次元キラルナノ多孔質骨格へ含浸し、ナノ閉じ込めによるキラリティー・強誘電結合を実現した。電気・磁気双極子干渉により、|gSHG-CD|約1.1の顕著な第二高調波発生円二色性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nanoconfinement-Induced Second-Harmonic Circular Dichroism via Chirality-Ferroelectric Coupling"
     },
     "10.1002/adfm.78089": {
       "doi": "10.1002/adfm.78089",
@@ -3143,6 +3155,19 @@
       "summary_used_fallback": true,
       "title": "Synthesis of Chiral-at-Sulfur(VI) Sulfonimidamide Brønsted Acids"
     },
+    "10.1002/chem.71627": {
+      "doi": "10.1002/chem.71627",
+      "posted_at": "2026-09-03T02:55:15+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788404115.786209",
+      "summary_character_count": 111,
+      "summary_japanese": "Steglich esterificationでachiral fluorophoreをCNC表面に共有結合し、自己集合複合膜で青・緑・赤のRCPLと3色混合による近白色CPLを得た。蛍光は12 h照射後も90%維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Near-White Circularly Polarized Luminescence by Color Mixing Utilizing Surface-Fluorophore-Modified Cellulose Nanocrystals in Composite Films"
+    },
     "10.1002/chem.71637": {
       "doi": "10.1002/chem.71637",
       "posted_at": "2026-09-02T21:04:46+00:00",
@@ -4968,6 +4993,19 @@
       "summary_used_fallback": false,
       "title": "How Dirhodium Catalysts Build Chiral Sulfur Centers: An Unexpected Mechanistic Blueprint from Kinetics, Spectroscopy, and Computation"
     },
+    "10.1021/acs.inorgchem.6c04038": {
+      "doi": "10.1021/acs.inorgchem.6c04038",
+      "posted_at": "2026-09-03T02:55:33+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788404133.218759",
+      "summary_character_count": 115,
+      "summary_japanese": "C60/C70包接Cu(I)-imidazole/pyrazolate大環状錯体4種を一段階溶媒熱法で合成し、C60とC70がchair型・boat型配座を規定した。分散力支配の包接相互作用はC70で強く、可視光吸収も増強された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fullerenes (C60/C70)-Embedded Copper(I)-Imidazole/Pyrazolate Macrocycles: Synthesis, Structures, and Electronic Properties"
+    },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
       "posted_at": "2026-07-17T21:11:29+00:00",
@@ -5305,6 +5343,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality Transferfrom Chiral Molecules to Mie-ResonantSilicon Nanoparticles"
+    },
+    "10.1021/acs.nanolett.6c02728": {
+      "doi": "10.1021/acs.nanolett.6c02728",
+      "posted_at": "2026-09-03T02:55:28+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788404128.684779",
+      "summary_character_count": 100,
+      "summary_japanese": "磁気ギャッププラズモンを用いる単一ねじれdimer cavityを設計し、円偏光に対する消光の選択性により最大g-factor 1.94と、片方の偏光で約95%のスピン軌道角運動量変換効率を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Near-Perfect Chirality and Giant Spin-Orbit Conversion in a Single Plasmonic Cavity"
     },
     "10.1021/acs.nanolett.6c03326": {
       "doi": "10.1021/acs.nanolett.6c03326",
@@ -5896,6 +5947,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Heterohelicenes via Organocatalyzed Oxidative Formal [3 + 2] Cycloadditions between Polycyclic Indoles and Quinones"
+    },
+    "10.1021/acscentsci.6c00969": {
+      "doi": "10.1021/acscentsci.6c00969",
+      "posted_at": "2026-09-03T02:55:24+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788404124.368609",
+      "summary_character_count": 116,
+      "summary_japanese": "キラルperylenediimide dimer RCy-PDI2結晶フィブリル内のJ型・excimer発光ドメインをFLIMで可視化し、トルエン拡散・脱離による構造緩和がJ型からexcimer領域への相伝播を駆動することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent-Mediated Phase Propagation Governs Excitonic Heterogeneity in Chiral Fibrils"
     },
     "10.1021/acsmaterialsau.5c00256": {
       "doi": "10.1021/acsmaterialsau.5c00256",
