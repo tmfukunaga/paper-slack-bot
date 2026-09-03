@@ -28,7 +28,7 @@
     "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
-    "2026-09-04": 10
+    "2026-09-04": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4235,6 +4235,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Chirality by Stacking Films of Magnetically Assembled Plasmonic Nanochains"
     },
+    "10.1002/smll.75441": {
+      "doi": "10.1002/smll.75441",
+      "posted_at": "2026-09-03T21:03:24+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788469404.126779",
+      "summary_character_count": 131,
+      "summary_japanese": "tannic acid共acervationで局所pHを約2.7へ低下させ、bis-oxazolineの酸触媒環開裂によるin situ架橋を導入したgelatin hydrogelは、G′約54 kPa、破断伸び約900%、靱性5.46 MJ m−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultra-Tough Hybrid Supramolecular Gelatin Hydrogels"
+    },
     "10.1002/smll.75575": {
       "doi": "10.1002/smll.75575",
       "posted_at": "2026-09-03T11:15:53+00:00",
@@ -7215,6 +7228,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "An Iron(V)-Oxo TAML Radical Cation Complex in Photocatalytic Water Oxidation and Electron-Transfer Reactions"
+    },
+    "10.1021/jacs.6c12391": {
+      "doi": "10.1021/jacs.6c12391",
+      "posted_at": "2026-09-03T21:03:19+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788469399.490309",
+      "summary_character_count": 335,
+      "summary_japanese": "A nickel-catalyzed enantioselective decarboxylative cross-coupling of amino acid- or peptide-derived redox-active esters with silylzinc or germylzinc reagents enabled the synthesis of chiral α-silylamines and α-germylamines under mild conditions. The method was also applied to late-stage diversification of complex bioactive peptides.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Decarboxylative Synthesis of Chiral α-Silylamines and α-Germylamines"
     },
     "10.1021/jacs.6c12829": {
       "doi": "10.1021/jacs.6c12829",
@@ -10582,6 +10608,19 @@
       "summary_used_fallback": false,
       "title": "Nanostructured Semiconductor Helices with Circularly Polarized Light Emission in Near Infrared Telecommunication Wavelengths"
     },
+    "10.26434/chemrxiv.15008165/v1": {
+      "doi": "10.26434/chemrxiv.15008165/v1",
+      "posted_at": "2026-09-03T21:03:44+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788469424.227219",
+      "summary_character_count": 107,
+      "summary_japanese": "開殻系の価電子・K端分光に向け、Kohn–Sham軌道と相関補正積分を用いるDFT/XCISおよびDFT/XCIS-CVSを開発した。動的相関の導入により、XCIS-CVSより開殻系スペクトル分裂の精度が向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "DFT/XCIS: A Kohn-Sham Approach to Extended Configuration-Interaction Singles, for Valence- and Core-Level Spectroscopy of Open-Shell Systems"
+    },
     "10.26434/chemrxiv.15008171/v1": {
       "doi": "10.26434/chemrxiv.15008171/v1",
       "posted_at": "2026-09-03T07:47:57+00:00",
@@ -10594,6 +10633,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Construction of Chiral Piperidine Scaffold through an Enantioselective (8+3)-Cycloaddition of Donor-Acceptor Cyclopropanes with Azaheptafulvenes"
+    },
+    "10.26434/chemrxiv.15008198/v1": {
+      "doi": "10.26434/chemrxiv.15008198/v1",
+      "posted_at": "2026-09-03T21:03:39+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788469419.068849",
+      "summary_character_count": 98,
+      "summary_japanese": "12種のPAHをB3LYP/def2-SVPおよびdef2-TZVP計算と幾何・磁気・電子指標で比較し、幾何・電子指標は強く相関する一方、縮環系の局所非局在化は中心部と周辺部で異なることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aromaticity in Polycyclic Aromatic Hydrocarbons (PAHs): A Comparative Analysis Using Magnetic, Geometric, and Electronic Criteria"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
@@ -10958,6 +11010,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Feasibility Study of CFD Boiling Methodology for Predicting Nucleate Boiling Characteristics in a Helical Coiled Tube"
+    },
+    "10.3390/m2227": {
+      "doi": "10.3390/m2227",
+      "posted_at": "2026-09-03T21:03:31+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788469411.500109",
+      "summary_character_count": 120,
+      "summary_japanese": "propyleneおよびm-phenyleneリンカーをもつ大環状tetraimidazolium塩2、3を合成し、3のX線結晶構造からほぼ平面の大環状骨格を明らかにした。DFT計算で3のテトラカチオンに3種の低エネルギー配座を見いだした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Structure of Macrocyclic Tetraimidazolium Salt Containing Propylene and m-Phenylene Linkers"
     },
     "10.3390/magnetochemistry12080089": {
       "doi": "10.3390/magnetochemistry12080089",
