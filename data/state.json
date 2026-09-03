@@ -27,7 +27,7 @@
     "2026-08-31": 9,
     "2026-09-01": 6,
     "2026-09-02": 18,
-    "2026-09-03": 10
+    "2026-09-03": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -146,6 +146,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Mediated Reversible Intercluster Transformation and Chiroptical Inversion in Gold Nanoclusters for Time-Resolved Information Encryption"
+    },
+    "10.1002/adfm.77948": {
+      "doi": "10.1002/adfm.77948",
+      "posted_at": "2026-09-03T04:35:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788410112.132429",
+      "summary_character_count": 109,
+      "summary_japanese": "キラルBPTIの構造異性体(S,S)-BPTI-L-Ileと-L-Leuを微結晶アレイ化し、前者は遷移双極子角の差によりgabs=7.1×10−3、gph=0.84、スピン偏極61%を示し、PUF暗号化にも応用された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced Ultraviolet Circularly Polarized Light Detection through Tuning Constitutional Isomers in Chiral Benzo[ ghi ]perylenetriimides"
     },
     "10.1002/adfm.78022": {
       "doi": "10.1002/adfm.78022",
@@ -1251,6 +1264,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Induced Selective Electrosynthesis Hydrogen Peroxide and Tandem Green Chemical Synthesis"
+    },
+    "10.1002/ange.7517064": {
+      "doi": "10.1002/ange.7517064",
+      "posted_at": "2026-09-03T04:35:34+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788410134.165649",
+      "summary_character_count": 329,
+      "summary_japanese": "Chiral phosphoric acid-catalyzed desymmetrizing reductive amination of diamino-substituted prochiral calix[4]arenes provided functionally diverse ABCD- and ABCC-type inherently chiral calix[4]arenes with high enantioselectivities. Subsequent derivatization demonstrated access to all six possible stereoisomers of ABCD-type ICCs.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Catalytic Enantioselective Synthesis of Upper-rim-Functionalized Inherently Chiral Calix[4]arenes Through Desymmetrizing Reductive Amination"
     },
     "10.1002/ange.7946369": {
       "doi": "10.1002/ange.7946369",
@@ -2609,6 +2635,19 @@
       "summary_used_fallback": false,
       "title": "Dopant-Tailored Matrices: A Crystal Engineering Strategy for Organic Room-Temperature Phosphorescent Host-Guest Systems and Beyond"
     },
+    "10.1002/anie.8413238": {
+      "doi": "10.1002/anie.8413238",
+      "posted_at": "2026-09-03T04:35:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788410127.664589",
+      "summary_character_count": 108,
+      "summary_japanese": "R/S-THNAの立体障害とGe2+孤立電子対を利用し、孤立[GeX3]−をもつキラルGeハライドを合成した。混合ハライド(R-THNA)GeI1.75Br1.25は粉末SHG効率がKH2PO4の3.06倍に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Trigonal Pyramidal Germanium Halides for Enhanced Second Harmonic Generation"
+    },
     "10.1002/anie.8498677": {
       "doi": "10.1002/anie.8498677",
       "posted_at": "2026-09-01T23:00:38+00:00",
@@ -3336,6 +3375,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Covalent Organic Frameworks for Circularly Polarized Luminescence and Light Detection Applications"
+    },
+    "10.1002/chir.70147": {
+      "doi": "10.1002/chir.70147",
+      "posted_at": "2026-09-03T04:35:19+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788410118.994719",
+      "summary_character_count": 135,
+      "summary_japanese": "N-aryl peptoidsのtrifluoroacetylationと硫黄酸化状態によるCaryl–N軸およびN–C(O)結合の回転制限を、19F NMR、動的HPLC、結晶構造解析、計算で調査し、sulfoxide導入で複数の明確な立体化学種が生じることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Trifluoroacetylation and Sulfur Oxidation States Modulate Cis - Trans Isomerization and Atropisomerism in N -Aryl Peptoids"
     },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
@@ -8241,6 +8293,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Orbital angular momentum textures and currents in a discrete helix: Equilibrium and linear response"
+    },
+    "10.1063/5.0344268": {
+      "doi": "10.1063/5.0344268",
+      "posted_at": "2026-09-03T04:35:23+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788410123.517659",
+      "summary_character_count": 120,
+      "summary_japanese": "有機励起子集合体のTRCD応答に対し、条件付き一励起子Gibbs集団で虚時間再構成できる時刻を判定するKMSゲートを提案した。3種のFrenkel励起子モデルで、初期非熱状態は不適格だが緩和後にMatsubara適格窓が生じることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Kubo-Martin-Schwinger-gated imaginary-time reconstruction of time-resolved electronic circular dichroism in organic excitonic aggregates"
     },
     "10.1063/5.0346143": {
       "doi": "10.1063/5.0346143",
