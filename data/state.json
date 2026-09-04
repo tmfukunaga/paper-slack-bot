@@ -28,7 +28,7 @@
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
-    "2026-09-05": 10
+    "2026-09-05": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5008,6 +5008,19 @@
       "summary_used_fallback": false,
       "title": "Multicolor Achiral Carbon Dot-Based Fluorescent Sensors for Chiral Recognition and Visual Detection of Basic Amino Acid Enantiomers"
     },
+    "10.1021/acs.analchem.6c03772": {
+      "doi": "10.1021/acs.analchem.6c03772",
+      "posted_at": "2026-09-04T22:46:50+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788562010.707269",
+      "summary_character_count": 117,
+      "summary_japanese": "キラルAu nanorods自己組織化単分子膜をPDMSへ転写し、PDMS内標準とPCA/SVRを用いてアミノ酸エナンチオマーをlabel-free SERS定量した。混合物のeeをR2=0.9962、RMSE=2.05%で解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective SERS Sensing of Amino Acids by Self-Assembled Chiral Au Nanorods"
+    },
     "10.1021/acs.cgd.6c00617": {
       "doi": "10.1021/acs.cgd.6c00617",
       "posted_at": "2026-08-05T21:16:01+00:00",
@@ -5962,6 +5975,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Bis-Urea Embedded Pillararenes with Self-Sorted Planar Chirality"
     },
+    "10.1021/acs.orglett.6c03391": {
+      "doi": "10.1021/acs.orglett.6c03391",
+      "posted_at": "2026-09-04T22:46:46+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788562006.481049",
+      "summary_character_count": 122,
+      "summary_japanese": "phosphine-borane由来アルキンのNi触媒不斉hydrophosphinationによりP-stereogenic bisphosphine誘導体を合成し、in situ脱保護でP-chiral配位子とキラル遷移金属錯体へ変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Accessing P-Chiral Diphosphines through Nickel-Catalyzed Asymmetric Hydrophosphination"
+    },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
       "posted_at": "2026-08-15T19:01:46+00:00",
@@ -5987,6 +6013,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Chiral Dual-Core Carbonyl/Amine MR-TADF Emitter for Organic Light-Emitting Devices"
+    },
+    "10.1021/acsami.6c07783": {
+      "doi": "10.1021/acsami.6c07783",
+      "posted_at": "2026-09-04T22:47:01+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788562021.215499",
+      "summary_character_count": 122,
+      "summary_japanese": "chirality-enriched SWCNTの高さ可変ステップで一軸ひずみを制御し、分子内接合を形成した。光応答由来のバンドギャップはカイラル指数別の理論的ひずみ―バンドギャップ関係に従い、ゲートで光電流とスペクトル形状を連続的に制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strain-Engineered Intramolecular Junctions in Chirality-Enriched Carbon Nanotubes with Gate-Tunable Photoresponse"
     },
     "10.1021/acsami.6c08888": {
       "doi": "10.1021/acsami.6c08888",
@@ -6338,6 +6377,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Heterohelicenes via Organocatalyzed Oxidative Formal [3 + 2] Cycloadditions between Polycyclic Indoles and Quinones"
+    },
+    "10.1021/acscatal.6c06367": {
+      "doi": "10.1021/acscatal.6c06367",
+      "posted_at": "2026-09-04T22:47:08+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788562028.315059",
+      "summary_character_count": 119,
+      "summary_japanese": "除去可能なpicolinamide配向基と嵩高いBINOL配位子により、Ni(II)触媒benzylamine不斉C–H alkynylationを開発し、立体障害の小さいalkynyl基質を含む広範な基質で最大>99% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Benzylamines via Nickel-Catalyzed Enantioselective C-H Alkynylation"
     },
     "10.1021/acscentsci.6c00969": {
       "doi": "10.1021/acscentsci.6c00969",
@@ -11140,6 +11192,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Exceptional-Point-Enhanced Chiral Spoof Localized Surface Plasmon Resonator for Sub-Microliter Glucose Microwave Biosensing"
+    },
+    "10.3390/bios16090493": {
+      "doi": "10.3390/bios16090493",
+      "posted_at": "2026-09-04T22:46:57+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788562017.234459",
+      "summary_character_count": 110,
+      "summary_japanese": "L-cysteine修飾Se種の遊離チオール誘起成長・融合結晶化により、UV-Vis赤方偏移とCD turn-onを同時に示すchiral trigonal Seを形成し、10 μmol/L以上の遊離チオールを検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Two Signals from One Event: Exploiting Intrinsic Dual-Functional Selenium Nanomaterials for Signal-On Chiroptical and Colorimetric Sensing of Free Thiols"
     },
     "10.3390/buildings16153058": {
       "doi": "10.3390/buildings16153058",
