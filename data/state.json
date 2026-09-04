@@ -27,7 +27,7 @@
     "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
-    "2026-09-04": 20
+    "2026-09-04": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1316,6 +1316,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Topological Isomerism of Möbius-Shaped Aramide Macrocycles Induced by Host-Guest Interactions"
+    },
+    "10.1002/ange.8413238": {
+      "doi": "10.1002/ange.8413238",
+      "posted_at": "2026-09-04T04:35:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788496504.127429",
+      "summary_character_count": 105,
+      "summary_japanese": "R/S-THNAとGe2+の4s2孤立電子対を用いて孤立[GeX3]−をもつキラルGeハライドを合成し、混合ハライド(R-THNA)GeI1.75Br1.25はKH2PO4の3.06倍の粉末SHG効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Trigonal Pyramidal Germanium Halides for Enhanced Second Harmonic Generation"
     },
     "10.1002/ange.8498677": {
       "doi": "10.1002/ange.8498677",
@@ -3934,6 +3947,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanically Interlocked Molecules: A Supramolecular Computational Picture of Rotaxane-Based Switches, Shuttles, and Tristable Devices in Solution"
+    },
+    "10.1002/pat.70732": {
+      "doi": "10.1002/pat.70732",
+      "posted_at": "2026-09-04T04:35:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788496508.366109",
+      "summary_character_count": 130,
+      "summary_japanese": "DLPで作製したchiral-inspired tubular metamaterialを準静的圧縮試験と有限要素解析で評価し、unit-cell厚さ・幅が応答を制御することを示した。Poisson比は−3.20、比エネルギー吸収は2348 mJ/gに達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Influence of Unit-Cell Geometry on 3D -Printed Chiral-Inspired Tubular Metamaterials: Auxeticity and Energy Absorption in Athletic Footwear Applications"
     },
     "10.1002/pc.71524": {
       "doi": "10.1002/pc.71524",
@@ -7436,6 +7462,19 @@
       "summary_used_fallback": false,
       "title": "Chiral packings in cylinders are ultrasensitive to confinement deformation"
     },
+    "10.1038/s41467-026-74841-z": {
+      "doi": "10.1038/s41467-026-74841-z",
+      "posted_at": "2026-09-04T04:34:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788496499.802719",
+      "summary_character_count": 122,
+      "summary_japanese": "層状Kondo磁性体USbTeをSTM/STSで調べ、バンド混成によるheavy quasi-particles形成に伴い、15 K未満でFermi準位近傍の四方対称性を破るspin-polarized nematic stateを可視化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Observation of a spin-textured nematic Kondo lattice"
+    },
     "10.1038/s41467-026-74996-9": {
       "doi": "10.1038/s41467-026-74996-9",
       "posted_at": "2026-07-28T15:16:06+00:00",
@@ -10880,6 +10919,19 @@
       "summary_used_fallback": false,
       "title": "Semiempirical Estimation Formula of Uplift Capacity of Two-Plate Helical Anchors in Sand"
     },
+    "10.3390/app16178617": {
+      "doi": "10.3390/app16178617",
+      "posted_at": "2026-09-04T04:35:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788496517.310769",
+      "summary_character_count": 107,
+      "summary_japanese": "ワイヤー／スプリング乱流促進体を挿入した螺旋二重管熱交換器を数値解析し、4断面形状と水・3種ナノ流体を比較した。促進体はNuを向上させたが圧力損失も増大し、Al2O3-waterがナノ流体中で最も良好なηを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Investigation of Thermal and Hydraulic Performance in a Helical Two-Tube Heat Exchanger Equipped with Wire/Spring Turbulators"
+    },
     "10.3390/axioms15080585": {
       "doi": "10.3390/axioms15080585",
       "posted_at": "2026-08-06T09:01:54+00:00",
@@ -11269,6 +11321,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Simulation of Tailoring Chiral Light Propagation in Gold-Silver Hybrid Plasmonic Waveguides"
+    },
+    "10.3390/technologies14090540": {
+      "doi": "10.3390/technologies14090540",
+      "posted_at": "2026-09-04T04:35:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788496512.566689",
+      "summary_character_count": 102,
+      "summary_japanese": "530件のはすば歯車かみあいTCA結果から、歯面修整量・面内外角度誤差・接触挙動の関係をGaussian Process Regressionでモデル化し、許容接触条件を保つ最小クラウニング量を同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gaussian Process Regression-Based Optimization of Helical Gear Tooth Surface Modification for Misalignment Tolerance"
     },
     "10.3390/toxics14090747": {
       "doi": "10.3390/toxics14090747",
