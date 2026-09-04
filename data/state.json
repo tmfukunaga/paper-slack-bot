@@ -27,7 +27,7 @@
     "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
-    "2026-09-04": 25
+    "2026-09-04": 30
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4799,6 +4799,19 @@
       "summary_used_fallback": false,
       "title": "3D hierarchical assembly of MoO3 nanobelt microflowers for enhanced lithium-ion battery anodes"
     },
+    "10.1016/j.ssc.2026.116579": {
+      "doi": "10.1016/j.ssc.2026.116579",
+      "posted_at": "2026-09-04T07:43:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788507802.998769",
+      "summary_character_count": 130,
+      "summary_japanese": "DFT/TD-DFTでbenzene-like boron-catenated beltと5種のsuper-alkaliドープ体を解析し、BC@OLi3ではHOMO-LUMO gapが約0.19 eVへ低下、励起子束縛エネルギーも0.124 eVまで減少した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "How much can catenated boronated benzene-like nanobelts enhance effective nonlinear optical responses: A molecular inverse study via DFT"
+    },
     "10.1016/j.sycrs.2026.100216": {
       "doi": "10.1016/j.sycrs.2026.100216",
       "posted_at": "2026-07-24T09:03:25+00:00",
@@ -4902,6 +4915,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "OrganocatalyticEnantioselective Electrophilic C-HSulfenylation of Arenes"
+    },
+    "10.1021/acs.accounts.6c00503": {
+      "doi": "10.1021/acs.accounts.6c00503",
+      "posted_at": "2026-09-04T07:43:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788507798.769369",
+      "summary_character_count": 103,
+      "summary_japanese": "二つの架橋炭素を欠くポルフィリン類縁体norcorroleについて、合成、構造、電子特性、反応性と機能を総説し、顕著な反芳香族性にもかかわらず常温で安定で、可逆的酸化還元や近赤外吸収などを示すことを記した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Norcorrole: A Stable Porphyrinoid for Exploration of Antiaromaticity"
     },
     "10.1021/acs.analchem.6c02740": {
       "doi": "10.1021/acs.analchem.6c02740",
@@ -5239,6 +5265,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
+    },
+    "10.1021/acs.jctc.6c01051": {
+      "doi": "10.1021/acs.jctc.6c01051",
+      "posted_at": "2026-09-04T07:43:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788507788.444779",
+      "summary_character_count": 114,
+      "summary_japanese": "Herzberg-Teller効果とDuschinsky回転を扱う共鳴Raman計算用の自動パス積分生成器を開発し、高次相関テンソルを構築せず倍音・結合・hot bandを算出した。複数の遷移で検証し、RROAへの拡張も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Efficient Simulation of Higher-Order Transitions in Resonance Raman Spectroscopy and Its Chiral Extension"
     },
     "10.1021/acs.joc.6c00943": {
       "doi": "10.1021/acs.joc.6c00943",
@@ -7410,6 +7449,19 @@
       "summary_used_fallback": false,
       "title": "Chiral CarbohydrateAdducts are Effective for EnantiomericIon Mobility Separations"
     },
+    "10.1021/prechem.6c00098": {
+      "doi": "10.1021/prechem.6c00098",
+      "posted_at": "2026-09-04T07:43:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788507793.692339",
+      "summary_character_count": 122,
+      "summary_japanese": "γ-AlOOH nanobeltをin situ導入したZIF-62複合ガラスは、1 wt %添加で延伸時にnanobeltが配向し、高温での連続紡糸性を向上した。得られた70 μm繊維はCO2吸着能を保持し、1.89 mm−1の曲率に耐えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structural Engineering of Spinnable MOF Glasses via Shear-Induced Alignment of Embedded Metal-Hydroxide Nanobelts"
+    },
     "10.1021/prechem.6c00101": {
       "doi": "10.1021/prechem.6c00101",
       "posted_at": "2026-08-23T06:36:52+00:00",
@@ -9528,6 +9580,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hydrogelation via Supramolecular Copolymerization of Structural Water within Adaptive Metal-Organic Fibers"
+    },
+    "10.15587/1729-4061.2026.367545": {
+      "doi": "10.15587/1729-4061.2026.367545",
+      "posted_at": "2026-09-04T07:43:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788507807.935709",
+      "summary_character_count": 98,
+      "summary_japanese": "二等辺三角形または菱形断面の非可展らせん管状面を、接平面上の帯状可展面で近似する手法を開発した。a=10、b=5のらせん軸とr=1、2φ=40°の菱形断面に基づく複合面を数値積分で算出・構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Devising a technique for constructing helical architectural objects from curvilinear strips of constant width"
     },
     "10.1680/jgele.24.00170": {
       "doi": "10.1680/jgele.24.00170",
