@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-03": 3,
     "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
@@ -28,7 +27,7 @@
     "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
-    "2026-09-04": 15
+    "2026-09-04": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -160,6 +159,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhanced Ultraviolet Circularly Polarized Light Detection through Tuning Constitutional Isomers in Chiral Benzo[ ghi ]perylenetriimides"
+    },
+    "10.1002/adfm.77978": {
+      "doi": "10.1002/adfm.77978",
+      "posted_at": "2026-09-04T02:54:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788490467.795949",
+      "summary_character_count": 117,
+      "summary_japanese": "高発光Cu4I4(2,5-DMePi)2クラスターと左巻きキラルネマチックCNCを二層化し、PLQY 97.20%とg_lum −0.9421を両立した。観測方向によりCPL符号は−0.9421から0.1021へ可逆的に切り替わった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergistic Enhancement of Luminescence Dissymmetry Factor and Quantum Yield via Hybrid Copper(I) Iodide Cluster and Cellulose Nanocrystal Bilayer Films"
     },
     "10.1002/adfm.78022": {
       "doi": "10.1002/adfm.78022",
@@ -8854,6 +8866,19 @@
       "summary_used_fallback": false,
       "title": "The Influence of Gear Shaft Misalignment Fault on Time-Varying Mesh Stiffness of Helical Gear Pairs"
     },
+    "10.1088/2631-8695/aea1e7": {
+      "doi": "10.1088/2631-8695/aea1e7",
+      "posted_at": "2026-09-04T02:54:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788490473.013539",
+      "summary_character_count": 111,
+      "summary_japanese": "平歯車・はすば歯車増速機を備える足踏み発電床タイルを、負荷18 Ω下で歩行方向とStepper motor数を変えて比較した。二モーター平歯車系は平均0.86 J/stepで、はすば歯車系より45.8%高い発電量を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Performance assessment of electromechanical energy-harvesting floor tiles: spur versus helical gear multipliers"
+    },
     "10.1093/chemle/upag153": {
       "doi": "10.1093/chemle/upag153",
       "posted_at": "2026-08-04T18:15:34+00:00",
@@ -11102,6 +11127,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis and Characterization of New Functionalized Pyrimidine (Hetero)Cyclic Molecular Hybrids as Chiral Heterocyclic Amino Acid Derivatives"
     },
+    "10.3390/molecules31173079": {
+      "doi": "10.3390/molecules31173079",
+      "posted_at": "2026-09-04T02:54:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788490486.079499",
+      "summary_character_count": 96,
+      "summary_japanese": "ヘテロ環含有(thia)calixareneの過去30年の合成、構造多様性、応用を総説し、収束的・発散的手法とリンカー、置換様式、配座が配位・センシング等の機能に及ぼす構造物性相関を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Synergy of Macrocycles and Heterocycles: A Review of Coordination Behavior, Sensing, and Functional Materials Based on Calixarenes"
+    },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
       "posted_at": "2026-09-03T18:21:05+00:00",
@@ -11284,6 +11322,19 @@
       "summary_used_fallback": false,
       "title": "Circular dichroism arising from band-edge electronic transitions in chiral alaninePbX3·H2O (X = Br, I)"
     },
+    "10.3847/2041-8213/ae9cb4": {
+      "doi": "10.3847/2041-8213/ae9cb4",
+      "posted_at": "2026-09-04T02:54:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788490477.049469",
+      "summary_character_count": 128,
+      "summary_japanese": "Parker Solar Probeによる0.1～0.2 auの太陽風観測で、左旋偏波のion-scale waves発生率がplasma beta低下とcross helicity増加に伴い急増し、β<0.2かつσc>0.7で45%を超えることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ion-scale Waves Regulated by Plasma Beta and Cross Helicity: Observational Evidence for the Helicity Barrier in Imbalanced Solar Wind Turbulence"
+    },
     "10.4028/p-8rklk7": {
       "doi": "10.4028/p-8rklk7",
       "posted_at": "2026-08-12T23:22:29+00:00",
@@ -11335,6 +11386,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "What Is the Real-Time Atomistic Mechanism Behind Chirality-Induced Spin Selectivity in Donor-Chiral Bridge-Acceptor Molecules?"
+    },
+    "10.48565/bonndoc-954": {
+      "doi": "10.48565/bonndoc-954",
+      "posted_at": "2026-09-04T02:54:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788490481.676109",
+      "summary_character_count": 108,
+      "summary_japanese": "分子動力学、振動分光、不確かさ定量化を統合し、イオン液体の構造・界面・VCD誘起と動的物性を解析した。TRAVISのクラスタ解析、MSDIFF、多忠実度Monte Carloを開発・適用し、拡散係数計算を高速化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Understanding the Liquid Phase with Molecular Dynamics Simulations, Vibrational Spectroscopy, and Uncertainty Quantification"
     },
     "10.51878/educator.v5i4.15098": {
       "doi": "10.51878/educator.v5i4.15098",
