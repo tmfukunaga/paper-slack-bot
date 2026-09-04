@@ -28,7 +28,7 @@
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
-    "2026-09-05": 5
+    "2026-09-05": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -550,6 +550,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Regioselective pi-Extension of Helical PAHs: Tuning Energy Gaps and Excited-State Dynamics Directed by Clar's Sextet Migration"
+    },
+    "10.1002/adom.71695": {
+      "doi": "10.1002/adom.71695",
+      "posted_at": "2026-09-04T18:05:56+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788545156.848199",
+      "summary_character_count": 127,
+      "summary_japanese": "silica glass中のsilicon nanocuboid配列からなる4回対称キラル誘電体メタサーフェスにイオンビームを照射し、散逸損失を事後調整した。偏光分解分光で円二色性を未照射時の0.70から0.85へ増強し、数値計算で屈折率変化を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhancement of Circular Dichroism in Chiral Dielectric Metasurfaces by Ion Beam Irradiation"
     },
     "10.1002/adom.71699": {
       "doi": "10.1002/adom.71699",
@@ -5449,6 +5462,19 @@
       "summary_used_fallback": false,
       "title": "Circularly PolarizedPhotoluminescence Obtained byOptical Spin Pumping in Achiral Lead-Halide Perovskites: Implicationsof Interface-Induced Rashba Splitting"
     },
+    "10.1021/acs.jpclett.6c02106": {
+      "doi": "10.1021/acs.jpclett.6c02106",
+      "posted_at": "2026-09-04T18:06:08+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788545168.319739",
+      "summary_character_count": 131,
+      "summary_japanese": "2DキラルHOIPsで有機スペーサーとハライド組成がキロプティカル特性へ与える影響をCD測定とDFTで解析し、(R/S-MBA)2PbBr4が最大gCD=2.7×10−3を示した。Br系とMBAは電荷移動・電子結合を強め、無機骨格へのキラリティー移動を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tuning Chiroptical Properties of Two-Dimensional Hybrid Perovskites through Organic Spacer and Halide Composition"
+    },
     "10.1021/acs.jpclett.6c02121": {
       "doi": "10.1021/acs.jpclett.6c02121",
       "posted_at": "2026-07-23T18:06:02+00:00",
@@ -5845,6 +5871,19 @@
       "summary_used_fallback": false,
       "title": "Thiourea-FunctionalizedGlycophane Macrocycles forSelective Recognition of Phthalate Isomers"
     },
+    "10.1021/acs.orglett.6c03017": {
+      "doi": "10.1021/acs.orglett.6c03017",
+      "posted_at": "2026-09-04T18:06:23+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788545183.062649",
+      "summary_character_count": 368,
+      "summary_japanese": "A solvent- and catalyst-free mechanochemical amination of chiral spiroaziridine oxindoles with alkyl amines enabled strain-release ring opening. Valuable 3-aminomethyl-3-alkylamino oxindoles were obtained in excellent yields with nearly complete chirality transfer, while mechanochemical activation provided greater stereochemical fidelity than solution-phase methods.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Mechanochemical Control of Stereospecific Strain Release in Chiral Spiroaziridine Oxindoles with Alkyl Amines"
+    },
     "10.1021/acs.orglett.6c03028": {
       "doi": "10.1021/acs.orglett.6c03028",
       "posted_at": "2026-08-06T06:16:01+00:00",
@@ -5883,6 +5922,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Hydrogen Atom Transfer-Triggered EnantioselectiveHydroalkylation of 1,3-Enynes to Chiral Allenes"
+    },
+    "10.1021/acs.orglett.6c03221": {
+      "doi": "10.1021/acs.orglett.6c03221",
+      "posted_at": "2026-09-04T18:06:13+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788545173.122199",
+      "summary_character_count": 129,
+      "summary_japanese": "chiral-at-metal Rh(III)触媒によりoxazepinesとBCBsの不斉(3 + 2)環化付加を開発し、温和な条件で多様なchiral aza-BCH誘導体を50–96%収率、最高99% eeで得た。スケールアップと生成物変換も実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective (3 + 2) Cycloaddition of Oxazepines and Bicyclo[1.1.0]butanes Catalyzed by Chiral-at-Metal Rh(III) Complexes"
     },
     "10.1021/acs.orglett.6c03230": {
       "doi": "10.1021/acs.orglett.6c03230",
@@ -11725,6 +11777,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intra-individual Comparison of High-Relaxivity versus Standard Macrocyclic Gadolinium Agents for Detecting Hepatic Micrometastases at 3.0 T"
+    },
+    "10.62177/jaet.v3i3.1614": {
+      "doi": "10.62177/jaet.v3i3.1614",
+      "posted_at": "2026-09-04T18:06:02+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788545162.044359",
+      "summary_character_count": 114,
+      "summary_japanese": "金属有機大環状化合物に基づく超分子ポリマーについて、Pt、Pd、Feなどを用いる配位駆動合成と、host–guest認識・水素結合による階層的自己集合を総説し、刺激応答性や医療、センシング、不均一系触媒への応用と課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent Advances in Metal-Macrocycle-BasedSupramolecular Polymers and Their Assemblies"
     },
     "10.64898/2026.07.24.740591": {
       "doi": "10.64898/2026.07.24.740591",
