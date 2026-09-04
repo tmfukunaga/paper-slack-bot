@@ -27,7 +27,8 @@
     "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
-    "2026-09-04": 30
+    "2026-09-04": 30,
+    "2026-09-05": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -172,6 +173,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synergistic Enhancement of Luminescence Dissymmetry Factor and Quantum Yield via Hybrid Copper(I) Iodide Cluster and Cellulose Nanocrystal Bilayer Films"
+    },
+    "10.1002/adfm.78003": {
+      "doi": "10.1002/adfm.78003",
+      "posted_at": "2026-09-04T16:22:50+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788538970.365759",
+      "summary_character_count": 121,
+      "summary_japanese": "低融点（Tm=160°C）・高熱安定性（>290°C）のキラル1D OIMH、S/R-MBPPbI3を設計し、冷却速度で相と光学特性を制御した。非対称hot-cover法により大面積膜を作製し、処理依存の自己束縛励起子発光と円二色性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Melt-Processable Chiral 1D Hybrid Metal Halides With Tunable Excitonic and Circular Dichroism Properties"
+    },
+    "10.1002/adfm.78009": {
+      "doi": "10.1002/adfm.78009",
+      "posted_at": "2026-09-04T16:22:55+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788538975.122729",
+      "summary_character_count": 96,
+      "summary_japanese": "ドナー置換したキラルIn(III)-salen錯体6組は、電子構造と励起状態を調整して青～緑色CPLを示し、PMMA膜で|g_lum|=1.8×10^-2、低温でPLQY最大95%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Donor-Engineered Chiral Indium-Salen Complexes for Tunable Circularly Polarized Luminescence"
     },
     "10.1002/adfm.78022": {
       "doi": "10.1002/adfm.78022",
@@ -5870,6 +5897,19 @@
       "summary_used_fallback": false,
       "title": "Triptycene-Cored Double [5]Helicene: Chirality Transfervia the R / S Triptycene Core to P / M Helical Motifs"
     },
+    "10.1021/acs.orglett.6c03319": {
+      "doi": "10.1021/acs.orglett.6c03319",
+      "posted_at": "2026-09-04T16:22:43+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788538963.957239",
+      "summary_character_count": 135,
+      "summary_japanese": "二つのキラルbis-urea unitを含むpillarareneを二段階で合成し、キラリティー移動によりall-pSまたはall-pR平面キラリティーを得た。ラセミ前駆体の環化では自発的キラル自己選別によりhomochiral macrocycleが優先的に生成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Bis-Urea Embedded Pillararenes with Self-Sorted Planar Chirality"
+    },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
       "posted_at": "2026-08-15T19:01:46+00:00",
@@ -5947,6 +5987,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Precise Control over the Number of Pyrrolidine Catalytic Centers in Chiral COFs for Boosted Asymmetric Catalysis"
+    },
+    "10.1021/acsami.6c10731": {
+      "doi": "10.1021/acsami.6c10731",
+      "posted_at": "2026-09-04T16:22:39+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788538959.697539",
+      "summary_character_count": 116,
+      "summary_japanese": "キラルurea置換naphthalimide AIEgensを高含水有機溶媒中で自己集合させ、左巻きらせんナノファイバーを形成した。R,R/S,S体は鏡像CDを示す一方、同じ向きのCPLを発し、銀ナノ粒子成長のキラル鋳型にもなった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Driven Left-Handed Helical Nanofibers with Amplified CPL Emission via Helicoidal Aggregation of Bulky Naphthalimide AIEgens"
     },
     "10.1021/acsami.6c12055": {
       "doi": "10.1021/acsami.6c12055",
@@ -7214,6 +7267,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Overriding IntrinsicSite-Selectivity in Nickel(II)-CatalyzedEnantioselective Methylene C(sp3)-H Alkynylation"
+    },
+    "10.1021/jacs.6c11478": {
+      "doi": "10.1021/jacs.6c11478",
+      "posted_at": "2026-09-04T16:22:34+00:00",
+      "score": 54,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788538954.571929",
+      "summary_character_count": 93,
+      "summary_japanese": "ヘリカルキラリティーと超分子キラリティーを一致させた初のPDI dimerを設計し、PP-Ps型のキラル相乗効果によりCD増強と高いCPL brightnessを伴う広帯域CPLを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Matching Helical and Supramolecular Chirality in a Perylene Diimide Dimer: Impact on (Chir)Optical Properties"
     },
     "10.1021/jacs.6c11488": {
       "doi": "10.1021/jacs.6c11488",
