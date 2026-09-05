@@ -27,7 +27,8 @@
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
-    "2026-09-05": 40
+    "2026-09-05": 40,
+    "2026-09-06": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1251,6 +1252,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Local Antiaromaticity-Mediated Chiral Donor-Acceptor Strategy for Efficient Circularly Polarized Luminescence"
+    },
+    "10.1002/ange.6788295": {
+      "doi": "10.1002/ange.6788295",
+      "posted_at": "2026-09-05T15:15:18+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788621318.712189",
+      "summary_character_count": 119,
+      "summary_japanese": "フルオラス油中の水性マイクロ液滴で、両親媒性かつ水溶性のdeep cavitandsが油水界面に自己集合し、指示薬色素とのhost–guest複合体を用いて分子認識を光学検出した。液滴融合実験により、空孔基盤と凝集的な認識挙動を識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembly and Molecular Recognition by Synthetic Receptors at the Oil-Water Interface in Aqueous Microdroplets"
     },
     "10.1002/ange.6881077": {
       "doi": "10.1002/ange.6881077",
@@ -3259,6 +3273,19 @@
       "summary_used_fallback": false,
       "title": "Evaluation of Weak Interactions Between the Ring Component and Axle Component in [2]Rotaxanes With 1,3-Diyne Moiety"
     },
+    "10.1002/chem.71583": {
+      "doi": "10.1002/chem.71583",
+      "posted_at": "2026-09-05T15:15:10+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788621310.632139",
+      "summary_character_count": 135,
+      "summary_japanese": "iso-tellurazole N-oxidesの擬似多形結晶で、NTe···Oカルコゲン結合により89–153 Å³の空孔をもつ適応的に折り畳まれた環状12量体を見いだした。結晶成長はゲスト分子の存在下でのみ進み、Na塩濃厚溶液ではNa⁺架橋3四量体集合体も得られた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Iso-Tellurazole N -Oxides Assemble Adaptively Folded Macrocyclic Dodecamers"
+    },
     "10.1002/chem.71596": {
       "doi": "10.1002/chem.71596",
       "posted_at": "2026-08-22T18:26:32+00:00",
@@ -3973,6 +4000,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Decoupling Charge Transport and Chiral Emission in Narrowband CP-OLEDs via Synergistic Chiral Supramolecular Assembly and Interlayer Sensitization"
+    },
+    "10.1002/lpor.71867": {
+      "doi": "10.1002/lpor.71867",
+      "posted_at": "2026-09-05T15:15:01+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788621301.000389",
+      "summary_character_count": 113,
+      "summary_japanese": "2D ferroelectric NbOCl 2とDLATGSを積層し、DLATGSの連続二次相転移による段階的熱膨張差でSHG-CDを多段階変調した。異方性因子1.246、変調深度91.7%、感度5.6% K−1を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Stage Tunable Nonlinear Circular Dichroism in 2D NbOCl 2 via Ferroelectric Phase Transition-Driven Thermal Strain Engineering"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -9659,6 +9699,19 @@
       "summary_used_fallback": false,
       "title": "Interfacial solvothermal synthesis of superhydrophilic ionic salt-derived chiral helical COFs with strong chiroptical activity"
     },
+    "10.1126/sciadv.aec8970": {
+      "doi": "10.1126/sciadv.aec8970",
+      "posted_at": "2026-09-05T15:15:14+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788621314.572929",
+      "summary_character_count": 108,
+      "summary_japanese": "LiNbO3に直交偏光THzパルスでキラルphonon-polaritonを励起し、差動チョッピングでFaraday回転を測定した。円偏光の反転で磁化方向も反転し、単位胞当たり約10 μNに相当する内部磁化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast Faraday rotation probe of chiral phonon-polaritons in LiNbO 3"
+    },
     "10.1126/sciadv.aed8846": {
       "doi": "10.1126/sciadv.aed8846",
       "posted_at": "2026-08-29T16:44:40+00:00",
@@ -11386,6 +11439,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Gantry-period-guided modulation factor selection in helical tomotherapy: effects on delivery efficiency, dosimetry and verification accuracy"
+    },
+    "10.3389/fphy.2026.1919249": {
+      "doi": "10.3389/fphy.2026.1919249",
+      "posted_at": "2026-09-05T15:15:05+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788621305.479769",
+      "summary_character_count": 89,
+      "summary_japanese": "キラルKerr媒質中のベクトル光場崩壊を結合非線形Schrödinger方程式とモーメント法で解析し、円複屈折・円二色性が崩壊点数、位置、偏光変換を制御することを数値的に示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Collapse dynamics of structured optical field in Kerr medium with chirality modulation"
     },
     "10.3389/frsfm.2026.1928826": {
       "doi": "10.3389/frsfm.2026.1928826",
