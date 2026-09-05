@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-04": 2,
     "2026-08-05": 16,
     "2026-08-06": 40,
     "2026-08-07": 27,
@@ -28,7 +27,7 @@
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
-    "2026-09-05": 15
+    "2026-09-05": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5008,6 +5007,19 @@
       "summary_used_fallback": false,
       "title": "Multicolor Achiral Carbon Dot-Based Fluorescent Sensors for Chiral Recognition and Visual Detection of Basic Amino Acid Enantiomers"
     },
+    "10.1021/acs.analchem.6c03587": {
+      "doi": "10.1021/acs.analchem.6c03587",
+      "posted_at": "2026-09-05T02:56:34+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788576994.137209",
+      "summary_character_count": 107,
+      "summary_japanese": "NatamycinまたはAmphotericin Bとの非共有結合複合体を用いるIM-MSで、matrineとsophoridineを分離し、最大Rp-p 3.46を達成した。理論解析で移動度差の分子要因を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rapid Recognition of Matrine Enantiomers Using Ion Mobility-Mass Spectrometry and Theoretical Modeling with Macrolide as Chiral Selectors"
+    },
     "10.1021/acs.analchem.6c03772": {
       "doi": "10.1021/acs.analchem.6c03772",
       "posted_at": "2026-09-04T22:46:50+00:00",
@@ -5696,6 +5708,19 @@
       "summary_used_fallback": false,
       "title": "Revealing Concentration-Dependent Amplification and Inversion of Circularly Polarized Luminescence in Liquid Crystal Self-Assemblies"
     },
+    "10.1021/acs.nanolett.6c03335": {
+      "doi": "10.1021/acs.nanolett.6c03335",
+      "posted_at": "2026-09-05T02:56:38+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788576998.656439",
+      "summary_character_count": 124,
+      "summary_japanese": "面外磁化をもつ2D altermagnetに楕円偏光を用いるFloquet-Blochバンド設計を提案し、Fe2Te2O単層でTCIからQAH絶縁体への転移と、光強度・偏角により切替可能な逆 chirality のQAH相を第一原理計算で確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer"
+    },
     "10.1021/acs.organomet.6c00227": {
       "doi": "10.1021/acs.organomet.6c00227",
       "posted_at": "2026-08-14T09:43:36+00:00",
@@ -5871,6 +5896,19 @@
       "summary_used_fallback": false,
       "title": "Tandem Oxidative Nucleophilic Hydrogen Substitution/B-O Cyclization Enables Chiral Near-Infrared N,O,B-Chelated BODIPYs"
     },
+    "10.1021/acs.orglett.6c02954": {
+      "doi": "10.1021/acs.orglett.6c02954",
+      "posted_at": "2026-09-05T02:56:43+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788577003.430569",
+      "summary_character_count": 129,
+      "summary_japanese": "in situ生成したsulfenate anionとalkenyl bromidesのNi触媒不斉C(sp2)–Sクロスカップリングにより、配位子調節で触媒被毒を抑え、多様なキラルalkenyl sulfoxidesを高効率・高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nickel-Catalyzed Enantioselective Synthesis of Chiral Alkenyl Sulfoxides"
+    },
     "10.1021/acs.orglett.6c02976": {
       "doi": "10.1021/acs.orglett.6c02976",
       "posted_at": "2026-08-06T09:01:44+00:00",
@@ -5936,6 +5974,19 @@
       "summary_used_fallback": true,
       "title": "Hydrogen Atom Transfer-Triggered EnantioselectiveHydroalkylation of 1,3-Enynes to Chiral Allenes"
     },
+    "10.1021/acs.orglett.6c03102": {
+      "doi": "10.1021/acs.orglett.6c03102",
+      "posted_at": "2026-09-05T02:56:51+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788577011.202829",
+      "summary_character_count": 372,
+      "summary_japanese": "A chiral phosphoric acid-catalyzed asymmetric Pictet-Spengler cyclization of 2,2-difluoro-1H-indene-1,3-diones with (2-aminobenzyl)indoles provided enantioenriched seven-membered gem-difluorinated spirobenzazepinoindoles in moderate to excellent yields with outstanding enantiocontrol. The method was also demonstrated on gram scale and through downstream derivatizations.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Synthesis of gem -Difluorinated Spirobenzazepinoindoles by Chiral Phosphoric Acid (CPA)-Catalyzed Asymmetric Pictet-Spengler Cyclization"
+    },
     "10.1021/acs.orglett.6c03221": {
       "doi": "10.1021/acs.orglett.6c03221",
       "posted_at": "2026-09-04T18:06:13+00:00",
@@ -5987,6 +6038,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Accessing P-Chiral Diphosphines through Nickel-Catalyzed Asymmetric Hydrophosphination"
+    },
+    "10.1021/acs.orglett.6c03439": {
+      "doi": "10.1021/acs.orglett.6c03439",
+      "posted_at": "2026-09-05T02:56:27+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788576987.511859",
+      "summary_character_count": 134,
+      "summary_japanese": "Cu/bisoxazoline触媒によるFriedel-Craftsアルキル化の脱対称化で、中心炭素不斉を伴うpyramidalized N-N軸不斉を遠隔構築した。X線結晶構造解析で窒素中心の平面性から20°の偏位を確認し、熱的ラセミ化試験で高い配置安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Remote Generation of Pyramidalized N-N Axial Chirality via a Copper-Catalyzed Friedel-Crafts Reaction"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
