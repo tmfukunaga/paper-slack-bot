@@ -28,7 +28,7 @@
     "2026-09-03": 25,
     "2026-09-04": 30,
     "2026-09-05": 40,
-    "2026-09-06": 5
+    "2026-09-06": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2629,6 +2629,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
+    },
+    "10.1002/anie.7195803": {
+      "doi": "10.1002/anie.7195803",
+      "posted_at": "2026-09-05T19:55:58+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788638158.243259",
+      "summary_character_count": 118,
+      "summary_japanese": "動的組合せライブラリーのimineをhost結合で組成増幅し、一次元NMRで定量する選抜法を開発した。ethyl pillar[5]areneに対し最大(2.2 ± 0.1) × 10^3 M^-1の結合定数をもつguestを同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Host-Directed Discovery of Dynamic-Covalent Guests From Dynamic Combinatorial Libraries"
     },
     "10.1002/anie.7256115": {
       "doi": "10.1002/anie.7256115",
@@ -8750,6 +8763,19 @@
       "summary_used_fallback": false,
       "title": "Astrocytes amplify cortical dopamine to encode winning memory in male mice"
     },
+    "10.1038/s41467-026-77096-w": {
+      "doi": "10.1038/s41467-026-77096-w",
+      "posted_at": "2026-09-05T19:56:02+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788638162.919749",
+      "summary_character_count": 117,
+      "summary_japanese": "3次元キラル構造へLissajous figureをねじった光で、carvoneの一方のエナンチオマーを選択励起する直接不斉光化学をab-initio計算で示し、励起エナンチオ選択性は約30%で円偏光法の約0.01%から3桁向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Shaping light in 3D for direct asymmetric photochemistry: a 1000-fold enantioselectivity enhancement"
+    },
     "10.1038/s41467-026-77101-2": {
       "doi": "10.1038/s41467-026-77101-2",
       "posted_at": "2026-09-03T11:15:26+00:00",
@@ -8814,6 +8840,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ionic gel-mediated synthesis of nanostructured chiral 2D halide perovskites with amplified chiroptical response"
+    },
+    "10.1038/s41467-026-77449-5": {
+      "doi": "10.1038/s41467-026-77449-5",
+      "posted_at": "2026-09-05T19:56:07+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788638167.071979",
+      "summary_character_count": 115,
+      "summary_japanese": "R/S-MBA+を含む混次元Sn系ペロブスカイトNIR-Spin-LEDで、キラル低次元相とFA0.9Cs0.1SnI3発光ドメインを組み合わせ、905 nmの円偏光EL、EQE 7.8%、gEL 5.5 × 10−2を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "High-performance near-infrared circularly polarized electroluminescence with an emission peak beyond 900 nm"
     },
     "10.1038/s41528-026-00634-5": {
       "doi": "10.1038/s41528-026-00634-5",
@@ -11283,6 +11322,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromaticity in Polycyclic Aromatic Hydrocarbons (PAHs): A Comparative Analysis Using Magnetic, Geometric, and Electronic Criteria"
+    },
+    "10.26434/chemrxiv.15008308/v1": {
+      "doi": "10.26434/chemrxiv.15008308/v1",
+      "posted_at": "2026-09-05T19:56:18+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788638178.192169",
+      "summary_character_count": 122,
+      "summary_japanese": "pillararenes等を含む300超のhost–guest系で終点自由エネルギー計算を比較し、3Tサンプリングが予測を改善した。MM/GBSA 2 / 26は精度と計算費用の良好な均衡を示し、hostの電荷・サイズに基づく手法選択を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Learning Multiscale Computational Strategies for Supramolecular Recognition"
+    },
+    "10.26434/chemrxiv.15008331/v1": {
+      "doi": "10.26434/chemrxiv.15008331/v1",
+      "posted_at": "2026-09-05T19:56:11+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788638171.048489",
+      "summary_character_count": 132,
+      "summary_japanese": "ball-millingでPd6L14 cageを配位子交換した無秩序PdxL1y状態へ変換し、溶解後に通常経路では得られない準安定t-Pd6L14を生成した。同様にPd12L28からtriply interlocked [Pd3L22]2 complexも得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Mechanochemical Reset for Coordination Self-Assembly."
     },
     "10.26434/chemrxiv.15008344/v1": {
       "doi": "10.26434/chemrxiv.15008344/v1",
