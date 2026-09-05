@@ -27,7 +27,7 @@
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
-    "2026-09-05": 35
+    "2026-09-05": 40
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1160,6 +1160,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Light-Driven Out-of-Equilibrium Helicity Control in a Diarylethene-Helicene Photosystem"
+    },
+    "10.1002/ange.5423925": {
+      "doi": "10.1002/ange.5423925",
+      "posted_at": "2026-09-05T12:22:31+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788610951.756559",
+      "summary_character_count": 104,
+      "summary_japanese": "連続する五員環を2個または4個含む非交互PAHを合成し、酸性条件で軸不斉二量体AC1・AC2を得た。AC2b薄膜は1 Vで最大300 nA、両エナンチオマーで68.7%および−51.4%のスピン偏極を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Axially Chiral Nonalternant Polycyclic Aromatic Hydrocarbon With Consecutive Pentagons Exhibiting Large Spin-Polarized Current"
     },
     "10.1002/ange.5451795": {
       "doi": "10.1002/ange.5451795",
@@ -2485,6 +2498,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Local Antiaromaticity-Mediated Chiral Donor-Acceptor Strategy for Efficient Circularly Polarized Luminescence"
+    },
+    "10.1002/anie.6788295": {
+      "doi": "10.1002/anie.6788295",
+      "posted_at": "2026-09-05T12:22:27+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788610947.473429",
+      "summary_character_count": 305,
+      "summary_japanese": "In aqueous microdroplets dispersed in fluorous oil, water-soluble deep cavitands self-assembled at the water–oil interface. Indicator dyes enabled optical monitoring of host–guest recognition, while droplet-merging experiments distinguished cavity-based molecular recognition from aggregative recognition.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Self-Assembly and Molecular Recognition by Synthetic Receptors at the Oil-Water Interface in Aqueous Microdroplets"
     },
     "10.1002/anie.6881077": {
       "doi": "10.1002/anie.6881077",
@@ -4000,6 +4026,19 @@
       "summary_used_fallback": false,
       "title": "Vortical Differential Scattering of Spatio-Temporal Optical Vortex With Arbitrarily Oriented Orbital Angular Momentum by Chiral Spherical Particle"
     },
+    "10.1002/nap2.70289": {
+      "doi": "10.1002/nap2.70289",
+      "posted_at": "2026-09-05T12:22:48+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788610968.781809",
+      "summary_character_count": 120,
+      "summary_japanese": "キラル分析物を充填した異方性プラズモニックslot arrayに傾斜直線偏光2本を照射し、反射差で分子キラリティーを検出するCLAPSを理論提案した。反射モデルと数値計算で、キラル情報を担う交差偏光反射が同偏光応答で変調されることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing Molecular Chirality via Linear Dichroism of Molecule-Loaded Anisotropic Plasmonic Slots"
+    },
     "10.1002/open.70291": {
       "doi": "10.1002/open.70291",
       "posted_at": "2026-08-28T15:23:52+00:00",
@@ -4350,6 +4389,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultra-Tough Hybrid Supramolecular Gelatin Hydrogels"
+    },
+    "10.1002/smll.75471": {
+      "doi": "10.1002/smll.75471",
+      "posted_at": "2026-09-05T12:22:37+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788610957.337429",
+      "summary_character_count": 134,
+      "summary_japanese": "透明導電性酸化物基板上に、[AuCl4]−とcysteineの相互作用および電気化学還元で円二色性を示す階層的chiral Au/Au coral構造を作製した。Au coral単独よりSERSを増強し、L-・D-phenylalanineで異なるSERS応答を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Gold Nanostructures on Gold-Coral-Coated Transparent Conductive Oxide Substrates via [AuCl 4 ] - and Cysteine Interactions for Enhanced Chiral Sensing"
     },
     "10.1002/smll.75575": {
       "doi": "10.1002/smll.75575",
@@ -5447,6 +5499,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Copper-Catalyzed Desymmetrization toward Planar Chiral Disubstituted [2.2]Paracyclophanes: A Route to Solid-State CPL Materials"
+    },
+    "10.1021/acs.jpca.6c01773": {
+      "doi": "10.1021/acs.jpca.6c01773",
+      "posted_at": "2026-09-05T12:22:41+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788610961.843379",
+      "summary_character_count": 107,
+      "summary_japanese": "β-propiolactone誘導体のVROAを原点独立CC法で初めて計算し、CC2/CCSDと基底関数を比較した。3位配置がスペクトルを支配し、約1130 cm-1の強い信号が3位立体化学の識別に有用と示された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Vibrational Raman Optical Activity of β-Propiolactone Derivatives Computed with Coupled-Cluster Theory"
     },
     "10.1021/acs.jpca.6c04444": {
       "doi": "10.1021/acs.jpca.6c04444",
