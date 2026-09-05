@@ -27,7 +27,7 @@
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
-    "2026-09-05": 20
+    "2026-09-05": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5279,6 +5279,32 @@
       "summary_used_fallback": false,
       "title": "Chiral Iridium(III)Microcrystals with Mechano-TunableCircularly Polarized Luminescence"
     },
+    "10.1021/acs.inorgchem.6c03252": {
+      "doi": "10.1021/acs.inorgchem.6c03252",
+      "posted_at": "2026-09-05T04:30:43+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788582642.995199",
+      "summary_character_count": 107,
+      "summary_japanese": "キラルCu6(PTLT)6エナンチオマー群の溶液光物性を系統的に調べ、凝集誘起発光と完全な鏡像関係のCotton効果を伴うCDを確認した。凝集はCDシグナルを著しく減衰させ、細胞毒性試験で良好な生体適合性も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aggregation-Dependent Luminescence and Chiroptical Properties of Chiral Cu6(PTLT)6 Clusters"
+    },
+    "10.1021/acs.inorgchem.6c03450": {
+      "doi": "10.1021/acs.inorgchem.6c03450",
+      "posted_at": "2026-09-05T04:30:52+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788582652.513589",
+      "summary_character_count": 104,
+      "summary_japanese": "SO42−を鋳型にacylhydrazone-based macrocyclesを最大90%収率で合成し、M4·Cl−は競合陰イオン存在下でも水相SO42−を90%以上抽出・複数回放出して再利用可能であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Acylhydrazone-Based Macrocycles for Aqueous Sulfate Extraction"
+    },
     "10.1021/acs.inorgchem.6c03618": {
       "doi": "10.1021/acs.inorgchem.6c03618",
       "posted_at": "2026-08-22T09:24:41+00:00",
@@ -5987,6 +6013,19 @@
       "summary_used_fallback": true,
       "title": "Enantioselective Synthesis of gem -Difluorinated Spirobenzazepinoindoles by Chiral Phosphoric Acid (CPA)-Catalyzed Asymmetric Pictet-Spengler Cyclization"
     },
+    "10.1021/acs.orglett.6c03219": {
+      "doi": "10.1021/acs.orglett.6c03219",
+      "posted_at": "2026-09-05T04:30:34+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788582634.251109",
+      "summary_character_count": 130,
+      "summary_japanese": "Zn(CN)2をシアニド源とするPd触媒不斉環化・シアノ化により、propargylic ester-tethered 1,6-enyneからalkenyl nitrile含有キラルaza[3.1.0]bicycleを良好な収率・高エナンチオ選択性で構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pd-Catalyzed Asymmetric Bicyclization/Cyanation of Propargylic Esters-Alkenes: Construction of Chiral Aza[3.1.0]bicycles Containing Alkenyl Nitriles"
+    },
     "10.1021/acs.orglett.6c03221": {
       "doi": "10.1021/acs.orglett.6c03221",
       "posted_at": "2026-09-04T18:06:13+00:00",
@@ -6168,6 +6207,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Uniform Helical 3D Microflowers from Single-Component Hierarchical Assembly"
+    },
+    "10.1021/acsami.6c12132": {
+      "doi": "10.1021/acsami.6c12132",
+      "posted_at": "2026-09-05T04:30:48+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788582648.907329",
+      "summary_character_count": 408,
+      "summary_japanese": "A sequential electrophilic phosphination/sulfur-trapping strategy afforded a ten-ring-fused N,P-codoped nanographene. Chemoselective P=S/P=O conversion tuned its excited-state absorption without changing the fused carbon–nitrogen backbone. The P=S derivative showed stronger excited-state and reverse saturable absorption than the P=O analogue, while the two compounds had comparable excited-state lifetimes.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Skeletal Phosphorus Editing in Large N,P-Codoped Fused Nanographenes Enables Tunable Excited-State Absorption"
     },
     "10.1021/acsami.6c12507": {
       "doi": "10.1021/acsami.6c12507",
@@ -7006,6 +7058,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Quantum-Cutting"
+    },
+    "10.1021/jacs.6c08110": {
+      "doi": "10.1021/jacs.6c08110",
+      "posted_at": "2026-09-05T04:30:38+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788582638.692019",
+      "summary_character_count": 92,
+      "summary_japanese": "中心Nと縁Sを導入したN,S-Triを設計・合成し、低温走査プローブ顕微鏡でAu(111)上の吸着位置または局所静電ゲートにより、中性・カチオン状態が可逆に切り替わることを可視化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dual-Site Engineering Unlocks Spin Modulation and Local Field-Controlled Charge Switching in Triangulenes"
     },
     "10.1021/jacs.6c08244": {
       "doi": "10.1021/jacs.6c08244",
