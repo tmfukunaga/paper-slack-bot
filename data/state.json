@@ -28,7 +28,7 @@
     "2026-09-03": 25,
     "2026-09-04": 30,
     "2026-09-05": 40,
-    "2026-09-06": 10
+    "2026-09-06": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4248,6 +4248,19 @@
       "summary_used_fallback": false,
       "title": "Study of a Novel Thermoviscosifying Polymers Fracturing Fluid Based on Supramolecular Self-Assembly"
     },
+    "10.1002/slct.74268": {
+      "doi": "10.1002/slct.74268",
+      "posted_at": "2026-09-05T22:38:53+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788647933.621719",
+      "summary_character_count": 134,
+      "summary_japanese": "1-aryl-5-aminopyrazolesをMyrtenalと無触媒マイクロ波反応させ、chiral nopinane-annelated pyrazolo[3,4-b]pyridinesを31–68%収率で合成し、分光法、DFT、単結晶X線解析で構造を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Nopinane-Annelated Pyrazolo[3,4- b ]pyridines From 5-Aminopyrazoles and Myrtenal"
+    },
     "10.1002/smll.74522": {
       "doi": "10.1002/smll.74522",
       "posted_at": "2026-07-24T03:18:23+00:00",
@@ -4754,6 +4767,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral resolution of profoxydim: Implications for herbicidal efficacy and ecotoxicological assessment"
+    },
+    "10.1016/j.gresc.2026.08.003": {
+      "doi": "10.1016/j.gresc.2026.08.003",
+      "posted_at": "2026-09-05T22:38:41+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788647921.081309",
+      "summary_character_count": 107,
+      "summary_japanese": "pillar[5]arene認識部位をMOFへ組み込んだEtP5-MOF-2により、柔軟なアルキル鎖含有分子を捕捉・配向し、48種の構造決定を実現した。粗反応混合物由来生成物の直接解析や未知化合物同定にも適用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular docking: Taming flexible alkyl chains for crystallography via active molecular recognition"
     },
     "10.1016/j.heliyon.2026.e45236": {
       "doi": "10.1016/j.heliyon.2026.e45236",
@@ -7684,6 +7710,19 @@
       "summary_used_fallback": false,
       "title": "Overriding IntrinsicSite-Selectivity in Nickel(II)-CatalyzedEnantioselective Methylene C(sp3)-H Alkynylation"
     },
+    "10.1021/jacs.6c11390": {
+      "doi": "10.1021/jacs.6c11390",
+      "posted_at": "2026-09-05T22:38:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788647937.978879",
+      "summary_character_count": 117,
+      "summary_japanese": "Alkynyl diazoketonesとanilinesの有機触媒的Wolff転位で、キラル二官能性触媒とLewis酸添加剤を調節し、allenamidesとpropargylamidesを高い位置・エナンチオ選択性で分岐合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective and Divergent Synthesis of Propargylamides and Allenamides from Alkynyl Diazoketones and Anilines via Organocatalytic Wolff Rearrangements"
+    },
     "10.1021/jacs.6c11478": {
       "doi": "10.1021/jacs.6c11478",
       "posted_at": "2026-09-04T16:22:34+00:00",
@@ -9087,6 +9126,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Catalytic Enantioselective Synthesis of DMAP-based Inherently Chiral Macrocycles"
+    },
+    "10.1055/a-2953-4846": {
+      "doi": "10.1055/a-2953-4846",
+      "posted_at": "2026-09-05T22:38:45+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788647925.511899",
+      "summary_character_count": 115,
+      "summary_japanese": "antiaromatic indeno[2,1-c]fluoreneとC/U字型π拡張体・ヘテロ環類縁体の合成法を概説し、antiaromaticity、helicity、open-shell性、半導体特性の調整可能性を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthetic Approaches to Conjugated Polycyclic Hydrocarbons Featuring the Antiaromatic Indeno[2,1-c]fluorene Scaffold"
     },
     "10.1063/5.0325213": {
       "doi": "10.1063/5.0325213",
@@ -11335,6 +11387,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Learning Multiscale Computational Strategies for Supramolecular Recognition"
+    },
+    "10.26434/chemrxiv.15008327/v1": {
+      "doi": "10.26434/chemrxiv.15008327/v1",
+      "posted_at": "2026-09-05T22:38:50+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788647929.963309",
+      "summary_character_count": 130,
+      "summary_japanese": "Pd系配位ケージで補助配位子窒素上の置換基を系統的に変え、Pd結合Im基の回転自由度とN–Pd–N角を調整した。ethylenediamineではカプセル、tetraethylethylenediamineではチューブが優勢となり、ゲスト包接も平衡を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ancillary Ligand Engineering Controls Supramolecular Host Architecture"
     },
     "10.26434/chemrxiv.15008331/v1": {
       "doi": "10.26434/chemrxiv.15008331/v1",
