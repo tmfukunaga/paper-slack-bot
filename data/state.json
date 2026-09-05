@@ -27,7 +27,7 @@
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
-    "2026-09-05": 25
+    "2026-09-05": 30
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5630,6 +5630,19 @@
       "summary_used_fallback": false,
       "title": "Inhomogeneous Stress Enabled by a Chiral Heterostructure for Strain Engineering in Freestanding Poly(lactic acid) Bulk"
     },
+    "10.1021/acs.macromol.6c01803": {
+      "doi": "10.1021/acs.macromol.6c01803",
+      "posted_at": "2026-09-05T07:26:09+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788593169.819779",
+      "summary_character_count": 117,
+      "summary_japanese": "racemic Phe NCAsのROPISAで、重合完了後数日にわたり自己集合する系を構築した。polyPheはintrachain β-turnからintermolecular β-sheetへ段階的に転移し、ナノ構造が成長した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Temporally Decoupled Ring-Opening Polymerization of N -Carboxyanhydrides-Induced Self-Assembly"
+    },
     "10.1021/acs.nanolett.6c00913": {
       "doi": "10.1021/acs.nanolett.6c00913",
       "posted_at": "2026-07-23T00:03:42+00:00",
@@ -5720,6 +5733,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Near-Perfect Chirality and Giant Spin-Orbit Conversion in a Single Plasmonic Cavity"
+    },
+    "10.1021/acs.nanolett.6c03195": {
+      "doi": "10.1021/acs.nanolett.6c03195",
+      "posted_at": "2026-09-05T07:26:06+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788593166.423039",
+      "summary_character_count": 109,
+      "summary_japanese": "Trip-PhzのPb(111)上自己集合でzigzag端をもつ二原子Kagome格子を形成し、STMとtight-binding計算により、grapheneに対応するZak位相由来のトポロジカル端状態を直接観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice"
     },
     "10.1021/acs.nanolett.6c03326": {
       "doi": "10.1021/acs.nanolett.6c03326",
@@ -7709,6 +7735,19 @@
       "summary_used_fallback": false,
       "title": "Tetrahedral M II 4 L 6 ( M = Fe, Zn) Cages Equipped with Walls Featuring Antiaromatic Pentalene Motifs"
     },
+    "10.1021/jacsau.6c00809": {
+      "doi": "10.1021/jacsau.6c00809",
+      "posted_at": "2026-09-05T07:26:13+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788593173.734889",
+      "summary_character_count": 126,
+      "summary_japanese": "窒素Lewis塩基が受容するhalogen・chalcogen・pnictogen・tetrel結合を結晶構造解析、coupled-cluster計算、SAPTで比較し、重元素ドナーで相互作用が多く短距離化し、立体障害が角度選好を支配することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nitrogen in Supramolecular Chemistry: Understanding the Pervasive Role as Acceptor of Halogen, Chalcogen, Pnictogen and Tetrel Bonds"
+    },
     "10.1021/jacsau.6c01002": {
       "doi": "10.1021/jacsau.6c01002",
       "posted_at": "2026-08-19T18:31:52+00:00",
@@ -8579,6 +8618,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Isotope-labeled growth histories reveal persistent chirality in individual carbon nanotubes despite catalyst evolution"
+    },
+    "10.1038/s41467-026-77178-9": {
+      "doi": "10.1038/s41467-026-77178-9",
+      "posted_at": "2026-09-05T07:26:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788593183.595229",
+      "summary_character_count": 119,
+      "summary_japanese": "遍歴型van der Waals強磁性体Fe3GeTe2で、パルス光のエネルギー・フルエンス・偏光により磁性を制御し、2.3 eV光で保磁力を低減した。強励起ではヘリシティ依存的に面外磁化を可逆に抑制・回復し、多値不揮発メモリを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photon-driven magnetization switching in Fe3GeTe2 enables programmable, multilevel magnetic memory"
     },
     "10.1038/s41467-026-77208-6": {
       "doi": "10.1038/s41467-026-77208-6",
@@ -11503,6 +11555,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Two New Indole Derivatives from the Beibu Gulf Coral-Derived Fungus Pestalotiopsis microspora GXIMD 02530"
+    },
+    "10.3390/mi17091055": {
+      "doi": "10.3390/mi17091055",
+      "posted_at": "2026-09-05T07:26:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788593178.922179",
+      "summary_character_count": 115,
+      "summary_japanese": "3次元SIW電力分配器とSIW twist垂直遷移構造で4本の1×4 PHAサブアレイを接続した4×4円偏波ヘリカルアンテナアレイを設計・試作し、11 GHzで最大利得18.44 dBi、測定とシミュレーションの良好な一致を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Three-Dimensional Helical Antenna Array with Circular Polarization"
     },
     "10.3390/molecules31142526": {
       "doi": "10.3390/molecules31142526",
