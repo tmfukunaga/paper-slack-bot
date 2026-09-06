@@ -27,7 +27,8 @@
     "2026-09-03": 25,
     "2026-09-04": 30,
     "2026-09-05": 40,
-    "2026-09-06": 22
+    "2026-09-06": 22,
+    "2026-09-07": 1
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -8943,6 +8944,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "High-performance near-infrared circularly polarized electroluminescence with an emission peak beyond 900 nm"
+    },
+    "10.1038/s41467-026-77575-0": {
+      "doi": "10.1038/s41467-026-77575-0",
+      "posted_at": "2026-09-06T15:29:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788708553.995629",
+      "summary_character_count": 107,
+      "summary_japanese": "n型PbTeで溶質誘起格子軟化によりPeierls-Nabarro応力を操作し、転位とSb6O13ナノ包有物で熱輸送を抑制した。Sbドーピングでpower factorも向上し、723 KでZT≈2.2を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Manipulating Peierls-Nabarro stress to realize extraordinary thermoelectric performance in n-type PbTe"
     },
     "10.1038/s41528-026-00634-5": {
       "doi": "10.1038/s41528-026-00634-5",
