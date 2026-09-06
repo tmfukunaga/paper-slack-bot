@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-05": 16,
     "2026-08-06": 40,
     "2026-08-07": 27,
     "2026-08-08": 29,
@@ -28,7 +27,7 @@
     "2026-09-03": 25,
     "2026-09-04": 30,
     "2026-09-05": 40,
-    "2026-09-06": 15
+    "2026-09-06": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1726,6 +1725,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of Chiral Bowl-Shaped N -Heterocycles via Pd-Catalyzed Enantioselective Intramolecular C-H Arylation"
+    },
+    "10.1002/anie.1980531": {
+      "doi": "10.1002/anie.1980531",
+      "posted_at": "2026-09-06T02:55:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788663323.440189",
+      "summary_character_count": 133,
+      "summary_japanese": "キラルJosiphos配位Co触媒により、配向基を使わずaryl・heteroaryl・alkenyl halideを脂肪族aldehydeへ高エナンチオ選択的に付加した。低触媒量でスケール可能で、キラルamino aldehydeにも高ジアステレオ選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Enantioselective Addition of Aryl, Heteroaryl, and Alkenyl Halides to Aliphatic Aldehydes"
     },
     "10.1002/anie.202524631": {
       "doi": "10.1002/anie.202524631",
@@ -4014,6 +4026,19 @@
       "summary_used_fallback": false,
       "title": "Decoupling Charge Transport and Chiral Emission in Narrowband CP-OLEDs via Synergistic Chiral Supramolecular Assembly and Interlayer Sensitization"
     },
+    "10.1002/lpor.71850": {
+      "doi": "10.1002/lpor.71850",
+      "posted_at": "2026-09-06T02:55:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788663319.265169",
+      "summary_character_count": 98,
+      "summary_japanese": "C4対称共鳴メタサーフェスのΓ点縮退に3Dキラル摂動を加え、縮退直交偏光間に±π/2の位相差を導入して強いキラル選択性を示すquasi-BICを実現し、3Dプリント誘電体メタサーフェスで実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Quasi-BICs Stemming From a Γ-point Degeneracy"
+    },
     "10.1002/lpor.71867": {
       "doi": "10.1002/lpor.71867",
       "posted_at": "2026-09-05T15:15:01+00:00",
@@ -4754,6 +4779,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhanced 3D-GRID radiotherapy on helical tomotherapy via personalized geometric optimization: A comparative study with IMRT and VMAT"
+    },
+    "10.1016/j.engstruct.2026.123665": {
+      "doi": "10.1016/j.engstruct.2026.123665",
+      "posted_at": "2026-09-06T02:55:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788663327.378659",
+      "summary_character_count": 135,
+      "summary_japanese": "選択的レーザー溶融したM300 maraging steel製薄肉chiral格子を準静的・爆風圧縮で評価し、実験で検証したLS-DYNAモデルにより6トポロジーを比較した。HXは両条件で安定した回転支配崩壊を示し、SEAは686.0および660.0 J/kgであった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Energy-absorption performance of M300 chiral topologies under quasi-static and blast-induced compression"
     },
     "10.1016/j.envpol.2026.128817": {
       "doi": "10.1016/j.envpol.2026.128817",
@@ -11544,6 +11582,19 @@
       "summary_used_fallback": false,
       "title": "Recent advances in photodynamic therapy systems based on pillar[n]arene host-guest chemistry"
     },
+    "10.3389/fmicb.2026.1908591": {
+      "doi": "10.3389/fmicb.2026.1908591",
+      "posted_at": "2026-09-06T02:55:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788663315.431959",
+      "summary_character_count": 89,
+      "summary_japanese": "quercetinとZnの配位自己集合でQct-Zn NPsを作製し、MRSA臨床株への迅速な殺菌、バイオフィルム抑制を示した。マウス全身感染で菌量・炎症を低減し生存を改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-assembled quercetin-zinc supramolecular nanoparticles exhibit strong antibacterial and anti-biofilm activity against methicillin-resistant Staphylococcus aureus"
+    },
     "10.3389/fonc.2026.1883024": {
       "doi": "10.3389/fonc.2026.1883024",
       "posted_at": "2026-07-21T18:02:50+00:00",
@@ -11673,6 +11724,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Geometric Frequency Mixing in Helical Waveguides via a One-Dimensional Covariant Helmholtz Model: Gauge Reduction and Spectral Splitting"
+    },
+    "10.3390/biomimetics11090633": {
+      "doi": "10.3390/biomimetics11090633",
+      "posted_at": "2026-09-06T02:55:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788663311.038519",
+      "summary_character_count": 107,
+      "summary_japanese": "魚鱗の階層構造に着想を得た重なり合うらせん複合構造を多材料3D印刷で作製し、三点曲げ試験で評価した。剛体バルク比で見かけの破壊靱性は60.4%、吸収エネルギーは157.5%向上し、最適線形らせん角は19°であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Toughening Behavior Investigation of Fish Scale-Inspired Composite Structure with Overlapping Helical Architecture"
     },
     "10.3390/bios16080411": {
       "doi": "10.3390/bios16080411",
