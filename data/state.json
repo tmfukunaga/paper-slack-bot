@@ -27,7 +27,7 @@
     "2026-09-03": 25,
     "2026-09-04": 30,
     "2026-09-05": 40,
-    "2026-09-06": 20
+    "2026-09-06": 22
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3856,6 +3856,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Coated and Immobilized Polysaccharides-Based Stationary Phases for Planar Metallocenes Enantioseparation in Liquid Chromatography"
+    },
+    "10.1002/elps.70149": {
+      "doi": "10.1002/elps.70149",
+      "posted_at": "2026-09-06T04:40:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788669610.267459",
+      "summary_character_count": 127,
+      "summary_japanese": "インターネット入手のキラル合成cannabinoids 11種をSFCでキラル・アキラル分離し、HPLC旋光度検出で2試料がラセミ体と判定された。両ラセミ体の同時ベースライン光学分割と、diol-bonded固定相によるアキラルスクリーニング法を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral/Achiral Separation of Novel Synthetic Cannabinoids in Sub/Supercritical Fluid Chromatography"
     },
     "10.1002/hlca.70096": {
       "doi": "10.1002/hlca.70096",
@@ -10425,6 +10438,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Flat-band localization and chiral texture formation in magnonic crystals with graded Dzyaloshinskii-Moriya interaction"
+    },
+    "10.2174/0129504023485704260820173552": {
+      "doi": "10.2174/0129504023485704260820173552",
+      "posted_at": "2026-09-06T04:40:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788669614.870799",
+      "summary_character_count": 93,
+      "summary_japanese": "キラルクロマトグラフィーにおける水素結合、Van der Waals力、立体効果に基づくエナンチオ分離機構を概説し、キラル固定相、溶媒極性、温度、移動相組成が分離に及ぼす影響を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Understanding Chiral Chromatography: With Focus on Mechanism and Factors Influencing Enantioseparation"
     },
     "10.23960/jitet.v14i3.10711": {
       "doi": "10.23960/jitet.v14i3.10711",
