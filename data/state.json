@@ -28,7 +28,7 @@
     "2026-09-04": 30,
     "2026-09-05": 40,
     "2026-09-06": 22,
-    "2026-09-07": 1
+    "2026-09-07": 6
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1440,6 +1440,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule"
+    },
+    "10.1002/ange.9254918": {
+      "doi": "10.1002/ange.9254918",
+      "posted_at": "2026-09-06T20:00:17+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788724817.267109",
+      "summary_character_count": 122,
+      "summary_japanese": "resorcin[4]arene系cavitandにstilbeneとimidazoleを組み込み、キラルカルボン酸の外壁結合と365/254 nm光異性化により、キラリティーの誘起・保持・消去、ゲスト放出、光学信号の読出し・書込みを制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Light-Gated Chirality in a Supramolecular Cavitand"
     },
     "10.1002/ange.9296585": {
       "doi": "10.1002/ange.9296585",
@@ -4637,6 +4650,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Structure and conformational landscape of an unprecedented acyclic pentakis(cyclodiphosphazane)"
+    },
+    "10.1007/s13139-026-01067-8": {
+      "doi": "10.1007/s13139-026-01067-8",
+      "posted_at": "2026-09-06T20:00:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788724834.101029",
+      "summary_character_count": 111,
+      "summary_japanese": "臨床的に確定したNPSLE患者30例の99mTc-ECD脳SPECTをDLソフトBTXBrainとQ.Brainで再解析し、540件の局所・半球評価を比較した。両者は領域特異的な灌流指標の乖離を示し、直接互換ではなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Deep Learning for Quantitative Perfusion 99mTc-ECD SPECT in Clinically Confirmed Neuropsychiatric Systemic Lupus Erythematosus: Comparison with Established Software"
     },
     "10.1007/s40263-026-01317-5": {
       "doi": "10.1007/s40263-026-01317-5",
@@ -8893,6 +8919,19 @@
       "summary_used_fallback": false,
       "title": "Photon-driven magnetization switching in Fe3GeTe2 enables programmable, multilevel magnetic memory"
     },
+    "10.1038/s41467-026-77184-x": {
+      "doi": "10.1038/s41467-026-77184-x",
+      "posted_at": "2026-09-06T20:00:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788724839.055749",
+      "summary_character_count": 120,
+      "summary_japanese": "polycyclic phenolsと2-alkynylphenolsの有機触媒的分子間環化付加により、E字型double helicene類縁体を優れた化学・立体選択性で合成した。DFT計算で生成物の配座安定性と選択性制御機構を解明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereoselective synthesis of E-shaped double helicene analogues via organocatalytic intermolecular cycloaddition"
+    },
     "10.1038/s41467-026-77208-6": {
       "doi": "10.1038/s41467-026-77208-6",
       "posted_at": "2026-08-28T23:52:05+00:00",
@@ -8945,6 +8984,19 @@
       "summary_used_fallback": false,
       "title": "High-performance near-infrared circularly polarized electroluminescence with an emission peak beyond 900 nm"
     },
+    "10.1038/s41467-026-77478-0": {
+      "doi": "10.1038/s41467-026-77478-0",
+      "posted_at": "2026-09-06T20:00:21+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788724821.728039",
+      "summary_character_count": 95,
+      "summary_japanese": "ねじれた220 nm厚MoOCl2ホモ構造で層間LD-LB干渉を設計し、幾何学的キラリティーによらずCD 0.9を実測した。剥離・再積層でねじれ角を変え、CDを−0.9～0.9に再構成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Observation of maximum circular dichroism in twisted hyperbolic van der Waals homostructures"
+    },
     "10.1038/s41467-026-77575-0": {
       "doi": "10.1038/s41467-026-77575-0",
       "posted_at": "2026-09-06T15:29:14+00:00",
@@ -8957,6 +9009,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Manipulating Peierls-Nabarro stress to realize extraordinary thermoelectric performance in n-type PbTe"
+    },
+    "10.1038/s41524-026-02311-7": {
+      "doi": "10.1038/s41524-026-02311-7",
+      "posted_at": "2026-09-06T20:00:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788724827.570159",
+      "summary_character_count": 130,
+      "summary_japanese": "ferroelectric/dielectric超格子のferroelectric bubble domainsで、原子論シミュレーションにより、エピタキシャルひずみでchiral phonon modeが軟化する非キラル‐キラル転移とトポロジー変化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral soft mode transition driven by strain in ferroelectric bubble domains"
     },
     "10.1038/s41528-026-00634-5": {
       "doi": "10.1038/s41528-026-00634-5",
