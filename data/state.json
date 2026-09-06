@@ -28,7 +28,7 @@
     "2026-09-04": 30,
     "2026-09-05": 40,
     "2026-09-06": 22,
-    "2026-09-07": 6
+    "2026-09-07": 7
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -12518,6 +12518,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality in Finance"
+    },
+    "10.5525/gla.researchdata.2411": {
+      "doi": "10.5525/gla.researchdata.2411",
+      "posted_at": "2026-09-06T22:42:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788734520.722439",
+      "summary_character_count": 141,
+      "summary_japanese": "This dataset was used to generate the figures for a paper on spatio-spectral vector light created through optical activity in rubidium vapor.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Spatio-spectral vector light created by optical activity in rubidium vapor"
     },
     "10.59345/sjrir.v4i1.323": {
       "doi": "10.59345/sjrir.v4i1.323",
