@@ -27,7 +27,8 @@
     "2026-09-04": 30,
     "2026-09-05": 40,
     "2026-09-06": 22,
-    "2026-09-07": 7
+    "2026-09-07": 7,
+    "2026-09-08": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -5799,6 +5800,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Assembly-Driven Emergent Chirality with Simultaneous Induction and Ligand Inversion in Atomic Clusters"
     },
+    "10.1021/acs.jpclett.6c02215": {
+      "doi": "10.1021/acs.jpclett.6c02215",
+      "posted_at": "2026-09-07T18:59:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788807567.501099",
+      "summary_character_count": 113,
+      "summary_japanese": "集束Laguerre-Gaussian光渦を用いる非傍軸ROA理論を構築し、直線偏光でも等方的なキラル分子集団からトポロジカル電荷l依存の信号が生じることを示した。軌道角運動量をキラルRaman分光の制御因子として位置付けた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Twisted Raman: Orbital Angular Momentum Control of Raman Optical Activity"
+    },
     "10.1021/acs.jpclett.6c02333": {
       "doi": "10.1021/acs.jpclett.6c02333",
       "posted_at": "2026-08-22T06:36:10+00:00",
@@ -5967,6 +5981,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Exploring theGeometry and Interface Effects in Correlationbetween Steady-State and Ultrafast Responses of Chiral Plasmonic Nanoparticles"
+    },
+    "10.1021/acs.nanolett.6c02286": {
+      "doi": "10.1021/acs.nanolett.6c02286",
+      "posted_at": "2026-09-07T18:59:21+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788807561.693049",
+      "summary_character_count": 132,
+      "summary_japanese": "Magnetospirillum gryphiswaldense MSR-1由来Fe3O4 magnetosomeの自然・磁気円二色性を測定し、細胞内ではキラル光学応答を示すが単離粒子では消失し、enantiopure aspartic acid修飾で再発現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral by Nature: Chiroptical Activity in Fe3O4 Magnetic Nanoparticles from Bacterial Biomineralization"
     },
     "10.1021/acs.nanolett.6c02584": {
       "doi": "10.1021/acs.nanolett.6c02584",
@@ -9048,6 +9075,19 @@
       "summary_used_fallback": false,
       "title": "Photon subtraction using a three-level emitter coupled to a chiral waveguide"
     },
+    "10.1038/s41535-026-00940-1": {
+      "doi": "10.1038/s41535-026-00940-1",
+      "posted_at": "2026-09-07T18:59:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788807581.898479",
+      "summary_character_count": 121,
+      "summary_japanese": "磁性トポロジカル絶縁体薄膜でNieh-Yan作用に由来する表面フォノンHall粘性を解析し、表裏面磁化が平行なら音響フォノンはカイラル、反平行なら非相反となることを示した。熱Hall効果とmagnon-polaronsの実験的兆候も議論した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Surface phonon Hall viscosity induced phonon chirality and nonreciprocity in magnetic topological insulator films"
+    },
     "10.1038/s41557-026-02231-5": {
       "doi": "10.1038/s41557-026-02231-5",
       "posted_at": "2026-08-20T15:31:18+00:00",
@@ -9814,6 +9854,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetar field dynamics driven by chiral anomalies without magnetic helicity"
+    },
+    "10.1108/ijdrbe-09-2024-0104": {
+      "doi": "10.1108/ijdrbe-09-2024-0104",
+      "posted_at": "2026-09-07T18:59:36+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788807576.267889",
+      "summary_character_count": 97,
+      "summary_japanese": "バングラデシュ沿岸部CPPをFGD 7件・KII 4件で質的に調査し、男女均衡のボランティア体制は確認された一方、高齢者・障害者の包摂、住民協議、DRRインフラ・訓練・装備に課題があると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "How effective Cyclone Preparedness Programme (CPP) is in promoting inclusive disaster resilience in Bangladesh?"
     },
     "10.1111/andr.70353": {
       "doi": "10.1111/andr.70353",
@@ -12582,6 +12635,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Curvature-guided chiral collective organization of myoblast tissues"
+    },
+    "10.7566/jpsj.95.104705": {
+      "doi": "10.7566/jpsj.95.104705",
+      "posted_at": "2026-09-07T18:59:32+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788807572.206969",
+      "summary_character_count": 127,
+      "summary_japanese": "非中心対称正方晶磁性体EuRhGe 3の磁気構造を共鳴X線回折で解析し、a軸磁場下で円形らせんがsoliton lattice、q = 0.8の整合構造を経て、c軸成分を伴うspin-flop xy-fan、さらに平面xy-fanへ転移することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical-to-Fan Transitions under Magnetic Fields in the Noncentrosymmetric Tetragonal Magnet EuRhGe 3"
     },
     "10.7759/cureus.114278": {
       "doi": "10.7759/cureus.114278",
