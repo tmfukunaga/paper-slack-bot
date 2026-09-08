@@ -27,7 +27,7 @@
     "2026-09-05": 40,
     "2026-09-06": 22,
     "2026-09-07": 7,
-    "2026-09-08": 5
+    "2026-09-08": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1992,6 +1992,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain-End Host-Guest Interactions"
     },
+    "10.1002/anie.2931090": {
+      "doi": "10.1002/anie.2931090",
+      "posted_at": "2026-09-08T10:35:00+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788863700.721669",
+      "summary_character_count": 119,
+      "summary_japanese": "anthracene-pentiptycene-semifluorinated alkyl結晶1-Fnの置換基を変え、超分子はさみ運動を解析した。1-F4は伸縮性と圧縮性の最適な均衡により、結晶健全性を保って高い弾性・光機械変形を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanically Coupled Supramolecular Scissors Govern Photomechanical and Elastic Responses in Molecular Crystals"
+    },
     "10.1002/anie.3141713": {
       "doi": "10.1002/anie.3141713",
       "posted_at": "2026-08-12T23:22:33+00:00",
@@ -2771,6 +2784,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Self-Assembled Pt(II) Complexes Boost Up Stem Cell Proliferation and Accelerate Metamorphosis in Living Organisms"
+    },
+    "10.1002/anie.7959451": {
+      "doi": "10.1002/anie.7959451",
+      "posted_at": "2026-09-08T10:34:50+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788863690.259319",
+      "summary_character_count": 115,
+      "summary_japanese": "pyrene系tetracarboxylic acidから、溶媒蒸発速度と加熱温度でらせん状・針状結晶を制御できる多孔性HOFを作製した。らせん状HOFはBET比表面積最大1602 m² g⁻¹を示し、溶媒吸脱着で動的に伸縮した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Single Crystals of Porous Hydrogen-Bonded Organic Frameworks as a Candidate for Morphologically Functional Organic Materials"
     },
     "10.1002/anie.7974480": {
       "doi": "10.1002/anie.7974480",
@@ -3583,6 +3609,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Herb-Based Chiral Nanomaterials: Potential Application in Wound Healing and Nanomedicine"
+    },
+    "10.1002/chir.70145": {
+      "doi": "10.1002/chir.70145",
+      "posted_at": "2026-09-08T10:34:55+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788863695.314319",
+      "summary_character_count": 123,
+      "summary_japanese": "arylalkynylpyridyl-triazacyclononane増感9配位Eu(III)錯体EuL群を合成し、構造改変位置とCPLスペクトル・glumの関係を解析した。Eu(III)中心近傍のマクロ環配位子構造のみがCPL特性に影響した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Investigating the CPL-Structure Dependence in Arylalkynylpyridyl-Triazacyclononane Sensitized Nine-Coordinate Europium(III) Complexes"
     },
     "10.1002/chir.70146": {
       "doi": "10.1002/chir.70146",
@@ -6402,6 +6441,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Remote Generation of Pyramidalized N-N Axial Chirality via a Copper-Catalyzed Friedel-Crafts Reaction"
+    },
+    "10.1021/acs.orglett.6c03641": {
+      "doi": "10.1021/acs.orglett.6c03641",
+      "posted_at": "2026-09-08T10:34:44+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788863684.738759",
+      "summary_character_count": 133,
+      "summary_japanese": "1,6位で連結した3つのpyreneを含む3PyCPPを三角形gold complex鋳型で合成し、結晶中ではAAA/BBBエナンチオマーのみを観測した。3PyCPPはΦF=46.2%の蛍光と大きなStokes shiftを示し、C70と包接型1:1錯体を形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Host-Guest Chemistry of Pyrene-Embedded Helical Carbon Nanohoops"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
@@ -11620,6 +11672,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Dependent Self-Association of Chiral 2-Acetoxy-2-Phenylacetic Acid Revealed by Infrared and Vibrational Circular Dichroism Spectroscopy"
+    },
+    "10.26434/chemrxiv.15008388/v1": {
+      "doi": "10.26434/chemrxiv.15008388/v1",
+      "posted_at": "2026-09-08T10:34:38+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788863678.931389",
+      "summary_character_count": 119,
+      "summary_japanese": "N-confused porphyrinのRh(III)/Ir(III)錯体を合成し、分光・電気化学・XRD・DFTで解析した。アシル配位子–2-NH水素結合やI2架橋により1次元超分子ポリマーを形成し、酸化体は主にπラジカル性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Polymers of Chiral and Achiral Rhodium and Iridium Complexes of N-confused Porphyrin"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
