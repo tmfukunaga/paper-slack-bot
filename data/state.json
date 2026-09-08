@@ -27,7 +27,8 @@
     "2026-09-05": 40,
     "2026-09-06": 22,
     "2026-09-07": 7,
-    "2026-09-08": 10
+    "2026-09-08": 10,
+    "2026-09-09": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2732,6 +2733,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Engineering of Dynamically Interlocked Dual-Stiffness Interphase for Biomimetic Strong and Tough Double Network Aerogel"
+    },
+    "10.1002/anie.7699472": {
+      "doi": "10.1002/anie.7699472",
+      "posted_at": "2026-09-08T15:59:15+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788883155.899229",
+      "summary_character_count": 108,
+      "summary_japanese": "NDI quencherとBPEA fluorophoreのループ形成を利用したpOEGMA水溶性超分子mechanophore添加剤を設計し、各種hydrogelで膨潤・伸長・圧縮に伴う可逆的な発光増強を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Mechanophore Additives Enable Mechanochromic Hydrogels"
     },
     "10.1002/anie.7699965": {
       "doi": "10.1002/anie.7699965",
@@ -6819,6 +6833,19 @@
       "summary_used_fallback": true,
       "title": "Harnessing Noncovalent Interactions in Transition-Metal Catalysis: An Asymmetric Allylation/Lactonization Cascade to Chiral γ-Butyrolactones"
     },
+    "10.1021/acscatal.6c04948": {
+      "doi": "10.1021/acscatal.6c04948",
+      "posted_at": "2026-09-08T15:58:59+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788883139.029169",
+      "summary_character_count": 134,
+      "summary_japanese": "Sドープchiral helical carbon nanotubesの溝にPtCoNi合金を固定・閉じ込め、Pt 6.93 wt%でORR半波電位0.87 VとMEAピーク出力1.46 W cm−2を達成し、30,000回耐久試験後も初期電流密度の80%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Confinement-Anchoring PtCoNi Nanoparticles in the Grooves of Sulfur-Doped Chiral Helical Carbon Nanotubes for Improved Oxygen Reduction Reaction"
+    },
     "10.1021/acscatal.6c05079": {
       "doi": "10.1021/acscatal.6c05079",
       "posted_at": "2026-08-08T15:14:50+00:00",
@@ -8060,6 +8087,19 @@
       "summary_used_fallback": false,
       "title": "Deep Cavitand Mediated Selective Aerobic Oxidative Cyclization of Thiols to Cyclic Disulfides"
     },
+    "10.1021/jacs.6c15721": {
+      "doi": "10.1021/jacs.6c15721",
+      "posted_at": "2026-09-08T15:58:53+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788883133.699559",
+      "summary_character_count": 127,
+      "summary_japanese": "常温で基底状態diradical性を示すthiophene系分子ワイヤーを設計し、STM-BJで中性状態では長鎖化に伴うコンダクタンス増大を確認した。fluorene末端の酸化はantiaromatic性を高め、3手法で大幅なコンダクタンス増強を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Redox-Driven Antiaromaticity Enables Multistate Conductance in 1D Topological Insulators"
+    },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
       "posted_at": "2026-08-05T21:16:15+00:00",
@@ -9151,6 +9191,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Regiospecific α-arylation of diverse carbonyl compounds using an organobismuth transporter"
+    },
+    "10.1038/s41563-026-02737-w": {
+      "doi": "10.1038/s41563-026-02737-w",
+      "posted_at": "2026-09-08T15:59:04+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788883144.614349",
+      "summary_character_count": 93,
+      "summary_japanese": "強誘電体BaTiO3で、円二色性共鳴非弾性X線散乱によりg-waveフォノンのカイラリティーを直接観測し、フォノン角運動量が強誘電分極に応じて電場で可逆かつ不揮発に反転することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electric-field switching of g-wave phonon chirality in ferroelectric BaTiO3"
     },
     "10.1038/s41565-026-02193-2": {
       "doi": "10.1038/s41565-026-02193-2",
@@ -10581,6 +10634,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Advances and Prospects of Chiral Plasmonic Nanomaterials in Emerging Applications"
+    },
+    "10.20944/preprints202609.0292.v1": {
+      "doi": "10.20944/preprints202609.0292.v1",
+      "posted_at": "2026-09-08T15:59:10+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788883150.351409",
+      "summary_character_count": 119,
+      "summary_japanese": "L-malic acidを共通キラル源とし、Sharpless不斉エポキシ化、エポキシド開環、Mannich反応、ヨウ素化–亜鉛脱離を用いて、Pladienolide BのC1–C8およびC9–C13断片を発散的かつ立体選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Divergent Chiral-Pool Synthesis of the C1-C8 and C9-C13 Fragments of Pladienolide B from L-Malic Acid"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
