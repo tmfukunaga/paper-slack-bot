@@ -28,7 +28,7 @@
     "2026-09-06": 22,
     "2026-09-07": 7,
     "2026-09-08": 10,
-    "2026-09-09": 10
+    "2026-09-09": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -8126,6 +8126,19 @@
       "summary_used_fallback": false,
       "title": "Designof Chiral Antimony Catalyst for Ring-OpeningReaction of Epoxides with Anilines"
     },
+    "10.1021/jacs.6c14940": {
+      "doi": "10.1021/jacs.6c14940",
+      "posted_at": "2026-09-08T21:10:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788901837.599149",
+      "summary_character_count": 389,
+      "summary_japanese": "Chiral cyclopentadienyl cobaltIII catalysis enabled regio-, chemo-, and enantioselective intermolecular C–H carboamination of racemic allenyl esters with N-phenoxyisobutyramides. The kinetic-resolution process furnished chiral γ-substituted-β-enamido esters in up to 88% yield, >99:1 er, and >20:1 E/Z, while allowing recovery of enantioenriched allenes with selectivity factors up to 138.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Cobalt-Catalyzed Enantioselective Intermolecular C-H Carboamination with Racemic Allenes"
+    },
     "10.1021/jacs.6c15679": {
       "doi": "10.1021/jacs.6c15679",
       "posted_at": "2026-08-20T01:05:27+00:00",
@@ -10336,6 +10349,19 @@
       "summary_used_fallback": false,
       "title": "Machine learning prediction and data-driven inverse design of gradient chiral petal honeycombs"
     },
+    "10.1177/03093247261465647": {
+      "doi": "10.1177/03093247261465647",
+      "posted_at": "2026-09-08T21:10:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788901844.428209",
+      "summary_character_count": 123,
+      "summary_japanese": "フィレット矩形・obround断面をもつ圧縮コイルばねを対象に、形状比と丸み比で断面を表し、Abaqus解析と文献データから反り係数k warpを導入した剛性モデルを構築した。簡易解析式も参照数値結果と良好に一致し、従来式の剛性過大評価を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A general solution for torsion-induced warping in helical curved elements with non-circular solid section: Theory and application to compression springs stiffness"
+    },
     "10.1177/08927057261471597": {
       "doi": "10.1177/08927057261471597",
       "posted_at": "2026-07-27T18:10:09+00:00",
@@ -10699,6 +10725,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Divergent Chiral-Pool Synthesis of the C1-C8 and C9-C13 Fragments of Pladienolide B from L-Malic Acid"
+    },
+    "10.20944/preprints202609.0360.v1": {
+      "doi": "10.20944/preprints202609.0360.v1",
+      "posted_at": "2026-09-08T21:10:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788901859.542699",
+      "summary_character_count": 132,
+      "summary_japanese": "thiophene diboronic esterなど3種の芳香族モノマーを不斉Suzuki-Miyaura couplingで重合し、キラル多層AIE共役高分子を作製した。Cr6+を選択的に認識し、蛍光強度は濃度と直線相関して検出限界は316.5 μMであった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fluorescent Chiral Multilayer Polymer for Hexavalent Chromium Sensing"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
@@ -11791,6 +11830,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Dependent Self-Association of Chiral 2-Acetoxy-2-Phenylacetic Acid Revealed by Infrared and Vibrational Circular Dichroism Spectroscopy"
     },
+    "10.26434/chemrxiv.15008381/v1": {
+      "doi": "10.26434/chemrxiv.15008381/v1",
+      "posted_at": "2026-09-08T21:10:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788901851.895999",
+      "summary_character_count": 94,
+      "summary_japanese": "光駆動超分子ポンピングモーターを高分子末端に導入し、多環状側鎖をもつ相補的高分子と方向選択的に絡ませた。散逸的非平衡過程により、入力光エネルギーを一時的に蓄える機械結合ナノゲルを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A molecular sewing machine"
+    },
     "10.26434/chemrxiv.15008388/v1": {
       "doi": "10.26434/chemrxiv.15008388/v1",
       "posted_at": "2026-09-08T10:34:38+00:00",
@@ -11803,6 +11855,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Polymers of Chiral and Achiral Rhodium and Iridium Complexes of N-confused Porphyrin"
+    },
+    "10.26434/chemrxiv.15008400/v1": {
+      "doi": "10.26434/chemrxiv.15008400/v1",
+      "posted_at": "2026-09-08T21:10:27+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788901827.649909",
+      "summary_character_count": 101,
+      "summary_japanese": "確率的動力学演算子PDOは、縮約変数空間の確率分布時間発展とエントロピー生成を学習し、強化学習によるpatchy particlesの温度制御でrhombohedral形態の収率をMDで90%へ高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probabilistic dynamics operators for path-entropy-guided nonequilibrium control of self-assembly"
     },
     "10.26434/chemrxiv.15008423/v1": {
       "doi": "10.26434/chemrxiv.15008423/v1",
