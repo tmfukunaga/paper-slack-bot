@@ -28,7 +28,7 @@
     "2026-09-06": 22,
     "2026-09-07": 7,
     "2026-09-08": 10,
-    "2026-09-09": 5
+    "2026-09-09": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -2909,6 +2909,19 @@
       "summary_used_fallback": false,
       "title": "Corannulene-Driven Curvature Engineering Enhances Fullerene Encapsulation in a Carbon Nanohoop"
     },
+    "10.1002/anie.8735110": {
+      "doi": "10.1002/anie.8735110",
+      "posted_at": "2026-09-08T20:43:37+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788900217.386009",
+      "summary_character_count": 127,
+      "summary_japanese": "γ-cyclodextrinのhost-guest encapsulationにより、triplet excitonsを安定化し、力学特性を広範に調整しても寿命1109–1234 msを維持するmatrix-independent RTP材料を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Flexible Room-Temperature Phosphorescent Materials With Matrix-Independent Luminescence Enabled by Host-Guest Encapsulation"
+    },
     "10.1002/anie.8769084": {
       "doi": "10.1002/anie.8769084",
       "posted_at": "2026-08-07T15:11:43+00:00",
@@ -2986,6 +2999,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule"
+    },
+    "10.1002/anie.9228845": {
+      "doi": "10.1002/anie.9228845",
+      "posted_at": "2026-09-08T20:43:32+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788900212.223749",
+      "summary_character_count": 104,
+      "summary_japanese": "cyclodextrinで界面微小環境を制御し、親水性外表面と疎水性空孔による配向シャトルチャネルを構築して物質移動を促進した。pyrazine水素化では−100 mA cm−2で最大88%のFEを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Host-Guest Chemistry Creates an Oriented Shuttle Channel to Overcome Mass Transport Limitations in Electrocatalytic Hydrogenation"
     },
     "10.1002/anie.9254918": {
       "doi": "10.1002/anie.9254918",
@@ -6443,6 +6469,19 @@
       "summary_used_fallback": false,
       "title": "Accessing P-Chiral Diphosphines through Nickel-Catalyzed Asymmetric Hydrophosphination"
     },
+    "10.1021/acs.orglett.6c03399": {
+      "doi": "10.1021/acs.orglett.6c03399",
+      "posted_at": "2026-09-08T20:43:27+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788900207.160879",
+      "summary_character_count": 382,
+      "summary_japanese": "Ortho-brominated phenol substrates and a C2-symmetric organoiodine catalyst enabled biomimetic oxidative para-dearomative C-C coupling with seven-membered-ring formation. The method constructed remote all-carbon quaternary stereocenters and achieved total syntheses of (+)-oxomaritidine and (+)-oxovittatine, while also enabling formal syntheses of (+)-maritidine and (+)-vittatine.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Remote Quaternary Stereocenter Construction toward Crinine-Type Alkaloids Via Chiral Organoiodine-Mediated Biomimetic Oxidative para -Dearomative C-C Coupling"
+    },
     "10.1021/acs.orglett.6c03439": {
       "doi": "10.1021/acs.orglett.6c03439",
       "posted_at": "2026-09-05T02:56:27+00:00",
@@ -7995,6 +8034,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intrinsic Morphological Chirality Governs Spin Selectivity in Gold Nanoparticles"
+    },
+    "10.1021/jacs.6c12274": {
+      "doi": "10.1021/jacs.6c12274",
+      "posted_at": "2026-09-08T20:43:45+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788900225.036469",
+      "summary_character_count": 122,
+      "summary_japanese": "seeded supramolecular polymerizationで、フィブリル末端に結合する低分子capperにより伸長を選択的に抑制し、表面二次核生成へのモノマー流束転換を通じて分岐した階層的superstructuresを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bio-Inspired Chain Capping Selectively Inhibits Elongation to Direct Secondary Pathways in Supramolecular Polymers"
     },
     "10.1021/jacs.6c12367": {
       "doi": "10.1021/jacs.6c12367",
@@ -11751,6 +11803,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Polymers of Chiral and Achiral Rhodium and Iridium Complexes of N-confused Porphyrin"
+    },
+    "10.26434/chemrxiv.15008423/v1": {
+      "doi": "10.26434/chemrxiv.15008423/v1",
+      "posted_at": "2026-09-08T20:43:50+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788900230.425799",
+      "summary_character_count": 121,
+      "summary_japanese": "3-Aminopropan-1-olを低分子量ヒドロゲル化剤としてFe(III)およびZn(II)の超分子メタロヒドロゲルを作製し、レオロジー、自己修復性、外部刺激応答を評価した。Zn(II)系は機械安定性と刺激応答でより顕著な挙動を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Metallohydrogels of Fe(III) and Zn(II) with 3-Aminopropan-1-ol as Low Molecular Weight Hydrogelator: Unveiling Self-healing activity, rheological dynamics, and stimuli-sensitivity"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
