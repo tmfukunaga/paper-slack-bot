@@ -27,7 +27,8 @@
     "2026-09-06": 22,
     "2026-09-07": 7,
     "2026-09-08": 10,
-    "2026-09-09": 15
+    "2026-09-09": 15,
+    "2026-09-10": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4611,6 +4612,19 @@
       "summary_used_fallback": false,
       "title": "ct DNA-Driven Helical Assembly of Achiral Dimers: Simultaneous Activation of Three-Photon Fluorescence and Circularly Polarized Luminescence"
     },
+    "10.1002/smtd.71019": {
+      "doi": "10.1002/smtd.71019",
+      "posted_at": "2026-09-09T15:55:08+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788969308.691979",
+      "summary_character_count": 100,
+      "summary_japanese": "ALD成長AlF3下地層でキラルペロブスカイト界面を不動態化し、粒成長と欠陥低減を促進した。CPL光検出器は光電流g因子0.48と54 mA W−1の光応答性を示し、T70寿命は9.3倍超に向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhancing Chiroptical Selectivity and Device Stability of Chiral Perovskite Photodetectors Via Interfacial AlF 3 Passivation"
+    },
     "10.1002/sscp.70297": {
       "doi": "10.1002/sscp.70297",
       "posted_at": "2026-08-28T23:52:02+00:00",
@@ -6098,6 +6112,19 @@
       "summary_used_fallback": false,
       "title": "Near-Perfect Chirality and Giant Spin-Orbit Conversion in a Single Plasmonic Cavity"
     },
+    "10.1021/acs.nanolett.6c03006": {
+      "doi": "10.1021/acs.nanolett.6c03006",
+      "posted_at": "2026-09-09T15:55:15+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788969315.197419",
+      "summary_character_count": 135,
+      "summary_japanese": "Thiol保護Ag12 nanoclusterと剛直な4,4′-bipyridineを共有結合性配位で連結し、アキラル成分のみからなる三重らせん型3次元骨格を構築した。材料は∼10−6 S/cmの導電率と∼1.7 cm2/(V s)の正孔移動度を示すp型半導体であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Triple-Helical Assembly of Atomically Precise Silver Nanocluster-Assembled Material: A p-Type Semiconductor"
+    },
     "10.1021/acs.nanolett.6c03195": {
       "doi": "10.1021/acs.nanolett.6c03195",
       "posted_at": "2026-09-05T07:26:06+00:00",
@@ -6649,6 +6676,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Diverse Combinations of Multiple Surfactants for Chirality Recognition and Separation of Carbon Nanotubes"
+    },
+    "10.1021/acsami.6c14731": {
+      "doi": "10.1021/acsami.6c14731",
+      "posted_at": "2026-09-09T15:55:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788969331.792039",
+      "summary_character_count": 102,
+      "summary_japanese": "chiral porphyrin（cPorf）で修飾した金属界面のエナンチオ認識を、電気化学・スピン依存電気化学・磁気伝導AFMで解析し、Ni上cPorf束の電荷輸送で20～50%のスピン分極を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin-Based Enantiorecognition at Chiral-Porphyrin-Functionalized Interfaces: A Physical Effect Due to the Chiral-Induced Spin Selectivity"
     },
     "10.1021/acsanm.6c00732": {
       "doi": "10.1021/acsanm.6c00732",
@@ -7669,6 +7709,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamics of (Hetero)aryl Motifs: An Integrative Approach To Study the Conformational Landscape in Macrocycles"
+    },
+    "10.1021/jacs.6c09969": {
+      "doi": "10.1021/jacs.6c09969",
+      "posted_at": "2026-09-09T15:55:26+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788969326.577119",
+      "summary_character_count": 120,
+      "summary_japanese": "酸化的に堅牢なGeIV catecholate cage（Ep/2 = 0.357 V vs Fc/Fc+）を合成し、基質とのホスト–ゲスト会合を利用する一重項光レドックス触媒によりisoquinolonesの(4 + 2)合成を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Singlet Photoredox Catalysis via Supramolecular Host-Guest Interactions"
     },
     "10.1021/jacs.6c09990": {
       "doi": "10.1021/jacs.6c09990",
@@ -11880,6 +11933,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Metallohydrogels of Fe(III) and Zn(II) with 3-Aminopropan-1-ol as Low Molecular Weight Hydrogelator: Unveiling Self-healing activity, rheological dynamics, and stimuli-sensitivity"
+    },
+    "10.26434/chemrxiv.15008445/v1": {
+      "doi": "10.26434/chemrxiv.15008445/v1",
+      "posted_at": "2026-09-09T15:55:20+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788969320.828029",
+      "summary_character_count": 116,
+      "summary_japanese": "fc-CVS-EOM-CCSDで共役炭化水素とキラル誘導体の炭素K端XAS・XCDを解析し、キラル置換が禁制遷移の活性化、振動子強度の再配分、置換基中心励起を生むこと、XCDが混雑したXASで隠れる電子構造を示すことを明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing Electronic Structure of Chiral Unsaturated Hydrocarbons at the Carbon Edge"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
