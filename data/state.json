@@ -28,7 +28,7 @@
     "2026-09-07": 7,
     "2026-09-08": 10,
     "2026-09-09": 15,
-    "2026-09-10": 5
+    "2026-09-10": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4157,6 +4157,19 @@
       "summary_used_fallback": false,
       "title": "Multi-Stage Tunable Nonlinear Circular Dichroism in 2D NbOCl 2 via Ferroelectric Phase Transition-Driven Thermal Strain Engineering"
     },
+    "10.1002/lpor.71874": {
+      "doi": "10.1002/lpor.71874",
+      "posted_at": "2026-09-09T20:25:11+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788985511.085489",
+      "summary_character_count": 107,
+      "summary_japanese": "±45°ノッチ付きGeナノピラー対からなる異方性diatomic metasurfaceにより、放物・円筒型バンドで放射を直交制御し、Lc∼49λ、Q∼150、円二色性0.92の円偏光熱放射を12°範囲で実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spatiotemporally Coherent Chiral Thermal Emission Driven by Anisotropic Diatomic Metasurfaces"
+    },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
       "posted_at": "2026-07-17T17:27:51+00:00",
@@ -5760,6 +5773,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Vibrational Raman Optical Activity of β-Propiolactone Derivatives Computed with Coupled-Cluster Theory"
+    },
+    "10.1021/acs.jpca.6c03565": {
+      "doi": "10.1021/acs.jpca.6c03565",
+      "posted_at": "2026-09-09T20:24:51+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788985491.777159",
+      "summary_character_count": 127,
+      "summary_japanese": "CISSに基づき、非平衡駆動下のキラル要素が手性固定スピン偏極を生成し、強磁性体または第二のキラル要素が読み取るgenerator-and-reader枠組みを提示した。多様な実験系で、キラル電荷移動界面の手性依存スピン選択電流を共通指標として整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-Induced Spin Selectivity as a Driving Force in Enantiorecognition: A Generator-and-Reader Perspective"
     },
     "10.1021/acs.jpca.6c04444": {
       "doi": "10.1021/acs.jpca.6c04444",
@@ -9829,6 +9855,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-dependent pathway interference in optimal enantioselective state transfer"
     },
+    "10.1088/1674-1056/aea3e1": {
+      "doi": "10.1088/1674-1056/aea3e1",
+      "posted_at": "2026-09-09T20:24:45+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788985485.289319",
+      "summary_character_count": 109,
+      "summary_japanese": "面内・面外対称性を同時に破った非対称LNメタ表面で、chiral q-BICsにより光整流の構造キラリティーを制御し、平均THz-CD 0.99と100 fs励起下で既存非線形メタ表面に匹敵する放射振幅を数値実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Near-Unity Chiral Terahertz Generation Driven by Asymmetric Quasi-Bound States in the Continuum"
+    },
     "10.1088/1674-1137/ae8f24": {
       "doi": "10.1088/1674-1137/ae8f24",
       "posted_at": "2026-07-26T15:02:45+00:00",
@@ -10062,6 +10101,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Entanglement by design: symmetry-guided periodic helical assemblies"
+    },
+    "10.1098/rsos.260497": {
+      "doi": "10.1098/rsos.260497",
+      "posted_at": "2026-09-09T20:25:01+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788985501.323639",
+      "summary_character_count": 122,
+      "summary_japanese": "Riemann-Silberstein helicityを電気・磁気ヘリシティの和として扱い、パリティ変換でキラルかつ双対変換で不変と示した。自由空間のnull fieldでは電場が凍結場となり、両ヘリシティとRSHが保存されることを証明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity conservation of the Riemann-Silberstein vector"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
@@ -10530,6 +10582,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Generation of chirality controllable vector vortex beams from a digital alkali laser"
+    },
+    "10.1364/ol.608478": {
+      "doi": "10.1364/ol.608478",
+      "posted_at": "2026-09-09T20:25:06+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1788985506.332349",
+      "summary_character_count": 91,
+      "summary_japanese": "方位角偏光が変化する赤外vector beamでランダム配向キラル分子の高次高調波を発生させ、分子の鏡像異性体の手性情報を紫外vector beamの強度分布として空間的に識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast chiral sensing with an ultraviolet vector beam"
     },
     "10.1364/opticaopen.32538849.v3": {
       "doi": "10.1364/opticaopen.32538849.v3",
