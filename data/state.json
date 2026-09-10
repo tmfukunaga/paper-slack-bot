@@ -27,7 +27,8 @@
     "2026-09-07": 7,
     "2026-09-08": 10,
     "2026-09-09": 15,
-    "2026-09-10": 25
+    "2026-09-10": 25,
+    "2026-09-11": 5
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1888,6 +1889,19 @@
       "summary_used_fallback": false,
       "title": "Planar Chiral Carbazole-Naphthalene Bisimide Hetero-Cyclophane for Circularly Polarized Delayed Fluorescence"
     },
+    "10.1002/anie.2349367": {
+      "doi": "10.1002/anie.2349367",
+      "posted_at": "2026-09-10T15:50:07+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789055406.942759",
+      "summary_character_count": 113,
+      "summary_japanese": "進化型Mn触媒とH2O2を用い、2,2,2-trifluoroethanol中でアキラルpiperidineのα-C(sp3)−H酸化を行い、高収率・高エナンチオ／ジアステレオ選択的に多用途なキラルN,O-acetalを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direct Access to Chiral Piperidines by Enantioselective HAT-Initiated C( sp 3 )─H Oxidation"
+    },
     "10.1002/anie.2496785": {
       "doi": "10.1002/anie.2496785",
       "posted_at": "2026-07-31T21:06:24+00:00",
@@ -2277,6 +2291,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Non-Covalent PL, CD, and CPL Activation of Linear Aromatic Oligomers within Axially Chiral Aromatic Capsules"
+    },
+    "10.1002/anie.4229892": {
+      "doi": "10.1002/anie.4229892",
+      "posted_at": "2026-09-10T15:50:01+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789055401.377199",
+      "summary_character_count": 118,
+      "summary_japanese": "HSAB理論とDFTによる元素硬度比較に基づき、キラルOs系HOIMH (R/S-3BrMBA)2OsCl6を合成した。空気中2か月後も安定でSHG強度はほぼ不変であり、χeff 6.4 pm/Vと|gSHG-CD| 0.33を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "HSAB-Guided Design of Chiral Osmium Halides With Both Efficient Nonlinear Optical Properties and High Stability"
     },
     "10.1002/anie.4237539": {
       "doi": "10.1002/anie.4237539",
@@ -3154,6 +3181,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Kinetic Resolution of 2-Aryl Oxetanes by Dinuclear Titanium Radical Catalysis"
+    },
+    "10.1002/anie.9997737": {
+      "doi": "10.1002/anie.9997737",
+      "posted_at": "2026-09-10T15:49:56+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789055396.041749",
+      "summary_character_count": 373,
+      "summary_japanese": "A thiophene-based organic semiconductor was sterically confined at heavy-atom sites using a covalently linked macrocycle. The design maintained a linear conjugated backbone and dispersed spin density away from heavy atoms, suppressing spin-orbit coupling. In organic spin valves, it achieved a room-temperature spin diffusion length of 322 nm and a spin lifetime of 253 μs.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Macrocyclic Steric Confinement at Heavy-Atom Sites to Suppress Spin-Orbit Coupling for Room-Temperature Spin Transport in Organic Semiconductors"
     },
     "10.1002/asia.70866": {
       "doi": "10.1002/asia.70866",
@@ -6228,6 +6268,19 @@
       "summary_used_fallback": false,
       "title": "Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice"
     },
+    "10.1021/acs.nanolett.6c03227": {
+      "doi": "10.1021/acs.nanolett.6c03227",
+      "posted_at": "2026-09-10T15:50:13+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789055413.075439",
+      "summary_character_count": 90,
+      "summary_japanese": "noncontact AFMによりDolomite(104)の対向結晶面に2種のエナンチオマーを原子スケールで観測し、単一水分子の吸着と水単分子層へのキラリティー移行を可視化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Water Structures on the Dolomite(104)-S Surface Enantiomer"
+    },
     "10.1021/acs.nanolett.6c03326": {
       "doi": "10.1021/acs.nanolett.6c03326",
       "posted_at": "2026-09-01T13:55:54+00:00",
@@ -8293,6 +8346,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Designof Chiral Antimony Catalyst for Ring-OpeningReaction of Epoxides with Anilines"
+    },
+    "10.1021/jacs.6c14403": {
+      "doi": "10.1021/jacs.6c14403",
+      "posted_at": "2026-09-10T15:50:23+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789055423.016039",
+      "summary_character_count": 98,
+      "summary_japanese": "配位子隔離・アニオン鋳型法でCu8、Cu12、Cu16金属ケージを合成し、アニオンにより配位子配置と歪みを制御した。環境アニオンで発光を伴う構造変換を誘起し、キラルカチオンで円偏光発光を付与した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ion-Mediated Configuration Regulation and Chiralization in Cu(I) Cluster-Based Metallic Cages"
     },
     "10.1021/jacs.6c14940": {
       "doi": "10.1021/jacs.6c14940",
