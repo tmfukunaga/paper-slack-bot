@@ -27,7 +27,7 @@
     "2026-09-07": 7,
     "2026-09-08": 10,
     "2026-09-09": 15,
-    "2026-09-10": 20
+    "2026-09-10": 25
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1043,6 +1043,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Excitation-Wavelength-Controlled Spin Injection in Core-Shell Chiral Perovskite Nanocrystals for Amplified Circularly Polarized Luminescence"
+    },
+    "10.1002/ange.3554358": {
+      "doi": "10.1002/ange.3554358",
+      "posted_at": "2026-09-10T10:36:39+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789036599.351319",
+      "summary_character_count": 134,
+      "summary_japanese": "Allylic migrationを介する逐次環化と選択的脱水素化により、chrysene・bischrysene骨格のfjord-edged NGs 1、2を合成した。2はNIR-II発光と|gabs|=2.5×10−2を示し、両者はキラルHPLCで光学分割された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Fjord-Edged Nanographenes Constructed by Allylic-Migration-Mediated Cyclization"
     },
     "10.1002/ange.3778438": {
       "doi": "10.1002/ange.3778438",
@@ -2095,6 +2108,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Gold Clusters With Open-Shell Ligands: Superatom Mediated Magnetic Interaction"
+    },
+    "10.1002/anie.3554358": {
+      "doi": "10.1002/anie.3554358",
+      "posted_at": "2026-09-10T10:36:26+00:00",
+      "score": 46,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789036586.767859",
+      "summary_character_count": 116,
+      "summary_japanese": "Allylic migrationを介する段階的環化と選択的脱水素化で、chrysene・bischrysene骨格のfjords-edged NGs 1、2を合成した。2はNIR-II発光と|gabs|=2.5×10−2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Fjord-Edged Nanographenes Constructed by Allylic-Migration-Mediated Cyclization"
     },
     "10.1002/anie.3568920": {
       "doi": "10.1002/anie.3568920",
@@ -7053,6 +7079,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Mediated Phase Propagation Governs Excitonic Heterogeneity in Chiral Fibrils"
     },
+    "10.1021/acscentsci.6c01081": {
+      "doi": "10.1021/acscentsci.6c01081",
+      "posted_at": "2026-09-10T10:36:34+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789036594.638389",
+      "summary_character_count": 110,
+      "summary_japanese": "adamantylphenyl側鎖をもつBOX配位子と光レドックス/Ni二重触媒によりbiaryl dialdehydesを脱対称化し、軸性・隣接中心不斉をもつhomoallylic alcoholを99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Adamantyl-BOX Ligand Enabling Stereoselective Synthesis of Axially Chiral Aldehydes Bearing Vicinal Stereogenic Centers"
+    },
     "10.1021/acsmaterialsau.5c00256": {
       "doi": "10.1021/acsmaterialsau.5c00256",
       "posted_at": "2026-08-12T09:48:17+00:00",
@@ -8124,6 +8163,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality Transferto the Magnetic Sublattice in theHybrid Perovskite (R)-/(S)-3-Fluoropyrrolidinium Copper(II) Chloride"
+    },
+    "10.1021/jacs.6c11716": {
+      "doi": "10.1021/jacs.6c11716",
+      "posted_at": "2026-09-10T10:36:48+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789036608.476559",
+      "summary_character_count": 93,
+      "summary_japanese": "MoS2ナノスクロール単一素子で偏光分解SHGとトランジスタ測定を統合し、統一SHGモデルで有効キラル角φを抽出した。オン電流は|φ|増大で低下し、オフ電流は巻き数・厚さ指標と相関した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Dependent Electrical Characteristics of MoS2 Nanoscroll Transistors"
     },
     "10.1021/jacs.6c12029": {
       "doi": "10.1021/jacs.6c12029",
@@ -11075,6 +11127,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Photocurable Supramolecular Macromonomers Based on Host-Guest Interaction between poly(L-lactide)-b-poly(ethylene glycol)-b-poly(L-lactide) copolymer and different cyclodextrins"
+    },
+    "10.26434/chemrxiv.10001935/v2": {
+      "doi": "10.26434/chemrxiv.10001935/v2",
+      "posted_at": "2026-09-10T10:36:44+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789036604.014509",
+      "summary_character_count": 118,
+      "summary_japanese": "圧電駆動の直交配置achromatic quarter-wave platesと高速CCDで左右円偏光を交互に測定する小型単一チャネルCPL分光計を開発し、標準PEM-CPLとの比較で高感度かつ桁違いに高速な微細CPL分解能を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Paving the Way Towards a Compact Complete Chiroptical Toolbox"
     },
     "10.26434/chemrxiv.15001315/v2": {
       "doi": "10.26434/chemrxiv.15001315/v2",
