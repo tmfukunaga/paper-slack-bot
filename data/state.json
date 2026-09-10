@@ -28,7 +28,7 @@
     "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
-    "2026-09-11": 5
+    "2026-09-11": 10
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -4729,6 +4729,19 @@
       "summary_used_fallback": false,
       "title": "Stereochemical Investigation of Paroxetine: Synthesis, Characterization, and Chiral High-Performance Liquid Chromatography Separation of All Four Stereoisomers"
     },
+    "10.1002/tch2.70021": {
+      "doi": "10.1002/tch2.70021",
+      "posted_at": "2026-09-10T20:25:41+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789071941.290289",
+      "summary_character_count": 396,
+      "summary_japanese": "A modular one-pot, two-step synthesis of α-quaternary cyanopyrrolines was developed. Chiral pyridoxal catalyzes asymmetric α-conjugate addition of unprotected aminoacetonitrile to α,β-unsaturated ketones, followed by electrophilic functionalization. Chirality relayed from the first stereocenter controls the second C–C bond formation, affording products in up to 99% yield, >20:1 dr, and 98% ee.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Modular Synthesis of α-Quaternary Pyrrolines by Pyridoxal-Catalyzed Sequential Reactions With Precise Chirality Relay"
+    },
     "10.1002/tcr.70244": {
       "doi": "10.1002/tcr.70244",
       "posted_at": "2026-09-02T02:51:33+00:00",
@@ -5721,6 +5734,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aggregation-Dependent Luminescence and Chiroptical Properties of Chiral Cu6(PTLT)6 Clusters"
+    },
+    "10.1021/acs.inorgchem.6c03354": {
+      "doi": "10.1021/acs.inorgchem.6c03354",
+      "posted_at": "2026-09-10T20:25:32+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789071932.445539",
+      "summary_character_count": 111,
+      "summary_japanese": "軸不斉DABNをcis-[PtCl2(DABN)]へ配位させ、Ra体とSa体からそれぞれλ、δ配座の錯体を選択的に得た。X線結晶解析とNMRにより七員メタラ環の固定化したキレート環パッカリングと溶液中での構造保持を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diastereoselective Axial-to-Chelate-Puckering Chirality Transfer in cis -[PtCl2(DABN)] Complexes"
     },
     "10.1021/acs.inorgchem.6c03450": {
       "doi": "10.1021/acs.inorgchem.6c03450",
@@ -7105,6 +7131,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Heterohelicenes via Organocatalyzed Oxidative Formal [3 + 2] Cycloadditions between Polycyclic Indoles and Quinones"
+    },
+    "10.1021/acscatal.6c05426": {
+      "doi": "10.1021/acscatal.6c05426",
+      "posted_at": "2026-09-10T20:25:49+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789071949.061989",
+      "summary_character_count": 92,
+      "summary_japanese": "Cs対称ABAC型前駆体を3+1環化で調製し、cinchona由来相間移動触媒下の二重SNArにより、C1対称inherently chiral cageを最大98% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Enantioselective De Novo Synthesis of C 1-Symmetric Inherently Chiral Cages"
+    },
+    "10.1021/acscatal.6c06151": {
+      "doi": "10.1021/acscatal.6c06151",
+      "posted_at": "2026-09-10T20:25:57+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789071957.644589",
+      "summary_character_count": 95,
+      "summary_japanese": "H-L-Idc-OH触媒により2-aryl-isophthalaldehydesをCH-acids、1,4-DHPと不斉還元的脱対称化し、高収率・高エナンチオ選択性で軸不斉アルデヒドを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Construction of Axial Chirality via Amino-Acid-Catalyzed Asymmetric Reductive Desymmetrization of 2-Aryl-isophthalaldehydes"
     },
     "10.1021/acscatal.6c06367": {
       "doi": "10.1021/acscatal.6c06367",
@@ -10452,6 +10504,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrafast Faraday rotation probe of chiral phonon-polaritons in LiNbO 3"
+    },
+    "10.1126/sciadv.aed7176": {
+      "doi": "10.1126/sciadv.aed7176",
+      "posted_at": "2026-09-10T20:25:26+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789071926.649839",
+      "summary_character_count": 112,
+      "summary_japanese": "キラル金属ハライド半導体CMHSを用いる室温スピンバルブで、キラリティとスピンで変調される界面トンネル障壁により100%超のCISS誘起磁気抵抗を示した。組成依存性からCISSと構造キラリティの構造・物性相関も明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-induced magnetoresistance in hybrid organic-inorganic perovskite semiconductors"
     },
     "10.1126/sciadv.aed8846": {
       "doi": "10.1126/sciadv.aed8846",
