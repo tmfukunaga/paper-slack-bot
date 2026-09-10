@@ -28,7 +28,7 @@
     "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
-    "2026-09-11": 10
+    "2026-09-11": 15
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -1110,6 +1110,19 @@
       "summary_used_fallback": false,
       "title": "Non-Covalent PL, CD, and CPL Activation of Linear Aromatic Oligomers within Axially Chiral Aromatic Capsules"
     },
+    "10.1002/ange.4229892": {
+      "doi": "10.1002/ange.4229892",
+      "posted_at": "2026-09-10T22:57:07+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789081027.572159",
+      "summary_character_count": 117,
+      "summary_japanese": "HSAB理論とDFT化学硬度計算に基づき、キラルOs系HOIMH (R/S-3BrMBA)2OsCl6を設計・合成した。2か月の大気暴露後も安定性とSHG強度を維持し、χeff 6.4 pm/V、|gSHG-CD| 0.33を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "HSAB-Guided Design of Chiral Osmium Halides With Both Efficient Nonlinear Optical Properties and High Stability"
+    },
     "10.1002/ange.4944487": {
       "doi": "10.1002/ange.4944487",
       "posted_at": "2026-08-22T03:39:34+00:00",
@@ -1544,6 +1557,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Dipole-Field Engineering in Chiral Mesostructures for Efficient Photocatalytic N 2 Reduction"
+    },
+    "10.1002/ange.9997737": {
+      "doi": "10.1002/ange.9997737",
+      "posted_at": "2026-09-10T22:57:02+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789081022.726929",
+      "summary_character_count": 128,
+      "summary_japanese": "thiophene系OSCで重原子部位を共有結合性macrocycleにより立体拘束し、直線状共役骨格と重原子から離れたスピン密度を実現した。薄膜・spin valveでspin diffusionと寿命が向上し、室温で322 nm、253 μsを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocyclic Steric Confinement at Heavy-Atom Sites to Suppress Spin-Orbit Coupling for Room-Temperature Spin Transport in Organic Semiconductors"
     },
     "10.1002/anie.1026671": {
       "doi": "10.1002/anie.1026671",
@@ -2733,6 +2759,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Host-Directed Discovery of Dynamic-Covalent Guests From Dynamic Combinatorial Libraries"
+    },
+    "10.1002/anie.7243525": {
+      "doi": "10.1002/anie.7243525",
+      "posted_at": "2026-09-10T22:56:57+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789081017.839619",
+      "summary_character_count": 133,
+      "summary_japanese": "through-space coupling骨格のキラルhost (R/S)-BNM-2Tでachiral MR-TADF emitter BN2を増感し、非ドープCP-OLEDで21%超の外部量子効率と最大gEL +1.17×10−2/−1.06×10−2を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Through-Space Coupling Hosts Enhanced Circularly Polarized Electroluminescence Efficiency and Dissymmetry Factor via Sensitizing Strategy"
     },
     "10.1002/anie.7256115": {
       "doi": "10.1002/anie.7256115",
@@ -9621,6 +9660,19 @@
       "summary_used_fallback": false,
       "title": "Surrogate-assisted multi-objective robust optimization of helical gear pair considering manufacturing uncertainty due to profile error"
     },
+    "10.1038/s41598-026-70111-6": {
+      "doi": "10.1038/s41598-026-70111-6",
+      "posted_at": "2026-09-10T22:57:14+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789081034.290349",
+      "summary_character_count": 111,
+      "summary_japanese": "マイクロ波を用いる低溶媒廃棄合成でhydroxyl-footed resorcinarene・pyrogallolarene 1–8を調製した。3–8は高いなめし性能を示し、4はcollagen変性温度85 °Cに達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhancing leather tanning efficiency and sustainability with polyphenolic macrocycles: a biomimetic approach"
+    },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
       "posted_at": "2026-07-29T18:18:40+00:00",
@@ -9659,6 +9711,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Influence of many-body correlation and mixed-valence fluctuations on X-ray magnetic circular dichroism and resonant inelastic X-ray scattering spectra"
+    },
+    "10.1038/s44310-026-00148-y": {
+      "doi": "10.1038/s44310-026-00148-y",
+      "posted_at": "2026-09-10T22:56:50+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789081010.379739",
+      "summary_character_count": 122,
+      "summary_japanese": "p-i-n diodeのp層へのイオン注入で高抵抗トラックを形成し、導波路モードを保ったまま離隔した複数QDを独立電気制御した。glide-plane導波路上の2QDの離調とスピン状態を制御し、カイラリティ依存の光子統計が理論モデルと一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral quantum optics with scalable quantum dot dimers"
     },
     "10.1051/e3sconf/202672802001/pdf": {
       "doi": "10.1051/e3sconf/202672802001/pdf",
