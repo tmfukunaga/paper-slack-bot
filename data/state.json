@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-09": 23,
     "2026-08-10": 11,
     "2026-08-12": 25,
     "2026-08-13": 15,
@@ -28,7 +27,7 @@
     "2026-09-07": 7,
     "2026-09-08": 10,
     "2026-09-09": 15,
-    "2026-09-10": 15
+    "2026-09-10": 20
   },
   "posted": {
     "10.1002/adfm.202600059": {
@@ -3961,6 +3960,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral/Achiral Separation of Novel Synthetic Cannabinoids in Sub/Supercritical Fluid Chromatography"
+    },
+    "10.1002/elps.70151": {
+      "doi": "10.1002/elps.70151",
+      "posted_at": "2026-09-10T03:04:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789009467.172749",
+      "summary_character_count": 378,
+      "summary_japanese": "This review surveys dynamic online sample preconcentration in chiral capillary electrophoresis from 1995 to 2025. It covers more than 50 studies applying field-amplified sample stacking, sweeping, transient isotachophoresis, pH-mediated stacking, and related modified or combined methods for preconcentration and separation of enantiomers, with comprehensive application tables.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Applications of Dynamic Online Sample Preconcentration Techniques in Chiral Capillary Electrophoresis"
     },
     "10.1002/hlca.70096": {
       "doi": "10.1002/hlca.70096",
@@ -10414,6 +10426,19 @@
       "summary_used_fallback": false,
       "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes"
     },
+    "10.1126/science.aeh6251": {
+      "doi": "10.1126/science.aeh6251",
+      "posted_at": "2026-09-10T03:04:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789009446.067389",
+      "summary_character_count": 379,
+      "summary_japanese": "Polysubstituted 1,2,3,4-tetrasubstituted BCBs were synthesized from internal alkynes and triftosylhydrazones by chiral dirhodium-catalyzed stepwise or one-pot [2+1+1] cycloaddition. The sterically hindered catalyst Rh2(R-3,5-diPheTPCP)4 kinetically resolved cyclopropene enantiomers, furnishing highly enantioenriched BCBs under mild conditions from readily available substrates.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution"
+    },
     "10.1134/s106377882614005x": {
       "doi": "10.1134/s106377882614005x",
       "posted_at": "2026-09-02T04:35:05+00:00",
@@ -12714,6 +12739,19 @@
       "summary_used_fallback": false,
       "title": "Ultrastrong Host-Guest Recognition Driven Chiral Supramolecular Polymers with Circularly Polarized Luminescence in Water"
     },
+    "10.3390/pr14182868": {
+      "doi": "10.3390/pr14182868",
+      "posted_at": "2026-09-10T03:04:20+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789009460.041479",
+      "summary_character_count": 108,
+      "summary_japanese": "調製カオリン粘土中のヘリカルアンカーを模型試験し、ピッチ、進行比、貫入速度、軸形状が設置抵抗と引抜き挙動に及ぼす影響を評価した。貫入速度の増加で累積トルクは増大し、極限引抜き容量は478 Nから315 Nへ低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Influence of Installation Parameters and Geometric Configurations on the Uplift Capacity of Helical Anchors: An Experimental Investigation"
+    },
     "10.3390/s26175464": {
       "doi": "10.3390/s26175464",
       "posted_at": "2026-09-02T04:35:10+00:00",
@@ -12830,6 +12868,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circular dichroism arising from band-edge electronic transitions in chiral alaninePbX3·H2O (X = Br, I)"
+    },
+    "10.35848/1882-0786/aea46a": {
+      "doi": "10.35848/1882-0786/aea46a",
+      "posted_at": "2026-09-10T03:04:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789009455.577139",
+      "summary_character_count": 109,
+      "summary_japanese": "自己触媒VLS成長でGaS x Se 1-xナノベルトを合成し、組成の原料ガス比への非線形依存性を、Ga液滴上の吸着・脱離・結晶化を考慮した速度論モデルで再現した。Sの脱離／結晶化比がSeより大きいことが原因と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Kinetic origin of composition control in self-catalyzed vapor-liquid-solid growth of GaS x Se 1-x nanobelts"
     },
     "10.3847/2041-8213/ae9cb4": {
       "doi": "10.3847/2041-8213/ae9cb4",
@@ -13090,6 +13141,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Curvature-guided chiral collective organization of myoblast tissues"
+    },
+    "10.71229/gep31t82": {
+      "doi": "10.71229/gep31t82",
+      "posted_at": "2026-09-10T03:04:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789009451.265449",
+      "summary_character_count": 130,
+      "summary_japanese": "MWCNT-Al2O3水系ハイブリッドナノ流体と螺旋バッフルを用いる二重管熱交換器をCFDと実験で解析し、Reynolds数・粒子濃度・バッフル形状がNu数、摩擦係数、全エントロピー生成に及ぼす影響を評価した。最適粒子濃度で全エントロピー生成は大幅に低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mixed Convection and Entropy Generation in a Double-Pipe Heat Exchanger Using Hybrid Nanofluids and Helical Baffles"
     },
     "10.7566/jpsj.95.104705": {
       "doi": "10.7566/jpsj.95.104705",
