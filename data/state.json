@@ -28,7 +28,7 @@
     "2026-09-09": 15,
     "2026-09-10": 25,
     "2026-09-11": 31,
-    "2026-09-12": 10
+    "2026-09-12": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10297,6 +10297,19 @@
       "summary_used_fallback": false,
       "title": "A review on synthetic methodologies of chiral sulfoxides"
     },
+    "10.1088/0256-307x/43/10/100401": {
+      "doi": "10.1088/0256-307x/43/10/100401",
+      "posted_at": "2026-09-11T22:58:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789167490.068809",
+      "summary_character_count": 108,
+      "summary_japanese": "導波光のヘリシティ固有状態には双対性対称性だけでなく、導波路幾何により定まる二次元既約表現との同型性が必要と示した。双対性が破れた場合、固有状態は傍軸極限でのみ近似的に存在し、横方向閉じ込めが対称性破れの起源である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Symmetry Requirements for Helicity Eigenstates of Guided Light"
+    },
     "10.1088/0256-307x/43/8/080801": {
       "doi": "10.1088/0256-307x/43/8/080801",
       "posted_at": "2026-07-19T12:17:44+00:00",
@@ -11051,6 +11064,19 @@
       "summary_used_fallback": false,
       "title": "Helicity-Resolved Greybody Factors of AdS-NLED Black Holes with Strings and Quintessence"
     },
+    "10.1142/s1793524526501093": {
+      "doi": "10.1142/s1793524526501093",
+      "posted_at": "2026-09-11T22:58:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789167510.951349",
+      "summary_character_count": 105,
+      "summary_japanese": "R(-)体がS(+)体へ一方向転換するキラル薬を対象に、静脈内・血管外投与の区画薬物動態モデルを解析し、ibuprofenシミュレーションで実測総濃度と有効濃度の差、血管外投与での有効ピーク低下と遅延を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exploring Pharmacokinetic Discrepancies of Chiral Drugs with Unidirectional Enantiomeric Conversion"
+    },
     "10.1177/00219983261480358": {
       "doi": "10.1177/00219983261480358",
       "posted_at": "2026-08-25T18:36:50+00:00",
@@ -11206,6 +11232,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrafast chiral sensing with an ultraviolet vector beam"
+    },
+    "10.1364/opticaopen.27952704.v2": {
+      "doi": "10.1364/opticaopen.27952704.v2",
+      "posted_at": "2026-09-11T22:58:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789167494.699089",
+      "summary_character_count": 113,
+      "summary_japanese": "海洋生物に着想を得て、配向したキラル分子の対掌体を直交する直線偏光領域へ逆向きに駆動する電気双極子相互作用型キラル光学力を提案した。これは非共鳴でほぼ全てのキラル分子に適用でき、数値シミュレーションで現実的な実験案を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Robust Chiral Optical Force via Electric Dipole Interactions, Inspired by a Sea Creature"
     },
     "10.1364/opticaopen.32538849.v3": {
       "doi": "10.1364/opticaopen.32538849.v3",
@@ -13247,6 +13286,19 @@
       "summary_used_fallback": false,
       "title": "Universal Behavior in Enantioselective Adsorption of Amino Acids onto Chiral Terbium Phosphate Nanocrystals"
     },
+    "10.3390/molecules31183198": {
+      "doi": "10.3390/molecules31183198",
+      "posted_at": "2026-09-11T22:58:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789167506.617529",
+      "summary_character_count": 102,
+      "summary_japanese": "Blueberry juiceのPT・UHT後4週間保存をキラルGC-MSで評価し、PTは品質と香気をより保持した。PTでは(R)-linaloolが(S)体へ異性化し、UHTでは(R)体が直接分解した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of Thermal Processing and Storage on the Quality and Chirality of Linalool in Blueberry Juice"
+    },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
       "posted_at": "2026-09-03T18:21:05+00:00",
@@ -13389,6 +13441,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Simulation of Tailoring Chiral Light Propagation in Gold-Silver Hybrid Plasmonic Waveguides"
+    },
+    "10.3390/sym18091514": {
+      "doi": "10.3390/sym18091514",
+      "posted_at": "2026-09-11T22:58:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789167499.212019",
+      "summary_character_count": 119,
+      "summary_japanese": "点不斉を欠く半柔軟性poly(n-butyl-isobutylsilane)をCD・CPL・MCD・MChDで解析し、温度依存ヘリックス反転と約20 s周期のCPL振動を観測した。基底・励起状態でP奇偶およびT奇偶状態の混合が示唆された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Possible Space-Inversion (P) and Time-Reversal (T) Symmetry Breaking in Poly(n-butyl-isobutylsilane) and Homologs"
     },
     "10.3390/technologies14090540": {
       "doi": "10.3390/technologies14090540",
