@@ -27,7 +27,8 @@
     "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
-    "2026-09-11": 31
+    "2026-09-11": 31,
+    "2026-09-12": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6598,6 +6599,19 @@
       "recovered_from_run": 29635004972,
       "score": 27
     },
+    "10.1021/acs.orglett.6c02599": {
+      "doi": "10.1021/acs.orglett.6c02599",
+      "posted_at": "2026-09-11T16:29:41+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789144181.687229",
+      "summary_character_count": 116,
+      "summary_japanese": "剛直な二重らせん構造をもつ二重窒素架橋キラルspirobifluorene二量体を合成し、その一電子酸化種を混合原子価系として検討した。可変温度ESRにより、ΔH‡=1.25 kcal mol−1の熱活性化分子内電子交換を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Doubly Nitrogen-Bridged Chiral Spirobifluorene Dimeric Macrocycle: Synthesis, Properties, and Thermally Activated Electron Exchange in the Oxidized State"
+    },
     "10.1021/acs.orglett.6c02691": {
       "doi": "10.1021/acs.orglett.6c02691",
       "posted_at": "2026-09-03T07:47:45+00:00",
@@ -7299,6 +7313,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Heterohelicenes via Organocatalyzed Oxidative Formal [3 + 2] Cycloadditions between Polycyclic Indoles and Quinones"
+    },
+    "10.1021/acscatal.6c05271": {
+      "doi": "10.1021/acscatal.6c05271",
+      "posted_at": "2026-09-11T16:30:02+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789144202.723309",
+      "summary_character_count": 125,
+      "summary_japanese": "NHC触媒desymmetric annulationにより、1,4位にP(V)およびC不斉中心を有する七員環phosphacycleをエナンチオ・ジアステレオ選択的に合成した。DFT計算で、選択性はannulation段階で制御されることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Synthesis of P(V)-Stereogenic Phosphacycles by N-Heterocyclic Carbene (NHC)-Catalyzed Desymmetric Annulation"
     },
     "10.1021/acscatal.6c05426": {
       "doi": "10.1021/acscatal.6c05426",
@@ -8631,6 +8658,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Redox-Driven Antiaromaticity Enables Multistate Conductance in 1D Topological Insulators"
+    },
+    "10.1021/jacs.6c16552": {
+      "doi": "10.1021/jacs.6c16552",
+      "posted_at": "2026-09-11T16:29:36+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789144176.671129",
+      "summary_character_count": 129,
+      "summary_japanese": "bifunctional multi-aluminum porphyrin（BMAlP）触媒のイオン対支援動的らせん組織化により、rac-POから[mm] 97.6%、Mv 6700 kDaの高アイソタクチックPPOを合成し、引張強度92 MPaを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Supramolecular Helicity in a Multi-Aluminum Porphyrin Catalyst Enables Stereocontrolled Synthesis of Ultrahigh-Molecular-Weight Isotactic Poly(propylene oxide)"
     },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
@@ -12557,6 +12597,19 @@
       "summary_used_fallback": false,
       "title": "Hypermolecule: Chemically Synthesized Three-dimensional Macroscopic Molecular Moiré Superlattices"
     },
+    "10.26434/chemrxiv.15008635/v1": {
+      "doi": "10.26434/chemrxiv.15008635/v1",
+      "posted_at": "2026-09-11T16:29:54+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789144194.141809",
+      "summary_character_count": 127,
+      "summary_japanese": "高アスペクト比chiral gold nanofibersは、trans-1,2-bis(4-pyridyl)etheneを1 nMまで検出し、金nanorodsの2–3倍のSERS効率を示した。紙基材でも活性を保ち、D/L-cysteineを識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral gold nanofibers as substrates towards SERS-based chiral and flexible sensing"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -13115,6 +13168,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Alanine Functionalized Perylene Diimides: Supramolecular Self-Assembly and Optical Properties"
+    },
+    "10.3390/molecules31183187": {
+      "doi": "10.3390/molecules31183187",
+      "posted_at": "2026-09-11T16:29:47+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789144186.957959",
+      "summary_character_count": 115,
+      "summary_japanese": "Λ/Δ-TbPO4·H2Oナノ結晶へのasparagine、serine、histidineの鏡像選択的吸着をCDと電位差滴定で解析し、低被覆率では一致するキラル対の平衡定数が約2倍高く、高被覆率ではFrumkinモデルに従った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Universal Behavior in Enantioselective Adsorption of Amino Acids onto Chiral Terbium Phosphate Nanocrystals"
     },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
