@@ -27,7 +27,7 @@
     "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
-    "2026-09-11": 20
+    "2026-09-11": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3974,6 +3974,19 @@
       "summary_used_fallback": false,
       "title": "Bioinspired Zinc Macrocycles Confined in UiO-67: A Heterogeneous Synzyme for Sustainable CO 2 Valorization"
     },
+    "10.1002/eem2.70513": {
+      "doi": "10.1002/eem2.70513",
+      "posted_at": "2026-09-11T04:41:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789101714.937219",
+      "summary_character_count": 108,
+      "summary_japanese": "Bi修飾Zn@CNTFアノード、螺旋状電極、自己修復PVA-Zn(CF3SO3)2-boraxゲルを統合したFAZIBは、130.54 Wh·kg−1を示し、1000回の動的曲げ後も初期容量の約90.2%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Fiber-Shaped Aqueous Zn-Ion Batteries with Modified Zn Anode and Self-Healing Gel Electrolyte for Flexible Electronics"
+    },
     "10.1002/ejic.70298": {
       "doi": "10.1002/ejic.70298",
       "posted_at": "2026-08-09T14:08:25+00:00",
@@ -5552,6 +5565,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective SERS Sensing of Amino Acids by Self-Assembled Chiral Au Nanorods"
+    },
+    "10.1021/acs.analchem.6c03808": {
+      "doi": "10.1021/acs.analchem.6c03808",
+      "posted_at": "2026-09-11T04:41:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789101706.231089",
+      "summary_character_count": 106,
+      "summary_japanese": "Ag+配位でLMCT発光を増強・青方偏移させるAu-d-Cys nanoflowersを用い、d-/l-Glutamineを迅速に識別した。d-Glnは強く消光し、選択識別係数22.25およびee定量を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Silver Ion-Regulated Luminescence of Chiral Au-Cysteine Nanoflowers for Highly Effective Enantioselective Recognition of Glutamine"
     },
     "10.1021/acs.cgd.6c00617": {
       "doi": "10.1021/acs.cgd.6c00617",
@@ -7422,6 +7448,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intrinsic ChiralFiber Lasers Enabled by Chiral SupramolecularGlasses"
+    },
+    "10.1021/acsphyschemau.6c00112": {
+      "doi": "10.1021/acsphyschemau.6c00112",
+      "posted_at": "2026-09-11T04:41:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789101701.257519",
+      "summary_character_count": 95,
+      "summary_japanese": "キラルlead-halide perovskiteナノ材料のキロプティカル応答を、非対称性が生成時に選択され最終材料のどこに保持されるかで整理し、各機構の識別に必要な測定と対照実験を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tracing the Origin of Chiropticity in Lead-Halide Perovskite Nanomaterials"
     },
     "10.1021/acsphyschemau.6c00115": {
       "doi": "10.1021/acsphyschemau.6c00115",
@@ -10504,6 +10543,19 @@
       "summary_used_fallback": false,
       "title": "How effective Cyclone Preparedness Programme (CPP) is in promoting inclusive disaster resilience in Bangladesh?"
     },
+    "10.1108/ilt-01-2026-0019": {
+      "doi": "10.1108/ilt-01-2026-0019",
+      "posted_at": "2026-09-11T04:41:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789101710.252809",
+      "summary_character_count": 118,
+      "summary_japanese": "粗面アスペリティの側方接触、摩擦、弾性から完全塑性までの変形を考慮したはすば歯車の熱接触コンダクタンスモデルを構築した。数値解析で、低摩擦係数と高フラクタル次元・低フラクタル粗さが接触面積と熱接触コンダクタンスを増大させることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Research on thermal contact conductance of helical gears considering rough surface lateral contact and friction coefficient"
+    },
     "10.1111/andr.70353": {
       "doi": "10.1111/andr.70353",
       "posted_at": "2026-08-29T10:05:43+00:00",
@@ -11348,6 +11400,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Electronic circular dichroism prediction on monomeric and dimeric γ-lactone derivatives: An important role of conformational averaging"
+    },
+    "10.26434/chemrxiv-2024-r3l1b/v2": {
+      "doi": "10.26434/chemrxiv-2024-r3l1b/v2",
+      "posted_at": "2026-09-11T04:41:34+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789101694.250099",
+      "summary_character_count": 132,
+      "summary_japanese": "pyranine–viologen電荷移動錯体の可逆的redox assembly–disassemblyが密度駆動chemoconvectionを生み、外場なしでdot、stripe、flower状構造を形成した。解析とシミュレーションで発現条件と波長を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemically Fueled Spatiotemporal Patterns from Charge-transfer Supramolecular Assembly"
     },
     "10.26434/chemrxiv.10001679/v3": {
       "doi": "10.26434/chemrxiv.10001679/v3",
