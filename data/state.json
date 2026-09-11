@@ -27,7 +27,7 @@
     "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
-    "2026-09-11": 25
+    "2026-09-11": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1421,6 +1421,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis, Structure, and Photothermal Conversion of a Bowl-Shaped Nanographene Containing Fused 5-/7-Ring Pairs"
     },
+    "10.1002/ange.7959451": {
+      "doi": "10.1002/ange.7959451",
+      "posted_at": "2026-09-11T07:57:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789113465.753789",
+      "summary_character_count": 126,
+      "summary_japanese": "pyrene-based tetracarboxylic acidから、蒸発速度と加熱温度で形態を制御したヘリカルHOFを作製し、BET比表面積最大1602 m² g⁻¹、ゲスト溶媒に応答する伸縮と第二成分添加による蛍光・二重らせん形態の調節を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Single Crystals of Porous Hydrogen-Bonded Organic Frameworks as a Candidate for Morphologically Functional Organic Materials"
+    },
     "10.1002/ange.7978333": {
       "doi": "10.1002/ange.7978333",
       "posted_at": "2026-07-27T15:15:56+00:00",
@@ -2745,6 +2758,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrasound-Triggered Heterojunction Helices With Inverted Supramolecular Chirality and Significantly Amplified Circularly Polarized Luminescence"
+    },
+    "10.1002/anie.7084396": {
+      "doi": "10.1002/anie.7084396",
+      "posted_at": "2026-09-11T07:57:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789113455.873319",
+      "summary_character_count": 116,
+      "summary_japanese": "1,1-diborylalkeneとaldehydeから、銅触媒的不斉vinyl boron-Wittig反応によりジ・三置換キラルalleneを合成した。高いエナンチオ選択性と官能基許容性を示し、B-O脱離を含む機構が支持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Copper-Catalyzed Vinyl Boron-Wittig Reaction to Form Allenes"
     },
     "10.1002/anie.7100719": {
       "doi": "10.1002/anie.7100719",
@@ -5578,6 +5604,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Silver Ion-Regulated Luminescence of Chiral Au-Cysteine Nanoflowers for Highly Effective Enantioselective Recognition of Glutamine"
+    },
+    "10.1021/acs.analchem.6c04189": {
+      "doi": "10.1021/acs.analchem.6c04189",
+      "posted_at": "2026-09-11T07:57:30+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789113450.946009",
+      "summary_character_count": 113,
+      "summary_japanese": "CF3を有するcyclorhodium(III) probe 4により、アミン・ニトリルの配位を19F NMRシグナルへ変換し、最大Rs 92.4で分離不要のエナンチオ識別を達成した。粗生成物のeeはキラルHPLCと一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Fluorinated Cyclorhodium Probe Enables Separation-Free 19F NMR Enantiodifferentiation of Chiral Amines and Nitriles"
     },
     "10.1021/acs.cgd.6c00617": {
       "doi": "10.1021/acs.cgd.6c00617",
@@ -9607,6 +9646,19 @@
       "summary_used_fallback": false,
       "title": "Manipulating Peierls-Nabarro stress to realize extraordinary thermoelectric performance in n-type PbTe"
     },
+    "10.1038/s41467-026-77579-w": {
+      "doi": "10.1038/s41467-026-77579-w",
+      "posted_at": "2026-09-11T07:57:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789113460.629929",
+      "summary_character_count": 124,
+      "summary_japanese": "音響トポロジカルメタグレーティングで自発的対称性の破れによる非Hermitian二重井戸界面を設計し、例外点に起因するJackiw-Rebbi状態を観測した。表面伝搬する一定位相跳躍と、20 dB増強・発散角0.1 radの高指向性放射を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Acoustic topological Jackiw-Rebbi states at symmetry broken interfaces"
+    },
     "10.1038/s41467-026-77613-x": {
       "doi": "10.1038/s41467-026-77613-x",
       "posted_at": "2026-09-09T22:55:27+00:00",
@@ -13271,6 +13323,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Kinetic origin of composition control in self-catalyzed vapor-liquid-solid growth of GaS x Se 1-x nanobelts"
+    },
+    "10.3847/1538-4357/ae92f9": {
+      "doi": "10.3847/1538-4357/ae92f9",
+      "posted_at": "2026-09-11T07:57:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789113445.957829",
+      "summary_character_count": 97,
+      "summary_japanese": "LIGO/Virgo、NICER、パルサー観測にχ EFT不確実性とpQCD制約を組み込むEOSベイズ推論で、n≳3n0の硬化を示し、対称エネルギー傾きLを42.6–56.7 MeVと推定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Astrophysics Equation of State Inference with Bayesian Chiral Effective Field Theory Uncertainties"
     },
     "10.3847/2041-8213/ae9cb4": {
       "doi": "10.3847/2041-8213/ae9cb4",
