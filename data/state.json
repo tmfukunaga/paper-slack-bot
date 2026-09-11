@@ -28,7 +28,7 @@
     "2026-09-09": 15,
     "2026-09-10": 25,
     "2026-09-11": 31,
-    "2026-09-12": 5
+    "2026-09-12": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -394,6 +394,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Wavelength- and Helicity-Reconfigurable Circularly Polarized Optical Diodes Enabled by Molecular Photoswitches"
+    },
+    "10.1002/adma.74963": {
+      "doi": "10.1002/adma.74963",
+      "posted_at": "2026-09-11T18:10:47+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789150247.227659",
+      "summary_character_count": 125,
+      "summary_japanese": "Microfluidicで中心空洞を有する弾性photothermal helical gel microfiberを作製し、らせんピッチの調整で光・熱・水輸送を最適化した。1 sun下で3.65 kg m−2 h−1の蒸発速度と高い耐塩性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Microfluidic-Enabled Elastic Photothermal Helical Gel Microfibers for High-Efficiency Solar Evaporation With Spatially Regulated Light-Thermal-Water Management"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -6125,6 +6138,19 @@
       "summary_used_fallback": false,
       "title": "Structural Chirality Transfer from Agar Hydrogel to Chiral Luminescent Carbon Dots via Hydrothermal Carbonization"
     },
+    "10.1021/acs.jpcb.6c04747": {
+      "doi": "10.1021/acs.jpcb.6c04747",
+      "posted_at": "2026-09-11T18:10:52+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789150252.290839",
+      "summary_character_count": 114,
+      "summary_japanese": "補助カルボキシラート配位子の幾何と連結性を変える多成分自己集合で、単・二・三環性PDI蛍光metallacycleを構築した。量子収率69.5–81.4%を示し、三環体はpicric acidを2.3 μmol/Lまで検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological Engineering of Perylene Diimide-Based Metallacycles through Multicomponent Self-Assembly for Fluorescence Sensing of Picric Acid"
+    },
     "10.1021/acs.jpcc.6c02485": {
       "doi": "10.1021/acs.jpcc.6c02485",
       "posted_at": "2026-08-24T09:44:20+00:00",
@@ -6988,6 +7014,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Driven Left-Handed Helical Nanofibers with Amplified CPL Emission via Helicoidal Aggregation of Bulky Naphthalimide AIEgens"
+    },
+    "10.1021/acsami.6c11373": {
+      "doi": "10.1021/acsami.6c11373",
+      "posted_at": "2026-09-11T18:10:33+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789150233.789139",
+      "summary_character_count": 119,
+      "summary_japanese": "(S)-AD/(R)-AD超分子ナノ構造で、溶媒―溶質のヘテロキラル認識により圧電応答を増強した。時間分解測定、MD、分光・DFT解析から、溶媒離脱後も高双極子モーメント配座が残存し、(S)-CPAは(R)-CPA比200%増強を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced Piezoelectric Response via Transient Heterochiral Solvent-Solute Matching in Supramolecular Assembly"
     },
     "10.1021/acsami.6c12055": {
       "doi": "10.1021/acsami.6c12055",
@@ -10024,6 +10063,19 @@
       "summary_used_fallback": false,
       "title": "Catalytic Enantioselective Synthesis of DMAP-based Inherently Chiral Macrocycles"
     },
+    "10.1055/a-2945-3216": {
+      "doi": "10.1055/a-2945-3216",
+      "posted_at": "2026-09-11T18:10:57+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789150257.236989",
+      "summary_character_count": 130,
+      "summary_japanese": "triptyceneを剛直な三次元テンプレートに用い、3本のbenzanilide柱を事前配向して分子内環化した。Suzuki coupling、Rh触媒[2+2+2]環化、olefin metathesisにより、軸不斉をもつ剛直な杯状nanocupを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Nanocup Molecules Constructed by Macrocyclization on Triptycene Platform"
+    },
     "10.1055/a-2953-4846": {
       "doi": "10.1055/a-2953-4846",
       "posted_at": "2026-09-05T22:38:45+00:00",
@@ -10127,6 +10179,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Deformation-driven modulation of chirality and spin polarization in L-cysteine intercalated MoS2 nanosheets: A mechanistic approach to chirality-induced spin selectivity in two-dimensional material"
+    },
+    "10.1063/5.0349051": {
+      "doi": "10.1063/5.0349051",
+      "posted_at": "2026-09-11T18:10:39+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789150238.974699",
+      "summary_character_count": 132,
+      "summary_japanese": "ランダム不均質キラル媒体の拡散・ホッピング電荷スピン輸送に有効媒質理論を定式化し、Onsager-Casimir相反性を保つ均質化係数を導出した。rank-one経路では縦変換がχ(p⋅n)^3に比例し、等方配向・head-tail対称ネマチック秩序で相殺される。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Homogenized spin-charge transport in random heterogeneous chiral molecular media"
     },
     "10.1073/pnas.2532158123": {
       "doi": "10.1073/pnas.2532158123",
