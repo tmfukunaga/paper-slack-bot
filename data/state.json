@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-10": 11,
     "2026-08-12": 25,
     "2026-08-13": 15,
     "2026-08-14": 18,
@@ -28,9 +27,22 @@
     "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
-    "2026-09-11": 15
+    "2026-09-11": 20
   },
   "posted": {
+    "10.1002/1873-3468.70458": {
+      "doi": "10.1002/1873-3468.70458",
+      "posted_at": "2026-09-11T02:59:39+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789095579.850339",
+      "summary_character_count": 90,
+      "summary_japanese": "ExoMarsのMOMA搭載エナンチオ選択的GC-MSカラムで、初めてchloroalkane enantiomersを分離し、火星での分離が可能であることと最適運転条件を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral separation of chloroalkanes with the chromatographic column onboard Martian rovers"
+    },
     "10.1002/adfm.202600059": {
       "doi": "10.1002/adfm.202600059",
       "posted_at": "2026-08-02T00:04:42+00:00",
@@ -966,6 +978,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "High Luminescence Dissymmetry in Zero-Dimensional Chiral Hybrid Metal Halide With Inter-Octahedral Hydrogen Bonding"
+    },
+    "10.1002/ange.2349367": {
+      "doi": "10.1002/ange.2349367",
+      "posted_at": "2026-09-11T02:59:35+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789095575.518819",
+      "summary_character_count": 114,
+      "summary_japanese": "進化型マンガン触媒とH2O2を用い、非キラルpiperidineのα-C(sp3)–H酸化を高エナンチオ・ジアステレオ選択的に行い、汎用的なキラルN,O-acetalへ変換した。HAT、電子移動、迅速な水酸化を経る機構を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direct Access to Chiral Piperidines by Enantioselective HAT-Initiated C( sp 3 )─H Oxidation"
     },
     "10.1002/ange.2496785": {
       "doi": "10.1002/ange.2496785",
@@ -3065,6 +3090,19 @@
       "summary_used_fallback": false,
       "title": "A General and Scalable Chiral Surrogate Rotaxane Strategy for Highly Enantioenriched Mechanically Planar Chiral Rotaxanes"
     },
+    "10.1002/anie.9038203": {
+      "doi": "10.1002/anie.9038203",
+      "posted_at": "2026-09-11T02:59:45+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789095585.200919",
+      "summary_character_count": 115,
+      "summary_japanese": "動的acylhydrazone結合と水素結合を同時形成するsubcomponent self-assemblyにより、アニオン配位A2L4四重らせん体を高収率で構築した。H1はTBA+やTPA+を包接し、光照射でゲストを放出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Subcomponent Self-Assembly of Anion-Coordinated Quadruple Helicates With Light-Induced Guest Release"
+    },
     "10.1002/anie.9070689": {
       "doi": "10.1002/anie.9070689",
       "posted_at": "2026-08-15T03:04:17+00:00",
@@ -4039,6 +4077,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Straightforward Synthesis of Benzestrol by Matteson Homologation Using Chiral Benzyl Carbamates"
+    },
+    "10.1002/ejoc.70814": {
+      "doi": "10.1002/ejoc.70814",
+      "posted_at": "2026-09-11T02:59:53+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789095593.549909",
+      "summary_character_count": 132,
+      "summary_japanese": "平面キラル7-bromo-4-hydroxy[2.2]paracyclophaneを、ジアステレオマーエステル化で(RP)体としてee > 99%、通算収率33%で単離した。4-hydroxy体のHPLC分割と位置選択的臭素化により、両エナンチオマーも純粋に得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Resolution Approaches Toward Enantiopure Planar Chiral 7-bromo-4-hydroxy [2.2]paracyclophane"
     },
     "10.1002/elps.70144": {
       "doi": "10.1002/elps.70144",
@@ -12362,6 +12413,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Probing Electronic Structure of Chiral Unsaturated Hydrocarbons at the Carbon Edge"
+    },
+    "10.26434/chemrxiv.15008556/v1": {
+      "doi": "10.26434/chemrxiv.15008556/v1",
+      "posted_at": "2026-09-11T03:00:01+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789095601.189049",
+      "summary_character_count": 111,
+      "summary_japanese": "化学合成分子のtwist-stacked 2D moiré超格子が巨視的3D超格子Hypermoleculeへ成長する過程をTEM、分光、XRDで解析し、2D・3D構造のchiroptical behaviorを観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hypermolecule: Chemically Synthesized Three-dimensional Macroscopic Molecular Moiré Superlattices"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
