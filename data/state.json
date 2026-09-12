@@ -28,7 +28,7 @@
     "2026-09-09": 15,
     "2026-09-10": 25,
     "2026-09-11": 31,
-    "2026-09-12": 15
+    "2026-09-12": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6950,6 +6950,19 @@
       "summary_used_fallback": false,
       "title": "Strain-Engineered Intramolecular Junctions in Chirality-Enriched Carbon Nanotubes with Gate-Tunable Photoresponse"
     },
+    "10.1021/acsami.6c07914": {
+      "doi": "10.1021/acsami.6c07914",
+      "posted_at": "2026-09-12T03:06:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789182405.772099",
+      "summary_character_count": 90,
+      "summary_japanese": "triangliminesを液液界面でPLEによりCOFへ変換し、高結晶性・高多孔性の自立膜を作製した。界面張力測定、顕微鏡、分光法で形成機構を解析し、膜は高い溶媒透過性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Elucidation of Macrocycle-Derived Covalent Organic Framework Film Formation through Interfacial Linker Exchange"
+    },
     "10.1021/acsami.6c08888": {
       "doi": "10.1021/acsami.6c08888",
       "posted_at": "2026-08-18T21:21:43+00:00",
@@ -7501,6 +7514,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "In Situ Growth of Copper Phenylacetylide Nanobelts on Copper Foil for Enhanced Electroreduction of CO 2 to Multi-Carbon Products"
+    },
+    "10.1021/acsomega.6c01239": {
+      "doi": "10.1021/acsomega.6c01239",
+      "posted_at": "2026-09-12T03:06:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789182398.555379",
+      "summary_character_count": 348,
+      "summary_japanese": "DFT calculations were used to examine the origins of enantioselectivity and regioselectivity in the Chiral CpXCo(III)-catalyzed asymmetric [4+1] annulation of N-chlorobenzamide with cyclopropenes. Although the microkinetic model did not predict the trans-endo/cis-endo product ratio, the discrepancy fell within typical intrinsic DFT error margins.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective [4+1] Annulation of Benzamide with Cyclopropene via Chiral CpXCo(III) Catalysis: A DFT Perspective"
     },
     "10.1021/acsomega.6c01630": {
       "doi": "10.1021/acsomega.6c01630",
@@ -11506,6 +11532,19 @@
       "summary_used_fallback": false,
       "title": "Fluorescent Chiral Multilayer Polymer for Hexavalent Chromium Sensing"
     },
+    "10.20944/preprints202609.0710.v1": {
+      "doi": "10.20944/preprints202609.0710.v1",
+      "posted_at": "2026-09-12T03:06:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789182419.090579",
+      "summary_character_count": 110,
+      "summary_japanese": "豪州の送電網拡張を対象に、政策・地盤工学・事例を統合レビューし、steel helical pile groupsは膨潤性粘土への設計対応、即時耐荷力、施工負荷・炭素排出の低減でbored pilesより有望と結論した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Technical Review: Performance, Design, and Deployment of Steel Helical Pile Groups for Transmission Infrastructure"
+    },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
       "posted_at": "2026-07-17T17:28:01+00:00",
@@ -13026,6 +13065,19 @@
       "summary_used_fallback": false,
       "title": "Large-Scale Experimental Investigation of the Performance of Helical Piles Under Cyclic Lateral Loading in Dense Sand"
     },
+    "10.3390/coatings16091079": {
+      "doi": "10.3390/coatings16091079",
+      "posted_at": "2026-09-12T03:06:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789182410.020139",
+      "summary_character_count": 126,
+      "summary_japanese": "剛性が固定端から自由端へ低下する薄肉frame-beam向けに、先端からシャンクへrake・clearance角を増すヘリカル可変角エンドミルを設計・製作した。比較切削で切削力を9.50%以上、逃げ面摩耗を77.78%、加工誤差を24.13%低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design of a Helical Variable-Angle End Mill for Thin-Walled Frame-Beam Components with Spatially Varying Stiffness: Machining Quality and Tool Wear"
+    },
     "10.3390/computation14080166": {
       "doi": "10.3390/computation14080166",
       "posted_at": "2026-07-26T09:02:22+00:00",
@@ -13727,6 +13779,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Mechanical Programming of PEGDA- β -CD Polyrotaxane-Based Hydrogels via Host-Guest Molecular Recognition"
+    },
+    "10.5445/ir/1000196911": {
+      "doi": "10.5445/ir/1000196911",
+      "posted_at": "2026-09-12T03:06:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789182414.632659",
+      "summary_character_count": 110,
+      "summary_japanese": "FeGeの横方向閉じ込めによるヘリカル伝播ベクトルq制御を、非線形σ模型のマイクロ磁気計算、DMI境界条件の解析模型、MFMで検証した。開放境界のキラル表面ねじれが有効表面異方性としてヘリックス配向を決めることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Control of helix orientation in chiral magnets via lateral confinement"
     },
     "10.54946/wilm.12260": {
       "doi": "10.54946/wilm.12260",
