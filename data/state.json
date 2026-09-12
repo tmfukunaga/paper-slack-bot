@@ -28,7 +28,8 @@
     "2026-09-09": 15,
     "2026-09-10": 25,
     "2026-09-11": 31,
-    "2026-09-12": 20
+    "2026-09-12": 20,
+    "2026-09-13": 1
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8034,6 +8035,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "pi-ExtendedRedox-Active Ligand-PromotedCobalt-Catalyzed Diastereo- and Enantioselective Borylcyclopropanationof Alkenes"
+    },
+    "10.1021/jacs.6c08246": {
+      "doi": "10.1021/jacs.6c08246",
+      "posted_at": "2026-09-12T15:32:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789227163.529339",
+      "summary_character_count": 99,
+      "summary_japanese": "DOPA/DOPC proteoliposomeの電荷を変え、MAS NMR、ThT、TEMでα-synを解析した。25–35%陰性脂質でNAC近傍が膜から外れ、核形成加速と線維形態変化に相関した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrostatic Regulation of Alpha-Synuclein Membrane Binding Couples Conformational Release to Aggregation Kinetics"
     },
     "10.1021/jacs.6c08313": {
       "doi": "10.1021/jacs.6c08313",
