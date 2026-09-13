@@ -29,7 +29,7 @@
     "2026-09-11": 31,
     "2026-09-12": 20,
     "2026-09-13": 1,
-    "2026-09-14": 10
+    "2026-09-14": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5555,6 +5555,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Architecture of Chiral Macrocycles: Hierarchical Assembly and Confinement Effect for Enhanced Circularly Polarized Luminescence"
     },
+    "10.1021/accountsmr.6c00204": {
+      "doi": "10.1021/accountsmr.6c00204",
+      "posted_at": "2026-09-13T22:52:45+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789339965.254619",
+      "summary_character_count": 118,
+      "summary_japanese": "methylene-linked calixpyridinium・pillarpyridiniumの水系超分子材料を総説し、calixpyridiniumの部位選択的脱プロトン化を利用して形態制御、散逸系、薬物送達、光学材料を設計した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Materials Based on Methylene-Linked Water-Soluble Macrocyclic Calixpyridinium and Pillarpyridinium"
+    },
     "10.1021/acs.accounts.6c00081": {
       "doi": "10.1021/acs.accounts.6c00081",
       "posted_at": "2026-07-17T17:27:41+00:00",
@@ -5684,6 +5697,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Fluorinated Cyclorhodium Probe Enables Separation-Free 19F NMR Enantiodifferentiation of Chiral Amines and Nitriles"
+    },
+    "10.1021/acs.analchem.6c04721": {
+      "doi": "10.1021/acs.analchem.6c04721",
+      "posted_at": "2026-09-13T22:52:31+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789339951.096739",
+      "summary_character_count": 128,
+      "summary_japanese": "8個のaldehyde基を持つ二核Eu(III) helicateは、l-Cysとのthiazolidine環化でM-helix優勢となり、595 nmで強い負のCPLを示した。Hcy・GSHを識別し、水・BSA中で8.11×10−7 M未満まで検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aldehyde-Functionalized Eu(III) Helicate for l -Cysteine-Specific CPL Detection through Cyclization-Induced M-Helix Excess"
     },
     "10.1021/acs.cgd.6c00617": {
       "doi": "10.1021/acs.cgd.6c00617",
@@ -6217,6 +6243,19 @@
       "summary_used_fallback": false,
       "title": "In situ Second-HarmonicGeneration Probing of Magnetic-Field-InducedChiral Stacking in a Radical-Doped Liquid Crystal Monolayer"
     },
+    "10.1021/acs.jpcc.6c05545": {
+      "doi": "10.1021/acs.jpcc.6c05545",
+      "posted_at": "2026-09-13T22:52:40+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789339960.414019",
+      "summary_character_count": 100,
+      "summary_japanese": "キラルperovskite薄膜のCPLで符号の異なる離散遷移を観測し、不均一結晶化で共存する結晶・中間体・前駆体ドメインの独立寄与に帰属した。顕微分光測定で空間的に異なるドメインと吸収特性を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spectral Contributions to Circularly Polarized Luminescence beyond Artifacts in Solution-Processed Thin Films"
+    },
     "10.1021/acs.jpclett.6c01552": {
       "doi": "10.1021/acs.jpclett.6c01552",
       "posted_at": "2026-07-24T03:18:17+00:00",
@@ -6528,6 +6567,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Triple-Helical Assembly of Atomically Precise Silver Nanocluster-Assembled Material: A p-Type Semiconductor"
+    },
+    "10.1021/acs.nanolett.6c03075": {
+      "doi": "10.1021/acs.nanolett.6c03075",
+      "posted_at": "2026-09-13T22:52:26+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789339946.354559",
+      "summary_character_count": 105,
+      "summary_japanese": "共有結合修飾SWCNTの理論解析で、電気陰性欠陥が電子CD応答を2倍超、g因子を2.5倍超増大させることを示し、遷移キラルテンソルにより電気・磁気双極子の整列改善に伴う磁気遷移双極子寄与の増大を原因と同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Influence of Color-Center Electronegativity on Circular Dichroism in Single-Walled Carbon Nanotubes"
     },
     "10.1021/acs.nanolett.6c03195": {
       "doi": "10.1021/acs.nanolett.6c03195",
@@ -8386,6 +8438,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Low-Symmetry Crown Ether Design for Coexisting Ferroelectricity and Ferromagnetism in a Two-Dimensional Molecular Crystal"
+    },
+    "10.1021/jacs.6c10614": {
+      "doi": "10.1021/jacs.6c10614",
+      "posted_at": "2026-09-13T22:52:35+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789339955.481489",
+      "summary_character_count": 97,
+      "summary_japanese": "penta-COF由来ナノチューブの軸方向熱伝導率を機械学習ポテンシャルMDで解析し、曲率増大でκaxial∼1/R^1.31と向上し、ほぼ一定半径でもキラリティ依存性を示すことを明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Curvature-Enhanced and Chirality-Modulated Anomalous Thermal Transport in Pentagonal Covalent Organic Framework Nanotubes"
     },
     "10.1021/jacs.6c10817": {
       "doi": "10.1021/jacs.6c10817",
