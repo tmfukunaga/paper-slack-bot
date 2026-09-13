@@ -29,7 +29,7 @@
     "2026-09-11": 31,
     "2026-09-12": 20,
     "2026-09-13": 1,
-    "2026-09-14": 5
+    "2026-09-14": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4886,6 +4886,19 @@
       "summary_used_fallback": false,
       "title": "ct DNA-Driven Helical Assembly of Achiral Dimers: Simultaneous Activation of Three-Photon Fluorescence and Circularly Polarized Luminescence"
     },
+    "10.1002/smll.75729": {
+      "doi": "10.1002/smll.75729",
+      "posted_at": "2026-09-13T20:19:09+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789330749.462809",
+      "summary_character_count": 128,
+      "summary_japanese": "キラル溶媒のenantiomeric excessを連続制御し、cellulose acetateの配座を変調して半導体性SWCNT抽出の選択性を切り替えた。分光・構造解析により、溶媒キラリティーが多糖内の分子間・分子内相互作用の均衡を変えることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent-Chirality-Gated Recognition of Carbon Nanotubes by Polysaccharides"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -6938,6 +6951,19 @@
       "summary_used_fallback": false,
       "title": "Remote Generation of Pyramidalized N-N Axial Chirality via a Copper-Catalyzed Friedel-Crafts Reaction"
     },
+    "10.1021/acs.orglett.6c03628": {
+      "doi": "10.1021/acs.orglett.6c03628",
+      "posted_at": "2026-09-13T20:19:23+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789330763.478469",
+      "summary_character_count": 121,
+      "summary_japanese": "キラルリン酸触媒によるalkenylcyclobutyl boronateとaldehydeの不斉allylborationで、軸性・中心性キラルなACBを最大99% eeで合成し、Mitsunobu反転により3立体中心を選択的に切り替えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Axially and Centrally Chiral Alkylidenecyclobutanes Enabled by Catalytic Enantioselective Allylboration"
+    },
     "10.1021/acs.orglett.6c03641": {
       "doi": "10.1021/acs.orglett.6c03641",
       "posted_at": "2026-09-08T10:34:44+00:00",
@@ -7431,6 +7457,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Catalytic Enantioselective De Novo Synthesis of C 1-Symmetric Inherently Chiral Cages"
+    },
+    "10.1021/acscatal.6c05675": {
+      "doi": "10.1021/acscatal.6c05675",
+      "posted_at": "2026-09-13T20:19:05+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789330745.020549",
+      "summary_character_count": 109,
+      "summary_japanese": "chiral phosphoric acid触媒の金属フリー不斉[3+3]環化で、中心・らせん不斉を併せ持つazachromenohelicenesを高収率かつ良好な選択性で合成し、高い配置安定性と強い円二色性を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Organocatalytic Enantioselective [3+3] Annulation toward Chromene-Fused Helicenes Bearing Central and Helical Chirality With Chiroptical Properties"
     },
     "10.1021/acscatal.6c06151": {
       "doi": "10.1021/acscatal.6c06151",
@@ -9803,6 +9842,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ionic gel-mediated synthesis of nanostructured chiral 2D halide perovskites with amplified chiroptical response"
+    },
+    "10.1038/s41467-026-77436-w": {
+      "doi": "10.1038/s41467-026-77436-w",
+      "posted_at": "2026-09-13T20:18:57+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789330737.263159",
+      "summary_character_count": 135,
+      "summary_japanese": "Pd/Sadphos触媒によるラセミphenolic biarylsと1,3-dienesのDyKAT型dearomative Heck/Tsuji–Trost連続反応で、一過性軸不斉を点不斉へ移転し、最大99% eeで多環性spiro enonesを40種超合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Asymmetric Spiroannulation to Access Polycyclic Spiro Enones via Transient Axial-to-Point Chirality Induction and Transfer"
     },
     "10.1038/s41467-026-77449-5": {
       "doi": "10.1038/s41467-026-77449-5",
@@ -12909,6 +12961,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pedagogical Practices in Early Childhood Development: Roles of Facilitators in Community School ECD Centres"
+    },
+    "10.31635/ccschem.026.202608194": {
+      "doi": "10.31635/ccschem.026.202608194",
+      "posted_at": "2026-09-13T20:19:16+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789330756.516259",
+      "summary_character_count": 105,
+      "summary_japanese": "[12]CPPとcalix[4]areneを4本のboronate esterで連結したcavitand、Molecular Zunを合成した。X線解析で深さ11.8 Åの空孔を示し、Fc+を選択的に結合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Zun: A Cycloparaphenylene-Derived Cavitand"
     },
     "10.33263/briac164.113": {
       "doi": "10.33263/briac164.113",
