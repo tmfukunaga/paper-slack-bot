@@ -28,7 +28,8 @@
     "2026-09-11": 31,
     "2026-09-12": 20,
     "2026-09-13": 1,
-    "2026-09-14": 30
+    "2026-09-14": 30,
+    "2026-09-15": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -251,6 +252,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Bio-Inspired Helical Host-Guest Hydrogel Electrolytes for Reversible Polyiodide Regulation in Flexible Aqueous Zn||I 2 Batteries"
+    },
+    "10.1002/adfm.78436": {
+      "doi": "10.1002/adfm.78436",
+      "posted_at": "2026-09-14T17:41:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789407686.034589",
+      "summary_character_count": 135,
+      "summary_japanese": "sub-2 nm非晶質cobalt-dodecanethiolateナノベルトを階層集合し、平織り状細孔をもつ自立膜を作製した。1% water-in-dichloromethane乳化液で∼7333 L m−2 h−1 bar−1のフラックスと99%分離効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical Assembly of Sub-2 nm Amorphous Nanobelt Membranes for Oil-Water Separation via Pore Engineering"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -5411,6 +5425,19 @@
       "summary_used_fallback": false,
       "title": "Computational design of a photoactive [4]catenane with cyclo[48]carbon as an electron-accepting hub"
     },
+    "10.1016/j.jphotochem.2026.117675": {
+      "doi": "10.1016/j.jphotochem.2026.117675",
+      "posted_at": "2026-09-14T17:41:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789407701.159709",
+      "summary_character_count": 122,
+      "summary_japanese": "pyrene・phenanthrene誘導体のMCPLを理論解析し、TD-DFT/PBE/DZPがスペクトル形状を再現すると示した。Michl schemeを発光過程へ適用し、置換基の電子性と位置がMCPLバンド符号を決めることを明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aromatic polyarenes sign inversion in magnetic circularly polarized luminescence through quantum modelling"
+    },
     "10.1016/j.matlit.2026.100112": {
       "doi": "10.1016/j.matlit.2026.100112",
       "posted_at": "2026-09-03T16:26:35+00:00",
@@ -5540,6 +5567,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "3D hierarchical assembly of MoO3 nanobelt microflowers for enhanced lithium-ion battery anodes"
+    },
+    "10.1016/j.oceaneng.2026.128135": {
+      "doi": "10.1016/j.oceaneng.2026.128135",
+      "posted_at": "2026-09-14T17:41:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789407691.361779",
+      "summary_character_count": 96,
+      "summary_japanese": "実形状再構築CFD-DEMで深海採鉱ポンプ内の不規則粒子挙動を解析し、10 mmを摩耗機構転換の臨界径と特定した。球形度低下は羽根車摩耗を約60%低減する一方、案内羽根の局所摩耗を増大させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic behavior of irregular particles and transition mechanism of erosive wear in a helical mixed-flow deep-sea mining pump"
     },
     "10.1016/j.ssc.2026.116579": {
       "doi": "10.1016/j.ssc.2026.116579",
@@ -6319,6 +6359,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Recognition of β-Cyclodextrin for Propranolol Driven by Coordinated Multiple Effects: A Multi-Scale Molecular Dynamics Study"
+    },
+    "10.1021/acs.jpcb.6c04136": {
+      "doi": "10.1021/acs.jpcb.6c04136",
+      "posted_at": "2026-09-14T17:41:20+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789407680.543019",
+      "summary_character_count": 118,
+      "summary_japanese": "pyridinium修飾M1の1D水素結合カラムをcation-pi相互作用で側方連結し、面内正孔非局在化を示す2DA-1を構築した。O2発生速度は1.09 mmol g-1 h-1、460 nmでの見かけ量子効率は1.19%であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Lateral Self-Assembly of 1D Supramolecular Columns into Ordered 2D Assemblies Enables In-Plane Hole Delocalization for Photocatalytic O2 Evolution"
     },
     "10.1021/acs.jpcb.6c04747": {
       "doi": "10.1021/acs.jpcb.6c04747",
@@ -7586,6 +7639,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Confinement-Anchoring PtCoNi Nanoparticles in the Grooves of Sulfur-Doped Chiral Helical Carbon Nanotubes for Improved Oxygen Reduction Reaction"
+    },
+    "10.1021/acscatal.6c04996": {
+      "doi": "10.1021/acscatal.6c04996",
+      "posted_at": "2026-09-14T17:41:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789407671.414489",
+      "summary_character_count": 125,
+      "summary_japanese": "Ni触媒還元的クロスカップリングにより、脂肪族aldehyde由来のdifluoromethyl alkyl triflateをCF2Hラジカル前駆体として用い、BiOx ligand下でC(sp3)-CF2H立体中心を高エナンチオ選択的に構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioconvergent Assembly of Chiral Difluoromethyl Stereocenters by Nickel-Catalyzed Reductive Cross-Coupling"
     },
     "10.1021/acscatal.6c05079": {
       "doi": "10.1021/acscatal.6c05079",
