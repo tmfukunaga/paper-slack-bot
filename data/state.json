@@ -28,7 +28,7 @@
     "2026-09-11": 31,
     "2026-09-12": 20,
     "2026-09-13": 1,
-    "2026-09-14": 25
+    "2026-09-14": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -797,6 +797,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Terbium-Threonine Chiral Emitters with Tunable Circularly Polarized Luminescence as Anticounterfeiting-Ink for Autonomous Data Encryption"
+    },
+    "10.1002/advs.77641": {
+      "doi": "10.1002/advs.77641",
+      "posted_at": "2026-09-14T12:48:40+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789390120.295969",
+      "summary_character_count": 108,
+      "summary_japanese": "多光子バンドギャップ型キラル高分子膜と動的制御BiVO4-RGO-MXene変換器を結合し、360–830 nmのCPLを選択的に安定な電気信号へ変換する光電気化学検出器を開発し、CNNによる暗号化画像認識も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Interfacial Charge Regulation for High-Fidelity Broadband Circularly Polarized Light Detection"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -4221,6 +4234,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Total Synthesis of (-)- and (+)-Dihydromethysticin With Computational Insights Into CYP2B6 Binding"
+    },
+    "10.1002/ejoc.70843": {
+      "doi": "10.1002/ejoc.70843",
+      "posted_at": "2026-09-14T12:48:49+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789390129.062039",
+      "summary_character_count": 353,
+      "summary_japanese": "A modular, scalable route afforded 15- to 24-membered imidazole-containing crown ethers from 2,4-bis(hydroxymethyl)imidazole without protecting-group manipulations. Their sodium and potassium binding affinities matched those of classical crown ethers, while a dibenzylammonium pseudorotaxane formed in acetonitrile with Ka of approximately 1 × 10^4 M−1.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "A Modular and Scalable Synthesis of Imidazole-Embedded Crown Ethers and Evaluation of Their Cation Binding Properties"
     },
     "10.1002/elps.70144": {
       "doi": "10.1002/elps.70144",
@@ -7891,6 +7917,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "PhotoresponsiveReversible Assembly of Helical Poly(isocyanide)s"
+    },
+    "10.1021/acssensors.6c03292": {
+      "doi": "10.1021/acssensors.6c03292",
+      "posted_at": "2026-09-14T12:48:56+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789390136.674559",
+      "summary_character_count": 127,
+      "summary_japanese": "fluorescein修飾cyclotriguaiacylene（CTG-FL）はSr2+と1:1錯体を形成し、Ka=1.49×10^7 M−1、LOD=1.66 nMを示した。蛍光・比色・紙基材形式で実環境水のSr2+をICP-MSと一致して定量した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multimodal Cyclotriguaiacylene-Fluorescein Supramolecular Sensor for Field-Deployable Monitoring of Strontium in Complex Environmental Waters"
     },
     "10.1021/acssuschemeng.6c07574": {
       "doi": "10.1021/acssuschemeng.6c07574",
@@ -11870,6 +11909,19 @@
       "summary_used_fallback": false,
       "title": "Technical Review: Performance, Design, and Deployment of Steel Helical Pile Groups for Transmission Infrastructure"
     },
+    "10.20944/preprints202609.0983.v1": {
+      "doi": "10.20944/preprints202609.0983.v1",
+      "posted_at": "2026-09-14T12:49:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789390150.358429",
+      "summary_character_count": 131,
+      "summary_japanese": "L-aspartyl-L-phenylalanine methyl ester由来の蛍光キラルイオン液体[ASP][NTf2]と[ASP][BETI]をイオン交換で合成し、蛍光分光法でnaproxenおよびpropranololのエナンチオマー識別能を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Characterization of Two L-Aspartyl-L-Phenylalanine Methyl Ester Dipeptide Chiral Ionic Liquids and Evaluation of Enantiomeric Recognition Properties Using Fluorescence Spectroscopy"
+    },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
       "posted_at": "2026-07-17T17:28:01+00:00",
@@ -13077,6 +13129,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral gold nanofibers as substrates towards SERS-based chiral and flexible sensing"
+    },
+    "10.26434/chemrxiv.15008686/v1": {
+      "doi": "10.26434/chemrxiv.15008686/v1",
+      "posted_at": "2026-09-14T12:49:01+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789390141.682839",
+      "summary_character_count": 119,
+      "summary_japanese": "cycloheptatrienideの反芳香族性について、NICSと全パッカリング振幅Qの線形関係、およびAADEとの逆相関を定量化した。反応カスケードの解析では、反応物・中間体の反芳香族不安定化と中間体・生成物の芳香族安定化を特定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quantifying antiaromatic destabilization: flashing aromaticity in cascade transformations of cycloheptatrienide systems"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
