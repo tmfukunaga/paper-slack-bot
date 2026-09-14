@@ -28,7 +28,7 @@
     "2026-09-11": 31,
     "2026-09-12": 20,
     "2026-09-13": 1,
-    "2026-09-14": 20
+    "2026-09-14": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5996,6 +5996,19 @@
       "summary_used_fallback": false,
       "title": "ControlledSelf-Assembly of [2]-Catenanes Via Tuningthe Length and Conjugation Area of Flexible Building Units"
     },
+    "10.1021/acs.inorgchem.6c02795": {
+      "doi": "10.1021/acs.inorgchem.6c02795",
+      "posted_at": "2026-09-14T11:47:28+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789386448.739919",
+      "summary_character_count": 351,
+      "summary_japanese": "A tetraamido macrocyclic Co(III) complex, [CoIII(L1)]−, catalyzed nitrene transfer from PhI=NR to olefins, giving efficient aziridination and allylic amination, especially for sterically unencumbered styrenes. Mechanistic studies showed that aziridination proceeds through stepwise formation of two N–C bonds with both polar and radical contributions.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Nitrene-Transfer Chemistry to Olefins Mediated by Co(III) Catalysts Supported by a Tetraamido Macrocycle"
+    },
     "10.1021/acs.inorgchem.6c02821": {
       "doi": "10.1021/acs.inorgchem.6c02821",
       "posted_at": "2026-07-18T07:03:06+00:00",
@@ -6163,6 +6176,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Covalent TemplatedCatenane Synthesis Requiring HinderedEster Cleavage"
+    },
+    "10.1021/acs.joc.6c01439": {
+      "doi": "10.1021/acs.joc.6c01439",
+      "posted_at": "2026-09-14T11:47:33+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789386453.408879",
+      "summary_character_count": 98,
+      "summary_japanese": "CPA触媒yn amide媒介カルボン酸のアトロプ選択的amidation・esterificationをDFT解析し、共通の水素結合・イオン対活性化と、反応別に異なるアトロプ決定段階を解明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanism and Stereocontrol in Chiral Phosphoric Acid-Catalyzed Ynamide-Mediated Atroposelective Couplings of Carboxylic Acids with Amines and Alcohols"
     },
     "10.1021/acs.joc.6c01788": {
       "doi": "10.1021/acs.joc.6c01788",
@@ -6488,6 +6514,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inhomogeneous Stress Enabled by a Chiral Heterostructure for Strain Engineering in Freestanding Poly(lactic acid) Bulk"
+    },
+    "10.1021/acs.macromol.6c01671": {
+      "doi": "10.1021/acs.macromol.6c01671",
+      "posted_at": "2026-09-14T11:47:39+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789386459.423869",
+      "summary_character_count": 124,
+      "summary_japanese": "template-free法でNPAABS nanobeltsを作製し、約43%の交換可能counterionが鎖形態と電子構造を制御することを示した。除去で長さは114%増加し、polaron-rich salt formは強い抗菌活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ionic-Environment Control of Highest Occupied Molecular Orbital-Lowest Unoccupied Molecular Orbital Levels and Polaronic Transitions in Sulfonated Polyaniline Nanobelts: A Platform for Switchable Conductivity and Antibacterial Activity"
     },
     "10.1021/acs.macromol.6c01803": {
       "doi": "10.1021/acs.macromol.6c01803",
@@ -7092,6 +7131,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and Host-Guest Chemistry of Pyrene-Embedded Helical Carbon Nanohoops"
+    },
+    "10.1021/acs.orglett.6c03773": {
+      "doi": "10.1021/acs.orglett.6c03773",
+      "posted_at": "2026-09-14T11:47:44+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789386464.600919",
+      "summary_character_count": 123,
+      "summary_japanese": "キラルBINOL-boron錯体触媒により、β-fluoroalkyl-α,β-unsaturated ketonesとBCBsの不斉[2pi+2σ]環化付加を開発し、CF3/C2F5置換BCH誘導体を最大>20:1 dr、>99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Boron Complex-Catalyzed Asymmetric [2pi+2σ] Cycloaddition of β-Fluoroalkyl-α,β-Unsaturated Ketones with Bicyclo[1.1.0]butanes"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
@@ -9971,6 +10023,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ionic gel-mediated synthesis of nanostructured chiral 2D halide perovskites with amplified chiroptical response"
+    },
+    "10.1038/s41467-026-77392-5": {
+      "doi": "10.1038/s41467-026-77392-5",
+      "posted_at": "2026-09-14T11:47:49+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789386469.044669",
+      "summary_character_count": 109,
+      "summary_japanese": "(3β)-cholest-5-en-3-yl dodecylcarbamateの過冷却LC相を圧縮加工後に自発結晶化させ、自立シートを作製した。急冷温度と加工前保持時間によりcm超の分子配向と異方的機械特性を付与した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macroscopically anisotropic supramolecular materials prepared from an undercooled liquid-crystalline phase of a cholesterol-based low-molecular-weight compound"
     },
     "10.1038/s41467-026-77436-w": {
       "doi": "10.1038/s41467-026-77436-w",
