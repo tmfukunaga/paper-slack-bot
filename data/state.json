@@ -29,7 +29,7 @@
     "2026-09-13": 1,
     "2026-09-14": 30,
     "2026-09-15": 15,
-    "2026-09-16": 5
+    "2026-09-16": 9
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2357,6 +2357,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Virus-Mediated Self-Assembly of Functional Cyclodextrins for Antiviral Inhibition"
+    },
+    "10.1002/anie.3990758": {
+      "doi": "10.1002/anie.3990758",
+      "posted_at": "2026-09-15T20:52:24+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789505544.561369",
+      "summary_character_count": 103,
+      "summary_japanese": "POP戦略で安定なdibenzopentacene（DP）誘導体を初めて単結晶として単離し、X線回折とEPR・磁化率測定により、ねじれたヘリカル構造をもつ三重項基底状態diradicalであることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of a Stable Crystalline Dibenzopentacene Triplet Diradical via a Protection-Oxidation-Protection Strategy"
     },
     "10.1002/anie.3999519": {
       "doi": "10.1002/anie.3999519",
@@ -5262,6 +5275,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Quantification of natural raspberry flavor in foods using chiral GC-MS"
+    },
+    "10.1016/j.anucene.2026.112835": {
+      "doi": "10.1016/j.anucene.2026.112835",
+      "posted_at": "2026-09-15T20:52:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789505559.347579",
+      "summary_character_count": 90,
+      "summary_japanese": "らせん十字形燃料棒束流路の熱流動予測へ、CFDデータにPODとRBF代理モデルを結合した枠組みを適用し、最大相対誤差2.02%、計算時間を7200 sから7.328 sへ短縮した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Application of data driven POD reduced order model to helical cruciform fuel rod bundle"
     },
     "10.1016/j.bbamem.2026.184561": {
       "doi": "10.1016/j.bbamem.2026.184561",
@@ -10896,6 +10922,19 @@
       "summary_used_fallback": false,
       "title": "Interplay of Long-Range Interactions, Helical Chains, and Lone Pairs in Tellurium"
     },
+    "10.1088/1361-6404/aea724": {
+      "doi": "10.1088/1361-6404/aea724",
+      "posted_at": "2026-09-15T20:52:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789505554.025679",
+      "summary_character_count": 133,
+      "summary_japanese": "SchrödingerのZitterbewegungとde Broglieの内部周期性に基づき、電子をcで進む位相コヒーレントな螺旋運動として表す幾何学的教育モデルを提示し、spin、量子化、時間遅延、干渉を統一的に可視化した。標準的な量子・相対論的予測と整合する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical phase geometry: A pedagogical route to the physical origins of spin, quantization, and relativistic kinematics"
+    },
     "10.1088/1361-6587/ae8ead": {
       "doi": "10.1088/1361-6587/ae8ead",
       "posted_at": "2026-07-24T06:21:56+00:00",
@@ -13455,6 +13494,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "DFT Investigation of Nirmatrelvir Adsorption on Carbon Nanotubes for Nanodrug Delivery"
+    },
+    "10.33774/coe-2026-mj6hx": {
+      "doi": "10.33774/coe-2026-mj6hx",
+      "posted_at": "2026-09-15T20:52:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789505549.239479",
+      "summary_character_count": 121,
+      "summary_japanese": "フェルミオンとHiggs fieldの相互作用を検討し、chiral oscillationとmatter wavesの関係を解析した。運動中の全粒子がHiggs fieldと結合して慣性質量を生み、同時に粒子の波動性を励起しうると示唆した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "On the Relation between Chiral Oscillation and Matter Waves"
     },
     "10.3389/fbioe.2026.1849836": {
       "doi": "10.3389/fbioe.2026.1849836",
