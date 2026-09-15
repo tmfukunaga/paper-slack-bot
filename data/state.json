@@ -28,7 +28,8 @@
     "2026-09-12": 20,
     "2026-09-13": 1,
     "2026-09-14": 30,
-    "2026-09-15": 15
+    "2026-09-15": 15,
+    "2026-09-16": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7262,6 +7263,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis and Host-Guest Chemistry of Pyrene-Embedded Helical Carbon Nanohoops"
     },
+    "10.1021/acs.orglett.6c03674": {
+      "doi": "10.1021/acs.orglett.6c03674",
+      "posted_at": "2026-09-15T16:14:59+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789488899.681719",
+      "summary_character_count": 387,
+      "summary_japanese": "[2]Rotaxanes comprising catechol siliconate ion-containing crown ethers and secondary ammonium ions were synthesized by dynamic clipping through siliconate formation from bis-catechol, organotrimethoxysilanes, and secondary amines. Their structures, stabilized by ion-ion interactions and hydrogen bonding, were characterized as σ-symmetric by X-ray crystallography and NMR spectroscopy.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Dynamic Clipping Synthesis of Rotaxanes via Siliconate-Forming Reaction from Bis-Catechol, Organotrimethoxysilanes, and Secondary Amines"
+    },
     "10.1021/acs.orglett.6c03773": {
       "doi": "10.1021/acs.orglett.6c03773",
       "posted_at": "2026-09-14T11:47:44+00:00",
@@ -9244,6 +9258,19 @@
       "summary_used_fallback": false,
       "title": "Tetrahedral M II 4 L 6 ( M = Fe, Zn) Cages Equipped with Walls Featuring Antiaromatic Pentalene Motifs"
     },
+    "10.1021/jacsau.6c00781": {
+      "doi": "10.1021/jacsau.6c00781",
+      "posted_at": "2026-09-15T16:14:49+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789488889.487209",
+      "summary_character_count": 113,
+      "summary_japanese": "macrocyclic tetracarbene型FeIV═O錯体のtrans-axial配位子効果を分光・構造解析し、S = 1基底状態を確立した。HAA速度はMeCN > CF3COO− ≈ RS−の求電子的傾向を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Axial Ligand Effects on Electronic Structures and H-Atom Abstraction by Oxidoiron(IV) Complexes Featuring Triplet-Only Reactivity"
+    },
     "10.1021/jacsau.6c00809": {
       "doi": "10.1021/jacsau.6c00809",
       "posted_at": "2026-09-05T07:26:13+00:00",
@@ -10960,6 +10987,19 @@
       "summary_used_fallback": false,
       "title": "Near-Unity Chiral Terahertz Generation Driven by Asymmetric Quasi-Bound States in the Continuum"
     },
+    "10.1088/1674-1056/aea75b": {
+      "doi": "10.1088/1674-1056/aea75b",
+      "posted_at": "2026-09-15T16:15:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789488908.433579",
+      "summary_character_count": 113,
+      "summary_japanese": "AIII対称性の一次元トポロジカル絶縁体を対象にTransformer型ネットワークを設計し、未学習のトポロジカル数をもつHamiltonianでも不変量を予測し、attention mapで位相勾配最大のバンド領域を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Machine Learning of Chiral Symmetric Topological Insulator with Transformer-based Geometric Tomography"
+    },
     "10.1088/1674-1137/ae8f24": {
       "doi": "10.1088/1674-1137/ae8f24",
       "posted_at": "2026-07-26T15:02:45+00:00",
@@ -11063,6 +11103,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dual-band terahertz refractive index sensor based on chiral metasurface"
+    },
+    "10.1088/2053-1583/aea6eb": {
+      "doi": "10.1088/2053-1583/aea6eb",
+      "posted_at": "2026-09-15T16:14:31+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789488871.084749",
+      "summary_character_count": 445,
+      "summary_japanese": "This review summarizes mechanisms governing chiral spin-texture formation in van der Waals heterostructures, focusing on exchange interactions, magnetic anisotropy, Dzyaloshinskii–Moriya interaction, and dipolar effects. It surveys experimental observation and manipulation, dynamical properties, transport signatures, and selected theoretical studies, and outlines challenges toward robust room-temperature textures for spintronic technologies.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral spin-textures in van der Waals heterostructures"
     },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
@@ -13909,6 +13962,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Impact of Thermal Processing and Storage on the Quality and Chirality of Linalool in Blueberry Juice"
+    },
+    "10.3390/molecules31183256": {
+      "doi": "10.3390/molecules31183256",
+      "posted_at": "2026-09-15T16:14:40+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789488880.565589",
+      "summary_character_count": 115,
+      "summary_japanese": "ProfensのCE鏡像異性体分離を2026年まで総説し、chiral selector、BGE、pH、表面修飾が分離に及ぼす影響を整理した。CD系が主流だが普遍的条件はなく、検証済み実試料分析の進展と感度・堅牢性の課題を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Capillary Electrophoretic Enantioseparation of Profens: Advances in Chiral Selectors, Separation Strategies, and Analytical Applications"
     },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
