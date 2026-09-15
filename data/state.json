@@ -28,7 +28,7 @@
     "2026-09-12": 20,
     "2026-09-13": 1,
     "2026-09-14": 30,
-    "2026-09-15": 10
+    "2026-09-15": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5197,6 +5197,19 @@
       "summary_used_fallback": false,
       "title": "Virtual Prototyping and Experimental Assessment of Gating-System Optimization for Rapid Investment Casting of Miniaturized Cu-Al-Mn Shape Memory Alloy Helical Springs"
     },
+    "10.1007/s41664-026-00496-w": {
+      "doi": "10.1007/s41664-026-00496-w",
+      "posted_at": "2026-09-15T11:04:17+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789470257.237489",
+      "summary_character_count": 128,
+      "summary_japanese": "Tacrine系hydroxy代謝物をキラル分離し、1-OH-6-Cl-THAのenantiomerを単離してscXRD・ECDで絶対配置を決定した。R体はracemateおよびtacrineより強いacetylcholinesterase阻害能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Separation of Tacrine-Based Metabolites: A Step Towards a Safe, Highly Active Drug"
+    },
     "10.1007/s42114-026-02032-x": {
       "doi": "10.1007/s42114-026-02032-x",
       "posted_at": "2026-08-19T21:23:17+00:00",
@@ -6150,6 +6163,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Diastereoselective Axial-to-Chelate-Puckering Chirality Transfer in cis -[PtCl2(DABN)] Complexes"
+    },
+    "10.1021/acs.inorgchem.6c03427": {
+      "doi": "10.1021/acs.inorgchem.6c03427",
+      "posted_at": "2026-09-15T11:04:04+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789470244.437919",
+      "summary_character_count": 111,
+      "summary_japanese": "エピマー性cinchonidine（L1）とcinchonine（L2）から、異なるCu4I4クラスター構造をもつ1D/3D Cu(I)配位高分子を合成し、発光色・量子収率とCPLの符号・glum値が変化することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cinchonidine vs Cinchonine: Stereochemical Control of Architecture and Circularly Polarized Luminescence in Chiral Cu4I4-Cluster-Based Coordination Polymers"
     },
     "10.1021/acs.inorgchem.6c03450": {
       "doi": "10.1021/acs.inorgchem.6c03450",
@@ -9101,6 +9127,19 @@
       "summary_used_fallback": false,
       "title": "Designof Chiral Antimony Catalyst for Ring-OpeningReaction of Epoxides with Anilines"
     },
+    "10.1021/jacs.6c13382": {
+      "doi": "10.1021/jacs.6c13382",
+      "posted_at": "2026-09-15T11:04:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789470271.211529",
+      "summary_character_count": 129,
+      "summary_japanese": "Au(111)上で安定Blatter radicalからなる環状hexamerを合成し、STM電圧パルスでphenyl基を回転させる可逆配座制御を実現した。各triazinyl coreのSpin-1/2 Kondo共鳴は独立に操作され、線幅はほぼ半減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conformational Gating of Many-Body Kondo Resonance in a Topologically Confined Radical Macrocycle"
+    },
     "10.1021/jacs.6c14403": {
       "doi": "10.1021/jacs.6c14403",
       "posted_at": "2026-09-10T15:50:23+00:00",
@@ -9113,6 +9152,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ion-Mediated Configuration Regulation and Chiralization in Cu(I) Cluster-Based Metallic Cages"
+    },
+    "10.1021/jacs.6c14557": {
+      "doi": "10.1021/jacs.6c14557",
+      "posted_at": "2026-09-15T11:04:26+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789470266.555719",
+      "summary_character_count": 364,
+      "summary_japanese": "A chiral phosphoric acid catalyst enabled the first atroposelective chlorination of sp2 nitrogen in diaryl-substituted imines, selectively affording sterically congested Z-configured N-chloroimines required for axial chirality. Highly stereospecific cyclization with alkenes or alkynes then converted these products into atropisomeric 1-arylisoquinoline scaffolds.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Exploiting Asymmetric Nitrogen Chlorination for Construction of N -Chloroimine Atropisomers"
     },
     "10.1021/jacs.6c14940": {
       "doi": "10.1021/jacs.6c14940",
@@ -14143,6 +14195,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamics of Full Skyrmions in a Chiral Liquid Crystal"
+    },
+    "10.4103/mgr.medgasres-d-25-00145": {
+      "doi": "10.4103/mgr.medgasres-d-25-00145",
+      "posted_at": "2026-09-15T11:04:12+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789470252.277369",
+      "summary_character_count": 105,
+      "summary_japanese": "低酸素標的・活性化超分子プローブとプロドラッグを、各種macrocycle別に分類し、腫瘍診断・治療での作用機構を概説するレビューである。複合化は色素の光安定性とS/N比を高め、疎水性ゲストの水溶性を改善する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hypoxia-responsive supramolecular systems based on macrocycles and self-assembly structures."
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
