@@ -28,7 +28,8 @@
     "2026-09-13": 1,
     "2026-09-14": 30,
     "2026-09-15": 15,
-    "2026-09-16": 9
+    "2026-09-16": 9,
+    "2026-09-17": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -264,6 +265,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hierarchical Assembly of Sub-2 nm Amorphous Nanobelt Membranes for Oil-Water Separation via Pore Engineering"
+    },
+    "10.1002/adfm.78479": {
+      "doi": "10.1002/adfm.78479",
+      "posted_at": "2026-09-16T20:53:06+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789591986.722569",
+      "summary_character_count": 132,
+      "summary_japanese": "アミノ基の数・位置で芳香族pyridine配位子の電荷非局在化を制御し、385–661 nmの連続発光を示すキラルMOFを設計した。DCM中で可逆的に発光が切り替わり、D/L-DPA-MOFとD/L-DPAD-MOFは|g_lum|最大10^−2のCPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charge-Delocalized Chiral Metal-Organic Frameworks: Full-Color Solvent-Switchable Circularly Polarized Luminescence Toward Multi-System Information Encryption"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -3045,6 +3059,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Site-Selective Dearomative [2+2] Photocycloaddition of Naphthalene Derivatives With Alkenes"
+    },
+    "10.1002/anie.7913188": {
+      "doi": "10.1002/anie.7913188",
+      "posted_at": "2026-09-16T20:52:53+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789591973.618249",
+      "summary_character_count": 112,
+      "summary_japanese": "polymer-grafted chiral gold nanoparticlesを液空界面で配列し、配向・粒子間隔・積層を制御可能な2D超格子膜を作製した。配向秩序により、粒子単独ではない集団キロプティカル応答が発現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Orientationally Coherent Chiral Nanoparticle Superlattices With Emergent and Tunable Collective Chiroptical Activity"
     },
     "10.1002/anie.7946369": {
       "doi": "10.1002/anie.7946369",
@@ -8763,6 +8790,19 @@
       "summary_used_fallback": false,
       "title": "Curvature-Enhanced and Chirality-Modulated Anomalous Thermal Transport in Pentagonal Covalent Organic Framework Nanotubes"
     },
+    "10.1021/jacs.6c10670": {
+      "doi": "10.1021/jacs.6c10670",
+      "posted_at": "2026-09-16T20:53:01+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789591981.091639",
+      "summary_character_count": 353,
+      "summary_japanese": "Four methine- and amine-containing all-benzenoid macrocycles were synthesized and characterized to examine how ring size, conformation, and charge govern global (anti)aromaticity. At low temperature, [5]C4N1-BCP showed 26π global aromaticity, whereas [8]C4N4-BCP4+ displayed 40π global antiaromaticity and [9]C6N3-BCP2+ exhibited 46π global aromaticity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "From Pentagon to Nonagon: Conformation-, Size-, and Charge-Dependent Global (Anti)aromaticity in All-Benzenoid Macrocycles"
+    },
     "10.1021/jacs.6c10817": {
       "doi": "10.1021/jacs.6c10817",
       "posted_at": "2026-08-07T03:04:45+00:00",
@@ -10309,6 +10349,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Observation of maximum circular dichroism in twisted hyperbolic van der Waals homostructures"
+    },
+    "10.1038/s41467-026-77554-5": {
+      "doi": "10.1038/s41467-026-77554-5",
+      "posted_at": "2026-09-16T20:53:13+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789591993.858819",
+      "summary_character_count": 361,
+      "summary_japanese": "Two chiral hetero[9]helicene MR-TADF molecules, DDCzBPh and DDCzBPy, were designed by annulating two MR-TADF units to naphthyl or quinoxanyl cores. They showed strong CPL, two-photon absorption, high photoluminescence quantum yields, and long-lived delayed fluorescence. Two-photon-excited CPL was demonstrated, with a circularly polarized brightness of 0.2 GM.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Two-photon excited circularly polarized luminescence of hetero[9]helicene with multiresonant thermally activated delayed fluorescence"
     },
     "10.1038/s41467-026-77575-0": {
       "doi": "10.1038/s41467-026-77575-0",
@@ -13389,6 +13442,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Quantifying antiaromatic destabilization: flashing aromaticity in cascade transformations of cycloheptatrienide systems"
+    },
+    "10.26434/chemrxiv.15008895/v1": {
+      "doi": "10.26434/chemrxiv.15008895/v1",
+      "posted_at": "2026-09-16T20:52:45+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789591965.182809",
+      "summary_character_count": 95,
+      "summary_japanese": "キラルな菱形環状oligoimide「trapacycle」を合成し、結晶中の内在・外在細孔への溶媒包接を確認した。固体でヨウ素蒸気を吸着し、有機溶媒中でnaphthalenesを包接した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Trapacycle: A Chiral Rhombic Macrocycle"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
