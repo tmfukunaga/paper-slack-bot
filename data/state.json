@@ -29,7 +29,7 @@
     "2026-09-14": 30,
     "2026-09-15": 15,
     "2026-09-16": 9,
-    "2026-09-17": 5
+    "2026-09-17": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1487,6 +1487,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Catalytic Enantioselective Synthesis of Upper-rim-Functionalized Inherently Chiral Calix[4]arenes Through Desymmetrizing Reductive Amination"
+    },
+    "10.1002/ange.7913188": {
+      "doi": "10.1002/ange.7913188",
+      "posted_at": "2026-09-16T21:19:21+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789593561.883079",
+      "summary_character_count": 125,
+      "summary_japanese": "polymer-grafted chiral gold nanoparticlesを液気界面で組織化し、長距離秩序・配向コヒーレンスをもつ2D超格子膜を作製した。整列粒子の近接場プラズモン結合により長波長集団キラル光学モードを発現し、構造で調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Orientationally Coherent Chiral Nanoparticle Superlattices With Emergent and Tunable Collective Chiroptical Activity"
     },
     "10.1002/ange.7946369": {
       "doi": "10.1002/ange.7946369",
@@ -3020,6 +3033,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Engineering of Dynamically Interlocked Dual-Stiffness Interphase for Biomimetic Strong and Tough Double Network Aerogel"
+    },
+    "10.1002/anie.7599397": {
+      "doi": "10.1002/anie.7599397",
+      "posted_at": "2026-09-16T21:19:46+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789593586.806789",
+      "summary_character_count": 105,
+      "summary_japanese": "P1とP2をらせん状に共集合化し、鎖間エネルギー移動を利用した高表面積の共役ポリマーnanofiberを作製した。P1-0.3P2は擬似太陽光下でCO生成速度1165.31 μmol h−1 g−1を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Co-Assembled Helical Polymer Nanofibers Enable Efficient CO 2 Photoreduction Through Interchain Energy Transfer"
     },
     "10.1002/anie.7699472": {
       "doi": "10.1002/anie.7699472",
@@ -10402,6 +10428,19 @@
       "summary_used_fallback": true,
       "title": "Supramolecular janus eutectic engineered from panthenol and bisabolol overcomes transdermal delivery paradoxes"
     },
+    "10.1038/s41467-026-77717-4": {
+      "doi": "10.1038/s41467-026-77717-4",
+      "posted_at": "2026-09-16T21:19:41+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789593581.647379",
+      "summary_character_count": 302,
+      "summary_japanese": "Using oblique-illumination pump-probe microscopy, the study observed the hyperbolic spin Hall effect in natural van der Waals metal MoOCl2 from the visible to near-infrared range. Reversing light helicity completely switched the propagation direction of both hyperbolic polaritons and surface plasmons.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "On-demand steering of hyperbolic chiral polaritons"
+    },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
       "posted_at": "2026-09-06T20:00:27+00:00",
@@ -13442,6 +13481,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Quantifying antiaromatic destabilization: flashing aromaticity in cascade transformations of cycloheptatrienide systems"
+    },
+    "10.26434/chemrxiv.15008850/v1": {
+      "doi": "10.26434/chemrxiv.15008850/v1",
+      "posted_at": "2026-09-16T21:19:32+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789593572.801439",
+      "summary_character_count": 134,
+      "summary_japanese": "boron-threaded BODIPYにキラルmacrocycle、立体中心boron、軸不斉BODIPY dimerを導入し、後者では初の二重threadingを達成した。全系でECDとCPLを観測し、macrocycle系で最も顕著なキラリティー移動を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Engineering chirality in threaded BODIPYs"
+    },
+    "10.26434/chemrxiv.15008869/v1": {
+      "doi": "10.26434/chemrxiv.15008869/v1",
+      "posted_at": "2026-09-16T21:19:27+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789593567.378529",
+      "summary_character_count": 106,
+      "summary_japanese": "キラルn=1相と非キラルn=2相からなるペロブスカイト薄膜を設計し、非キラル相でのCD発現により相間キラリティ移動を確認した。MBA/BZA系ではπ–πスタッキングによる混和で移動が有効だが、BA系では弱かった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inter-Phase Chirality Transfer in 2D and Quasi-2D Perovskite Heterostructures"
     },
     "10.26434/chemrxiv.15008895/v1": {
       "doi": "10.26434/chemrxiv.15008895/v1",
