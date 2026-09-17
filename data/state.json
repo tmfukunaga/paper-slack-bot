@@ -29,7 +29,7 @@
     "2026-09-15": 15,
     "2026-09-16": 9,
     "2026-09-17": 20,
-    "2026-09-18": 5
+    "2026-09-18": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1591,6 +1591,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Corannulene-Driven Curvature Engineering Enhances Fullerene Encapsulation in a Carbon Nanohoop"
+    },
+    "10.1002/ange.8789956": {
+      "doi": "10.1002/ange.8789956",
+      "posted_at": "2026-09-17T20:57:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789678648.499339",
+      "summary_character_count": 134,
+      "summary_japanese": "一段階の分子間酸化的カップリング・環化脱水によりB,N,O-embedded hetero[9]helicene BNFNを合成し、516 nmの狭帯域緑色発光と強いCPLを示した。CP-OLEDは最大外部量子効率31.3%/30.2%、低い効率ロールオフを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "One-Step Intermolecular Oxidative Coupling and Cyclodehydration Strategy for Pure-Green B,N,O-Embedded Hetero[9]Helicene Emitter"
     },
     "10.1002/ange.8987942": {
       "doi": "10.1002/ange.8987942",
@@ -5776,6 +5789,19 @@
       "summary_used_fallback": false,
       "title": "Recent advances in the asymmetric catalytic construction of chiral indenols"
     },
+    "10.1016/j.ymssp.2026.114974": {
+      "doi": "10.1016/j.ymssp.2026.114974",
+      "posted_at": "2026-09-17T20:57:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789678657.407689",
+      "summary_character_count": 90,
+      "summary_japanese": "ピッチ・歯形・ねじれ誤差を共通の時間変動バックラッシ場に写像するはすば歯車動力学モデルを構築し、各誤差がGMF主峰と回転周波数側帯波に異なる影響を与えることを実験と整合的に示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic modeling of high-speed helical gear transmission system with multiple geometric deviations and non-uniform contact"
+    },
     "10.1017/hpl.2026.10192": {
       "doi": "10.1017/hpl.2026.10192",
       "posted_at": "2026-08-02T03:03:17+00:00",
@@ -6268,6 +6294,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aggregation-Dependent Luminescence and Chiroptical Properties of Chiral Cu6(PTLT)6 Clusters"
+    },
+    "10.1021/acs.inorgchem.6c03305": {
+      "doi": "10.1021/acs.inorgchem.6c03305",
+      "posted_at": "2026-09-17T20:57:17+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789678637.764439",
+      "summary_character_count": 123,
+      "summary_japanese": "pyridine-dipyrrolate Ligand 1と[Zn(acac)2]からなるK、Rb、Cs配位高分子を合成し、X線結晶構造解析と計算で、アルカリ金属が環内包接種と環間リンカーを兼ね、電子特性・連結性・細孔特性を制御することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Alkali Metal-Directed Hierarchical Assembly of Pyridine-Dipyrrolate Metallomacrocycles"
     },
     "10.1021/acs.inorgchem.6c03354": {
       "doi": "10.1021/acs.inorgchem.6c03354",
@@ -13638,6 +13677,19 @@
       "summary_used_fallback": false,
       "title": "Quantifying antiaromatic destabilization: flashing aromaticity in cascade transformations of cycloheptatrienide systems"
     },
+    "10.26434/chemrxiv.15008835/v1": {
+      "doi": "10.26434/chemrxiv.15008835/v1",
+      "posted_at": "2026-09-17T20:57:11+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789678631.483739",
+      "summary_character_count": 97,
+      "summary_japanese": "18C6添加NaF・KF水溶液を19F NMRとマルチスケール計算で解析し、F−拡散と化学シフトから、クラウンエーテルは接触イオン対を減らすが、溶媒共有および残存接触会合を保持することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Do crown ethers fully dissociate ion pairs in aqueous solution?"
+    },
     "10.26434/chemrxiv.15008850/v1": {
       "doi": "10.26434/chemrxiv.15008850/v1",
       "posted_at": "2026-09-16T21:19:32+00:00",
@@ -14417,6 +14469,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Influence of Installation Parameters and Geometric Configurations on the Uplift Capacity of Helical Anchors: An Experimental Investigation"
+    },
+    "10.3390/pr14182947": {
+      "doi": "10.3390/pr14182947",
+      "posted_at": "2026-09-17T20:57:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789678643.575349",
+      "summary_character_count": 92,
+      "summary_japanese": "共役曲面包絡理論と空間かみあい原理に基づき、内歯はすば歯車生成研削用の球面ウォーム砥石形状と歯面トポロジーを修整計算し、離散点モデルを構築して砥石ドレッシングおよび歯面制御を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Research on Grinding Wheel Dressing and Tooth Flank Topology Control for Generating Grinding of Internal Helical Gears"
     },
     "10.3390/s26175464": {
       "doi": "10.3390/s26175464",
