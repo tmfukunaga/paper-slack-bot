@@ -29,7 +29,7 @@
     "2026-09-15": 15,
     "2026-09-16": 9,
     "2026-09-17": 20,
-    "2026-09-18": 10
+    "2026-09-18": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7023,6 +7023,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer"
     },
+    "10.1021/acs.oprd.6c00194": {
+      "doi": "10.1021/acs.oprd.6c00194",
+      "posted_at": "2026-09-17T21:23:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789680220.400849",
+      "summary_character_count": 119,
+      "summary_japanese": "microreactorで逐次Br/Li交換を精密制御し、-70 °C・滞留17.8 sで(S)-DPPNH2由来キラルN,P配位子前駆体を合成した。benzyne副反応を抑え、最大71%収率、98:2 dr、1.17 g規模を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Continuous Flow Br/Li Exchange Enables Scalable Synthesis of Chiral N , P Ligands for Asymmetric Catalysis"
+    },
     "10.1021/acs.organomet.6c00227": {
       "doi": "10.1021/acs.organomet.6c00227",
       "posted_at": "2026-08-14T09:43:36+00:00",
@@ -9452,6 +9465,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamic Supramolecular Helicity in a Multi-Aluminum Porphyrin Catalyst Enables Stereocontrolled Synthesis of Ultrahigh-Molecular-Weight Isotactic Poly(propylene oxide)"
+    },
+    "10.1021/jacs.6c16940": {
+      "doi": "10.1021/jacs.6c16940",
+      "posted_at": "2026-09-17T21:24:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789680245.519699",
+      "summary_character_count": 120,
+      "summary_japanese": "pyrazine官能化Ni phthalocyanine（NiPNPC）は、陰極分極下のNi中心の低スピン―高スピン転移と界面水素結合網の再編によりO2活性化とプロトン供給を促進し、2e− ORRで最大97.15%のH2O2選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Potential Driven Spin-Crossover Synergized with Hydrogen-Bond Engineering in a Molecular Catalyst for Selective H2O2 Electrosynthesis"
     },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
@@ -12131,6 +12157,19 @@
       "summary_used_fallback": false,
       "title": "Generation of chirality controllable vector vortex beams from a digital alkali laser"
     },
+    "10.1364/ol.606684": {
+      "doi": "10.1364/ol.606684",
+      "posted_at": "2026-09-17T21:24:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789680241.064339",
+      "summary_character_count": 85,
+      "summary_japanese": "Sb2Se3メタサーフェスにおいて、相転移前後でCD共鳴波長を303 nm大きく変調しつつ、強度ほぼ±1とピーク形状を維持する、広帯域可変の完全固有キラリティを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spectrally broad-range tunable perfect intrinsic chirality within Sb2Se3 metasurfaces."
+    },
     "10.1364/ol.608478": {
       "doi": "10.1364/ol.608478",
       "posted_at": "2026-09-09T20:25:06+00:00",
@@ -14080,6 +14119,19 @@
       "summary_used_fallback": false,
       "title": "Large-Scale Experimental Investigation of the Performance of Helical Piles Under Cyclic Lateral Loading in Dense Sand"
     },
+    "10.3390/buildings16183675": {
+      "doi": "10.3390/buildings16183675",
+      "posted_at": "2026-09-17T21:23:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789680233.339769",
+      "summary_character_count": 91,
+      "summary_japanese": "施工偏差を有するUHPCグラウト式helical anchor rod接合部を実大引抜試験と3次元非線形FEMで検討し、偏心の耐力影響は小さく、傾斜は界面損傷を促進することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Study on the Pullout Performance and Failure Mechanism of the UHPC-Grouted Helical Anchor Rod-Prefabricated Cap Connection Joint"
+    },
     "10.3390/coatings16091079": {
       "doi": "10.3390/coatings16091079",
       "posted_at": "2026-09-12T03:06:50+00:00",
@@ -14664,6 +14716,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Kinetic origin of composition control in self-catalyzed vapor-liquid-solid growth of GaS x Se 1-x nanobelts"
+    },
+    "10.36082/jchat.v4i2.3502": {
+      "doi": "10.36082/jchat.v4i2.3502",
+      "posted_at": "2026-09-17T21:23:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789680224.962579",
+      "summary_character_count": 85,
+      "summary_japanese": "6～12歳77人でCPP-ACP塗布前後の唾液pHを指示紙で測定し、平均pHは5.9351から6.8312へ上昇、Wilcoxon検定で有意差を示した（p=0.001）。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Effect of CPP-ACP (Casein Phosphopeptide Amorphous Calcium Phosphate) on Salivary pH Changes in Children"
     },
     "10.3847/1538-4357/ae92f9": {
       "doi": "10.3847/1538-4357/ae92f9",
