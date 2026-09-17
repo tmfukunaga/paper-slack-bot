@@ -28,7 +28,8 @@
     "2026-09-14": 30,
     "2026-09-15": 15,
     "2026-09-16": 9,
-    "2026-09-17": 20
+    "2026-09-17": 20,
+    "2026-09-18": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7353,6 +7354,19 @@
       "summary_used_fallback": false,
       "title": "Remote Generation of Pyramidalized N-N Axial Chirality via a Copper-Catalyzed Friedel-Crafts Reaction"
     },
+    "10.1021/acs.orglett.6c03613": {
+      "doi": "10.1021/acs.orglett.6c03613",
+      "posted_at": "2026-09-17T16:14:16+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789661656.931409",
+      "summary_character_count": 99,
+      "summary_japanese": "Croton laevigatusから新規骨格をもつ6種の大環状diterpenoidを単離し、分光法、X線結晶構造解析、量子化学計算で構造を決定した。化合物4はNF-κB阻害と抗炎症活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Discovery of Three Macrocyclic Diterpenoid Skeletons from Croton laevigatus and Their NF-κB Inhibitory Activity"
+    },
     "10.1021/acs.orglett.6c03628": {
       "doi": "10.1021/acs.orglett.6c03628",
       "posted_at": "2026-09-13T20:19:23+00:00",
@@ -7664,6 +7678,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controllable Preparationof Carbon-Based Micro- andNanomaterials with Different Helical Morphologies for ElectromagneticWave Absorption"
+    },
+    "10.1021/acsaom.6c00406": {
+      "doi": "10.1021/acsaom.6c00406",
+      "posted_at": "2026-09-17T16:14:22+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789661662.241999",
+      "summary_character_count": 132,
+      "summary_japanese": "色素ドープChGLCで、ピッチ、膜厚、色素濃度により円偏光二色性を制御し、Mueller matrix ellipsometryと拡張Good-Karaliモデルで評価した。単層素子により、反射後の偏光反転を利用して逆反射光を抑制する受動光アイソレータを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Circular Diattenuation and Passive Optical Isolation in Dye-Doped Cholesteric Glassy Liquid Crystals"
     },
     "10.1021/acsapm.6c02040": {
       "doi": "10.1021/acsapm.6c02040",
@@ -11402,6 +11429,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis of Hexasap Macrocyclic Ligand with Six Tridentate Sap Chelating Units and Its Gallium Complex"
     },
+    "10.1093/chemle/upag186": {
+      "doi": "10.1093/chemle/upag186",
+      "posted_at": "2026-09-17T16:14:35+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789661675.015359",
+      "summary_character_count": 127,
+      "summary_japanese": "表面修飾でプログラムしたsupramolecular polymersをメソスケール足場として用い、semiconductor nanocrystalsとのハイブリッド化による一次元NC配列形成に関する著者らの成果を総説し、秩序化材料への有効性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mesoscale Hybridization Strategy for Organic Supramolecular Assemblies and Inorganic Semiconductor Nanocrystals"
+    },
     "10.1093/nsr/nwag448": {
       "doi": "10.1093/nsr/nwag448",
       "posted_at": "2026-07-24T00:21:23+00:00",
@@ -11726,6 +11766,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Biomimetic all-metal Pd 11 helicene"
+    },
+    "10.1126/sciadv.aeh1991": {
+      "doi": "10.1126/sciadv.aeh1991",
+      "posted_at": "2026-09-17T16:14:29+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789661669.916689",
+      "summary_character_count": 97,
+      "summary_japanese": "QCDにおけるスピンの役割を概説し、陽子スピンのクォーク・グルーオンのスピンと軌道角運動量への分解、熱密QCD物質の回転相構造・スピン流体力学・大域偏極、量子異常に基づくカイラル磁気効果を扱う。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin in quantum chromodynamics"
     },
     "10.1126/sciadv.aeh2073": {
       "doi": "10.1126/sciadv.aeh2073",
@@ -13779,6 +13832,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Self-assembled quercetin-zinc supramolecular nanoparticles exhibit strong antibacterial and anti-biofilm activity against methicillin-resistant Staphylococcus aureus"
+    },
+    "10.3389/fntpr.2026.1916076": {
+      "doi": "10.3389/fntpr.2026.1916076",
+      "posted_at": "2026-09-17T16:14:42+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789661682.289449",
+      "summary_character_count": 102,
+      "summary_japanese": "furofuran lignansのORDを3溶媒中で測定しDFT計算と比較した。sesaminのCH3OHを除き絶対配置を決定でき、ORDにはCHCl3が適し、CH3OHは計算に予測不能な影響を与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereochemistry of furofuran lignans from optical rotatory dispersion: potential and pitfalls"
     },
     "10.3389/fonc.2026.1883024": {
       "doi": "10.3389/fonc.2026.1883024",
