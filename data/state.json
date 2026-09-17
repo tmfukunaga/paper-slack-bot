@@ -28,7 +28,7 @@
     "2026-09-14": 30,
     "2026-09-15": 15,
     "2026-09-16": 9,
-    "2026-09-17": 15
+    "2026-09-17": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5918,6 +5918,19 @@
       "summary_used_fallback": false,
       "title": "Rapid Recognition of Matrine Enantiomers Using Ion Mobility-Mass Spectrometry and Theoretical Modeling with Macrolide as Chiral Selectors"
     },
+    "10.1021/acs.analchem.6c03730": {
+      "doi": "10.1021/acs.analchem.6c03730",
+      "posted_at": "2026-09-17T10:58:05+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789642685.819069",
+      "summary_character_count": 112,
+      "summary_japanese": "(1R,2R)-diphenylethylenediamine導入環状tetraphenylene型AIEgenでDTTAを識別し、蛍光波長・強度の二重応答によりeeをAAE 2.89%未満、検出限界2.0 mMで定量した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Chiral Cyclic Tetraphenylene-Type AIEgen for Enantioselective Sensing Di- p -toluoyltartaric Acid Based on Emission Wavelength and Fluorescence Intensity Changes"
+    },
     "10.1021/acs.analchem.6c03772": {
       "doi": "10.1021/acs.analchem.6c03772",
       "posted_at": "2026-09-04T22:46:50+00:00",
@@ -10609,6 +10622,19 @@
       "summary_used_fallback": false,
       "title": "3D bulk-resolved g-wave altermagnetic order parameter in CrSb"
     },
+    "10.1038/s41586-026-10948-z": {
+      "doi": "10.1038/s41586-026-10948-z",
+      "posted_at": "2026-09-17T10:58:10+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789642690.428949",
+      "summary_character_count": 124,
+      "summary_japanese": "mass photometryと単一分子トラップ法でvirus-like particleの個別集合を分子分解能・リアルタイム観察し、弱く可逆な多価相互作用が閉環中間体を選択して核形成・成長を制御し、高忠実度の最終構造形成を可能にすることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular-level observation of the self-assembly of a virus-like particle"
+    },
     "10.1038/s41598-026-67057-0": {
       "doi": "10.1038/s41598-026-67057-0",
       "posted_at": "2026-08-22T12:34:44+00:00",
@@ -10855,6 +10881,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Unveiling chiral electron-photon correlation effects in circularly polarized optical devices"
+    },
+    "10.1063/5.0337377": {
+      "doi": "10.1063/5.0337377",
+      "posted_at": "2026-09-17T10:57:58+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789642678.639509",
+      "summary_character_count": 109,
+      "summary_japanese": "キラル活性粒子浴中の受動粒子を数値シミュレーションで解析し、粒径比と充填率の特定領域でクラスターが持続回転することを示した。均一なキラリティは強い超拡散的角運動を促す一方、キラリティ不均一性は回転コヒーレンスを乱した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Emergent rotation of passive clusters in a chiral active bath"
     },
     "10.1063/5.0343778": {
       "doi": "10.1063/5.0343778",
@@ -14326,6 +14365,19 @@
       "summary_used_fallback": false,
       "title": "Development of Autoranging Functionality to Enhance the Sensitivity of Helical Capacitance Level Sensors via Neural Networks"
     },
+    "10.3390/s26185852": {
+      "doi": "10.3390/s26185852",
+      "posted_at": "2026-09-17T10:57:53+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789642673.054619",
+      "summary_character_count": 120,
+      "summary_japanese": "sodium ibuprofen nanocrystalをE7 nematic liquid crystal殻で包むコアシェル微小球を理論設計し、キラリティー指標を10−6から6.5×10−3へ増幅、横方向分離速度1.19 μm/sを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optofluidic Sensing and Sorting of Chiral Drugs Based on Core-Shell Composite Microspheres"
+    },
     "10.3390/separations13080232": {
       "doi": "10.3390/separations13080232",
       "posted_at": "2026-08-19T01:06:06+00:00",
@@ -14338,6 +14390,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Preparation of Polyamine-Silica Macrocyclic Chromatographic Stationary Phase for the Separation of Aromatic Compounds"
+    },
+    "10.3390/separations13090265": {
+      "doi": "10.3390/separations13090265",
+      "posted_at": "2026-09-17T10:57:48+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789642668.855779",
+      "summary_character_count": 347,
+      "summary_japanese": "(±)-Naringenin was γ-irradiated, and chiral HPLC enabled isolation and structural characterization of apigenin and three stereoisomers of 2-(1-hydroxyethyl)-naringenin. In lipopolysaccharide-stimulated RAW 264.7 cells, apigenin showed stronger nitric oxide inhibitory activity than the parent compound, whereas the three derivatives were inactive.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Structural Modification of Naringenin via γ-Irradiation, Chiral Separation, and Evaluation of Anti-Inflammatory Activity"
     },
     "10.3390/solar6040050": {
       "doi": "10.3390/solar6040050",
