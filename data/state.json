@@ -29,7 +29,7 @@
     "2026-09-15": 15,
     "2026-09-16": 9,
     "2026-09-17": 20,
-    "2026-09-18": 15
+    "2026-09-18": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1331,6 +1331,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Chiral Halogen-Bonded Organic Frameworks Enhance Efficient Chirality-Induced Spin Selectivity"
+    },
+    "10.1002/ange.6234875": {
+      "doi": "10.1002/ange.6234875",
+      "posted_at": "2026-09-18T03:10:52+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789701052.840729",
+      "summary_character_count": 116,
+      "summary_japanese": "水添加でランタニド配位ケージC60⊂Δ4P4をC60⊂Λ4P′4へ再構成し、空孔収縮と相互作用強化によりC60の誘起キロプティカル応答を反転・3.5倍増幅（|gabs|=1.62×10−2）し、C60•−の寿命を約2 hへ延長した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water-Gated Allosteric Reconfiguration of a Lanthanide-Organic Cage Dynamically Modulates Fullerene Chiroptical Response and Radical Persistence"
     },
     "10.1002/ange.6244626": {
       "doi": "10.1002/ange.6244626",
@@ -2747,6 +2760,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intramolecular Nickel-Catalyzed Reductive Coupling: Enantioselective Synthesis of Tetrahydroisoquinolines and Related Heterocycles"
+    },
+    "10.1002/anie.6234875": {
+      "doi": "10.1002/anie.6234875",
+      "posted_at": "2026-09-18T03:10:47+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789701047.604609",
+      "summary_character_count": 115,
+      "summary_japanese": "水を鍵としてlanthanide coordination cage内のC60⊂Δ4P4をC60⊂Λ4P′4へ反転・収縮させ、C60の誘起キロプティカル応答を反転・3.5倍増幅し、C60•−の寿命を4分未満から約2時間へ延長した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water-Gated Allosteric Reconfiguration of a Lanthanide-Organic Cage Dynamically Modulates Fullerene Chiroptical Response and Radical Persistence"
     },
     "10.1002/anie.6244626": {
       "doi": "10.1002/anie.6244626",
@@ -5106,6 +5132,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-Chirality-Gated Recognition of Carbon Nanotubes by Polysaccharides"
+    },
+    "10.1002/smll.75797": {
+      "doi": "10.1002/smll.75797",
+      "posted_at": "2026-09-18T03:11:02+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789701062.256349",
+      "summary_character_count": 122,
+      "summary_japanese": "SiO2スペーサーでQDとキラルAu helicoidの距離を制御したAu/SiO2/QDsを構築し、スペクトル整合系で可視域0.12、近赤外域0.014のglumを得た。非整合系では距離依存的なglum反転と位置依存の偏光選択的減衰を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spectral Matching and Spatially Dependent Polarization-Selective Attenuation in Chiral Au-SiO 2 -Quantum Dot Nanohybrids"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -12716,6 +12755,19 @@
       "summary_used_fallback": false,
       "title": "Nano-Focusing of Fiber-Guided Vortex Beam using Plasmonic Nanoantennas"
     },
+    "10.26434/chemrxiv.15004419/v2": {
+      "doi": "10.26434/chemrxiv.15004419/v2",
+      "posted_at": "2026-09-18T03:10:57+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789701057.131119",
+      "summary_character_count": 131,
+      "summary_japanese": "furan系10-bora-21,22,23,24-tetraoxacorroleとoxadiborepin縮環体を合成し、実験・NICS/ACID計算で中性状態の大域芳香族性を示した。両者は強いUV–NIR吸収とΦfl=35–46%の赤色～NIR蛍光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Globally Aromatic 10-Boratetraoxacorroles: Boron-Doped Macrocyclic Chromophores with Intense Red-to-Near-Infrared Emission"
+    },
     "10.26434/chemrxiv.15004988/v3": {
       "doi": "10.26434/chemrxiv.15004988/v3",
       "posted_at": "2026-08-27T13:46:14+00:00",
@@ -13767,6 +13819,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Trapacycle: A Chiral Rhombic Macrocycle"
+    },
+    "10.26434/chemrxiv.15008975/v1": {
+      "doi": "10.26434/chemrxiv.15008975/v1",
+      "posted_at": "2026-09-18T03:10:42+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789701042.181839",
+      "summary_character_count": 113,
+      "summary_japanese": "4-cyanophenyl基で末端官能基化した一次helical nanographeneは、柱状固体集合を規定し、フロンティア軌道の選択的安定化によりHOMO–LUMOギャップの狭小化、吸収の赤方偏移と円二色性増幅を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Terminal 4-Cyanophenyl Functionalization of Helical Nanographenes: Mechanistic Insights into Columnar Assembly and Near-Infrared Chiroptical Modulation"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
