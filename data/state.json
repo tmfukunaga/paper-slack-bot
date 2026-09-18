@@ -29,7 +29,7 @@
     "2026-09-15": 15,
     "2026-09-16": 9,
     "2026-09-17": 20,
-    "2026-09-18": 20
+    "2026-09-18": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -837,6 +837,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamic Interfacial Charge Regulation for High-Fidelity Broadband Circularly Polarized Light Detection"
+    },
+    "10.1002/advs.77843": {
+      "doi": "10.1002/advs.77843",
+      "posted_at": "2026-09-18T10:34:40+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789727680.467599",
+      "summary_character_count": 135,
+      "summary_japanese": "tetracationic vinylphenylpyridinium修飾phenothiazineとcucurbit[8]uril（1:2）でSOFを構築し、酸化的sulfoxide化により発光を815から610 nmへ青方移動、量子収率を46倍の22.2%へ高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Allostery Achieves Tunable Luminescence Aromatic Bridged Phenothiazine Noncovalent Frameworks"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -2956,6 +2969,19 @@
       "summary_used_fallback": false,
       "title": "Reversed Quantum-Well Engineering Unlocks Large Ultraviolet Chiral Nonlinear Optical Response in a Water-Resistant 2D Hybrid Fluorozirconate"
     },
+    "10.1002/anie.7044020": {
+      "doi": "10.1002/anie.7044020",
+      "posted_at": "2026-09-18T10:34:32+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789727672.638529",
+      "summary_character_count": 129,
+      "summary_japanese": "剛直なsquare-antiprismatic Eu(DOTA)を中性Eu-Fe ARFBのnegolyteに用い、対称的Eu-O/Eu-N配位で水配位・構造変化を抑制した。2.2 Mの溶解度、1.43 V、1.0 Mで2000サイクルの安定動作を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Europium Macrocyclic Complexes With Rigid High-Symmetry Coordination Geometry for High-Voltage and Durable Neutral Aqueous Redox Flow Batteries"
+    },
     "10.1002/anie.7074723": {
       "doi": "10.1002/anie.7074723",
       "posted_at": "2026-08-28T00:14:28+00:00",
@@ -3287,6 +3313,19 @@
       "summary_used_fallback": false,
       "title": "Corannulene-Driven Curvature Engineering Enhances Fullerene Encapsulation in a Carbon Nanohoop"
     },
+    "10.1002/anie.8651160": {
+      "doi": "10.1002/anie.8651160",
+      "posted_at": "2026-09-18T10:34:27+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789727667.176599",
+      "summary_character_count": 119,
+      "summary_japanese": "tetraarylated biazuleneのScholl反応で、プロトン促進arenium ion媒介azulene-to-phenanthrene転位を見いだし、TPA断面積最大1239 GMのnanographenesを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unexpected Azulene-to-Naphthalene Rearrangement Enables the Synthesis of Nanographenes with Tunable Two-Photon Absorption"
+    },
     "10.1002/anie.8735110": {
       "doi": "10.1002/anie.8735110",
       "posted_at": "2026-09-08T20:43:37+00:00",
@@ -3429,6 +3468,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Light-Gated Chirality in a Supramolecular Cavitand"
+    },
+    "10.1002/anie.9310843": {
+      "doi": "10.1002/anie.9310843",
+      "posted_at": "2026-09-18T10:34:45+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789727685.727299",
+      "summary_character_count": 98,
+      "summary_japanese": "[n]CPPをモデルにTR-ISRSで励起状態の構造緩和を追跡し、環ひずみと曲率が核動力学を規定することを示した。自己捕捉励起子はETを抑制し、非局在化励起子は高速かつほぼ定量的なETを促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast Nuclear Rearrangement Governs Excited-State Radial pi-Conjugation and Electron Transfer Dynamics in Organic Nanoring"
     },
     "10.1002/anie.9332776": {
       "doi": "10.1002/anie.9332776",
@@ -13832,6 +13884,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Terminal 4-Cyanophenyl Functionalization of Helical Nanographenes: Mechanistic Insights into Columnar Assembly and Near-Infrared Chiroptical Modulation"
+    },
+    "10.26434/chemrxiv.15008978/v1": {
+      "doi": "10.26434/chemrxiv.15008978/v1",
+      "posted_at": "2026-09-18T10:34:18+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789727658.213479",
+      "summary_character_count": 105,
+      "summary_japanese": "金媒介大環化により fully deuterated [9]CPP-d36を合成し、分子構造とπ電子構造を保持したまま骨格振動数を低下させた。固体での蛍光量子収率は[9]CPPの0.34から0.46へ向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fully Deuterated [9]Cycloparaphenylene: Vibrational Modulation for Enhanced Solid-State Fluorescence"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
