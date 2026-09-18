@@ -30,7 +30,7 @@
     "2026-09-16": 9,
     "2026-09-17": 20,
     "2026-09-18": 25,
-    "2026-09-19": 5
+    "2026-09-19": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7784,6 +7784,19 @@
       "summary_used_fallback": false,
       "title": "Diverse Combinations of Multiple Surfactants for Chirality Recognition and Separation of Carbon Nanotubes"
     },
+    "10.1021/acsami.6c13829": {
+      "doi": "10.1021/acsami.6c13829",
+      "posted_at": "2026-09-18T20:24:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789763069.333039",
+      "summary_character_count": 111,
+      "summary_japanese": "ねじり被覆で作製したhelical gold-leaf/WPU/TPU fiberは、0.5 turn/cmで0–100%ひずみにGF 25.7の安定な抵抗応答を示し、熱成形電極は2000%ひずみでQ値363.6に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchically Helical and Buckled Gold Leaf on TPU Fibers for Superelastic Electrodes and Multifunctional Sensors"
+    },
     "10.1021/acsami.6c14731": {
       "doi": "10.1021/acsami.6c14731",
       "posted_at": "2026-09-09T15:55:31+00:00",
@@ -10663,6 +10676,19 @@
       "summary_used_fallback": false,
       "title": "High-performance near-infrared circularly polarized electroluminescence with an emission peak beyond 900 nm"
     },
+    "10.1038/s41467-026-77450-y": {
+      "doi": "10.1038/s41467-026-77450-y",
+      "posted_at": "2026-09-18T20:24:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789763052.127869",
+      "summary_character_count": 334,
+      "summary_japanese": "Cryo-EM revealed the atomic-resolution structure of the human tRNA ligase complex, including an alpha-helical bundle of CGI-99, DDX1, and FAM98B and a FAM98B–CGI-99 heterodimer that clamps Ashwin. Structure-based mutagenesis supported this architecture. FAM98A and FAM98C also formed distinct RTCB-containing complexes lacking Ashwin.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Structural framework for the assembly of the human tRNA ligase complex"
+    },
     "10.1038/s41467-026-77478-0": {
       "doi": "10.1038/s41467-026-77478-0",
       "posted_at": "2026-09-06T20:00:21+00:00",
@@ -10740,6 +10766,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "On-demand steering of hyperbolic chiral polaritons"
+    },
+    "10.1038/s41467-026-77875-5": {
+      "doi": "10.1038/s41467-026-77875-5",
+      "posted_at": "2026-09-18T20:24:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789763057.353159",
+      "summary_character_count": 110,
+      "summary_japanese": "予伸長electrospun nanofibresをミスマッチひずみ座屈で3D nanohelix化する汎用・スケーラブル法を開発し、金属・半導体からなる高透過性ネットワークが50%超の変形下でも電気特性をほぼ維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nanohelical Permeable Electronics with Strain-Insensitive Performance"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
@@ -10896,6 +10935,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhancing leather tanning efficiency and sustainability with polyphenolic macrocycles: a biomimetic approach"
+    },
+    "10.1038/s41598-026-71862-y": {
+      "doi": "10.1038/s41598-026-71862-y",
+      "posted_at": "2026-09-18T20:24:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789763062.302479",
+      "summary_character_count": 127,
+      "summary_japanese": "砂含有原油を輸送するhelical vane multiphase pumpをDPM数値解析と実験で評価し、流量・回転数・油分が翼摩耗へ及ぼす影響を解析した。低流量・低回転数・高油分で摩耗が最小となり、最大摩耗率の非線形回帰モデルはR²>0.8を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Influence of operating parameters on blade wear characteristics of helical vane multiphase pump"
     },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
@@ -15276,6 +15328,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helical Blade Versus Lag Screw Fixation in Cephalomedullary Nailing of Unstable Trochanteric Fractures: A Narrative Review"
+    },
+    "10.9744/ced.28.2.264-275": {
+      "doi": "10.9744/ced.28.2.264-275",
+      "posted_at": "2026-09-18T20:24:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789763074.389109",
+      "summary_character_count": 102,
+      "summary_japanese": "6、10、12 mmの鉄筋を用いた焼鈍鋼製らせんダンパーを作製し、変位制御正弦波繰返し載荷で性能を評価した。焼鈍による降伏強度低下でEVDRは約2.6%増加し、コイル径増大は耐力とエネルギー散逸を高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental Study on the Hysteretic Behavior of Tempered Steel Helical Dampers"
     }
   }
 }
