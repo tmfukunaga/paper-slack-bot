@@ -30,7 +30,7 @@
     "2026-09-16": 9,
     "2026-09-17": 20,
     "2026-09-18": 25,
-    "2026-09-19": 10
+    "2026-09-19": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -240,6 +240,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Supramolecular Electrolyte Engineering Enables Ultra-Long-Cycling Aqueous Zinc-Ion Batteries"
+    },
+    "10.1002/adfm.78289": {
+      "doi": "10.1002/adfm.78289",
+      "posted_at": "2026-09-18T23:01:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789772502.239639",
+      "summary_character_count": 91,
+      "summary_japanese": "DTI導入半芳香族PIで、triazine分極障壁と螺旋構造により電荷輸送を抑制した。SPI-co-0.5%DTIは150°CでUd 8.79 J cm−3、η 90%以上を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced High-Temperature Capacitive Energy Storage in Topology-Regulated Semi-Aromatic Polyimides by Triazine Polarized Nodes and Helical Transport Barriers"
     },
     "10.1002/adfm.78422": {
       "doi": "10.1002/adfm.78422",
@@ -1449,6 +1462,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Reversed Quantum-Well Engineering Unlocks Large Ultraviolet Chiral Nonlinear Optical Response in a Water-Resistant 2D Hybrid Fluorozirconate"
+    },
+    "10.1002/ange.7044020": {
+      "doi": "10.1002/ange.7044020",
+      "posted_at": "2026-09-18T23:01:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789772474.081539",
+      "summary_character_count": 109,
+      "summary_japanese": "剛直な正方反四角柱型Eu(DOTA)を設計し、均一なEu–O/Eu–N配位で水配位と構造変化を抑制した。中性Eu–Fe ARFBで1.43 V、1.0 M時23.8–24.4 Ah L−1、2000サイクルを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Europium Macrocyclic Complexes With Rigid High-Symmetry Coordination Geometry for High-Voltage and Durable Neutral Aqueous Redox Flow Batteries"
     },
     "10.1002/ange.7074723": {
       "doi": "10.1002/ange.7074723",
@@ -4926,6 +4952,19 @@
       "summary_used_fallback": false,
       "title": "Structure-Conformation-Reactivity Relationships in Optically Active Schiff Base Polymers: Effects of Aromatic Linkage Geometry on Chiroptical Properties and Chemical Recyclability"
     },
+    "10.1002/ppsc.70129": {
+      "doi": "10.1002/ppsc.70129",
+      "posted_at": "2026-09-18T23:01:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789772479.654169",
+      "summary_character_count": 118,
+      "summary_japanese": "MoO3ナノベルトのMo周辺結合の共有結合性をアニオン性Sドーピングで調整し、低原子価Moと追加のイオン貯蔵サイトを導入した。S-MoO3-x//Znは1 A g−1で254 mAh g−1、500サイクル後65.3%の容量を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Boosting Zinc Storage Capacity of MoO 3 Nanobelts by Modulating Molybdenum Sites via Anionic Sulfur Doping"
+    },
     "10.1002/qua.70278": {
       "doi": "10.1002/qua.70278",
       "posted_at": "2026-08-08T22:01:22+00:00",
@@ -8070,6 +8109,19 @@
       "summary_used_fallback": false,
       "title": "Enantioconvergent Assembly of Chiral Difluoromethyl Stereocenters by Nickel-Catalyzed Reductive Cross-Coupling"
     },
+    "10.1021/acscatal.6c05029": {
+      "doi": "10.1021/acscatal.6c05029",
+      "posted_at": "2026-09-18T23:01:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789772493.112459",
+      "summary_character_count": 349,
+      "summary_japanese": "A palladium/chiral norbornene cooperative catalytic kinetic resolution of racemic ferrocenyl halides was developed using aryl iodides and olefins. The method afforded enantioenriched ferrocenyl iodides/bromides and arylferrocenes with up to 99% and 97% ee, respectively. DFT calculations were used to investigate the origin of enantiodiscrimination.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Kinetic Resolution of Ferrocenyl Halide Racemates via Palladium/Chiral Norbornene Cooperative Catalysis"
+    },
     "10.1021/acscatal.6c05079": {
       "doi": "10.1021/acscatal.6c05079",
       "posted_at": "2026-08-08T15:14:50+00:00",
@@ -10714,6 +10766,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Two-photon excited circularly polarized luminescence of hetero[9]helicene with multiresonant thermally activated delayed fluorescence"
+    },
+    "10.1038/s41467-026-77572-3": {
+      "doi": "10.1038/s41467-026-77572-3",
+      "posted_at": "2026-09-18T23:01:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789772485.334859",
+      "summary_character_count": 99,
+      "summary_japanese": "[Pt/Co]N多層膜で、励起光の偏光分布と集光を設計し、材料改質や外部バイアス磁場なしに局所加熱・光トルクを制御した。ヘリシティ依存の多ショット磁壁伝播と、ヘリシティ非依存の磁化反転を切り替えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical beam shaping induced reconfigurable magnetic domains"
     },
     "10.1038/s41467-026-77575-0": {
       "doi": "10.1038/s41467-026-77575-0",
