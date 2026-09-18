@@ -29,7 +29,8 @@
     "2026-09-15": 15,
     "2026-09-16": 9,
     "2026-09-17": 20,
-    "2026-09-18": 25
+    "2026-09-18": 25,
+    "2026-09-19": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1618,6 +1619,19 @@
       "summary_used_fallback": false,
       "title": "Corannulene-Driven Curvature Engineering Enhances Fullerene Encapsulation in a Carbon Nanohoop"
     },
+    "10.1002/ange.8651160": {
+      "doi": "10.1002/ange.8651160",
+      "posted_at": "2026-09-18T15:50:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789746600.879699",
+      "summary_character_count": 408,
+      "summary_japanese": "An unexpected proton-promoted, arenium-ion-mediated azulene-to-phenanthrene rearrangement occurred during the Scholl reaction of tetraarylated biazulene precursors. The transformation enabled synthesis of substituted nanographenes whose optical and electrochemical properties were tunable by peripheral substituents. The products exhibited tunable two-photon absorption, with cross sections reaching 1239 GM.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Unexpected Azulene-to-Naphthalene Rearrangement Enables the Synthesis of Nanographenes with Tunable Two-Photon Absorption"
+    },
     "10.1002/ange.8789956": {
       "doi": "10.1002/ange.8789956",
       "posted_at": "2026-09-17T20:57:28+00:00",
@@ -2852,6 +2866,19 @@
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed H 2 -Enabled Asymmetric Olefin Isomerization: Direct Access to P -Stereogenic Phospholenes With Adjacent Stereocenters"
     },
+    "10.1002/anie.6506301": {
+      "doi": "10.1002/anie.6506301",
+      "posted_at": "2026-09-18T15:49:52+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789746591.953079",
+      "summary_character_count": 131,
+      "summary_japanese": "XeO3と多座窒素塩基から1～3次元自己集合錯体を合成し、X線構造・Raman解析でXe(VI)---N/O σ-hole結合を確認した。2,2′-bipyおよび1,10-phen錯体は希ガス中心のキレート例、HMTA水和錯体は稀なXe---O結合水和物である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Syntheses, X-ray Crystal Structures, and Raman Spectra of Self-Assembled XeO 3 Chain and Network Complexes of Polytopic sp 2 - and sp 3 -Nitrogen Bases"
+    },
     "10.1002/anie.6583201": {
       "doi": "10.1002/anie.6583201",
       "posted_at": "2026-08-30T11:15:58+00:00",
@@ -3150,6 +3177,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Amino Acid Simulated Host-Guest Systems With Full-Color High-Temperature Organic Afterglow"
+    },
+    "10.1002/anie.7715295": {
+      "doi": "10.1002/anie.7715295",
+      "posted_at": "2026-09-18T15:49:36+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789746576.272199",
+      "summary_character_count": 124,
+      "summary_japanese": "Ru(II) polypyridyl luminophoreを組み込んだPt(II)-Ru(II) heterometallacycleは、軌道再分布により陰極ECLを増強し、terephthalate dianionの1:1包接でさらに増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Coordination-Driven Pt(II)-Ru(II) Heterometallacycles With Ultrastrong Cathodic Electrochemiluminescence and Guest-Responsive Signal Amplification"
     },
     "10.1002/anie.7715311": {
       "doi": "10.1002/anie.7715311",
@@ -7444,6 +7484,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Triptycene-Cored Double [5]Helicene: Chirality Transfervia the R / S Triptycene Core to P / M Helical Motifs"
+    },
+    "10.1021/acs.orglett.6c03248": {
+      "doi": "10.1021/acs.orglett.6c03248",
+      "posted_at": "2026-09-18T15:49:26+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789746566.878199",
+      "summary_character_count": 129,
+      "summary_japanese": "電気化学的Rh(III)触媒による分子内ビニルC–H活性化と複素環化で、13～28員環のiminoisocoumarin架橋マクロ環を良好な収率・高い位置選択性で合成した。Rh(I)中間体の単離・解析とCV測定はRh(III)/Rh(I)触媒機構を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrochemical Synthesis of Macrocyclic Iminoisocoumarins by Rh-Catalyzed Intramolecular Vinylic C-H Activation/Heterocyclization"
     },
     "10.1021/acs.orglett.6c03319": {
       "doi": "10.1021/acs.orglett.6c03319",
@@ -13871,6 +13924,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Trapacycle: A Chiral Rhombic Macrocycle"
+    },
+    "10.26434/chemrxiv.15008968/v1": {
+      "doi": "10.26434/chemrxiv.15008968/v1",
+      "posted_at": "2026-09-18T15:49:46+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789746586.111069",
+      "summary_character_count": 111,
+      "summary_japanese": "Phenothiazine融合[4]helicene MBQPを合成し、365 nm照射によるクロロホルミル化で骨格を直接官能基化した。生成物は最大77.2%の量子収率と500、550、660 nm付近の赤方発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photosensitive Phenothiazine-Fused [4]Helicenes"
     },
     "10.26434/chemrxiv.15008975/v1": {
       "doi": "10.26434/chemrxiv.15008975/v1",
