@@ -30,7 +30,7 @@
     "2026-09-16": 9,
     "2026-09-17": 20,
     "2026-09-18": 25,
-    "2026-09-19": 15
+    "2026-09-19": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -461,6 +461,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Microfluidic-Enabled Elastic Photothermal Helical Gel Microfibers for High-Efficiency Solar Evaporation With Spatially Regulated Light-Thermal-Water Management"
+    },
+    "10.1002/adma.75086": {
+      "doi": "10.1002/adma.75086",
+      "posted_at": "2026-09-19T03:07:33+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789787253.460139",
+      "summary_character_count": 107,
+      "summary_japanese": "アキラルポリマーにR体エナンチオマーを導入し、Zn2+輸送・自由水拘束・均一析出を促す超分子ゲルを設計した。R-gelは対称セルで5800 h、Zn||VO2電池で8000サイクル後91.2%の容量保持率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Engineered Supramolecular Gel Networks: Manipulating Interfacial Chemistry for Ultrastable Zinc Metal Batteries"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -1949,6 +1962,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Counterion Dynamics in Chiral Supramolecular Polymerization"
+    },
+    "10.1002/anie.1859339": {
+      "doi": "10.1002/anie.1859339",
+      "posted_at": "2026-09-19T03:07:29+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789787249.039069",
+      "summary_character_count": 88,
+      "summary_japanese": "ジペプチド共集合で同種キラリティーは長距離線維網を形成してゲル化し、FRET効率と圧電応答が異種キラリティー系より高かった。計算は効率的な分子充填とπ–πスタッキングを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Matched Piezoelectric Responsiveness and Energy Transfer in Supramolecular Co-Assembly of Dipeptides"
     },
     "10.1002/anie.1862545": {
       "doi": "10.1002/anie.1862545",
@@ -4302,6 +4328,19 @@
       "summary_used_fallback": false,
       "title": "Copper-Catalyzed Asymmetric Büchner Reaction of Diynes to Access Chiral Cyclohepta[ b ]indoles"
     },
+    "10.1002/cjoc.70760": {
+      "doi": "10.1002/cjoc.70760",
+      "posted_at": "2026-09-19T03:07:20+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789787240.257569",
+      "summary_character_count": 413,
+      "summary_japanese": "Achiral aromatic additives were used to modulate thermoresponsive helical dendronized PPAs bearing dendritic OEGs in water. The additives lowered cloud points and controlled helicity inversion across thermal phase transitions. At elevated temperatures, they enhanced intermolecular aggregation and promoted the formation of long helical fibers and double helices rather than typical thermally aggregated micelles.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Achiral Additives Modulated Helicity and Supramolecular Fibrillation Assembly of Helical Dendronized Poly(phenylacetylene)s through Enhanced Radial Amphiphilicity †"
+    },
     "10.1002/cphc.70451": {
       "doi": "10.1002/cphc.70451",
       "posted_at": "2026-07-21T21:03:34+00:00",
@@ -6542,6 +6581,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Fullerenes (C60/C70)-Embedded Copper(I)-Imidazole/Pyrazolate Macrocycles: Synthesis, Structures, and Electronic Properties"
+    },
+    "10.1021/acs.inorgchem.6c04220": {
+      "doi": "10.1021/acs.inorgchem.6c04220",
+      "posted_at": "2026-09-19T03:07:24+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789787244.745729",
+      "summary_character_count": 128,
+      "summary_japanese": "キラルCu(I) iodides（1-R、1-S）を合成し、SHGでキラリティーを確認した。青色励起下で545 nmの黄色情報帯発光とPLQY 96%、CPLを示し、1-RはCRI 81の単成分WLEDおよび7 lp·mm−1のX線イメージングを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Blue-Light Excited Hybrid Copper Iodides with Circularly Polarized Luminescence for Lighting and X-ray Imaging"
     },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
@@ -14080,6 +14132,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Fully Deuterated [9]Cycloparaphenylene: Vibrational Modulation for Enhanced Solid-State Fluorescence"
+    },
+    "10.26434/chemrxiv.15009016/v1": {
+      "doi": "10.26434/chemrxiv.15009016/v1",
+      "posted_at": "2026-09-19T03:07:38+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789787258.218539",
+      "summary_character_count": 130,
+      "summary_japanese": "キラルα-silyl二級アルコールのlithium alkoxideで立体特異的1,2-Brook転位を行い、極性反転carbanionをWeinreb amideで捕捉してα-hydroxyketoneを得た。捕捉速度が速いほど高いキラリティー移動を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Investigation of α-Silylalcohols as Chiral Umpolung Carbanion Surrogates through Stereospecific 1,2-Brook Rearrangement"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
