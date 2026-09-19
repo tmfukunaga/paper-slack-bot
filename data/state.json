@@ -31,7 +31,7 @@
     "2026-09-17": 20,
     "2026-09-18": 25,
     "2026-09-19": 25,
-    "2026-09-20": 5
+    "2026-09-20": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4641,6 +4641,19 @@
       "summary_used_fallback": true,
       "title": "Applications of Dynamic Online Sample Preconcentration Techniques in Chiral Capillary Electrophoresis"
     },
+    "10.1002/elps.70154": {
+      "doi": "10.1002/elps.70154",
+      "posted_at": "2026-09-19T20:02:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789848130.204119",
+      "summary_character_count": 106,
+      "summary_japanese": "ヘーゼルナッツ飲料中のキラル・アキラル農薬をUHPLC-HRMSで一段階抽出・分析する手法を開発し、回収率60–90%、CCα 0.001–0.016 μg L−1を達成した。原料MRLから暫定MRLも導出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Streamlined Single-Step Salting-Out Approach for Chiral and Achiral Pesticide Analysis in Hazelnut-Based Beverages"
+    },
     "10.1002/hlca.70096": {
       "doi": "10.1002/hlca.70096",
       "posted_at": "2026-08-29T10:05:35+00:00",
@@ -5004,6 +5017,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Twist-Assisted Bioprinting for Micro-Helical Topological Reconstruction"
+    },
+    "10.1002/pi.70200": {
+      "doi": "10.1002/pi.70200",
+      "posted_at": "2026-09-19T20:02:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789848138.369509",
+      "summary_character_count": 127,
+      "summary_japanese": "BINOL、benzothiadiazole、fluoreneを組み込むキラルπ共役ポリマーをSuzuki–Miyaura重縮合で合成し、4-NPに対し90%超の蛍光消光と11.99–14.08 μmol L−1の検出限界を示す紙基材センサーを開発した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Benzothiadiazole- and BINOL -based chiral pi -conjugated polymers for tracing nitroaromatic compounds"
     },
     "10.1002/pola.70286": {
       "doi": "10.1002/pola.70286",
@@ -6686,6 +6712,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Efficient Simulation of Higher-Order Transitions in Resonance Raman Spectroscopy and Its Chiral Extension"
+    },
+    "10.1021/acs.jnatprod.6c00757": {
+      "doi": "10.1021/acs.jnatprod.6c00757",
+      "posted_at": "2026-09-19T20:02:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789848142.617549",
+      "summary_character_count": 128,
+      "summary_japanese": "天然に豊富なanticopalic acidから4段階・74.5%収率でグラムスケール中間体を得る発散的合成法を開発し、fascioquinol A・Bとstrongylophorine-22を初合成、他の海洋meroterpenoid類も簡潔に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Scalable Chiral Pool Platform from Anticopalic Acid for Divergent Syntheses of Marine Meroterpenoids"
     },
     "10.1021/acs.joc.6c00943": {
       "doi": "10.1021/acs.joc.6c00943",
@@ -12328,6 +12367,19 @@
       "summary_used_fallback": false,
       "title": "Upgrading the SMOLA Helical Open Trap for Experiments in the Low Coulomb Collisionality Regime"
     },
+    "10.1136/jnis-2026-025589": {
+      "doi": "10.1136/jnis-2026-025589",
+      "posted_at": "2026-09-19T20:02:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789848134.153729",
+      "summary_character_count": 93,
+      "summary_japanese": "症候性頭蓋内動脈硬化性狭窄203例でCTA再構築・CFDにより病変部最大絶対流れヘリシティを評価し、高値は1年以内の標的血管脳卒中リスク増加と関連した（1 SD当たりHR 1.461）。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Computational fluid dynamics-derived flow helicity and recurrent stroke risk in symptomatic intracranial stenosis"
+    },
     "10.1137/25m1757381": {
       "doi": "10.1137/25m1757381",
       "posted_at": "2026-07-29T21:16:38+00:00",
@@ -14146,6 +14198,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Quantifying antiaromatic destabilization: flashing aromaticity in cascade transformations of cycloheptatrienide systems"
+    },
+    "10.26434/chemrxiv.15008824/v1": {
+      "doi": "10.26434/chemrxiv.15008824/v1",
+      "posted_at": "2026-09-19T20:02:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789848149.395329",
+      "summary_character_count": 119,
+      "summary_japanese": "cinnamate cyclobutane stopperを有するrotaxane架橋剤をpolyurethaneに導入し、荷重下のretro-[2+2]で滑走空間を拡大した。R3は靭性約215 MJ m−3、強度約38 MPaを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Force-Programmed Evolution of Topological Freedom in Slide-Ring Polymer Networks"
     },
     "10.26434/chemrxiv.15008835/v1": {
       "doi": "10.26434/chemrxiv.15008835/v1",
