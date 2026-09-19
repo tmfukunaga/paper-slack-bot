@@ -30,7 +30,8 @@
     "2026-09-16": 9,
     "2026-09-17": 20,
     "2026-09-18": 25,
-    "2026-09-19": 25
+    "2026-09-19": 25,
+    "2026-09-20": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1696,6 +1697,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "One-Step Intermolecular Oxidative Coupling and Cyclodehydration Strategy for Pure-Green B,N,O-Embedded Hetero[9]Helicene Emitter"
+    },
+    "10.1002/ange.8911828": {
+      "doi": "10.1002/ange.8911828",
+      "posted_at": "2026-09-19T15:21:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789831307.104339",
+      "summary_character_count": 132,
+      "summary_japanese": "Rh触媒によるphenoxyalkyneと1,6-diyneのatroposelective [2+2+2]環化で、C─Oキラル軸をもつdiaryl etherを一段階で高収率・高エナンチオ選択的に合成し、生成物をキラルビルディングブロックおよび配位子へ変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Access to Axially Chiral Diaryl Ethers via Catalytic Atroposelective [2+2+2] Cycloaddition of Alkynyloxybenzenes"
     },
     "10.1002/ange.8987942": {
       "doi": "10.1002/ange.8987942",
@@ -5803,6 +5817,19 @@
       "summary_used_fallback": false,
       "title": "Interrupting the hereditary effect: helical path vector-orthogonal additive method for enhanced subtractive machining performance and accuracy of thin-walled rotational parts"
     },
+    "10.1016/j.jmapro.2026.09.023": {
+      "doi": "10.1016/j.jmapro.2026.09.023",
+      "posted_at": "2026-09-19T15:21:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789831311.446239",
+      "summary_character_count": 102,
+      "summary_japanese": "ステンレス鋼ロッドのらせん状マイクロ流路加工に、ノズル装着shadow maskとCFD解析を適用した。maskにより粒子流束が集束し、非装着時より狭く深い流路を形成し、2°のらせん角でも密集配置できた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Abrasive slurry jet focusing using a shadow mask for the micromachining of helical channels"
+    },
     "10.1016/j.jphotochem.2026.117626": {
       "doi": "10.1016/j.jphotochem.2026.117626",
       "posted_at": "2026-08-23T12:34:47+00:00",
@@ -7835,6 +7862,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Precise Control over the Number of Pyrrolidine Catalytic Centers in Chiral COFs for Boosted Asymmetric Catalysis"
+    },
+    "10.1021/acsami.6c10672": {
+      "doi": "10.1021/acsami.6c10672",
+      "posted_at": "2026-09-19T15:21:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789831296.994229",
+      "summary_character_count": 108,
+      "summary_japanese": "キラルネマチック液晶toronを波形設計で生成・移動・停止させ、周波数、デューティ比、DCオフセットにより面内8方向の輸送を実現した。Q-tensor計算で構造と形成を再現し、光学読出しメモリや微粒子輸送を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Field-Programmable Topological Torons in Chiral Nematic Liquid Crystals"
     },
     "10.1021/acsami.6c10731": {
       "doi": "10.1021/acsami.6c10731",
@@ -11585,6 +11625,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Analysis of the bursting activity in Large Helical Device plasma with multiple EP populations"
+    },
+    "10.1088/1361-665x/aea9fe": {
+      "doi": "10.1088/1361-665x/aea9fe",
+      "posted_at": "2026-09-19T15:21:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789831315.878719",
+      "summary_character_count": 130,
+      "summary_japanese": "concave hexahedral unit cellを基にCCRALを設計し、横・縦圧縮で3直交方向に安定した負のポアソン比を示した。実験・数値解析により、凹角、link length、cell widthで剛性、耐荷力、SEAを調整できることを検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A three-dimensionally tunable mechanical metamaterial enabled by a coupled concave-chiral architecture"
     },
     "10.1088/1402-4896/ae8c7e": {
       "doi": "10.1088/1402-4896/ae8c7e",
@@ -15393,6 +15446,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Control of helix orientation in chiral magnets via lateral confinement"
+    },
+    "10.54923/researchreview.v5i2.423": {
+      "doi": "10.54923/researchreview.v5i2.423",
+      "posted_at": "2026-09-19T15:21:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789831302.321279",
+      "summary_character_count": 131,
+      "summary_japanese": "API BanyuwangiのCPL訓練生・卒業生80名を対象に、卒業遅延の要因を重回帰分析で検討した。動機、教官の質、シミュレーション施設は遅延を抑制し、学業先延ばしと学業負荷は促進し、最も支配的な予測因子は学業先延ばしで、モデルは分散の63.8%を説明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Determinan Keterlambatan Kelulusan Peserta Didik pada Program Commercial Pilot License (CPL) di Akademi Penerbang Indonesia Banyuwangi"
     },
     "10.54946/wilm.12260": {
       "doi": "10.54946/wilm.12260",
