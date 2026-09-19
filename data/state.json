@@ -30,7 +30,7 @@
     "2026-09-16": 9,
     "2026-09-17": 20,
     "2026-09-18": 25,
-    "2026-09-19": 20
+    "2026-09-19": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -994,6 +994,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Counterion Dynamics in Chiral Supramolecular Polymerization"
+    },
+    "10.1002/ange.1859339": {
+      "doi": "10.1002/ange.1859339",
+      "posted_at": "2026-09-19T10:18:32+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789813112.216889",
+      "summary_character_count": 103,
+      "summary_japanese": "ジペプチド共集合体でホモキラル認識を検証し、同一キラリティーでは長距離フィブリル網状ゲルを形成した。計算、FRET、圧電測定により、ヘテロキラル系より効率的な分子充填・エネルギー移動と高い圧電応答を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Matched Piezoelectric Responsiveness and Energy Transfer in Supramolecular Co-Assembly of Dipeptides"
     },
     "10.1002/ange.1877364": {
       "doi": "10.1002/ange.1877364",
@@ -3469,6 +3482,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Pre-Crosslinked Network-Mediated Dual Exchange Enables Boosting Chiroptical Activity and Decoupled Two-Level Chirality in Covalent Organic Frameworks"
+    },
+    "10.1002/anie.8911828": {
+      "doi": "10.1002/anie.8911828",
+      "posted_at": "2026-09-19T10:18:25+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789813105.116609",
+      "summary_character_count": 115,
+      "summary_japanese": "Rhodium触媒によるphenoxyalkynesと1,6-diynesのatroposelective [2+2+2]環化で、C─Oキラル軸をもつdiaryl ethersを一段階合成し、高収率・高エナンチオ選択性を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Access to Axially Chiral Diaryl Ethers via Catalytic Atroposelective [2+2+2] Cycloaddition of Alkynyloxybenzenes"
     },
     "10.1002/anie.8922921": {
       "doi": "10.1002/anie.8922921",
@@ -7888,6 +7914,19 @@
       "summary_used_fallback": false,
       "title": "Hierarchically Helical and Buckled Gold Leaf on TPU Fibers for Superelastic Electrodes and Multifunctional Sensors"
     },
+    "10.1021/acsami.6c14378": {
+      "doi": "10.1021/acsami.6c14378",
+      "posted_at": "2026-09-19T10:18:44+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789813124.605299",
+      "summary_character_count": 130,
+      "summary_japanese": "photo-responsive polymer-dispersed cholesteric液晶で、光減衰による深さ依存的なキラルドーパントの光異性化を利用し、動的ピッチ勾配と構造色変化を制御した。時間分解偽造防止と時間・温度・色の三重ロック暗号化を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Light-Controlled Dynamic Gradient Helical Superstructure in Photo-Responsive Polymer-Dispersed Cholesteric Liquid Crystals for Triple-Lock Optical Encryption"
+    },
     "10.1021/acsami.6c14731": {
       "doi": "10.1021/acsami.6c14731",
       "posted_at": "2026-09-09T15:55:31+00:00",
@@ -8790,6 +8829,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Programmable Helicity and Spin Polarization in Pt 6 L 4 Coordination Capsules through Guest-Mediated Chiral Control"
+    },
+    "10.1021/jacs.6c07021": {
+      "doi": "10.1021/jacs.6c07021",
+      "posted_at": "2026-09-19T10:18:16+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789813096.745469",
+      "summary_character_count": 130,
+      "summary_japanese": "Alkylidenecyclopropanesの分子内Rh触媒[(3+2+2)]環化にACDCを導入し、in situ生成したキラルphosphate対アニオンとphosphoramidite配位子により、最高93% eeの架橋三環生成物を高立体選択的に得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Counteranion-Directed Asymmetric Intramolecular Rhodium-Catalyzed [(3+2+2)] Carbocyclization Reactions with Alkylidenecyclopropanes"
     },
     "10.1021/jacs.6c07069": {
       "doi": "10.1021/jacs.6c07069",
@@ -14145,6 +14197,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Investigation of α-Silylalcohols as Chiral Umpolung Carbanion Surrogates through Stereospecific 1,2-Brook Rearrangement"
+    },
+    "10.26434/chemrxiv.15009046/v1": {
+      "doi": "10.26434/chemrxiv.15009046/v1",
+      "posted_at": "2026-09-19T10:18:39+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789813119.672499",
+      "summary_character_count": 135,
+      "summary_japanese": "セルロース廃棄物由来LGOに1,2-・1,3-benzenedithiolを立体選択的thia-Michael付加し、dicarboxylic dihydrazideとの重縮合で分解性polyhydrazoneを合成した。ジチオールの位置異性により旋光度符号が反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bio-Based Levoglucosenone Enables Regioisomer-Driven Inversion of Optical Activity in Polymers via Stereoselective Thia-Michael Addition of 1,2- and 1,3-Benzenedithiols"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
