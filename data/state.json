@@ -30,7 +30,7 @@
     "2026-09-17": 20,
     "2026-09-18": 25,
     "2026-09-19": 25,
-    "2026-09-20": 10
+    "2026-09-20": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1150,6 +1150,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain-End Host-Guest Interactions"
+    },
+    "10.1002/ange.3092581": {
+      "doi": "10.1002/ange.3092581",
+      "posted_at": "2026-09-20T10:37:30+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789900649.993759",
+      "summary_character_count": 97,
+      "summary_japanese": "Pd触媒不斉Suzuki–Miyauraカップリングで固有キラルなdbCOT diene配位子を最大98% eeで合成した。連続カップリングでのDyKATとエナンチオ濃縮が立体選択性を支配した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Taming the Flexible Eight-Membered Ring: Enantioselective Synthesis of Inherently Chiral Dibenzo[ a , e ]cyclooctatetraenes Enabled by Pd-Catalyzed Suzuki-Miyaura Cross-Coupling"
     },
     "10.1002/ange.3163680": {
       "doi": "10.1002/ange.3163680",
@@ -2332,6 +2345,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanically Coupled Supramolecular Scissors Govern Photomechanical and Elastic Responses in Molecular Crystals"
+    },
+    "10.1002/anie.3092581": {
+      "doi": "10.1002/anie.3092581",
+      "posted_at": "2026-09-20T10:37:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789900632.092109",
+      "summary_character_count": 109,
+      "summary_japanese": "Pd触媒Suzuki-Miyauraカップリングにより、逐次DyKATとエナンチオ濃縮を経て最大98% eeの内在性キラルdbCOTジエン配位子を合成し、Rh不斉付加およびPdアトロプ選択的変換で高い触媒性能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Taming the Flexible Eight-Membered Ring: Enantioselective Synthesis of Inherently Chiral Dibenzo[ a , e ]cyclooctatetraenes Enabled by Pd-Catalyzed Suzuki-Miyaura Cross-Coupling"
     },
     "10.1002/anie.3141713": {
       "doi": "10.1002/anie.3141713",
@@ -4653,6 +4679,19 @@
       "summary_used_fallback": false,
       "title": "A Streamlined Single-Step Salting-Out Approach for Chiral and Achiral Pesticide Analysis in Hazelnut-Based Beverages"
     },
+    "10.1002/fob2.70093": {
+      "doi": "10.1002/fob2.70093",
+      "posted_at": "2026-09-20T10:37:16+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789900636.820599",
+      "summary_character_count": 105,
+      "summary_japanese": "多糖のらせん構造を対象に、Congo redスペクトルシフト、AFM、SLS/DLSをCD・TEMと併用して評価する実践的指針を示し、誤解釈を避ける実験上の注意と三重らせん構造の信頼性ある証拠取得法を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Methodological guidelines for the characterization of polysaccharide helical structures"
+    },
     "10.1002/hlca.70096": {
       "doi": "10.1002/hlca.70096",
       "posted_at": "2026-08-29T10:05:35+00:00",
@@ -4873,6 +4912,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly Polarized Lasing From Amplified Geometric Chirality of Twisted Nanoplatelet Assemblies"
+    },
+    "10.1002/lpor.71920": {
+      "doi": "10.1002/lpor.71920",
+      "posted_at": "2026-09-20T10:37:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789900654.297339",
+      "summary_character_count": 95,
+      "summary_japanese": "SLM支援フェムト秒レーザー線露光で平面キラル微細構造アレイを作製し、点書きより約47.8倍高スループットを達成した。鏡像異性体の反射差でOAM符号を識別し、100入力を全て正しく分類した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Femtosecond Laser Line-Exposure Fabrication of Planar Chiral Microstructures for OAM-Sign Discrimination and Spatial Encoding"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -7361,6 +7413,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Flash Communication:A Dithiolene-Based Hexathiadisila[4.4.4]propellene"
+    },
+    "10.1021/acs.organomet.6c00275": {
+      "doi": "10.1021/acs.organomet.6c00275",
+      "posted_at": "2026-09-20T10:37:22+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789900642.389569",
+      "summary_character_count": 123,
+      "summary_japanese": "8種の中性および4種のカチオン性Rh diene NHC錯体を合成し、構造・触媒特性を比較した。NHC立体障害は錯体構造と不斉反応性を左右し、[Rh(L1)(ICy)]SbF6は失活抑制により1,6-enyne環化異性化の活性・選択性を向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Rh Diene NHC Complexes and Their Application in Rh-Catalyzed Cycloisomerization of Enynes"
     },
     "10.1021/acs.orglett.6c02188": {
       "doi": "10.1021/acs.orglett.6c02188",
