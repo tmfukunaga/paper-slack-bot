@@ -30,7 +30,8 @@
     "2026-09-17": 20,
     "2026-09-18": 25,
     "2026-09-19": 25,
-    "2026-09-20": 15
+    "2026-09-20": 15,
+    "2026-09-21": 2
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5835,6 +5836,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Three-dimensional finite element analysis of static compression tests on steel helical piles in clay and sand"
+    },
+    "10.1016/j.heliyon.2026.e45450": {
+      "doi": "10.1016/j.heliyon.2026.e45450",
+      "posted_at": "2026-09-20T15:26:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789917975.112489",
+      "summary_character_count": 132,
+      "summary_japanese": "(R)-(-)-および(S)-(+)-Betti baseをUiO-66-NH2へ固定化したキラル配位子を合成し、銅錯体による無溶媒不斉Henry反応で良好な収率と中程度のエナンチオ選択性を示した。触媒性能は2サイクルまでほぼ維持されたが、3サイクル目に低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Betti base immobilized on UiO-66-NH2: Synthesis and catalytic application in the asymmetric Henry reaction"
     },
     "10.1016/j.isci.2026.117348": {
       "doi": "10.1016/j.isci.2026.117348",
@@ -13015,6 +13029,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and Characterization of Two L-Aspartyl-L-Phenylalanine Methyl Ester Dipeptide Chiral Ionic Liquids and Evaluation of Enantiomeric Recognition Properties Using Fluorescence Spectroscopy"
+    },
+    "10.20944/preprints202609.1596.v1": {
+      "doi": "10.20944/preprints202609.1596.v1",
+      "posted_at": "2026-09-20T15:26:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1789917979.811049",
+      "summary_character_count": 112,
+      "summary_japanese": "キラルスピン有限系で完全双極子相互作用を用い、scalar descriptorの限界を検証した。平衡応答由来の二次拡張は8条件で半径RMSE 0.000259を示し、最良のscalar正規化と多変量ベースラインを上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Limits of Scalar Descriptors in Chiral Magnet Screening"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
