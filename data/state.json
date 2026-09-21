@@ -30,7 +30,8 @@
     "2026-09-18": 25,
     "2026-09-19": 25,
     "2026-09-20": 15,
-    "2026-09-21": 2
+    "2026-09-21": 2,
+    "2026-09-22": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4640,6 +4641,19 @@
       "summary_used_fallback": false,
       "title": "Coated and Immobilized Polysaccharides-Based Stationary Phases for Planar Metallocenes Enantioseparation in Liquid Chromatography"
     },
+    "10.1002/elps.70148": {
+      "doi": "10.1002/elps.70148",
+      "posted_at": "2026-09-21T18:10:21+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790014221.109039",
+      "summary_character_count": 102,
+      "summary_japanese": "キラル分子・高分子の検出と同定法を概説し、旋光・円二色性に加え、円偏光発光、プラズモン、液晶相に基づく手法を紹介する。高分子のキラル構造同定では、実験スペクトルと理論解析の組合せを有用な手法として論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Selected Topics in Detection and Identification of Molecular and Macromolecular Chirality"
+    },
     "10.1002/elps.70149": {
       "doi": "10.1002/elps.70149",
       "posted_at": "2026-09-06T04:40:10+00:00",
@@ -5719,6 +5733,32 @@
       "summary_used_fallback": false,
       "title": "Thermodynamic characterization of chirality effects in dipalmitoylphosphatidylcholine bilayers"
     },
+    "10.1016/j.ccr.2026.218492": {
+      "doi": "10.1016/j.ccr.2026.218492",
+      "posted_at": "2026-09-21T18:10:10+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790014210.160559",
+      "summary_character_count": 111,
+      "summary_japanese": "Phenazineを構造・レドックス・相互作用／配位機能を併せ持つ設計要素として、離散マクロ環、COF、HOF、MOF、配位ケージを総説し、空孔形状、電荷移動、ゲスト結合と認識・捕捉・触媒・電気化学特性への寄与を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Phenazine as a three-in-one synthon in macrocyclic and coordination framework materials: From discrete macrocycles to adaptive supramolecular systems"
+    },
+    "10.1016/j.ccr.2026.218573": {
+      "doi": "10.1016/j.ccr.2026.218573",
+      "posted_at": "2026-09-21T18:10:04+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790014202.892409",
+      "summary_character_count": 98,
+      "summary_japanese": "フタロシアニン、crown ether、porphyrinなどの大環状配位子による腐食抑制を総説し、各種金属基材での吸着・配位・保護膜形成と、構造、溶解性、置換基が抑制効率に及ぼす影響を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocyclic ligands as corrosion inhibitors: Macrocyclic effects, host-guest chemistry, coordination and complexation with metal surfaces and ions"
+    },
     "10.1016/j.compgeo.2026.108592": {
       "doi": "10.1016/j.compgeo.2026.108592",
       "posted_at": "2026-08-29T22:59:37+00:00",
@@ -5848,6 +5888,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Betti base immobilized on UiO-66-NH2: Synthesis and catalytic application in the asymmetric Henry reaction"
+    },
+    "10.1016/j.ijthermalsci.2026.111338": {
+      "doi": "10.1016/j.ijthermalsci.2026.111338",
+      "posted_at": "2026-09-21T18:10:26+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790014226.664169",
+      "summary_character_count": 122,
+      "summary_japanese": "非対称二層Weyl-semimetal Fabry-Pérot空洞を設計し、独立ゲートと空隙長で高調波の強度・位相・ヘリシティを制御した。第2層のFermi energy調整により、5次高調波の円偏光度を約−0.85から+0.88へ切り替えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrically and geometrically reconfigurable harmonic-resolved chiral emission from an asymmetric Weyl-semimetal Fabry-Pérot cavity"
     },
     "10.1016/j.isci.2026.117348": {
       "doi": "10.1016/j.isci.2026.117348",
@@ -7075,6 +7128,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Assembly-Driven Emergent Chirality with Simultaneous Induction and Ligand Inversion in Atomic Clusters"
+    },
+    "10.1021/acs.jpclett.6c02187": {
+      "doi": "10.1021/acs.jpclett.6c02187",
+      "posted_at": "2026-09-21T18:10:15+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790014215.739069",
+      "summary_character_count": 103,
+      "summary_japanese": "キラル配位子をもつ2D HOIPで、分子量子電磁力学により仮想光子が層間励起子の双極子間結合へ位相シフトを与え、励起子分散のlinear-Kz項と自然光学活性を生む機構を示し、各種HOIPの実験で裏付けた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impartation of Optical Activity from Chiral Ligands to Hybrid Perovskites via Virtual Photons"
     },
     "10.1021/acs.jpclett.6c02215": {
       "doi": "10.1021/acs.jpclett.6c02215",
