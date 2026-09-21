@@ -31,7 +31,7 @@
     "2026-09-19": 25,
     "2026-09-20": 15,
     "2026-09-21": 2,
-    "2026-09-22": 5
+    "2026-09-22": 6
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12587,6 +12587,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral symmetry and curvature bounds in de Sitter spacetime"
+    },
+    "10.1142/s0218127427500052": {
+      "doi": "10.1142/s0218127427500052",
+      "posted_at": "2026-09-21T23:49:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790034567.717469",
+      "summary_character_count": 99,
+      "summary_japanese": "backlash、TVMS、STEを含む9自由度はすば歯車連成モデルを構築し、時間平均散逸パワーでエネルギー散逸を評価した。二パラメータ解析により、回転速度や分岐が散逸分布・量へ及ぼす影響を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Two-Parameter Dynamics and Power Flow Characteristics of Helical Gear Systems with Coupled Bending-Torsional-Axial Vibrations"
     },
     "10.1142/s0219887826503561": {
       "doi": "10.1142/s0219887826503561",
