@@ -31,7 +31,7 @@
     "2026-09-20": 15,
     "2026-09-21": 2,
     "2026-09-22": 11,
-    "2026-09-23": 10
+    "2026-09-23": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1989,6 +1989,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Protection-Deprotection for Switching Pore-Surface Functionality in a Crystalline Porous Organic Salt"
+    },
+    "10.1002/anie.1587126": {
+      "doi": "10.1002/anie.1587126",
+      "posted_at": "2026-09-22T21:20:48+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790112048.147749",
+      "summary_character_count": 93,
+      "summary_japanese": "分子内・分子間水素結合を組み込んだ柔軟な最小cyclochiral monomerが、fullereneによる自己選別を介し、高親和性かつ構造異性を示す同キラル四量体カプセルを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hydrogen-Bond Encoding in a Structurally Minimal Cyclochiral Monomer Enables Assembly of Large Cavities Displaying Supramolecular Isomerism"
     },
     "10.1002/anie.1681939": {
       "doi": "10.1002/anie.1681939",
@@ -8753,6 +8766,19 @@
       "summary_used_fallback": false,
       "title": "In Situ Growth of Copper Phenylacetylide Nanobelts on Copper Foil for Enhanced Electroreduction of CO 2 to Multi-Carbon Products"
     },
+    "10.1021/acsnanoscienceau.6c00133": {
+      "doi": "10.1021/acsnanoscienceau.6c00133",
+      "posted_at": "2026-09-22T21:20:42+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790112042.777709",
+      "summary_character_count": 95,
+      "summary_japanese": "本Reviewは、炭素骨格・表面/界面・超分子集合体に由来するキラル炭素ナノ材料を分類し、キロプティカル・電子応答と生体界面作用、医療・バイオ分析機能の関係、および予測設計の課題を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Domain-Encoded Chirality in Carbon Nanomaterials from Structural Origins and Chiroptical Responses to Biological Effects"
+    },
     "10.1021/acsomega.6c01239": {
       "doi": "10.1021/acsomega.6c01239",
       "posted_at": "2026-09-12T03:06:38+00:00",
@@ -14316,6 +14342,19 @@
       "summary_used_fallback": false,
       "title": "Sequential Chiral-Layer Processing for Large Chiroptical Responses in Polymer Films and CP-LEDs"
     },
+    "10.26434/chemrxiv.15008146/v2": {
+      "doi": "10.26434/chemrxiv.15008146/v2",
+      "posted_at": "2026-09-22T21:20:36+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790112036.868919",
+      "summary_character_count": 124,
+      "summary_japanese": "F8T2をchlorobenzene、キラル誘導剤をethanolから逐次成膜し熱アニールする直交溶媒法で、R-DbHP膜は見かけの吸収解離因子0.35を示した。R-5011にも適用でき、CP-LED 4素子で発光解離因子0.79–0.83を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Orthogonal-Solvent Sequential Depositionfor Chiral Induction in Polymer Films andCircularly Polarized Light-Emitting Diodes"
+    },
     "10.26434/chemrxiv.15008154/v1": {
       "doi": "10.26434/chemrxiv.15008154/v1",
       "posted_at": "2026-09-03T07:47:52+00:00",
@@ -14679,6 +14718,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macromolecular Size Matching in Stabilizing Corrugated Chiral Plasmonic Nanostructures"
+    },
+    "10.26434/chemrxiv.15009245/v1": {
+      "doi": "10.26434/chemrxiv.15009245/v1",
+      "posted_at": "2026-09-22T21:20:56+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790112056.408259",
+      "summary_character_count": 117,
+      "summary_japanese": "配位ケージのhost–guest化学で、ゲスト結合による粒子zeta potential変化を介しionic diffusiophoresisを制御した。結合親和性と相互作用符号の相関を示し、その符号と大きさを予測する理論を構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulating Phoretic Interactions through Molecular Recognition"
+    },
+    "10.26434/chemrxiv.15009250/v1": {
+      "doi": "10.26434/chemrxiv.15009250/v1",
+      "posted_at": "2026-09-22T21:21:06+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790112066.267449",
+      "summary_character_count": 131,
+      "summary_japanese": "過密(diacetoxyiodo)areneと環状1,3-diketoneの転位でC-O atropisomeric aryl vinyl etherを合成し、反転障壁は最大約40 kcal mol−1、gearing障壁は約15 kcal mol−1と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Accessing an Extreme Steric Regime of C-O Atropisomerism through Overcrowded Iodane-Mediated Rearrangement"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
