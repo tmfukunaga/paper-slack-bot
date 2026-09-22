@@ -31,7 +31,7 @@
     "2026-09-20": 15,
     "2026-09-21": 2,
     "2026-09-22": 11,
-    "2026-09-23": 5
+    "2026-09-23": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1295,6 +1295,19 @@
       "summary_used_fallback": false,
       "title": "HSAB-Guided Design of Chiral Osmium Halides With Both Efficient Nonlinear Optical Properties and High Stability"
     },
+    "10.1002/ange.4724561": {
+      "doi": "10.1002/ange.4724561",
+      "posted_at": "2026-09-22T20:53:43+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790110423.687029",
+      "summary_character_count": 111,
+      "summary_japanese": "キラル銅(I)臭化物微結晶(R-/S-MPZ)Cu₂Br₄を設計し、歪んだCu–Br骨格により870 nmでY-cut quartzの約376倍のSHG強度と最大11.14 mJ cm⁻²の耐損傷性、SHG-CDを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strong Second-Order Nonlinear Optical Activities in Chiral Hybrid Copper(I) Bromide Microplates"
+    },
     "10.1002/ange.4944487": {
       "doi": "10.1002/ange.4944487",
       "posted_at": "2026-08-22T03:39:34+00:00",
@@ -1450,6 +1463,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed H 2 -Enabled Asymmetric Olefin Isomerization: Direct Access to P -Stereogenic Phospholenes With Adjacent Stereocenters"
+    },
+    "10.1002/ange.6564456": {
+      "doi": "10.1002/ange.6564456",
+      "posted_at": "2026-09-22T20:54:00+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790110439.941219",
+      "summary_character_count": 359,
+      "summary_japanese": "Enantiopure C2-symmetric chiral diradical precursors were synthesized from BINAM by one-pot Povarov cyclization. Their reduced forms retained a SUMO-LUMO inversion configuration and, through N-protonation and steric shielding, formed persistent singlet diradicals that underwent highly reversible redox switching with the corresponding closed-shell dications.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Persistent Chiral Diradicals via SUMO-LUMO Inversion: Modular Synthesis, Electronic Structures, and Redox-Switching Properties"
     },
     "10.1002/ange.6583201": {
       "doi": "10.1002/ange.6583201",
@@ -2724,6 +2750,19 @@
       "summary_used_fallback": false,
       "title": "Host-Guest Mismatch Enables Selective Hydrogen Atom Transfer"
     },
+    "10.1002/anie.4724561": {
+      "doi": "10.1002/anie.4724561",
+      "posted_at": "2026-09-22T20:53:27+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790110407.012049",
+      "summary_character_count": 111,
+      "summary_japanese": "キラル銅(I)臭化物微結晶(R-/S-MPZ)Cu2Br4を合成し、歪んだCu–Br骨格により870 nmでY-cut quartzの約376倍のSHGと最大11.14 mJ cm−2の損傷閾値、SHG-CD応答を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strong Second-Order Nonlinear Optical Activities in Chiral Hybrid Copper(I) Bromide Microplates"
+    },
     "10.1002/anie.4944487": {
       "doi": "10.1002/anie.4944487",
       "posted_at": "2026-08-22T03:39:30+00:00",
@@ -2996,6 +3035,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Syntheses, X-ray Crystal Structures, and Raman Spectra of Self-Assembled XeO 3 Chain and Network Complexes of Polytopic sp 2 - and sp 3 -Nitrogen Bases"
+    },
+    "10.1002/anie.6564456": {
+      "doi": "10.1002/anie.6564456",
+      "posted_at": "2026-09-22T20:53:37+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790110417.424099",
+      "summary_character_count": 393,
+      "summary_japanese": "Enantiopure C2-symmetric bibenzo[g]quinoline singlet chiral diradicals were synthesized from BINAM by one-pot Povarov cyclization. Their reduced forms displayed SUMO-LUMO inversion, while N-protonation and steric shielding enhanced stability. The compounds functioned as reversible chiral redox switches between closed-shell dications and neutral diradicals, retaining chiroptical information.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Persistent Chiral Diradicals via SUMO-LUMO Inversion: Modular Synthesis, Electronic Structures, and Redox-Switching Properties"
     },
     "10.1002/anie.6583201": {
       "doi": "10.1002/anie.6583201",
@@ -3678,6 +3730,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Stable Thioxanthene Dioxide Radical Motif for Modular Access to High-Spin Diradical and Fully-Fused Tetraradicaloid Scaffold"
+    },
+    "10.1002/anie.9362433": {
+      "doi": "10.1002/anie.9362433",
+      "posted_at": "2026-09-22T20:53:50+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790110429.982199",
+      "summary_character_count": 94,
+      "summary_japanese": "α-CDがarsonate修飾{Mo6}を屈曲型へ再編し、pH調節で4分子のα-CDを含む逆Keggin型{Mo12}擬ロタキサンへ変換する過程を、NMR、ITC、X線構造解析で解明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cyclodextrin-Directed Assembly of Dynamic Polyoxometalate Pseudo-Rotaxanes"
     },
     "10.1002/anie.9365925": {
       "doi": "10.1002/anie.9365925",
