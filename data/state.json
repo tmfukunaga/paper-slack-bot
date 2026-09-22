@@ -30,7 +30,8 @@
     "2026-09-19": 25,
     "2026-09-20": 15,
     "2026-09-21": 2,
-    "2026-09-22": 11
+    "2026-09-22": 11,
+    "2026-09-23": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -682,6 +683,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Off-Resonant Chiroptical Enhancement for Enantiomeric Discrimination Through Weak Measurement"
+    },
+    "10.1002/adom.71794": {
+      "doi": "10.1002/adom.71794",
+      "posted_at": "2026-09-22T16:17:37+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790093857.269269",
+      "summary_character_count": 100,
+      "summary_japanese": "Bi,Ga置換希土類鉄ガーネット薄膜で、514 nm・230 fs円偏光パルスによるヘリシティ依存全光磁化反転を検証し、Eu3+試料がNd3+試料より高効率で、4f軌道磁気モーメントとの相関を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity-Dependent All-Optical Switching in Bi,Ga-Substituted Rare-Earth Iron Garnet Films Driven by Orbital Magnetic Moment"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -7466,6 +7480,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer"
     },
+    "10.1021/acs.nanolett.6c03613": {
+      "doi": "10.1021/acs.nanolett.6c03613",
+      "posted_at": "2026-09-22T16:17:32+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790093852.002329",
+      "summary_character_count": 103,
+      "summary_japanese": "chiral camphorsulfonic acid電解質と強磁性Ni電極の電気化学セルでCISS機構を解析し、磁気伝導は電極サイズと拡散次元のクロスオーバーに強く依存し、大電極で顕著となることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Near-Electrode Diffusion Dynamics Govern Chirality-Induced Spin Selectivity in an Electrochemical Cell"
+    },
     "10.1021/acs.oprd.6c00194": {
       "doi": "10.1021/acs.oprd.6c00194",
       "posted_at": "2026-09-17T21:23:40+00:00",
@@ -8634,6 +8661,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Conformationally Gated Interconversion of Photophysical Pathways Enables Invertible Circularly Polarized Luminescence"
+    },
+    "10.1021/acsnano.6c11933": {
+      "doi": "10.1021/acsnano.6c11933",
+      "posted_at": "2026-09-22T16:17:21+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790093841.754999",
+      "summary_character_count": 104,
+      "summary_japanese": "R/S-phosphorsをHPC/CNCコレステリックマトリックスへ蒸発誘起自己集合で導入し、|glum| 0.51、最長2.4 sの円偏光室温りん光を示す湿度・照射時間応答性の生分解性フィルムを作製した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stimuli-Responsive Biodegradable Cholesteric Films with Color-Tunable Circularly Polarized Ultralong Room-Temperature Phosphorescence"
     },
     "10.1021/acsnanoscienceau.6c00082": {
       "doi": "10.1021/acsnanoscienceau.6c00082",
@@ -14562,6 +14602,19 @@
       "summary_used_fallback": false,
       "title": "Growth and Postsynthetic Modulation of Morphology-Encoded Plasmonic Chirality"
     },
+    "10.26434/chemrxiv.15009141/v1": {
+      "doi": "10.26434/chemrxiv.15009141/v1",
+      "posted_at": "2026-09-22T16:17:14+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790093834.836459",
+      "summary_character_count": 107,
+      "summary_japanese": "鎖長選択的ポリマー修飾により、キラルAuNRsの微細溝を安定化した。流体力学的径が閾値未満のポリマーコイルが溝へ侵入・固定化してキロプティカル活性を保持し、異なる2サイズのポリマーによる逐次修飾で安定な性能を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macromolecular Size Matching in Stabilizing Corrugated Chiral Plasmonic Nanostructures"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -14925,6 +14978,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Study on the Pullout Performance and Failure Mechanism of the UHPC-Grouted Helical Anchor Rod-Prefabricated Cap Connection Joint"
+    },
+    "10.3390/chemosensors14090208": {
+      "doi": "10.3390/chemosensors14090208",
+      "posted_at": "2026-09-22T16:17:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790093847.152489",
+      "summary_character_count": 88,
+      "summary_japanese": "キラル共有結合性有機構造体（CCOF）によるエナンチオ選択的電気化学センシングを総説し、合成・電極固定化法と電気化学、ECL、PECの各信号変換機構、設計原理、課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Covalent Organic Frameworks for Enantioselective Sensing: Electrochemical, Electrochemiluminescence, and Photoelectrochemical Platforms"
     },
     "10.3390/coatings16091079": {
       "doi": "10.3390/coatings16091079",
