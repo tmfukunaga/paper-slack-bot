@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-22": 29,
     "2026-08-23": 37,
     "2026-08-24": 6,
     "2026-08-26": 9,
@@ -31,7 +30,7 @@
     "2026-09-20": 15,
     "2026-09-21": 2,
     "2026-09-22": 11,
-    "2026-09-23": 15
+    "2026-09-23": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1820,6 +1819,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermodynamic and Kinetic Control of Ring-Chain Interconversion in Entropy-Driven Ring-Opening Polymerization of a Macrocyclic Di(Ester-thioester)"
+    },
+    "10.1002/ange.9362433": {
+      "doi": "10.1002/ange.9362433",
+      "posted_at": "2026-09-23T03:18:40+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790133520.214369",
+      "summary_character_count": 111,
+      "summary_japanese": "α-CDがazobenzene官能化{Mo6}の平面構造を屈曲構造へ再編し、pH調整で4個のα-CDを含むinverted-Keggin {Mo12}擬ロタキサンへ変換した。NMR、ITC、X線解析で動的再編過程を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cyclodextrin-Directed Assembly of Dynamic Polyoxometalate Pseudo-Rotaxanes"
     },
     "10.1002/ange.9590374": {
       "doi": "10.1002/ange.9590374",
@@ -5602,6 +5614,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Facile Synthesis of 2,9-Diamino-1,10-Phenanthrolines, 2,9-Difluoro-1,10-Phenanthrolines and Soluble Bis-Phenanthroline-Macrocycles"
+    },
+    "10.1002/zaac.70205": {
+      "doi": "10.1002/zaac.70205",
+      "posted_at": "2026-09-23T03:18:35+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790133515.739489",
+      "summary_character_count": 109,
+      "summary_japanese": "乳酸誘導体を配位子に用い、1,4-bmb存在下の水熱反応でCd(II)キラル配位高分子HCU34-R/Sを合成した。両者は4重相互貫入dia型らせん骨格を形成し、KDP比0.26/0.24の第二高調波発生強度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Cd-Based Frameworks Based on Lactic Acid Derivatives and Their Second-Order Nonlinear Optical Responses"
     },
     "10.1007/s00253-026-13996-7": {
       "doi": "10.1007/s00253-026-13996-7",
@@ -10052,6 +10077,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Designof Chiral Antimony Catalyst for Ring-OpeningReaction of Epoxides with Anilines"
+    },
+    "10.1021/jacs.6c13192": {
+      "doi": "10.1021/jacs.6c13192",
+      "posted_at": "2026-09-23T03:18:49+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790133529.754089",
+      "summary_character_count": 101,
+      "summary_japanese": "炭素数152、228、304のトロイド／Schwarzite様負曲率ナノフープを合成し、2種を単結晶X線回折で構造解析した。溶液中でのフラーレンとの超分子相互作用と対応する巨大構造との構造比較も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Negatively Curved Nanohoops as Cut-Outs of Carbon Toroids and Schwarzites"
     },
     "10.1021/jacs.6c13382": {
       "doi": "10.1021/jacs.6c13382",
@@ -14719,6 +14757,19 @@
       "summary_used_fallback": false,
       "title": "Macromolecular Size Matching in Stabilizing Corrugated Chiral Plasmonic Nanostructures"
     },
+    "10.26434/chemrxiv.15009151/v1": {
+      "doi": "10.26434/chemrxiv.15009151/v1",
+      "posted_at": "2026-09-23T03:18:54+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790133534.131559",
+      "summary_character_count": 114,
+      "summary_japanese": "PtI2T[3,5-diOMe]PPの結晶構造と分子間I···I接触をX線回折・MESP・QTAIM・NBO解析で検証し、DCMとの協同的接触を含む一次元ネットワークと、弱い閉殻性かつ供与・受容成分を示す相互作用を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Linear I···I contacts in a platinum(IV)-diiodo porphyrin: Emergent type III halogen-halogen interactions"
+    },
     "10.26434/chemrxiv.15009245/v1": {
       "doi": "10.26434/chemrxiv.15009245/v1",
       "posted_at": "2026-09-22T21:20:56+00:00",
@@ -15303,6 +15354,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Three-Dimensional Helical Antenna Array with Circular Polarization"
+    },
+    "10.3390/mi17091099": {
+      "doi": "10.3390/mi17091099",
+      "posted_at": "2026-09-23T03:18:44+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790133524.813999",
+      "summary_character_count": 104,
+      "summary_japanese": "近赤外域で動作するInSb-UAC-InSb導波路を理論解析し、キラリティ、コア幅、InSb温度、周波数に対する伝搬定数を評価した。Case IIはCase Iより高感度で、低周波数でも高い伝搬定数を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Temperature-Controlled Surface Plasmon Polariton Propagation in InSb-Uniaxial Chiral-InSb Waveguides for Near-Infrared Optical Communication"
     },
     "10.3390/molecules31142526": {
       "doi": "10.3390/molecules31142526",
