@@ -30,7 +30,8 @@
     "2026-09-20": 15,
     "2026-09-21": 2,
     "2026-09-22": 11,
-    "2026-09-23": 25
+    "2026-09-23": 25,
+    "2026-09-24": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4744,6 +4745,19 @@
       "summary_used_fallback": true,
       "title": "A Modular and Scalable Synthesis of Imidazole-Embedded Crown Ethers and Evaluation of Their Cation Binding Properties"
     },
+    "10.1002/ejoc.70844": {
+      "doi": "10.1002/ejoc.70844",
+      "posted_at": "2026-09-23T16:06:17+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790179577.085659",
+      "summary_character_count": 124,
+      "summary_japanese": "置換vinylalleneとN-methylmaleimideのDiels–Alder反応で、結合形成に伴いatropisomeric styreneを発生させた。異性化障壁は縮環二環骨格の配座柔軟性にも支配され、室温で分離可能な安定異性体を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Emergent Atropisomerism Through Diels-Alder Reactions of Vinylallenes"
+    },
     "10.1002/elps.70144": {
       "doi": "10.1002/elps.70144",
       "posted_at": "2026-08-23T03:48:59+00:00",
@@ -6959,6 +6973,19 @@
       "summary_used_fallback": false,
       "title": "Herbicide Recognition, Sensing, and Removal Enabled by Supramolecular Macrocyclic Chemistry"
     },
+    "10.1021/acs.jafc.6c07395": {
+      "doi": "10.1021/acs.jafc.6c07395",
+      "posted_at": "2026-09-23T16:06:27+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790179587.288689",
+      "summary_character_count": 135,
+      "summary_japanese": "Naringin・chlorogenic acid・glucosylrutinの担体非含有ナノ粒子NCGNを超分子自己集合で作製し、NGの水溶性を4.6倍に向上させた。π–πスタッキング主体の集合体は93.4%を放出し、in vitroでIL-6とTNF-αを低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "“Lego-Brick”-Style Supramolecular Self-Assembly for Naringin-Chlorogenic Acid-Glucosylrutin Carrier-Free Nanoparticles: Self-Assembly Mechanism, Release Behavior, and Anti-Inflammatory Activity"
+    },
     "10.1021/acs.jced.6c00076": {
       "doi": "10.1021/acs.jced.6c00076",
       "posted_at": "2026-07-18T15:14:15+00:00",
@@ -7647,6 +7674,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Continuous Flow Br/Li Exchange Enables Scalable Synthesis of Chiral N , P Ligands for Asymmetric Catalysis"
+    },
+    "10.1021/acs.organomet.6c00208": {
+      "doi": "10.1021/acs.organomet.6c00208",
+      "posted_at": "2026-09-23T16:06:36+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790179596.856409",
+      "summary_character_count": 355,
+      "summary_japanese": "Macrocyclic carbene ligands with a carbazolide backbone and either ether or secondary amine donors were synthesized and metalated with Cu(acac)2 to afford square-planar Cu(II) complexes. Single-crystal X-ray diffraction and cyclic voltammetry characterized the products, with the amine complex showing a Cu(I)/Cu(II) wave shifted 330 mV more cathodically.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Flash Communication: Copper Complexes Supported by Macrocyclic N-Heterocyclic Carbene Ligands with Ether or Secondary Amine Donors"
     },
     "10.1021/acs.organomet.6c00227": {
       "doi": "10.1021/acs.organomet.6c00227",
@@ -8797,6 +8837,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Correlative Multimodal Framework Reveals Supramolecular Chirality Loss Preceding Fibrillar Rarefaction in Dermal Collagen"
+    },
+    "10.1021/acsnano.6c08681": {
+      "doi": "10.1021/acsnano.6c08681",
+      "posted_at": "2026-09-23T16:06:05+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790179565.702809",
+      "summary_character_count": 85,
+      "summary_japanese": "第一原理計算・tight-binding解析と量子輸送計算により、キラルTe極細ナノワイヤのCISPが量子閉じ込めで増強され、単一Te鎖では約65%に達することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced Current-Induced Spin Polarization in Ultrathin Chiral Nanowires"
     },
     "10.1021/acsnano.6c09692": {
       "doi": "10.1021/acsnano.6c09692",
@@ -15146,6 +15199,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Investigation of Thermal and Hydraulic Performance in a Helical Two-Tube Heat Exchanger Equipped with Wire/Spring Turbulators"
+    },
+    "10.3390/app16189360": {
+      "doi": "10.3390/app16189360",
+      "posted_at": "2026-09-23T16:05:59+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790179559.516679",
+      "summary_character_count": 102,
+      "summary_japanese": "RCWA4Dで非整合ねじれ角を含む誘電体TBPhCsの円偏光透過を解析し、空気孔半径とねじれ角がCD共鳴を再分配すること、特定形状で積分絶対CDが増大し有利な偏光コントラスト条件を同定できることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Chiral Spectral Responses of Incommensurate Twisted Bilayer Photonic Crystals"
     },
     "10.3390/axioms15080585": {
       "doi": "10.3390/axioms15080585",
