@@ -30,7 +30,7 @@
     "2026-09-20": 15,
     "2026-09-21": 2,
     "2026-09-22": 11,
-    "2026-09-23": 20
+    "2026-09-23": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2853,6 +2853,19 @@
       "summary_used_fallback": false,
       "title": "Harnessing Supramolecular Circularly Polarized Scattering for Enhanced Chiroptical Performance"
     },
+    "10.1002/anie.5230240": {
+      "doi": "10.1002/anie.5230240",
+      "posted_at": "2026-09-23T10:46:42+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790160402.360669",
+      "summary_character_count": 128,
+      "summary_japanese": "benzo-15-crown-5金属クランプで[MnBr4]2−幾何、電荷収集、ガラス形成を制御し、CKMBはPLQY 82.2%、相対光収率6.74×10^4 photons MeV−1を示した。CKMB/CRMBはガラス化し、多モード可視化に応用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sandwich-Like Supramolecular Clamp-Templated Manganese(II) Bromide Scintillators for Multimodal Visualization"
+    },
     "10.1002/anie.5251809": {
       "doi": "10.1002/anie.5251809",
       "posted_at": "2026-07-20T04:37:13+00:00",
@@ -5550,6 +5563,19 @@
       "summary_used_fallback": false,
       "title": "Spectral Matching and Spatially Dependent Polarization-Selective Attenuation in Chiral Au-SiO 2 -Quantum Dot Nanohybrids"
     },
+    "10.1002/smll.75837": {
+      "doi": "10.1002/smll.75837",
+      "posted_at": "2026-09-23T10:46:37+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790160397.136899",
+      "summary_character_count": 127,
+      "summary_japanese": "シード誘導アミロイド形成中に色素などの非キラル機能分子を共集合させ、二次核形成を抑えて形態多様性を制限しつつキラリティーを転写した。IECDのgは最大1.3×10−2、IVCDのgは1.5×10−3に達し、色素濃度と溶媒でキロプティカル特性を調整できた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programmable Chirality Transfer: Seeding-Directed Co-Assembly of Functional Molecules With Amyloid Frameworks"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -6153,6 +6179,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A folding and deployment strategy for infinite planes based on multi-hub chiral origami"
+    },
+    "10.1016/j.microc.2026.119760": {
+      "doi": "10.1016/j.microc.2026.119760",
+      "posted_at": "2026-09-23T10:46:46+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790160406.462569",
+      "summary_character_count": 127,
+      "summary_japanese": "Scutellaria baicalensis Georgi由来フラボノイド抽出用に、Cu2+配位、carboxymethyl-β-cyclodextrin包接、極性切替相分離を統合したMSDESを開発し、baicalin収率160 mg/gを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Cu2+-functionalized supramolecular deep eutectic solvent with tunable polarity: synergistic coordination and host-guest inclusion for efficient and selective flavonoid extraction"
     },
     "10.1016/j.micromeso.2026.114323": {
       "doi": "10.1016/j.micromeso.2026.114323",
@@ -8251,6 +8290,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Diverse Combinations of Multiple Surfactants for Chirality Recognition and Separation of Carbon Nanotubes"
+    },
+    "10.1021/acsami.6c13283": {
+      "doi": "10.1021/acsami.6c13283",
+      "posted_at": "2026-09-23T10:46:51+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790160411.140779",
+      "summary_character_count": 106,
+      "summary_japanese": "選択的レーザーエッチングでキラルポリマー貯蔵部を形成し、キラル分子の拡散でらせんピッチを局所制御する単層RGB PSCLCを作製した。独立駆動画素による動的パターン切替と、分光符号化暗号・偽造防止機能を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Etching-Guided Chiral Diffusion Enables Single-Layer RGB Polymer-Stabilized Cholesteric Liquid Crystal Devices"
     },
     "10.1021/acsami.6c13829": {
       "doi": "10.1021/acsami.6c13829",
@@ -11585,6 +11637,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Influence of many-body correlation and mixed-valence fluctuations on X-ray magnetic circular dichroism and resonant inelastic X-ray scattering spectra"
+    },
+    "10.1038/s44160-026-01155-9": {
+      "doi": "10.1038/s44160-026-01155-9",
+      "posted_at": "2026-09-23T10:46:31+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790160391.746999",
+      "summary_character_count": 98,
+      "summary_japanese": "エナンチオ選択的[2+2+2]環化付加とジアステレオ選択的Scholl反応で、最大8個の配向heliceneをもつnanographeneを合成し、置換基により光物性とキロプト光学特性を調節した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantio- and diastereoselective synthesis of multi-helical nanographenes"
     },
     "10.1038/s44310-026-00148-y": {
       "doi": "10.1038/s44310-026-00148-y",
