@@ -31,7 +31,7 @@
     "2026-09-21": 2,
     "2026-09-22": 11,
     "2026-09-23": 25,
-    "2026-09-24": 5
+    "2026-09-24": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1359,6 +1359,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Harnessing Supramolecular Circularly Polarized Scattering for Enhanced Chiroptical Performance"
+    },
+    "10.1002/ange.5230240": {
+      "doi": "10.1002/ange.5230240",
+      "posted_at": "2026-09-23T21:05:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790197511.975339",
+      "summary_character_count": 129,
+      "summary_japanese": "benzo-15-crown-5金属クランプで[MnBr4]2−の幾何、電荷収集、ガラス化を制御し、CKMBは82.2%の量子収率と6.74×10^4 photons MeV−1の相対光収率を示した。CKMB/CRMBはガラス化し、多様な可視化に応用された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sandwich-Like Supramolecular Clamp-Templated Manganese(II) Bromide Scintillators for Multimodal Visualization"
     },
     "10.1002/ange.5252700": {
       "doi": "10.1002/ange.5252700",
@@ -2736,6 +2749,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Constructing Substituted-Pyridine-Linked Conjugated Porous Polymers via Multicomponent Hantzsch-Type Reaction for Efficient Hydrogen Peroxide Photosynthesis from Real Seawater and Air"
+    },
+    "10.1002/anie.4451248": {
+      "doi": "10.1002/anie.4451248",
+      "posted_at": "2026-09-23T21:05:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790197517.612969",
+      "summary_character_count": 87,
+      "summary_japanese": "Mn(II)を10%導入したZn(II)分子ハライドは、二重PL比により室温付近の温度・相対湿度を検出し、Mn(II)で3倍増強されたSHGと湿度依存の遅い磁化緩和も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ratiometric Luminescent Thermo-Hygrometry, Metal-Dependent Second Harmonic Generation, and Humidity-Variable Magnetic Relaxation in a Manganese(II)-Doped Zinc(II) Molecular Halide"
     },
     "10.1002/anie.4560740": {
       "doi": "10.1002/anie.4560740",
@@ -6998,6 +7024,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
+    },
+    "10.1021/acs.jcim.6c01874": {
+      "doi": "10.1021/acs.jcim.6c01874",
+      "posted_at": "2026-09-23T21:05:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790197507.772739",
+      "summary_character_count": 100,
+      "summary_japanese": "PFAS鎖のヘリシティを、空隙状態空間自己相関・局所主成分分析・持続ホモロジーで定量化し、二面角とDFT-VCDで検証した。PFCAからPFOS類縁体まで、頭部基やフッ素化様式に頑健な記述子を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unraveling the PFAS Helix: A Statistical Approach"
     },
     "10.1021/acs.jctc.6c01051": {
       "doi": "10.1021/acs.jctc.6c01051",
@@ -13056,6 +13095,19 @@
       "summary_used_fallback": false,
       "title": "Geometry-induced transport of self-aligning chiral bristlebots"
     },
+    "10.1209/0295-5075/aeab0b": {
+      "doi": "10.1209/0295-5075/aeab0b",
+      "posted_at": "2026-09-23T21:05:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790197522.414739",
+      "summary_character_count": 117,
+      "summary_japanese": "密度依存ゲージ場下の有限深さ井戸に閉じ込めたBose-Einstein condensateのカイラル量子動力学を解析した。強い井戸では呼吸・双極子運動とRabi様粒子振動、弱い井戸ではカイラル・トンネル、拡散、移動ソリトンを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonlinear chiral quantum dynamics of Bose-Einstein condensates under a density-dependent gauge field"
+    },
     "10.12775/jehs.2026.94.72782": {
       "doi": "10.12775/jehs.2026.94.72782",
       "posted_at": "2026-07-20T18:14:47+00:00",
@@ -14887,6 +14939,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Linear I···I contacts in a platinum(IV)-diiodo porphyrin: Emergent type III halogen-halogen interactions"
+    },
+    "10.26434/chemrxiv.15009203/v1": {
+      "doi": "10.26434/chemrxiv.15009203/v1",
+      "posted_at": "2026-09-23T21:05:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790197502.640459",
+      "summary_character_count": 308,
+      "summary_japanese": "Three concomitant pseudopolymorphs of 5,10,15,20-meso-tetrakis(4-hydroxy-3,5-dimethoxyphenyl)porphyrin, including a solvent-free form and two solvates, were structurally elucidated by 3DED/MicroED. The study demonstrates that MicroED can resolve complex pseudopolymorphic mixtures from a single sample batch.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Unravelling concomitant pseudopolymorphs of 5,10,15,20-meso-tetrakis(4-hydroxy-3,5-dimethoxyphenyl)porphyrin: structural insight in to a guest free and two solvated forms by using MicroED"
     },
     "10.26434/chemrxiv.15009245/v1": {
       "doi": "10.26434/chemrxiv.15009245/v1",
