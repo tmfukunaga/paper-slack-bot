@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-23": 37,
     "2026-08-24": 6,
     "2026-08-26": 9,
     "2026-08-27": 12,
@@ -31,7 +30,7 @@
     "2026-09-21": 2,
     "2026-09-22": 11,
     "2026-09-23": 25,
-    "2026-09-24": 10
+    "2026-09-24": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -982,6 +981,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/ange.1587126": {
+      "doi": "10.1002/ange.1587126",
+      "posted_at": "2026-09-24T03:08:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790219308.208389",
+      "summary_character_count": 97,
+      "summary_japanese": "分子内外水素結合を組み込んだ柔軟な最小cyclochiral monomerが、fullereneとの自己選別により高親和性のhomochiral四量体capsuleを形成し、構造異性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hydrogen-Bond Encoding in a Structurally Minimal Cyclochiral Monomer Enables Assembly of Large Cavities Displaying Supramolecular Isomerism"
     },
     "10.1002/ange.1803367": {
       "doi": "10.1002/ange.1803367",
@@ -6071,6 +6083,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Betti base immobilized on UiO-66-NH2: Synthesis and catalytic application in the asymmetric Henry reaction"
     },
+    "10.1016/j.icheatmasstransfer.2026.112662": {
+      "doi": "10.1016/j.icheatmasstransfer.2026.112662",
+      "posted_at": "2026-09-24T03:08:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790219303.600439",
+      "summary_character_count": 91,
+      "summary_japanese": "分子動力学法で螺旋マイクロチャネル内の空気―メタン触媒燃焼に対するトルエン濃度と酸素比の影響を解析し、1～4%添加で熱流束・熱伝導率・燃焼効率が向上する一方、10%添加では低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic combustion of air-methane within a helical microchannel utilizing a molecular dynamics approach: the impact of toluene concentration with various oxygen ratios on thermal and atomic properties"
+    },
     "10.1016/j.ijthermalsci.2026.111338": {
       "doi": "10.1016/j.ijthermalsci.2026.111338",
       "posted_at": "2026-09-21T18:10:26+00:00",
@@ -6310,6 +6335,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Reversible thermally-switchable chirality of circularly polarized luminescence in perovskite nanocrystals enabled by cholesteric liquid crystals"
+    },
+    "10.1016/j.nucengdes.2026.115221": {
+      "doi": "10.1016/j.nucengdes.2026.115221",
+      "posted_at": "2026-09-24T03:08:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790219291.400019",
+      "summary_character_count": 98,
+      "summary_japanese": "Serpent連続エネルギーMonte CarloでUO2円筒燃料炉心、U-50ZrおよびUO2 HCF炉心を同一条件で設計・比較し、HCFによる出力増強炉心が基準設計と経済的に競争可能と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Full-core design of helical cruciform fuel for power uprate in water-cooled SMRs"
     },
     "10.1016/j.nxmate.2026.103190": {
       "doi": "10.1016/j.nxmate.2026.103190",
@@ -8383,6 +8421,19 @@
       "summary_used_fallback": false,
       "title": "Etching-Guided Chiral Diffusion Enables Single-Layer RGB Polymer-Stabilized Cholesteric Liquid Crystal Devices"
     },
+    "10.1021/acsami.6c13457": {
+      "doi": "10.1021/acsami.6c13457",
+      "posted_at": "2026-09-24T03:08:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790219312.841969",
+      "summary_character_count": 115,
+      "summary_japanese": "最長約5 nmのキラルquinoline系oligoamide foldamerを金基板上に単分子膜化し、AFM・PM-IRRASで膜厚を確認した。磁気伝導AFMではヘリックス長とともにスピン選択性が増大し、最大約85%に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controlling Spin Filtering through Molecular Length in Helical Aromatic Oligomers"
+    },
     "10.1021/acsami.6c13829": {
       "doi": "10.1021/acsami.6c13829",
       "posted_at": "2026-09-18T20:24:29+00:00",
@@ -10351,6 +10402,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Potential Driven Spin-Crossover Synergized with Hydrogen-Bond Engineering in a Molecular Catalyst for Selective H2O2 Electrosynthesis"
+    },
+    "10.1021/jacs.6c17644": {
+      "doi": "10.1021/jacs.6c17644",
+      "posted_at": "2026-09-24T03:08:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790219299.476839",
+      "summary_character_count": 346,
+      "summary_japanese": "A chiral CpxRh(III) catalyst enabled defluorinative C(sp2)–H allylation of acrylamides with allylic difluorides, affording fluorinated skipped 1,4-dienes in up to 99% yield and 99% ee. Ester-derived allylic difluorides instead underwent divergent cascade reactions to furnish chiral 2-piperidones with excellent enantio- and diastereoselectivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Defluorinative C(sp2)-H Allylation of Acrylamides Enabled by CpxRh(III) Catalysis"
     },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
