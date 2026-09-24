@@ -31,7 +31,7 @@
     "2026-09-22": 11,
     "2026-09-23": 25,
     "2026-09-24": 20,
-    "2026-09-25": 5
+    "2026-09-25": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7103,6 +7103,19 @@
       "summary_used_fallback": false,
       "title": "“Lego-Brick”-Style Supramolecular Self-Assembly for Naringin-Chlorogenic Acid-Glucosylrutin Carrier-Free Nanoparticles: Self-Assembly Mechanism, Release Behavior, and Anti-Inflammatory Activity"
     },
+    "10.1021/acs.jafc.6c10824": {
+      "doi": "10.1021/acs.jafc.6c10824",
+      "posted_at": "2026-09-24T21:09:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790284146.423659",
+      "summary_character_count": 102,
+      "summary_japanese": "ゼブラフィッシュ肝臓でキラル殺菌剤PYDとCdの複合影響を解析し、S-PYDの選択的蓄積とR-PYDによる強い糖脂質代謝障害を示した。CdはPYD-PPARα結合を不安定化し、代謝異常を拮抗的に緩和した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multiview Reveals the Combined Effects of Chiral Pesticide Pydiflumetofen and Cadmium on Glucolipid Metabolism in Zebrafish Liver"
+    },
     "10.1021/acs.jced.6c00076": {
       "doi": "10.1021/acs.jced.6c00076",
       "posted_at": "2026-07-18T15:14:15+00:00",
@@ -7375,6 +7388,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Structural Origin of Mono- and Bisignate Circular Dichroism Signals in Phenyleneethynylene Assemblies"
+    },
+    "10.1021/acs.jpcc.6c02705": {
+      "doi": "10.1021/acs.jpcc.6c02705",
+      "posted_at": "2026-09-24T21:09:01+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790284141.558159",
+      "summary_character_count": 109,
+      "summary_japanese": "分散補正DFTでTrip-Phzのcarbon nanotube上吸着を解析し、CH···N水素結合が約20°、45°、85°の配向を与えること、低エネルギー2構造が室温で相互変換しらせん状吸着を形成することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interconvertible Helical Adsorption of Triptycene-Phenazine Molecules on Carbon Nanotubes Driven by Interfacial Interactions"
     },
     "10.1021/acs.jpcc.6c03543": {
       "doi": "10.1021/acs.jpcc.6c03543",
@@ -10443,6 +10469,19 @@
       "summary_used_fallback": true,
       "title": "Cobalt-Catalyzed Enantioselective Intermolecular C-H Carboamination with Racemic Allenes"
     },
+    "10.1021/jacs.6c15207": {
+      "doi": "10.1021/jacs.6c15207",
+      "posted_at": "2026-09-24T21:08:57+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790284137.229769",
+      "summary_character_count": 90,
+      "summary_japanese": "安定なPt8L6骨格に切断可能なPd(II)部位を1つ導入したヘテロ金属PdPt8L6ケージを合成し、ゲストを放出せずに膨張・収縮させ、その形状と二次ゲスト結合を機械的に制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Coordination Cage That Shrinks via Single-Site Labilization to Reshape Encapsulated Guests"
+    },
     "10.1021/jacs.6c15679": {
       "doi": "10.1021/jacs.6c15679",
       "posted_at": "2026-08-20T01:05:27+00:00",
@@ -12704,6 +12743,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helical Cartilage Inversion and V-Y Advancement Flap for Type IIB Constricted Ear Correction"
+    },
+    "10.1097/scs.0000000000013441": {
+      "doi": "10.1097/scs.0000000000013441",
+      "posted_at": "2026-09-24T21:09:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790284150.596459",
+      "summary_character_count": 116,
+      "summary_japanese": "helical adhesionを伴うcryptotiaに対し、小切開での術中組織拡張と上耳介筋移植、conchal composite graftによる前方アプローチを組み合わせた低侵襲手術を施行し、代表症例と手術成績を報告した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Minimally Invasive Combined Procedures for Cryptotia With Helical Adhesion"
     },
     "10.1098/rsfs.2025.0099": {
       "doi": "10.1098/rsfs.2025.0099",
@@ -15706,6 +15758,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and Structure of Macrocyclic Tetraimidazolium Salt Containing Propylene and m-Phenylene Linkers"
+    },
+    "10.3390/ma19194078": {
+      "doi": "10.3390/ma19194078",
+      "posted_at": "2026-09-24T21:09:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790284155.709869",
+      "summary_character_count": 102,
+      "summary_japanese": "Novikov、正弦波、インボリュート歯形のはすば歯車を、創成歯切りを再現したCADモデルとANSYS 2025 R2のFEMで比較し、接触パターン、歯元・歯面応力および破損しやすい領域の分布を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Comparative Strength Analysis of Helical Gears with Different Tooth Profiles Using FEM"
     },
     "10.3390/magnetochemistry12080089": {
       "doi": "10.3390/magnetochemistry12080089",
