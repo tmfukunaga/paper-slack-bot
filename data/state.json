@@ -30,7 +30,8 @@
     "2026-09-21": 2,
     "2026-09-22": 11,
     "2026-09-23": 25,
-    "2026-09-24": 20
+    "2026-09-24": 20,
+    "2026-09-25": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -695,6 +696,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity-Dependent All-Optical Switching in Bi,Ga-Substituted Rare-Earth Iron Garnet Films Driven by Orbital Magnetic Moment"
+    },
+    "10.1002/adom.71811": {
+      "doi": "10.1002/adom.71811",
+      "posted_at": "2026-09-24T16:30:27+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790267427.668709",
+      "summary_character_count": 103,
+      "summary_japanese": "ジアステレオマーBPTI-Phを秩序化マイクロワイヤアレイ化し、(S,S,S)体は365 nmでgabs=2.3×10−3、光トランジスタでgph=0.46を示し、50×50画素UV-CPL撮像を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diastereomeric Effect Modulates the Optical Activity of Benzo[ ghi ]perylenetriimides Microwire Arrays Toward High-Performance Ultraviolet Circularly Polarized Light Detection"
     },
     "10.1002/adom.71815": {
       "doi": "10.1002/adom.71815",
@@ -3372,6 +3386,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hydrothermal Disturbance-Driven Coordination Assembly of Supramolecular Glasses With Multi-Excitation-Tunable Afterglow"
+    },
+    "10.1002/anie.7409022": {
+      "doi": "10.1002/anie.7409022",
+      "posted_at": "2026-09-24T16:30:22+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790267422.771619",
+      "summary_character_count": 120,
+      "summary_japanese": "pyrene融合細孔MOF PKU-101は、芳香族性制御でC─H···pi相互作用を強め、298 K・1 barでC3H4を250 cm3 cm−3吸着した。in situ解析で識別機構を確認し、C3H6純度99.99%の分離を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aromaticity Regulation in Isostructural Metal-Organic Frameworks for Propyne Storage and Propylene Purification"
     },
     "10.1002/anie.7494092": {
       "doi": "10.1002/anie.7494092",
@@ -7530,6 +7557,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Solvent-Assembled Chiral Molecular Aggregates for Dual Energy and Chirality Transfer: Boosting the Circularly Polarized Luminescence"
+    },
+    "10.1021/acs.langmuir.6c04002": {
+      "doi": "10.1021/acs.langmuir.6c04002",
+      "posted_at": "2026-09-24T16:30:05+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790267405.885979",
+      "summary_character_count": 102,
+      "summary_japanese": "Au(111)上のDETP自己集合により、C-H/pi相互作用で安定化したキラル菱形ナノ多孔質ネットワークを形成し、約3.7 eVのHOMO–LUMOギャップ、表面電子閉じ込め、COの弱い捕捉を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "C-H/pi Mediated Assembly of a Chiral Nanoporous Network for Electron and Molecular Trapping on Au(111)"
     },
     "10.1021/acs.macromol.6c00949": {
       "doi": "10.1021/acs.macromol.6c00949",
@@ -12886,6 +12926,19 @@
       "summary_used_fallback": false,
       "title": "Strong interlayer coupling and chiral flat-band cascades in twisted bilayer gratings"
     },
+    "10.1126/sciadv.aed9129": {
+      "doi": "10.1126/sciadv.aed9129",
+      "posted_at": "2026-09-24T16:30:12+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790267412.811919",
+      "summary_character_count": 111,
+      "summary_japanese": "らせん状金メタ構造で電場と超キラル近接場を増強し、円偏光第二高調波の変化によりキラル吸着種を検出した。検出限界は約11 pM、性能指数は3260 μM⁻¹で、ラセミ混合物中の特定エナンチオマーを分離不要で選択的に検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrasensitive chiral detection by nonlinear chiroptics in spiral plasmonic metastructures surpasses linear limits"
+    },
     "10.1126/sciadv.aee3256": {
       "doi": "10.1126/sciadv.aee3256",
       "posted_at": "2026-09-03T18:20:46+00:00",
@@ -15107,6 +15160,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Accessing an Extreme Steric Regime of C-O Atropisomerism through Overcrowded Iodane-Mediated Rearrangement"
+    },
+    "10.26434/chemrxiv.15009314/v1": {
+      "doi": "10.26434/chemrxiv.15009314/v1",
+      "posted_at": "2026-09-24T16:29:56+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790267396.756959",
+      "summary_character_count": 122,
+      "summary_japanese": "キラル側鎖ドーパントを用いてachiral 2D molecular crystalsにキロプティカル応答を導入し、移動度0.45 cm² V⁻¹ s⁻¹、応答度8.2×10² A W⁻¹、平均光電流異方性因子0.17の紫外CP光検出を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Doping of Two-Dimensional Molecular Crystals for Circularly Polarized Photodetection"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
