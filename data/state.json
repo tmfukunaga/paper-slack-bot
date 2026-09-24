@@ -30,7 +30,7 @@
     "2026-09-21": 2,
     "2026-09-22": 11,
     "2026-09-23": 25,
-    "2026-09-24": 15
+    "2026-09-24": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -695,6 +695,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity-Dependent All-Optical Switching in Bi,Ga-Substituted Rare-Earth Iron Garnet Films Driven by Orbital Magnetic Moment"
+    },
+    "10.1002/adom.71815": {
+      "doi": "10.1002/adom.71815",
+      "posted_at": "2026-09-24T11:07:36+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790248056.181069",
+      "summary_character_count": 129,
+      "summary_japanese": "imidazole・indole官能化金属フリーxerogelで、芳香族πコアと置換様式を比較しC8indole4imiを選定した。pH 2.0ではR-ibuprofen、pH 12.0ではS-ibuprofenを識別し、キラルRaman識別極性が反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metal-Free Supramolecular Xerogels for pH-Programmed Inversion of Chiral Raman Discrimination"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -6375,6 +6388,19 @@
       "summary_used_fallback": false,
       "title": "Dynamic behavior of irregular particles and transition mechanism of erosive wear in a helical mixed-flow deep-sea mining pump"
     },
+    "10.1016/j.snb.2026.140942": {
+      "doi": "10.1016/j.snb.2026.140942",
+      "posted_at": "2026-09-24T11:07:24+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790248044.856029",
+      "summary_character_count": 127,
+      "summary_japanese": "L-His媒介の欠陥工学でMn/Zn-MOF-74-L-Hisを合成し、H2O2下のo-phenylenediamine酸化を利用するon-off-on蛍光法でD/L-Cysを識別した。L-Cysに強い結合親和性を示し、エナンチオ選択性は2.24だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Defect-engineered Mn/Zn-MOF-74-L-His chiral nanozyme for “on-off-on” fluorescent chiral recognition of D/L-cysteine"
+    },
     "10.1016/j.ssc.2026.116579": {
       "doi": "10.1016/j.ssc.2026.116579",
       "posted_at": "2026-09-04T07:43:23+00:00",
@@ -7206,6 +7232,19 @@
       "summary_used_fallback": false,
       "title": "Chiral-Induced Spin Selectivity as a Driving Force in Enantiorecognition: A Generator-and-Reader Perspective"
     },
+    "10.1021/acs.jpca.6c04006": {
+      "doi": "10.1021/acs.jpca.6c04006",
+      "posted_at": "2026-09-24T11:07:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790248051.813319",
+      "summary_character_count": 128,
+      "summary_japanese": "DFT/TDDFT計算で、N,C-boron-chelated azaborahelicenesの-NMe2置換位置によるCPL制御を解析した。C3置換体ABH-N3はπ共役とらせん非対称性が増し、glumは親化合物の約10倍の0.66×10−3となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unveiling the Role of Substituent Positioning in Enhancing Circularly Polarized Luminescence of Azaborahelicenes: A Theoretical Insight"
+    },
     "10.1021/acs.jpca.6c04444": {
       "doi": "10.1021/acs.jpca.6c04444",
       "posted_at": "2026-08-12T09:48:05+00:00",
@@ -7283,6 +7322,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Topological Engineering of Perylene Diimide-Based Metallacycles through Multicomponent Self-Assembly for Fluorescence Sensing of Picric Acid"
+    },
+    "10.1021/acs.jpcb.6c05294": {
+      "doi": "10.1021/acs.jpcb.6c05294",
+      "posted_at": "2026-09-24T11:07:17+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790248037.191319",
+      "summary_character_count": 108,
+      "summary_japanese": "phenylglycinol由来Schiff-base側鎖4本をもつキラルcalix[4]areneを設計し、未誘導体d/l-amino acidsをCDで直接識別した。ProlineのeeとCD応答は直線相関した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tetrasubstituted Chiral Calix[4]arene Platform for Tunable Chiroptical Detection of d / l -Amino Acids"
     },
     "10.1021/acs.jpcc.6c02485": {
       "doi": "10.1021/acs.jpcc.6c02485",
@@ -11585,6 +11637,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nanohelical Permeable Electronics with Strain-Insensitive Performance"
+    },
+    "10.1038/s41467-026-78015-9": {
+      "doi": "10.1038/s41467-026-78015-9",
+      "posted_at": "2026-09-24T11:07:09+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790248029.731569",
+      "summary_character_count": 130,
+      "summary_japanese": "非晶質macrocyclesから、固体―蒸気host–guest駆動縮合・超分子重合・鎖結晶化を一段階で統合し、動的結晶性一次元超分子ポリマーCSP-1を合成した。CSP-1は多刺激応答性と可逆的結晶相変換を示し、加熱で熱力学的に安定なCSP-1へ再集合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solid-vapor synthesis of dynamic crystalline one-dimensional supramolecular polymers from amorphous macrocycles"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
