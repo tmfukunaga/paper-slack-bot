@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-24": 6,
     "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
@@ -31,7 +30,7 @@
     "2026-09-22": 11,
     "2026-09-23": 25,
     "2026-09-24": 20,
-    "2026-09-25": 10
+    "2026-09-25": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4900,6 +4899,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Streamlined Single-Step Salting-Out Approach for Chiral and Achiral Pesticide Analysis in Hazelnut-Based Beverages"
+    },
+    "10.1002/elps.70160": {
+      "doi": "10.1002/elps.70160",
+      "posted_at": "2026-09-25T03:25:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790306717.000399",
+      "summary_character_count": 118,
+      "summary_japanese": "任意の多部位錯形成を伴うキラルCEの反応・移流・拡散を解析し、有効電気泳動移動度と拡散係数の閉形式を導出した。Tyr-Arg-Phe-Phe-NH 2とDM--cyclodextrinのデータでは、最小二部位モデルが曲線形状を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From One-to-One Complexation to Multisite Binding: Analytical Transport Coefficients and Mechanistic Diagnostics in Chiral Capillary Electrophoresis"
     },
     "10.1002/fob2.70093": {
       "doi": "10.1002/fob2.70093",
@@ -10638,6 +10650,19 @@
       "summary_used_fallback": false,
       "title": "Chiral CarbohydrateAdducts are Effective for EnantiomericIon Mobility Separations"
     },
+    "10.1021/prechem.6c00084": {
+      "doi": "10.1021/prechem.6c00084",
+      "posted_at": "2026-09-25T03:25:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790306729.010839",
+      "summary_character_count": 135,
+      "summary_japanese": "pyreneとquinoxaline壁を統合したD-A分子ナノチューブPyr4を鋳型法で合成し、電気化学・軌道解析・溶媒和発光から内部電荷移動を確認した。発光はhexaneの468 nmからDMSOの564 nmへ約100 nm長波長化し、極性増大で量子収率が低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Pyrene-Embedded Molecular Nanotube with Donor-Acceptor Properties"
+    },
     "10.1021/prechem.6c00098": {
       "doi": "10.1021/prechem.6c00098",
       "posted_at": "2026-09-04T07:43:13+00:00",
@@ -12094,6 +12119,19 @@
       "summary_used_fallback": false,
       "title": "Synthetic Approaches to Conjugated Polycyclic Hydrocarbons Featuring the Antiaromatic Indeno[2,1-c]fluorene Scaffold"
     },
+    "10.1055/a-2966-1599": {
+      "doi": "10.1055/a-2966-1599",
+      "posted_at": "2026-09-25T03:24:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790306697.904919",
+      "summary_character_count": 123,
+      "summary_japanese": "キラルSCF3含有化合物の合成法を総説し、α-carbonylやアルケンに制約される直接trifluoromethylthiolationと、官能基適合性リスクを回避するbuilding block approachの進展、課題と展望を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Advances in Synthetic Methods for Chiral Trifluoromethylthiolated Compounds"
+    },
     "10.1063/5.0325213": {
       "doi": "10.1063/5.0325213",
       "posted_at": "2026-08-12T20:11:52+00:00",
@@ -13524,6 +13562,19 @@
       "summary_used_fallback": false,
       "title": "Physical modelling of cyclically thermally-activated helical piles under tensile loading"
     },
+    "10.1680/jgeot.25.00733": {
+      "doi": "10.1680/jgeot.25.00733",
+      "posted_at": "2026-09-25T03:25:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790306723.097829",
+      "summary_character_count": 93,
+      "summary_japanese": "粘土中のhelical anchorを対象に、80g遠心模型実験14件でAR別の設置・引抜きを評価した。即時支持力はAR=0.9で最大、圧密後支持力は強度増加によりARとともに増加した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Centrifuge modelling of the installation and uplift of helical anchors in clay"
+    },
     "10.17163/lgr.n44.2026.03": {
       "doi": "10.17163/lgr.n44.2026.03",
       "posted_at": "2026-08-31T12:41:30+00:00",
@@ -13601,6 +13652,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and systematic evaluation of four stereoisomers of BMS compound A enabled by a diastereoselective cyclopropanation on a chiral ketal intermediate"
+    },
+    "10.17863/cam.134593": {
+      "doi": "10.17863/cam.134593",
+      "posted_at": "2026-09-25T03:25:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790306710.515969",
+      "summary_character_count": 133,
+      "summary_japanese": "UV光酸化または亜硝酸媒介Fe(II)酸化で得た前生物的magnetiteは単一・渦状態磁区が主で、3D micromagnetic simulationによりspin-polarized homochiral compoundsとの相互作用で不可逆的に再磁化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Prebiotic magnetite enables chirality-magnetic surface feedback"
     },
     "10.18203/issn.2455-4510.intjresorthop20262905": {
       "doi": "10.18203/issn.2455-4510.intjresorthop20262905",
