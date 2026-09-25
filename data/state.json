@@ -30,7 +30,8 @@
     "2026-09-22": 11,
     "2026-09-23": 25,
     "2026-09-24": 20,
-    "2026-09-25": 17
+    "2026-09-25": 17,
+    "2026-09-26": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -305,6 +306,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly Polarized Electroluminescence and Spin-Polarized Carrier Transport in Chiral-Doped Polymer Films"
+    },
+    "10.1002/adfm.78633": {
+      "doi": "10.1002/adfm.78633",
+      "posted_at": "2026-09-25T16:31:59+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790353919.604759",
+      "summary_character_count": 118,
+      "summary_japanese": "Au NPsを担持したナノ周期らせんPAAm hydrogelをフェムト秒レーザー走査で作製し、偏光分解Z-scanと過渡吸収測定により、1 ps以内に0.7の過渡CDと2.19 psの緩和寿命を示す強度依存非線形キラリティを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast Nonlinear Chiral Modulation With Hydrogel Helices"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -1800,6 +1814,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Unexpected Azulene-to-Naphthalene Rearrangement Enables the Synthesis of Nanographenes with Tunable Two-Photon Absorption"
+    },
+    "10.1002/ange.8661735": {
+      "doi": "10.1002/ange.8661735",
+      "posted_at": "2026-09-25T16:32:09+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790353928.963219",
+      "summary_character_count": 121,
+      "summary_japanese": "tiara[5]areneを動的共有結合[2+5]イミン縮合で連結し、類似ジアミンにより自己選別を制御した。2,6-bis(aminomethyl)pyridineはmeso COP、m-xylylenediamineは鏡像体COPを与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Divergent Chiral Self-Sorting of Covalent Organic Pillars Switched by Subtle Conformational Preferences"
     },
     "10.1002/ange.8789956": {
       "doi": "10.1002/ange.8789956",
@@ -3664,6 +3691,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Unexpected Azulene-to-Naphthalene Rearrangement Enables the Synthesis of Nanographenes with Tunable Two-Photon Absorption"
+    },
+    "10.1002/anie.8661735": {
+      "doi": "10.1002/anie.8661735",
+      "posted_at": "2026-09-25T16:31:54+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790353914.407789",
+      "summary_character_count": 108,
+      "summary_japanese": "stereolabile tiara[5]areneを動的共有結合[2+5]イミン縮合で連結し、類似ジアミンの配座差によりmeso COP形成とエナンチオマーCOP形成を選択的に切り替え、X線結晶構造解析で確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Divergent Chiral Self-Sorting of Covalent Organic Pillars Switched by Subtle Conformational Preferences"
     },
     "10.1002/anie.8735110": {
       "doi": "10.1002/anie.8735110",
@@ -8629,6 +8669,19 @@
       "summary_used_fallback": false,
       "title": "Spin-Based Enantiorecognition at Chiral-Porphyrin-Functionalized Interfaces: A Physical Effect Due to the Chiral-Induced Spin Selectivity"
     },
+    "10.1021/acsami.6c16202": {
+      "doi": "10.1021/acsami.6c16202",
+      "posted_at": "2026-09-25T16:32:13+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790353933.500629",
+      "summary_character_count": 128,
+      "summary_japanese": "AIEgensの凝集増強アンテナ効果と剛直補助配位子の二次アンテナ効果を組み合わせたキラルEu(III)錯体GXU-1/2を開発し、GXU-1はFWHM 8 nm、LY 70,199 photons MeV−1、検出限界52.52 nGy·s−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Lanthanide Complex Isomers Enable Ultra-High-Brightness Narrowband X-Ray Scintillation and Lysosome Optical Imaging via Aggregation and Dual-Antenna Effects"
+    },
     "10.1021/acsanm.6c00732": {
       "doi": "10.1021/acsanm.6c00732",
       "posted_at": "2026-08-06T06:16:21+00:00",
@@ -10558,6 +10611,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamic Supramolecular Helicity in a Multi-Aluminum Porphyrin Catalyst Enables Stereocontrolled Synthesis of Ultrahigh-Molecular-Weight Isotactic Poly(propylene oxide)"
+    },
+    "10.1021/jacs.6c16625": {
+      "doi": "10.1021/jacs.6c16625",
+      "posted_at": "2026-09-25T16:31:48+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790353908.596089",
+      "summary_character_count": 130,
+      "summary_japanese": "double boron-deleting annulationによりdiaza-pentagon-heptagon対を有する非交互型B,N-helicene 12種を合成し、B除去で狭まるエネルギーギャップにより2cは730 nmの赤色～近赤外発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Double Boron-Deleting Annulation: Modular Access to Chiral Nonalternant B,N-Helicenes with Enhanced Chiroptical Properties"
     },
     "10.1021/jacs.6c16940": {
       "doi": "10.1021/jacs.6c16940",
