@@ -30,7 +30,7 @@
     "2026-09-22": 11,
     "2026-09-23": 25,
     "2026-09-24": 20,
-    "2026-09-25": 15
+    "2026-09-25": 17
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -292,6 +292,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Charge-Delocalized Chiral Metal-Organic Frameworks: Full-Color Solvent-Switchable Circularly Polarized Luminescence Toward Multi-System Information Encryption"
+    },
+    "10.1002/adfm.78545": {
+      "doi": "10.1002/adfm.78545",
+      "posted_at": "2026-09-25T11:08:36+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790334516.737389",
+      "summary_character_count": 93,
+      "summary_japanese": "chiral-BPPをドープしたPFO薄膜を熱アニールして超分子キラリティーを誘起し、10^-3程度のCPELとエナンチオマーで逆向きのスピン選択的キャリア輸送をmc-AFMで確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly Polarized Electroluminescence and Spin-Polarized Carrier Transport in Chiral-Doped Polymer Films"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -5965,6 +5978,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Application of data driven POD reduced order model to helical cruciform fuel rod bundle"
+    },
+    "10.1016/j.apor.2026.105265": {
+      "doi": "10.1016/j.apor.2026.105265",
+      "posted_at": "2026-09-25T11:08:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790334523.227009",
+      "summary_character_count": 122,
+      "summary_japanese": "側方荷重を受ける海洋用anti-toppling helical pileに、ヘリックスの水平摩擦・回転拘束を組み込む三ばねモデルとTMM半解析解を提案し、解析・実験との誤差は大半で20%以内、適切な配置で側方支持力は直杭比30%以上向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A three-spring model and semi-analytical solution for offshore anti-toppling helical piles under lateral loading"
     },
     "10.1016/j.bbamem.2026.184561": {
       "doi": "10.1016/j.bbamem.2026.184561",
