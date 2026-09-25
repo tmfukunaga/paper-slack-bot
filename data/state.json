@@ -31,7 +31,7 @@
     "2026-09-23": 25,
     "2026-09-24": 20,
     "2026-09-25": 17,
-    "2026-09-26": 5
+    "2026-09-26": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4381,6 +4381,19 @@
       "summary_used_fallback": true,
       "title": "Chiral Dipicolinamide-Based Push-Pull pi-Conjugated Systems as Nonreciprocal Circularly Polarized Luminescence Emitters"
     },
+    "10.1002/chem.71688": {
+      "doi": "10.1002/chem.71688",
+      "posted_at": "2026-09-25T21:05:40+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790370340.056459",
+      "summary_character_count": 89,
+      "summary_japanese": "赤・緑・青を発光する非キラル蛍光団を共有結合したCNCを等量混合し、らせん状に自己集合するCNCホストマトリックスへ導入して、近白色の円偏光発光を示す自立複合フィルムを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cover Feature: Near-White Circularly Polarized Luminescence by Color Mixing Utilizing Surface-Fluorophore-Modified Cellulose Nanocrystals in Composite Films"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -8448,6 +8461,19 @@
       "summary_used_fallback": false,
       "title": "A Chiral Dual-Core Carbonyl/Amine MR-TADF Emitter for Organic Light-Emitting Devices"
     },
+    "10.1021/acsaem.6c02227": {
+      "doi": "10.1021/acsaem.6c02227",
+      "posted_at": "2026-09-25T21:05:47+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790370347.684039",
+      "summary_character_count": 97,
+      "summary_japanese": "キラル分子修飾BiVO4光電極を用い、水酸化におけるスピン依存的•OH生成を検証した。蛍光定量でラセミ体対照比3.5–4.6倍の•OH生成増加、H2O2生成抑制および光電気化学性能向上を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Leveraging Chirality-Induced Spin Selectivity to Enhance the Production of Reactive Oxygen Species"
+    },
     "10.1021/acsami.6c07783": {
       "doi": "10.1021/acsami.6c07783",
       "posted_at": "2026-09-04T22:47:01+00:00",
@@ -8551,6 +8577,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Driven Left-Handed Helical Nanofibers with Amplified CPL Emission via Helicoidal Aggregation of Bulky Naphthalimide AIEgens"
+    },
+    "10.1021/acsami.6c10741": {
+      "doi": "10.1021/acsami.6c10741",
+      "posted_at": "2026-09-25T21:06:04+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790370364.105339",
+      "summary_character_count": 117,
+      "summary_japanese": "ヘリカル繊維と不規則な3Dクリンプ繊維について、作製法、コイル・ばね状構造・キラリティと性能利点の関係を統合的に整理し、センシング、軟体ロボット、医療、エネルギーなどへの応用と、作製・構造性能協調・環境調和に関する課題と展望を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical and Crimped Fibers: A Review from a Structure-Property-Application Perspective"
     },
     "10.1021/acsami.6c11373": {
       "doi": "10.1021/acsami.6c11373",
@@ -8772,6 +8811,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tunable Circular Diattenuation and Passive Optical Isolation in Dye-Doped Cholesteric Glassy Liquid Crystals"
+    },
+    "10.1021/acsaom.6c00464": {
+      "doi": "10.1021/acsaom.6c00464",
+      "posted_at": "2026-09-25T21:05:52+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790370352.245159",
+      "summary_character_count": 103,
+      "summary_japanese": "disilane-bridged D-A-D分子c-Th2Thpzを環化合成し、X線解析で三量体環状構造を確認した。結晶状態ではΦF=0.24を示し、構造拘束による非放射失活抑制で直鎖体より発光が増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced Luminescence of a σ-pi-Conjugated Disilane-Bridged Donor-Acceptor Macrocycle through Conformational Restriction"
     },
     "10.1021/acsapm.6c02040": {
       "doi": "10.1021/acsapm.6c02040",
@@ -13887,6 +13939,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Limits of Scalar Descriptors in Chiral Magnet Screening"
+    },
+    "10.20944/preprints202609.2094.v1": {
+      "doi": "10.20944/preprints202609.2094.v1",
+      "posted_at": "2026-09-25T21:05:59+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790370359.206159",
+      "summary_character_count": 118,
+      "summary_japanese": "Pati--Salam spectator部門を伴うchiral SU(15)p複合理論で、繰り込み後の経路交換不変性からΔΠ=C21−C12=0を導き、二点関数の特異値で荷電フェルミオン質量形状を定めた。中性部門には未決定方向が残る。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Renormalized Route Reciprocity and Charged-Fermion Mass Shape in a Chiral SU(15)p Composite Theory"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
