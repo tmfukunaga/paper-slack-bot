@@ -31,7 +31,8 @@
     "2026-09-23": 25,
     "2026-09-24": 20,
     "2026-09-25": 17,
-    "2026-09-26": 20
+    "2026-09-26": 20,
+    "2026-09-27": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4420,6 +4421,32 @@
       "summary_used_fallback": false,
       "title": "Cover Feature: Near-White Circularly Polarized Luminescence by Color Mixing Utilizing Surface-Fluorophore-Modified Cellulose Nanocrystals in Composite Films"
     },
+    "10.1002/chem.71729": {
+      "doi": "10.1002/chem.71729",
+      "posted_at": "2026-09-26T15:46:38+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790437598.431719",
+      "summary_character_count": 102,
+      "summary_japanese": "側鎖に大環状構造を導入した共役ポリマーを、飽和大環状化合物、macrocyclic arenes、CPP類に分類して設計・合成・機能を総説し、CPP系の放射状共役による主鎖との電子的混成を重点的に論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conjugated Polymers Bearing Macrocyclic Architectures as Side Chains: Design, Synthesis, and Function"
+    },
+    "10.1002/chem.71734": {
+      "doi": "10.1002/chem.71734",
+      "posted_at": "2026-09-26T15:46:49+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790437609.852099",
+      "summary_character_count": 108,
+      "summary_japanese": "環状ペプトイドをBH3還元してキラルC2置換cyclen誘導体を合成し、S-Me-DOTAなどへ変換した。Gd3+錯体の緩和能を水・血漿で評価し、Eu錯体はSAP Λ(δδδδ)/corner異性体が優勢と判明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Solid-Phase Approach to Chiral C2-Substituted Cyclen and DOTA-Like Lanthanoid Ligands"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -5785,6 +5812,19 @@
       "summary_used_fallback": false,
       "title": "Stimuli-Responsive Homochiral Coordination Polymers Undergoing Single-Crystal-to-Single-Crystal [2+2] Photodimerization"
     },
+    "10.1002/smll.75946": {
+      "doi": "10.1002/smll.75946",
+      "posted_at": "2026-09-26T15:46:45+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790437605.416319",
+      "summary_character_count": 118,
+      "summary_japanese": "[(R)/(S)-β-MPA]系quasi-2D chiral hybrid perovskite p-n接合MWアレイにより、405–556 nmの自己駆動CPL検出を実現し、510 nmで最大Rmax 37.7 A W−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Quasi-2D Hybrid Perovskite p-n Junction Arrays for High-Performance Self-Powered Visible-Band Circularly Polarized Light Detection"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -6908,6 +6948,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Constructing Pure Blue Multiple-Resonant Nanographene Emitters with an Enlarged pi-Skeleton via a Sterically Stretched Hindered Diphenylfluorene Moiety"
+    },
+    "10.1021/acs.chemmater.6c01511": {
+      "doi": "10.1021/acs.chemmater.6c01511",
+      "posted_at": "2026-09-26T15:46:28+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790437588.797499",
+      "summary_character_count": 134,
+      "summary_japanese": "(R)-chiral side鎖をもつPt(II) terpyridine錯体は、一過性らせん反転を経て308 Kでは速度論的Agg-DH、333 Kでは熱力学的Agg-SHへ分岐し、seeded living重合で経路制御した。Agg-SHのみ明瞭なCPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Kinetic Pathway Selection in Supramolecular Polymerization via Transient Helical Inversion"
     },
     "10.1021/acs.chemmater.6c01554": {
       "doi": "10.1021/acs.chemmater.6c01554",
@@ -11976,6 +12029,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solid-vapor synthesis of dynamic crystalline one-dimensional supramolecular polymers from amorphous macrocycles"
+    },
+    "10.1038/s41467-026-78066-y": {
+      "doi": "10.1038/s41467-026-78066-y",
+      "posted_at": "2026-09-26T15:46:33+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790437593.757719",
+      "summary_character_count": 112,
+      "summary_japanese": "Boc保護キラルジアミンとアキラルジアミンを共縮合し、Ru後金属化したMCCOFを設計した。CCOF2-Ruはケトン不斉移動水素化で>99%収率、97% ee、TOF 1104 h−1を示し、Ru溶出は0.1 wt%だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multivariate approach of metal-chiral covalent organic frameworks for leaching-resistant asymmetric transfer hydrogenation"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
