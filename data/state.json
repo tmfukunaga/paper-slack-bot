@@ -31,7 +31,7 @@
     "2026-09-23": 25,
     "2026-09-24": 20,
     "2026-09-25": 17,
-    "2026-09-26": 15
+    "2026-09-26": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6214,6 +6214,19 @@
       "summary_used_fallback": false,
       "title": "A novel helical transport mechanism enabling continuous discharge in centrifugal fluidization separation for coal cleaning"
     },
+    "10.1016/j.fusengdes.2026.116066": {
+      "doi": "10.1016/j.fusengdes.2026.116066",
+      "posted_at": "2026-09-26T10:49:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790419762.623499",
+      "summary_character_count": 119,
+      "summary_japanese": "FFHR-d1のF82Hフェライト鋼ブランケットを対象に、非線形B–H曲線と薄肉・厚肉構造壁を含む3D COMSOLモデルで真空時磁場を算出した。厚肉壁・線形物性を仮定した従来解析とは差異が生じ、より現実的な非線形モデルの必要性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of ferritic steel blankets on the magnetic field configuration of the helical fusion reactor"
+    },
     "10.1016/j.gresc.2026.08.003": {
       "doi": "10.1016/j.gresc.2026.08.003",
       "posted_at": "2026-09-05T22:38:41+00:00",
@@ -10625,6 +10638,19 @@
       "summary_used_fallback": true,
       "title": "Access to Chiral (Semi)Saturated Silacycles via Rh-Catalyzed Asymmetric Sila-(3+2) Annulation"
     },
+    "10.1021/jacs.6c14044": {
+      "doi": "10.1021/jacs.6c14044",
+      "posted_at": "2026-09-26T10:49:00+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790419740.577169",
+      "summary_character_count": 115,
+      "summary_japanese": "polymer-grafted Gd2O3 nanotripodsの形状とligand shellを調整し、p2、pmg、pgg、p6相を選択した。柔軟な混合shellは相空間を拡大し、シミュレーションで相選択の駆動因子を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ligand-Shell Softness Directs Symmetry Transitions in Nanotripod Superstructures"
+    },
     "10.1021/jacs.6c14403": {
       "doi": "10.1021/jacs.6c14403",
       "posted_at": "2026-09-10T15:50:23+00:00",
@@ -14083,6 +14109,19 @@
       "summary_used_fallback": false,
       "title": "Dynamics of helical vortex filaments in nonviscous incompressible flows"
     },
+    "10.24214/jcbps.a.16.4.52842": {
+      "doi": "10.24214/jcbps.a.16.4.52842",
+      "posted_at": "2026-09-26T10:49:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790419758.069859",
+      "summary_character_count": 88,
+      "summary_japanese": "Sikandra Mandi Agra産の夏季・冬季果実野菜を対象に、GC-ECDとGC-MSで有機塩素系農薬残留物を監視し、pHおよびTSSの物理化学的パラメータを測定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Monitoring of organochlorine pesticide residues and comparative study of physico-chemical parameter in summer and winter season fruits and vegetables by GC-MS and GC-ECD"
+    },
     "10.2494/photopolymer.39.25": {
       "doi": "10.2494/photopolymer.39.25",
       "posted_at": "2026-08-04T15:03:29+00:00",
@@ -15876,6 +15915,19 @@
       "summary_used_fallback": false,
       "title": "Study on the Pullout Performance and Failure Mechanism of the UHPC-Grouted Helical Anchor Rod-Prefabricated Cap Connection Joint"
     },
+    "10.3390/catal16100866": {
+      "doi": "10.3390/catal16100866",
+      "posted_at": "2026-09-26T10:49:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790419753.216549",
+      "summary_character_count": 108,
+      "summary_japanese": "γ-Al2O3-TiO2担持Fe2O3ナノ触媒とMn被覆触媒を調製し、OHBRで過酢酸酸化脱硫を評価した。未被覆触媒は8 mm、2 Hz、9 minで98.42%の脱硫率を示し、5回再使用後も87.23%を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rapid Oxidation of Sulfur Compounds: An Oscillatory Helical Baffled Reactor and a Nanocatalyst for Enhancing the ODS Process"
+    },
     "10.3390/chemosensors14090208": {
       "doi": "10.3390/chemosensors14090208",
       "posted_at": "2026-09-22T16:17:27+00:00",
@@ -16317,6 +16369,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Research on Grinding Wheel Dressing and Tooth Flank Topology Control for Generating Grinding of Internal Helical Gears"
+    },
+    "10.3390/reactions7040053": {
+      "doi": "10.3390/reactions7040053",
+      "posted_at": "2026-09-26T10:49:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790419748.727909",
+      "summary_character_count": 132,
+      "summary_japanese": "可逆的に会合・解離する[c2]daisy-chain rotaxane含有diacrylateとtetrafunctional thiolのMichael付加で網目高分子を作製した。organogelは加熱・冷却でgel–sol転移し、破断後に再成形・再接着した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Healing Network Polymers Based on Dissociable [c2]Daisy-Chain Rotaxane Structures"
     },
     "10.3390/s26175464": {
       "doi": "10.3390/s26175464",
