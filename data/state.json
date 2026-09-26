@@ -32,7 +32,7 @@
     "2026-09-24": 20,
     "2026-09-25": 17,
     "2026-09-26": 20,
-    "2026-09-27": 10
+    "2026-09-27": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4447,6 +4447,19 @@
       "summary_used_fallback": true,
       "title": "Asymmetric Hydroformylation of Aryl Vinyl Ethers to Chiral 2-Aryloxypropanals: Access to Aryloxypropionic Acid Herbicide Precursors"
     },
+    "10.1002/chem.71727": {
+      "doi": "10.1002/chem.71727",
+      "posted_at": "2026-09-26T21:11:36+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790457096.361199",
+      "summary_character_count": 130,
+      "summary_japanese": "ortho-phenylene/2,3-pyrazinylene交互オリゴマーは、可変温度1H NMRと計算から、クロロホルムではarene-stacked helix、アセトンでは伸長helixを形成し、heptamerは低温で長さがほぼ2倍に切り替わった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Foldamers With Two Distinct Helical Motifs Controlled by Solvent"
+    },
     "10.1002/chem.71729": {
       "doi": "10.1002/chem.71729",
       "posted_at": "2026-09-26T15:46:38+00:00",
@@ -6150,6 +6163,19 @@
       "summary_used_fallback": false,
       "title": "A three-spring model and semi-analytical solution for offshore anti-toppling helical piles under lateral loading"
     },
+    "10.1016/j.applthermaleng.2026.133315": {
+      "doi": "10.1016/j.applthermaleng.2026.133315",
+      "posted_at": "2026-09-26T21:11:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790457077.364529",
+      "summary_character_count": 115,
+      "summary_japanese": "Y-shaped helical baffles搭載シェル&チューブ熱交換器で、4指標を統合した三角形漏れ流れ指数Lxを数値・実験データに基づき構築した。Y字構造は平均Lxを28.8%低減し、平均壁面熱流束を19.8%増加させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quantitative characterization of triangular leakage flow in a shell-and-tube heat exchanger with Y-shaped helical baffles"
+    },
     "10.1016/j.bbamem.2026.184561": {
       "doi": "10.1016/j.bbamem.2026.184561",
       "posted_at": "2026-07-26T15:03:00+00:00",
@@ -6357,6 +6383,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Electrically and geometrically reconfigurable harmonic-resolved chiral emission from an asymmetric Weyl-semimetal Fabry-Pérot cavity"
+    },
+    "10.1016/j.ijthermalsci.2026.111362": {
+      "doi": "10.1016/j.ijthermalsci.2026.111362",
+      "posted_at": "2026-09-26T21:11:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790457100.704229",
+      "summary_character_count": 103,
+      "summary_japanese": "中央管を除いた連続らせんバッフル熱交換器を実験・数値解析で評価し、10°で総合性能が最高となった。流動場は均一化し死水域を抑制し、平均PECは1.60、Nu・摩擦係数相関式はR²>0.99で実験と一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental study and numerical simulation of shell-side heat transfer and flow characteristics of a novel continuous helical baffled heat exchanger without a central tube"
     },
     "10.1016/j.isci.2026.117348": {
       "doi": "10.1016/j.isci.2026.117348",
@@ -8942,6 +8981,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controllable Preparationof Carbon-Based Micro- andNanomaterials with Different Helical Morphologies for ElectromagneticWave Absorption"
+    },
+    "10.1021/acsanm.6c03201": {
+      "doi": "10.1021/acsanm.6c03201",
+      "posted_at": "2026-09-26T21:11:21+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790457081.698519",
+      "summary_character_count": 125,
+      "summary_japanese": "CsPb0.4Sn0.6I3前駆体にC5-R配置のd-isoascorbic acidを添加し、Pb2+、Sn2+、I−への多点配位で欠陥を不動態化した。暗電流密度6.72×10−9 A cm−2、比検出能4.12×10^12 Jonesを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulating Chiral Molecular Configuration of Antioxidants for CsPb0.4Sn0.6I3 Perovskite Photodetectors"
     },
     "10.1021/acsaom.6c00406": {
       "doi": "10.1021/acsaom.6c00406",
@@ -13680,6 +13732,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Unifying Gibberellin pathway modulation, anti-biofilm, and foliar adhesion in a stimuli-responsive supramolecular complex for plant growth promotion and bacterial disease control"
+    },
+    "10.1186/s13065-026-01870-6": {
+      "doi": "10.1186/s13065-026-01870-6",
+      "posted_at": "2026-09-26T21:11:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790457089.432819",
+      "summary_character_count": 122,
+      "summary_japanese": "Chiralpak AD柱とisopropanol/water（85:15）によるHPLCを開発し、Levobupivacaine、RopivacaineとR体不純物を8分以内に分離した。Eco-Scale 92、AGREE 0.70を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Green chiral HPLC method on a polysaccharide column under hydro-organic conditions for the determination of Levobupivacaine, Ropivacaine, and their enantiomeric impurities"
     },
     "10.1186/s13071-026-07344-x": {
       "doi": "10.1186/s13071-026-07344-x",
