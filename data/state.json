@@ -32,7 +32,7 @@
     "2026-09-24": 20,
     "2026-09-25": 17,
     "2026-09-26": 20,
-    "2026-09-27": 5
+    "2026-09-27": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3323,6 +3323,19 @@
       "summary_used_fallback": false,
       "title": "Engineering LE-CT State Synergy in Aminoboranes for Single Molecule White Light Emission and Dual-Mode Chiroptical/Phosphorescence Output"
     },
+    "10.1002/anie.7009966": {
+      "doi": "10.1002/anie.7009966",
+      "posted_at": "2026-09-26T20:39:11+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790455151.498759",
+      "summary_character_count": 132,
+      "summary_japanese": "o-X-F4-PyBidine-Ni(OTf)2触媒で、アルデヒドとニトロネートの擬似ジエクアトリアル配置に基づくanti選択的Henry反応を開発し、最大96:4 dr、99% eeを達成した。DFT計算は配位子と芳香族アルデヒド間のハロゲン結合の関与を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Halogen-Bond-Assisted Anti -Selective Henry Reaction Promoted by a Chiral Nickel Catalyst"
+    },
     "10.1002/anie.7041180": {
       "doi": "10.1002/anie.7041180",
       "posted_at": "2026-08-07T00:06:10+00:00",
@@ -4420,6 +4433,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cover Feature: Near-White Circularly Polarized Luminescence by Color Mixing Utilizing Surface-Fluorophore-Modified Cellulose Nanocrystals in Composite Films"
+    },
+    "10.1002/chem.71723": {
+      "doi": "10.1002/chem.71723",
+      "posted_at": "2026-09-26T20:39:18+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790455158.516839",
+      "summary_character_count": 314,
+      "summary_japanese": "Rh/(S,R)-DTB-YanPhos catalyzed the asymmetric hydroformylation of aryl vinyl ethers, delivering chiral 2-aryloxypropanals in up to 99% yield and 98% ee. The aldehydes were efficiently converted into optically enriched aryloxypropionic acid herbicides, demonstrating a practical route to these herbicide precursors.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Asymmetric Hydroformylation of Aryl Vinyl Ethers to Chiral 2-Aryloxypropanals: Access to Aryloxypropionic Acid Herbicide Precursors"
     },
     "10.1002/chem.71729": {
       "doi": "10.1002/chem.71729",
@@ -8787,6 +8813,19 @@
       "summary_used_fallback": false,
       "title": "Hierarchically Helical and Buckled Gold Leaf on TPU Fibers for Superelastic Electrodes and Multifunctional Sensors"
     },
+    "10.1021/acsami.6c14084": {
+      "doi": "10.1021/acsami.6c14084",
+      "posted_at": "2026-09-26T20:39:22+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790455162.854309",
+      "summary_character_count": 116,
+      "summary_japanese": "左右巻きhelical PANIを作製し、P-PANIのGOxおよびD-glucoseへの高い吸着を熱力学・MDで示した。P-PANI@GOxはpH応答性光熱効果を介し、D-glucose酸化、腫瘍細胞毒性、ICD誘導能を増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Glucose Oxidase Adsorption on Helical Polyaniline for In Vitro Antitumor Effect"
+    },
     "10.1021/acsami.6c14378": {
       "doi": "10.1021/acsami.6c14378",
       "posted_at": "2026-09-19T10:18:44+00:00",
@@ -10781,6 +10820,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Redox-Driven Antiaromaticity Enables Multistate Conductance in 1D Topological Insulators"
+    },
+    "10.1021/jacs.6c15890": {
+      "doi": "10.1021/jacs.6c15890",
+      "posted_at": "2026-09-26T20:39:04+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790455144.124019",
+      "summary_character_count": 108,
+      "summary_japanese": "協働的photoredox/chiral phosphate触媒によりbenzylic nitrilesを光駆動で脱ラセミ化し、2段階の中程度の立体選択性を組み合わせて最高99% yield、98% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multiplicative Stereocontrol in the Light-Driven Deracemization of Benzylic Nitriles"
     },
     "10.1021/jacs.6c16552": {
       "doi": "10.1021/jacs.6c16552",
@@ -16643,6 +16695,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Effect of CPP-ACP (Casein Phosphopeptide Amorphous Calcium Phosphate) on Salivary pH Changes in Children"
+    },
+    "10.37394/232011.2027.22.1": {
+      "doi": "10.37394/232011.2027.22.1",
+      "posted_at": "2026-09-26T20:39:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790455166.779829",
+      "summary_character_count": 113,
+      "summary_japanese": "二段はすば歯車減速機を対象に、体積最小化と動力伝達効率最大化を幾何・性能制約下でMOEA/D-DEにより同時最適化した。数値解析で、サイズと効率の均衡を示す分布良好なPareto解を得て、従来法より解品質と計算性能が向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Volume-Efficiency Trade-Off Optimization of Two-Stage Helical Gearboxes via MOEA/D-DE Algorithm"
     },
     "10.3847/1538-4357/ae92f9": {
       "doi": "10.3847/1538-4357/ae92f9",
