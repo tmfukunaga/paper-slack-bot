@@ -31,7 +31,7 @@
     "2026-09-23": 25,
     "2026-09-24": 20,
     "2026-09-25": 17,
-    "2026-09-26": 10
+    "2026-09-26": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -489,6 +489,19 @@
       "summary_used_fallback": false,
       "title": "Microfluidic-Enabled Elastic Photothermal Helical Gel Microfibers for High-Efficiency Solar Evaporation With Spatially Regulated Light-Thermal-Water Management"
     },
+    "10.1002/adma.75002": {
+      "doi": "10.1002/adma.75002",
+      "posted_at": "2026-09-26T03:30:57+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790393457.097659",
+      "summary_character_count": 434,
+      "summary_japanese": "In a chiral ferroelectric nematic, varying cell thickness and surface anchoring produced stripe, square, and hexagonal polarization-modulated textures with periodic nonlinear optical responses observed by SHG imaging. Elasticity-based theory and numerical free-energy minimization showed that bend elastic-constant softening, together with confinement, drives periodic director distortions near the heliconical polar phase transition.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Elasticity-Driven Periodic Polarization Patterns in a Chiral Ferroelectric Nematic Fluid"
+    },
     "10.1002/adma.75086": {
       "doi": "10.1002/adma.75086",
       "posted_at": "2026-09-19T03:07:33+00:00",
@@ -748,6 +761,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Metal-Free Supramolecular Xerogels for pH-Programmed Inversion of Chiral Raman Discrimination"
+    },
+    "10.1002/adom.71830": {
+      "doi": "10.1002/adom.71830",
+      "posted_at": "2026-09-26T03:30:38+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790393438.279679",
+      "summary_character_count": 117,
+      "summary_japanese": "R/S-α-phenylethylamine修飾naphthalimideのPMMAドープ膜は、光活性化後に約20 ms遅れてRTPを示し、約400 ms持続する橙色発光と最大79.04%の量子収率、符号反転した円偏光発光を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly Polarized Delayed Room Temperature Phosphorescence from Chiral Naphthalimide Derivative-Doped Films for High-Level Data Encryption"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -5746,6 +5772,19 @@
       "summary_used_fallback": false,
       "title": "Programmable Chirality Transfer: Seeding-Directed Co-Assembly of Functional Molecules With Amyloid Frameworks"
     },
+    "10.1002/smll.75897": {
+      "doi": "10.1002/smll.75897",
+      "posted_at": "2026-09-26T03:30:48+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790393448.861429",
+      "summary_character_count": 126,
+      "summary_japanese": "alanine由来配位子とdpeからなるZn系ホモキラル配位高分子Zn(R)/Zn(S)は、可逆的脱水和転移とSHG活性を示し、UV照射で最大97%のrctt-tpcbへ単結晶間[2+2]光環化付加した。反応後もホモキラリティーとSHG応答を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stimuli-Responsive Homochiral Coordination Polymers Undergoing Single-Crystal-to-Single-Crystal [2+2] Photodimerization"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -10481,6 +10520,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective Decarboxylative Synthesis of Chiral α-Silylamines and α-Germylamines"
+    },
+    "10.1021/jacs.6c12576": {
+      "doi": "10.1021/jacs.6c12576",
+      "posted_at": "2026-09-26T03:30:43+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790393443.404669",
+      "summary_character_count": 92,
+      "summary_japanese": "動的に二面角を調整するmetal-organic tweezersをα-HLナノポアに導入し、各種ステロイドホルモンを識別した。模擬血漿中の天然progesteroneも定量検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Metal-Organic Tweezer Enables High-Resolution Nanopore Analysis of Steroid Hormones"
     },
     "10.1021/jacs.6c12829": {
       "doi": "10.1021/jacs.6c12829",
@@ -16746,6 +16798,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "ALKALI-METAL GATED VALENCE TAUTOMERISM IN A CROWN ETHER APPENDED COBALT-DIOXOLENE COMPLEX"
+    },
+    "10.61796/jhsm.v1i4.37": {
+      "doi": "10.61796/jhsm.v1i4.37",
+      "posted_at": "2026-09-26T03:31:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790393462.172599",
+      "summary_character_count": 120,
+      "summary_japanese": "calcium citrate malate、calcium L-lactate、CPP、inulin等からなる有機カルシウム錠を設計し、胃相30分で84.7%のCa放出、腸相60分で61.5%の可溶性Ca保持を示し、各比較製剤を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "IN VITRO GASTROINTESTINAL CALCIUM RELEASE FROM AN ORGANIC CALCIUM-CPP GRANULE MATRIX AND ITS TRANSLATIONAL RELEVANCE TO BIOAVAILABILITY"
     },
     "10.62177/jaet.v3i3.1614": {
       "doi": "10.62177/jaet.v3i3.1614",
