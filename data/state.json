@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-26": 9,
     "2026-08-27": 12,
     "2026-08-28": 10,
     "2026-08-29": 30,
@@ -32,7 +31,7 @@
     "2026-09-24": 20,
     "2026-09-25": 17,
     "2026-09-26": 20,
-    "2026-09-27": 15
+    "2026-09-27": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -320,6 +319,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrafast Nonlinear Chiral Modulation With Hydrogel Helices"
+    },
+    "10.1002/adfm.78689": {
+      "doi": "10.1002/adfm.78689",
+      "posted_at": "2026-09-27T03:39:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790480365.941879",
+      "summary_character_count": 97,
+      "summary_japanese": "h-BN、3R-MoS2、γ-InSe上の4種のキラル分子吸着48配置を解析し、分極変化は−27.5～+13.7%でも全配置でUp/Down符号と有限障壁のスライド経路が維持されることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Adsorption of Selected Chiral Small Molecules Preserves Stacking-Dependent Polarization at van der Waals Interfaces"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -10600,6 +10612,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-Dependent Electrical Characteristics of MoS2 Nanoscroll Transistors"
     },
+    "10.1021/jacs.6c11735": {
+      "doi": "10.1021/jacs.6c11735",
+      "posted_at": "2026-09-27T03:39:21+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790480361.453899",
+      "summary_character_count": 124,
+      "summary_japanese": "2-hydroxynitrostyreneへのアルケニル・アリールボロン酸のキラルbiphenol触媒不斉共役付加、立体発散的環化、分子内脱アミノ芳香族ホモリティック置換により、(-)-ohioensin Aなど5種を初の簡潔な不斉全合成へ導いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Concise Total Syntheses of (-)-Ohioensin A, Putative (+)-Ohioensin C, (+)-Myristinins A and B/C, and (+)-Caesalpinflavan A"
+    },
     "10.1021/jacs.6c11741": {
       "doi": "10.1021/jacs.6c11741",
       "posted_at": "2026-09-17T03:24:56+00:00",
@@ -12355,6 +12380,19 @@
       "summary_used_fallback": false,
       "title": "Influence of many-body correlation and mixed-valence fluctuations on X-ray magnetic circular dichroism and resonant inelastic X-ray scattering spectra"
     },
+    "10.1038/s42004-026-02194-1": {
+      "doi": "10.1038/s42004-026-02194-1",
+      "posted_at": "2026-09-27T03:39:16+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790480356.588069",
+      "summary_character_count": 127,
+      "summary_japanese": "非ペプチド性マクロ環の膜透過性予測に、エッジ認識型多層GATとJumping Knowledge、ハイブリッドプーリングを組み込むMEGPNMを開発した。PAMPAデータセットで既存機械学習・深層学習モデルを上回り、透過性に関連する構造モチーフを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "MEGPNM as a multiscale edge-aware GAT network with hybrid pooling predicting permeability of non-peptidic macrocycles"
+    },
     "10.1038/s44160-026-01155-9": {
       "doi": "10.1038/s44160-026-01155-9",
       "posted_at": "2026-09-23T10:46:31+00:00",
@@ -14070,6 +14108,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Prebiotic magnetite enables chirality-magnetic surface feedback"
+    },
+    "10.18038/estubtda.1788342": {
+      "doi": "10.18038/estubtda.1788342",
+      "posted_at": "2026-09-27T03:39:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790480351.646279",
+      "summary_character_count": 107,
+      "summary_japanese": "Cuttleboneの螺旋状微細構造を断面画像に基づく3D有限要素解析で評価した。最長・連続螺旋は最大von Mises応力49.37 MPa、Gibson-Ashby補正後の推定圧縮強度は1.65 MPaだった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "COMPRESSIVE BEHAVIOR OF CUTTLEFISH BONE HELICAL MICROSTRUCTURES: A FINITE ELEMENT APPROACH"
     },
     "10.18203/issn.2455-4510.intjresorthop20262905": {
       "doi": "10.18203/issn.2455-4510.intjresorthop20262905",
@@ -16331,6 +16382,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Temperature-Controlled Surface Plasmon Polariton Propagation in InSb-Uniaxial Chiral-InSb Waveguides for Near-Infrared Optical Communication"
+    },
+    "10.3390/modelling7050205": {
+      "doi": "10.3390/modelling7050205",
+      "posted_at": "2026-09-27T03:39:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790480372.663609",
+      "summary_character_count": 365,
+      "summary_japanese": "An asymmetric tooth flank modification model for cylindrical helical gears was developed by superposing modification amounts over subregions in the profile and lead directions. Finite-element contact analyses comparing unmodified, symmetric, and asymmetric flanks showed that the method eliminates edge contact while enabling regulation of contact pattern location.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "A Novel Asymmetric Tooth Flank Modification Modeling Method for the Cylindrical Helical Gears"
     },
     "10.3390/molecules31142526": {
       "doi": "10.3390/molecules31142526",
