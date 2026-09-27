@@ -31,7 +31,8 @@
     "2026-09-24": 20,
     "2026-09-25": 17,
     "2026-09-26": 20,
-    "2026-09-27": 23
+    "2026-09-27": 23,
+    "2026-09-28": 2
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3218,6 +3219,19 @@
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed H 2 -Enabled Asymmetric Olefin Isomerization: Direct Access to P -Stereogenic Phospholenes With Adjacent Stereocenters"
     },
+    "10.1002/anie.6481438": {
+      "doi": "10.1002/anie.6481438",
+      "posted_at": "2026-09-27T16:23:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790526217.050929",
+      "summary_character_count": 418,
+      "summary_japanese": "Photoredox/chromium combined catalysis enables asymmetric contra-thermodynamic isomerization of internal alkenes to enantioenriched terminal alkenes. SET/PT or HAT generates a chiral allylchromium intermediate, whose protodemetalation determines enantioselectivity. The atom-economical protocol showed good functional-group compatibility and was applied to the concise asymmetric total synthesis of (+)-licochalcone E.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Asymmetric Double-Bond Isomerization of Alkenes With Photoredox/Chromium Combined Catalysis"
+    },
     "10.1002/anie.6506301": {
       "doi": "10.1002/anie.6506301",
       "posted_at": "2026-09-18T15:49:52+00:00",
@@ -3691,6 +3705,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dopant-Tailored Matrices: A Crystal Engineering Strategy for Organic Room-Temperature Phosphorescent Host-Guest Systems and Beyond"
+    },
+    "10.1002/anie.8360226": {
+      "doi": "10.1002/anie.8360226",
+      "posted_at": "2026-09-27T16:23:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790526221.375679",
+      "summary_character_count": 105,
+      "summary_japanese": "キラルthionated phthalimide誘導体で分子内二次相互作用により形式上同一の1(n,pi*)–3(n,pi*)間ISCを誘起し、溶液中で最大g_lum=4×10−3の室温円偏光りん光を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Extending El Sayed's Rule by 1 (n,pi*)- 3 (n,pi*) Rotation via Intramolecular Secondary Interaction Enables Room-Temperature Circularly Polarized Phosphorescence in Solution"
     },
     "10.1002/anie.8413238": {
       "doi": "10.1002/anie.8413238",
