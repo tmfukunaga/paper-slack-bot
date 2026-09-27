@@ -31,7 +31,7 @@
     "2026-09-24": 20,
     "2026-09-25": 17,
     "2026-09-26": 20,
-    "2026-09-27": 20
+    "2026-09-27": 23
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -332,6 +332,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Adsorption of Selected Chiral Small Molecules Preserves Stacking-Dependent Polarization at van der Waals Interfaces"
+    },
+    "10.1002/adfm.78719": {
+      "doi": "10.1002/adfm.78719",
+      "posted_at": "2026-09-27T11:24:17+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790508257.392979",
+      "summary_character_count": 113,
+      "summary_japanese": "単層TMD exciton発光を、面内対称性設計で生じる高Q quasi-BICと共鳴増強幾何学位相を用いた全van der Waals位相勾配メタサーフェスで制御し、厚さλ/20未満でキラリティー依存のビーム偏向を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Steering Chiral Exciton Emission With All Van Der Waals Nonlocal Phase Gradient Metasurfaces"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -6596,6 +6609,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral planar 1,2-disubstituted ferrocenes: synthesis, spectroscopy, electrochemical characterization and DFT calculations"
+    },
+    "10.1016/j.molstruc.2026.147676": {
+      "doi": "10.1016/j.molstruc.2026.147676",
+      "posted_at": "2026-09-27T11:24:21+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790508261.857849",
+      "summary_character_count": 133,
+      "summary_japanese": "L-alanine由来のキラルCu(II) Schiff base錯体L1Cu・L2Cuを合成し、歪んだ四角錐構造をSCXRDで確認した。styrene cyclopropanationで両者は99.9%収率、C-S couplingでは93%と87%収率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Copper(II) Schiff Base Complexes Derived from Alanine: Structural Insights and Catalytic Performance in Cyclopropanation and C-S Coupling Reactions"
     },
     "10.1016/j.mtcomm.2026.115849": {
       "doi": "10.1016/j.mtcomm.2026.115849",
@@ -16824,6 +16850,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Effect of CPP-ACP (Casein Phosphopeptide Amorphous Calcium Phosphate) on Salivary pH Changes in Children"
+    },
+    "10.36897/jme/224615": {
+      "doi": "10.36897/jme/224615",
+      "posted_at": "2026-09-27T11:24:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790508268.997119",
+      "summary_character_count": 438,
+      "summary_japanese": "A new AutoCAD/Visual Lisp method automatically determines contact lines in cross-sections to generate primary surfaces of disc tools for complex helical surfaces without requiring surface-equation parameters. For air-compressor female rotors and involute spur gears, its tool surfaces differed by less than 0.005 mm from CATIA normal-projection results and enabled automatic detection and correction of undercutting and double enveloping.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "A New CAD Method for Creating Disc Tools Machining Complex Helical Surfaces, Avoiding Undercut and Second Envelope"
     },
     "10.37394/232011.2027.22.1": {
       "doi": "10.37394/232011.2027.22.1",
