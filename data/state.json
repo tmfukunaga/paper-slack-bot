@@ -31,7 +31,8 @@
     "2026-09-25": 17,
     "2026-09-26": 20,
     "2026-09-27": 23,
-    "2026-09-28": 7
+    "2026-09-28": 7,
+    "2026-09-29": 3
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1008,6 +1009,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Curvature-Directed Elongation and Chiral Tilting Drive Asymmetric Tissue Patterning"
+    },
+    "10.1002/advs.77953": {
+      "doi": "10.1002/advs.77953",
+      "posted_at": "2026-09-28T21:04:01+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790629441.816039",
+      "summary_character_count": 135,
+      "summary_japanese": "benzoselenadiazole・alanine・acylhydrazoneを統合したC3対称TASeは、カルコゲン・水素結合により多孔性結晶とキラルナノ球を形成し、ROS除去、DNA酸化損傷・ERK活性化抑制によりdoxorubicin誘発心筋細胞傷害を軽減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Chiral Assemblies from Benzoselenadiazole-Alanine-Acylhydrazone Conjugates Enable Cardioprotection"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -3126,6 +3140,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
+    },
+    "10.1002/anie.5640364": {
+      "doi": "10.1002/anie.5640364",
+      "posted_at": "2026-09-28T21:04:12+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790629452.126009",
+      "summary_character_count": 396,
+      "summary_japanese": "A hemicryptophane-based Covalent Organic Cage containing an inward-oriented polarized P–Cl bond in a haloazaphosphatrane unit was synthesized. It recognized dimethyl methylphosphonate (DMMP), a Sarin surrogate, through halogen bonding. An otherwise identical cage bearing hydrogen instead of chlorine showed no detectable recognition, demonstrating atomic-level discrimination of the interaction.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Molecular Recognition by Halogen Bonding With Atomic Precision in a Covalent Organic Cage"
     },
     "10.1002/anie.5791239": {
       "doi": "10.1002/anie.5791239",
@@ -8038,6 +8065,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Temporally Decoupled Ring-Opening Polymerization of N -Carboxyanhydrides-Induced Self-Assembly"
+    },
+    "10.1021/acs.macromol.6c01809": {
+      "doi": "10.1021/acs.macromol.6c01809",
+      "posted_at": "2026-09-28T21:04:16+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790629456.787139",
+      "summary_character_count": 120,
+      "summary_japanese": "補完的で非対称な水素結合部位を末端化した2種ポリマーをトルエン中で自己集合させ、加熱または水素結合競合剤添加により相互作用を調節した。室温で再編成可能な、経路非依存かつ再現性ある寸法の熱力学平衡Janus nanocylindersを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Janus Nanocylinders: Solvent-Induced Hydrogen-Bond Modulation Yields Structures under Thermodynamic Equilibrium"
     },
     "10.1021/acs.nanolett.6c00913": {
       "doi": "10.1021/acs.nanolett.6c00913",
