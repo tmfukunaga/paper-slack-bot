@@ -31,7 +31,7 @@
     "2026-09-25": 17,
     "2026-09-26": 20,
     "2026-09-27": 23,
-    "2026-09-28": 2
+    "2026-09-28": 7
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -996,6 +996,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Allostery Achieves Tunable Luminescence Aromatic Bridged Phenothiazine Noncovalent Frameworks"
     },
+    "10.1002/advs.77940": {
+      "doi": "10.1002/advs.77940",
+      "posted_at": "2026-09-28T12:54:48+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790600088.264229",
+      "summary_character_count": 102,
+      "summary_japanese": "凹凸曲面と平坦部を備えた基板上でC2C12細胞を解析し、曲率が異なる軸への伸長を誘導した後、内在性または薬理学的に変化させた細胞キラリティーが傾斜・移動の方向性を付与し、集団配向を反転させることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Curvature-Directed Elongation and Chiral Tilting Drive Asymmetric Tissue Patterning"
+    },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
       "posted_at": "2026-08-11T23:23:39+00:00",
@@ -1307,6 +1320,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Driven Piezocatalysis in MOFs: Achieving Efficient Cocatalyst-Free Hydrogen Evolution"
+    },
+    "10.1002/ange.3329596": {
+      "doi": "10.1002/ange.3329596",
+      "posted_at": "2026-09-28T12:54:43+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790600083.707859",
+      "summary_character_count": 111,
+      "summary_japanese": "carboxyl pocketを持つLPPFによりヘリカル水を構築し、L中心→M型水→P型ナノファイバーの二段階逆キラリティー移動を実証した。微量水の除去でアキラルナノベルト化し、スピン選択性はupからdownへ転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water Helicity-Modulated Hierarchical Inverse Chirality Transfer in Supramolecular Assembly"
     },
     "10.1002/ange.3408014": {
       "doi": "10.1002/ange.3408014",
@@ -1723,6 +1749,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
+    },
+    "10.1002/ange.7110885": {
+      "doi": "10.1002/ange.7110885",
+      "posted_at": "2026-09-28T12:54:39+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790600079.258519",
+      "summary_character_count": 133,
+      "summary_japanese": "calix[4]areneを基盤に、[Pd(allyl)Cl]2/キラルphosphoramidite触媒による遠隔transannular Suzuki-Miyaura couplingを開発し、安定な二重大環状キラル分子を最高71%収率、91% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Enantioselective Remote Transannular Desymmetrization of Calix[4]Arenes to Inherently Chiral Double-Macrocycles"
     },
     "10.1002/ange.7494092": {
       "doi": "10.1002/ange.7494092",
@@ -2620,6 +2659,19 @@
       "summary_used_fallback": false,
       "title": "Mechanism-Selective Self-Assembly of Amphiphilic Dendronized Brush Block Copolymers Into Lamellar and Porous Photonic Pigments"
     },
+    "10.1002/anie.3329596": {
+      "doi": "10.1002/anie.3329596",
+      "posted_at": "2026-09-28T12:54:34+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790600074.177559",
+      "summary_character_count": 117,
+      "summary_japanese": "幾何学的に適合するカルボキシルポケットを持つLPPFによりらせん水を構築し、L配置中心→M型水→P型ナノファイバーの二段階逆キラリティー移動を示した。微量水の除去でアキラルなナノベルトとなり、スピン選択性もupからdownへ変化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water Helicity-Modulated Hierarchical Inverse Chirality Transfer in Supramolecular Assembly"
+    },
     "10.1002/anie.3408014": {
       "doi": "10.1002/anie.3408014",
       "posted_at": "2026-07-31T18:03:27+00:00",
@@ -3451,6 +3503,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromatic Interaction-Driven Adaptive Transformation of Macrocyclic Unimolecular Chloride Channels Into Nanopores"
+    },
+    "10.1002/anie.7110885": {
+      "doi": "10.1002/anie.7110885",
+      "posted_at": "2026-09-28T12:54:28+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790600068.918169",
+      "summary_character_count": 376,
+      "summary_japanese": "Calix[4]arene derivatives were converted into inherently chiral double-macrocycles by Pd/chiral phosphoramidite-catalyzed remote transannular Suzuki-Miyaura coupling. The intramolecular macrocyclization furnished conformationally stable products in up to 71% yield and 91% ee, featuring semi-enveloped chiral cavities and promising chiral catalytic and chiroptical properties.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Catalytic Enantioselective Remote Transannular Desymmetrization of Calix[4]Arenes to Inherently Chiral Double-Macrocycles"
     },
     "10.1002/anie.7195803": {
       "doi": "10.1002/anie.7195803",
