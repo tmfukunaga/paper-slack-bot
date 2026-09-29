@@ -31,7 +31,8 @@
     "2026-09-26": 20,
     "2026-09-27": 23,
     "2026-09-28": 7,
-    "2026-09-29": 3
+    "2026-09-29": 3,
+    "2026-09-30": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2360,6 +2361,19 @@
       "recovered_from_run": 29635004972,
       "score": 29
     },
+    "10.1002/anie.2026-m2509022200": {
+      "doi": "10.1002/anie.2026-m2509022200",
+      "posted_at": "2026-09-29T18:06:01+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790705160.951559",
+      "summary_character_count": 91,
+      "summary_japanese": "劣化LiFePO4正極に自己集合超分子界面を導入し、熱駆動カスケードでLiを精密補充、antisite欠陥修復、相再構築、導電ネットワーク回復を順次達成して高性能蓄電材料へ再生した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inside Back Cover: Supramolecular Self-Assembly Enables Controlled Lithium Replenishment Toward High-Performance and Sustainable Regeneration of Spent LiFePO 4 Batteries"
+    },
     "10.1002/anie.2026-m2607093500": {
       "doi": "10.1002/anie.2026-m2607093500",
       "posted_at": "2026-07-31T03:01:36+00:00",
@@ -3821,6 +3835,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Trigonal Pyramidal Germanium Halides for Enhanced Second Harmonic Generation"
+    },
+    "10.1002/anie.8483841": {
+      "doi": "10.1002/anie.8483841",
+      "posted_at": "2026-09-29T18:05:49+00:00",
+      "score": 43,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790705149.365439",
+      "summary_character_count": 107,
+      "summary_japanese": "EtP5とF4TCNQからなる電荷移動固体で、ゲスト依存の秩序化・競合破壊・協同再構築を解析した。toluene再構築体は近赤外光による迅速なゲスト放出を示し、CT欠損体は自発解離またはゲスト誘起再構築で再生した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Recognition Directs Charge-Transfer Evolution in an Adaptive Macrocyclic Host-Guest Solid"
     },
     "10.1002/anie.8498677": {
       "doi": "10.1002/anie.8498677",
@@ -7194,6 +7221,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Efficient Macrocyclic Trap for Capture of Pyridine"
+    },
+    "10.1021/acs.chemmater.6c01997": {
+      "doi": "10.1021/acs.chemmater.6c01997",
+      "posted_at": "2026-09-29T18:06:10+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790705170.811249",
+      "summary_character_count": 123,
+      "summary_japanese": "MCA端部への分子認識でAu前駆体を均一固定し、熱処理で2.5±0.5 nmのligand-free Au0 NPsを作製した。N-methyl-4-piperidinone酸化脱水素化で、enaminone選択性100%、収率90%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Recognition Affords Ligand-Free Au Nanoparticle Catalysts on an Interfacially Inert Supramolecular Support"
     },
     "10.1021/acs.chemrev.6c00011": {
       "doi": "10.1021/acs.chemrev.6c00011",
@@ -10962,6 +11002,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Access to Chiral (Semi)Saturated Silacycles via Rh-Catalyzed Asymmetric Sila-(3+2) Annulation"
+    },
+    "10.1021/jacs.6c13682": {
+      "doi": "10.1021/jacs.6c13682",
+      "posted_at": "2026-09-29T18:06:05+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790705165.904989",
+      "summary_character_count": 104,
+      "summary_japanese": "InP@ZnS QDsでpHによりZn媒介エッチングとZnSエピタキシャル成長を制御し、界面の対称性破れを誘起して、524–596 nmの発光可変性、PLQY 56.18%、発光解離因子0.022を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Competitive Interfacial Etching and Growth for Multicolor-Tunable Circularly Polarized Luminescent Quantum Dots"
     },
     "10.1021/jacs.6c14044": {
       "doi": "10.1021/jacs.6c14044",
@@ -15927,6 +15980,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Doping of Two-Dimensional Molecular Crystals for Circularly Polarized Photodetection"
+    },
+    "10.26434/chemrxiv.15009526/v1": {
+      "doi": "10.26434/chemrxiv.15009526/v1",
+      "posted_at": "2026-09-29T18:05:56+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790705156.310179",
+      "summary_character_count": 363,
+      "summary_japanese": "A series of dizinc complexes supported by bis(imino)diphenylamido macrocyclic ligands with tunable ring sizes was examined for CO2-to-isocyanate conversion. Linker length between binding pockets controlled the conformation of key siloxide intermediates, determining whether they further reacted with CO2 to yield isocyanate or instead formed silyl ether products.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Conformational control for selective CO2-to-isocyanate conversion in a series of dizinc macrocycle complexes"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
