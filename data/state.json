@@ -32,7 +32,7 @@
     "2026-09-27": 23,
     "2026-09-28": 7,
     "2026-09-29": 3,
-    "2026-09-30": 5
+    "2026-09-30": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4837,6 +4837,19 @@
       "summary_used_fallback": false,
       "title": "Trifluoroacetylation and Sulfur Oxidation States Modulate Cis - Trans Isomerization and Atropisomerism in N -Aryl Peptoids"
     },
+    "10.1002/chir.70150": {
+      "doi": "10.1002/chir.70150",
+      "posted_at": "2026-09-29T22:16:36+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790720196.518939",
+      "summary_character_count": 101,
+      "summary_japanese": "Mueller matrix polarimetryによる円二色性・円複屈折解析の統一理論を整理し、6つの独立偏光パラメータをもつ非偏光解消Mueller行列と弱効果近似、各種特殊系の閉形式を提示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Practical Guide to Mueller Matrix Analysis of Chiroptical Materials"
+    },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
       "posted_at": "2026-08-10T10:41:00+00:00",
@@ -7000,6 +7013,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "OrganocatalyticEnantioselective Electrophilic C-HSulfenylation of Arenes"
+    },
+    "10.1021/acs.accounts.6c00499": {
+      "doi": "10.1021/acs.accounts.6c00499",
+      "posted_at": "2026-09-29T22:16:26+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790720186.759989",
+      "summary_character_count": 90,
+      "summary_japanese": "液晶鋳型法とキラル分子インプリンティングによりPt・Pt-Irメソ多孔性電極を設計し、配位子不要の不斉電解・不均一触媒反応で最大95% ee、高耐久性、フロー系との適合性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrochemically Supported Asymmetric Synthesis on Chiral Encoded Pt and Pt-Ir Surfaces"
     },
     "10.1021/acs.accounts.6c00503": {
       "doi": "10.1021/acs.accounts.6c00503",
@@ -12888,6 +12914,19 @@
       "summary_used_fallback": false,
       "title": "Homogenized spin-charge transport in random heterogeneous chiral molecular media"
     },
+    "10.1063/5.0352851": {
+      "doi": "10.1063/5.0352851",
+      "posted_at": "2026-09-29T22:16:31+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790720191.569709",
+      "summary_character_count": 126,
+      "summary_japanese": "二次元パーコレーションクラスター上のキラルランダムウォークを数値計算とannealed-disorder近似で解析し、障害物密度ごとに拡散を高める最適キラリティがあることを示した。最適値は壁面追従の持続長と障害物クラスター周長の半分の一致で予測された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality enhances diffusion in disordered environments"
+    },
     "10.1073/pnas.2532158123": {
       "doi": "10.1073/pnas.2532158123",
       "posted_at": "2026-07-19T22:57:29+00:00",
@@ -16449,6 +16488,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Behavior and Racemization of Salen-Type Ligands and Their Iron Complexes: An X-Ray Crystal Structure Study"
     },
+    "10.3390/e28101065": {
+      "doi": "10.3390/e28101065",
+      "posted_at": "2026-09-29T22:16:19+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790720179.237159",
+      "summary_character_count": 101,
+      "summary_japanese": "QEDコヒーレント水中の閉じ込め電磁モードが、OAMトルクとヘリシティ勾配によるSAMトルクを介して超分子ヘリックスやアミノ酸・糖のキラリティーを選択し、生命のホモキラリティーを説明する機構を提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Why Homochirality in Biology? Coherent Water as a Morphogenetic Dynamic Mold Down to the Molecular Level: A QED Perspective"
+    },
     "10.3390/eng7080423": {
       "doi": "10.3390/eng7080423",
       "posted_at": "2026-08-23T03:48:39+00:00",
@@ -17241,6 +17293,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating"
+    },
+    "10.54050/prj2724828": {
+      "doi": "10.54050/prj2724828",
+      "posted_at": "2026-09-29T22:16:43+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790720203.432669",
+      "summary_character_count": 86,
+      "summary_japanese": "ナノ結晶をモデル系として、構造欠陥であるらせん転位が結晶成長とキラル形状の形成に及ぼす影響を探り、キラル構成要素のみが結晶キラリティーを決めるという従来の考えを再検討する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From Pasteur’s crystals to modern nanoscience: searching for the origins of chiral crystal shapes"
     },
     "10.5445/ir/1000195221": {
       "doi": "10.5445/ir/1000195221",
