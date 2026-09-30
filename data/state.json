@@ -32,7 +32,7 @@
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
-    "2026-10-01": 10
+    "2026-10-01": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1308,6 +1308,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stereoselective Synthesis of Mechanically Planar Chiral Rotaxanes and Mechanical Geometric Isomers From a Macrocyclic Ketone-Based Prochiral Rotaxane"
+    },
+    "10.1002/ange.2743830": {
+      "doi": "10.1002/ange.2743830",
+      "posted_at": "2026-09-30T21:52:30+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790805150.089879",
+      "summary_character_count": 119,
+      "summary_japanese": "cascade photo-induced radical cyclizationにより周縁窒素ドープNGの単層・二層構造を設計し、置換基制御で離散的二層体(3)2を形成した。二層体は酸素含有溶媒との水素結合により単層へ可逆的に解離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Monolayer and Bilayer Nitrogen-Doped Nanographenes Constructed by Cascade Cyclization"
     },
     "10.1002/ange.2908295": {
       "doi": "10.1002/ange.2908295",
@@ -6111,6 +6124,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Quasi-2D Hybrid Perovskite p-n Junction Arrays for High-Performance Self-Powered Visible-Band Circularly Polarized Light Detection"
     },
+    "10.1002/smll.76014": {
+      "doi": "10.1002/smll.76014",
+      "posted_at": "2026-09-30T21:52:40+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790805160.069659",
+      "summary_character_count": 93,
+      "summary_japanese": "欠陥導入SWCNTの分子認識と蛍光変調を、欠陥種・密度、分析対象、corona、キラリティー、環境の協同作用として整理し、欠陥導入・定量法、比率センシング、多欠陥系の課題と展望を論じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cooperative Regulation of Defect-Mediated Molecular Recognition With Single-Walled Carbon Nanotubes"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -8157,6 +8183,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Assembled Chiral Molecular Aggregates for Dual Energy and Chirality Transfer: Boosting the Circularly Polarized Luminescence"
     },
+    "10.1021/acs.langmuir.6c03872": {
+      "doi": "10.1021/acs.langmuir.6c03872",
+      "posted_at": "2026-09-30T21:52:34+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790805154.924609",
+      "summary_character_count": 111,
+      "summary_japanese": "カルボキシ末端自己組織化単分子膜上へbowl-shaped [Pd2L3(MeCN)2]4+ cageを指向的に固定化し、分光法とAFMで表面構造を評価した。C60包接により表面吸着が高速化し、結合親和性の増加と整合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Directed Surface Immobilization of Coordination Cages for Host-Guest Studies"
+    },
     "10.1021/acs.langmuir.6c04002": {
       "doi": "10.1021/acs.langmuir.6c04002",
       "posted_at": "2026-09-24T16:30:05+00:00",
@@ -8968,6 +9007,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Boron Complex-Catalyzed Asymmetric [2pi+2σ] Cycloaddition of β-Fluoroalkyl-α,β-Unsaturated Ketones with Bicyclo[1.1.0]butanes"
+    },
+    "10.1021/acs.orglett.6c03878": {
+      "doi": "10.1021/acs.orglett.6c03878",
+      "posted_at": "2026-09-30T21:52:23+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790805143.898169",
+      "summary_character_count": 382,
+      "summary_japanese": "A photodriven enantioselective hydrodifluoroalkylation of methyleneindanes with α-bromodifluoroamides was developed using a C2-symmetric chiral arylthiol catalyst. Chiral gem-difluorinated indane-derived amides were obtained in good to excellent yields and high enantioselectivities. Mechanistic studies identified a substrate–catalyst π–π interaction as a basis for enantiocontrol.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral Arylthiol-Catalyzed Asymmetric Hydrodifluoroalkylation of Alkenes Facilitated by Noncovalent Interaction"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
@@ -17384,6 +17436,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Astrophysics Equation of State Inference with Bayesian Chiral Effective Field Theory Uncertainties"
+    },
+    "10.3847/1538-4357/aea15a": {
+      "doi": "10.3847/1538-4357/aea15a",
+      "posted_at": "2026-09-30T21:52:15+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790805135.584919",
+      "summary_character_count": 135,
+      "summary_japanese": "太陽活動周期24極大期の35本のフィラメントをHα・紫外線画像で追跡し、chirality、barb方位、coronal arcadeのskewnessを解析した。27本が半球別chirality傾向に従い、19本のarcadeは全て半球helicity基準に適合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Morphology of Solar Filaments during the Solar Maximum of Cycle 24: A Study of 35 Filaments Focusing on Chirality, Barb Orientation, Skewness, and Eruptive Behavior"
     },
     "10.3847/2041-8213/ae9cb4": {
       "doi": "10.3847/2041-8213/ae9cb4",
