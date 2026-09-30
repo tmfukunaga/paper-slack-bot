@@ -32,7 +32,7 @@
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
-    "2026-10-01": 5
+    "2026-10-01": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -541,6 +541,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Engineered Supramolecular Gel Networks: Manipulating Interfacial Chemistry for Ultrastable Zinc Metal Batteries"
+    },
+    "10.1002/adma.75194": {
+      "doi": "10.1002/adma.75194",
+      "posted_at": "2026-09-30T20:02:05+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790798525.091729",
+      "summary_character_count": 133,
+      "summary_japanese": "few-layer強誘電体/強磁性体ヘテロ構造で、保磁力近傍の異なる磁気バブルに対応する2群のtopological Hall信号を観測した。分極反転によりanomalousおよびtopological Hall効果を不揮発変調し、4つのHall抵抗状態を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -6449,6 +6462,19 @@
       "summary_used_fallback": false,
       "title": "Macrocyclic ligands as corrosion inhibitors: Macrocyclic effects, host-guest chemistry, coordination and complexation with metal surfaces and ions"
     },
+    "10.1016/j.ccr.2026.218590": {
+      "doi": "10.1016/j.ccr.2026.218590",
+      "posted_at": "2026-09-30T20:02:31+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790798551.011979",
+      "summary_character_count": 105,
+      "summary_japanese": "Pillar[n]areneをMOF、COF、HOFなど6種の結晶性フレームワークへ導入する設計・合成・構造制御を総説し、細孔環境と結晶性を左右する因子、および吸着分離、触媒、センシング等の機能展開を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pillararene-based framework materials: from design and structural regulation to emerging functions"
+    },
     "10.1016/j.compgeo.2026.108592": {
       "doi": "10.1016/j.compgeo.2026.108592",
       "posted_at": "2026-08-29T22:59:37+00:00",
@@ -7506,6 +7532,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Iridium(III)Microcrystals with Mechano-TunableCircularly Polarized Luminescence"
+    },
+    "10.1021/acs.inorgchem.6c03201": {
+      "doi": "10.1021/acs.inorgchem.6c03201",
+      "posted_at": "2026-09-30T20:02:25+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790798545.037489",
+      "summary_character_count": 393,
+      "summary_japanese": "Self-assembly of Sb/Bi(3-py)3 with metallosalphen building blocks produced coordination polymers, capsules, or macrocycles depending on salphen substitution and metal identity. Encapsulation of Sb or Bi in Zn-salphen capsules modulated their catalytic oxidation of α-hydroxyketones and organic diols, while reversible encapsulation of Sb(3-py)3 enabled supramolecular ON/OFF catalytic control.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Sb- and Bi-Based Salphen Capsules: Pnictogen Bonding, Macrocycle Formation, and ON/OFF Catalysis"
     },
     "10.1021/acs.inorgchem.6c03252": {
       "doi": "10.1021/acs.inorgchem.6c03252",
@@ -14292,6 +14331,19 @@
       "summary_used_fallback": false,
       "title": "Robust Chiral Optical Force via Electric Dipole Interactions, Inspired by a Sea Creature"
     },
+    "10.1364/opticaopen.32316006.v2": {
+      "doi": "10.1364/opticaopen.32316006.v2",
+      "posted_at": "2026-09-30T20:02:36+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790798556.259629",
+      "summary_character_count": 98,
+      "summary_japanese": "ルビジウム蒸気を円偏光で光ポンピングして生じる円二色性・複屈折を、偏光が空間変化する渦プローブ光へ写像し、周波数シフトを画像回転として観測した。共鳴時の回転勾配は約98 mrad/MHzであった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spatio-spectral vector light created by optical activity in rubidium vapor"
+    },
     "10.1364/opticaopen.32538849.v3": {
       "doi": "10.1364/opticaopen.32538849.v3",
       "posted_at": "2026-07-21T03:15:55+00:00",
@@ -16214,6 +16266,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Bridging Azahelicene Enables Circularly Polarized Luminescence in a Dinuclear Ytterbium(III) Single-Molecule Magnet"
+    },
+    "10.26434/chemrxiv.15009600/v1": {
+      "doi": "10.26434/chemrxiv.15009600/v1",
+      "posted_at": "2026-09-30T20:02:15+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790798535.926479",
+      "summary_character_count": 376,
+      "summary_japanese": "Borylated and silylated oxetanyl-aziridines were opened with carboxylic acids under mild, base-free conditions to furnish α-chiral amino-oxetanes with complete regio- and diastereoselectivity. DFT and kinetic studies identified a boron-assisted activation mode in which B–O coordination facilitates the rate-determining SN2 attack and lowers the barrier by over 10 kcal·mol−1.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Direct Access to α-Chiral Amino-Oxetanes via Boron-Assisted Aziridine Ring-Opening"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
