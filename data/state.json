@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-29": 30,
     "2026-08-30": 25,
     "2026-08-31": 9,
     "2026-09-01": 6,
@@ -32,7 +31,7 @@
     "2026-09-27": 23,
     "2026-09-28": 7,
     "2026-09-29": 3,
-    "2026-09-30": 10
+    "2026-09-30": 14
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8735,6 +8734,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Bis-Urea Embedded Pillararenes with Self-Sorted Planar Chirality"
     },
+    "10.1021/acs.orglett.6c03327": {
+      "doi": "10.1021/acs.orglett.6c03327",
+      "posted_at": "2026-09-30T00:04:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790726691.216939",
+      "summary_character_count": 116,
+      "summary_japanese": "Fc[8]CPP-L/Mをshotgun macrocyclizationで合成し、tether長により分子内・分子間ferrocene包接を制御した。DFTはFcの360°内向き回転に約23 kcal mol−1の低障壁を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Linker-Dependent Conformational Switching in Side-Chain-Type Ferrocene-Functionalized Nanohoops"
+    },
     "10.1021/acs.orglett.6c03391": {
       "doi": "10.1021/acs.orglett.6c03391",
       "posted_at": "2026-09-04T22:46:46+00:00",
@@ -9618,6 +9630,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Correlative Multimodal Framework Reveals Supramolecular Chirality Loss Preceding Fibrillar Rarefaction in Dermal Collagen"
+    },
+    "10.1021/acsnano.6c08594": {
+      "doi": "10.1021/acsnano.6c08594",
+      "posted_at": "2026-09-30T00:04:28+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790726668.098009",
+      "summary_character_count": 110,
+      "summary_japanese": "Cr1/3TaS2の終端依存表面電子状態を高分解能ARPESと第一原理計算で解析し、TaS2終端の折り畳みバンドとCr終端の磁気分裂ホールポケットを観測した。分裂はTC≈142 K以上で消失し、磁化の温度変化に追随した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Termination-Dependent Surface States and Magnetic Fingerprints of Chiral Helimagnet Cr1/3TaS2"
     },
     "10.1021/acsnano.6c08681": {
       "doi": "10.1021/acsnano.6c08681",
@@ -10885,6 +10910,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intrinsic Morphological Chirality Governs Spin Selectivity in Gold Nanoparticles"
+    },
+    "10.1021/jacs.6c12163": {
+      "doi": "10.1021/jacs.6c12163",
+      "posted_at": "2026-09-30T00:04:35+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790726675.678529",
+      "summary_character_count": 351,
+      "summary_japanese": "A four-step GSIA sequence using INO3-enabled triple 6-endo-dig iodocyclization synthesized C3-symmetric triiodinated triphenylenes from 1,3,5-tris-arylalkynylbenzenes. These products served as modular hubs for all-benzenoid graphene quantum dots containing 36–126 graphenic carbons. The largest member, C126, showed an 8.2% fluorescence quantum yield.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Counteranion-Controlled Iodocyclizations Enabled by Iodine Nitrate: A Modular Route to Functionalized Triphenylenes and All-Benzenoid Graphene Quantum Dots"
     },
     "10.1021/jacs.6c12274": {
       "doi": "10.1021/jacs.6c12274",
@@ -16019,6 +16057,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Doping of Two-Dimensional Molecular Crystals for Circularly Polarized Photodetection"
+    },
+    "10.26434/chemrxiv.15009495/v1": {
+      "doi": "10.26434/chemrxiv.15009495/v1",
+      "posted_at": "2026-09-30T00:04:42+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790726682.418549",
+      "summary_character_count": 101,
+      "summary_japanese": "tetrathiaarylmethylをアルキン架橋した3種のdiradicaloidを合成し、EPR・磁化率測定とDFTで開殻一重項基底状態を示した。y0は0.47–0.76で、Jはy0と逆相関した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Persistent Alkyne-Bridged Bis-Trityl Diradicaloids with an Open-Shell Ground State"
     },
     "10.26434/chemrxiv.15009526/v1": {
       "doi": "10.26434/chemrxiv.15009526/v1",
