@@ -31,7 +31,7 @@
     "2026-09-27": 23,
     "2026-09-28": 7,
     "2026-09-29": 3,
-    "2026-09-30": 14
+    "2026-09-30": 19
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1879,6 +1879,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Trigonal Pyramidal Germanium Halides for Enhanced Second Harmonic Generation"
+    },
+    "10.1002/ange.8483841": {
+      "doi": "10.1002/ange.8483841",
+      "posted_at": "2026-09-30T12:37:01+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790771821.555879",
+      "summary_character_count": 95,
+      "summary_japanese": "EtP5–F4TCNQ電荷移動固体は、ゲストにより秩序化・破壊・再構築し、CT状態と近赤外吸収・光熱変換を変調した。toluene誘導の強結合CT状態では、光照射で迅速なゲスト放出を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Recognition Directs Charge-Transfer Evolution in an Adaptive Macrocyclic Host-Guest Solid"
     },
     "10.1002/ange.8498677": {
       "doi": "10.1002/ange.8498677",
@@ -4848,6 +4861,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Practical Guide to Mueller Matrix Analysis of Chiroptical Materials"
+    },
+    "10.1002/chir.70153": {
+      "doi": "10.1002/chir.70153",
+      "posted_at": "2026-09-30T12:36:52+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790771812.824579",
+      "summary_character_count": 101,
+      "summary_japanese": "L/D-glutamineをキラル制御剤とする電気化学析出で、均一かつ安定な3次元階層型キラルAg膜を作製した。結晶成長とLSPR結合を制御し、増強・安定化したCD応答と優れたキロプティカル性能を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrochemically Assisted Fabrication of Chiral Molecule Induced ag Films for Chiroptical Enhancement"
     },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
@@ -8338,6 +8364,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Chirality of Floquet Quantum Anomalous Hall Effect in an Altermagnetic Fe2Te2O Monolayer"
     },
+    "10.1021/acs.nanolett.6c03346": {
+      "doi": "10.1021/acs.nanolett.6c03346",
+      "posted_at": "2026-09-30T12:36:47+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790771807.592319",
+      "summary_character_count": 107,
+      "summary_japanese": "colloidal Au nanocrystal/bulk Au bilayerをひずみ駆動で折り畳み、3Dらせんプラズモニックメタマテリアルを作製した。二重らせんではモード混成により中赤外ΔTが約70%に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced Circular Dichroism in 3D Helical-Shaped Chiral Plasmonic Metamaterials Assembled from Colloidal Nanocrystals"
+    },
     "10.1021/acs.nanolett.6c03613": {
       "doi": "10.1021/acs.nanolett.6c03613",
       "posted_at": "2026-09-22T16:17:32+00:00",
@@ -11079,6 +11118,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Competitive Interfacial Etching and Growth for Multicolor-Tunable Circularly Polarized Luminescent Quantum Dots"
+    },
+    "10.1021/jacs.6c13874": {
+      "doi": "10.1021/jacs.6c13874",
+      "posted_at": "2026-09-30T12:37:07+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790771827.797569",
+      "summary_character_count": 118,
+      "summary_japanese": "キラリティーを代数的に定義して古典力学から量子力学へ拡張し、古典的キラリティーは量子状態間コヒーレンスの線形結合でのみ誘起されると示した。水素原子の電子状態をポンプした例で、キラル超短光パルスによる非局所的キラリティー誘起を可視化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality Inherent and Induced: An Algebraic Point of View"
     },
     "10.1021/jacs.6c14044": {
       "doi": "10.1021/jacs.6c14044",
@@ -16083,6 +16135,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Conformational control for selective CO2-to-isocyanate conversion in a series of dizinc macrocycle complexes"
+    },
+    "10.26434/chemrxiv.15009598/v1": {
+      "doi": "10.26434/chemrxiv.15009598/v1",
+      "posted_at": "2026-09-30T12:36:57+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790771817.258549",
+      "summary_character_count": 111,
+      "summary_japanese": "光学純粋azaheliceneで2つのYbIIIを架橋した低配位二核錯体を合成し、SMM性を保持した。両エナンチオマーの磁気光学測定・理論解析で、978 nmにglum=|0.035|を示す3本の近赤外CPL帯を観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bridging Azahelicene Enables Circularly Polarized Luminescence in a Dinuclear Ytterbium(III) Single-Molecule Magnet"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
