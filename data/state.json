@@ -31,7 +31,8 @@
     "2026-09-27": 23,
     "2026-09-28": 7,
     "2026-09-29": 3,
-    "2026-09-30": 19
+    "2026-09-30": 19,
+    "2026-10-01": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2581,6 +2582,19 @@
       "summary_used_fallback": false,
       "title": "Cracking and Self-Healing in a Molecular Crystal Driven by Topochemical Polymerization"
     },
+    "10.1002/anie.2743830": {
+      "doi": "10.1002/anie.2743830",
+      "posted_at": "2026-09-30T17:37:20+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790789840.022919",
+      "summary_character_count": 111,
+      "summary_japanese": "Cascade PIRCで周縁窒素ドープnanographeneの単層・二層構造を合成し、立体置換基により離散的二層体(3)2を形成した。二層体はH型会合を示し、N–Hと酸素含有溶媒の水素結合により単層へ可逆的に解離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Monolayer and Bilayer Nitrogen-Doped Nanographenes Constructed by Cascade Cyclization"
+    },
     "10.1002/anie.2812801": {
       "doi": "10.1002/anie.2812801",
       "posted_at": "2026-08-23T01:10:53+00:00",
@@ -3821,6 +3835,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dopant-Tailored Matrices: A Crystal Engineering Strategy for Organic Room-Temperature Phosphorescent Host-Guest Systems and Beyond"
+    },
+    "10.1002/anie.8288920": {
+      "doi": "10.1002/anie.8288920",
+      "posted_at": "2026-09-30T17:37:26+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790789846.577069",
+      "summary_character_count": 120,
+      "summary_japanese": "CPP骨格にY系電子受容体を共有結合した3D三量体CPP-3Yを設計し、D18:L8-BO-Xへ添加して受容体相の大きなフィブリルを形成した。三元有機太陽電池はPCE 20.62%と964 h・70 °C後も初期効率の80%以上を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A 3D Cycloparaphenylene-Cored Trimeric Electron Acceptor Regulates Acceptor Fibril Morphology for 20.6%-Efficient Ternary Organic Solar Cells"
     },
     "10.1002/anie.8360226": {
       "doi": "10.1002/anie.8360226",
@@ -8798,6 +8825,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Accessing P-Chiral Diphosphines through Nickel-Catalyzed Asymmetric Hydrophosphination"
+    },
+    "10.1021/acs.orglett.6c03398": {
+      "doi": "10.1021/acs.orglett.6c03398",
+      "posted_at": "2026-09-30T17:37:41+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790789861.350279",
+      "summary_character_count": 132,
+      "summary_japanese": "フェノール性OHと(S)-6-oxopiperidine-2-carboxylic acidのPdへの協働配位を利用し、P-不斉中心を与えるC(sp2)-H不斉アリール化を開発した。30種の生成物を最大90%収率、98% eeで得て、絶対配置をX線回折で決定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Palladium-Catalyzed Directed Asymmetric C-H Arylation Leading to a P-Stereogenic Center"
     },
     "10.1021/acs.orglett.6c03399": {
       "doi": "10.1021/acs.orglett.6c03399",
@@ -14290,6 +14330,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "2-Bit Terahertz Angle Tunable Chiral Encode for Polarization and Incidence Angle Detection"
+    },
+    "10.1364/opticaopen.34020687": {
+      "doi": "10.1364/opticaopen.34020687",
+      "posted_at": "2026-09-30T17:37:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790789851.456309",
+      "summary_character_count": 119,
+      "summary_japanese": "Sb2S3層を組み込んだねじれ二層Si準BICメタサーフェスで、相転移により2放射チャネルの干渉を再構成し、同一TE0-like分枝のCDを−0.933から+0.974へ反転した。さらに約1550 nmで固定波長ヘリシティ反転を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonvolatile reconfiguration of chirality via phase-change modulation of radiative interference in quasi-BIC metasurfaces"
+    },
+    "10.1364/opticaopen.34020687.v1": {
+      "doi": "10.1364/opticaopen.34020687.v1",
+      "posted_at": "2026-09-30T17:37:35+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790789855.606379",
+      "summary_character_count": 111,
+      "summary_japanese": "Sb2S3中間層を組み込んだねじれ二層Si準BICメタサーフェスで、相転移により結合放射チャネルの干渉を再構成した。同一TE0様分枝でCDは−0.933から+0.974へ反転し、1550 nm付近でもヘリシティを反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonvolatile reconfiguration of chirality via phase-change modulation of radiative interference in quasi-BIC metasurfaces"
     },
     "10.1364/prj.608183": {
       "doi": "10.1364/prj.608183",
