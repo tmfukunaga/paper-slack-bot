@@ -31,7 +31,7 @@
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
-    "2026-10-01": 25
+    "2026-10-01": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2081,6 +2081,19 @@
       "summary_used_fallback": false,
       "title": "Cyclodextrin-Directed Assembly of Dynamic Polyoxometalate Pseudo-Rotaxanes"
     },
+    "10.1002/ange.9477381": {
+      "doi": "10.1002/ange.9477381",
+      "posted_at": "2026-10-01T10:09:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790849371.666929",
+      "summary_character_count": 119,
+      "summary_japanese": "homoannulene系photoswitchの補助基制御光化学[1,11]-sigmatropic rearrangementでcalderoselectivityを実証し、pro-R方向のacyl migrationを優勢に与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiroptical Switching by Stereoselective Photochemical Sigmatropic Rearrangements: Experimental Realization of Calderoselectivity"
+    },
     "10.1002/ange.9590374": {
       "doi": "10.1002/ange.9590374",
       "posted_at": "2026-07-26T18:17:09+00:00",
@@ -3243,6 +3256,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "1,3-Brook Rearrangement of α-Silyl Allylic Alcohols: Copper-Catalyzed Enantiospecific Formation of Allenes and Copper-Mediated ipso -Substitution Reactions Affording Trisubstituted Alkenes"
+    },
+    "10.1002/anie.5794634": {
+      "doi": "10.1002/anie.5794634",
+      "posted_at": "2026-10-01T10:09:54+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790849394.679679",
+      "summary_character_count": 104,
+      "summary_japanese": "協同的超分子重合を行う光応答性モノマーで、中間PSSの組成を照射波長により制御した。重合活性種濃度が核形成閾値を越えると、わずかな組成差が大きな凝集状態変化へ増幅され、水中での集合と凝縮相での光解離を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crossing the Threshold: Using Photostationary States to Control Supramolecular Polymerisation"
     },
     "10.1002/anie.5989322": {
       "doi": "10.1002/anie.5989322",
@@ -4744,6 +4770,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Solid-Phase Approach to Chiral C2-Substituted Cyclen and DOTA-Like Lanthanoid Ligands"
+    },
+    "10.1002/chem.71754": {
+      "doi": "10.1002/chem.71754",
+      "posted_at": "2026-10-01T10:09:48+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790849388.252599",
+      "summary_character_count": 121,
+      "summary_japanese": "pillar[5]areneをDDQおよびマイクロ波下SeO2で選択的に酸化し、1～5個のcarbonyl subunitを持つ全誘導体を合成した。6生成物をX線構造解析し、DFTと結合試験で共役様式とC═Oのゲスト親和性への影響を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Benzylic Oxidation of Pillar[5]Arene: From Homo- to Cross-Conjugated Macrocyclic Systems"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -7817,6 +7856,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Scalable Chiral Pool Platform from Anticopalic Acid for Divergent Syntheses of Marine Meroterpenoids"
+    },
+    "10.1021/acs.joc.6c00924": {
+      "doi": "10.1021/acs.joc.6c00924",
+      "posted_at": "2026-10-01T10:09:37+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790849377.168079",
+      "summary_character_count": 131,
+      "summary_japanese": "置換phenylenediamineとの縮合でquinoxaline macrocyclesを合成し、末端alkoxy基が固体の超分子組織を制御することを示した。tetraalkoxy体は六方晶カラム相を形成し、分岐octaalkoxy体は斜方晶液晶相を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Alkoxy Substitution Controls Columnar Organization in Quinoxaline Cyclotetrabenzoin Macrocycles"
     },
     "10.1021/acs.joc.6c00943": {
       "doi": "10.1021/acs.joc.6c00943",
@@ -14238,6 +14290,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity-Resolved Greybody Factors of AdS-NLED Black Holes with Strings and Quintessence"
+    },
+    "10.1142/s1088424626500616": {
+      "doi": "10.1142/s1088424626500616",
+      "posted_at": "2026-10-01T10:09:42+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790849382.828459",
+      "summary_character_count": 112,
+      "summary_japanese": "benzene-annulated phenanthriporphyrinとCu錯体の電子構造・励起状態をNMR、過渡吸収、DFTで解析した。縮環とCu配位は反芳香族性を弱め、Cu錯体ではLMCT状態への効率的遷移が生じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Attenuated antiaromaticity and redirected excited-state dynamics upon Cu-metallation of a benzene-annulated phenanthriporphyrin"
     },
     "10.1142/s1793524526501093": {
       "doi": "10.1142/s1793524526501093",
