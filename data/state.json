@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-30": 25,
     "2026-08-31": 9,
     "2026-09-01": 6,
     "2026-09-02": 18,
@@ -32,7 +31,7 @@
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
-    "2026-10-01": 15
+    "2026-10-01": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1893,6 +1892,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Topological Isomerism of Möbius-Shaped Aramide Macrocycles Induced by Host-Guest Interactions"
+    },
+    "10.1002/ange.8288920": {
+      "doi": "10.1002/ange.8288920",
+      "posted_at": "2026-10-01T00:33:50+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790814830.852339",
+      "summary_character_count": 104,
+      "summary_japanese": "CPP骨格とY系列アクセプターを共有結合した3D三量体CPP-3Yは、D18:L8-BO-X相に選択的に会合して大きなフィブリルを形成し、20.62%のPCEと70°Cで964 h後80%以上の効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A 3D Cycloparaphenylene-Cored Trimeric Electron Acceptor Regulates Acceptor Fibril Morphology for 20.6%-Efficient Ternary Organic Solar Cells"
     },
     "10.1002/ange.8413238": {
       "doi": "10.1002/ange.8413238",
@@ -3777,6 +3789,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Orientationally Coherent Chiral Nanoparticle Superlattices With Emergent and Tunable Collective Chiroptical Activity"
+    },
+    "10.1002/anie.7937631": {
+      "doi": "10.1002/anie.7937631",
+      "posted_at": "2026-10-01T00:33:55+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790814835.542829",
+      "summary_character_count": 123,
+      "summary_japanese": "キラルpyridoxal触媒によるglycinamideとaldehydeの生体模倣的aldol反応で、β-hydroxy-α-amino amideを最大98%収率、>20:1 dr、99% eeで直接合成し、peptide鎖修飾にも適用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direct Asymmetric Synthesis of Chiral β-Hydroxy-α-Amino Amides via PLP -Inspired Biomimetic Aldol Reaction"
     },
     "10.1002/anie.7946369": {
       "doi": "10.1002/anie.7946369",
@@ -11107,6 +11132,19 @@
       "summary_used_fallback": false,
       "title": "Bio-Inspired Chain Capping Selectively Inhibits Elongation to Direct Secondary Pathways in Supramolecular Polymers"
     },
+    "10.1021/jacs.6c12306": {
+      "doi": "10.1021/jacs.6c12306",
+      "posted_at": "2026-10-01T00:34:00+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790814840.114129",
+      "summary_character_count": 127,
+      "summary_japanese": "酸性条件下のAlPO4-n/SAPO-n結晶化を、30秒取得のoperando 2D固体NMRとDFTで解析し、プロトンがP–O–Al縮合障壁を0.63から0.25 eVへ低下させ核生成を促進し、acetateによる結晶形態制御を可能にすることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Proton-Mediated Host-Guest Interactions Direct Nucleation and Morphology Evolution in Molecular Sieve Crystallization"
+    },
     "10.1021/jacs.6c12367": {
       "doi": "10.1021/jacs.6c12367",
       "posted_at": "2026-07-20T15:27:29+00:00",
@@ -11288,6 +11326,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ion-Mediated Configuration Regulation and Chiralization in Cu(I) Cluster-Based Metallic Cages"
+    },
+    "10.1021/jacs.6c14478": {
+      "doi": "10.1021/jacs.6c14478",
+      "posted_at": "2026-10-01T00:34:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790814848.919379",
+      "summary_character_count": 104,
+      "summary_japanese": "VCCsとaldehydesを光レドックス/Ni二重触媒でエナンチオ収束的に連結し、四級不斉中心を持つallylic 1,3-diolsを高収率・高立体選択的に合成した。単量体キラルNi錯体が立体制御を担う。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photoinduced Nickel-Catalyzed Enantioconvergent Synthesis of Allylic 1,3-Diols Bearing a Quaternary Stereocenter"
     },
     "10.1021/jacs.6c14557": {
       "doi": "10.1021/jacs.6c14557",
@@ -17228,6 +17279,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Optofluidic Sensing and Sorting of Chiral Drugs Based on Core-Shell Composite Microspheres"
+    },
+    "10.3390/s26196183": {
+      "doi": "10.3390/s26196183",
+      "posted_at": "2026-10-01T00:34:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790814844.251489",
+      "summary_character_count": 126,
+      "summary_japanese": "直交配置した低コスト1D LiDAR 2台で荷重下のhelical bogie spring側面を計測し、位相アンラッピングで高さをリアルタイム再構成した。2試験で平均誤差0.66 mm、−1.47 mm、標準偏差2.35 mm、2.16 mmを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quadrature 1D-LiDAR Sensing for Indirect Height Measurement of a Helical Bogie Spring"
     },
     "10.3390/separations13080232": {
       "doi": "10.3390/separations13080232",
