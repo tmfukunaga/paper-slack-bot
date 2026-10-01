@@ -31,7 +31,8 @@
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
-    "2026-10-01": 35
+    "2026-10-01": 35,
+    "2026-10-02": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -540,6 +541,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Engineered Supramolecular Gel Networks: Manipulating Interfacial Chemistry for Ultrastable Zinc Metal Batteries"
+    },
+    "10.1002/adma.75177": {
+      "doi": "10.1002/adma.75177",
+      "posted_at": "2026-10-01T18:26:33+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790879193.834219",
+      "summary_character_count": 122,
+      "summary_japanese": "キラル部位をもつ両親媒性分子のdouble-gyroid液晶を光硬化し、saddle-splay曲率が選択点を集積する3Dナノチャネル膜を作製した。ibuprofenなどを高透過で分離し、同等の化学組成・孔径の膜より約10倍高い選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Boosting Chiral Separation Through Sinuous 3D Nanochannels With Saddle-Splay Curvature in Biomimetic Membranes"
     },
     "10.1002/adma.75194": {
       "doi": "10.1002/adma.75194",
@@ -4809,6 +4823,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Solid-Phase Approach to Chiral C2-Substituted Cyclen and DOTA-Like Lanthanoid Ligands"
+    },
+    "10.1002/chem.71750": {
+      "doi": "10.1002/chem.71750",
+      "posted_at": "2026-10-01T18:26:22+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790879182.761789",
+      "summary_character_count": 115,
+      "summary_japanese": "Naphthalenediimide-imidazolium macrocycleは、電子不足空孔で平面芳香族・金属錯体をπ相互作用により包接し、周辺C2-Hでハロゲン化物含有金属錯体を水素結合認識する二部位ホストとして機能した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Naphthalenediimide-Imidazolium Macrocycle for Orthogonal Molecular Recognition"
     },
     "10.1002/chem.71754": {
       "doi": "10.1002/chem.71754",
@@ -9150,6 +9177,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Boron Complex-Catalyzed Asymmetric [2pi+2σ] Cycloaddition of β-Fluoroalkyl-α,β-Unsaturated Ketones with Bicyclo[1.1.0]butanes"
     },
+    "10.1021/acs.orglett.6c03789": {
+      "doi": "10.1021/acs.orglett.6c03789",
+      "posted_at": "2026-10-01T18:26:10+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790879170.170249",
+      "summary_character_count": 123,
+      "summary_japanese": "[2.2]paracyclophaneを有する平面キラルazaboroleを不斉合成し、B,N複素環との融合体3種のキロプト光学特性を評価した。最大glumは4.7×10−3、BCPLは3.1 M−1 cm−1で、1aは固体で優れた蛍光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design of Small Circularly Polarized Luminescence-Active Planar-Chiral Azaboroles"
+    },
     "10.1021/acs.orglett.6c03878": {
       "doi": "10.1021/acs.orglett.6c03878",
       "posted_at": "2026-09-30T21:52:23+00:00",
@@ -9968,6 +10008,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhanced Current-Induced Spin Polarization in Ultrathin Chiral Nanowires"
+    },
+    "10.1021/acsnano.6c09477": {
+      "doi": "10.1021/acsnano.6c09477",
+      "posted_at": "2026-10-01T18:26:18+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790879178.593189",
+      "summary_character_count": 134,
+      "summary_japanese": "chiral glutathioneを鋳型にPbS nano-octahedra上でAuを頂点開始成長させ、側方開口をもつchiral Au nanocupを合成した。単一粒子散乱のdissymmetry factorは溶液中ensembleの消光値の50倍に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Gold Nanocups with Large Magnetic Plasmonic Enhancement for Single-Particle Chiroptical Response"
     },
     "10.1021/acsnano.6c09692": {
       "doi": "10.1021/acsnano.6c09692",
@@ -16551,6 +16604,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Direct Access to α-Chiral Amino-Oxetanes via Boron-Assisted Aziridine Ring-Opening"
+    },
+    "10.26434/chemrxiv.15009694/v1": {
+      "doi": "10.26434/chemrxiv.15009694/v1",
+      "posted_at": "2026-10-01T18:26:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790879187.497859",
+      "summary_character_count": 125,
+      "summary_japanese": "キラルケージ燃料とC60 anti-fuelにより、Pd2L4型heteroleptic配位ケージ集団を可逆的に非平衡化した。配位子交換と包接の時間差で一時的集合体を生じ、diketopyrrolopyrrole由来8字モチーフのキラル記憶を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Out-of-equilibrium Pd(II)-based cage populations with chiral memory"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
