@@ -31,7 +31,7 @@
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
-    "2026-10-01": 30
+    "2026-10-01": 35
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1528,6 +1528,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Activation of Allylic Primary Alcohols With Biaryl Oxazepine Reagent for Chiral Phosphoric Acid-Catalyzed Asymmetric S N 1 Reaction"
+    },
+    "10.1002/ange.5185321": {
+      "doi": "10.1002/ange.5185321",
+      "posted_at": "2026-10-01T12:26:42+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790857602.517559",
+      "summary_character_count": 128,
+      "summary_japanese": "共配座を制御可能な機械的平面キラル[2]rotaxaneを設計・合成し、固体で|g_lum|=0.003のCPLを示した。酸による消光とLi+による増強で可逆的な多状態CPLを実現し、Li+応答時には|g_lum|=0.018に達して情報暗号化へ応用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanically Planar Chiral [2]Rotaxanes for Multistate Circularly Polarized Luminescence Switching"
     },
     "10.1002/ange.5198135": {
       "doi": "10.1002/ange.5198135",
@@ -3153,6 +3166,19 @@
       "summary_used_fallback": false,
       "title": "Activation of Allylic Primary Alcohols With Biaryl Oxazepine Reagent for Chiral Phosphoric Acid-Catalyzed Asymmetric S N 1 Reaction"
     },
+    "10.1002/anie.5185321": {
+      "doi": "10.1002/anie.5185321",
+      "posted_at": "2026-10-01T12:26:35+00:00",
+      "score": 54,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790857595.483019",
+      "summary_character_count": 117,
+      "summary_japanese": "共配座を制御可能な機械的平面キラル[2]rotaxaneを設計・合成し、固体で|g_lum|=0.003の強いCPLを示した。酸による消光とLi+による|g_lum|=0.018への増強を可逆制御し、多状態CPL情報暗号化に応用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanically Planar Chiral [2]Rotaxanes for Multistate Circularly Polarized Luminescence Switching"
+    },
     "10.1002/anie.5198135": {
       "doi": "10.1002/anie.5198135",
       "posted_at": "2026-07-31T03:01:22+00:00",
@@ -4250,6 +4276,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chromium-Catalyzed Stereodivergent Carbonyl Addition Dictated by Non-Covalent Interactions"
+    },
+    "10.1002/anie.9477381": {
+      "doi": "10.1002/anie.9477381",
+      "posted_at": "2026-10-01T12:27:03+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790857623.890469",
+      "summary_character_count": 122,
+      "summary_japanese": "homoannulene系光スイッチの補助基制御光化学[1,11]-sigmatropic rearrangementにより、単一環状π系の移動方向選択性calderoselectivityを初めて実証し、56:44のジアステレオマーを与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiroptical Switching by Stereoselective Photochemical Sigmatropic Rearrangements: Experimental Realization of Calderoselectivity"
     },
     "10.1002/anie.9590374": {
       "doi": "10.1002/anie.9590374",
@@ -12757,6 +12796,19 @@
       "summary_used_fallback": false,
       "title": "Multivariate approach of metal-chiral covalent organic frameworks for leaching-resistant asymmetric transfer hydrogenation"
     },
+    "10.1038/s41467-026-78073-z": {
+      "doi": "10.1038/s41467-026-78073-z",
+      "posted_at": "2026-10-01T12:27:10+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790857629.944229",
+      "summary_character_count": 114,
+      "summary_japanese": "エナンチオ純粋single-wall carbon nanotubesでtrionの円二色性を実証し、SWCNTの右左らせん性に応じてCD符号が反転し、元のexciton CDと一致することから、キラルtrionの存在を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral trions in enantiopure single-wall carbon nanotubes"
+    },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
       "posted_at": "2026-09-06T20:00:27+00:00",
@@ -17799,6 +17851,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating"
+    },
+    "10.53941/mi.2026.100021": {
+      "doi": "10.53941/mi.2026.100021",
+      "posted_at": "2026-10-01T12:26:53+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790857612.966139",
+      "summary_character_count": 95,
+      "summary_japanese": "NCA由来polypeptidesの立体化学、鎖長、構造、官能基が二次構造を介してキラル集合とchiroptical応答を制御する機構を総説し、液晶やnanotoroids、共集合体を扱う。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "N-Carboxyanhydride-Derived Polypeptides as Programmable Platforms for Hierarchical Chiral Assembly and Chiroptical Materials"
     },
     "10.54050/prj2724828": {
       "doi": "10.54050/prj2724828",
