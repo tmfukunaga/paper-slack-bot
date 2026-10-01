@@ -31,7 +31,7 @@
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
-    "2026-10-01": 20
+    "2026-10-01": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6805,6 +6805,19 @@
       "summary_used_fallback": false,
       "title": "Aromatic polyarenes sign inversion in magnetic circularly polarized luminescence through quantum modelling"
     },
+    "10.1016/j.jpowsour.2026.241607": {
+      "doi": "10.1016/j.jpowsour.2026.241607",
+      "posted_at": "2026-10-01T04:08:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790827699.200179",
+      "summary_character_count": 88,
+      "summary_japanese": "単斜晶V6O13·nH2Oナノベルトを柔軟Znイオン電池正極として合成し、0.1 A g−1で400 mAh g−1、10 A g−1で600サイクル後78%の容量を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Superior flexible Zn-ion battery using vanadium oxide nanobelts cathode enables medium temperature range and ultrafast Zn2+ intercalation"
+    },
     "10.1016/j.matlit.2026.100112": {
       "doi": "10.1016/j.matlit.2026.100112",
       "posted_at": "2026-09-03T16:26:35+00:00",
@@ -7441,6 +7454,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intensification of Transesterification for Biodiesel Production in a Submerged Rotating Packed Bed-Helical Coil Reactor"
+    },
+    "10.1021/acs.iecr.6c03193": {
+      "doi": "10.1021/acs.iecr.6c03193",
+      "posted_at": "2026-10-01T04:07:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790827677.788909",
+      "summary_character_count": 103,
+      "summary_japanese": "racemic naproxenをL-DTTA有機相とHE-β-CD水相で分離し、最適化により単段エナンチオ選択性2.10、ee 31.93%を達成した。計算・MD解析は両選択子の逆向きの認識機構を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dual-Selector Biphasic Recognition Chiral Extraction for Naproxen Enantiomers: Experimental Evaluation and Molecular-Level Mechanism"
     },
     "10.1021/acs.inorgchem.6c01416": {
       "doi": "10.1021/acs.inorgchem.6c01416",
@@ -14187,6 +14213,19 @@
       "summary_used_fallback": false,
       "title": "Two-Parameter Dynamics and Power Flow Characteristics of Helical Gear Systems with Coupled Bending-Torsional-Axial Vibrations"
     },
+    "10.1142/s0219455428500356": {
+      "doi": "10.1142/s0219455428500356",
+      "posted_at": "2026-10-01T04:08:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790827683.103319",
+      "summary_character_count": 115,
+      "summary_japanese": "高速鉄道床の木製支持材代替として、アルミニウム製キラル荷重支持フレームと鋼・ゴム複合共振器からなるメタマテリアルを設計・試作した。有限要素解析と加振・打撃試験で、局所床の振動応答を平均2.61 dB、最大11.94 dB低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design and Vibration Reduction Performance of Chiral Metamaterial Vibration-Damping Structure for High-Speed Train Floors"
+    },
     "10.1142/s0219887826503561": {
       "doi": "10.1142/s0219887826503561",
       "posted_at": "2026-08-12T23:22:25+00:00",
@@ -14550,6 +14589,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Devising a technique for constructing helical architectural objects from curvilinear strips of constant width"
+    },
+    "10.1643/i2025115": {
+      "doi": "10.1643/i2025115",
+      "posted_at": "2026-10-01T04:08:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790827687.673499",
+      "summary_character_count": 110,
+      "summary_japanese": "Costa RicaのXenophallus umbratilisを分布域23地点で採集し、4遺伝クレード間の生活史形質を比較した。長期隔離にもかかわらず形質分化の証拠は限定的で、4クレード中2クレードにのみ認められた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conserved Life-History Phenotypes Among Historically Isolated Clades in the Chiral Livebearer Fish of Lower Central America"
     },
     "10.1680/jgele.24.00170": {
       "doi": "10.1680/jgele.24.00170",
@@ -17240,6 +17292,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Research on Grinding Wheel Dressing and Tooth Flank Topology Control for Generating Grinding of Internal Helical Gears"
+    },
+    "10.3390/quantum8040101": {
+      "doi": "10.3390/quantum8040101",
+      "posted_at": "2026-10-01T04:08:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790827695.296109",
+      "summary_character_count": 109,
+      "summary_japanese": "8実自由度を二つのquaternionic座標で表すLorentz共変DCFを構築し、実Cl(1,3)表現、Sp(1)≅SU(2)対称性、chiralityとDirac・Schrödinger-Pauli極限を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Lorentz-Covariant Quaternionic Double Coupled Field Theory from Real Coupled Fields to SU(2), Chirality, and the Dirac Limit"
     },
     "10.3390/reactions7040053": {
       "doi": "10.3390/reactions7040053",
