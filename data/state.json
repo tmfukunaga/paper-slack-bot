@@ -31,7 +31,8 @@
     "2026-09-29": 3,
     "2026-09-30": 19,
     "2026-10-01": 35,
-    "2026-10-02": 15
+    "2026-10-02": 15,
+    "2026-10-03": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -605,6 +606,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Heterojunctions for Spin-Enhanced Photoreforming of Plastic Waste"
+    },
+    "10.1002/adma.75241": {
+      "doi": "10.1002/adma.75241",
+      "posted_at": "2026-10-02T17:27:39+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790962059.534689",
+      "summary_character_count": 122,
+      "summary_japanese": "溶液プロセスchiral HOIS [R/S/rac-MBA]4Bi2Cl10で、直交するスピン偏極間に一桁超の吸収差を示すCASAを実証した。racemic膜も強い異方性を示し、有機カチオン由来の局所キラル軸配向が支配することを明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Giant Anisotropic Spin Absorption in Chiral Hybrid Semiconductors"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -10794,6 +10808,19 @@
       "summary_used_fallback": false,
       "title": "Solvophobic Effect-DrivenC4-Selective C-HOxidation of Diverse Alkyl Substrates by a Macrocyclic SupramolecularCatalyst"
     },
+    "10.1021/jacs.6c08887": {
+      "doi": "10.1021/jacs.6c08887",
+      "posted_at": "2026-10-02T17:27:30+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790962050.185799",
+      "summary_character_count": 88,
+      "summary_japanese": "金ナノ結晶で、キラリティーと磁場が表面ポテンシャルを協働的に変調する一方向磁気抵抗を示した。30 mTでMRは数十倍に増幅し、逆磁場では消失し、応答方向は鏡像異性体で反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Induced One-Way Magnetoresistance in Gold Nanocrystals"
+    },
     "10.1021/jacs.6c08998": {
       "doi": "10.1021/jacs.6c08998",
       "posted_at": "2026-08-14T09:43:28+00:00",
@@ -11677,6 +11704,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multiplicative Stereocontrol in the Light-Driven Deracemization of Benzylic Nitriles"
+    },
+    "10.1021/jacs.6c16205": {
+      "doi": "10.1021/jacs.6c16205",
+      "posted_at": "2026-10-02T17:27:20+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790962040.112089",
+      "summary_character_count": 311,
+      "summary_japanese": "A PMMA stereocomplex was designed with a helical nanocavity that coencapsulates a chiral dopant, emitter, and photosensitizer. It achieved UC-CPL under 532 nm excitation with a threshold intensity of 106 mW cm−2. Triplet decay was about 40 times faster than oxygen quenching, enabling efficient emission in air.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Helical Nanocavity-Driven Upconversion Circularly Polarized Luminescence with Efficient Triplet Dynamics in Poly(methyl methacrylate) Stereocomplexes"
     },
     "10.1021/jacs.6c16552": {
       "doi": "10.1021/jacs.6c16552",
@@ -13419,6 +13459,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Kubo-Martin-Schwinger-gated imaginary-time reconstruction of time-resolved electronic circular dichroism in organic excitonic aggregates"
+    },
+    "10.1063/5.0344794": {
+      "doi": "10.1063/5.0344794",
+      "posted_at": "2026-10-02T17:27:34+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790962054.595619",
+      "summary_character_count": 106,
+      "summary_japanese": "R/S-Cu4ナノクラスター磁石で、Cu4コアとキラル配位子間の角運動量移動を解析した。電子・フォノン結合依存のスピン偏極はエナンチオマー間で異なり、低温では振動相互作用の減衰によりスピン・光子結合が促進された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enabling coherence of polarized spin and photon in chiral nanoclusters through chirality-mediated magnetization control"
     },
     "10.1063/5.0346143": {
       "doi": "10.1063/5.0346143",
@@ -16733,6 +16786,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Out-of-equilibrium Pd(II)-based cage populations with chiral memory"
+    },
+    "10.26434/chemrxiv.15009737/v1": {
+      "doi": "10.26434/chemrxiv.15009737/v1",
+      "posted_at": "2026-10-02T17:27:25+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790962045.348209",
+      "summary_character_count": 105,
+      "summary_japanese": "(R/S-MBA)2PbI4のee（−100～+100%）依存性を分光測定と第一原理計算で解析し、CDとgabsが多数則に従い非線形に連続変化することを示した。AIMD/TD-DFTは全組成域の応答を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Majority-Rule of Enantiomeric Excess in Chiral Halide Perovskites for continuous tuning of chiroptical properties"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
