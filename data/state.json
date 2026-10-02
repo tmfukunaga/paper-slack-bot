@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-08-31": 9,
     "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
@@ -32,7 +31,7 @@
     "2026-09-29": 3,
     "2026-09-30": 19,
     "2026-10-01": 35,
-    "2026-10-02": 5
+    "2026-10-02": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -541,6 +540,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Engineered Supramolecular Gel Networks: Manipulating Interfacial Chemistry for Ultrastable Zinc Metal Batteries"
+    },
+    "10.1002/adma.75159": {
+      "doi": "10.1002/adma.75159",
+      "posted_at": "2026-10-02T00:30:59+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790901059.146349",
+      "summary_character_count": 87,
+      "summary_japanese": "エピタキシャル単層HfTe5の再構成誘起超格子をSTM/STSで解析し、増強された両端結合によるエッジギャップと、SOC周期変調に由来するミニギャップの鋭いピークを観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Realization of Quantum Spin Hall Insulator Superlattice with Emergent Multigap-Like Helical Edge States"
     },
     "10.1002/adma.75177": {
       "doi": "10.1002/adma.75177",
@@ -3127,6 +3139,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strong Second-Order Nonlinear Optical Activities in Chiral Hybrid Copper(I) Bromide Microplates"
+    },
+    "10.1002/anie.4933664": {
+      "doi": "10.1002/anie.4933664",
+      "posted_at": "2026-10-02T00:31:05+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790901065.078079",
+      "summary_character_count": 113,
+      "summary_japanese": "Cu/Zn oxalate前駆体を再構築してZnO修飾Cu-rich Cu-Zn alloyを作製し、RWGSで550°CにCO選択性99%以上、Cu規格化CO STY 1580 mmol CO gCu−1 h−1を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Induced Restructuring of a Supramolecular Metal-Organic Framework Into a Cu─Zn Alloy Catalyst for Reverse Water-Gas Shift"
     },
     "10.1002/anie.4944487": {
       "doi": "10.1002/anie.4944487",
@@ -7805,6 +7830,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "How Dirhodium Catalysts Build Chiral Sulfur Centers: An Unexpected Mechanistic Blueprint from Kinetics, Spectroscopy, and Computation"
+    },
+    "10.1021/acs.inorgchem.6c03832": {
+      "doi": "10.1021/acs.inorgchem.6c03832",
+      "posted_at": "2026-10-02T00:30:46+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790901046.548929",
+      "summary_character_count": 121,
+      "summary_japanese": "Au coreとCuxS shellから成るキラルAu@CuxSナノ粒子を設計し、GSH、Trp、Asp、Cysのエナンチオマー比に応じたROS生成と光熱変換の変調を利用して、発色基質分解と温度上昇の二重信号で迅速・正確に光学純度を識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dual-Modal Sensing of Enantiomeric Purity Using Chiral Au@Cu x S Nanoparticles"
     },
     "10.1021/acs.inorgchem.6c04038": {
       "doi": "10.1021/acs.inorgchem.6c04038",
@@ -16605,6 +16643,19 @@
       "summary_used_fallback": true,
       "title": "Direct Access to α-Chiral Amino-Oxetanes via Boron-Assisted Aziridine Ring-Opening"
     },
+    "10.26434/chemrxiv.15009675/v1": {
+      "doi": "10.26434/chemrxiv.15009675/v1",
+      "posted_at": "2026-10-02T00:30:50+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790901050.940159",
+      "summary_character_count": 93,
+      "summary_japanese": "Dy(OTf)3によるABB歪み解放とIr触媒不斉アリルアミノ化を連結し、1,4-diazabicyclo[3.1.1]heptanesを50例、最大93%収率・99% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Strain-Release Formal (3 + 3) Cycloaddition of 1-Azabicyclo[1.1.0]butanes to Chiral 1,4-Diazabicyclo[3.1.1]heptanes via Relay Dy/Ir Catalysis"
+    },
     "10.26434/chemrxiv.15009694/v1": {
       "doi": "10.26434/chemrxiv.15009694/v1",
       "posted_at": "2026-10-01T18:26:27+00:00",
@@ -17436,6 +17487,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Superchiral-Field-Enhanced Photoinduced Force Microscopy for Nanoscale Chiral Characterization via Magnetic-Dipole Excitation"
+    },
+    "10.3390/photonics13100931": {
+      "doi": "10.3390/photonics13100931",
+      "posted_at": "2026-10-02T00:30:54+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790901054.906269",
+      "summary_character_count": 120,
+      "summary_japanese": "GMRに基づく平面キラルメタサーフェスで、二誘電体柱の一方の寸法をscale factor sにより変え、相対位置非対称性を固定してQ値を独立制御した。0.7≤s≤1.4でCDを0.9超に保ちつつQ値を4073～28,142へ連続調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design of Chiral Metasurfaces with Independent Control of Quality Factor Based on Guided-Mode Resonance"
     },
     "10.3390/polym18172040": {
       "doi": "10.3390/polym18172040",
