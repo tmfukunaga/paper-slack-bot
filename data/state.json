@@ -31,7 +31,7 @@
     "2026-09-29": 3,
     "2026-09-30": 19,
     "2026-10-01": 35,
-    "2026-10-02": 10
+    "2026-10-02": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -579,6 +579,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Topological Hall Effect Induced by Chiral Spin Textures at the Ferroelectric/Ferromagnetic Interface"
+    },
+    "10.1002/adma.75203": {
+      "doi": "10.1002/adma.75203",
+      "posted_at": "2026-10-02T09:21:02+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790932862.849379",
+      "summary_character_count": 128,
+      "summary_japanese": "異方的Dzyaloshinskii–Moriya相互作用をもつ500-nm幅FeNiPdPナノストライプで、閉じ込めによりCWスキルミオンは円形化、CCWは軸方向に伸長し、磁場下でCCWは非単調応答と表面局在interstitial vortexを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity-Dependent Ellipticity and Interstitial Vortices in Confined Anisotropic Skyrmions"
+    },
+    "10.1002/adma.75215": {
+      "doi": "10.1002/adma.75215",
+      "posted_at": "2026-10-02T09:21:14+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790932874.613539",
+      "summary_character_count": 135,
+      "summary_japanese": "Cysteine修飾MOF-808/TpPa-COFキラルヘテロ接合を構築し、CISS効果で電荷スピンを制御した。PET由来ethylene glycolをglycolic acidへ90.53%選択的に酸化し、H2を1255.74 μmol g−1 h−1で生成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Heterojunctions for Spin-Enhanced Photoreforming of Plastic Waste"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -2983,6 +3009,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pd-Catalyzed Enantioselective Construction of Isoindolo[2,1- a ]indoles"
+    },
+    "10.1002/anie.4053685": {
+      "doi": "10.1002/anie.4053685",
+      "posted_at": "2026-10-02T09:21:19+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790932879.131049",
+      "summary_character_count": 124,
+      "summary_japanese": "TOTA+とbenzophenanthrene誘導体をcation-pi相互作用で面対面共集合化し、電荷輸送を促すFF-SCAAsを構築した。H2O2生成速度6.46 mmol g−1 h−1、変換効率0.84%を達成し、二電子酸素還元を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bioinspired Face-to-Face Supramolecular Co-Assembled Arrays Enabled by Cation-pi Interaction With Programmed Electron Transport for Efficient Hydrogen Peroxide Photosynthesis"
     },
     "10.1002/anie.4069826": {
       "doi": "10.1002/anie.4069826",
@@ -8689,6 +8728,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced Circular Dichroism in 3D Helical-Shaped Chiral Plasmonic Metamaterials Assembled from Colloidal Nanocrystals"
     },
+    "10.1021/acs.nanolett.6c03583": {
+      "doi": "10.1021/acs.nanolett.6c03583",
+      "posted_at": "2026-10-02T09:21:07+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790932867.326289",
+      "summary_character_count": 103,
+      "summary_japanese": "キラルTeナノシートで、キラル軸に垂直な磁場下の非従来型UMRを観測した。効果は結晶の掌性で符号反転し、対称性低下による面外スピン偏極とFermi準位近傍の電子構造が支配することを計算とゲート実験で示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gate-Tunable Unconventional Unidirectional Magnetoresistance in Chiral Tellurium Nanosheets"
+    },
     "10.1021/acs.nanolett.6c03613": {
       "doi": "10.1021/acs.nanolett.6c03613",
       "posted_at": "2026-09-22T16:17:32+00:00",
@@ -14264,6 +14316,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Catalytic asymmetric synthesis of inherently chiral tricyclic diazepinones: Access to (+)-telenzepine"
+    },
+    "10.1126/sciadv.aeh4903": {
+      "doi": "10.1126/sciadv.aeh4903",
+      "posted_at": "2026-10-02T09:21:23+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790932883.506549",
+      "summary_character_count": 126,
+      "summary_japanese": "di-tBu-dicyclohexano-18-crown-6を用いるHNO3中の固液抽出で、255No2+はSr2+と同程度に抽出された。DFT計算は6d軌道の共有結合を伴う複合体の高安定性と、相対論効果によるPb2+類似の軟らかいイオン性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "102 No 2+ as a soft metal ion: Extraction of 255 No using crown ethers"
     },
     "10.1126/science.aeb1157": {
       "doi": "10.1126/science.aeb1157",
