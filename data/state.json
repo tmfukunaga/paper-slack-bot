@@ -32,7 +32,7 @@
     "2026-09-30": 19,
     "2026-10-01": 35,
     "2026-10-02": 15,
-    "2026-10-03": 5
+    "2026-10-03": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -879,6 +879,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly Polarized Delayed Room Temperature Phosphorescence from Chiral Naphthalimide Derivative-Doped Films for High-Level Data Encryption"
+    },
+    "10.1002/adom.71872": {
+      "doi": "10.1002/adom.71872",
+      "posted_at": "2026-10-02T21:49:28+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790977768.888869",
+      "summary_character_count": 126,
+      "summary_japanese": "高反射性CLCNと狭帯域発光perovskiteを積層し、左右円偏光のRGB CPLを作製した。キラル光学フィルタリングにより|g_lum|=1.96～1.99を達成し、パターンhalf-waveplateで偏光の向きを反転して暗号化・復号を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Red-Green-Blue Circularly Polarized Luminescence: Ultra-large Dissymmetry Factors and Handedness Inversion for Information Encryption"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -6709,6 +6722,19 @@
       "summary_used_fallback": false,
       "title": "Pillararene-based framework materials: from design and structural regulation to emerging functions"
     },
+    "10.1016/j.ccr.2026.218608": {
+      "doi": "10.1016/j.ccr.2026.218608",
+      "posted_at": "2026-10-02T21:49:36+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790977776.731339",
+      "summary_character_count": 85,
+      "summary_japanese": "アキラルモノマー由来COFのキラル誘起を、プロペラ・リンカー配座・点キラリティーと階層構造で分類し、誘導戦略と機能の対応、構造証明・機構・スケールアップの課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inducing chirality in covalent organic frameworks from achiral monomers: hierarchical architectures and emergent functions"
+    },
     "10.1016/j.compgeo.2026.108592": {
       "doi": "10.1016/j.compgeo.2026.108592",
       "posted_at": "2026-08-29T22:59:37+00:00",
@@ -11575,6 +11601,19 @@
       "summary_used_fallback": false,
       "title": "Competitive Interfacial Etching and Growth for Multicolor-Tunable Circularly Polarized Luminescent Quantum Dots"
     },
+    "10.1021/jacs.6c13713": {
+      "doi": "10.1021/jacs.6c13713",
+      "posted_at": "2026-10-02T21:49:23+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790977763.891659",
+      "summary_character_count": 110,
+      "summary_japanese": "嵩高いキラルNHC配位子を用いるNi触媒により、不活性アルケンをhydroarylationして、最大98% eeのC-N軸不斉heterobiarylを合成した。アルキンにも適用し、MeONaでアルケン幾何を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantio- and Regioselective Ni-Catalyzed Hydroarylation of Alkenes and Alkynes to Form C-N Axially Chiral Heterobiaryls"
+    },
     "10.1021/jacs.6c13874": {
       "doi": "10.1021/jacs.6c13874",
       "posted_at": "2026-09-30T12:37:07+00:00",
@@ -13433,6 +13472,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Emergent rotation of passive clusters in a chiral active bath"
+    },
+    "10.1063/5.0340183": {
+      "doi": "10.1063/5.0340183",
+      "posted_at": "2026-10-02T21:49:48+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790977788.523249",
+      "summary_character_count": 123,
+      "summary_japanese": "Co9Zn9Mn2の光熱誘起らせん磁性―常磁性転移をポンプ・プローブLTEMで観察し、異方的熱拡散による磁気秩序の方向性回復と、磁気刃状転位近傍での遅延・一時的コントラストぼやけを確認した。後者は複数の緩和経路が確率的に選択されることを示唆する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Indication of stochastic photothermal dynamics around a topological defect in a chiral magnet"
     },
     "10.1063/5.0343778": {
       "doi": "10.1063/5.0343778",
@@ -16708,6 +16760,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Doping of Two-Dimensional Molecular Crystals for Circularly Polarized Photodetection"
+    },
+    "10.26434/chemrxiv.15009369/v2": {
+      "doi": "10.26434/chemrxiv.15009369/v2",
+      "posted_at": "2026-10-02T21:49:43+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790977783.642049",
+      "summary_character_count": 120,
+      "summary_japanese": "CuBr触媒三成分ワンポット反応により、decahydroquinoxaline-based bis(propargylamines)を最大99:1のジアステレオ比で合成し、7aをZnI2で軸不斉allene 8aへ90% eeで変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "CuBr-Catalyzed Enantioselective Synthesis of Decahydroquinoxaline-Based Bis(propargylamines): Application to the Synthesis of an Axially Chiral Allene"
     },
     "10.26434/chemrxiv.15009495/v1": {
       "doi": "10.26434/chemrxiv.15009495/v1",
