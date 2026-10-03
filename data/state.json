@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-01": 6,
     "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
@@ -32,7 +31,7 @@
     "2026-09-30": 19,
     "2026-10-01": 35,
     "2026-10-02": 15,
-    "2026-10-03": 10
+    "2026-10-03": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -567,6 +566,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Boosting Chiral Separation Through Sinuous 3D Nanochannels With Saddle-Splay Curvature in Biomimetic Membranes"
+    },
+    "10.1002/adma.75187": {
+      "doi": "10.1002/adma.75187",
+      "posted_at": "2026-10-03T03:47:45+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790999265.769249",
+      "summary_character_count": 129,
+      "summary_japanese": "de novo azobenzeneとCB[8]から水中自己集合するAzo@CB[8]を開発し、光異性化で連結性と集合体構造を再構成した。イネ白葉枯病・キウイかいよう病の鉢植え試験で、遊離Azoとthiodiazole copperを上回る防除効果を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Light-Controlled Supramolecular Reconfiguration Enables Sustainable Crop Protection"
     },
     "10.1002/adma.75194": {
       "doi": "10.1002/adma.75194",
@@ -3257,6 +3269,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Fast-Charging and Durable Organic Cathodes Enabled by Two-Dimensional Supramolecular Polymerization"
+    },
+    "10.1002/anie.5129627": {
+      "doi": "10.1002/anie.5129627",
+      "posted_at": "2026-10-03T03:47:49+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790999269.770239",
+      "summary_character_count": 130,
+      "summary_japanese": "[Mo2O2Se2]2+ dimerを基盤に、テンプレートの幾何学と酸性度で核数を符号化したn=8–16のSe系Mo chalcoxide環を構築した。NMRで溶液中のhost–guest交換を示し、HER活性はMo8＞Mo12＞Mo10でS類縁体を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Template-Encoded Assembly and Adaptive Function in Selenium-Based Molybdenum Chalcoxide Rings"
     },
     "10.1002/anie.5149199": {
       "doi": "10.1002/anie.5149199",
@@ -9242,6 +9267,19 @@
       "summary_used_fallback": false,
       "title": "Remote Generation of Pyramidalized N-N Axial Chirality via a Copper-Catalyzed Friedel-Crafts Reaction"
     },
+    "10.1021/acs.orglett.6c03558": {
+      "doi": "10.1021/acs.orglett.6c03558",
+      "posted_at": "2026-10-03T03:47:34+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790999254.513309",
+      "summary_character_count": 380,
+      "summary_japanese": "Chiral phosphoric acid catalysis enabled atroposelective desymmetrizing iodination of prochiral phosphine oxides lacking hydrogen-bond-donor substituents. The method afforded 3′-iodinated axially chiral biaryl phosphine oxides in excellent yields and enantioselectivities through synergistic noncovalent interactions, without substrate pre-functionalization or external additives.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Atroposelective Desymmetrizing Iodination via Chiral Phosphoric Acid Catalysis: Synthesis of Axially Chiral Biaryl Phosphine Oxides"
+    },
     "10.1021/acs.orglett.6c03613": {
       "doi": "10.1021/acs.orglett.6c03613",
       "posted_at": "2026-09-17T16:14:16+00:00",
@@ -9293,6 +9331,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Dynamic Clipping Synthesis of Rotaxanes via Siliconate-Forming Reaction from Bis-Catechol, Organotrimethoxysilanes, and Secondary Amines"
+    },
+    "10.1021/acs.orglett.6c03721": {
+      "doi": "10.1021/acs.orglett.6c03721",
+      "posted_at": "2026-10-03T03:47:26+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790999246.645989",
+      "summary_character_count": 105,
+      "summary_japanese": "prochiral 2,6-diamino diaryl ethersとcyclobutane-1,3-dionesの触媒的不斉CAC反応を開発し、軸不斉diaryl ethersを最高99% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Desymmetrizing Carbonyl-Amine Condensation Reaction to Construct Axially Chiral Diaryl Ethers"
     },
     "10.1021/acs.orglett.6c03773": {
       "doi": "10.1021/acs.orglett.6c03773",
@@ -16782,6 +16833,19 @@
       "slack_ts": "1790726682.418549",
       "summary_character_count": 101,
       "summary_japanese": "tetrathiaarylmethylをアルキン架橋した3種のdiradicaloidを合成し、EPR・磁化率測定とDFTで開殻一重項基底状態を示した。y0は0.47–0.76で、Jはy0と逆相関した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Persistent Alkyne-Bridged Bis-Trityl Diradicaloids with an Open-Shell Ground State"
+    },
+    "10.26434/chemrxiv.15009495/v2": {
+      "doi": "10.26434/chemrxiv.15009495/v2",
+      "posted_at": "2026-10-03T03:47:41+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1790999261.165309",
+      "summary_character_count": 112,
+      "summary_japanese": "tetrathiaarylmethyl由来アルキン架橋diradicaloid 3種を合成し、EPR・磁化率測定とDFTで開殻一重項基底状態を示した。類似構造ではJがdiradical character y0と逆相関した。",
       "summary_language": "ja",
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
