@@ -32,7 +32,7 @@
     "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
-    "2026-10-04": 5
+    "2026-10-04": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -13109,6 +13109,19 @@
       "summary_used_fallback": false,
       "title": "Nanohelical Permeable Electronics with Strain-Insensitive Performance"
     },
+    "10.1038/s41467-026-77973-4": {
+      "doi": "10.1038/s41467-026-77973-4",
+      "posted_at": "2026-10-03T20:36:03+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791059763.459329",
+      "summary_character_count": 122,
+      "summary_japanese": "seeded living CDSAで作製した2D poly(ε-caprolactone) plateletの厚さ―融点相関をnano DSCで定量化し、37 °Cで選択的に中空化し、冷却で再構築・自己修復する多層plateletを設計した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermally programmed disassembly and reconstruction of 2D polymer platelets via melting-governed crystallization-driven self-assembly"
+    },
     "10.1038/s41467-026-78015-9": {
       "doi": "10.1038/s41467-026-78015-9",
       "posted_at": "2026-09-24T11:07:09+00:00",
@@ -13147,6 +13160,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral trions in enantiopure single-wall carbon nanotubes"
+    },
+    "10.1038/s41467-026-78080-0": {
+      "doi": "10.1038/s41467-026-78080-0",
+      "posted_at": "2026-10-03T20:35:56+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791059756.170239",
+      "summary_character_count": 135,
+      "summary_japanese": "dioxaborole結合head-to-tail型大環状分子borphyrinを設計し、16-crown-4様の剛直な空孔により、乾燥固液抽出で競合陽イオンに対し高選択的にLi+を捕捉した。ether不溶性結晶塩および混合塩乾燥マトリクスからLi+を選択的に抽出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Head-to-tail assembled borphyrins for solid-state lithium extraction"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
@@ -13316,6 +13342,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Influence of operating parameters on blade wear characteristics of helical vane multiphase pump"
+    },
+    "10.1038/s41598-026-74544-x": {
+      "doi": "10.1038/s41598-026-74544-x",
+      "posted_at": "2026-10-03T20:36:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791059767.325889",
+      "summary_character_count": 102,
+      "summary_japanese": "90°回転・y鏡映した層間結合二層キラルメタサーフェスを設計し、10.0–15.3 GHzでPCR 93%以上、最大非対称透過0.93を達成した。GSTC解析、等価回路、試作測定で偏光変換応答を検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Broadband asymmetric transmission and cross-polarization conversion in an interlayer-coupled bilayer chiral metasurface"
     },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
@@ -13706,6 +13745,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral conformational fluctuations soften the twist elasticity of nematics"
+    },
+    "10.1063/5.0350352": {
+      "doi": "10.1063/5.0350352",
+      "posted_at": "2026-10-03T20:35:51+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791059751.343399",
+      "summary_character_count": 113,
+      "summary_japanese": "第一原理計算により、鏡映対称性を自然に欠くzigzag h-GaN/h-BAsナノリボンで、逆のvalley Chern数と広い重複バンドギャップにより隔離された、有限群速度をもつ伝搬性トポロジカルキラル界面フォノンを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological chiral interface phonons beyond mirror symmetry in h-GaN/h-BAs lateral heterostructures"
     },
     "10.1063/5.0352851": {
       "doi": "10.1063/5.0352851",
@@ -18606,6 +18658,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helical Blade Versus Lag Screw Fixation in Cephalomedullary Nailing of Unstable Trochanteric Fractures: A Narrative Review"
+    },
+    "10.7759/cureus.117309": {
+      "doi": "10.7759/cureus.117309",
+      "posted_at": "2026-10-03T20:36:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791059771.978829",
+      "summary_character_count": 92,
+      "summary_japanese": "転子間大腿骨骨折PFNA固定39例を後方視的閉ループ監査し、整復、TAD、螺旋ブレード位置を評価した。介入後、良好な整復は66.7%、不良整復は0%となったが、群間差は有意でなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Improving Radiological Quality of Proximal Femoral Nail Antirotation Fixation for Intertrochanteric Femoral Fractures: A Closed-Loop Clinical Audit of Reduction Quality, Tip-Apex Distance, and Helical Blade Position"
     },
     "10.9744/ced.28.2.264-275": {
       "doi": "10.9744/ced.28.2.264-275",
