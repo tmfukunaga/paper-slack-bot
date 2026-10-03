@@ -31,7 +31,7 @@
     "2026-09-30": 19,
     "2026-10-01": 35,
     "2026-10-02": 15,
-    "2026-10-03": 15
+    "2026-10-03": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -11418,6 +11418,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-Dependent Electrical Characteristics of MoS2 Nanoscroll Transistors"
     },
+    "10.1021/jacs.6c11726": {
+      "doi": "10.1021/jacs.6c11726",
+      "posted_at": "2026-10-03T11:06:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791025567.934739",
+      "summary_character_count": 86,
+      "summary_japanese": "一般化水素結合ネットワークモデルと自動コンパイラでDNA配列を設計し、150配列中91.3%でキラリティー選択的SWCNT分離に成功、21種の(n,m)種を高純度単離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "De Novo Design of Hydrogen-Bonding Networks for Deterministic Bio-Nano Recognition"
+    },
     "10.1021/jacs.6c11735": {
       "doi": "10.1021/jacs.6c11735",
       "posted_at": "2026-09-27T03:39:21+00:00",
@@ -13485,6 +13498,19 @@
       "summary_used_fallback": false,
       "title": "Theory of quasi-phase matching parametric interaction of optical waves in chiral structures considering pump depletion"
     },
+    "10.1063/5.0326847": {
+      "doi": "10.1063/5.0326847",
+      "posted_at": "2026-10-03T11:06:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791025578.191029",
+      "summary_character_count": 116,
+      "summary_japanese": "古典電磁場を、局所流速をcに制約した放射・方位成分をもつ螺旋流として幾何学的に再解釈し、Coulomb則等を入力にMaxwell関係との整合性を再構成した。核力には1/r3包絡線をYukawa型尾部と比較する現象論的拡張を提示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A helical-flow geometric reinterpretation of classical electromagnetism with a phenomenological short-range nuclear extension"
+    },
     "10.1063/5.0332479": {
       "doi": "10.1063/5.0332479",
       "posted_at": "2026-07-19T12:17:40+00:00",
@@ -13614,6 +13640,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Homogenized spin-charge transport in random heterogeneous chiral molecular media"
+    },
+    "10.1063/5.0349417": {
+      "doi": "10.1063/5.0349417",
+      "posted_at": "2026-10-03T11:06:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791025573.296159",
+      "summary_character_count": 104,
+      "summary_japanese": "左右ねじれ配座を熱的に相互変換するアキラルネマトゲンを平均場理論で解析し、ねじり変形が脱ラセミ化と弾性軟化を誘起すると示した。二次転移ではねじり弾性定数がゼロとなり、前駆効果による特異な温度依存性を予測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral conformational fluctuations soften the twist elasticity of nematics"
     },
     "10.1063/5.0352851": {
       "doi": "10.1063/5.0352851",
@@ -14680,6 +14719,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Exploring Pharmacokinetic Discrepancies of Chiral Drugs with Unidirectional Enantiomeric Conversion"
+    },
+    "10.1152/ajpregu.00321.2025": {
+      "doi": "10.1152/ajpregu.00321.2025",
+      "posted_at": "2026-10-03T11:06:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791025563.858879",
+      "summary_character_count": 99,
+      "summary_japanese": "VCD誘導卵巣不全C57BL/6J雌マウスで、飼料組成が心代謝表現型に及ぼす影響を比較した。5L0D食ではVCDが安静時代謝率低下と脂肪増加を招いたが、2920x食では脂肪量への影響を示さなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diet Composition Modifies Cardiometabolic Phenotype Development in the 4-Vinylcyclohexene Dioxide (VCD) Ovarian Failure Model of Menopause"
     },
     "10.1177/00219983261480358": {
       "doi": "10.1177/00219983261480358",
@@ -17500,6 +17552,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Comparative Strength Analysis of Helical Gears with Different Tooth Profiles Using FEM"
+    },
+    "10.3390/machines14101136": {
+      "doi": "10.3390/machines14101136",
+      "posted_at": "2026-10-03T11:05:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791025558.484179",
+      "summary_character_count": 133,
+      "summary_japanese": "Ti-6Al-4Vのhelical millingを24全因子・48穴で評価し、flood machiningはhole-mean Raを12.94%低下、超音波振動はburr heightを26.3%増加させた。burr heightは個別穴で最も予測可能だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Surface Roughness and Burr Height in Helical Milling of Ti-6Al-4V: Factorial Analysis and Grouped Machine-Learning Validation"
     },
     "10.3390/magnetochemistry12080089": {
       "doi": "10.3390/magnetochemistry12080089",
