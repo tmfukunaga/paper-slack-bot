@@ -31,7 +31,8 @@
     "2026-09-30": 19,
     "2026-10-01": 35,
     "2026-10-02": 15,
-    "2026-10-03": 20
+    "2026-10-03": 20,
+    "2026-10-04": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2009,6 +2010,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A 3D Cycloparaphenylene-Cored Trimeric Electron Acceptor Regulates Acceptor Fibril Morphology for 20.6%-Efficient Ternary Organic Solar Cells"
+    },
+    "10.1002/ange.8313043": {
+      "doi": "10.1002/ange.8313043",
+      "posted_at": "2026-10-03T15:43:17+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791042197.818739",
+      "summary_character_count": 88,
+      "summary_japanese": "発光カチオンとキラルアニオンからなる有機イオン結晶で、可逆的な水和・脱水により二重らせんから逆向きの単一らせんへ構造転換し、黄・赤色発光切替とCPLの完全な符号反転を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water-Mediated Reversible Crystalline Phase Transformation Enables Color Switching and Circularly Polarized Luminescence Handedness Inversion"
     },
     "10.1002/ange.8413238": {
       "doi": "10.1002/ange.8413238",
@@ -4081,6 +4095,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A 3D Cycloparaphenylene-Cored Trimeric Electron Acceptor Regulates Acceptor Fibril Morphology for 20.6%-Efficient Ternary Organic Solar Cells"
+    },
+    "10.1002/anie.8313043": {
+      "doi": "10.1002/anie.8313043",
+      "posted_at": "2026-10-03T15:43:13+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791042193.167969",
+      "summary_character_count": 98,
+      "summary_japanese": "発光カチオンとキラルアニオンからなる有機イオン結晶は、水和・脱水による結晶相転移で黄・赤色発光を切替え、CPLの符号を完全反転した。格子水により超分子らせん構造と発色団配列が可逆的に再編成された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water-Mediated Reversible Crystalline Phase Transformation Enables Color Switching and Circularly Polarized Luminescence Handedness Inversion"
     },
     "10.1002/anie.8360226": {
       "doi": "10.1002/anie.8360226",
@@ -8052,6 +8079,19 @@
       "summary_used_fallback": false,
       "title": "Efficient Simulation of Higher-Order Transitions in Resonance Raman Spectroscopy and Its Chiral Extension"
     },
+    "10.1021/acs.jctc.6c01707": {
+      "doi": "10.1021/acs.jctc.6c01707",
+      "posted_at": "2026-10-03T15:43:22+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791042202.313259",
+      "summary_character_count": 121,
+      "summary_japanese": "GVB-BCCC4を拡張し、複数GVB解、NOON、RLCEで開殻nanographenesの共鳴構造とラジカル性を定量評価した。最大66π軌道の11系でDMRG-CASCIおよび実験的singlet–triplet gapと良好に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Predicting the Radical Character of Open-Shell Nanographenes with the GVB-Based Block-Correlated Coupled Cluster Theory"
+    },
     "10.1021/acs.jnatprod.6c00757": {
       "doi": "10.1021/acs.jnatprod.6c00757",
       "posted_at": "2026-09-19T20:02:22+00:00",
@@ -11001,6 +11041,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamics of (Hetero)aryl Motifs: An Integrative Approach To Study the Conformational Landscape in Macrocycles"
+    },
+    "10.1021/jacs.6c09766": {
+      "doi": "10.1021/jacs.6c09766",
+      "posted_at": "2026-10-03T15:43:26+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791042206.581099",
+      "summary_character_count": 98,
+      "summary_japanese": "Cinchona alkaloid由来organoboron錯体の適応的結晶性スポンジは、ホモキラル空孔への包接で弱相互作用性のエーテル、ラクトン、環状ケトンを識別し、最大76% eeで分割した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Adaptive Cinchona Alkaloid-Derived Organoboron Crystalline Sponges Enable Enantioseparation of Weakly Interacting Molecules"
     },
     "10.1021/jacs.6c09969": {
       "doi": "10.1021/jacs.6c09969",
@@ -14459,6 +14512,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanical cues of an interpenetrating polysaccharide matrix regulate self-assembly of collagen fibers"
+    },
+    "10.1126/sciadv.aef0681": {
+      "doi": "10.1126/sciadv.aef0681",
+      "posted_at": "2026-10-03T15:43:33+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791042213.487409",
+      "summary_character_count": 94,
+      "summary_japanese": "キラルシード層でCISS効果を増強したR-(+)およびS-(-)-MBA系Snペロブスカイトを単層WS 2 と接合し、スピン選択的電荷移動により室温での谷偏極を最大14.9%へ向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Room-temperature spin control in WS 2 enabled by chiral seeded lead-free chiral perovskites"
     },
     "10.1126/sciadv.aef0912": {
       "doi": "10.1126/sciadv.aef0912",
