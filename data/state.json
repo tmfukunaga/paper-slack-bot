@@ -32,7 +32,7 @@
     "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
-    "2026-10-04": 10
+    "2026-10-04": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4369,6 +4369,19 @@
       "summary_used_fallback": false,
       "title": "Light-Gated Chirality in a Supramolecular Cavitand"
     },
+    "10.1002/anie.9277033": {
+      "doi": "10.1002/anie.9277033",
+      "posted_at": "2026-10-03T21:15:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791062138.958329",
+      "summary_character_count": 315,
+      "summary_japanese": "Nickel complexes bearing rigid chiral bis(oxazoline) ligands enabled enantioselective addition of aryl, heteroaryl, and alkenyl halides to aliphatic aldimines, affording chiral amines in up to 99% ee or higher. DFT calculations identified a low-barrier 1,2-insertion of neutral aryl-nickel(I) complexes into imines.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Nickel-Catalyzed Enantioselective Addition of Aromatic, Heteroaryl, and Alkenyl Halides to Aliphatic Aldimines"
+    },
     "10.1002/anie.9310843": {
       "doi": "10.1002/anie.9310843",
       "posted_at": "2026-09-18T10:34:45+00:00",
@@ -6722,6 +6735,19 @@
       "summary_used_fallback": false,
       "title": "Quantitative characterization of triangular leakage flow in a shell-and-tube heat exchanger with Y-shaped helical baffles"
     },
+    "10.1016/j.applthermaleng.2026.133405": {
+      "doi": "10.1016/j.applthermaleng.2026.133405",
+      "posted_at": "2026-10-03T21:15:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791062122.591719",
+      "summary_character_count": 87,
+      "summary_japanese": "塩化物塩中央受熱器用に三流路正逆ヘリカルねじりテープTCCHTTを設計し、最適形状とパネル別配置長を決定した。混合促進により、平滑管比で年間平均熱効率を1.14%向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design and deployment of a novel helical twisted tape for thermal performance enhancement of a next-generation chloride salt central receiver"
+    },
     "10.1016/j.bbamem.2026.184561": {
       "doi": "10.1016/j.bbamem.2026.184561",
       "posted_at": "2026-07-26T15:03:00+00:00",
@@ -7221,6 +7247,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Reversible thermally-switchable chirality of circularly polarized luminescence in perovskite nanocrystals enabled by cholesteric liquid crystals"
+    },
+    "10.1016/j.nexres.2026.102523": {
+      "doi": "10.1016/j.nexres.2026.102523",
+      "posted_at": "2026-10-03T21:15:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791062128.336019",
+      "summary_character_count": 108,
+      "summary_japanese": "磁化ヘリカルチャネルで電子スピン磁気モーメントによるCSR軌道位相安定化を解析し、T-BMT・試験粒子計算でLorentz力に対するStern–Gerlach力比1.9×10⁻⁷を示し、定量的no-go境界を導いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Can Intrinsic Electron Spin Phase-Stabilize Coherent Synchrotron Radiation? A Quantitative No-Go Analysis for Magnetized Helical Channels"
     },
     "10.1016/j.nucengdes.2026.115221": {
       "doi": "10.1016/j.nucengdes.2026.115221",
@@ -17619,6 +17658,19 @@
       "summary_used_fallback": false,
       "title": "Site-Selective Coordination Controls Chirality Transfer in an Atomically Precise Au8 Cluster"
     },
+    "10.3390/jfb17100494": {
+      "doi": "10.3390/jfb17100494",
+      "posted_at": "2026-10-03T21:15:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791062143.401489",
+      "summary_character_count": 107,
+      "summary_japanese": "人工初期う蝕を作製した乳歯エナメル質に、フッ化物、CPP-ACP、4種のハーブ配合小児用歯磨剤を7日間適用しSEM-EDXで比較した。表面形態とP・O割合は群間で異なったが、Ca割合とCa/P比に有意差はなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Comparative In Vitro Evaluation of the Remineralization Potential of Commercial Pediatric Dentifrices Containing Herbal Ingredients (Ginger, Propolis, Aloe Vera, and Rosemary), Fluoride, and CPP-ACP on Primary Enamel: An SEM-EDX Study"
+    },
     "10.3390/jmmp10090322": {
       "doi": "10.3390/jmmp10090322",
       "posted_at": "2026-09-02T02:51:22+00:00",
@@ -18359,6 +18411,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Understanding the Liquid Phase with Molecular Dynamics Simulations, Vibrational Spectroscopy, and Uncertainty Quantification"
+    },
+    "10.51253/pafmj.v76i5.11973": {
+      "doi": "10.51253/pafmj.v76i5.11973",
+      "posted_at": "2026-10-03T21:15:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791062132.148559",
+      "summary_character_count": 100,
+      "summary_japanese": "ISS IIIの多発性骨髄腫100例を対象に、初回治療VDRとVCDを前向きに比較した。4か月以上の治療後、VDRはVCDより有意に良好な治療反応を示し（p<0.001）、有害事象に有意差はなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Response assessment to First Line Chemotherapy with VCD Versus VDR in Diagnosed Cases of Multiple Myeloma at CMH Rawalpindi"
     },
     "10.51878/educator.v5i4.15098": {
       "doi": "10.51878/educator.v5i4.15098",
