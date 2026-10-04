@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-02": 18,
     "2026-09-03": 25,
     "2026-09-04": 30,
     "2026-09-05": 40,
@@ -32,7 +31,7 @@
     "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
-    "2026-10-04": 15
+    "2026-10-04": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -346,6 +345,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Steering Chiral Exciton Emission With All Van Der Waals Nonlocal Phase Gradient Metasurfaces"
+    },
+    "10.1002/adfm.78823": {
+      "doi": "10.1002/adfm.78823",
+      "posted_at": "2026-10-04T04:17:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791087475.297279",
+      "summary_character_count": 131,
+      "summary_japanese": "水素結合PVA中の4-aminoquinolineを空間拘束し、寿命1.43 sの青色RTP繊維を得た。FluoresceinまたはRhodamine BによるFRETと螺旋RGB束化で全色・白色CP-RTPを実現し、|g_lum|=1.5×10^-2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multiscale Confinement and Facile Hierarchical Assembly Enable Full-Color Circularly Polarized Room-Temperature Phosphorescent Fibers"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -2406,6 +2418,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dispersion-Clamped Crystalline Supramolecular Columnar pi-Stacks of Adamantyl-Substituted Pyrenes"
+    },
+    "10.1002/anie.1701592": {
+      "doi": "10.1002/anie.1701592",
+      "posted_at": "2026-10-04T04:17:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791087462.284429",
+      "summary_character_count": 389,
+      "summary_japanese": "A lithiation-borylation-aromatic Pummerer (LiBAP) strategy enables completely stereospecific C5 cross-coupling of thiazoles with boronic esters. A pendant sulfinyl group promotes exocyclic electrophilic activation and Pummerer-type migration, furnishing a versatile C2 sulfide handle. The method was applied to the formal asymmetric synthesis of a bioactive thiazole γ-secretase inhibitor.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Aromatic Pummerer-Promoted Stereospecific Cross-Coupling of Thiazoles With Boronic Esters"
     },
     "10.1002/anie.1729522": {
       "doi": "10.1002/anie.1729522",
@@ -13382,6 +13407,19 @@
       "summary_used_fallback": false,
       "title": "Influence of operating parameters on blade wear characteristics of helical vane multiphase pump"
     },
+    "10.1038/s41598-026-74037-x": {
+      "doi": "10.1038/s41598-026-74037-x",
+      "posted_at": "2026-10-04T04:17:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791087466.853399",
+      "summary_character_count": 107,
+      "summary_japanese": "3Dプリント製Fresnel型誘電体スーパーストレートを小型ヘリカルアンテナ開口から0.15λに配置し、近傍界の放射場再分配で利得を回復した。測定では小型アンテナ比1.2–4.4 dB増益し、高さを36%低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aperture - limited near field superstrates for gain restoration in miniaturized helical antennas"
+    },
     "10.1038/s41598-026-74544-x": {
       "doi": "10.1038/s41598-026-74544-x",
       "posted_at": "2026-10-03T20:36:07+00:00",
@@ -14018,6 +14056,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality Breaking of Majorana Edge Modes Induced by Chemical Potential Shifts"
+    },
+    "10.1088/1572-9494/aeae10": {
+      "doi": "10.1088/1572-9494/aeae10",
+      "posted_at": "2026-10-04T04:17:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791087455.377159",
+      "summary_character_count": 104,
+      "summary_japanese": "反射方程式と融合手法に基づき、ABJMスピン鎖の2nサイト・カイラル可積分行列積状態を構成する一般枠組みを開発した。4サイト状態のBethe状態との厳密な重なり公式を提案し、可積分部分空間を数値的に検討した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Integrable Boundary States of ABJM Spin Chain from Reflection Equations"
     },
     "10.1088/1674-1056/ae8dad": {
       "doi": "10.1088/1674-1056/ae8dad",
@@ -15552,6 +15603,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Flat-band localization and chiral texture formation in magnonic crystals with graded Dzyaloshinskii-Moriya interaction"
+    },
+    "10.2174/0118722121512330260923103526": {
+      "doi": "10.2174/0118722121512330260923103526",
+      "posted_at": "2026-10-04T04:17:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791087471.269779",
+      "summary_character_count": 102,
+      "summary_japanese": "機械接合式プレハブ螺旋アンカー基礎を提案し、ABAQUSの二段階有限要素解析で風荷重下の性能を現場打ち基礎と比較した。引抜き・圧縮時の最大変位は各風向で低減し、局所圧縮応力は2.19 MPaにとどまった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Study on the Mechanical Performance of Prefabricated Helical Anchor Foundations with Mechanical Connections Under Wind Loads"
     },
     "10.2174/0129504023485704260820173552": {
       "doi": "10.2174/0129504023485704260820173552",
