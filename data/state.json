@@ -31,7 +31,7 @@
     "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
-    "2026-10-04": 25
+    "2026-10-04": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -332,6 +332,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Adsorption of Selected Chiral Small Molecules Preserves Stacking-Dependent Polarization at van der Waals Interfaces"
+    },
+    "10.1002/adfm.78714": {
+      "doi": "10.1002/adfm.78714",
+      "posted_at": "2026-10-04T12:22:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791116562.510959",
+      "summary_character_count": 89,
+      "summary_japanese": "Au非磁性セグメントを有する単一Ni円筒ナノワイヤで、電流補助異方性磁気抵抗測定により各Au近傍の渦磁気テクスチャのキラリティーを検出し、伝搬磁場未満で選択的磁化反転を誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Current-Driven Chirality Detection of Magnetic Textures in Cylindrical Nanowires"
     },
     "10.1002/adfm.78719": {
       "doi": "10.1002/adfm.78719",
@@ -904,6 +917,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly Polarized Delayed Room Temperature Phosphorescence from Chiral Naphthalimide Derivative-Doped Films for High-Level Data Encryption"
+    },
+    "10.1002/adom.71846": {
+      "doi": "10.1002/adom.71846",
+      "posted_at": "2026-10-04T12:22:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791116571.876989",
+      "summary_character_count": 95,
+      "summary_japanese": "二段階逆設計により、無損失誘電体メタ表面に線偏光を超キラルhot spotへ変換する高Q・小モード体積構造を設計・試作し、近接場光学キラリティーで理論10^4、実測10^2倍の増強を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inverse-Designed Superchiral Hot Spot in Dielectric Meta-Cavity Toward Ultra-Compact Enantioselective Detection"
     },
     "10.1002/adom.71872": {
       "doi": "10.1002/adom.71872",
@@ -1528,6 +1554,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Fjord-Edged Nanographenes Constructed by Allylic-Migration-Mediated Cyclization"
+    },
+    "10.1002/ange.3686104": {
+      "doi": "10.1002/ange.3686104",
+      "posted_at": "2026-10-04T12:22:38+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791116558.701139",
+      "summary_character_count": 118,
+      "summary_japanese": "アミノ酸由来リンカーの側鎖を多様化したキラルMOFを設計し、L-valineのisopropyl側鎖で一次元細孔のらせん性と柔軟性を調節した。芳香族キラル分子群で、methyl側鎖体を上回るクロマトグラフィーエナンチオ分離性能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sidechain Modulation of Responsive Metal-Organic Framework Pore Chirality for Enhanced Enantioseparation"
     },
     "10.1002/ange.3778438": {
       "doi": "10.1002/ange.3778438",
@@ -5252,6 +5291,19 @@
       "summary_used_fallback": false,
       "title": "A Practical Guide to Mueller Matrix Analysis of Chiroptical Materials"
     },
+    "10.1002/chir.70151": {
+      "doi": "10.1002/chir.70151",
+      "posted_at": "2026-10-04T12:22:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791116567.350459",
+      "summary_character_count": 98,
+      "summary_japanese": "弱いキラル偏りをもつアミノ酸の連続流入と難溶性ヘテロキラル二量体の除去に基づく水系ホモキラル化機構を提案し、eeがほぼ完全に増幅され、優勢エナンチオマーが約1 nM–3 mMに達することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From Weak Chiral Bias to Homochirality: A Recombination-Driven Mechanism in Prebiotic Aqueous Systems"
+    },
     "10.1002/chir.70153": {
       "doi": "10.1002/chir.70153",
       "posted_at": "2026-09-30T12:36:52+00:00",
@@ -6915,6 +6967,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Experimental and CFD investigation of heat-transfer enhancement in eccentric evacuated-tube solar collectors using helical coils and ring turbulator inserts"
+    },
+    "10.1016/j.dyepig.2026.114230": {
+      "doi": "10.1016/j.dyepig.2026.114230",
+      "posted_at": "2026-10-04T12:22:34+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791116554.567099",
+      "summary_character_count": 127,
+      "summary_japanese": "isoquinoline含有PFDとキラル誘起剤から酸塩基応答性CLCを構築し、最大|g_lum| 0.48とTFAによる可逆的CPL変調を達成した。BCz-BN導入系では99% FRETにより緑色CPLを示し、多段階暗号化とキラル論理ゲートを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Acid-base stimuli-responsive chiral liquid crystal assemblies toward multi-level anti-counterfeiting applications"
     },
     "10.1016/j.ejmp.2026.105900": {
       "doi": "10.1016/j.ejmp.2026.105900",
