@@ -31,7 +31,7 @@
     "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
-    "2026-10-04": 20
+    "2026-10-04": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1438,6 +1438,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain-End Host-Guest Interactions"
     },
+    "10.1002/ange.3010868": {
+      "doi": "10.1002/ange.3010868",
+      "posted_at": "2026-10-04T11:47:18+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791114438.639939",
+      "summary_character_count": 123,
+      "summary_japanese": "可逆Au(I)–C σ結合交換とCu(I)–N配位交換を直交的に連結し、金属鋳型動的再編成で窒素ドープ[12]CPP nanohoop 2個からなる[2]catenaneを得た。sp2窒素はゲスト依存的な機械的らせんキラリティーの配位部位となる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metal-Templated Dynamic Reorganization of Macrocyclic Gold Complexes Toward an N -Doped Cycloparaphenylene Catenane"
+    },
     "10.1002/ange.3092581": {
       "doi": "10.1002/ange.3092581",
       "posted_at": "2026-09-20T10:37:30+00:00",
@@ -2840,6 +2853,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanically Coupled Supramolecular Scissors Govern Photomechanical and Elastic Responses in Molecular Crystals"
+    },
+    "10.1002/anie.3010868": {
+      "doi": "10.1002/anie.3010868",
+      "posted_at": "2026-10-04T11:47:13+00:00",
+      "score": 57,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791114433.575799",
+      "summary_character_count": 133,
+      "summary_japanese": "可逆Au(I)–C σ結合交換とCu(I)–N配位交換を連結した金属鋳型動的再編成により、N-doped [12]CPP nanohoop 2個から成る[2]catenaneを還元的脱離で合成した。sp2窒素はゲスト依存的な機械的ヘリカルキラリティの制御点となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metal-Templated Dynamic Reorganization of Macrocyclic Gold Complexes Toward an N -Doped Cycloparaphenylene Catenane"
     },
     "10.1002/anie.3092581": {
       "doi": "10.1002/anie.3092581",
@@ -6864,6 +6890,19 @@
       "summary_used_fallback": false,
       "title": "An analysis of the manufacturing and mechanical testing of a 5 kW helical vertical-axis wind turbine blade"
     },
+    "10.1016/j.compstruct.2026.120934": {
+      "doi": "10.1016/j.compstruct.2026.120934",
+      "posted_at": "2026-10-04T11:47:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791114451.210729",
+      "summary_character_count": 115,
+      "summary_japanese": "Torynorrhina flammeaに着想を得たGyroidとらせん柱のBELを設計し、圧縮試験、DIC、損傷解析、多目的最適化で評価した。最適H-BELはGyroid-IP比でSEAを113%高め、安定した逐次圧壊を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design and characterization of a novel beetle elytra inspired lattice structure: The effect of Gyroid topology and helical pillars"
+    },
     "10.1016/j.csite.2026.108363": {
       "doi": "10.1016/j.csite.2026.108363",
       "posted_at": "2026-07-21T21:03:41+00:00",
@@ -7090,6 +7129,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Abrasive slurry jet focusing using a shadow mask for the micromachining of helical channels"
+    },
+    "10.1016/j.jorganchem.2026.124303": {
+      "doi": "10.1016/j.jorganchem.2026.124303",
+      "posted_at": "2026-10-04T11:47:35+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791114455.319299",
+      "summary_character_count": 107,
+      "summary_japanese": "キラルbinaphthylの異なる位置にosmapentalyneを導入し、3組の二核錯体を合成した。CD解析でキラリティー移動を確認し、6,6′位をC=C結合した化合物は強い円二色性吸収と良好な光熱変換を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and properties of chiral binaphthyl bridged binuclear osmapentalynes"
     },
     "10.1016/j.jphotochem.2026.117626": {
       "doi": "10.1016/j.jphotochem.2026.117626",
@@ -13237,6 +13289,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Head-to-tail assembled borphyrins for solid-state lithium extraction"
+    },
+    "10.1038/s41467-026-78226-0": {
+      "doi": "10.1038/s41467-026-78226-0",
+      "posted_at": "2026-10-04T11:47:25+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791114445.104399",
+      "summary_character_count": 384,
+      "summary_japanese": "Palladium-catalyzed asymmetric monocarbonylation of rigid prochiral benzo[7]annulene-based gem-dibromoalkenes afforded inherently chiral tetrasubstituted products in up to 97% yield and 98:2 er. Simple acid additives switched the reaction to double debrominative carbonylation, producing inherently chiral trisubstituted vinyl carboxylic acids with good chemo- and enantioselectivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective palladium-catalyzed carbonylation of gem-dibromoalkenes to chiral benzo[7]annulenes"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
