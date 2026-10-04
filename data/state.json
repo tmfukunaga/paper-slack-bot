@@ -31,7 +31,8 @@
     "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
-    "2026-10-04": 30
+    "2026-10-04": 30,
+    "2026-10-05": 2
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3763,6 +3764,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Regioisomer-Dependent Supramolecular Assembly of Coumarin Derivatives for Wavelength-Dependent Blue and Near-Infrared Circularly Polarized Luminescence"
+    },
+    "10.1002/anie.6888467": {
+      "doi": "10.1002/anie.6888467",
+      "posted_at": "2026-10-04T16:26:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791131164.102339",
+      "summary_character_count": 116,
+      "summary_japanese": "Pd(0)触媒と点・軸不斉単座ホスフィンにより、thiazole N-oxidesのC4位を直接エナンチオ選択的にアリール化し、幅広い高エナンチオ選択的heterobiarylsを合成した。N-oxide還元もラセミ化なく進行した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Atroposelective Pd(0)-Catalyzed Direct Intermolecular C─H Arylation of Thiazole N -Oxides Provides Access to Heterobiaryls"
     },
     "10.1002/anie.6908076": {
       "doi": "10.1002/anie.6908076",
@@ -18761,6 +18775,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Control of helix orientation in chiral magnets via lateral confinement"
+    },
+    "10.54691/h7tvsm76": {
+      "doi": "10.54691/h7tvsm76",
+      "posted_at": "2026-10-04T16:26:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791131168.700419",
+      "summary_character_count": 109,
+      "summary_japanese": "送電線用helical anchor foundationsについて、施工手順と試験仕様に基づく本体施工・試験費の積算基準を提案し、新疆の750 kV送電線事例で従来基礎との費用を比較して、採用の経済的閾値を算定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Billing Principles and Economic Analysis of Helical Anchor Foundations for Transmission Lines"
     },
     "10.54923/researchreview.v5i2.423": {
       "doi": "10.54923/researchreview.v5i2.423",
