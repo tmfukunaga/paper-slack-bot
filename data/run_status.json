@@ -1,45 +1,19 @@
 {
-  "latest_slot": "2026-10-05T21:00:00+09:00",
+  "latest_slot": "2026-10-06T06:00:00+09:00",
   "latest_status": {
-    "eligible_count": 5,
-    "finished_at": "2026-10-05T13:36:19+00:00",
-    "posted_count": 5,
-    "reason": "posted",
+    "eligible_count": 0,
+    "finished_at": "2026-10-05T21:49:22+00:00",
+    "posted_count": 0,
+    "reason": "no_eligible_papers",
     "return_code": 0,
     "run_cap": 5,
-    "scheduled_slot": "2026-10-05T21:00:00+09:00",
-    "selected_count": 5,
-    "started_at": "2026-10-05T13:35:03+00:00",
+    "scheduled_slot": "2026-10-06T06:00:00+09:00",
+    "selected_count": 0,
+    "started_at": "2026-10-05T21:48:45+00:00",
     "status": "success",
     "summary_failure_count": 0
   },
   "slots": {
-    "2026-09-22T03:00:00+09:00": {
-      "eligible_count": 6,
-      "finished_at": "2026-09-21T18:10:28+00:00",
-      "posted_count": 5,
-      "reason": "posted",
-      "return_code": 0,
-      "run_cap": 5,
-      "scheduled_slot": "2026-09-22T03:00:00+09:00",
-      "selected_count": 5,
-      "started_at": "2026-09-21T18:09:18+00:00",
-      "status": "success",
-      "summary_failure_count": 0
-    },
-    "2026-09-22T06:00:00+09:00": {
-      "eligible_count": 1,
-      "finished_at": "2026-09-21T23:49:29+00:00",
-      "posted_count": 1,
-      "reason": "posted",
-      "return_code": 0,
-      "run_cap": 5,
-      "scheduled_slot": "2026-09-22T06:00:00+09:00",
-      "selected_count": 1,
-      "started_at": "2026-09-21T23:48:50+00:00",
-      "status": "success",
-      "summary_failure_count": 0
-    },
     "2026-09-22T09:00:00+09:00": {
       "eligible_count": 0,
       "finished_at": "2026-09-22T00:08:16+00:00",
@@ -908,6 +882,19 @@
       "scheduled_slot": "2026-10-05T21:00:00+09:00",
       "selected_count": 5,
       "started_at": "2026-10-05T13:35:03+00:00",
+      "status": "success",
+      "summary_failure_count": 0
+    },
+    "2026-10-06T06:00:00+09:00": {
+      "eligible_count": 0,
+      "finished_at": "2026-10-05T21:49:22+00:00",
+      "posted_count": 0,
+      "reason": "no_eligible_papers",
+      "return_code": 0,
+      "run_cap": 5,
+      "scheduled_slot": "2026-10-06T06:00:00+09:00",
+      "selected_count": 0,
+      "started_at": "2026-10-05T21:48:45+00:00",
       "status": "success",
       "summary_failure_count": 0
     }
