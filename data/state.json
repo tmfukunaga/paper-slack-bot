@@ -30,7 +30,8 @@
     "2026-10-02": 15,
     "2026-10-03": 20,
     "2026-10-04": 30,
-    "2026-10-05": 7
+    "2026-10-05": 7,
+    "2026-10-06": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2222,6 +2223,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Light-Gated Chirality in a Supramolecular Cavitand"
+    },
+    "10.1002/ange.9255683": {
+      "doi": "10.1002/ange.9255683",
+      "posted_at": "2026-10-06T12:45:32+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791290732.897449",
+      "summary_character_count": 124,
+      "summary_japanese": "キラルアルキル鎖を導入したTPA[3]は1Dナノファイバーへ自己集合し、g_lum=1.2×10^-3、量子収率48%の青色CPLを示した。酸塩基で可逆的にCPLを切替え、光誘起ラジカルカチオンはキラル充填を乱してCD/CPLを不可逆に消失させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Polymerization of Triphenylamine[3]arenes for Switchable and Stimuli-Responsive Chiroptical Properties"
     },
     "10.1002/ange.9296585": {
       "doi": "10.1002/ange.9296585",
@@ -4483,6 +4497,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Light-Gated Chirality in a Supramolecular Cavitand"
+    },
+    "10.1002/anie.9255683": {
+      "doi": "10.1002/anie.9255683",
+      "posted_at": "2026-10-06T12:45:12+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791290712.767629",
+      "summary_character_count": 122,
+      "summary_japanese": "キラルアルキル鎖を有するTPA[3]sは1Dナノファイバーへ自己集合し、g_lum=1.2×10−3、量子収率48%の青色CPLを示した。酸塩基で可逆的にCPLを切替え、光誘起ラジカルカチオンは集合体を解体してCD・CPLを不可逆に消失させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Polymerization of Triphenylamine[3]arenes for Switchable and Stimuli-Responsive Chiroptical Properties"
     },
     "10.1002/anie.9277033": {
       "doi": "10.1002/anie.9277033",
@@ -10046,6 +10073,19 @@
       "summary_used_fallback": false,
       "title": "Modulating Chiral Molecular Configuration of Antioxidants for CsPb0.4Sn0.6I3 Perovskite Photodetectors"
     },
+    "10.1021/acsanm.6c03878": {
+      "doi": "10.1021/acsanm.6c03878",
+      "posted_at": "2026-10-06T12:45:23+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791290723.657919",
+      "summary_character_count": 97,
+      "summary_japanese": "逐次再成長と熱時効で形状を制御したchiral gold nanorodsを自己整合的に側方集合させ、適度なアスペクト比と表面ねじれが粒子間隙を縮小し、g-factorを0.22まで増大させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Morphology-Directed Assembly and Chiroptical Properties of Chiral Gold Nanorods"
+    },
     "10.1021/acsaom.6c00406": {
       "doi": "10.1021/acsaom.6c00406",
       "posted_at": "2026-09-17T16:14:22+00:00",
@@ -13354,6 +13394,19 @@
       "summary_used_fallback": false,
       "title": "Nanohelical Permeable Electronics with Strain-Insensitive Performance"
     },
+    "10.1038/s41467-026-77947-6": {
+      "doi": "10.1038/s41467-026-77947-6",
+      "posted_at": "2026-10-06T12:45:28+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791290728.021209",
+      "summary_character_count": 88,
+      "summary_japanese": "単一分子ナノギャップの量子トンネル電流でL/Dアミノ酸を光学・キラル認識分子なしに識別・定量し、隕石およびアタカマ砂漠抽出物の11種アミノ酸組成でLC-MSの主要特徴を捉えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral discrimination of amino acids in meteorite and desert soil extracts via single-molecule nanogap conductance"
+    },
     "10.1038/s41467-026-77973-4": {
       "doi": "10.1038/s41467-026-77973-4",
       "posted_at": "2026-10-03T20:36:03+00:00",
@@ -15966,6 +16019,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Guest Protonation Gates Hydrogen-Bond-Driven Selectivity in Native Cyclodextrin Molecular Recognition"
+    },
+    "10.26434/chemrxiv.15002183/v3": {
+      "doi": "10.26434/chemrxiv.15002183/v3",
+      "posted_at": "2026-10-06T12:45:18+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791290718.751889",
+      "summary_character_count": 125,
+      "summary_japanese": "水中PDI超分子ポリマーで、sodium dithionite還元と酸素酸化による解体・再集合サイクルを用い、非平衡下のキラル非対称性増幅を実証した。MR増幅と、SaSでsergeant分率依存の二重らせん反転を観測し、相モデルでCD応答を説明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemically fueled amplification of supramolecular asymmetry with double chiroptical inversion"
     },
     "10.26434/chemrxiv.15002272/v3": {
       "doi": "10.26434/chemrxiv.15002272/v3",
