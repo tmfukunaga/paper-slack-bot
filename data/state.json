@@ -31,7 +31,8 @@
     "2026-10-03": 20,
     "2026-10-04": 30,
     "2026-10-05": 7,
-    "2026-10-06": 5
+    "2026-10-06": 5,
+    "2026-10-07": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8130,6 +8131,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Iridium(III)Microcrystals with Mechano-TunableCircularly Polarized Luminescence"
     },
+    "10.1021/acs.inorgchem.6c03091": {
+      "doi": "10.1021/acs.inorgchem.6c03091",
+      "posted_at": "2026-10-06T15:58:16+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791302296.766379",
+      "summary_character_count": 102,
+      "summary_japanese": "炭酸イオンまたはキラル磁性[M(C2O4)3]n−を内包するエナンチオ純粋CoII5L6ケージを合成し、内包錯体によりキロプチカル特性が変化し、金属種に応じて反強磁性から強磁性まで磁気相互作用を調節した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Chiral-at-Metal Magnetic Complex Inside an Enantiopure Magnetic Cage Framework"
+    },
     "10.1021/acs.inorgchem.6c03201": {
       "doi": "10.1021/acs.inorgchem.6c03201",
       "posted_at": "2026-09-30T20:02:25+00:00",
@@ -12146,6 +12160,19 @@
       "summary_used_fallback": false,
       "title": "Multiplicative Stereocontrol in the Light-Driven Deracemization of Benzylic Nitriles"
     },
+    "10.1021/jacs.6c16103": {
+      "doi": "10.1021/jacs.6c16103",
+      "posted_at": "2026-10-06T15:58:21+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791302301.399439",
+      "summary_character_count": 100,
+      "summary_japanese": "キラルTi(BOX)-LMCT触媒により、native alcoholのC-C結合β開裂で生じるラジカルを電子不足アルケンへ不斉共役付加し、四級炭素中心を含む生成物を高い化学・エナンチオ選択性で得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Ti(BOX)-LMCT Catalysis Integrating Alcohol C-C Bond Cleavage with Enantioselective Radical Conjugate Addition"
+    },
     "10.1021/jacs.6c16205": {
       "doi": "10.1021/jacs.6c16205",
       "posted_at": "2026-10-02T17:27:20+00:00",
@@ -13393,6 +13420,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nanohelical Permeable Electronics with Strain-Insensitive Performance"
+    },
+    "10.1038/s41467-026-77915-0": {
+      "doi": "10.1038/s41467-026-77915-0",
+      "posted_at": "2026-10-06T15:58:33+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791302313.877599",
+      "summary_character_count": 116,
+      "summary_japanese": "キラル鉛ハライド結晶R/S-(AP)PbI3・H2OおよびR/S-(AP)PbI3は、AP+の屈曲・回転と剛直な[PbI3]−鎖からなる剛柔構造により弾性曲げを示し、不織布型デバイスは圧電セラミックスより高い水中超音波感度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Elastically bendable chiral metal halide crystals"
     },
     "10.1038/s41467-026-77947-6": {
       "doi": "10.1038/s41467-026-77947-6",
@@ -17462,6 +17502,19 @@
       "summary_used_fallback": false,
       "title": "Majority-Rule of Enantiomeric Excess in Chiral Halide Perovskites for continuous tuning of chiroptical properties"
     },
+    "10.26434/chemrxiv.15009854/v1": {
+      "doi": "10.26434/chemrxiv.15009854/v1",
+      "posted_at": "2026-10-06T15:58:10+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791302290.754419",
+      "summary_character_count": 101,
+      "summary_japanese": "JP-10用グルタミン酸由来ゲル化剤4種を立体化学・立体障害・鎖長で設計し、L体C18のG4は718.50 Paの降伏応力と約40%の臨界ひずみを示し、0.6 MPaでSMD 5.38 μmを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereochemical Control of Static Strength and Dynamic Fracture for Efficient Atomization of Supramolecular Gel Propellants"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -18657,6 +18710,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ion-scale Waves Regulated by Plasma Beta and Cross Helicity: Observational Evidence for the Helicity Barrier in Imbalanced Solar Wind Turbulence"
+    },
+    "10.3847/2041-8213/aeaa2e": {
+      "doi": "10.3847/2041-8213/aeaa2e",
+      "posted_at": "2026-10-06T15:58:29+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791302309.284289",
+      "summary_character_count": 111,
+      "summary_japanese": "出現フラックスロープ内で凝縮した太陽プロミネンスの3次元MHD計算により、らせん磁場と磁気Rayleigh-Taylor交換の結合がbarbのchiralityを生むことを示した。左手系ロープでは右向きbarbが持続した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magnetic Rayleigh-Taylor Interchange Shapes Chiral Barbs in Solar Prominences"
     },
     "10.4028/p-8rklk7": {
       "doi": "10.4028/p-8rklk7",
