@@ -32,7 +32,7 @@
     "2026-10-04": 30,
     "2026-10-05": 7,
     "2026-10-06": 5,
-    "2026-10-07": 10
+    "2026-10-07": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -658,6 +658,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Giant Anisotropic Spin Absorption in Chiral Hybrid Semiconductors"
+    },
+    "10.1002/adma.75286": {
+      "doi": "10.1002/adma.75286",
+      "posted_at": "2026-10-06T22:40:10+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791326410.671089",
+      "summary_character_count": 111,
+      "summary_japanese": "水素結合による動的閉じ込め界面でPCL-OHをアスペクト比4.80のナノロッド結晶へ配向自己集合させたPTA-PCLを設計し、接着エネルギー1609.31 J m−2、切替比14.5、高靱性3.35 MJ m−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Elastomer Based Switchable Adhesives Regulated by Soft Confinement Induced Nano-Rod Crystals"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -3530,6 +3543,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Molecular Recognition by Halogen Bonding With Atomic Precision in a Covalent Organic Cage"
+    },
+    "10.1002/anie.5707650": {
+      "doi": "10.1002/anie.5707650",
+      "posted_at": "2026-10-06T22:40:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791326419.362169",
+      "summary_character_count": 95,
+      "summary_japanese": "柔軟なスペーサーで強双極子性メソゲン2個を連結したダイマー同族列で、偶数原子数スペーサーは強い極性秩序をもつN F相、奇数では短ピッチheliconical配向構造をもつN TB相を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mirror versus Inversion Symmetry Breaking in Mesogenic Dimers: N TB versus N F Phase"
     },
     "10.1002/anie.5791239": {
       "doi": "10.1002/anie.5791239",
@@ -7300,6 +7326,19 @@
       "summary_used_fallback": false,
       "title": "Abrasive slurry jet focusing using a shadow mask for the micromachining of helical channels"
     },
+    "10.1016/j.jmapro.2026.09.088": {
+      "doi": "10.1016/j.jmapro.2026.09.088",
+      "posted_at": "2026-10-06T22:40:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791326425.673289",
+      "summary_character_count": 384,
+      "summary_japanese": "Kinematic and material-removal models with experiments identified the kinematic boundary of longitudinal-torsional ultrasonic-assisted helical milling of near-β TB6 titanium alloy. Within an appropriate window, LTUHM produced short curled chips, reduced cutting forces, suppressed roughness and entry-exit diameter differences under high load, and lowered GND density in the β matrix.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Kinematic boundaries govern load redistribution and surface quality in longitudinal-torsional ultrasonic-assisted helical milling of near-β TB6 titanium alloy"
+    },
     "10.1016/j.jorganchem.2026.124303": {
       "doi": "10.1016/j.jorganchem.2026.124303",
       "posted_at": "2026-10-04T11:47:35+00:00",
@@ -9709,6 +9748,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Design of Small Circularly Polarized Luminescence-Active Planar-Chiral Azaboroles"
+    },
+    "10.1021/acs.orglett.6c03823": {
+      "doi": "10.1021/acs.orglett.6c03823",
+      "posted_at": "2026-10-06T22:40:06+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791326406.668319",
+      "summary_character_count": 338,
+      "summary_japanese": "A Pd(OAc)2/Josiphos L7-catalyzed enantioselective C-C cleavage/C-C coupling of cis-3-(2-bromoaniline)-tethered cyclobutanols afforded chiral 3-substituted tetrahydroquinolines bearing C3-ketone pendants in good to excellent yields and enantioselectivities. Control experiments showed that only cis substrates participated in the reaction.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Synthesis of Chiral 3-Substituted Tetrahydroquinolines via a Pd-Catalyzed C-C Cleavage/C-C Coupling Sequence"
     },
     "10.1021/acs.orglett.6c03878": {
       "doi": "10.1021/acs.orglett.6c03878",
@@ -18723,6 +18775,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "A New CAD Method for Creating Disc Tools Machining Complex Helical Surfaces, Avoiding Undercut and Second Envelope"
+    },
+    "10.36897/jme/225926": {
+      "doi": "10.36897/jme/225926",
+      "posted_at": "2026-10-06T22:40:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791326415.472339",
+      "summary_character_count": 104,
+      "summary_japanese": "NSGA-IIにより二段はすば歯車減速機の質量・体積最小化と伝達効率最大化を同時最適化し、総減速比5～35でPareto解を評価した。減速比増加は全体のかさを低減する一方、必要体積を増加させ効率を低下させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Objective Optimization of Two-Stage Helical Gearboxes using Non-Dominated Sorting Generic Algorithm II (NSGA-II): Minimizing Mass and Volume while Maximizing Efficiency."
     },
     "10.37394/232011.2027.22.1": {
       "doi": "10.37394/232011.2027.22.1",
