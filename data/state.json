@@ -32,7 +32,7 @@
     "2026-10-04": 30,
     "2026-10-05": 7,
     "2026-10-06": 5,
-    "2026-10-07": 5
+    "2026-10-07": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2406,6 +2406,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Jahn-Teller Effect Dominates the Left-Hand Rule: Magneto-Optics in Metal Halide Lattice"
+    },
+    "10.1002/anie.1388948": {
+      "doi": "10.1002/anie.1388948",
+      "posted_at": "2026-10-06T19:59:23+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791316763.062289",
+      "summary_character_count": 105,
+      "summary_japanese": "PyOx、嵩高いphosphate、Cu(I)からなる光駆動触媒で、3種のラジカル生成経路を利用するsulfenamidesの不斉S-benzylationを行い、エナンチオ濃縮sulfiliminesを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Phosphate-Modulated Asymmetric Copper Catalysis for Photochemical Enantioselective S -Benzylation of Sulfenamides"
     },
     "10.1002/anie.1508190": {
       "doi": "10.1002/anie.1508190",
@@ -5148,6 +5161,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Benzylic Oxidation of Pillar[5]Arene: From Homo- to Cross-Conjugated Macrocyclic Systems"
+    },
+    "10.1002/chem.71764": {
+      "doi": "10.1002/chem.71764",
+      "posted_at": "2026-10-06T19:59:30+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791316770.852049",
+      "summary_character_count": 124,
+      "summary_japanese": "Click reactionで初のhemiindigo-based glycosideとglycomacrocycleを合成した。環状体は拘束構造によりZ⇄E光異性化の量子収率が2倍となり、ねじれたE体はon-offキラル光学スイッチングを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Characterization of Hemiindigo-Based Glycoside and Glycomacrocycle"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -17514,6 +17540,45 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stereochemical Control of Static Strength and Dynamic Fracture for Efficient Atomization of Supramolecular Gel Propellants"
+    },
+    "10.26434/chemrxiv.15009886/v1": {
+      "doi": "10.26434/chemrxiv.15009886/v1",
+      "posted_at": "2026-10-06T19:59:06+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791316746.095909",
+      "summary_character_count": 121,
+      "summary_japanese": "エナンチオ富化vinyl epoxideを基質に、2段階の有機銅媒介SN2′置換をone potで行う脱酸素的dialkylationを開発し、隣接する2つの三級全炭素不斉中心をもつchiral alkaneを高い位置・立体選択性で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Deoxygenative Dialkylation of Vinylic Epoxides to Chiral Alkanes by Double SN2’"
+    },
+    "10.26434/chemrxiv.15009889/v1": {
+      "doi": "10.26434/chemrxiv.15009889/v1",
+      "posted_at": "2026-10-06T19:59:00+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791316740.779999",
+      "summary_character_count": 132,
+      "summary_japanese": "Ketjenblack担持14員環Cu錯体Cu-14MR/KBは、Cu 1.34 μmol cm−2でNO3−を電解還元し、NH3選択性94.8%を示した。−150 mA cm−2でも収率604 μmol cm−2 h−1、Faraday効率86.4%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fourteen-Membered Macrocyclic Copper Complex for Highly Selective Electrochemical Nitrate Reduction to Ammonia"
+    },
+    "10.26434/chemrxiv.15009927/v1": {
+      "doi": "10.26434/chemrxiv.15009927/v1",
+      "posted_at": "2026-10-06T19:59:15+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791316755.191689",
+      "summary_character_count": 122,
+      "summary_japanese": "bis-etherとboraneを軸不斉binaphthylに連結したBINEBsを開発し、芳香族ketoneの不斉水素化と環状α-haloketoneの金属フリー速度論的分割を達成した。後者ではs>200でcis-halohydrinを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Intramolecular Ether-Borane FLPs for Asymmetric Ketone Hydrogenation"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
