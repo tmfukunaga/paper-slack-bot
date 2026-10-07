@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-05": 40,
     "2026-09-06": 22,
     "2026-09-07": 7,
     "2026-09-08": 10,
@@ -32,7 +31,7 @@
     "2026-10-04": 30,
     "2026-10-05": 7,
     "2026-10-06": 5,
-    "2026-10-07": 15
+    "2026-10-07": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7586,6 +7585,19 @@
       "summary_used_fallback": false,
       "title": "Dynamic behavior of irregular particles and transition mechanism of erosive wear in a helical mixed-flow deep-sea mining pump"
     },
+    "10.1016/j.oceaneng.2026.128413": {
+      "doi": "10.1016/j.oceaneng.2026.128413",
+      "posted_at": "2026-10-07T00:22:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791332523.183129",
+      "summary_character_count": 120,
+      "summary_japanese": "砂中の大径単翼helical anchorを3次元有限要素解析し、径比λが斜め引抜き機構を側方抵抗優勢から軸端支持優勢へ移行させることを示した。λ=1.2–1.5は30°–60°荷重下で深部地盤抵抗を動員し、過大なマンドレルたわみを抑えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Inclined pullout performance of helical anchors for floating offshore wind turbines: A geometry-driven mechanism shift"
+    },
     "10.1016/j.snb.2026.140942": {
       "doi": "10.1016/j.snb.2026.140942",
       "posted_at": "2026-09-24T11:07:24+00:00",
@@ -8806,6 +8818,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Twisted Raman: Orbital Angular Momentum Control of Raman Optical Activity"
+    },
+    "10.1021/acs.jpclett.6c02328": {
+      "doi": "10.1021/acs.jpclett.6c02328",
+      "posted_at": "2026-10-07T00:21:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791332518.311279",
+      "summary_character_count": 312,
+      "summary_japanese": "Using macroscopic quantum electrodynamics and Marcus electron-transfer theory, the study predicts that weak coupling between a silicon nanohelix and a helicene-based CT dye yields radiative charge-transfer discrimination S of −2.0 × 10−2. Even for isotropically oriented molecules, the averaged S is below −10−3.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Inducing Enantioselectivity in Radiative Charge-Transfer Rates through Chiral Quantum Electrodynamic Fluctuations"
     },
     "10.1021/acs.jpclett.6c02333": {
       "doi": "10.1021/acs.jpclett.6c02333",
@@ -10542,6 +10567,19 @@
       "summary_used_fallback": false,
       "title": "Highly Emissive Chiral Copper(I) Iodide Hybrid Materials for X-ray Imaging Scintillators"
     },
+    "10.1021/acsmedchemlett.6c00453": {
+      "doi": "10.1021/acsmedchemlett.6c00453",
+      "posted_at": "2026-10-07T00:21:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791332511.809549",
+      "summary_character_count": 117,
+      "summary_japanese": "キラルimidazoquinoline誘導体ライブラリーを合成し、HEK-Blue hTLR7/8レポーター細胞で評価した。SAR解析により、hTLR7/8二重アゴニスト40とアンタゴニスト31を同定し、活性の立体化学依存性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Investigation of Chiral Imidazoquinoline Based Heterocyclic Small Molecules on TLR7/8 Modulatory Activity"
+    },
     "10.1021/acsnano.6c05585": {
       "doi": "10.1021/acsnano.6c05585",
       "posted_at": "2026-08-05T21:16:10+00:00",
@@ -12263,6 +12301,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Helical Nanocavity-Driven Upconversion Circularly Polarized Luminescence with Efficient Triplet Dynamics in Poly(methyl methacrylate) Stereocomplexes"
+    },
+    "10.1021/jacs.6c16251": {
+      "doi": "10.1021/jacs.6c16251",
+      "posted_at": "2026-10-07T00:22:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791332530.605129",
+      "summary_character_count": 122,
+      "summary_japanese": "1,3-dienylsilanesをCu触媒で不斉・位置・E/Z選択的にhydroborationし、高eeの二官能性allylation試薬を得た。aldehydeへの連続allylationで4連続立体中心をもつ生成物を高選択的に構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantio-, Regio-, and E -Selective Hydroboration of 1,3-Dienylsilanes to Construct Bifunctional Allylation Reagents"
     },
     "10.1021/jacs.6c16552": {
       "doi": "10.1021/jacs.6c16552",
@@ -18502,6 +18553,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrastrong Host-Guest Recognition Driven Chiral Supramolecular Polymers with Circularly Polarized Luminescence in Water"
+    },
+    "10.3390/polym18192427": {
+      "doi": "10.3390/polym18192427",
+      "posted_at": "2026-10-07T00:22:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791332535.358579",
+      "summary_character_count": 126,
+      "summary_japanese": "PA12 tetra-chiral格子を対象に、腕角0–90°を変数とする幾何学的非線形弾塑性有限要素解析を行った。15°は剛性・最大荷重が最大だが、30°が破断開始まで9.4 mmを維持し、補助負性域で最高の比エネルギー吸収820 J/kgを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effect of Chiral Arm Angle on the Stiffness, Auxeticity and Energy Absorption of Polyamide-12 Tetra-Chiral Lattices Under Quasi-Static Compression: A Numerical Baseline Study"
     },
     "10.3390/pr14182868": {
       "doi": "10.3390/pr14182868",
