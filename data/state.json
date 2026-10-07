@@ -31,7 +31,8 @@
     "2026-10-04": 30,
     "2026-10-05": 7,
     "2026-10-06": 5,
-    "2026-10-07": 25
+    "2026-10-07": 25,
+    "2026-10-08": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -670,6 +671,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Elastomer Based Switchable Adhesives Regulated by Soft Confinement Induced Nano-Rod Crystals"
+    },
+    "10.1002/adma.75308": {
+      "doi": "10.1002/adma.75308",
+      "posted_at": "2026-10-07T18:25:51+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791397551.767399",
+      "summary_character_count": 120,
+      "summary_japanese": "キラル準2次元perovskite synapseで光ヘリシティにより電気的な持続的アナログ導電状態形成を制御し、(R/S-PEA)2MAn−1PbnI3n+1のn=3で106 s保持される72状態と72.3 levelsの容量推定を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity-Defined Analog Conductance States in Chiral Perovskite Synapses"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -7793,6 +7807,19 @@
       "summary_used_fallback": false,
       "title": "Norcorrole: A Stable Porphyrinoid for Exploration of Antiaromaticity"
     },
+    "10.1021/acs.accounts.6c00648": {
+      "doi": "10.1021/acs.accounts.6c00648",
+      "posted_at": "2026-10-07T18:26:06+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791397566.912249",
+      "summary_character_count": 100,
+      "summary_japanese": "キラルプラズモニックナノ粒子の構造依存CDを、種媒介キラル成長と多重双晶種子により解析し、bichiral中心による幾何学的掌性を反転せずにCD信号を反転する機構や、双晶境界・格子歪みの影響を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structure-Modulated Circular Dichroism in Chiral Plasmonic Nanoparticles"
+    },
     "10.1021/acs.analchem.6c02740": {
       "doi": "10.1021/acs.analchem.6c02740",
       "posted_at": "2026-09-03T18:20:41+00:00",
@@ -11691,6 +11718,19 @@
       "summary_used_fallback": false,
       "title": "A SmartBiomimetic Supramolecular Adsorbent for DynamicRadiocesium Capture from Contaminated Water"
     },
+    "10.1021/jacs.6c11144": {
+      "doi": "10.1021/jacs.6c11144",
+      "posted_at": "2026-10-07T18:26:01+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791397561.659359",
+      "summary_character_count": 119,
+      "summary_japanese": "1,3-diene基をもつpillar[5]areneの結晶で、内包ゲスト長により配列を制御した。1,2-dichloroethaneでは単結晶間変換による一次元共有結合ポリマーを、adiponitrileでは柱間二量化を選択的に与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Guest-Controlled Topochemical Polymerization and Dimerization of Macrocyclic Pillar[5]arene"
+    },
     "10.1021/jacs.6c11182": {
       "doi": "10.1021/jacs.6c11182",
       "posted_at": "2026-07-17T21:11:34+00:00",
@@ -13706,6 +13746,19 @@
       "summary_used_fallback": true,
       "title": "Enantioselective palladium-catalyzed carbonylation of gem-dibromoalkenes to chiral benzo[7]annulenes"
     },
+    "10.1038/s41467-026-78385-0": {
+      "doi": "10.1038/s41467-026-78385-0",
+      "posted_at": "2026-10-07T18:26:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791397572.007019",
+      "summary_character_count": 123,
+      "summary_japanese": "CDWを抑制したTiドープCsV3Sb5を分光イメージングSTMで解析し、鏡映対称性を破る多軌道フェルミ面とカイラル準粒子分散をもつカイラル・ネマティックフェルミ液体を発見した。さらに同状態からカイラル・ネマティック超伝導への直接転移を観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-nematic Fermi liquid state as the parent state of kagome metals and superconductors"
+    },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
       "posted_at": "2026-09-06T20:00:27+00:00",
@@ -15538,6 +15591,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nonlinear chiral quantum dynamics of Bose-Einstein condensates under a density-dependent gauge field"
+    },
+    "10.12688/openreseurope.24334.1": {
+      "doi": "10.12688/openreseurope.24334.1",
+      "posted_at": "2026-10-07T18:25:57+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791397557.326449",
+      "summary_character_count": 107,
+      "summary_japanese": "ネマティック液晶中のキラルドーパントの実験モルらせんねじれ力527件を、ホスト、濃度、温度とともに収集したデータセットを構築した。RDKitで分子構造を最適化し、各分子約30配座と機械学習用キラル記述子を作成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A novel dataset of helical twisting powers of chiral dopants in nematic liquid crystals phase"
     },
     "10.12775/jehs.2026.94.72782": {
       "doi": "10.12775/jehs.2026.94.72782",
