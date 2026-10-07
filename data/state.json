@@ -31,7 +31,7 @@
     "2026-10-04": 30,
     "2026-10-05": 7,
     "2026-10-06": 5,
-    "2026-10-07": 20
+    "2026-10-07": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5746,6 +5746,19 @@
       "summary_used_fallback": false,
       "title": "Emergent Atropisomerism Through Diels-Alder Reactions of Vinylallenes"
     },
+    "10.1002/elan.70232": {
+      "doi": "10.1002/elan.70232",
+      "posted_at": "2026-10-07T06:00:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791352853.396019",
+      "summary_character_count": 103,
+      "summary_japanese": "CS/SPSとGOからなるGCE界面を構築し、Pheの電気化学的エナンチオ選択認識を評価した。L-Phe/D-Pheのピーク電流比は3.47で、UV-visとDFTもL-Pheへの高い結合親和性を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dual-Starch/Graphene Oxide Chiral Interface for Enantioselective Electrochemical Recognition of Phenylalanine"
+    },
     "10.1002/elps.70144": {
       "doi": "10.1002/elps.70144",
       "posted_at": "2026-08-23T03:48:59+00:00",
@@ -10502,6 +10515,19 @@
       "summary_used_fallback": false,
       "title": "Construction of Axial Chirality via Amino-Acid-Catalyzed Asymmetric Reductive Desymmetrization of 2-Aryl-isophthalaldehydes"
     },
+    "10.1021/acscatal.6c06318": {
+      "doi": "10.1021/acscatal.6c06318",
+      "posted_at": "2026-10-07T06:00:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791352832.321319",
+      "summary_character_count": 122,
+      "summary_japanese": "3,4-H2-MTB由来二官能性触媒を設計・合成し、aza[5]helicenesの動的速度論分割型求電子的C−Hジスルフリル化を開発した。最高99%収率、97% eeで生成物を与え、非共有結合相互作用によるエナンチオ制御をDFT計算で示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral 3,4-H2-Dihydro-Monothiobinaphthol-Derived Bifunctional Catalysts: Design, Synthesis, and Application to Enantioselective Disulfuration of Aza[5]Helicenes"
+    },
     "10.1021/acscatal.6c06367": {
       "doi": "10.1021/acscatal.6c06367",
       "posted_at": "2026-09-04T22:47:08+00:00",
@@ -12198,6 +12224,19 @@
       "summary_used_fallback": true,
       "title": "Exploiting Asymmetric Nitrogen Chlorination for Construction of N -Chloroimine Atropisomers"
     },
+    "10.1021/jacs.6c14811": {
+      "doi": "10.1021/jacs.6c14811",
+      "posted_at": "2026-10-07T06:00:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791352840.133839",
+      "summary_character_count": 117,
+      "summary_japanese": "dimesyl peroxide（MPO）で第一級アミンを一段階酸化し、求電子的なN-alkyl-O-mesyl hydroxylaminesへ変換した。アミノ酸・天然物・医薬品由来の複雑なキラルアミン断片をC−N結合形成へ導入した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Complex Fragment Coupling via O -Mesyl Hydroxylamines: Direct Conversion of Primary Amines to Electrophilic Aminating Agents"
+    },
     "10.1021/jacs.6c14940": {
       "doi": "10.1021/jacs.6c14940",
       "posted_at": "2026-09-08T21:10:37+00:00",
@@ -12275,6 +12314,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multiplicative Stereocontrol in the Light-Driven Deracemization of Benzylic Nitriles"
+    },
+    "10.1021/jacs.6c15980": {
+      "doi": "10.1021/jacs.6c15980",
+      "posted_at": "2026-10-07T06:00:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791352848.853619",
+      "summary_character_count": 94,
+      "summary_japanese": "アルコール由来xanthateをacridine光触媒とキラルcobalt(salen)触媒で脱炭酸ラジカルリレー化し、温和な条件で高エナンチオ選択的にα-キラルベンジルアミンへ変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioconvergent Deoxygenative Amination via Xanthate Esters by a Decarboxylative Relay"
     },
     "10.1021/jacs.6c16103": {
       "doi": "10.1021/jacs.6c16103",
@@ -16006,6 +16058,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Ground-state Baird aromaticity in a stable reduced carbon macrocycle"
+    },
+    "10.21285/1814-3520-2026-3-491-503": {
+      "doi": "10.21285/1814-3520-2026-3-491-503",
+      "posted_at": "2026-10-07T06:00:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791352844.718229",
+      "summary_character_count": 103,
+      "summary_japanese": "石炭選鉱廃棄物由来coal-water slurryを、旋回ガス導入型空気噴霧器で微粒化した。キャビテーション処理により平均液滴径は29–42%低下し、ガス旋回で噴霧角は21.1°から25.8°へ拡大した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Atomization of coal-water slurries using a pneumatic atomizer with helical swirl of the atomizing gas"
     },
     "10.21468/scipostphyscore.9.3.052": {
       "doi": "10.21468/scipostphyscore.9.3.052",
