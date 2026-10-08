@@ -31,7 +31,7 @@
     "2026-10-05": 7,
     "2026-10-06": 5,
     "2026-10-07": 25,
-    "2026-10-08": 10
+    "2026-10-08": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8053,6 +8053,19 @@
       "summary_used_fallback": false,
       "title": "Kinetic Pathway Selection in Supramolecular Polymerization via Transient Helical Inversion"
     },
+    "10.1021/acs.chemmater.6c01539": {
+      "doi": "10.1021/acs.chemmater.6c01539",
+      "posted_at": "2026-10-08T09:58:55+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791453535.420629",
+      "summary_character_count": 132,
+      "summary_japanese": "Y6MxSi2S14（M=Ti–Ni）とTb6CoSi2S14を合成し、X線・中性子回折で磁性を解析した。Y6NiSi2S14は2.5 KでAFM秩序を示し、Tb6CoSi2S14ではTbが非共線スピン密度波を形成する一方、Co磁気モーメントは大半が無秩序だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3 d Transition Metal Contribution to the Magnetic Behavior of Chiral Y6 M x Si2S14 and Tb6CoSi2S14"
+    },
     "10.1021/acs.chemmater.6c01554": {
       "doi": "10.1021/acs.chemmater.6c01554",
       "posted_at": "2026-07-19T06:15:47+00:00",
@@ -8480,6 +8493,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Chiral Deep Eutectic Solvents: Hydrogen-Bond Characterization, Physical Properties, and Biomass Dissolution Performance"
+    },
+    "10.1021/acs.jchemed.6c00563": {
+      "doi": "10.1021/acs.jchemed.6c00563",
+      "posted_at": "2026-10-08T09:59:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791453550.906759",
+      "summary_character_count": 112,
+      "summary_japanese": "d-mannitolからキラルビルディングブロックを合成する3日間の学部生向け課題型実習を設計し、選択的保護・脱保護、反応設定、精製と立体化学・対称性の演習を統合した。競争とチームワークの併用により協働学習と議論を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Organic Synthesis Laboratory Challenge: From d -Mannitol to Chiral Building Blocks through Selective Protection and Deprotection"
     },
     "10.1021/acs.jcim.6c01874": {
       "doi": "10.1021/acs.jcim.6c01874",
@@ -10605,6 +10631,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of Chiral Benzylamines via Nickel-Catalyzed Enantioselective C-H Alkynylation"
+    },
+    "10.1021/acscatal.6c06481": {
+      "doi": "10.1021/acscatal.6c06481",
+      "posted_at": "2026-10-08T09:59:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791453540.629149",
+      "summary_character_count": 129,
+      "summary_japanese": "非共有結合様式と配位子・有機触媒配置を切替えるorgano/Pd二元触媒により、3-alkyl/3-aryl oxindolesの不斉allenylationで、遠隔軸不斉と四級中心をもつ全4立体異性体を最大97%収率、99% ee、>20:1 drで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Noncovalent Interactions for Stereodivergent Organo/Metal Dual Catalysis: Asymmetric Allenylation of Both 3-Alkyl and 3-Aryl Oxindoles"
     },
     "10.1021/acscentsci.6c00969": {
       "doi": "10.1021/acscentsci.6c00969",
@@ -13796,6 +13835,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective palladium-catalyzed carbonylation of gem-dibromoalkenes to chiral benzo[7]annulenes"
+    },
+    "10.1038/s41467-026-78282-6": {
+      "doi": "10.1038/s41467-026-78282-6",
+      "posted_at": "2026-10-08T09:59:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791453557.318459",
+      "summary_character_count": 115,
+      "summary_japanese": "vinylidene ortho-quinone methideを多機能シントンとする機構指向型不斉脱芳香族化環化付加を開発し、DFT解析に基づき多様な（ヘテロ）多環芳香族の難反応部位で高い位置・化学・エナンチオ選択性を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic asymmetric dearomatization of (hetero)aromatic frameworks"
     },
     "10.1038/s41467-026-78385-0": {
       "doi": "10.1038/s41467-026-78385-0",
@@ -18176,6 +18228,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tunable Chiral Spectral Responses of Incommensurate Twisted Bilayer Photonic Crystals"
+    },
+    "10.3390/app16199900": {
+      "doi": "10.3390/app16199900",
+      "posted_at": "2026-10-08T09:59:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791453545.382289",
+      "summary_character_count": 88,
+      "summary_japanese": "2.5 GHz等角スパイラルアンテナ用に平面ヘリカルEBG反射器を等価回路と全波パラメトリック解析で最適化し、利得6.15 dBiとPEC反射器より低い平均軸比1.67を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Parametric Design of a Helical Electromagnetic Bandgap Reflector for an Equiangular Spiral Antenna at 2.5 GHz"
     },
     "10.3390/axioms15080585": {
       "doi": "10.3390/axioms15080585",
