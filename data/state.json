@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-06": 22,
     "2026-09-07": 7,
     "2026-09-08": 10,
     "2026-09-09": 15,
@@ -32,7 +31,7 @@
     "2026-10-05": 7,
     "2026-10-06": 5,
     "2026-10-07": 25,
-    "2026-10-08": 5
+    "2026-10-08": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2666,6 +2665,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Highly Enantio- and Diastereoselective Synthesis of Tetrahydrofuran Frameworks via Chiral Lewis Acid-Catalyzed Formal [3+2] Cycloaddition of Allylsilanes"
+    },
+    "10.1002/anie.2026-m0210094800": {
+      "doi": "10.1002/anie.2026-m0210094800",
+      "posted_at": "2026-10-08T00:43:04+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791420184.443619",
+      "summary_character_count": 133,
+      "summary_japanese": "光駆動分子エネルギーラチェットとして、diarylethene-[5]helicene photoswitchの環化で熱力学的に有利なヘリックス反転を促し、開環で得たヘリシティーを速度論的に捕捉した。これにより平衡外で方向性と持続性をもつヘリシティー制御を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Outside Front Cover: Light-Driven Out-of-Equilibrium Helicity Control in a Diarylethene-Helicene Photosystem"
     },
     "10.1002/anie.2026-m1007035600": {
       "doi": "10.1002/anie.2026-m1007035600",
@@ -5851,6 +5863,19 @@
       "summary_used_fallback": false,
       "title": "From One-to-One Complexation to Multisite Binding: Analytical Transport Coefficients and Mechanistic Diagnostics in Chiral Capillary Electrophoresis"
     },
+    "10.1002/elps.70162": {
+      "doi": "10.1002/elps.70162",
+      "posted_at": "2026-10-08T00:43:20+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791420200.030969",
+      "summary_character_count": 104,
+      "summary_japanese": "in situ成長でCD-COF-Li@SiO2をHPLCキラル固定相として作製し、19組のエナンチオマーを良好に分離した。一部では分離度3.00に達し、反復注入後も保持時間・分離度のRSDは1%未満だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Ionic Covalent Organic Framework Core-Shell Composite Material CD-COF-Li@SiO 2 for HPLC Enantioseparation"
+    },
     "10.1002/fob2.70093": {
       "doi": "10.1002/fob2.70093",
       "posted_at": "2026-09-20T10:37:16+00:00",
@@ -7403,6 +7428,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromatic polyarenes sign inversion in magnetic circularly polarized luminescence through quantum modelling"
+    },
+    "10.1016/j.jphotochem.2026.117773": {
+      "doi": "10.1016/j.jphotochem.2026.117773",
+      "posted_at": "2026-10-08T00:43:10+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791420190.549659",
+      "summary_character_count": 125,
+      "summary_japanese": "SPAACで合成したDBA[12]・DBA[8]-bistriazoleは、Fe3+やSn2+で蛍光消光・スペクトル変化を示し、fullereneと1:2錯体を形成した。DBA[8]はC70を選択的に認識し、K11=1.3×10^5 M−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fluorescent recognition of metal ions and fullerenes by Bistriazole macrocycles"
     },
     "10.1016/j.jpowsour.2026.241607": {
       "doi": "10.1016/j.jpowsour.2026.241607",
@@ -11549,6 +11587,19 @@
       "summary_used_fallback": false,
       "title": "Carrier-Mediated SelectiveTransport of PFAS acrossLiquid Membranes"
     },
+    "10.1021/jacs.6c10033": {
+      "doi": "10.1021/jacs.6c10033",
+      "posted_at": "2026-10-08T00:43:24+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791420204.166569",
+      "summary_character_count": 122,
+      "summary_japanese": "分子[an]daisy chainsによるA2BB′ヘテロ二量体集合で、超分子性と機械的インターロック性を統合したハイブリッド高分子網目DCHPNを構築した。刺激下で顕著に動的解体しつつ高分子様の連続性を保ち、完全な粘性流動への抵抗性も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Bioinspired Hybrid Polymer Network Fusing Supramolecular and Mechanically Interlocked [ a n]Daisy Chains"
+    },
     "10.1021/jacs.6c10086": {
       "doi": "10.1021/jacs.6c10086",
       "posted_at": "2026-08-21T21:21:43+00:00",
@@ -13758,6 +13809,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral-nematic Fermi liquid state as the parent state of kagome metals and superconductors"
+    },
+    "10.1038/s41467-026-78564-z": {
+      "doi": "10.1038/s41467-026-78564-z",
+      "posted_at": "2026-10-08T00:43:15+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791420195.441859",
+      "summary_character_count": 110,
+      "summary_japanese": "NbOCl2の位相変調能とMoOCl2の偏光選択性を用い、リソグラフィー不要の積層型超薄膜円偏光子を作製した。厚さ約730 nmで653 nmにおける消光比21.16 dB、LED集積でDOCP 99.68%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrathin high-performance circular polarizers based on MoOCl2/NbOCl2 van der Waals heterostructures"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
