@@ -31,7 +31,8 @@
     "2026-10-05": 7,
     "2026-10-06": 5,
     "2026-10-07": 25,
-    "2026-10-08": 15
+    "2026-10-08": 15,
+    "2026-10-09": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5226,6 +5227,32 @@
       "summary_used_fallback": false,
       "title": "Synthesis and Characterization of Hemiindigo-Based Glycoside and Glycomacrocycle"
     },
+    "10.1002/chem.71768": {
+      "doi": "10.1002/chem.71768",
+      "posted_at": "2026-10-08T18:25:42+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791483942.856799",
+      "summary_character_count": 121,
+      "summary_japanese": "L/D-valine・L/D-phenylalanine由来dansyl化キラル自己集合体を設計し、Hg(II)に選択的な蛍光消光検出と、エポキシドへの無溶媒CO2付加環化触媒を実証した。phenylalanine系は最高93%変換を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembled Dansyl-Based Chiroptical L/D-Valine and L/D-Phenylalanine Conjugate for Hg(II) Detection and Catalytic Conversion of Carbon Dioxide"
+    },
+    "10.1002/chem.71770": {
+      "doi": "10.1002/chem.71770",
+      "posted_at": "2026-10-08T18:25:31+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791483931.804679",
+      "summary_character_count": 107,
+      "summary_japanese": "末端pyreneとalanine由来キラル側鎖をもつbifuran-imide 1-Py₂は、水60%で3.7 nm層間隔の階層的らせん繊維を形成し強いECDを示す一方、水70%ではECDを失ったナノ球へ転移した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembly of a Chiral Pyrene-Bifuran-Imide Into Helical and Spherical Nanostructures"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -7884,6 +7911,19 @@
       "summary_used_fallback": false,
       "title": "Chiral SurfaceEngineering-Boosted CatalyticActivity of CuO Nanomaterials on Luminol-H2O2 Chemiluminescence for Facile Discrimination of Alanine Enantiomers"
     },
+    "10.1021/acs.analchem.6c03112": {
+      "doi": "10.1021/acs.analchem.6c03112",
+      "posted_at": "2026-10-08T18:25:55+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791483954.944969",
+      "summary_character_count": 96,
+      "summary_japanese": "Menschutkin環化でTPE系共有結合性大環状分子を合成し、架橋配位子の電子構造により凝集形態と励起状態を制御した。ECL相対効率2237%を達成し、3-NTを1.3 nMまで検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Boosting Aggregation-Induced Electro-Chemiluminescence in TPE-Based Macrocycles via Supramolecular Confinement: A Host-Guest Recognition Platform for 3-Nitrotyrosine Biosensing"
+    },
     "10.1021/acs.analchem.6c03185": {
       "doi": "10.1021/acs.analchem.6c03185",
       "posted_at": "2026-08-19T21:23:28+00:00",
@@ -9325,6 +9365,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Near-Electrode Diffusion Dynamics Govern Chirality-Induced Spin Selectivity in an Electrochemical Cell"
+    },
+    "10.1021/acs.nanolett.6c03895": {
+      "doi": "10.1021/acs.nanolett.6c03895",
+      "posted_at": "2026-10-08T18:25:37+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791483937.400059",
+      "summary_character_count": 123,
+      "summary_japanese": "メチレン数のみ異なるferrocene系Fc-2Ala/Fc-3Alaを設計し、X線構造解析・分光・計算で検討した。折り畳みクランプ構造のFc-3Alaは電子豊富な芳香族ゲストへキラリティーを移転するが、非折り畳みFc-2Alaは移転しなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Molecular Clamp Enabling Selective Chirality Transfer via Arene-Perfluoroarene Interactions"
     },
     "10.1021/acs.oprd.6c00194": {
       "doi": "10.1021/acs.oprd.6c00194",
@@ -15239,6 +15292,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrafast Faraday rotation probe of chiral phonon-polaritons in LiNbO 3"
+    },
+    "10.1126/sciadv.aed4187": {
+      "doi": "10.1126/sciadv.aed4187",
+      "posted_at": "2026-10-08T18:25:48+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791483948.470099",
+      "summary_character_count": 130,
+      "summary_japanese": "C–H/C–D結合解離エネルギー差を利用する不斉C–Hアミノ化により、benzylicおよびallylic H/D同位体キラリティーを触媒的に光学分割した。分離係数S = 83.1を達成し、高エナンチオ濃縮基質の単離とラジカル再結合時の立体化学的記憶を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical resolution of H/D isotopic chirality via asymmetric C-H amination"
     },
     "10.1126/sciadv.aed7176": {
       "doi": "10.1126/sciadv.aed7176",
