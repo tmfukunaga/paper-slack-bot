@@ -31,7 +31,7 @@
     "2026-10-06": 5,
     "2026-10-07": 25,
     "2026-10-08": 15,
-    "2026-10-09": 10
+    "2026-10-09": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -683,6 +683,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity-Defined Analog Conductance States in Chiral Perovskite Synapses"
+    },
+    "10.1002/adma.75314": {
+      "doi": "10.1002/adma.75314",
+      "posted_at": "2026-10-09T10:02:41+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791540161.469409",
+      "summary_character_count": 108,
+      "summary_japanese": "キラルHMH (R/S-THNA)3SbCl6·0.5H2Oを急冷して透明アモルファスガラス化し、金属ハライド注入で発光色とTgを調整した。熱可塑性を利用した無添加3D印刷後、再結晶化により強い等方的SHGを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Glass Transition of Chiral Hybrid Metal Halides for Self-Supported 3D Printing"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -8442,6 +8455,19 @@
       "summary_used_fallback": false,
       "title": "Diastereoselective Axial-to-Chelate-Puckering Chirality Transfer in cis -[PtCl2(DABN)] Complexes"
     },
+    "10.1021/acs.inorgchem.6c03372": {
+      "doi": "10.1021/acs.inorgchem.6c03372",
+      "posted_at": "2026-10-09T10:02:28+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791540148.196139",
+      "summary_character_count": 111,
+      "summary_japanese": "DPA官能化NHC配位子でAg(I)・Au(I)の単核～三核錯体を構築し、配位子リンカーに応じた構造と金属親和性相互作用を解析した。錯体化により発光・抗菌活性が増強され、Ag(I)錯体はE. coliに顕著な活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dipyridylamine-Functionalized N-Heterocyclic Carbene Ligands for Structurally Diverse Silver(I) and Gold(I) Complexes: Topology, Metallophilic Interactions, and Structure-Property Relationships"
+    },
     "10.1021/acs.inorgchem.6c03427": {
       "doi": "10.1021/acs.inorgchem.6c03427",
       "posted_at": "2026-09-15T11:04:04+00:00",
@@ -8584,6 +8610,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Organic Synthesis Laboratory Challenge: From d -Mannitol to Chiral Building Blocks through Selective Protection and Deprotection"
+    },
+    "10.1021/acs.jchemed.6c00627": {
+      "doi": "10.1021/acs.jchemed.6c00627",
+      "posted_at": "2026-10-09T10:02:36+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791540156.862859",
+      "summary_character_count": 119,
+      "summary_japanese": "家庭用品とスマートフォンで自作した低圧液体クロマトグラフィーにβ-cyclodextrin添加とOPA/2-mercaptoethanol誘導体化を組み合わせ、ラセミ体由来l-phenylalanineを分離・蛍光検出し、eeを解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Undergraduate Laboratory Innovating Project for Chiral Amino Acid Separation and Detection Using a Self-Made Low-Pressure Liquid Chromatography"
     },
     "10.1021/acs.jcim.6c01874": {
       "doi": "10.1021/acs.jcim.6c01874",
@@ -9981,6 +10020,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective Synthesis of Chiral 3-Substituted Tetrahydroquinolines via a Pd-Catalyzed C-C Cleavage/C-C Coupling Sequence"
+    },
+    "10.1021/acs.orglett.6c03875": {
+      "doi": "10.1021/acs.orglett.6c03875",
+      "posted_at": "2026-10-09T10:02:32+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791540152.729119",
+      "summary_character_count": 133,
+      "summary_japanese": "酸塩基相互作用を介する反応駆動自己集合により、高エネルギー密度MOFのKADNPPとホスト–ゲスト材料HGEM-8を合成した。KADNPPは密度2.238 g cm−3、Td 376 °Cを示し、HGEM-8はD 9464 m s−1、P 43.5 GPaを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Acid-Base-Mediated Self-Assembly: Synthetic Access to High-Energy-Density Metal-Organic Frameworks and Host-Guest Energetic Materials"
     },
     "10.1021/acs.orglett.6c03878": {
       "doi": "10.1021/acs.orglett.6c03878",
@@ -18059,6 +18111,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Intramolecular Ether-Borane FLPs for Asymmetric Ketone Hydrogenation"
+    },
+    "10.26434/chemrxiv.15010010/v1": {
+      "doi": "10.26434/chemrxiv.15010010/v1",
+      "posted_at": "2026-10-09T10:02:46+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791540166.504339",
+      "summary_character_count": 133,
+      "summary_japanese": "β-diketoneのπ共役を調整したTb(β-diketone)3·2H2O系列で、Tb(acac)3·2H2Oは励起子利用効率99.3%、単結晶で180,000 photons/MeVの発光収率を示し、X線増感スクリーンの照射時間を少なくとも5分の1に短縮した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ligand Engineering for Ultrahigh-Light-Yield Lanthanide Complex Scintillators"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
