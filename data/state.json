@@ -32,7 +32,7 @@
     "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
-    "2026-10-10": 5
+    "2026-10-10": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5305,6 +5305,19 @@
       "summary_used_fallback": false,
       "title": "Self-Assembly of a Chiral Pyrene-Bifuran-Imide Into Helical and Spherical Nanostructures"
     },
+    "10.1002/chem.71771": {
+      "doi": "10.1002/chem.71771",
+      "posted_at": "2026-10-09T18:21:59+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791570119.062989",
+      "summary_character_count": 123,
+      "summary_japanese": "1,1′-binaphthylとbiphenyl各3個からなる軸不斉[12]CPA 1・2を合成し、置換基により対称性・配座・発光が変化した。1は強いAIEEを示し、TFA添加で蛍光が9倍増強され、|g_lum|=0.028の強いCPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Cycloparaarylenes Incorporating Binaphthyl Units: Dramatic Effects of Peripheral Functionalization on (Chir)Optical Properties"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -5720,6 +5733,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Metal-Containing Hosts for Selective Recognition of Amino Acids and Their Derivatives"
+    },
+    "10.1002/ejic.70331": {
+      "doi": "10.1002/ejic.70331",
+      "posted_at": "2026-10-09T18:22:08+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791570128.689599",
+      "summary_character_count": 106,
+      "summary_japanese": "水溶性キラルTb(III)錯体を36 nm球状SiO2ナノ粒子に包埋し、Tb(III)発光、円偏光発光、5D4発光減衰を測定した。無機不活性マトリックスへの包埋は、元の発光体の光学・キロプチカル特性を向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical and Chiroptical Properties of a Green-Emitting Tb(III) Complex Embedded in Silica Nanoparticles"
     },
     "10.1002/ejoc.70700": {
       "doi": "10.1002/ejoc.70700",
@@ -6214,6 +6240,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Femtosecond Laser Line-Exposure Fabrication of Planar Chiral Microstructures for OAM-Sign Discrimination and Spatial Encoding"
+    },
+    "10.1002/lpor.72028": {
+      "doi": "10.1002/lpor.72028",
+      "posted_at": "2026-10-09T18:22:04+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791570124.182909",
+      "summary_character_count": 109,
+      "summary_japanese": "面内鏡映対称性を破る両側スタブ装荷Ge導波路メタサーフェスで、熱光学効果により放射スピンヘリシティとバンド分散を同時反転した。6°斜方放射では34 nmの高純度キラル切替窓で円偏光二色性0.86超、Q≈90を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Simultaneous Switching of Spin Helicity and Band Dispersion in Reconfigurable Thermal Metasurfaces"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -11548,6 +11587,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "B/Pd-Catalyzed AsymmetricPropargylic Substitutionfor Vicinal Quaternary/Tertiary Stereocenters"
+    },
+    "10.1021/jacs.6c07763": {
+      "doi": "10.1021/jacs.6c07763",
+      "posted_at": "2026-10-09T18:22:16+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791570136.659169",
+      "summary_character_count": 129,
+      "summary_japanese": "intraband charge transportとinterband polarizationを結合した原子論的古典電磁モデルは、キラルAg・Auナノ構造からDNA-origami Au nanorodsまでのキロプティカルスペクトルを定量的に再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Electrodynamical Nature of Chiral Nanoplasmonics from the Quantum Regime to the Mesoscale"
     },
     "10.1021/jacs.6c07797": {
       "doi": "10.1021/jacs.6c07797",
@@ -18190,6 +18242,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality Relay via Non-stereogenic Carbocations: from Stereogenic Alcohol to Twisted Tricyclic Skeleton"
+    },
+    "10.26434/chemrxiv.15010093/v1": {
+      "doi": "10.26434/chemrxiv.15010093/v1",
+      "posted_at": "2026-10-09T18:22:21+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791570141.326869",
+      "summary_character_count": 107,
+      "summary_japanese": "ChEMBL37から同一標的・生物種で活性を示す155,526の真の立体異性体群を収集し、活性差を2手法で5段階に分類したStereoAtlasを構築した。38,446 IC50群の9.5%で50倍超の差を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "StereoAtlas: A Large-Scale Dataset of Chiral Compounds with Distinct Bioactivities Curated from ChEMBL37"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
