@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-07": 7,
     "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
@@ -32,7 +31,7 @@
     "2026-10-06": 5,
     "2026-10-07": 25,
     "2026-10-08": 15,
-    "2026-10-09": 5
+    "2026-10-09": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -970,6 +969,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Red-Green-Blue Circularly Polarized Luminescence: Ultra-large Dissymmetry Factors and Handedness Inversion for Information Encryption"
+    },
+    "10.1002/adom.71888": {
+      "doi": "10.1002/adom.71888",
+      "posted_at": "2026-10-09T00:58:32+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791507512.234509",
+      "summary_character_count": 118,
+      "summary_japanese": "層数・角度を調整したchiral Ag NWs filmは強いCDとSERSを示し、Bi6S2O15 NWsとの積層でSERS信号はachiral Ag NWs filmの2.0倍となり、EGTを0.25 μg/mLまで無標識検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Ag/Bi 6 S 2 O 15 Hybrid NWs Film Tailored Intense SERS Activity for Sensitive Detection Application"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -3791,6 +3803,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Nanostructured Cobalt Nanoparticles Confined in Zeolite for Syngas Conversion to Liquid Fuels at Low Temperature"
     },
+    "10.1002/anie.6601433": {
+      "doi": "10.1002/anie.6601433",
+      "posted_at": "2026-10-09T00:58:20+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791507500.523599",
+      "summary_character_count": 115,
+      "summary_japanese": "キラル単量体のみからmesoおよびnear-meso oligoureasを合成・解析し、末端基の非対称化でらせん巻き方向を選択化した。アキラル水素結合受容体の結合は分子内水素結合網を反転させ、配列依存的な巻き方向反転を誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Control of Helix Screw-Sense Preference in Dynamic Foldamers of meso Symmetry Built From Chiral Monomeric Units"
+    },
     "10.1002/anie.6690121": {
       "doi": "10.1002/anie.6690121",
       "posted_at": "2026-08-07T00:05:55+00:00",
@@ -5655,6 +5680,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magneto-Chiral Dichroism of Tris-Chelated Cr(III) Complexes for Magneto-Chiral Photochemistry Studies"
+    },
+    "10.1002/ejic.70313": {
+      "doi": "10.1002/ejic.70313",
+      "posted_at": "2026-10-09T00:58:41+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791507521.278249",
+      "summary_character_count": 105,
+      "summary_japanese": "アミノ酸および誘導体認識に用いる金属含有ホストを、配位ケージ、cavitand、metallacrownなどの受容体別に総説し、金属配位・水素結合等の相互作用と選択性、保護体依存や結合様式解析の課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metal-Containing Hosts for Selective Recognition of Amino Acids and Their Derivatives"
     },
     "10.1002/ejoc.70700": {
       "doi": "10.1002/ejoc.70700",
@@ -10976,6 +11014,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intrinsic ChiralFiber Lasers Enabled by Chiral SupramolecularGlasses"
+    },
+    "10.1021/acsphotonics.6c01375": {
+      "doi": "10.1021/acsphotonics.6c01375",
+      "posted_at": "2026-10-09T00:58:25+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791507505.364289",
+      "summary_character_count": 102,
+      "summary_japanese": "計算研究により、CNT中の共有結合性color center集合体が示すキロプティカル応答を解析し、欠陥の空間分布、ヘリシティー、密度、対称性破れが協調して円二色性と旋光を増幅または抑制することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Collective Effect of Color-Centers on Chiroptical Response of Carbon Nanotubes"
+    },
+    "10.1021/acsphotonics.6c01956": {
+      "doi": "10.1021/acsphotonics.6c01956",
+      "posted_at": "2026-10-09T00:58:36+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791507516.904849",
+      "summary_character_count": 103,
+      "summary_japanese": "キラル・アキラルナノ粒子系で双方向の光力結合を示し、直線偏光下でアキラル粒子に横方向力を発現させた。キラリティ反転や偏光回転で力の向きを切替え、Mie共振器により小型キラル粒子のキラリティ依存力も増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bidirectional Chiral-Achiral Coupling for Tunable Lateral Optical Forces in Nanoparticle Systems"
     },
     "10.1021/acsphyschemau.6c00112": {
       "doi": "10.1021/acsphyschemau.6c00112",
