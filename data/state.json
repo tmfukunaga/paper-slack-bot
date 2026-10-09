@@ -32,7 +32,7 @@
     "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
-    "2026-10-10": 10
+    "2026-10-10": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1815,6 +1815,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
+    },
+    "10.1002/ange.5624001": {
+      "doi": "10.1002/ange.5624001",
+      "posted_at": "2026-10-09T22:26:19+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791584779.887179",
+      "summary_character_count": 134,
+      "summary_japanese": "BODIPY前駆体をBrønsted酸触媒・paraformaldehydeで連結し、最大12個の非共役発色団をもつ環状oligo-BODIPYを一段階合成した。分光測定と量子化学計算により、環状体で長寿命のcyclic excitonを含む複数の励起子状態を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "One-Step Access to Ultra-Bright Macrocyclic Oligo-BODIPYs Featuring Long-Lived Cyclic Excitons"
     },
     "10.1002/ange.5800931": {
       "doi": "10.1002/ange.5800931",
@@ -6254,6 +6267,19 @@
       "summary_used_fallback": false,
       "title": "Simultaneous Switching of Spin Helicity and Band Dispersion in Reconfigurable Thermal Metasurfaces"
     },
+    "10.1002/lpor.72029": {
+      "doi": "10.1002/lpor.72029",
+      "posted_at": "2026-10-09T22:26:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791584784.654859",
+      "summary_character_count": 131,
+      "summary_japanese": "誘電率・透磁率テンソルの主軸を周期回転させるFloquet変調で、磁場・構造キラリティーなしに波数奇関数の有効キラリティーを生成した。Hamiltonian均質化理論により、偏光面が時間連続回転する非相反的Temporal Faraday effectを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Temporal Faraday Effect Enabled by Floquet-Induced Chirality"
+    },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
       "posted_at": "2026-07-17T17:27:51+00:00",
@@ -10126,6 +10152,19 @@
       "summary_used_fallback": true,
       "title": "Chiral Arylthiol-Catalyzed Asymmetric Hydrodifluoroalkylation of Alkenes Facilitated by Noncovalent Interaction"
     },
+    "10.1021/acs.orglett.6c03899": {
+      "doi": "10.1021/acs.orglett.6c03899",
+      "posted_at": "2026-10-09T22:26:36+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791584796.423879",
+      "summary_character_count": 122,
+      "summary_japanese": "NHC触媒によるprochiral isophthalaldehyde-derived TPEの脱対称化と速度論的分割で、軸不斉TPEを高収率・高エナンチオ選択的に合成した。脂肪族アルコール、フェノールに適用でき、グラムスケール合成も実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Synthesis of Axially Chiral Tetraphenylethenes via NHC-Catalyzed Desymmetrization and Following Kinetic Resolution"
+    },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
       "posted_at": "2026-08-15T19:01:46+00:00",
@@ -12328,6 +12367,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Regio- and Enantiospecific On-Surface Synthesis of Iso [4]triangulene via Ethyl Cyclization"
+    },
+    "10.1021/jacs.6c11855": {
+      "doi": "10.1021/jacs.6c11855",
+      "posted_at": "2026-10-09T22:26:29+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791584789.127269",
+      "summary_character_count": 133,
+      "summary_japanese": "2-naphthyloxy Z基をもつaryloxy xanthate CTAにより、橙色光下で2分以内に転化率80%超の高速水系PET-RAFTを達成し、脱気不要のphoto-PISAで1分以内にナノ粒子を形成した。長波長では小胞、短波長では不規則凝集体を与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast Aqueous Photoinduced Electron/Energy Transfer Reversible Addition-Fragmentation Chain Transfer Polymerization-Induced Self-Assembly: Wavelength-Dependent Morphologies and Scalable Nanoparticle Preparation"
     },
     "10.1021/jacs.6c12029": {
       "doi": "10.1021/jacs.6c12029",
@@ -18229,6 +18281,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ligand Engineering for Ultrahigh-Light-Yield Lanthanide Complex Scintillators"
+    },
+    "10.26434/chemrxiv.15010063/v1": {
+      "doi": "10.26434/chemrxiv.15010063/v1",
+      "posted_at": "2026-10-09T22:26:43+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791584803.781889",
+      "summary_character_count": 296,
+      "summary_japanese": "A butadiyne-linked zinc porphyrin dimer was stepwise reduced with alkali metals. Crystallography showed only subtle bond-length changes up to the tetraanion. The tetraanion was identified as an open-shell singlet diradical with a thermally accessible triplet state 14.2 kJ mol−1 higher in energy.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Stepwise reduction of a porphyrin nanowire: minimal structural reorganization up to the open-shell tetraanion"
     },
     "10.26434/chemrxiv.15010075/v1": {
       "doi": "10.26434/chemrxiv.15010075/v1",
