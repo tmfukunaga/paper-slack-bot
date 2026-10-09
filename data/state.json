@@ -31,7 +31,8 @@
     "2026-10-06": 5,
     "2026-10-07": 25,
     "2026-10-08": 15,
-    "2026-10-09": 15
+    "2026-10-09": 15,
+    "2026-10-10": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3582,6 +3583,19 @@
       "summary_used_fallback": false,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
     },
+    "10.1002/anie.5624001": {
+      "doi": "10.1002/anie.5624001",
+      "posted_at": "2026-10-09T17:58:37+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791568717.942339",
+      "summary_character_count": 130,
+      "summary_japanese": "paraformaldehydeをC1源とするBrønsted酸触媒一段階反応で、最大12個の非共役BODIPYからなるmethylene架橋環状oligo-BODIPYを合成した。分光測定と計算により、J結合セグメントと低振動子強度の環状励起子状態を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "One-Step Access to Ultra-Bright Macrocyclic Oligo-BODIPYs Featuring Long-Lived Cyclic Excitons"
+    },
     "10.1002/anie.5640364": {
       "doi": "10.1002/anie.5640364",
       "posted_at": "2026-09-28T21:04:12+00:00",
@@ -6746,6 +6760,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Quasi-2D Hybrid Perovskite p-n Junction Arrays for High-Performance Self-Powered Visible-Band Circularly Polarized Light Detection"
+    },
+    "10.1002/smll.75958": {
+      "doi": "10.1002/smll.75958",
+      "posted_at": "2026-10-09T17:58:33+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791568713.293939",
+      "summary_character_count": 108,
+      "summary_japanese": "Ag 6 NCをK+, Rb+, Cs+配位γ-CD MOF細孔内に固定化し、単結晶X線回折でAg 6/M+/γ-CD構造を解明した。NC導入により超分子キラリティー、SHG、熱活性化遅延蛍光、円偏光発光を発現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stitching Atom-Precise Ag 6 NCs in Cyclodextrin Metal-Organic Framework: Chirality Induction and Second Harmonic Generation"
     },
     "10.1002/smll.76010": {
       "doi": "10.1002/smll.76010",
@@ -10020,6 +10047,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective Synthesis of Chiral 3-Substituted Tetrahydroquinolines via a Pd-Catalyzed C-C Cleavage/C-C Coupling Sequence"
+    },
+    "10.1021/acs.orglett.6c03849": {
+      "doi": "10.1021/acs.orglett.6c03849",
+      "posted_at": "2026-10-09T17:58:46+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791568726.577509",
+      "summary_character_count": 135,
+      "summary_japanese": "[2.2]paracyclophane由来の面不斉quinoline cyclophaneを組み込んだamide foldamerを設計・合成し、R/S面不斉がそれぞれP/Mらせんに対応することをX線結晶解析・CDで示した。高温でもP/M間の相互変換は観測されなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quinoline-Based Amide Foldamers with One-Handed Chirality Induced by an Asymmetric Plane"
     },
     "10.1021/acs.orglett.6c03875": {
       "doi": "10.1021/acs.orglett.6c03875",
@@ -14030,6 +14070,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral-nematic Fermi liquid state as the parent state of kagome metals and superconductors"
+    },
+    "10.1038/s41467-026-78531-8": {
+      "doi": "10.1038/s41467-026-78531-8",
+      "posted_at": "2026-10-09T17:58:41+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791568721.946859",
+      "summary_character_count": 98,
+      "summary_japanese": "Q[7]を磁性Fe3O4ナノ粒子に固定化し、空孔結合で誘起される外表面の協同的芳香族相互作用を利用した。凝集を抑え、benzeneをn-heptaneから高選択的・高容量かつ再利用可能に分離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cooperative outer-surface recognition extends host-guest chemistry for high-capacity molecular separation beyond cavity inclusion"
     },
     "10.1038/s41467-026-78564-z": {
       "doi": "10.1038/s41467-026-78564-z",
@@ -18124,6 +18177,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ligand Engineering for Ultrahigh-Light-Yield Lanthanide Complex Scintillators"
+    },
+    "10.26434/chemrxiv.15010075/v1": {
+      "doi": "10.26434/chemrxiv.15010075/v1",
+      "posted_at": "2026-10-09T17:58:28+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791568708.784139",
+      "summary_character_count": 105,
+      "summary_japanese": "立体中心をもつalcoholの酸媒介脱水環化で、非立体生成的carbocationの配座を介し、熱的に堅固なキラルtwisted tricyclic skeletonを得た。各enantiomerを合成できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality Relay via Non-stereogenic Carbocations: from Stereogenic Alcohol to Twisted Tricyclic Skeleton"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
