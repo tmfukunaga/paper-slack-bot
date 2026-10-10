@@ -31,7 +31,7 @@
     "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
-    "2026-10-10": 20
+    "2026-10-10": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -995,6 +995,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Ag/Bi 6 S 2 O 15 Hybrid NWs Film Tailored Intense SERS Activity for Sensitive Detection Application"
+    },
+    "10.1002/adom.71894": {
+      "doi": "10.1002/adom.71894",
+      "posted_at": "2026-10-10T04:19:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791605950.382779",
+      "summary_character_count": 99,
+      "summary_japanese": "二重分子内直接アリール化により、最大20個の共役芳香環をもつπ拡張DHPP色素群を合成した。らせん型誘導体は安定なエナンチオマーと良好な発光異方性因子を示し、溶媒和発色、赤色発光、CPLを発現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intramolecular Direct Arylation Enables Access to Diverse Photophysical Properties for pi-Expanded 1,4-Dihydropyrrolo[3,2- b ]pyrroles"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -7832,6 +7845,19 @@
       "summary_used_fallback": false,
       "title": "Dynamic behavior of irregular particles and transition mechanism of erosive wear in a helical mixed-flow deep-sea mining pump"
     },
+    "10.1016/j.oceaneng.2026.128260": {
+      "doi": "10.1016/j.oceaneng.2026.128260",
+      "posted_at": "2026-10-10T04:19:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791605945.037269",
+      "summary_character_count": 115,
+      "summary_japanese": "密な砂地盤で水ジェット併用ヘリカルアンカーの遠心模型実験を行い、流量・ノズル配置・ヘリックス寸法・根入れ深さの影響を評価した。ジェットは設置トルクを大幅に低減し、引抜き耐力はやや低下するものの、より深い設置により高耐力を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Jetted helical anchor installation as a torque reducing technique"
+    },
     "10.1016/j.oceaneng.2026.128413": {
       "doi": "10.1016/j.oceaneng.2026.128413",
       "posted_at": "2026-10-07T00:22:03+00:00",
@@ -12861,6 +12887,19 @@
       "summary_used_fallback": false,
       "title": "Potential Driven Spin-Crossover Synergized with Hydrogen-Bond Engineering in a Molecular Catalyst for Selective H2O2 Electrosynthesis"
     },
+    "10.1021/jacs.6c17514": {
+      "doi": "10.1021/jacs.6c17514",
+      "posted_at": "2026-10-10T04:19:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791605940.375979",
+      "summary_character_count": 105,
+      "summary_japanese": "3Dイミン結合COF-682とCOF-612の局所構造・動力学を、放射光PDF解析と機械学習加速MDで解明した。DHPのπスタッキングはCOF-682の柔軟性を高め、ナノグラフェンはCOF-612を剛直化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Local Structure and Dynamics of Three-Dimensional Covalent Organic Frameworks"
+    },
     "10.1021/jacs.6c17644": {
       "doi": "10.1021/jacs.6c17644",
       "posted_at": "2026-09-24T03:08:19+00:00",
@@ -15369,6 +15408,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Surface chiral Abelian topological order on multilayer cluster Mott insulators"
+    },
+    "10.1093/ptep/ptag176": {
+      "doi": "10.1093/ptep/ptag176",
+      "posted_at": "2026-10-10T04:19:20+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791605960.112909",
+      "summary_character_count": 331,
+      "summary_japanese": "For cylindrical helical magnetic flux ropes preserving a local two-plane structure, source-free Maxwell equations yield a convex conservation law for the pitch variable Φ. Compressive profiles make the radial characteristic map noninvertible after finite drive, and the Ampère current diverges, producing a current-sheet precursor.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Finite-time geometric focusing and current-sheet precursors in helical magnetic flux ropes"
     },
     "10.1097/md.0000000000050002": {
       "doi": "10.1097/md.0000000000050002",
@@ -19788,6 +19840,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circular ratchet currents in two dimensional tellurene with an asymmetric grating"
+    },
+    "10.5283/epub.80900": {
+      "doi": "10.5283/epub.80900",
+      "posted_at": "2026-10-10T04:18:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791605935.775139",
+      "summary_character_count": 110,
+      "summary_japanese": "非線形高調波円二色性が、光から結晶への移転角運動量と光学共鳴点の局所Berry curvatureの比例関係を担うことを示し、原子層半導体で実証した。局所Berry curvatureの全光学的制御・読出し法を確立する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonlinear Circular Dichroism Reveals the Local Berry Curvature"
     },
     "10.53941/mi.2026.100021": {
       "doi": "10.53941/mi.2026.100021",
