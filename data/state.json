@@ -31,7 +31,8 @@
     "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
-    "2026-10-10": 30
+    "2026-10-10": 30,
+    "2026-10-11": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2432,6 +2433,19 @@
       "summary_used_fallback": true,
       "title": "Heterocyclic Nanographenes Doped with Boron and Phosphorus: Post-Phosphorization Synthesis, Excited-State Dynamics and Ion-Responsive Properties"
     },
+    "10.1002/ange.9667883": {
+      "doi": "10.1002/ange.9667883",
+      "posted_at": "2026-10-10T16:58:18+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791651498.180599",
+      "summary_character_count": 122,
+      "summary_japanese": "気相carbo[6]heliceneを円偏光真空紫外放射光と二重イメージング光電子・光イオン同時計測でPECD解析し、最高占有軌道近傍で最大約25%の軌道特異的PECDを観測した。量子化学計算は、イオン化軌道の電子密度分布に基づく説明を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Is Photoelectron Circular Dichroism Sensitive to Helical Chirality? The Paradigm of Gas-Phase Carbo[6]Helicene"
+    },
     "10.1002/ange.9685756": {
       "doi": "10.1002/ange.9685756",
       "posted_at": "2026-08-29T01:46:23+00:00",
@@ -4822,6 +4836,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Heterocyclic Nanographenes Doped with Boron and Phosphorus: Post-Phosphorization Synthesis, Excited-State Dynamics and Ion-Responsive Properties"
+    },
+    "10.1002/anie.9667883": {
+      "doi": "10.1002/anie.9667883",
+      "posted_at": "2026-10-10T16:58:13+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791651493.821499",
+      "summary_character_count": 119,
+      "summary_japanese": "気相carbo[6]heliceneを円偏光真空紫外シンクロトロン光と二重イメージング分光で測定し、HOMOのイオン化閾値上数eVで最大約25%の軌道選択的PECDを観測した。量子化学計算はイオン化軌道の電子密度分布に基づく解釈を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Is Photoelectron Circular Dichroism Sensitive to Helical Chirality? The Paradigm of Gas-Phase Carbo[6]Helicene"
     },
     "10.1002/anie.9795533": {
       "doi": "10.1002/anie.9795533",
@@ -11171,6 +11198,19 @@
       "summary_used_fallback": false,
       "title": "In Situ Growth of Copper Phenylacetylide Nanobelts on Copper Foil for Enhanced Electroreduction of CO 2 to Multi-Carbon Products"
     },
+    "10.1021/acsnanoscienceau.6c00116": {
+      "doi": "10.1021/acsnanoscienceau.6c00116",
+      "posted_at": "2026-10-10T16:58:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791651507.428259",
+      "summary_character_count": 98,
+      "summary_japanese": "結晶材料のECDを対象に、Berry接続を用いる周期応答、結晶軌道緩和、GW-BSEによる励起子効果を扱う第一原理法を概説し、幾何学的応答とBSE励起子応答を統合した検証済み手法は未確立と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Challenges and Advances in Elucidating the Electronic Circular Dichroism of Crystalline Materials through First-Principles Calculations"
+    },
     "10.1021/acsnanoscienceau.6c00133": {
       "doi": "10.1021/acsnanoscienceau.6c00133",
       "posted_at": "2026-09-22T21:20:42+00:00",
@@ -14291,6 +14331,19 @@
       "summary_used_fallback": false,
       "title": "Chiral-nematic Fermi liquid state as the parent state of kagome metals and superconductors"
     },
+    "10.1038/s41467-026-78486-w": {
+      "doi": "10.1038/s41467-026-78486-w",
+      "posted_at": "2026-10-10T16:58:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791651511.373129",
+      "summary_character_count": 117,
+      "summary_japanese": "多重変異で基質・立体選択性を高めたP450PL2により、(2-chloropropyl)benzene誘導体を速度論的にエナンチオ選択的水酸化し、二つの立体中心をもつhaloalcoholを最大99:1 er、>99:1 drで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "P450-catalyzed enantiodivergent kinetic oxidation to access chiral haloalcohols"
+    },
     "10.1038/s41467-026-78531-8": {
       "doi": "10.1038/s41467-026-78531-8",
       "posted_at": "2026-10-09T17:58:41+00:00",
@@ -15707,6 +15760,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrafast Faraday rotation probe of chiral phonon-polaritons in LiNbO 3"
+    },
+    "10.1126/sciadv.aed0661": {
+      "doi": "10.1126/sciadv.aed0661",
+      "posted_at": "2026-10-10T16:58:23+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791651503.388959",
+      "summary_character_count": 132,
+      "summary_japanese": "fused silica上の(S)/(R)-naproxenサブ単分子層膜で、蛍光偏光の回転F-ORDを測定し、(S)-体で−4.5 ± 0.5°、(R)-体で符号反転を観測した。応答は試料反転でも反転し、配向した界面キラル分子に選択的な電気双極子機構と一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multidegree fluorescence-optical rotatory dispersion (F-ORD) from submonolayer interfacial chiral films"
     },
     "10.1126/sciadv.aed4187": {
       "doi": "10.1126/sciadv.aed4187",
