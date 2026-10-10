@@ -31,7 +31,7 @@
     "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
-    "2026-10-10": 25
+    "2026-10-10": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1944,6 +1944,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Nanostructured Cobalt Nanoparticles Confined in Zeolite for Syngas Conversion to Liquid Fuels at Low Temperature"
+    },
+    "10.1002/ange.6601433": {
+      "doi": "10.1002/ange.6601433",
+      "posted_at": "2026-10-10T09:51:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791625898.114809",
+      "summary_character_count": 111,
+      "summary_japanese": "キラル単位のみからmesoおよびnear-meso oligoureaを合成し、配列依存的ならせん形成を解析した。末端基の非対称化で螺旋の巻き方向を誘起し、アキラル水素結合受容体との結合で配列依存的な巻き方向反転を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Control of Helix Screw-Sense Preference in Dynamic Foldamers of meso Symmetry Built From Chiral Monomeric Units"
     },
     "10.1002/ange.6690121": {
       "doi": "10.1002/ange.6690121",
@@ -7371,6 +7384,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced 3D-GRID radiotherapy on helical tomotherapy via personalized geometric optimization: A comparative study with IMRT and VMAT"
     },
+    "10.1016/j.enconman.2026.122245": {
+      "doi": "10.1016/j.enconman.2026.122245",
+      "posted_at": "2026-10-10T09:51:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791625906.834519",
+      "summary_character_count": 102,
+      "summary_japanese": "排熱回収用helical-bundle熱交換器を設計し、3次元CFDと熱経済解析で評価した。70 mmピッチはRe=24000で有効度0.602、年間4,699ドルのコスト削減を示し、直管構成を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development and thermo-economic analysis of the helical-bundle heat exchanger concept for exhaust gas heat recovery"
+    },
     "10.1016/j.engstruct.2026.123665": {
       "doi": "10.1016/j.engstruct.2026.123665",
       "posted_at": "2026-09-06T02:55:27+00:00",
@@ -7500,6 +7526,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Experimental study and numerical simulation of shell-side heat transfer and flow characteristics of a novel continuous helical baffled heat exchanger without a central tube"
+    },
+    "10.1016/j.ijthermalsci.2026.111391": {
+      "doi": "10.1016/j.ijthermalsci.2026.111391",
+      "posted_at": "2026-10-10T09:51:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791625910.985569",
+      "summary_character_count": 125,
+      "summary_japanese": "水平設置したhelical cruciform tube内のsupercritical CO2流動・伝熱をSST k-ωモデルで数値解析し、重力場を考慮して直管と比較した。らせん構造の二次流れが熱成層を抑制し、全体熱伝達係数を約14.5%向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Numerical study on thermal stratification and heat transfer characteristics of supercritical CO2 in helical cruciform tubes"
     },
     "10.1016/j.isci.2026.117348": {
       "doi": "10.1016/j.isci.2026.117348",
@@ -7883,6 +7922,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Defect-engineered Mn/Zn-MOF-74-L-His chiral nanozyme for “on-off-on” fluorescent chiral recognition of D/L-cysteine"
+    },
+    "10.1016/j.solener.2026.115201": {
+      "doi": "10.1016/j.solener.2026.115201",
+      "posted_at": "2026-10-10T09:51:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791625902.336699",
+      "summary_character_count": 131,
+      "summary_japanese": "60 m² Scheffler concentrator用上向きヘリカルcavity receiverの熱損失を実験と3次元共役CFDで評価し、効率22～84%を得た。CFDは測定損失を再現し、Ra=1×10⁸～14×10⁸で有効な自然対流Nu相関式を構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A combined experimental and numerical study of heat losses in upward-facing helical cavity receivers"
     },
     "10.1016/j.ssc.2026.116579": {
       "doi": "10.1016/j.ssc.2026.116579",
@@ -18488,6 +18540,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pedagogical Practices in Early Childhood Development: Roles of Facilitators in Community School ECD Centres"
+    },
+    "10.3126/shantij.v5i1.100817": {
+      "doi": "10.3126/shantij.v5i1.100817",
+      "posted_at": "2026-10-10T09:51:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791625915.455359",
+      "summary_character_count": 116,
+      "summary_japanese": "Bhaktapurのcommunity-based校とinstitutional校のECD教育者2名を観察・半構造化面接し、両者は子どもに優しい学習環境を目指す一方、資源制約は前者の自己認識を抑え、後者は自律性の強い制約を認識した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Practices and Perceptions of ECD Educators: A Case Study Comparing Two Different Schools in Bhaktapur"
     },
     "10.31635/ccschem.026.202608194": {
       "doi": "10.31635/ccschem.026.202608194",
