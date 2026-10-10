@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-08": 10,
     "2026-09-09": 15,
     "2026-09-10": 25,
     "2026-09-11": 31,
@@ -32,7 +31,7 @@
     "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
-    "2026-10-10": 15
+    "2026-10-10": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1217,6 +1216,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Chiral Assemblies from Benzoselenadiazole-Alanine-Acylhydrazone Conjugates Enable Cardioprotection"
+    },
+    "10.1002/advs.78181": {
+      "doi": "10.1002/advs.78181",
+      "posted_at": "2026-10-10T00:52:18+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791593538.900049",
+      "summary_character_count": 123,
+      "summary_japanese": "cucurbit[7]urilと[Ru(bpy)3]2+を共有結合した認識応答性ECL発光体を設計し、TPrAの包接による分子内ECL経路で発光強度を162%増大させた。小分子の競合結合により機構と増強を変調し、nM域で抗体非依存検出を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An Engineered Supramolecular Pathway for Enhanced Electrochemiluminescence"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -14162,6 +14174,19 @@
       "summary_used_fallback": false,
       "title": "Catalytic asymmetric dearomatization of (hetero)aromatic frameworks"
     },
+    "10.1038/s41467-026-78374-3": {
+      "doi": "10.1038/s41467-026-78374-3",
+      "posted_at": "2026-10-10T00:52:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791593559.231619",
+      "summary_character_count": 131,
+      "summary_japanese": "magic-angle twisted trilayer grapheneの平面・コーナー型Josephson接合を干渉計測し、結晶方向別の結合を比較した。Tc*∼0.8 K以下で非対称な臨界電流変調と磁場掃引ヒステリシスが現れ、時間反転対称性の破れと整合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Phase-sensitive signatures of time-reversal-symmetry-breaking superconductivity in magic-angle twisted trilayer graphene"
+    },
     "10.1038/s41467-026-78385-0": {
       "doi": "10.1038/s41467-026-78385-0",
       "posted_at": "2026-10-07T18:26:12+00:00",
@@ -15214,6 +15239,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Chiral spin-textures in van der Waals heterostructures"
+    },
+    "10.1088/2053-1583/aeb140": {
+      "doi": "10.1088/2053-1583/aeb140",
+      "posted_at": "2026-10-10T00:52:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791593555.006009",
+      "summary_character_count": 317,
+      "summary_japanese": "Real-space lattice calculations and a local continuum framework show that relaxation in helical multilayer graphene reconstructs the system into locally periodic single-moiré domains. Effective Hamiltonians reveal folded Dirac sectors, while the valley Chern topology depends on the domain and can be tuned by gating.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Supermoiré reconstruction and domain-resolved valley topology in helical multilayer graphene"
     },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
@@ -19387,6 +19425,19 @@
       "summary_used_fallback": false,
       "title": "Gaussian Process Regression-Based Optimization of Helical Gear Tooth Surface Modification for Misalignment Tolerance"
     },
+    "10.3390/technologies14100642": {
+      "doi": "10.3390/technologies14100642",
+      "posted_at": "2026-10-10T00:52:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791593547.851189",
+      "summary_character_count": 103,
+      "summary_japanese": "豪州送電塔基礎向けSteel helical pile群を、事例・設計基準・施工生産性モデルでbored pileと比較した。良好地盤では即時支持力とトルクによる容量確認を示す一方、接地性能は未検証である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Technical Review: Performance, Design, and Deployment of Steel Helical Pile Groups for Transmission Infrastructure"
+    },
     "10.3390/toxics14090747": {
       "doi": "10.3390/toxics14090747",
       "posted_at": "2026-08-30T03:36:48+00:00",
@@ -19672,6 +19723,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "PENGARUH PENGGUNAAN MEDIA VCD DAN MIKROSKOP TERHADAP PENINGKATAN MOTIVASI DAN PRESTASI BELAJAR BIOLOGI SISWA SMP"
+    },
+    "10.5194/essd-2026-743": {
+      "doi": "10.5194/essd-2026-743",
+      "posted_at": "2026-10-10T00:52:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791593543.422959",
+      "summary_character_count": 107,
+      "summary_japanese": "中国53地点のMAX-DOAS観測から、2020～2025年のO3、NO2、HCHO、HONO、SO2のVCDとAODを統一的に処理したデータセットを構築し、衛星・AERONET・地上観測との比較で整合性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A dataset of ground-based VCDs (O 3 , NO 2 , HCHO, HONO, SO 2 ) and AOD observations from the hyperspectral vertical remote sensing network in China (2020-2025)"
     },
     "10.5194/ms-17-799-2026": {
       "doi": "10.5194/ms-17-799-2026",
