@@ -32,7 +32,7 @@
     "2026-10-08": 15,
     "2026-10-09": 15,
     "2026-10-10": 30,
-    "2026-10-11": 5
+    "2026-10-11": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4181,6 +4181,19 @@
       "summary_used_fallback": false,
       "title": "Aromaticity Regulation in Isostructural Metal-Organic Frameworks for Propyne Storage and Propylene Purification"
     },
+    "10.1002/anie.7425389": {
+      "doi": "10.1002/anie.7425389",
+      "posted_at": "2026-10-10T21:09:50+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791666590.199489",
+      "summary_character_count": 134,
+      "summary_japanese": "Crown Etherを用いた多孔性液体電解質は、Zn2+の局所溶媒和を再構築しつつpolyiodideを立体的に抑制し、硫黄酸化還元とZnS変換を可逆化した。0.2 A g−1で0.77 Vの放電平坦部、1 A g−1で1000サイクル後89%の容量維持を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crown Ether-Engineered Porous Liquid-Based Electrolytes Decouple Redox Kinetics and Stability in Zinc-Sulfur Batteries"
+    },
     "10.1002/anie.7494092": {
       "doi": "10.1002/anie.7494092",
       "posted_at": "2026-08-13T23:24:53+00:00",
@@ -6943,6 +6956,19 @@
       "summary_used_fallback": false,
       "title": "Internal Electric Field-Regulated Dual-Site Fe-Re Supramolecular Assembly for Photocatalytic CO 2 Reduction Toward Multicarbon Products"
     },
+    "10.1002/smll.76153": {
+      "doi": "10.1002/smll.76153",
+      "posted_at": "2026-10-10T21:09:57+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791666597.239079",
+      "summary_character_count": 110,
+      "summary_japanese": "動的spiroborate化学と有機対カチオンで水素結合型単結晶HCPを迅速合成した。対カチオン酸性は重合速度とらせん構造を制御し、HCP-TFEAは高湿度下で2.8 × 10−3 S cm−1のプロトン伝導度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-Crystal Helical Covalent Polymers with Organic Counter Cations"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -9664,6 +9690,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Molecular Clamp Enabling Selective Chirality Transfer via Arene-Perfluoroarene Interactions"
+    },
+    "10.1021/acs.nanolett.6c03900": {
+      "doi": "10.1021/acs.nanolett.6c03900",
+      "posted_at": "2026-10-10T21:09:41+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791666581.897399",
+      "summary_character_count": 118,
+      "summary_japanese": "microfluidicsとnanofluidic LP-TEMでchiral wrinkled AuNRsの成長を解析し、金前駆体の高い供給量が長いしわと強いキロプト光学活性を促すこと、還元剤濃度がしわ成長を加速することを直接示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "In Situ Analysis of Chiral Gold Nanorod Growth by Nanofluidic Liquid-Phase Electron Microscopy"
     },
     "10.1021/acs.oprd.6c00194": {
       "doi": "10.1021/acs.oprd.6c00194",
@@ -16463,6 +16502,19 @@
       "summary_used_fallback": false,
       "title": "Hydrogelation via Supramolecular Copolymerization of Structural Water within Adaptive Metal-Organic Fibers"
     },
+    "10.1556/1326.2026.01500": {
+      "doi": "10.1556/1326.2026.01500",
+      "posted_at": "2026-10-10T21:10:01+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791666601.489489",
+      "summary_character_count": 96,
+      "summary_japanese": "Triamcinolone acetonideとキラル局所麻酔薬の二成分混合液をHPLC・顕微鏡・計算解析で評価し、1 h以内の析出が3 h後の濃度低下に先行する溶解度駆動の不安定化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Revealing solubility-driven instability of triamcinolone acetonide with chiral local anesthetics in binary bulk admixtures"
+    },
     "10.15587/1729-4061.2026.367545": {
       "doi": "10.15587/1729-4061.2026.367545",
       "posted_at": "2026-09-04T07:43:28+00:00",
@@ -18528,6 +18580,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "StereoAtlas: A Large-Scale Dataset of Chiral Compounds with Distinct Bioactivities Curated from ChEMBL37"
+    },
+    "10.26434/chemrxiv.15010137/v1": {
+      "doi": "10.26434/chemrxiv.15010137/v1",
+      "posted_at": "2026-10-10T21:09:46+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791666585.958349",
+      "summary_character_count": 112,
+      "summary_japanese": "キラルアルコールをもつ医薬候補の酸触媒SN1溶媒和によるラセミ化を、カルボカチオン生成の電子反応エネルギーから予測する線形回帰モデルを構築し、活性化自由エネルギーをRMSE 4.1 kJ/molで再現した（R²=0.92）。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Predictive Model for Acid-Catalyzed SN1 Solvolysis Racemization of Chiral Alcohols in Water"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
