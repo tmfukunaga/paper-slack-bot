@@ -31,7 +31,8 @@
     "2026-10-08": 15,
     "2026-10-09": 15,
     "2026-10-10": 30,
-    "2026-10-11": 20
+    "2026-10-11": 20,
+    "2026-10-12": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -371,6 +372,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multiscale Confinement and Facile Hierarchical Assembly Enable Full-Color Circularly Polarized Room-Temperature Phosphorescent Fibers"
+    },
+    "10.1002/adfm.78976": {
+      "doi": "10.1002/adfm.78976",
+      "posted_at": "2026-10-11T19:20:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791746427.485479",
+      "summary_character_count": 133,
+      "summary_japanese": "AZIB用添加剤D-/L-proline amideの立体化学効果を比較し、L体の平坦で強いZn表面吸着が核生成障壁と分極を低減してデンドライトを抑制した。Zn||Zn電池は2500 h超安定作動し、Zn||V2O5電池は1000回後に89.83%の容量を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Decoupling Solvation From Interfacial Adsorption: Chiral-Induced Low-Polarization Interface for Aqueous Zinc-Ion Batteries"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -6136,6 +6150,19 @@
       "summary_used_fallback": false,
       "title": "Flow Synthesis of Muscone-Macrocycles Using the Eschenmoser Rearrangement as a Key Step"
     },
+    "10.1002/htj.70395": {
+      "doi": "10.1002/htj.70395",
+      "posted_at": "2026-10-11T19:20:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791746422.636859",
+      "summary_character_count": 96,
+      "summary_japanese": "乱流下の同心二重管熱交換器に両側ヘリカルワイヤコイルを挿入する3D CFDを実験で検証し、Nu数を最大43%、有効度を33～34%向上させ、環状部の熱流動性能係数は1.19～1.65となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Heat Transfer Enhancement in a Concentric Tube Heat Exchanger Using Dual-Side Helical Wire Coil Inserts: A Numerical Study With Experimental Validation"
+    },
     "10.1002/jcc.70477": {
       "doi": "10.1002/jcc.70477",
       "posted_at": "2026-08-01T12:01:06+00:00",
@@ -9092,6 +9119,19 @@
       "summary_used_fallback": false,
       "title": "Proton Transferand Chirality of Ammonia-HX (X = F,Cl, Br) Complexes Confined in Carbon Nanotubes"
     },
+    "10.1021/acs.jpca.6c05362": {
+      "doi": "10.1021/acs.jpca.6c05362",
+      "posted_at": "2026-10-11T19:20:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791746408.738379",
+      "summary_character_count": 108,
+      "summary_japanese": "線状共役拡張で連結したcycloparaphenylenesのortho/meta接続様式を非断熱励起状態分子動力学で比較し、全体緩和は類似する一方、disjoint構造では励起がortho領域へ優先的に局在化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topology-Controlled Excited-State Relaxation in Conjugated Cycloparaphenylenes"
+    },
     "10.1021/acs.jpcb.6c02070": {
       "doi": "10.1021/acs.jpcb.6c02070",
       "posted_at": "2026-07-22T21:01:39+00:00",
@@ -11125,6 +11165,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tunable Noncovalent Interactions for Stereodivergent Organo/Metal Dual Catalysis: Asymmetric Allenylation of Both 3-Alkyl and 3-Aryl Oxindoles"
+    },
+    "10.1021/acscatal.6c07172": {
+      "doi": "10.1021/acscatal.6c07172",
+      "posted_at": "2026-10-11T19:20:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791746415.644779",
+      "summary_character_count": 402,
+      "summary_japanese": "A copper(I)-catalyzed enantioselective alkylation of N-protected aminomethylthiophosphonates with diverse alkyl halides afforded chiral α-aminophosphonate derivatives. Control experiments identified the 9H-fluoren-9-ylidene group and sulfur incorporation in the phosphonate moiety as crucial for efficient deprotonation, while NMR studies showed effective substrate chelation to the copper(I) catalyst.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Synthesis of Chiral α-Aminophosphonate Derivatives through Copper(I)-Catalyzed Enantioselective Alkylation"
     },
     "10.1021/acscentsci.6c00969": {
       "doi": "10.1021/acscentsci.6c00969",
@@ -16604,6 +16657,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Quantum Interference Amplifies Weak Chirality into Giant Quantum Nonreciprocity"
+    },
+    "10.1380/vss.69.549": {
+      "doi": "10.1380/vss.69.549",
+      "posted_at": "2026-10-11T19:20:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791746431.808179",
+      "summary_character_count": 101,
+      "summary_japanese": "原子多重項・多重散乱理論で蜂巣格子Mn単原子層のCD-RPEDを計算し、XMCDが厳密にゼロでもMn-L3共鳴で主に磁気起源の大きなCDと、非偏光下の反対Néelベクトル領域間磁気コントラストを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circular Dichroism in Resonant Photoelectron Diffraction from an Antiferromagnetic Monolayer on a Honeycomb Lattice"
     },
     "10.15495/epub_ubt_00009527": {
       "doi": "10.15495/epub_ubt_00009527",
