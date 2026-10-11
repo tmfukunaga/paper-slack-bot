@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-09": 15,
     "2026-09-10": 25,
     "2026-09-11": 31,
     "2026-09-12": 20,
@@ -32,7 +31,7 @@
     "2026-10-08": 15,
     "2026-10-09": 15,
     "2026-10-10": 30,
-    "2026-10-11": 10
+    "2026-10-11": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -684,6 +683,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity-Defined Analog Conductance States in Chiral Perovskite Synapses"
+    },
+    "10.1002/adma.75311": {
+      "doi": "10.1002/adma.75311",
+      "posted_at": "2026-10-11T03:58:56+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791691136.302149",
+      "summary_character_count": 109,
+      "summary_japanese": "6S-NPはせん断応答性host–guest結合とROS切断性リンカーを備える超潤滑ナノ粒子で、HAより摩擦係数を90%以上低減し、炎症性関節で薬物を放出してIL-6/IL-1β、軟骨細胞老化および軟骨変性を抑制した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Six in One: 6S-NP Supramolecular Nanoparticles for Super-Lubrication, Inflammation Suppression, and Senescence Reversal in Mechanically Aggravated Joint Disorders"
     },
     "10.1002/adma.75314": {
       "doi": "10.1002/adma.75314",
@@ -3868,6 +3880,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Syntheses, X-ray Crystal Structures, and Raman Spectra of Self-Assembled XeO 3 Chain and Network Complexes of Polytopic sp 2 - and sp 3 -Nitrogen Bases"
+    },
+    "10.1002/anie.6516584": {
+      "doi": "10.1002/anie.6516584",
+      "posted_at": "2026-10-11T03:58:37+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791691116.967199",
+      "summary_character_count": 97,
+      "summary_japanese": "ω-Isocyano aldehydesをPasserini・Ugi多成分反応で環化し、温和な条件下で多様な中員環・大環状α-官能基化lactamとtetrazole融合大環状化合物を合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocyclization of ω-Isocyano Aldehydes"
     },
     "10.1002/anie.6564456": {
       "doi": "10.1002/anie.6564456",
@@ -10321,6 +10346,19 @@
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Axially Chiral Tetraphenylethenes via NHC-Catalyzed Desymmetrization and Following Kinetic Resolution"
     },
+    "10.1021/acs.orglett.6c03964": {
+      "doi": "10.1021/acs.orglett.6c03964",
+      "posted_at": "2026-10-11T03:58:52+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791691132.288629",
+      "summary_character_count": 124,
+      "summary_japanese": "キラルリン酸触媒により、プロキラル基質の脱対称化またはラセミ体アトロプ異性体の速度論的分割を経るエナンチオ選択的イミン縮合で、軸不斉biaryl aldehydesを合成した。生成物は不斉触媒や機能性材料に用いられる合成中間体・構造モチーフとなる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Access to Axially Chiral Biaryl Aldehydes via Enantioselective Imine Condensation"
+    },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
       "posted_at": "2026-08-15T19:01:46+00:00",
@@ -16385,6 +16423,19 @@
       "summary_used_fallback": false,
       "title": "Ultrafast chiral sensing with an ultraviolet vector beam"
     },
+    "10.1364/ol.616824": {
+      "doi": "10.1364/ol.616824",
+      "posted_at": "2026-10-11T03:58:47+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791691127.275509",
+      "summary_character_count": 105,
+      "summary_japanese": "二層誘電体メタサーフェスを提案し、層間ナノ構造のねじれ角で光学活性を−90°～90°に連続制御した。円二色性をほぼ抑えつつ、効率0.93超の±90°光学活性と任意の線偏光に対する高効率クロス偏光変換を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Highly efficient and completely controllable optical activity for cross-polarization conversion of arbitrary linear polarization"
+    },
     "10.1364/opticaopen.27952704.v2": {
       "doi": "10.1364/opticaopen.27952704.v2",
       "posted_at": "2026-09-11T22:58:14+00:00",
@@ -19399,6 +19450,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Capillary Electrophoretic Enantioseparation of Profens: Advances in Chiral Selectors, Separation Strategies, and Analytical Applications"
+    },
+    "10.3390/molecules31203580": {
+      "doi": "10.3390/molecules31203580",
+      "posted_at": "2026-10-11T03:58:42+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791691122.813789",
+      "summary_character_count": 117,
+      "summary_japanese": "clindamycin phosphateをキラルセレクターとするキャピラリー電気泳動でTrp、Tyr、Pheを光学分離し、条件最適化とdocking・1H NMRにより、静電相互作用を主軸とする立体識別とTyrの動的結合を解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Clindamycin Phosphate-Mediated Enantioseparation of Amino Acids by Capillary Electrophoresis: Molecular Modeling and NMR Insights into the Chiral Recognition Mechanism"
     },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
