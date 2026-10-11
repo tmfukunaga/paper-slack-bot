@@ -31,7 +31,7 @@
     "2026-10-08": 15,
     "2026-10-09": 15,
     "2026-10-10": 30,
-    "2026-10-11": 15
+    "2026-10-11": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8313,6 +8313,19 @@
       "summary_used_fallback": false,
       "title": "A Fluorinated Cyclorhodium Probe Enables Separation-Free 19F NMR Enantiodifferentiation of Chiral Amines and Nitriles"
     },
+    "10.1021/acs.analchem.6c04475": {
+      "doi": "10.1021/acs.analchem.6c04475",
+      "posted_at": "2026-10-11T12:07:02+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791720422.068299",
+      "summary_character_count": 114,
+      "summary_japanese": "β-CD/TMC nanomembraneとl-tryptophanをTiO2ナノポアに導入し、神経活性分子エナンチオマーを滞留時間・電流振幅で識別した。d-ADの滞留時間は184%増加し、混合系で識別係数42.64を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Solid-State Nanopores Amplify Secondary Interactions for Ionic-Current Discrimination of Neurotransmitter Enantiomers"
+    },
     "10.1021/acs.analchem.6c04721": {
       "doi": "10.1021/acs.analchem.6c04721",
       "posted_at": "2026-09-13T22:52:31+00:00",
@@ -10216,6 +10229,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis of Axially and Centrally Chiral Alkylidenecyclobutanes Enabled by Catalytic Enantioselective Allylboration"
     },
+    "10.1021/acs.orglett.6c03635": {
+      "doi": "10.1021/acs.orglett.6c03635",
+      "posted_at": "2026-10-11T12:06:58+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791720418.279589",
+      "summary_character_count": 119,
+      "summary_japanese": "アキラルCp*Rh(III)触媒とキラルカルボン酸アミド添加剤により、sulfoximinesとdiarylacetylenesを不斉C–H活性化／環化して、多様な1,2-benzothiazinesを最高99%収率、99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral 1,2-Benzothiazine Synthesis via Rhodium-Catalyzed Asymmetric C-H Activation/Cyclization with Chiral Carboxylic Amides"
+    },
     "10.1021/acs.orglett.6c03641": {
       "doi": "10.1021/acs.orglett.6c03641",
       "posted_at": "2026-09-08T10:34:44+00:00",
@@ -11126,6 +11152,19 @@
       "summary_used_fallback": false,
       "title": "Adamantyl-BOX Ligand Enabling Stereoselective Synthesis of Axially Chiral Aldehydes Bearing Vicinal Stereogenic Centers"
     },
+    "10.1021/acscentsci.6c01412": {
+      "doi": "10.1021/acscentsci.6c01412",
+      "posted_at": "2026-10-11T12:06:53+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791720413.851699",
+      "summary_character_count": 118,
+      "summary_japanese": "末端発光団と主鎖を結ぶalkylene spacer長を変えたhomopolypeptideを合成し、自己集合体のCPLを制御した。spacer伸長と重合度最適化により、量子収率50%以上を維持してglumを1.8×10−2まで高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Alkylene Spacer Engineering for Boosting Circularly Polarized Luminescence in Homopolypeptide Self-Assembly"
+    },
     "10.1021/acsmaterialsau.5c00256": {
       "doi": "10.1021/acsmaterialsau.5c00256",
       "posted_at": "2026-08-12T09:48:17+00:00",
@@ -11190,6 +11229,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Correlative Multimodal Framework Reveals Supramolecular Chirality Loss Preceding Fibrillar Rarefaction in Dermal Collagen"
+    },
+    "10.1021/acsnano.6c08236": {
+      "doi": "10.1021/acsnano.6c08236",
+      "posted_at": "2026-10-11T12:07:08+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791720428.447019",
+      "summary_character_count": 119,
+      "summary_japanese": "L-/D-FPF安定化キラルZnO nanoneedlesは、class Iウイルス融合タンパク質HR2を捕捉し、405 nm光で選択的に切断・不活化した。L-NNsは複数ウイルスにIC50 26.88 ng/mL未満の広域活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photoactive Chiral Nanoneedles for Site-Selective Cleavage and Broad-Spectrum Inactivation of Viruses"
     },
     "10.1021/acsnano.6c08594": {
       "doi": "10.1021/acsnano.6c08594",
@@ -12951,6 +13003,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Redox-Driven Antiaromaticity Enables Multistate Conductance in 1D Topological Insulators"
+    },
+    "10.1021/jacs.6c15886": {
+      "doi": "10.1021/jacs.6c15886",
+      "posted_at": "2026-10-11T12:07:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791720432.575249",
+      "summary_character_count": 120,
+      "summary_japanese": "エタン、プロパン、イソブタンを用いるアルケンの不斉三成分dicarbofunctionalizationを、HAT光触媒とキラルNi触媒の併用で実現し、最大>20:1 rr、99:1 erでキラルα-aryl carbonyl化合物を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Regio- and Enantioselective Functionalization of Gaseous Alkanes via Nickel-Catalyzed Alkene Dicarbofunctionalization"
     },
     "10.1021/jacs.6c15890": {
       "doi": "10.1021/jacs.6c15890",
