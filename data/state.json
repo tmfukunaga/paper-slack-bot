@@ -32,7 +32,7 @@
     "2026-10-10": 30,
     "2026-10-11": 20,
     "2026-10-12": 8,
-    "2026-10-13": 5
+    "2026-10-13": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6007,6 +6007,19 @@
       "summary_used_fallback": false,
       "title": "Resolution Approaches Toward Enantiopure Planar Chiral 7-bromo-4-hydroxy [2.2]paracyclophane"
     },
+    "10.1002/ejoc.70822": {
+      "doi": "10.1002/ejoc.70822",
+      "posted_at": "2026-10-12T21:17:00+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791839820.764459",
+      "summary_character_count": 127,
+      "summary_japanese": "Quinine触媒下、malononitrile誘導体をenyneへエナンチオ選択的共役付加し、溶媒・温度で立体結果を制御して両ジアステレオマーの三置換キラルalleneを高収率・高eeで得た。生成物はpyrazoleやfuranへ効率的に誘導化された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Conjugate Addition of Malononitriles to Enynes: A Stereodivergent Approach to Chiral Allenes"
+    },
     "10.1002/ejoc.70824": {
       "doi": "10.1002/ejoc.70824",
       "posted_at": "2026-09-11T11:22:26+00:00",
@@ -7658,6 +7671,19 @@
       "summary_used_fallback": false,
       "title": "Catalytic combustion of air-methane within a helical microchannel utilizing a molecular dynamics approach: the impact of toluene concentration with various oxygen ratios on thermal and atomic properties"
     },
+    "10.1016/j.icheatmasstransfer.2026.112826": {
+      "doi": "10.1016/j.icheatmasstransfer.2026.112826",
+      "posted_at": "2026-10-12T21:17:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791839830.025519",
+      "summary_character_count": 116,
+      "summary_japanese": "R32のhelical pipe evaporator内沸騰をCFD解析し、運転・幾何条件がHTC、圧力損失、蒸気率に及ぼす影響を評価した。最初のらせん部でHTCは最大となり、HPEは他形状よりHTC向上が最大だがΔPも大きかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A CFD-based investigation of flow boiling of R32 in helical pipe evaporator: Parametric effects, phase-change behavior, and thermohydraulic benchmarking"
+    },
     "10.1016/j.ijthermalsci.2026.111338": {
       "doi": "10.1016/j.ijthermalsci.2026.111338",
       "posted_at": "2026-09-21T18:10:26+00:00",
@@ -7722,6 +7748,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Functional switching from circularly polarized luminescence to whispering gallery modes in a chiral Schiff base"
+    },
+    "10.1016/j.istruc.2026.113243": {
+      "doi": "10.1016/j.istruc.2026.113243",
+      "posted_at": "2026-10-12T21:17:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791839825.389879",
+      "summary_character_count": 113,
+      "summary_japanese": "モジュール型円筒コイルばねと積層鉛ゴム支承を並列化した3DVMを設計し、試験と多パラメータ最適化で性能を検証した。鉛直556 kN、水平等価減衰比10.94%を示し、水平・鉛直応答の双方向独立制御と安定した履歴減衰を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An innovative design of three-dimensional vibration-damping support based on modular cylindrical helical springs"
     },
     "10.1016/j.jcat.2026.117094": {
       "doi": "10.1016/j.jcat.2026.117094",
@@ -8014,6 +8053,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Can Intrinsic Electron Spin Phase-Stabilize Coherent Synchrotron Radiation? A Quantitative No-Go Analysis for Magnetized Helical Channels"
+    },
+    "10.1016/j.nme.2026.102234": {
+      "doi": "10.1016/j.nme.2026.102234",
+      "posted_at": "2026-10-12T21:17:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791839835.288329",
+      "summary_character_count": 107,
+      "summary_japanese": "LHD閉ヘリカルダイバータのW被覆板侵食をERO2.0で評価し、侵食優勢域は再現したが、中期のW発光増大と終期のW層完全枯渇は再現できなかった。構造劣化・温度変化を考慮したスパッタリング収率の導入が必要と示された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Evaluation of the predictive accuracy of tungsten erosion evolution on divertor plates in the large helical device using ERO2.0"
     },
     "10.1016/j.nucengdes.2026.115221": {
       "doi": "10.1016/j.nucengdes.2026.115221",
@@ -8534,6 +8586,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Efficient Macrocyclic Trap for Capture of Pyridine"
+    },
+    "10.1021/acs.chemmater.6c01722": {
+      "doi": "10.1021/acs.chemmater.6c01722",
+      "posted_at": "2026-10-12T21:16:55+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791839815.885859",
+      "summary_character_count": 129,
+      "summary_japanese": "alkyl ammonium、18-crown-6、metal halide hydrateからなる結晶性超分子ジャイロスコープで、SSNMRと誘電分光法を併用し、crown etherと配位水の水素結合媒介の同期回転およびアルキル再配向を定量的に解明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergy of Solid-State NMR and Dielectric Spectroscopy Reveals Synchronized Multi-Rotor Dynamics in Crystalline Supramolecular Gyroscopes"
     },
     "10.1021/acs.chemmater.6c01997": {
       "doi": "10.1021/acs.chemmater.6c01997",
