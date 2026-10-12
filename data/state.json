@@ -31,7 +31,8 @@
     "2026-10-09": 15,
     "2026-10-10": 30,
     "2026-10-11": 20,
-    "2026-10-12": 8
+    "2026-10-12": 8,
+    "2026-10-13": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -332,6 +333,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Adsorption of Selected Chiral Small Molecules Preserves Stacking-Dependent Polarization at van der Waals Interfaces"
+    },
+    "10.1002/adfm.78700": {
+      "doi": "10.1002/adfm.78700",
+      "posted_at": "2026-10-12T20:54:29+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791838469.475789",
+      "summary_character_count": 108,
+      "summary_japanese": "曲率で鏡映対称性を破ったNi split-ring metasurfaceは、面内磁化により静的CD contrastを9.4から33.6へ増幅し、光ポンプTHzプローブで約0.5 psの過渡円二色性再配分を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast Magneto-Geometric Control of Terahertz Helicity in Curved Ni Metasurfaces"
     },
     "10.1002/adfm.78714": {
       "doi": "10.1002/adfm.78714",
@@ -1073,6 +1087,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Catalytic Asymmetric Synthesis of Axially Chiral Amides"
+    },
+    "10.1002/adsc.70791": {
+      "doi": "10.1002/adsc.70791",
+      "posted_at": "2026-10-12T20:54:37+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791838477.290839",
+      "summary_character_count": 116,
+      "summary_japanese": "キラルリン酸触媒によるprochiral dialdehydesへのallylboronateの脱対称的エナンチオ選択的付加で、C─O軸不斉とベンジル位不斉を持つdiaryl ethersを温和な条件下で良好な選択性により合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Atroposelective Synthesis of Axially Chiral Diaryl Ethers via Organocatalyzed Enantioselective Desymmetric Allyl Addition"
     },
     "10.1002/advs.202522741": {
       "doi": "10.1002/advs.202522741",
@@ -7020,6 +7047,19 @@
       "summary_used_fallback": false,
       "title": "Single-Crystal Helical Covalent Polymers with Organic Counter Cations"
     },
+    "10.1002/smll.76205": {
+      "doi": "10.1002/smll.76205",
+      "posted_at": "2026-10-12T20:54:25+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791838465.046859",
+      "summary_character_count": 103,
+      "summary_japanese": "固定ヘリカルピッチでm-SWNTを単鎖被覆するキラルポリマー複合体を設計し、磁気輸送測定でコヒーレンス長の5倍増大と、弱局在型からspin-orbit couplingに由来する弱反局在型への転移を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhancing Coherence Length in Tailored Chiral Hybrid Polymer-Wrapped Single-Walled Carbon Nanotube Superstructures"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -7805,6 +7845,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Superior flexible Zn-ion battery using vanadium oxide nanobelts cathode enables medium temperature range and ultrafast Zn2+ intercalation"
+    },
+    "10.1016/j.matdes.2026.117210": {
+      "doi": "10.1016/j.matdes.2026.117210",
+      "posted_at": "2026-10-12T20:54:20+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791838460.558709",
+      "summary_character_count": 127,
+      "summary_japanese": "植物の螺旋葉序を模倣し、固相率勾配・拡大する螺旋薄板・キラリティーを備えた3D印刷helical-vortexメタ構造を設計した。誘電損失複合材との組合せで、RL≤−10 dBの吸収帯域5.2–18 GHzと、入射角45°までの角度・偏光不感性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3D printed bioinspired chiral helical-vortex metastructures for broadband electromagnetic wave absorption"
     },
     "10.1016/j.matlit.2026.100112": {
       "doi": "10.1016/j.matlit.2026.100112",
@@ -12977,6 +13030,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ligand-Shell Softness Directs Symmetry Transitions in Nanotripod Superstructures"
+    },
+    "10.1021/jacs.6c14062": {
+      "doi": "10.1021/jacs.6c14062",
+      "posted_at": "2026-10-12T20:54:16+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791838456.122609",
+      "summary_character_count": 107,
+      "summary_japanese": "Er(III)を基盤とするエナンチオ純粋キラル分子結晶で、1.5 μm帯のf-f遷移における磁場誘起・波長選択的な非相反吸収変化が最大約200%に達し、高いMagneto-Chiral Dichroismを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Wavelength-Selective Magneto-Optical Diodes Based on Rare-Earth Chiral Molecular Crystals"
     },
     "10.1021/jacs.6c14403": {
       "doi": "10.1021/jacs.6c14403",
