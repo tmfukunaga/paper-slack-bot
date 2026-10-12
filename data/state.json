@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-10": 25,
     "2026-09-11": 31,
     "2026-09-12": 20,
     "2026-09-13": 1,
@@ -32,7 +31,7 @@
     "2026-10-09": 15,
     "2026-10-10": 30,
     "2026-10-11": 20,
-    "2026-10-12": 5
+    "2026-10-12": 8
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7424,6 +7423,19 @@
       "summary_used_fallback": false,
       "title": "A nonlinear shaft-plate coupled load transfer model for axially loaded helical piles"
     },
+    "10.1016/j.compgeo.2026.108710": {
+      "doi": "10.1016/j.compgeo.2026.108710",
+      "posted_at": "2026-10-12T00:13:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791764034.213959",
+      "summary_character_count": 97,
+      "summary_japanese": "中密〜密な砂中のhelical anchorをMPMで解析し、遠心模型試験で検証した。複数helixの引抜き抵抗はhelix間相互作用と荷重再配分に支配され、寄与度加重の支持力正規化を提案した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modeling and analysis of the effect of helix geometry on the uplift capacity of helical anchors for floating offshore wind applications using the material point method"
+    },
     "10.1016/j.compstruct.2026.120759": {
       "doi": "10.1016/j.compstruct.2026.120759",
       "posted_at": "2026-08-09T19:50:44+00:00",
@@ -8508,6 +8520,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Successive RingExpansion Strategies for the Synthesisof Macrocycles and Medium-Sized Rings"
+    },
+    "10.1021/acs.chemrev.6c00441": {
+      "doi": "10.1021/acs.chemrev.6c00441",
+      "posted_at": "2026-10-12T00:13:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791764029.933139",
+      "summary_character_count": 93,
+      "summary_japanese": "PdおよびIr触媒による不斉双極子環化付加とカスケード反応を用いた7～11員環キラル中員環の合成を、金属種・前駆体・双極子生成様式別に総説し、選択性、基質適用性、一般性の課題を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Dipolar Cycloadditions toward Chiral Medium-Sized Rings under Palladium and Iridium Catalysis"
     },
     "10.1021/acs.energyfuels.6c02261": {
       "doi": "10.1021/acs.energyfuels.6c02261",
@@ -12692,6 +12717,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrafast Aqueous Photoinduced Electron/Energy Transfer Reversible Addition-Fragmentation Chain Transfer Polymerization-Induced Self-Assembly: Wavelength-Dependent Morphologies and Scalable Nanoparticle Preparation"
+    },
+    "10.1021/jacs.6c11873": {
+      "doi": "10.1021/jacs.6c11873",
+      "posted_at": "2026-10-12T00:13:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791764025.896399",
+      "summary_character_count": 109,
+      "summary_japanese": "S2−/SO42−無機テンプレートで安定化したAg78-1〜Ag78-4において、中心Cl−除去と表面塩化物置換によるAg6内核収縮をX線構造解析・分光・計算で追跡し、低エネルギー電子状態と励起状態緩和の変調を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Capturing Ag6 Inner-Core Contraction in Inorganic-Template-Stabilized Ag78 Nanoclusters"
     },
     "10.1021/jacs.6c12029": {
       "doi": "10.1021/jacs.6c12029",
