@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-11": 31,
     "2026-09-12": 20,
     "2026-09-13": 1,
     "2026-09-14": 30,
@@ -32,7 +31,7 @@
     "2026-10-10": 30,
     "2026-10-11": 20,
     "2026-10-12": 8,
-    "2026-10-13": 10
+    "2026-10-13": 11
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8131,6 +8130,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inclined pullout performance of helical anchors for floating offshore wind turbines: A geometry-driven mechanism shift"
+    },
+    "10.1016/j.rineng.2026.113385": {
+      "doi": "10.1016/j.rineng.2026.113385",
+      "posted_at": "2026-10-13T02:25:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791858313.502299",
+      "summary_character_count": 123,
+      "summary_japanese": "EV向け22.68 kW Hybrid WPTを数値設計し、多重ヘリカル構造と135°ノーズ形中空円筒板で横ずれ耐性・電界安全性を高めた。100 mmギャップで最大99.73%のACリンク効率、200 mm横ずれで10.50 kW出力を予測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Field-safe multi-helical hybrid wireless power transfer with edge-field mitigated hollow cylindrical plates and enhanced misalignment performance for electric vehicles"
     },
     "10.1016/j.snb.2026.140942": {
       "doi": "10.1016/j.snb.2026.140942",
