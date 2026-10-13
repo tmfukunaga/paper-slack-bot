@@ -32,7 +32,7 @@
     "2026-10-11": 20,
     "2026-10-12": 8,
     "2026-10-13": 11,
-    "2026-10-14": 5
+    "2026-10-14": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8457,6 +8457,19 @@
       "summary_used_fallback": false,
       "title": "Silver Ion-Regulated Luminescence of Chiral Au-Cysteine Nanoflowers for Highly Effective Enantioselective Recognition of Glutamine"
     },
+    "10.1021/acs.analchem.6c03886": {
+      "doi": "10.1021/acs.analchem.6c03886",
+      "posted_at": "2026-10-13T18:52:49+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791917569.473119",
+      "summary_character_count": 117,
+      "summary_japanese": "l-glutamic-acid修飾MIL-125(Ti)をTiO2ナノチューブFabry-Pérot空洞内に成長させ、Cu2+–catechol配位でDOPAエナンチオマーの屈折率変化を増幅し、静置・流通下で10−8 Mまで識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cu2+-Catechol Coordination-Enabled Chiral Fabry-Perot Interferometer for Amplifying Weak Enantioselective Interactions"
+    },
     "10.1021/acs.analchem.6c04189": {
       "doi": "10.1021/acs.analchem.6c04189",
       "posted_at": "2026-09-11T07:57:30+00:00",
@@ -9223,6 +9236,19 @@
       "summary_used_fallback": false,
       "title": "Mechanism and Stereocontrol in Chiral Phosphoric Acid-Catalyzed Ynamide-Mediated Atroposelective Couplings of Carboxylic Acids with Amines and Alcohols"
     },
+    "10.1021/acs.joc.6c01505": {
+      "doi": "10.1021/acs.joc.6c01505",
+      "posted_at": "2026-10-13T18:52:31+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791917551.926489",
+      "summary_character_count": 130,
+      "summary_japanese": "シアノ基を基盤とするD-A型[5]helicenes N[5]HsおよびP[5]HsをRosenmund-von Braun反応などで合成し、ICT強化によりΦFL 39%を達成した。P[5]HE3CNは最大|glum|=8.7×10−3のCPL特性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "pi-Extended D-A Type [5]Helicenes: Cyano-Based Construction and Enhanced CPL Performance"
+    },
     "10.1021/acs.joc.6c01788": {
       "doi": "10.1021/acs.joc.6c01788",
       "posted_at": "2026-09-09T22:55:35+00:00",
@@ -9300,6 +9326,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Proton Transferand Chirality of Ammonia-HX (X = F,Cl, Br) Complexes Confined in Carbon Nanotubes"
+    },
+    "10.1021/acs.jpca.6c04767": {
+      "doi": "10.1021/acs.jpca.6c04767",
+      "posted_at": "2026-10-13T18:52:45+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791917565.454179",
+      "summary_character_count": 110,
+      "summary_japanese": "(S)-2-Methylaziridineの気相・7種溶媒中ORDを測定し、CCSD計算と振動寄与を組み合わせて気相のゼロ交差を再現した。2配座の拮抗的旋光性が寄与し、PCM/SMDでは溶液ORD形状を再現できなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dispersive Optical Activity of ( S )-2-Methylaziridine: Intrinsic Properties and Extrinsic Solvation Effects"
     },
     "10.1021/acs.jpca.6c05362": {
       "doi": "10.1021/acs.jpca.6c05362",
@@ -19023,6 +19062,19 @@
       "summary_used_fallback": false,
       "title": "Predictive Model for Acid-Catalyzed SN1 Solvolysis Racemization of Chiral Alcohols in Water"
     },
+    "10.26434/chemrxiv.15010288/v1": {
+      "doi": "10.26434/chemrxiv.15010288/v1",
+      "posted_at": "2026-10-13T18:52:40+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791917560.546289",
+      "summary_character_count": 132,
+      "summary_japanese": "電子供与・求引基をもつphenylalanine由来HIMのTBA-Cl会合をNMRで解析し、I–Cl結合定数がHammett則と直線相関することを示した。求引基は結合を強め、macrocycleの解体を促進し、FTIRのcarbonyl周波数も親和性と相関した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Substituent Effects on Anion Bonding and Disassembly of Hypervalent Iodine Macrocycles"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -19646,6 +19698,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Surface Roughness and Burr Height in Helical Milling of Ti-6Al-4V: Factorial Analysis and Grouped Machine-Learning Validation"
+    },
+    "10.3390/macromol6040097": {
+      "doi": "10.3390/macromol6040097",
+      "posted_at": "2026-10-13T18:52:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791917547.381739",
+      "summary_character_count": 104,
+      "summary_japanese": "アミノ酸由来キラルcarbon dots（c-CDs）について、前駆体構造と合成条件がキラリティー移行、光学特性、粒子構造、機能に及ぼす影響を総説し、キラリティー生成・反転・消失機構と構造物性相関を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Amino Acid-Derived Carbon Dots Exhibiting Chiroptical Properties: Recent Advances and Structure-Property Relationships"
     },
     "10.3390/magnetochemistry12080089": {
       "doi": "10.3390/magnetochemistry12080089",
