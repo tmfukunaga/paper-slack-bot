@@ -32,7 +32,7 @@
     "2026-10-11": 20,
     "2026-10-12": 8,
     "2026-10-13": 11,
-    "2026-10-14": 10
+    "2026-10-14": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8508,6 +8508,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aldehyde-Functionalized Eu(III) Helicate for l -Cysteine-Specific CPL Detection through Cyclization-Induced M-Helix Excess"
+    },
+    "10.1021/acs.bioconjchem.6c00313": {
+      "doi": "10.1021/acs.bioconjchem.6c00313",
+      "posted_at": "2026-10-13T22:46:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791931563.229979",
+      "summary_character_count": 133,
+      "summary_japanese": "glycosylated diarylmethyloxy-triazinesを保護基不要かつβ-anomer選択的に合成し、水中で自己集合するナノ構造と超分子ヒドロゲルを形成した。aryl置換基と二糖のglycosidic linkage幾何がゲル化を強く左右した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Glycosylated Diarylmethyloxy-Triazines: Facile Synthesis and Aqueous Self-Assembly for Supramolecular Hydrogel Formation"
+    },
+    "10.1021/acs.biomac.6c02094": {
+      "doi": "10.1021/acs.biomac.6c02094",
+      "posted_at": "2026-10-13T22:46:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791931571.427449",
+      "summary_character_count": 112,
+      "summary_japanese": "Curcuminとborneolをcyclodextrinで共包接し、接着性温度応答性共重合体に導入した注射型hydrogelを開発した。80%超のラジカル消去能を示し、ラット口腔潰瘍でROS・細菌増殖を抑え治癒を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Functional Supramolecular Hydrogel with Host-Guest Cyclodextrin Co-Delivery of Curcumin and Borneol Actively Remodels the Pathological Microenvironment of Oral Ulcers"
     },
     "10.1021/acs.cgd.6c00558": {
       "doi": "10.1021/acs.cgd.6c00558",
@@ -19062,6 +19088,32 @@
       "summary_used_fallback": false,
       "title": "Predictive Model for Acid-Catalyzed SN1 Solvolysis Racemization of Chiral Alcohols in Water"
     },
+    "10.26434/chemrxiv.15010248/v1": {
+      "doi": "10.26434/chemrxiv.15010248/v1",
+      "posted_at": "2026-10-13T22:45:59+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791931559.359079",
+      "summary_character_count": 105,
+      "summary_japanese": "Kremer-Grestモデルの分子動力学計算でpoly[n]catenane融体のTgを共有結合型環状類縁体と比較し、機械的連結によるTg上昇は小環で最大0.44 εkB−1、m≥20で消失することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topology-Dependent Glass Formation Behavior in Poly[n]catenane Melts with Variable Ring Size and Chain Length"
+    },
+    "10.26434/chemrxiv.15010263/v1": {
+      "doi": "10.26434/chemrxiv.15010263/v1",
+      "posted_at": "2026-10-13T22:45:55+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791931555.180669",
+      "summary_character_count": 114,
+      "summary_japanese": "フルオロ親和性分配とpyridine受容体を組み込んだコレステリック液晶を液滴化・光硬化インク化し、反射色の青方偏移で5種のPFASを検出した。前濃縮なしで検出限界5.9 pptを達成し、3種の水マトリクスで同等の性能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cholesteric Liquid Crystals for Ultratrace PFAS Detection"
+    },
     "10.26434/chemrxiv.15010288/v1": {
       "doi": "10.26434/chemrxiv.15010288/v1",
       "posted_at": "2026-10-13T18:52:40+00:00",
@@ -19906,6 +19958,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Clindamycin Phosphate-Mediated Enantioseparation of Amino Acids by Capillary Electrophoresis: Molecular Modeling and NMR Insights into the Chiral Recognition Mechanism"
+    },
+    "10.3390/molecules31203612": {
+      "doi": "10.3390/molecules31203612",
+      "posted_at": "2026-10-13T22:46:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791931575.345329",
+      "summary_character_count": 120,
+      "summary_japanese": "Polygonum perfoliatum L.の抗酸化成分をoffline LC×LC-ECD、UHPLC-Orbitrap-MS/MSで解析し、63種を注釈した。主要11成分を定量し、地理的産地が成分プロファイルに影響することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Screening of Phenolic Antioxidant Components in Polygonum perfoliatum L. Using LC×LC-ECD and UPLC-Orbitrap-MS/MS"
     },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
