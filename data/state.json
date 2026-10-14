@@ -31,7 +31,8 @@
     "2026-10-11": 20,
     "2026-10-12": 8,
     "2026-10-13": 11,
-    "2026-10-14": 17
+    "2026-10-14": 17,
+    "2026-10-15": 4
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -13277,6 +13278,19 @@
       "summary_used_fallback": false,
       "title": "Ion-Mediated Configuration Regulation and Chiralization in Cu(I) Cluster-Based Metallic Cages"
     },
+    "10.1021/jacs.6c14452": {
+      "doi": "10.1021/jacs.6c14452",
+      "posted_at": "2026-10-14T17:12:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791997942.187489",
+      "summary_character_count": 133,
+      "summary_japanese": "多座陰イオン性N,N,N(P)配位子により競合radical経路を抑え、多様なアルケンとalkyl halidesのCu触媒的不斉1,2-carbosulfenylationを実現し、α-chiral alkyl organosulfur compoundsを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Copper-Catalyzed Chemo- and Enantioselective Radical 1,2-Carbosulfenylation of Diverse Alkenes with Broad Radical and Sulfur Compatibility"
+    },
     "10.1021/jacs.6c14478": {
       "doi": "10.1021/jacs.6c14478",
       "posted_at": "2026-10-01T00:34:08+00:00",
@@ -14863,6 +14877,32 @@
       "summary_used_fallback": false,
       "title": "P450-catalyzed enantiodivergent kinetic oxidation to access chiral haloalcohols"
     },
+    "10.1038/s41467-026-78496-8": {
+      "doi": "10.1038/s41467-026-78496-8",
+      "posted_at": "2026-10-14T17:12:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791997934.654719",
+      "summary_character_count": 90,
+      "summary_japanese": "cryo-EMでMtbのLLG輸送体WzmWztの基質結合・ATP結合・中間状態を解析し、LLG認識と輸送に必須なWzm IFNおよびWztヘリカルドメイン残基を変異体で同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recognition and mechanism of M. tuberculosis cell wall galactan transport"
+    },
+    "10.1038/s41467-026-78513-w": {
+      "doi": "10.1038/s41467-026-78513-w",
+      "posted_at": "2026-10-14T17:12:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791997930.073059",
+      "summary_character_count": 113,
+      "summary_japanese": "室温van der Waals強磁性体Fe3GaTe2で、ゼロ磁場下に分数電荷をもつsurface twistsを観測した。電流駆動ではそのscintillationとバルクskyrmion stringsの秩序運動を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological diversity and scintillating dynamics of dipolar surface twists in a van der Waals magnet"
+    },
     "10.1038/s41467-026-78531-8": {
       "doi": "10.1038/s41467-026-78531-8",
       "posted_at": "2026-10-09T17:58:41+00:00",
@@ -14875,6 +14915,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cooperative outer-surface recognition extends host-guest chemistry for high-capacity molecular separation beyond cavity inclusion"
+    },
+    "10.1038/s41467-026-78557-y": {
+      "doi": "10.1038/s41467-026-78557-y",
+      "posted_at": "2026-10-14T17:12:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791997921.791729",
+      "summary_character_count": 119,
+      "summary_japanese": "柔軟・キラルなpolyoxometalate系圧電subnanowire ZnBiPMo12を合成し、圧電係数24.9 pC/Nを示した。これを用いる無線PE-skinは微小圧力と生理信号を計測し、機械学習で9種の表情と12語を認識した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intrinsically flexible inorganic piezoelectric subnanowire enables wireless wearable bioelectronics for non-invasive multimodal human-machine interfacing"
     },
     "10.1038/s41467-026-78564-z": {
       "doi": "10.1038/s41467-026-78564-z",
