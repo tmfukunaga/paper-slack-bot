@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-12": 20,
     "2026-09-13": 1,
     "2026-09-14": 30,
     "2026-09-15": 15,
@@ -32,7 +31,7 @@
     "2026-10-11": 20,
     "2026-10-12": 8,
     "2026-10-13": 11,
-    "2026-10-14": 15
+    "2026-10-14": 17
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8131,6 +8130,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inclined pullout performance of helical anchors for floating offshore wind turbines: A geometry-driven mechanism shift"
+    },
+    "10.1016/j.rechem.2026.103945": {
+      "doi": "10.1016/j.rechem.2026.103945",
+      "posted_at": "2026-10-14T00:08:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791936528.642089",
+      "summary_character_count": 103,
+      "summary_japanese": "Au(111)上で構築された蝶形tetraradical nanographeneの次元ωについて、グラフ理論に基づくトポロジー指標の厳密な式とエントロピー尺度を導出し、π電子エネルギーとの相関を解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Graph theoretical and entropic insights into the pi-electron properties of nanographene butterfly structures"
     },
     "10.1016/j.rineng.2026.113385": {
       "doi": "10.1016/j.rineng.2026.113385",
@@ -16826,6 +16838,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Generation of chirality controllable vector vortex beams from a digital alkali laser"
+    },
+    "10.1364/oe.612338": {
+      "doi": "10.1364/oe.612338",
+      "posted_at": "2026-10-14T00:08:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1791936524.418649",
+      "summary_character_count": 108,
+      "summary_japanese": "回転対称構造をもつpolypropylene製柔軟キラル光ファイバーをmelt spinningで作製し、中空コアと8個の中空半環からなる構造で4.3 THzの良好な伝送と直線偏光から楕円偏光への効率的変換を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarization conversion of a flexible chiral optical fiber in the terahertz band"
     },
     "10.1364/ol.606684": {
       "doi": "10.1364/ol.606684",
