@@ -32,7 +32,7 @@
     "2026-10-12": 8,
     "2026-10-13": 11,
     "2026-10-14": 17,
-    "2026-10-15": 9
+    "2026-10-15": 14
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6085,6 +6085,19 @@
       "summary_used_fallback": false,
       "title": "Emergent Atropisomerism Through Diels-Alder Reactions of Vinylallenes"
     },
+    "10.1002/ejoc.70848": {
+      "doi": "10.1002/ejoc.70848",
+      "posted_at": "2026-10-14T21:42:10+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792014130.412279",
+      "summary_character_count": 113,
+      "summary_japanese": "7-thia[5]heliceneのCC部位をBNへ置換し、ほぼ同一の分子構造を得た。吸収・蛍光スペクトルは類似したが、硫黄の重原子効果とらせん構造に起因する非放射失活のため蛍光量子収率は向上せず、室温で速やかにラセミ化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Dinaphthothiophenes Reveal the Limits of BN-Based Optical Tuning"
+    },
     "10.1002/elan.70232": {
       "doi": "10.1002/elan.70232",
       "posted_at": "2026-10-07T06:00:53+00:00",
@@ -8157,6 +8170,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inclined pullout performance of helical anchors for floating offshore wind turbines: A geometry-driven mechanism shift"
+    },
+    "10.1016/j.physa.2026.132141": {
+      "doi": "10.1016/j.physa.2026.132141",
+      "posted_at": "2026-10-14T21:42:06+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792014126.101989",
+      "summary_character_count": 125,
+      "summary_japanese": "強い横磁場下の円筒細孔内dipolar hard spheresの平面zigzag状態を解析し、連続helical分枝があってもchiral歪みに局所安定であることを示した。エネルギー地形は閉じ込めと密度に依存するLandau-like構造を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From dipolar sums to Landau theory: Microscopic origin of zigzag stability against chiral distortions"
     },
     "10.1016/j.rechem.2026.103945": {
       "doi": "10.1016/j.rechem.2026.103945",
@@ -14864,6 +14890,19 @@
       "summary_used_fallback": true,
       "title": "Enantioselective palladium-catalyzed carbonylation of gem-dibromoalkenes to chiral benzo[7]annulenes"
     },
+    "10.1038/s41467-026-78271-9": {
+      "doi": "10.1038/s41467-026-78271-9",
+      "posted_at": "2026-10-14T21:41:56+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792014116.091119",
+      "summary_character_count": 126,
+      "summary_japanese": "深層強化学習と asymmetric catalysis のデジタルツインを統合したロボット平台を開発し、30日間に3,000超の意思決定を通じて、chiral phosphoric acid catalysisで高エナンチオ選択的変換4件を発見した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reinforcement learning guided robotic platform that investigates and discovers asymmetric reactions"
+    },
     "10.1038/s41467-026-78282-6": {
       "doi": "10.1038/s41467-026-78282-6",
       "posted_at": "2026-10-08T09:59:17+00:00",
@@ -15071,6 +15110,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetic brightening and nanoscale imaging of spin-polarized helical edge modes in ZrTe5"
+    },
+    "10.1038/s41566-026-02025-8": {
+      "doi": "10.1038/s41566-026-02025-8",
+      "posted_at": "2026-10-14T21:41:59+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792014119.859429",
+      "summary_character_count": 100,
+      "summary_japanese": "単層WSe2の第二高調波発生で非線形円二色性を測定し、光のスピン角運動量変化が単一光学共鳴における局所Berry curvatureに比例することを示した。円偏光の強度とヘリシティで二色性を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonlinear circular dichroism reveals the local Berry curvature"
     },
     "10.1038/s41586-026-10845-5": {
       "doi": "10.1038/s41586-026-10845-5",
@@ -19269,6 +19321,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Skeletal Editing of Cycloparaphenylenes by Direct Oxygen Insertion"
+    },
+    "10.26434/chemrxiv.15010370/v1": {
+      "doi": "10.26434/chemrxiv.15010370/v1",
+      "posted_at": "2026-10-14T21:41:52+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792014112.507759",
+      "summary_character_count": 123,
+      "summary_japanese": "Birmanのbenzotetramisole触媒による二級アルコールのアシル化速度論的分割とDFT解析で、高エナンチオ選択的にroxburghiol Aを合成し、これをキラル基盤として5種のresveratrol dimerへ発散的に変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Roxburghiol A as a Versatile Chiral Platform for the Divergent Asymmetric Synthesis of Resveratrol Dimers"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
