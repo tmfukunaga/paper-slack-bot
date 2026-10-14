@@ -32,7 +32,7 @@
     "2026-10-12": 8,
     "2026-10-13": 11,
     "2026-10-14": 17,
-    "2026-10-15": 4
+    "2026-10-15": 9
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -737,6 +737,19 @@
       "summary_used_fallback": false,
       "title": "Glass Transition of Chiral Hybrid Metal Halides for Self-Supported 3D Printing"
     },
+    "10.1002/adma.75346": {
+      "doi": "10.1002/adma.75346",
+      "posted_at": "2026-10-14T19:10:52+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792005052.027069",
+      "summary_character_count": 117,
+      "summary_japanese": "強磁性[Co/Pt]多層膜と絶縁性キラルα-SiO2のヘテロ構造で、磁気光学温度測定と第一原理分子動力学計算により、磁化方向と構造の掌性に依存するフォノン熱輸送を実証した。熱on/off比は室温で1.07、50 Kで約1.2に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Demagnetization-Driven Nanoscale Chirality-Selective Phonon Transport"
+    },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
       "posted_at": "2026-07-20T09:43:17+00:00",
@@ -1048,6 +1061,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intramolecular Direct Arylation Enables Access to Diverse Photophysical Properties for pi-Expanded 1,4-Dihydropyrrolo[3,2- b ]pyrroles"
+    },
+    "10.1002/adom.71927": {
+      "doi": "10.1002/adom.71927",
+      "posted_at": "2026-10-14T19:10:30+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792005030.794839",
+      "summary_character_count": 122,
+      "summary_japanese": "らせん性を精密制御したキラル環状AIEgensをモジュール合成し、donor–acceptor設計で青色から深赤色へ発光を調整した。液晶中でCPL非対称因子は10−2級となり、R/SBT-CNは多刺激応答CPLにより多次元情報暗号化を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Color Chiral Aggregation-Induced Emission Luminogens Toward Multiple Stimuli-Responsive Circularly Polarized Luminescence and Information Encryption"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -13369,6 +13395,19 @@
       "summary_used_fallback": false,
       "title": "Mechanical Flipping of [1]Rotaxanes Toughens Polymer Networks"
     },
+    "10.1021/jacs.6c15392": {
+      "doi": "10.1021/jacs.6c15392",
+      "posted_at": "2026-10-14T19:10:42+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792005042.178589",
+      "summary_character_count": 100,
+      "summary_japanese": "可視光駆動Rh(III)/chiral carboxylic acid協働触媒により、共通のsulfoximine・alkyne基質から環化体または開環体を選択的に合成し、最大97% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Divergent Synthesis of Chiral-at-Sulfur Sulfoximines via Photoredox/Rhodium-Catalyzed Enantioselective C-H Activation"
+    },
     "10.1021/jacs.6c15679": {
       "doi": "10.1021/jacs.6c15679",
       "posted_at": "2026-08-20T01:05:27+00:00",
@@ -16931,6 +16970,19 @@
       "summary_used_fallback": false,
       "title": "Ultrafast chiral sensing with an ultraviolet vector beam"
     },
+    "10.1364/ol.613644": {
+      "doi": "10.1364/ol.613644",
+      "posted_at": "2026-10-14T19:10:47+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792005047.220939",
+      "summary_character_count": 115,
+      "summary_japanese": "外部磁場で時間反転対称性を破る磁気光学メタ導波路により、非局所キラル導波共鳴を介した円偏光の二重狭帯域一方向透過を実現し、最大48 dBのコントラストを得た。電気四重極・磁気双極子共鳴に由来するQ=10^5のスピン選択性も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Active spin-selection and nonreciprocal transmission via nonlocal chiral guided resonance in magneto-optical meta-waveguides"
+    },
     "10.1364/ol.616824": {
       "doi": "10.1364/ol.616824",
       "posted_at": "2026-10-11T03:58:47+00:00",
@@ -19204,6 +19256,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Substituent Effects on Anion Bonding and Disassembly of Hypervalent Iodine Macrocycles"
+    },
+    "10.26434/chemrxiv.15010364/v1": {
+      "doi": "10.26434/chemrxiv.15010364/v1",
+      "posted_at": "2026-10-14T19:10:36+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792005036.156399",
+      "summary_character_count": 119,
+      "summary_japanese": "[n]CPPと[6]MCPPのC–C結合へ、過酸化物/Cu触媒または一重項酸素で酸素を挿入しoxyleneを合成した。[6]MCPPは0.5 hで58%収率を示し、環サイズ依存性と歪み再分配、蛍光特性変化をDFT・X線解析で明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Skeletal Editing of Cycloparaphenylenes by Direct Oxygen Insertion"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
