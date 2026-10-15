@@ -32,7 +32,7 @@
     "2026-10-13": 11,
     "2026-10-14": 17,
     "2026-10-15": 24,
-    "2026-10-16": 5
+    "2026-10-16": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -13135,6 +13135,19 @@
       "summary_used_fallback": false,
       "title": "Regio- and Enantiospecific On-Surface Synthesis of Iso [4]triangulene via Ethyl Cyclization"
     },
+    "10.1021/jacs.6c11754": {
+      "doi": "10.1021/jacs.6c11754",
+      "posted_at": "2026-10-15T20:55:50+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792097750.349449",
+      "summary_character_count": 116,
+      "summary_japanese": "mRNA displayでCHD4 SANT-SLIDEとGATAD2A CR2の相互作用を阻害する環状ペプチドを同定し、CDK2AP1結合を確認した。三者複合体構造により、同ドメインがNuRD形成の相互作用ハブであることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle Screening against the C-Terminal Region of CHD4 Uncovers Its Role as an Interaction Hub in the Formation of the Nucleosome Remodeling and Deacetylase Complex"
+    },
     "10.1021/jacs.6c11855": {
       "doi": "10.1021/jacs.6c11855",
       "posted_at": "2026-10-09T22:26:29+00:00",
@@ -13693,6 +13706,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Potential Driven Spin-Crossover Synergized with Hydrogen-Bond Engineering in a Molecular Catalyst for Selective H2O2 Electrosynthesis"
+    },
+    "10.1021/jacs.6c17351": {
+      "doi": "10.1021/jacs.6c17351",
+      "posted_at": "2026-10-15T20:55:59+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792097759.099519",
+      "summary_character_count": 111,
+      "summary_japanese": "c-HBC面をDBDAで連結した中性D3対称π共役ケージ1を合成し、形状相補性に基づく分散力で芳香族ゲストを可逆包接した。大型ゲストは形成時に永久捕捉され、熱的に堅牢なcarceplexや機械的インターロック分子を与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "pi-Armor: Shape-Complementary Encapsulation of Aromatics"
     },
     "10.1021/jacs.6c17514": {
       "doi": "10.1021/jacs.6c17514",
@@ -16723,6 +16749,19 @@
       "summary_used_fallback": false,
       "title": "102 No 2+ as a soft metal ion: Extraction of 255 No using crown ethers"
     },
+    "10.1126/sciadv.aei0002": {
+      "doi": "10.1126/sciadv.aei0002",
+      "posted_at": "2026-10-15T20:55:54+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792097754.741709",
+      "summary_character_count": 107,
+      "summary_japanese": "PU/CMC/MXene/NiO複合体で、水素結合再構成とイオン・電子輸送を連動させる超分子サーミスタを開発し、−80～−75°Cで−22,280% °C−1の負温度係数と0.01°C未満の温度変化検出を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bioinspired supramolecular thermistor for resolving subtle temperature variations"
+    },
     "10.1126/science.aeb1157": {
       "doi": "10.1126/science.aeb1157",
       "posted_at": "2026-08-01T15:02:29+00:00",
@@ -19478,6 +19517,19 @@
       "summary_used_fallback": false,
       "title": "Harnessing remote weak interactions for fine-tuning the catalytic activity of rotaxane-superbases"
     },
+    "10.26434/chemrxiv.15010327/v1": {
+      "doi": "10.26434/chemrxiv.15010327/v1",
+      "posted_at": "2026-10-15T20:56:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792097762.857999",
+      "summary_character_count": 109,
+      "summary_japanese": "oligo(phenylenevinylene)-siloxaneの超分子事前組織化により、固相で定量的な可逆光重合を実現した。無秩序融液での転化率は約7%にとどまり、熱解重合で初期の分子・超分子状態は大部分回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Preorganisation Enables Reversible Solid-state Photopolymerisation"
+    },
     "10.26434/chemrxiv.15010344/v1": {
       "doi": "10.26434/chemrxiv.15010344/v1",
       "posted_at": "2026-10-15T03:11:08+00:00",
@@ -19503,6 +19555,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Skeletal Editing of Cycloparaphenylenes by Direct Oxygen Insertion"
+    },
+    "10.26434/chemrxiv.15010368/v1": {
+      "doi": "10.26434/chemrxiv.15010368/v1",
+      "posted_at": "2026-10-15T20:56:07+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792097767.299349",
+      "summary_character_count": 115,
+      "summary_japanese": "冠エーテル担持樹脂と硫黄供与体DEDTP−を用いる255Noのオンライン抽出および相対論的DFT計算により、No2+はSr2+より高い抽出効率と短いNo–S結合を示し、Ba2+・Ra2+に類似する軟らかいLewis酸性を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing the Softer-acid Nature of 102No2+ Compared to Alkaline Earth Metal ions via Synergistic Extraction with Sulfur Donor on Crown Ether Supported Resin"
     },
     "10.26434/chemrxiv.15010370/v1": {
       "doi": "10.26434/chemrxiv.15010370/v1",
