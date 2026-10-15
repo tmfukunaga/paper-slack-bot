@@ -31,7 +31,7 @@
     "2026-10-12": 8,
     "2026-10-13": 11,
     "2026-10-14": 17,
-    "2026-10-15": 19
+    "2026-10-15": 24
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7501,6 +7501,19 @@
       "summary_used_fallback": false,
       "title": "Inducing chirality in covalent organic frameworks from achiral monomers: hierarchical architectures and emergent functions"
     },
+    "10.1016/j.ccr.2026.218610": {
+      "doi": "10.1016/j.ccr.2026.218610",
+      "posted_at": "2026-10-15T10:51:47+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792061507.862539",
+      "summary_character_count": 109,
+      "summary_japanese": "キラルmetallomesogenと関連集合体の構造―物性を総説し、配位幾何、配位子、キレート配置、集合化法に基づく設計と、らせん液晶積層によるCPL増幅を整理して、量子効率と異方性因子の両立に向けた課題と展望を示す。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral metallomesogens and helical assemblies: advances in circularly polarized luminescence amplification and applications"
+    },
     "10.1016/j.compgeo.2026.108592": {
       "doi": "10.1016/j.compgeo.2026.108592",
       "posted_at": "2026-08-29T22:59:37+00:00",
@@ -9768,6 +9781,19 @@
       "summary_used_fallback": false,
       "title": "C-H/pi Mediated Assembly of a Chiral Nanoporous Network for Electron and Molecular Trapping on Au(111)"
     },
+    "10.1021/acs.langmuir.6c05019": {
+      "doi": "10.1021/acs.langmuir.6c05019",
+      "posted_at": "2026-10-15T10:51:52+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792061512.138969",
+      "summary_character_count": 106,
+      "summary_japanese": "粘土ナノシート上でIr1-PF6とIr2-PF6の吸着・配列を比較し、光学純度依存のパッキングとCPLを解析した。MD計算も含め、enantiopure Ir1+では粘土閉じ込めによりCPL強度が顕著に増大した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Adsorption of Chiral Ir(III) Complexes on Clay Nanosheets: Optical-Purity-Dependent Packing and Amplified Circularly Polarized Luminescence"
+    },
     "10.1021/acs.macromol.6c00949": {
       "doi": "10.1021/acs.macromol.6c00949",
       "posted_at": "2026-08-05T21:16:20+00:00",
@@ -10748,6 +10774,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Calix[n]BODIPYs: One-Pot Assembly of Strain-Relieved Methylene-Bridged Macrocycles with Bright Fluorescence"
+    },
+    "10.1021/acs.orglett.6c03944": {
+      "doi": "10.1021/acs.orglett.6c03944",
+      "posted_at": "2026-10-15T10:52:00+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792061520.426419",
+      "summary_character_count": 131,
+      "summary_japanese": "長鎖perfluoroalkyl鎖を骨格に含む新規urethane系macrocycleを、H2PO4−をtemplateとして合成した。DFT計算は、多重水素結合による遷移状態での中間体のpreorganizationが環化を促進し、収率を高めることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dihydrogen Phosphate Anion-Templated Synthesis of Urethane-Based Macrocycle Containing Perfluoroalkyl Chain"
     },
     "10.1021/acs.orglett.6c03964": {
       "doi": "10.1021/acs.orglett.6c03964",
@@ -16111,6 +16150,19 @@
       "summary_used_fallback": false,
       "title": "Performance assessment of electromechanical energy-harvesting floor tiles: spur versus helical gear multipliers"
     },
+    "10.1093/bulcsj/uoag140": {
+      "doi": "10.1093/bulcsj/uoag140",
+      "posted_at": "2026-10-15T10:51:43+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792061503.638589",
+      "summary_character_count": 128,
+      "summary_japanese": "アルキル鎖で連結したtrimeric pillar[5]areneで、特定ゲスト添加により可逆な円筒状マクロ環のキラリティー整列をturn-onし、native・off・on状態間の切替を示した。弱い環間相互作用によりonからoffへの切替も可能であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Guest-Induced Chirality Transfer in Trimers of Invertible Cylinder-Shaped Macrocycles"
+    },
     "10.1093/chemle/upag153": {
       "doi": "10.1093/chemle/upag153",
       "posted_at": "2026-08-04T18:15:34+00:00",
@@ -20737,6 +20789,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hypoxia-responsive supramolecular systems based on macrocycles and self-assembly structures."
+    },
+    "10.4208/cicc.2026.195.01": {
+      "doi": "10.4208/cicc.2026.195.01",
+      "posted_at": "2026-10-15T10:51:56+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792061516.251259",
+      "summary_character_count": 105,
+      "summary_japanese": "SO-DFTとSR-CCSD(T)でAt+と各種クラウン型マクロ環の錯形成を解析し、配位数と主スピン多重度が空孔径・ドナー原子種に依存すること、diaza-18-crown-6錯体が最も安定であることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Donor Atom and Spin-State Effects on Coordination of At$^{+}$ with Homodonor and Mixed N/O Crown-Type Macrocycles: a Computational Study"
     },
     "10.48550/arxiv.2607.11037": {
       "doi": "10.48550/arxiv.2607.11037",
