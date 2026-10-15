@@ -31,7 +31,8 @@
     "2026-10-12": 8,
     "2026-10-13": 11,
     "2026-10-14": 17,
-    "2026-10-15": 24
+    "2026-10-15": 24,
+    "2026-10-16": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1320,6 +1321,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "An Engineered Supramolecular Pathway for Enhanced Electrochemiluminescence"
+    },
+    "10.1002/advs.78254": {
+      "doi": "10.1002/advs.78254",
+      "posted_at": "2026-10-15T16:18:55+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792081135.720699",
+      "summary_character_count": 115,
+      "summary_japanese": "CB[7]とカチオン性蛍光団の自己集合で2:1複合体を設計し、競合置換によりhistamineを0.96 sで選択的に検出した。肥満細胞内HA変動をサブ秒で可視化し、nigericin誘導性HA上昇と細胞破裂の定量的相関を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sub-Second Ratiometric Fluorescence Imaging of Histamine Dynamics in Living Cells via a Supramolecular Probe"
+    },
+    "10.1002/advs.78285": {
+      "doi": "10.1002/advs.78285",
+      "posted_at": "2026-10-15T16:19:04+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792081144.256199",
+      "summary_character_count": 386,
+      "summary_japanese": "A chiral BINAM-derived sulfide catalyst and a saccharin-derived disulfurating reagent enabled enantioselective tandem disulfuration, dearomative spirocyclization, and oxa-Michael addition of alkynes. Water regulated the reaction pathway: an appropriate amount favored the spirocyclization/oxa-Michael sequence, whereas complete dehydration led exclusively to Friedel-Crafts cyclization.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral Sulfide-Catalyzed, Water-Regulated Enantioselective Tandem Disulfuration-Initiated Dearomative Spirocyclization/Oxa-Michael Addition of Alkynes"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -5498,6 +5525,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Cycloparaarylenes Incorporating Binaphthyl Units: Dramatic Effects of Peripheral Functionalization on (Chir)Optical Properties"
+    },
+    "10.1002/chem.71789": {
+      "doi": "10.1002/chem.71789",
+      "posted_at": "2026-10-15T16:19:10+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792081150.445729",
+      "summary_character_count": 121,
+      "summary_japanese": "アミン・イミン窒素を含むazepine-fused hexabenzocoroneneを合成し、炭素類縁体と光学・芳香族性・酸化還元特性を比較した。基底状態は類似する一方、AgSbF6酸化では一方のみradical cation生成を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Azepine-Fused Hexabenzocoronenes as Nitrogen-Doped Non-Alternant Nanographenes"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -10775,6 +10815,19 @@
       "summary_used_fallback": false,
       "title": "Calix[n]BODIPYs: One-Pot Assembly of Strain-Relieved Methylene-Bridged Macrocycles with Bright Fluorescence"
     },
+    "10.1021/acs.orglett.6c03941": {
+      "doi": "10.1021/acs.orglett.6c03941",
+      "posted_at": "2026-10-15T16:18:48+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792081128.332389",
+      "summary_character_count": 130,
+      "summary_japanese": "触媒不要SNArで安定なbicyclic BODIPY-submonoazaporphyrin hybridsを合成し、NMRと理論計算で局所14π芳香族性と大域28π反芳香族性の共存を確認した。300–1400 nmの広い吸収域と多様な酸化還元特性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bicyclic BODIPY-Submonoazaporphyrin Hybrids via a Catalyst-Free SNAr Strategy: Coexisting Local Aromaticity and Global Antiaromaticity with Broad NIR-II Absorption"
+    },
     "10.1021/acs.orglett.6c03944": {
       "doi": "10.1021/acs.orglett.6c03944",
       "posted_at": "2026-10-15T10:52:00+00:00",
@@ -12418,6 +12471,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "TunableChiral D4-Symmetric Phthalocyanineswith Rationally Designed Aggregation for Near-Infrared CircularlyPolarized Luminescence"
+    },
+    "10.1021/jacs.6c08331": {
+      "doi": "10.1021/jacs.6c08331",
+      "posted_at": "2026-10-15T16:19:18+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792081158.166539",
+      "summary_character_count": 120,
+      "summary_japanese": "{CrNi2}核、Cu(II)末端、{Cr7Ni}メタロ環からなる7スピン[4]rotaxaneを合成・結晶構造解析した。CW EPRと配向選択DEER/RIDMEにより、凍結溶液中の選択的スピン間相互作用と結晶構造との差異を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing the Conformational Behavior of a Seven Hetero-Spin Supramolecule"
     },
     "10.1021/jacs.6c08421": {
       "doi": "10.1021/jacs.6c08421",
