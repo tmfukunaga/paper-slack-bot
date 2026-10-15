@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-13": 1,
     "2026-09-14": 30,
     "2026-09-15": 15,
     "2026-09-16": 9,
@@ -32,7 +31,7 @@
     "2026-10-12": 8,
     "2026-10-13": 11,
     "2026-10-14": 17,
-    "2026-10-15": 14
+    "2026-10-15": 19
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10737,6 +10736,19 @@
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Axially Chiral Tetraphenylethenes via NHC-Catalyzed Desymmetrization and Following Kinetic Resolution"
     },
+    "10.1021/acs.orglett.6c03922": {
+      "doi": "10.1021/acs.orglett.6c03922",
+      "posted_at": "2026-10-15T03:11:01+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792033861.722889",
+      "summary_character_count": 114,
+      "summary_japanese": "β-hydroxymethyl化BODIPYをBF3·OEt2で活性化し、逐次Friedel–Crafts型アルキル化によりCalix[n]BODIPYsをワンポット合成した。分子内励起子結合と最大0.92の明るい蛍光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Calix[n]BODIPYs: One-Pot Assembly of Strain-Relieved Methylene-Bridged Macrocycles with Bright Fluorescence"
+    },
     "10.1021/acs.orglett.6c03964": {
       "doi": "10.1021/acs.orglett.6c03964",
       "posted_at": "2026-10-11T03:58:52+00:00",
@@ -15709,6 +15721,19 @@
       "summary_used_fallback": false,
       "title": "Utilization and efficiency of the polymeric materials for chiral resolution: an overview"
     },
+    "10.1080/10610278.2026.2746746": {
+      "doi": "10.1080/10610278.2026.2746746",
+      "posted_at": "2026-10-15T03:11:19+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792033879.224189",
+      "summary_character_count": 127,
+      "summary_japanese": "TEG側鎖を有するアセチレン架橋acridine-phenylene [2 + 2] macrocycleを合成し、MeOH中でπスタック会合を解析した。濃度依存NMR、DOSY、分光測定により、濃度増加に伴う大型会合体とH/J中間型の滑り積層を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aggregate formation of a shape-persistent acridine macrocycle via intermolecular pi-pi stacking"
+    },
     "10.1080/1064119x.2026.2720096": {
       "doi": "10.1080/1064119x.2026.2720096",
       "posted_at": "2026-08-29T12:16:59+00:00",
@@ -16917,6 +16942,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nonlinear chiral quantum dynamics of Bose-Einstein condensates under a density-dependent gauge field"
+    },
+    "10.12688/f1000research.189872.1": {
+      "doi": "10.12688/f1000research.189872.1",
+      "posted_at": "2026-10-15T03:11:22+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792033882.925829",
+      "summary_character_count": 99,
+      "summary_japanese": "次元ωのnanographene butterfly構造について、グラフ理論に基づく距離依存トポロジカル指数とエントロピーの厳密な定式化を構築し、算出したπ電子エネルギーとの相関を包括的に解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Analysis of Distance Based Topological Indices and pi-Electron Energy Characteristics in Nanographene Butterfly Structures"
     },
     "10.12688/openreseurope.24334.1": {
       "doi": "10.12688/openreseurope.24334.1",
@@ -19308,6 +19346,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Substituent Effects on Anion Bonding and Disassembly of Hypervalent Iodine Macrocycles"
+    },
+    "10.26434/chemrxiv.15010318/v1": {
+      "doi": "10.26434/chemrxiv.15010318/v1",
+      "posted_at": "2026-10-15T03:11:15+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792033875.265489",
+      "summary_character_count": 134,
+      "summary_japanese": "triazoleまたはmethyltriazoliumを副結合部位にもつ二安定rotaxaneを合成し、malononitrileのMichael付加を評価した。triazole型は弱い相互作用によりアミン塩基性が高く、triazolium型の2倍の触媒活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Harnessing remote weak interactions for fine-tuning the catalytic activity of rotaxane-superbases"
+    },
+    "10.26434/chemrxiv.15010344/v1": {
+      "doi": "10.26434/chemrxiv.15010344/v1",
+      "posted_at": "2026-10-15T03:11:08+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792033868.645559",
+      "summary_character_count": 118,
+      "summary_japanese": "分子トポロジーと電子数のみからHOMO-LUMOギャップを近似する無経験パラメータのmolecular sheafを提案し、annulene系列の芳香族性を正しく分類した。17,523種PAHでDFTギャップ分散の62.5%を説明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Cellular Sheaf Model for Aromaticity in Discrete Molecular Systems"
     },
     "10.26434/chemrxiv.15010364/v1": {
       "doi": "10.26434/chemrxiv.15010364/v1",
