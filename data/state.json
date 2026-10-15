@@ -32,7 +32,7 @@
     "2026-10-13": 11,
     "2026-10-14": 17,
     "2026-10-15": 24,
-    "2026-10-16": 10
+    "2026-10-16": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6306,6 +6306,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Metal-Organic Framework/Polyurea Composite Microreactors From Oil-In-Oil Emulsions"
     },
+    "10.1002/jccs.70284": {
+      "doi": "10.1002/jccs.70284",
+      "posted_at": "2026-10-15T21:24:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792099452.233669",
+      "summary_character_count": 261,
+      "summary_japanese": "A chiral NHC/chiral squaramide cocatalytic system enabled asymmetric intramolecular Stetter reactions of cyclopentenone-benzaldehydes at room temperature. The reactions furnished benzo-fused spiro[4.5]decanedione skeletons in 49%–71% yields and with 44%–81% ee.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral N-Heterocyclic Carbene/Squaramide-Cocatalyzed Asymmetric Intramolecular Stetter Reaction to Construct Benzo-Fused Spiro[4.5]Decanedione Framework"
+    },
     "10.1002/jssc.70518": {
       "doi": "10.1002/jssc.70518",
       "posted_at": "2026-08-29T10:05:38+00:00",
@@ -12511,6 +12524,19 @@
       "summary_used_fallback": false,
       "title": "Theoretical Assessmentof Magneto-Chiral Dichroismin a Chiral Ytterbium(III) Complex"
     },
+    "10.1021/jacs.6c08713": {
+      "doi": "10.1021/jacs.6c08713",
+      "posted_at": "2026-10-15T21:24:20+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792099460.514749",
+      "summary_character_count": 126,
+      "summary_japanese": "嵩高いsulfonamideまたは四級炭素リンカーを有する1,6-dieneを、chiral indane-based chalcogenide触媒で5-/6-exo炭素カチオン環化し、高いエナンチオ・ジアステレオ選択性で多環・単環キラル化合物を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Asymmetric 1,6-Diene Cyclization via Designed Carbocationic 5- and 6- exo Pathways"
+    },
     "10.1021/jacs.6c08837": {
       "doi": "10.1021/jacs.6c08837",
       "posted_at": "2026-08-05T18:03:49+00:00",
@@ -15591,6 +15617,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Advances in Synthetic Methods for Chiral Trifluoromethylthiolated Compounds"
+    },
+    "10.1061/jenmdt.emeng-9175": {
+      "doi": "10.1061/jenmdt.emeng-9175",
+      "posted_at": "2026-10-15T21:24:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792099445.309929",
+      "summary_character_count": 122,
+      "summary_japanese": "深さ依存弾性地盤中の単翼ヘリカル杭を、圧縮性杭軸と円形支持板の変位適合で連成する解析式として導出し、Hankel変換で変位・軸力・応力を算定した。ヘリックスは軸力不連続と局所的応力再配分を生じ、根入れ深さ・径・剛性勾配の増加で荷重分担を高めた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Coupled Shaft-Plate Load-Transfer Solution for Helical Piles in Depth-Dependent Elastic Media"
     },
     "10.1063/5.0325213": {
       "doi": "10.1063/5.0325213",
@@ -19582,6 +19621,19 @@
       "summary_used_fallback": false,
       "title": "Roxburghiol A as a Versatile Chiral Platform for the Divergent Asymmetric Synthesis of Resveratrol Dimers"
     },
+    "10.26434/chemrxiv.15010432/v1": {
+      "doi": "10.26434/chemrxiv.15010432/v1",
+      "posted_at": "2026-10-15T21:23:57+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792099437.094029",
+      "summary_character_count": 115,
+      "summary_japanese": "bpy cis-capping ligand導入Pd6TImB4 MOCはcapsule優勢でBODIPY包接を抑制し、SO4^2−添加で結合性tube状態と発光を増大した。陰イオン除去で非結合状態に戻り、BODIPYを徐放した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aromatic cis-capping ligands reconfigure a coordination cage system for allosterically controlled BODIPY uptake and release"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -20868,6 +20920,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Morphology of Solar Filaments during the Solar Maximum of Cycle 24: A Study of 35 Filaments Focusing on Chirality, Barb Orientation, Skewness, and Eruptive Behavior"
+    },
+    "10.3847/1538-4357/aeab90": {
+      "doi": "10.3847/1538-4357/aeab90",
+      "posted_at": "2026-10-15T21:24:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792099440.645629",
+      "summary_character_count": 101,
+      "summary_japanese": "3次元磁気ヌル点周囲の相対磁気ヘリシティを解析し、torsional spineでは奇パリティにより積分値が厳密にゼロとなる一方、torsional fanでは有限の局所ヘリシティが生じることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Relative Helicity as a Topological Diagnostic of Three-dimensional Magnetic Null Reconnection Regimes"
     },
     "10.3847/2041-8213/ae9cb4": {
       "doi": "10.3847/2041-8213/ae9cb4",
