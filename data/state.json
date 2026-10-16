@@ -31,7 +31,8 @@
     "2026-10-13": 11,
     "2026-10-14": 17,
     "2026-10-15": 24,
-    "2026-10-16": 25
+    "2026-10-16": 25,
+    "2026-10-17": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5538,6 +5539,19 @@
       "summary_used_fallback": false,
       "title": "Azepine-Fused Hexabenzocoronenes as Nitrogen-Doped Non-Alternant Nanographenes"
     },
+    "10.1002/chem.71797": {
+      "doi": "10.1002/chem.71797",
+      "posted_at": "2026-10-16T16:05:30+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792166730.614709",
+      "summary_character_count": 90,
+      "summary_japanese": "PBI-Ind単一成分のDMSO/THF自己集合で、微環境の疎水性を調節し、水素結合相手を制御した。強い疎水条件では熟成により右巻き超らせん、弱い条件では逆巻き超らせんを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single Component-Uncomplicated Self-Assembly: Conformational Modulation to Regulate Chirality Transformation in Perylene Bisimide Superhelical Assemblies in Aqueous Media"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -9209,6 +9223,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Blue-Light Excited Hybrid Copper Iodides with Circularly Polarized Luminescence for Lighting and X-ray Imaging"
     },
+    "10.1021/acs.inorgchem.6c04645": {
+      "doi": "10.1021/acs.inorgchem.6c04645",
+      "posted_at": "2026-10-16T16:05:40+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792166740.264619",
+      "summary_character_count": 106,
+      "summary_japanese": "キラルCd-Tb錯体R/S-Cd-Tbを合成し、PLQY 38.40%、CPL非対称因子4.69×10−2を達成した。PMMA透明膜はCPRLを示し、空間分解能23.96 lp/mmのX線イメージングを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Flexible Transparent Scintillation Films Based on Chiral Molecular Scintillators Showing Strong Circularly Polarized Luminescence and High-Resolution X-ray Imaging"
+    },
     "10.1021/acs.inorgchem.6c04691": {
       "doi": "10.1021/acs.inorgchem.6c04691",
       "posted_at": "2026-10-13T16:57:42+00:00",
@@ -10891,6 +10918,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Access to Axially Chiral Biaryl Aldehydes via Enantioselective Imine Condensation"
+    },
+    "10.1021/acs.orglett.6c04215": {
+      "doi": "10.1021/acs.orglett.6c04215",
+      "posted_at": "2026-10-16T16:05:35+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792166735.507579",
+      "summary_character_count": 120,
+      "summary_japanese": "azuleneを導入したキラルnanographene 6を合理的に合成し、単結晶X線回折で構造を決定した。[6]helicene部分のHPLC分割体は、trifluoroacetic acidの有無にかかわらず鏡像CDスペクトルを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis, Crystallographic Characterization, and Proton-Modulated Physical Properties of an Azulene-Embedded Chiral Nanographene"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
@@ -13484,6 +13524,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality Inherent and Induced: An Algebraic Point of View"
+    },
+    "10.1021/jacs.6c13913": {
+      "doi": "10.1021/jacs.6c13913",
+      "posted_at": "2026-10-16T16:05:26+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792166726.194569",
+      "summary_character_count": 135,
+      "summary_japanese": "エナンチオ純粋な湾曲前駆体を用いるone-pot oligocyclic Friedländer反応で、[5 + 5]、[6 + 6]、[7 + 7] nanobeltを40%以上の収率で合成した。最小環はglum 4.7×10−2、gabs 4.5×10−2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "One-Pot Chirality-Assisted Synthesis of Shape-Persistent Nanobelts with Very High Dissymmetry Factors"
     },
     "10.1021/jacs.6c14044": {
       "doi": "10.1021/jacs.6c14044",
@@ -19749,6 +19802,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromatic cis-capping ligands reconfigure a coordination cage system for allosterically controlled BODIPY uptake and release"
+    },
+    "10.26434/chemrxiv.15010509/v1": {
+      "doi": "10.26434/chemrxiv.15010509/v1",
+      "posted_at": "2026-10-16T16:05:21+00:00",
+      "score": 51,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792166721.463739",
+      "summary_character_count": 112,
+      "summary_japanese": "CD・CPLを示さないカチオン性cNDI-Py+を2D Laponiteに静電固定化し、slip-stacked配列に由来するキラルexcimer発光を誘起した。480 nmでΦ=0.40、g_lum=−0.013を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "De Novo Circularly Polarized Emission and Greatly Enhanced Circular Dichroism in Cationic Naphthalene Diimide Dye Supramolecular Assembly on 2-D Laponite Nanoclay"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
