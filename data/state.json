@@ -31,7 +31,7 @@
     "2026-10-13": 11,
     "2026-10-14": 17,
     "2026-10-15": 24,
-    "2026-10-16": 20
+    "2026-10-16": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7799,6 +7799,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A CFD-based investigation of flow boiling of R32 in helical pipe evaporator: Parametric effects, phase-change behavior, and thermohydraulic benchmarking"
+    },
+    "10.1016/j.ijengsci.2026.104703": {
+      "doi": "10.1016/j.ijengsci.2026.104703",
+      "posted_at": "2026-10-16T10:41:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792147310.301189",
+      "summary_character_count": 91,
+      "summary_japanese": "熱駆動多繊維らせん束の層別曲線ロッドモデルを開発し、有限要素解析で検証した。ねじり増加により軸反力は低下し、荷重分担は内層へ移る一方、外層はトルクと半径方向相互作用に大きく寄与した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Layer-resolved thermomechanics and load partitioning in twisted multifilament helical structures"
     },
     "10.1016/j.ijthermalsci.2026.111338": {
       "doi": "10.1016/j.ijthermalsci.2026.111338",
@@ -17775,6 +17788,32 @@
       "summary_used_fallback": false,
       "title": "Renormalized Route Reciprocity and Charged-Fermion Mass Shape in a Chiral SU(15)p Composite Theory"
     },
+    "10.20944/preprints202610.0982.v1": {
+      "doi": "10.20944/preprints202610.0982.v1",
+      "posted_at": "2026-10-16T10:41:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792147316.499769",
+      "summary_character_count": 133,
+      "summary_japanese": "(R)-2-phenyl-2-(piperidin-1-yl)ethan-1-olから、N,N-dialkylaziridinium ionのanilineによる位置選択的開環を経て3種のキラル1,2-diamineを合成し、NMR、IR、HRMSで構造を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral 1,2-Diamines from (R)-2-Phenyl-2-(Piperidin-1-yl)Ethan-1-ol"
+    },
+    "10.20944/preprints202610.1090.v1": {
+      "doi": "10.20944/preprints202610.1090.v1",
+      "posted_at": "2026-10-16T10:42:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792147321.303519",
+      "summary_character_count": 126,
+      "summary_japanese": "有限次元キラル作用素スペクトル候補で、共通スケーリングと合同変換の不変性を示し、半径2.5×10−2の近傍が荷電レプトン比・CKM・PMNS・トリチウム端点の受容域外にあることを証明した。さらに受動的開放補空間で実極分枝の存在・一意性・安定性を導いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Robust Static Candidate-Branch Obstructions and Reduced Pole-Correction Bounds in a Chiral Operator-Spectral Framework"
+    },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
       "posted_at": "2026-07-17T17:28:01+00:00",
@@ -19685,6 +19724,19 @@
       "summary_used_fallback": false,
       "title": "Roxburghiol A as a Versatile Chiral Platform for the Divergent Asymmetric Synthesis of Resveratrol Dimers"
     },
+    "10.26434/chemrxiv.15010379/v1": {
+      "doi": "10.26434/chemrxiv.15010379/v1",
+      "posted_at": "2026-10-16T10:41:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792147305.733009",
+      "summary_character_count": 110,
+      "summary_japanese": "pyridine系蛍光体を芳香族カルボン酸とメカノケミカル共結晶化し、MicroEDとSCXRDで構造・発光相関を解析した。ジカルボン酸では共役低下により青方偏移し、三・六カルボン酸では電荷移動安定化により赤方偏移した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "MicroED Guided Structure Property Relationships in Mechanochemically Synthesized Fluorescent Cocrystals"
+    },
     "10.26434/chemrxiv.15010432/v1": {
       "doi": "10.26434/chemrxiv.15010432/v1",
       "posted_at": "2026-10-15T21:23:57+00:00",
@@ -21010,6 +21062,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ion-scale Waves Regulated by Plasma Beta and Cross Helicity: Observational Evidence for the Helicity Barrier in Imbalanced Solar Wind Turbulence"
+    },
+    "10.3847/2041-8213/aea84b": {
+      "doi": "10.3847/2041-8213/aea84b",
+      "posted_at": "2026-10-16T10:41:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792147301.162279",
+      "summary_character_count": 128,
+      "summary_japanese": "Parker Solar Probeの0.1–0.8 au観測により、MHD‐kinetic界面で正負一対のピークからなる頑健なbihelical構造を検出した。ピークは距離とともに低周波数側へ移動し、局所的なkinetic scaling則から逸脱した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonlocal Evolution of Magnetic Helicity across the Magnetohydrodynamic-Kinetic Interface"
     },
     "10.3847/2041-8213/aeaa2e": {
       "doi": "10.3847/2041-8213/aeaa2e",
