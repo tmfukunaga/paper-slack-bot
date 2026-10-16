@@ -32,7 +32,7 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 5
+    "2026-10-17": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5773,6 +5773,19 @@
       "summary_used_fallback": false,
       "title": "Electrochemically Assisted Fabrication of Chiral Molecule Induced ag Films for Chiroptical Enhancement"
     },
+    "10.1002/chir.70157": {
+      "doi": "10.1002/chir.70157",
+      "posted_at": "2026-10-16T20:30:23+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792182623.594219",
+      "summary_character_count": 95,
+      "summary_japanese": "SiO2被覆ねじれ双錐α-HgS上にFAPbX3を析出した分散性HgS@SiO2-FAPbX3ナノコロイドは、481～574 nmの円偏光発光を示し、HgSのねじれ反転で発光符号も反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Wavelength-Tunable Circularly Polarized Emission From Chiral Composite Nanocolloids"
+    },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
       "posted_at": "2026-08-10T10:41:00+00:00",
@@ -7176,6 +7189,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhancing Coherence Length in Tailored Chiral Hybrid Polymer-Wrapped Single-Walled Carbon Nanotube Superstructures"
+    },
+    "10.1002/smll.76276": {
+      "doi": "10.1002/smll.76276",
+      "posted_at": "2026-10-16T20:30:19+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792182619.640809",
+      "summary_character_count": 113,
+      "summary_japanese": "L/D-アミノ酸由来ナノファイバー網を比較し、D-Lys-Ca2+-gelがNG108-15の神経突起伸長・成熟を最も促進した。プロテオーム解析では、Camkk2-Tiam1を含む軸索誘導・Ca2+シグナル因子の増加を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Directing Neuronal Differentiation via Calcium-Chirality Synergy in Supramolecular Nanofibers"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -9808,6 +9834,19 @@
       "summary_used_fallback": false,
       "title": "Bichromophores as a Molecular Platform to Explore Chiroptical Responses: Resonant Coupling and Beyond"
     },
+    "10.1021/acs.jpclett.6c02669": {
+      "doi": "10.1021/acs.jpclett.6c02669",
+      "posted_at": "2026-10-16T20:30:15+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792182615.594249",
+      "summary_character_count": 111,
+      "summary_japanese": "AuBP@AgおよびAuBP@Auキラルcore-shell bipyramidsの凝集誘起CD変調を理論と実験で解析し、単粒子キラリティーが外殻の形状・金属組成に応じてキラルまたはアキラル凝集体の形成を駆動すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Deciphering Aggregation-Induced Tunable Circular Dichroism of AuBP@Ag and AuBP@Au Chiral Core-Shell Plasmonic Nanoparticles"
+    },
     "10.1021/acs.langmuir.6c01158": {
       "doi": "10.1021/acs.langmuir.6c01158",
       "posted_at": "2026-07-23T03:04:22+00:00",
@@ -10288,6 +10327,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Rh Diene NHC Complexes and Their Application in Rh-Catalyzed Cycloisomerization of Enynes"
+    },
+    "10.1021/acs.organomet.6c00321": {
+      "doi": "10.1021/acs.organomet.6c00321",
+      "posted_at": "2026-10-16T20:30:11+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792182611.415869",
+      "summary_character_count": 113,
+      "summary_japanese": "キラルN-(2-pyridyl)置換NHCのジアステレオ選択的配位で、分割不要の鉄中心キラルiron(II)錯体を合成した。代表錯体は可視光加速acetophenone hydrosilylationで99% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diastereoselective Access to Stereogenic-at-Iron Catalysts with Chiral N-Heterocyclic Carbene Ligands"
     },
     "10.1021/acs.orglett.6c02188": {
       "doi": "10.1021/acs.orglett.6c02188",
@@ -16904,6 +16956,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Bioinspired supramolecular thermistor for resolving subtle temperature variations"
+    },
+    "10.1126/science.adq6530": {
+      "doi": "10.1126/science.adq6530",
+      "posted_at": "2026-10-16T20:30:31+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792182631.403359",
+      "summary_character_count": 315,
+      "summary_japanese": "A gate-tunable chiral spin mode between conduction SOC-split minibands was observed in near-0°-twisted WSe2/WS2 bilayers by Raman spectroscopy. With changing filling, the mode evolves from a chiral spin exciton to an excitonic polaron, while its spin-flip character was directly confirmed through the Zeeman effect.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Gate-tunable chiral spin mode in WSe 2 /WS 2 moiré superlattices"
     },
     "10.1126/science.aeb1157": {
       "doi": "10.1126/science.aeb1157",
