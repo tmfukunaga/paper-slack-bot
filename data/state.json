@@ -32,7 +32,7 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 10
+    "2026-10-17": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3349,6 +3349,19 @@
       "summary_used_fallback": false,
       "title": "Surface-Assisted Cyclodehydrogenation and Annulative Dimerization on TiO 2 (110): Formation of an Azacoronene and Its Octagon-Fused Dimer"
     },
+    "10.1002/anie.3747908": {
+      "doi": "10.1002/anie.3747908",
+      "posted_at": "2026-10-16T21:09:44+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792184984.290359",
+      "summary_character_count": 125,
+      "summary_japanese": "Pd触媒不斉ヒドロシリル化で、dihydrosilaneの脱対称化とalkynylphosphoryl基質のジアステレオマー分割を組み合わせ、Si/P連続不斉中心をもつgem-phosphorylsilylalkeneを最大98:2 erで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of gem -Phosphorylsilylalkenes Bearing Si/Si,P-Stereogenic Centers by Regio- and Enantio-Selective Pd-Catalyzed Hydrosilylation"
+    },
     "10.1002/anie.3778438": {
       "doi": "10.1002/anie.3778438",
       "posted_at": "2026-08-15T15:43:43+00:00",
@@ -4168,6 +4181,19 @@
       "summary_used_fallback": false,
       "title": "Europium Macrocyclic Complexes With Rigid High-Symmetry Coordination Geometry for High-Voltage and Durable Neutral Aqueous Redox Flow Batteries"
     },
+    "10.1002/anie.7073485": {
+      "doi": "10.1002/anie.7073485",
+      "posted_at": "2026-10-16T21:09:37+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792184977.283579",
+      "summary_character_count": 126,
+      "summary_japanese": "キラルdisulfonimideをBrønsted塩基触媒として用い、DTBP効果を見いだしてaminopyrimidineとanilineのアトロプ選択的ヨウ素化を達成した。DFT解析は、不可逆な脱プロトン化がエナンチオ決定段階である機構を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Disulfonimide-Catalyzed Atroposelective Iodination of (Hetero)arylamines: Generalizing the Brønsted Base Catalysis Strategy"
+    },
     "10.1002/anie.7074723": {
       "doi": "10.1002/anie.7074723",
       "posted_at": "2026-08-28T00:14:28+00:00",
@@ -4576,6 +4602,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Trigonal Pyramidal Germanium Halides for Enhanced Second Harmonic Generation"
+    },
+    "10.1002/anie.8457661": {
+      "doi": "10.1002/anie.8457661",
+      "posted_at": "2026-10-16T21:09:31+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792184970.947469",
+      "summary_character_count": 106,
+      "summary_japanese": "cysteine修飾CdS/Niナノロッドで、CPLによりスピン依存キャリア輸送を可逆制御した。D(-)-CdS/NiはLCP下でRCP比71.1%高い水素発生を示し、420 nmでAQE 74.4%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly Polarized Light Amplifies Spin Polarization for Efficient Photoredox Chemistry in a Chiral Magnetic Catalyst"
     },
     "10.1002/anie.8483841": {
       "doi": "10.1002/anie.8483841",
@@ -15332,6 +15371,19 @@
       "summary_used_fallback": false,
       "title": "Ultrathin high-performance circular polarizers based on MoOCl2/NbOCl2 van der Waals heterostructures"
     },
+    "10.1038/s41467-026-78693-5": {
+      "doi": "10.1038/s41467-026-78693-5",
+      "posted_at": "2026-10-16T21:09:48+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792184988.594669",
+      "summary_character_count": 103,
+      "summary_japanese": "フッ素化pillar[5]areneを用い、揮発性methylpyridinesの包接相を非揮発性電子受容体との電荷移動相へ競合変換して、常温・無加熱・無溶媒で可逆的な吸脱着サイクルと可視色変化を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A swing-type solid-state host-guest system enabling spontaneous adsorption-desorption cycling"
+    },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
       "posted_at": "2026-09-06T20:00:27+00:00",
@@ -16995,6 +17047,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Preferred synthesis of armchair transition metal dichalcogenide nanotubes"
+    },
+    "10.1126/science.aeh4015": {
+      "doi": "10.1126/science.aeh4015",
+      "posted_at": "2026-10-16T21:09:26+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792184966.657869",
+      "summary_character_count": 113,
+      "summary_japanese": "キラルplasonic nanohelicoidをトンネル接合に集積し、単一粒子で電気駆動のキラル光を発生させた。共鳴双極子モード励起により、ハンドネス選択性0.8超のスピン角運動量と逆符号の軌道角運動量をもつ渦光を放射した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrically driven chiral emission from plasmonic tunnel junctions"
     },
     "10.1126/science.aeh6251": {
       "doi": "10.1126/science.aeh6251",
