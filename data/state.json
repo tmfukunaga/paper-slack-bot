@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-14": 30,
     "2026-09-15": 15,
     "2026-09-16": 9,
     "2026-09-17": 20,
@@ -32,7 +31,7 @@
     "2026-10-13": 11,
     "2026-10-14": 17,
     "2026-10-15": 24,
-    "2026-10-16": 15
+    "2026-10-16": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7294,6 +7293,19 @@
       "summary_used_fallback": false,
       "title": "Development and Application of Collective Thomson Scattering Diagnostics for Energetic and Bulk Ion Measurements in the Large Helical Device"
     },
+    "10.1007/s10894-026-00603-w": {
+      "doi": "10.1007/s10894-026-00603-w",
+      "posted_at": "2026-10-16T03:06:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792120002.480909",
+      "summary_character_count": 117,
+      "summary_japanese": "Large Helical Deviceで、DT生成α粒子の模擬粒子となる1 MeVトリトンの燃焼率を測定するため、動作範囲の異なる新規シンチレーションファイバー検出器を開発・導入し、ヘリオトロン・ステラレーターで初の実験を実施した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Triton Burnup Detector in Large Helical Device"
+    },
     "10.1007/s11200-026-00027-4": {
       "doi": "10.1007/s11200-026-00027-4",
       "posted_at": "2026-07-29T16:54:02+00:00",
@@ -11939,6 +11951,19 @@
       "summary_used_fallback": false,
       "title": "Magnetically Tunable Chiral Phonon Polaritons withMagneto-Optical Bound States in the Continuum"
     },
+    "10.1021/acsphotonics.6c01073": {
+      "doi": "10.1021/acsphotonics.6c01073",
+      "posted_at": "2026-10-16T03:06:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792120010.233589",
+      "summary_character_count": 94,
+      "summary_japanese": "エネルギー保存則に基づき、任意の双極子ナノ粒子の磁気光学活性に対する普遍的上限の解析式を導出した。この上限は非吸収性粒子でのみ達成され、照明条件、材料・形状、磁化の起源や強度に依存しない。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Magneto-Optical Activity of Any Dipolar Particle Has a Universal Upper Bound"
+    },
     "10.1021/acsphotonics.6c01273": {
       "doi": "10.1021/acsphotonics.6c01273",
       "posted_at": "2026-08-08T06:20:13+00:00",
@@ -16203,6 +16228,19 @@
       "summary_used_fallback": false,
       "title": "Observation of significant non-collisional ion heating in helical plasmas with dominant electron heating by neutral beam injection on LHD"
     },
+    "10.1088/1741-4326/aeb392": {
+      "doi": "10.1088/1741-4326/aeb392",
+      "posted_at": "2026-10-16T03:06:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792120018.675039",
+      "summary_character_count": 96,
+      "summary_japanese": "LHDのMHDバースト時に、電荷交換再結合分光に基づく高速F-FIDA診断とRFバースト同期条件平均で捕捉高速イオンを解析した。バースト直後の周辺部信号増加と数ms後の内部信号減少を観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Phase-space dynamics of fast ions during abrupt MHD Bursts in the large helical device"
+    },
     "10.1088/1742-5468/ae9931": {
       "doi": "10.1088/1742-5468/ae9931",
       "posted_at": "2026-09-03T11:15:32+00:00",
@@ -17047,6 +17085,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A comparative study of conventional drilling and helical milling of carbon-Kevlar hybrid thermoplastic composite"
+    },
+    "10.1177/10775463261497541": {
+      "doi": "10.1177/10775463261497541",
+      "posted_at": "2026-10-16T03:06:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792120014.557209",
+      "summary_character_count": 133,
+      "summary_japanese": "helical oscillating cylinderの接触減衰同定に、Fourier特徴・因果的hard gating・二段階学習を組み込むHG-PINNを提案した。合成加速度応答では、30%雑音で減衰パラメータ誤差は両方1%未満、50%雑音でも3%未満だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Physics-informed neural identification of unmeasurable contact damping in helical hydraulic actuators via spectral-aware hard-gating mechanism"
     },
     "10.1177/14644207251409285": {
       "doi": "10.1177/14644207251409285",
@@ -19568,6 +19619,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Preorganisation Enables Reversible Solid-state Photopolymerisation"
+    },
+    "10.26434/chemrxiv.15010334/v1": {
+      "doi": "10.26434/chemrxiv.15010334/v1",
+      "posted_at": "2026-10-16T03:06:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792120006.179229",
+      "summary_character_count": 108,
+      "summary_japanese": "[2]rotaxane内でCu I-triazolideを機械的に安定化し、通常は進行しないcyanide・primary amineとの酸化的カップリングでtriazole 5位に置換基を最大99%収率で導入した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Mechanical Bond Reveals Hidden Interrupted Click Reactions"
     },
     "10.26434/chemrxiv.15010344/v1": {
       "doi": "10.26434/chemrxiv.15010344/v1",
