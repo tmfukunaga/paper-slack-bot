@@ -31,7 +31,7 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 30
+    "2026-10-17": 35
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7345,6 +7345,19 @@
       "summary_used_fallback": false,
       "title": "Stereochemical Investigation of Paroxetine: Synthesis, Characterization, and Chiral High-Performance Liquid Chromatography Separation of All Four Stereoisomers"
     },
+    "10.1002/syst.70060": {
+      "doi": "10.1002/syst.70060",
+      "posted_at": "2026-10-17T10:45:48+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792233948.406449",
+      "summary_character_count": 132,
+      "summary_japanese": "naphthalene diimideとporphyrinをイミン縮合で連結した芳香族空孔を持つキラルcovalent cageを構築し、各種分光法とX線解析で構造を確認した。自己選別により2種のcageを得て、coroneneをπ–π相互作用で効率的に包接した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "NDI-Based Chiral Covalent Porphyrin Cages Constructed by Imine Condensation Reaction"
+    },
     "10.1002/tch2.70021": {
       "doi": "10.1002/tch2.70021",
       "posted_at": "2026-09-10T20:25:41+00:00",
@@ -8611,6 +8624,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Materials Based on Methylene-Linked Water-Soluble Macrocyclic Calixpyridinium and Pillarpyridinium"
+    },
+    "10.1021/accountsmr.6c00246": {
+      "doi": "10.1021/accountsmr.6c00246",
+      "posted_at": "2026-10-17T10:45:52+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792233952.904289",
+      "summary_character_count": 85,
+      "summary_japanese": "低次元キラルペロブスカイトのCPLを、遷移双極子の回転強度とスピン選択則の観点から整理し、CISSを介するキラル層／アキラル発光体でもスピン保存下でCPLが可能と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Where Chirality Matters in Perovskite-Based Circularly Polarized Light Emission"
     },
     "10.1021/acs.accounts.6c00081": {
       "doi": "10.1021/acs.accounts.6c00081",
@@ -20139,6 +20165,45 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "De Novo Circularly Polarized Emission and Greatly Enhanced Circular Dichroism in Cationic Naphthalene Diimide Dye Supramolecular Assembly on 2-D Laponite Nanoclay"
+    },
+    "10.26434/chemrxiv.15010584/v1": {
+      "doi": "10.26434/chemrxiv.15010584/v1",
+      "posted_at": "2026-10-17T10:45:39+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792233939.705629",
+      "summary_character_count": 113,
+      "summary_japanese": "四価telluronium塩1BArFは二座phosphine oxideと安定な1:1 ChB錯体を形成し、(S)-BINAPO錯体は残存σ-holeを介してDMSOやラセミ基質を結合し、NMRでエナンチオマー識別を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantiopure Telluronium Complexes through Bidentate Chalcogen Bonding: From Solid and in Solution Studies to Chiral Recognition"
+    },
+    "10.26434/chemrxiv.15010584/v2": {
+      "doi": "10.26434/chemrxiv.15010584/v2",
+      "posted_at": "2026-10-17T10:45:43+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792233943.816109",
+      "summary_character_count": 117,
+      "summary_japanese": "四価telluronium塩1BArFは二座phosphine oxideと溶液中で安定な1:1 ChB錯体を形成し、(S)-BINAPO錯体は残存σ-holeを介してDMSOやラセミ基質を結合し、NMRでエナンチオマー識別を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantiopure Telluronium Complexes through Bidentate Chalcogen Bonding: From Solid and in Solution Studies to Chiral Recognition"
+    },
+    "10.26434/chemrxiv.15010596/v1": {
+      "doi": "10.26434/chemrxiv.15010596/v1",
+      "posted_at": "2026-10-17T10:45:35+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792233935.860979",
+      "summary_character_count": 359,
+      "summary_japanese": "Enantiomeric Cr(III) and Co(III) tris(trans-1,2-cyclohexanediamine) complexes were examined by VCD, ECD, XNCD, single-crystal X-ray diffraction, and DFT. The lel3 arrangement was supported in solution. Strong Co K-edge XNCD and the first clear experimental Cr K-edge XNCD response were observed, revealing enantiomer-dependent dichroism at both metal centers.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Probing Molecular Chirality from Vibrational to X-ray Energies in Cr(III) and Co(III) Complexes"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
