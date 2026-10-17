@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-15": 15,
     "2026-09-16": 9,
     "2026-09-17": 20,
     "2026-09-18": 25,
@@ -32,7 +31,7 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 15
+    "2026-10-17": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3595,6 +3594,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strong Second-Order Nonlinear Optical Activities in Chiral Hybrid Copper(I) Bromide Microplates"
+    },
+    "10.1002/anie.4825806": {
+      "doi": "10.1002/anie.4825806",
+      "posted_at": "2026-10-17T02:59:20+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792205960.650009",
+      "summary_character_count": 129,
+      "summary_japanese": "四重Bischler–Napieralski環化により4,9,13,18-tetraazateropyrenesを最大56%収率で合成し、置換基により平面・鞍型構造、結晶充填、発光特性を制御した。鞍型TATP-TはC60共結晶化でねじれ型へ可逆的に転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "4,9,13,18-Tetraazateropyrenes: Synthesis, Cross-Locked Saddle Packing and Unique Geometry Reorganization"
     },
     "10.1002/anie.4933664": {
       "doi": "10.1002/anie.4933664",
@@ -9314,6 +9326,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Directed Self-Assembly of Chiral Metal-Organic Cages and Coordination Polymers from Identical Components and Their Circularly Polarized Luminescence"
     },
+    "10.1021/acs.inorgchem.6c04759": {
+      "doi": "10.1021/acs.inorgchem.6c04759",
+      "posted_at": "2026-10-17T02:59:16+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792205956.110369",
+      "summary_character_count": 112,
+      "summary_japanese": "Bi3+の6s2孤立電子対による[BiCl6]八面体歪みと3AP2+のプロトン化差を組み合わせ、選択的N-H···Cl相互作用でカチオン配向を制御し、キラルNCS結晶(R/S-3AP)BiCl5（P212121）を構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Jahn-Teller Distortion-Enabled Interfacial Chemical Recognition for Chiral Hybrid Halides: ( R/S -3AP)BiCl5"
+    },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
       "posted_at": "2026-07-17T21:11:29+00:00",
@@ -11049,6 +11074,19 @@
       "summary_used_fallback": false,
       "title": "A Chiral Dual-Core Carbonyl/Amine MR-TADF Emitter for Organic Light-Emitting Devices"
     },
+    "10.1021/acsaelm.6c01296": {
+      "doi": "10.1021/acsaelm.6c01296",
+      "posted_at": "2026-10-17T02:59:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792205973.219239",
+      "summary_character_count": 113,
+      "summary_japanese": "水熱合成t-TeナノワイヤFETで、抵抗に応じFabry-Pérot干渉とCoulomb blockadeを観測し、Zeeman分光により異方的g因子（g∥=1.18、g⊥=18.41）とΔSO=0.386 meVを決定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fabry-Pérot Interference, g -Factor Anisotropy, and Gate-Tunable Quantum Dot in Chiral Tellurium Nanowires"
+    },
     "10.1021/acsaem.6c02227": {
       "doi": "10.1021/acsaem.6c02227",
       "posted_at": "2026-09-25T21:05:47+00:00",
@@ -11191,6 +11229,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhanced Piezoelectric Response via Transient Heterochiral Solvent-Solute Matching in Supramolecular Assembly"
+    },
+    "10.1021/acsami.6c12038": {
+      "doi": "10.1021/acsami.6c12038",
+      "posted_at": "2026-10-17T02:59:29+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792205969.205269",
+      "summary_character_count": 118,
+      "summary_japanese": "異なる基板・波長で金属硫化物の偏光誘導光電気化学析出を系統検討し、核生成には基板からの電子移動、らせん成長には結晶異方性と偏光整列遷移双極子が必要と解明した。Cu2-xSらせんメタ構造ではサイズにより円偏光差・渦状二色性散乱を調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarization-Guided Spiral Growth of Chiral Copper Sulfide: From Design Rules to Tunable Chiroptics"
     },
     "10.1021/acsami.6c12055": {
       "doi": "10.1021/acsami.6c12055",
@@ -15227,6 +15278,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Head-to-tail assembled borphyrins for solid-state lithium extraction"
+    },
+    "10.1038/s41467-026-78163-y": {
+      "doi": "10.1038/s41467-026-78163-y",
+      "posted_at": "2026-10-17T02:59:25+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792205965.013589",
+      "summary_character_count": 111,
+      "summary_japanese": "相関絶縁体Fe2Mo3O8で、RIXS円二色性により無磁化・非キラル系の鏡映対称性破れを観測し、八面体・四面体Feの各副格子励起にCDを検出した。c軸方向のbi-altermagnetic秩序模型計算も実験結果を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Signatures of bi-altermagnetism revealed by sublattice-specific circular dichroism in resonant inelastic X-ray scattering"
     },
     "10.1038/s41467-026-78226-0": {
       "doi": "10.1038/s41467-026-78226-0",
