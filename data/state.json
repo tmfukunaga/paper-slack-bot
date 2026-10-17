@@ -31,7 +31,7 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 25
+    "2026-10-17": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3620,6 +3620,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Host-Guest Mismatch Enables Selective Hydrogen Atom Transfer"
+    },
+    "10.1002/anie.4709247": {
+      "doi": "10.1002/anie.4709247",
+      "posted_at": "2026-10-17T07:39:35+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792222775.940489",
+      "summary_character_count": 90,
+      "summary_japanese": "動的水素結合とハロゲン結合支援脱重合を統合したバイオマス由来超分子ポリエステルは、環境活性化再配列で強度138.4 MPaを示し、室温で高純度・高収率のモノマーへ迅速に脱重合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergistic Supramolecular Bonding Enables Self-Reinforcing and Chemically Recyclable Sustainable Materials"
     },
     "10.1002/anie.4724561": {
       "doi": "10.1002/anie.4724561",
@@ -8092,6 +8105,19 @@
       "summary_used_fallback": true,
       "title": "Kinematic boundaries govern load redistribution and surface quality in longitudinal-torsional ultrasonic-assisted helical milling of near-β TB6 titanium alloy"
     },
+    "10.1016/j.jmmm.2026.174638": {
+      "doi": "10.1016/j.jmmm.2026.174638",
+      "posted_at": "2026-10-17T07:39:32+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792222771.996249",
+      "summary_character_count": 125,
+      "summary_japanese": "DMI符号反転で形成したキラリティ障壁により、skyrmionの合体を防ぎMagnus力を相殺してSkHEを抑制するracetrackを提案した。w=20 nmでQ≈2を保持し、Jth=2.7×10^12 A/m^2、平均速度約296 m/sを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Barrier skyrmion racetrack with topological protection, Hall effect suppression, and reconfigurable logic"
+    },
     "10.1016/j.jorganchem.2026.124303": {
       "doi": "10.1016/j.jorganchem.2026.124303",
       "posted_at": "2026-10-04T11:47:35+00:00",
@@ -9599,6 +9625,19 @@
       "summary_used_fallback": false,
       "title": "pi-Extended D-A Type [5]Helicenes: Cyano-Based Construction and Enhanced CPL Performance"
     },
+    "10.1021/acs.joc.6c01634": {
+      "doi": "10.1021/acs.joc.6c01634",
+      "posted_at": "2026-10-17T07:39:50+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792222790.269429",
+      "summary_character_count": 119,
+      "summary_japanese": "24員triazine macrocycleで競合IMHB網を設計し、1° amine導入により5種の持続的配座異性体を観測した。計算は既知配座を裏付け、新たなexpanded hinge配座を予測し、H/D交換とNMRがこれを支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Engineering Intramolecular Hydrogen Bond Networks to Access Ensembles of Conformational Isomers of 24-Atom Macrocycles: Computation Corroborates Assignments and Predicts Structure"
+    },
     "10.1021/acs.joc.6c01788": {
       "doi": "10.1021/acs.joc.6c01788",
       "posted_at": "2026-09-09T22:55:35+00:00",
@@ -11099,6 +11138,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis, Crystallographic Characterization, and Proton-Modulated Physical Properties of an Azulene-Embedded Chiral Nanographene"
+    },
+    "10.1021/acs.orglett.6c04246": {
+      "doi": "10.1021/acs.orglett.6c04246",
+      "posted_at": "2026-10-17T07:39:42+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792222782.758089",
+      "summary_character_count": 114,
+      "summary_japanese": "Pd/phosphoramidite触媒でラセミpropargylic carbonatesとalkenyl boronatesをγ選択的に不斉カップリングし、軸不斉vinylallenesを最大91%収率、95% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Palladium-Catalyzed Enantioselective Synthesis of Chiral Vinylallenes via γ-Selective Coupling of Vinylboronates with Propargylic Carbonates"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
@@ -20061,6 +20113,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromatic cis-capping ligands reconfigure a coordination cage system for allosterically controlled BODIPY uptake and release"
+    },
+    "10.26434/chemrxiv.15010505/v1": {
+      "doi": "10.26434/chemrxiv.15010505/v1",
+      "posted_at": "2026-10-17T07:39:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792222786.598319",
+      "summary_character_count": 118,
+      "summary_japanese": "グラフ理論でOMCを幾何要素に分解し、方程式の解と対称操作からトポロジーを自動生成した。ビルディングブロックの導入と構造最適化により、未踏トポロジーや混合・prochiralブロック由来異性体を含む現実的3次元OMC構造空間を拡張した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Graph Theory-Based De Novo Strategy for Automated Generation of Organic Molecular Cage"
     },
     "10.26434/chemrxiv.15010509/v1": {
       "doi": "10.26434/chemrxiv.15010509/v1",
