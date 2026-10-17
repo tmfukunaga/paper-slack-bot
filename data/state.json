@@ -32,7 +32,7 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 5
+    "2026-10-18": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2998,6 +2998,19 @@
       "summary_used_fallback": false,
       "title": "Diversity-Oriented Two-Step Annulative pi-Extension Enables Access to Structurally Complex Nanographenes"
     },
+    "10.1002/anie.2242440": {
+      "doi": "10.1002/anie.2242440",
+      "posted_at": "2026-10-17T20:07:01+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792267621.385879",
+      "summary_character_count": 129,
+      "summary_japanese": "BTI二量体をもつ共有結合性ラジカルケージを還元して合成し、架橋長により電子状態を制御した。m-xylene架橋体は混合原子価モノラジカルと一重項基底のジラジカルを与え、naphthalene架橋体は過剰還元剤下でも混合原子価モノラジカルを優先的に生成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bridge-Length-Dependent Diradical and Mixed-Valence Radical in Benzene Triimide Cages"
+    },
     "10.1002/anie.2275817": {
       "doi": "10.1002/anie.2275817",
       "posted_at": "2026-08-07T12:07:01+00:00",
@@ -5668,6 +5681,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Azepine-Fused Hexabenzocoronenes as Nitrogen-Doped Non-Alternant Nanographenes"
+    },
+    "10.1002/chem.71796": {
+      "doi": "10.1002/chem.71796",
+      "posted_at": "2026-10-17T20:06:48+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792267608.186799",
+      "summary_character_count": 135,
+      "summary_japanese": "isohexideとBIPOL由来tropos tetra-arylをエステル結合した大環状体を設計・合成し、DFTでmeta置換が環化に最適と予測した。VT-NMR、ECD、TD-DFTにより、ねじれの向きと優勢度が足場の立体化学と2,2′-置換基に依存すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Activation of Tropos Biphenolic Moieties by Isohexides: An Integrated Computational-Experimental Approach"
     },
     "10.1002/chem.71797": {
       "doi": "10.1002/chem.71797",
@@ -10841,6 +10867,19 @@
       "summary_used_fallback": true,
       "title": "Enantioselective Synthesis of gem -Difluorinated Spirobenzazepinoindoles by Chiral Phosphoric Acid (CPA)-Catalyzed Asymmetric Pictet-Spengler Cyclization"
     },
+    "10.1021/acs.orglett.6c03162": {
+      "doi": "10.1021/acs.orglett.6c03162",
+      "posted_at": "2026-10-17T20:06:52+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792267612.253389",
+      "summary_character_count": 130,
+      "summary_japanese": "DFTによりCPA触媒N-hydroxyalkylationの選択性を解析し、骨格剛直性と置換基構造が基質との非共有結合相互作用を強め、enantioselectivityを向上させることを示した。秩序化したπ系はより顕著なπ-π stackingを促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Chiral Phosphoric Acid Structure Leads to Strong Interactions That Affected Selectivity of the N-Hydroxyalkylation Reactions: A Density Functional Theory Study"
+    },
     "10.1021/acs.orglett.6c03219": {
       "doi": "10.1021/acs.orglett.6c03219",
       "posted_at": "2026-09-05T04:30:34+00:00",
@@ -13979,6 +14018,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Exploiting Asymmetric Nitrogen Chlorination for Construction of N -Chloroimine Atropisomers"
+    },
+    "10.1021/jacs.6c14717": {
+      "doi": "10.1021/jacs.6c14717",
+      "posted_at": "2026-10-17T20:06:57+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792267616.978779",
+      "summary_character_count": 107,
+      "summary_japanese": "半選択的マクロ環状受容体を用いる機械学習支援超分子センサーアレイを設計し、非線形・多平衡の交差反応でAD病期別蛍光指紋を取得した。ラット髄液で生後1か月時に100%、ヒト主観的認知低下期で95%超の精度で診断した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Super-Cross-Reactive Recognition Enables Preclinical Diagnosis of Alzheimer’s Disease"
     },
     "10.1021/jacs.6c14811": {
       "doi": "10.1021/jacs.6c14811",
@@ -20296,6 +20348,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "De Novo Circularly Polarized Emission and Greatly Enhanced Circular Dichroism in Cationic Naphthalene Diimide Dye Supramolecular Assembly on 2-D Laponite Nanoclay"
+    },
+    "10.26434/chemrxiv.15010534/v1": {
+      "doi": "10.26434/chemrxiv.15010534/v1",
+      "posted_at": "2026-10-17T20:07:08+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792267628.878109",
+      "summary_character_count": 109,
+      "summary_japanese": "天然C-glucosyl xanthoneのmangiferinは、choline chloride系DESをゲル化した。供与体によりゲル化時間と自己集合構造が異なり、レオロジー測定で三次元超分子網目の粘弾性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Eutectogels Based on Mangiferin, a Glucose-Appended Natural Herbal Compound"
     },
     "10.26434/chemrxiv.15010584/v1": {
       "doi": "10.26434/chemrxiv.15010584/v1",
