@@ -31,7 +31,7 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 35
+    "2026-10-17": 40
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8911,6 +8911,19 @@
       "summary_used_fallback": false,
       "title": "Hydrophobic Effectin Self-Assembly of Metal-BoundNucleotides: A Structural Study of Iron-Nucleotide Ternary Complexes"
     },
+    "10.1021/acs.cgd.6c00770": {
+      "doi": "10.1021/acs.cgd.6c00770",
+      "posted_at": "2026-10-17T12:42:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792240932.625569",
+      "summary_character_count": 102,
+      "summary_japanese": "APAPを(R)/(S)-binaphtholとの水素結合共結晶化で光学分割し、完全な構造エナンチオマーである1:1ホモキラル共結晶を得た。π-πスタッキングの抑制により固体発光量子収率は5倍に向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design and Structure-Activity Relationship Investigation of Organic Circularly Polarized Luminescent Materials via a Supramolecular Cocrystal Strategy"
+    },
     "10.1021/acs.cgd.6c00771": {
       "doi": "10.1021/acs.cgd.6c00771",
       "posted_at": "2026-07-23T18:06:12+00:00",
@@ -11945,6 +11958,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Noncovalent Interactions for Stereodivergent Organo/Metal Dual Catalysis: Asymmetric Allenylation of Both 3-Alkyl and 3-Aryl Oxindoles"
     },
+    "10.1021/acscatal.6c07098": {
+      "doi": "10.1021/acscatal.6c07098",
+      "posted_at": "2026-10-17T12:42:21+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792240941.747339",
+      "summary_character_count": 130,
+      "summary_japanese": "Ir触媒不斉アリル位置換でα-alkynyl silyl enol ethersを求核剤とし、ラセミ分岐アリルアルコールから四置換軸不斉allenoneを単一位置異性体として得た。δ位中心不斉を併せ持ち、最大11:1 dr、>99.5:0.5 erを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Asymmetric Allylic Substitution with Alkynylogous Silyl Enol Ethers En Route to Chiral Allenes"
+    },
     "10.1021/acscatal.6c07172": {
       "doi": "10.1021/acscatal.6c07172",
       "posted_at": "2026-10-11T19:20:15+00:00",
@@ -13706,6 +13732,19 @@
       "summary_used_fallback": false,
       "title": "Designof Chiral Antimony Catalyst for Ring-OpeningReaction of Epoxides with Anilines"
     },
+    "10.1021/jacs.6c13049": {
+      "doi": "10.1021/jacs.6c13049",
+      "posted_at": "2026-10-17T12:42:30+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792240949.966649",
+      "summary_character_count": 134,
+      "summary_japanese": "Chichibabin、Schlenk、o-quinodimethaneを縮環した二重鎖状ボウル型cycloarene polyradicaloid CPRを単結晶として合成し、3種の隣接スピン結合、110日半減期、C60/C70包接によるスピン相互作用調節を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stable Open-Shell Bowl-Shaped Cycloarene with Multiple Hybrid Spin-Spin Coupling and Tunable Radical Characters"
+    },
     "10.1021/jacs.6c13135": {
       "doi": "10.1021/jacs.6c13135",
       "posted_at": "2026-10-13T16:58:06+00:00",
@@ -13731,6 +13770,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Negatively Curved Nanohoops as Cut-Outs of Carbon Toroids and Schwarzites"
+    },
+    "10.1021/jacs.6c13196": {
+      "doi": "10.1021/jacs.6c13196",
+      "posted_at": "2026-10-17T12:42:16+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792240936.549239",
+      "summary_character_count": 95,
+      "summary_japanese": "キラリティー指向自己集合により、金属テンプレートや溶媒補助を用いず、各種溶媒・温度条件で二次元分子織り込みポリマーを構築した。織り構造の波状形態を利用し、多孔質分離性能と機械特性を調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Directed Molecular Weaving"
     },
     "10.1021/jacs.6c13382": {
       "doi": "10.1021/jacs.6c13382",
@@ -13952,6 +14004,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Divergent Synthesis of Chiral-at-Sulfur Sulfoximines via Photoredox/Rhodium-Catalyzed Enantioselective C-H Activation"
+    },
+    "10.1021/jacs.6c15641": {
+      "doi": "10.1021/jacs.6c15641",
+      "posted_at": "2026-10-17T12:42:26+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792240946.002349",
+      "summary_character_count": 91,
+      "summary_japanese": "TAML配位子をもつCoIII(OH)錯体は、アセトン中HOTf存在下で凍結によりCoIV(O)錯体へ定量変換した。酸補助PCETを機構とし、低温ほど速い負の温度効果を初めて示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Negative Temperature Effect on the Reversible Conversion between Redox Tautomers of CoIII(OH) and CoIV(O) Complexes Bearing a Redox-Non-Innocent Tetraamido Macrocyclic Ligand"
     },
     "10.1021/jacs.6c15679": {
       "doi": "10.1021/jacs.6c15679",
