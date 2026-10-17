@@ -32,7 +32,7 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 10
+    "2026-10-18": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -398,6 +398,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Decoupling Solvation From Interfacial Adsorption: Chiral-Induced Low-Polarization Interface for Aqueous Zinc-Ion Batteries"
+    },
+    "10.1002/adfm.79143": {
+      "doi": "10.1002/adfm.79143",
+      "posted_at": "2026-10-17T22:53:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792277628.384539",
+      "summary_character_count": 132,
+      "summary_japanese": "蛍光団とポリマーをキラルcellulose nanocrystal filmへ一段階共集合化し、寿命最大4.242 sの室温りん光を実現した。キラルフォトニック結晶フィルターによりg_lum −0.7093を達成し、FRETで多色CP-RTPと白色発光を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sustainable Cellulose Chiral Photonic Films Enable Simultaneous Ultralong Room-temperature Phosphorescence and High Luminescence Dissymmetry With Multicolor Tunability"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -12342,6 +12355,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Anthranyl Bis-sulfoxides with Modular Chiroptical Properties Controlled by an Ionic Stimulus"
     },
+    "10.1021/acsorginorgau.6c00090": {
+      "doi": "10.1021/acsorginorgau.6c00090",
+      "posted_at": "2026-10-17T22:53:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792277619.002749",
+      "summary_character_count": 123,
+      "summary_japanese": "α-bromo-ketoneのKF/18-crown-6不斉求核フッ素化を計算・実験で解析し、TADDOLはHF2−生成を伴う脱プロトン化で生成物ラセミ化・基質アルキル化を招く一方、chiral bisureaではラセミ化障壁が高いことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "What Makes Chiral Hydrogen-Bond Donor Species Successful in Promoting Enantioconvergent Nucleophilic Fluorination?"
+    },
     "10.1021/acsphotonics.6c00778": {
       "doi": "10.1021/acsphotonics.6c00778",
       "posted_at": "2026-08-08T04:19:02+00:00",
@@ -15747,6 +15773,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A swing-type solid-state host-guest system enabling spontaneous adsorption-desorption cycling"
+    },
+    "10.1038/s41467-026-78730-3": {
+      "doi": "10.1038/s41467-026-78730-3",
+      "posted_at": "2026-10-17T22:53:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792277623.887829",
+      "summary_character_count": 117,
+      "summary_japanese": "角度分散で時間・空間Rayleigh範囲を整合させる時間集光にスペクトル渦位相変調を組み込み、焦点域でリング状強度とらせん位相特異点を保つSTOVを生成した。空間分散等により軌道角運動量ベクトルも連続制御し、高・低NA条件で実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Temporal focusing enables distortion-resistant high-intensity spatiotemporal optical vortices"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
@@ -20279,6 +20318,32 @@
       "slack_ts": "1792097767.299349",
       "summary_character_count": 115,
       "summary_japanese": "冠エーテル担持樹脂と硫黄供与体DEDTP−を用いる255Noのオンライン抽出および相対論的DFT計算により、No2+はSr2+より高い抽出効率と短いNo–S結合を示し、Ba2+・Ra2+に類似する軟らかいLewis酸性を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing the Softer-acid Nature of 102No2+ Compared to Alkaline Earth Metal ions via Synergistic Extraction with Sulfur Donor on Crown Ether Supported Resin"
+    },
+    "10.26434/chemrxiv.15010368/v2": {
+      "doi": "10.26434/chemrxiv.15010368/v2",
+      "posted_at": "2026-10-17T22:53:34+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792277614.763969",
+      "summary_character_count": 98,
+      "summary_japanese": "冠エーテル担持樹脂と硫黄供与体DEDTP−による255Noのオンライン固液抽出と相対論的DFT計算で、No2+はSr2+より高い抽出効率と短いNo–S結合を示し、軟らかいLewis酸性を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing the Softer-acid Nature of 102No2+ Compared to Alkaline Earth Metal ions via Synergistic Extraction with Sulfur Donor on Crown Ether Supported Resin"
+    },
+    "10.26434/chemrxiv.15010368/v3": {
+      "doi": "10.26434/chemrxiv.15010368/v3",
+      "posted_at": "2026-10-17T22:53:30+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792277610.208479",
+      "summary_character_count": 112,
+      "summary_japanese": "冠エーテル担持樹脂と硫黄供与体DEDTP−による^255Noのオンライン固液抽出と相対論的DFT計算で、No2+はSr2+より高い抽出効率を示し、Ba2+・Ra2+に類似した軟らかいLewis酸性と強いNo–S結合を示した。",
       "summary_language": "ja",
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
