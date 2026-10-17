@@ -31,7 +31,8 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 40
+    "2026-10-17": 40,
+    "2026-10-18": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4375,6 +4376,19 @@
       "summary_used_fallback": false,
       "title": "Hydrothermal Disturbance-Driven Coordination Assembly of Supramolecular Glasses With Multi-Excitation-Tunable Afterglow"
     },
+    "10.1002/anie.7366839": {
+      "doi": "10.1002/anie.7366839",
+      "posted_at": "2026-10-17T15:36:01+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792251361.625159",
+      "summary_character_count": 129,
+      "summary_japanese": "spiro[3.3]heptane由来プロキラル基質を設計し、キラルリン酸触媒還元的アミノ化で軸不斉α-amino acidsを高収率・高エナンチオ選択的に合成した。L-lysine模倣体はペプチドへ導入可能で、PD-1/PD-L1阻害活性と物性を改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Asymmetric Synthesis of Spiro[3.3]heptane-Based Axially Chiral α-Amino Acids"
+    },
     "10.1002/anie.7409022": {
       "doi": "10.1002/anie.7409022",
       "posted_at": "2026-09-24T16:30:22+00:00",
@@ -8495,6 +8509,19 @@
       "summary_used_fallback": false,
       "title": "Defect-engineered Mn/Zn-MOF-74-L-His chiral nanozyme for “on-off-on” fluorescent chiral recognition of D/L-cysteine"
     },
+    "10.1016/j.snb.2026.141078": {
+      "doi": "10.1016/j.snb.2026.141078",
+      "posted_at": "2026-10-17T15:36:05+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792251365.889099",
+      "summary_character_count": 110,
+      "summary_japanese": "β-cyclodextrinを共有結合固定化した階層多孔性COFをシリコンナノチャネル上に集積し、アミノ酸エナンチオマー認識センサーを作製した。検出限界0.78 pM、10^-11～10^-4 Mの広い直線範囲を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Covalent organic framework anchored β-cyclodextrin-modified silicon nanochannel sensor for chiral recognition of amino acid enantiomers"
+    },
     "10.1016/j.solener.2026.115201": {
       "doi": "10.1016/j.solener.2026.115201",
       "posted_at": "2026-10-10T09:51:42+00:00",
@@ -10170,6 +10197,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ionic-Environment Control of Highest Occupied Molecular Orbital-Lowest Unoccupied Molecular Orbital Levels and Polaronic Transitions in Sulfonated Polyaniline Nanobelts: A Platform for Switchable Conductivity and Antibacterial Activity"
+    },
+    "10.1021/acs.macromol.6c01688": {
+      "doi": "10.1021/acs.macromol.6c01688",
+      "posted_at": "2026-10-17T15:36:18+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792251378.703309",
+      "summary_character_count": 122,
+      "summary_japanese": "SCFTでfrustrated ABC/ABC blendを解析し、A-block長bidispersityがH3C、C4C、H4C、C6Cを順次安定化、C-block長bidispersityがH3C・H4C相を選択的に拡大することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stabilizing Multi-Stranded Helical Supercylinders via Synergistic Effect of A- and C-Block Bidispersity in Frustrated ABC/ABC Binary Blends"
     },
     "10.1021/acs.macromol.6c01803": {
       "doi": "10.1021/acs.macromol.6c01803",
@@ -14108,6 +14148,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Helical Nanocavity-Driven Upconversion Circularly Polarized Luminescence with Efficient Triplet Dynamics in Poly(methyl methacrylate) Stereocomplexes"
+    },
+    "10.1021/jacs.6c16243": {
+      "doi": "10.1021/jacs.6c16243",
+      "posted_at": "2026-10-17T15:36:12+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792251372.564219",
+      "summary_character_count": 120,
+      "summary_japanese": "四角柱状ケージを超分子マスクとしてLu3N@Ih-C80とSc3N@Ih-C80のBingel bis-官能基化に初適用し、温和・短時間条件で反応性を向上させた。解析と計算により、27種中5種のbis-adductが優先生成すると特定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Mask-Mediated Regioselective bis-Bingel-Functionalization of M3N@I h -C80 (M = Lu, Sc)"
     },
     "10.1021/jacs.6c16251": {
       "doi": "10.1021/jacs.6c16251",
@@ -18436,6 +18489,19 @@
       "summary_language": "en",
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
+      "title": "Iridium-Catalyzed Regio- and Enantioselective Hydroamination of Allenes: Direct Access to α-Tertiary Chiral Allylic Amines"
+    },
+    "10.26434/chemrxiv.10001679/v4": {
+      "doi": "10.26434/chemrxiv.10001679/v4",
+      "posted_at": "2026-10-17T15:35:57+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792251357.383089",
+      "summary_character_count": 135,
+      "summary_japanese": "Ir(I)触媒とα-aminopyridineで1,1-二置換alleneを高位置・エナンチオ選択的にhydroaminationし、α-tertiary chiral allylic amineを得た。機構研究はC–N還元的脱離が選択性とTOFを決めることを支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
       "title": "Iridium-Catalyzed Regio- and Enantioselective Hydroamination of Allenes: Direct Access to α-Tertiary Chiral Allylic Amines"
     },
     "10.26434/chemrxiv.10001805/v2": {
