@@ -31,7 +31,7 @@
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
-    "2026-10-17": 20
+    "2026-10-17": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1750,6 +1750,19 @@
       "summary_used_fallback": false,
       "title": "Sidechain Modulation of Responsive Metal-Organic Framework Pore Chirality for Enhanced Enantioseparation"
     },
+    "10.1002/ange.3747908": {
+      "doi": "10.1002/ange.3747908",
+      "posted_at": "2026-10-17T04:27:21+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792211241.762309",
+      "summary_character_count": 115,
+      "summary_japanese": "Pd触媒不斉ヒドロシリル化で、dihydrosilaneの脱対称化とalkynylphosphoryl基質の分割を併用し、隣接Si/P立体中心を持つgem-phosphorylsilylalkeneを最大98:2 erで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of gem -Phosphorylsilylalkenes Bearing Si/Si,P-Stereogenic Centers by Regio- and Enantio-Selective Pd-Catalyzed Hydrosilylation"
+    },
     "10.1002/ange.3778438": {
       "doi": "10.1002/ange.3778438",
       "posted_at": "2026-08-15T15:44:06+00:00",
@@ -2127,6 +2140,19 @@
       "summary_used_fallback": false,
       "title": "Europium Macrocyclic Complexes With Rigid High-Symmetry Coordination Geometry for High-Voltage and Durable Neutral Aqueous Redox Flow Batteries"
     },
+    "10.1002/ange.7073485": {
+      "doi": "10.1002/ange.7073485",
+      "posted_at": "2026-10-17T04:27:14+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792211234.793419",
+      "summary_character_count": 380,
+      "summary_japanese": "Chiral disulfonimides were used as Brønsted base catalysts for atroposelective iodination of aminopyrimidines and anilines, enabled by a newly identified DTBP effect. Control experiments and DFT calculations supported a mechanism involving reversible electrophilic aromatic substitution followed by irreversible, enantio-determining deprotonation by the chiral DSI conjugate base.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral Disulfonimide-Catalyzed Atroposelective Iodination of (Hetero)arylamines: Generalizing the Brønsted Base Catalysis Strategy"
+    },
     "10.1002/ange.7074723": {
       "doi": "10.1002/ange.7074723",
       "posted_at": "2026-08-28T00:14:33+00:00",
@@ -2308,6 +2334,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Trigonal Pyramidal Germanium Halides for Enhanced Second Harmonic Generation"
+    },
+    "10.1002/ange.8457661": {
+      "doi": "10.1002/ange.8457661",
+      "posted_at": "2026-10-17T04:27:07+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792211227.352849",
+      "summary_character_count": 117,
+      "summary_japanese": "cysteine修飾CdS nanorods/Ni触媒によるメタノール改質で、CPLがスピン輸送を可逆制御した。D(-)-CdS/NiはLCP下でRCP比71.1%高い水素発生速度と、420 nmで74.4%の見かけ量子効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly Polarized Light Amplifies Spin Polarization for Efficient Photoredox Chemistry in a Chiral Magnetic Catalyst"
     },
     "10.1002/ange.8483841": {
       "doi": "10.1002/ange.8483841",
@@ -5043,6 +5082,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Kinetic Resolution of 2-Aryl Oxetanes by Dinuclear Titanium Radical Catalysis"
+    },
+    "10.1002/anie.9797011": {
+      "doi": "10.1002/anie.9797011",
+      "posted_at": "2026-10-17T04:27:30+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792211249.928659",
+      "summary_character_count": 130,
+      "summary_japanese": "β-ketoenamine結合COFをキラル化し、スピン選択的電子輸送でO–O結合を保持するO2還元を促進した。H2O2生成は非キラル体比38.7–252.1%向上し、bipyridine含有COFは水と酸素のみで22.8 mmol g−1 h−1を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiralizing Covalent Organic Frameworks to Boost H 2 O 2 Photosynthesis"
     },
     "10.1002/anie.9997737": {
       "doi": "10.1002/anie.9997737",
@@ -15720,6 +15772,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantio- and diastereoselective synthesis of multi-helical nanographenes"
+    },
+    "10.1038/s44160-026-01193-3": {
+      "doi": "10.1038/s44160-026-01193-3",
+      "posted_at": "2026-10-17T04:27:26+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792211245.947809",
+      "summary_character_count": 120,
+      "summary_japanese": "dodecayneを基質に、Ni触媒による配列制御型4連続[2+2+2]環化付加とScholl反応を組み合わせ、巨大なπ拡張carbo[17]heliceneをエナンチオ選択的に合成した。得られたキラルナノカーボンは強い円偏光発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective synthesis of pi-extended carbo[17]helicene via sequence-controlled quadruple [2+2+2] cycloadditions"
     },
     "10.1038/s44310-026-00148-y": {
       "doi": "10.1038/s44310-026-00148-y",
