@@ -31,7 +31,8 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 40
+    "2026-10-18": 40,
+    "2026-10-19": 1
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -18658,6 +18659,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of Chiral 1,2-Diamines from (R)-2-Phenyl-2-(Piperidin-1-yl)Ethan-1-ol"
+    },
+    "10.20944/preprints202610.1006.v1": {
+      "doi": "10.20944/preprints202610.1006.v1",
+      "posted_at": "2026-10-18T15:52:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792338774.988939",
+      "summary_character_count": 125,
+      "summary_japanese": "らせん歯車上のgrand potentialをBinet公式とPisano周期により不完全指数積分の対と機械項へ還元し、その逆のabsolute cutを定義した。NIST helium rayで二分法と解析接続により温度に対するconeを構成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Complex Grand Potential on a Helical Gear: the Incomplete Pairing, the Absolute Cut, and the Hub Clock"
     },
     "10.20944/preprints202610.1090.v1": {
       "doi": "10.20944/preprints202610.1090.v1",
