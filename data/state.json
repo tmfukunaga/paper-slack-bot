@@ -31,7 +31,7 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 25
+    "2026-10-18": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1866,6 +1866,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strong Second-Order Nonlinear Optical Activities in Chiral Hybrid Copper(I) Bromide Microplates"
+    },
+    "10.1002/ange.4825806": {
+      "doi": "10.1002/ange.4825806",
+      "posted_at": "2026-10-18T07:57:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792310248.702589",
+      "summary_character_count": 120,
+      "summary_japanese": "四重Bischler–Napieralski環化で4,9,13,18-tetraazateropyrenesを最大56%収率で合成し、置換基により平面・鞍型構造と発光を制御した。鞍型TATP-TはC60共結晶化でねじれ型へ可逆的に変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "4,9,13,18-Tetraazateropyrenes: Synthesis, Cross-Locked Saddle Packing and Unique Geometry Reorganization"
     },
     "10.1002/ange.4944487": {
       "doi": "10.1002/ange.4944487",
@@ -8559,6 +8572,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Field-safe multi-helical hybrid wireless power transfer with edge-field mitigated hollow cylindrical plates and enhanced misalignment performance for electric vehicles"
+    },
+    "10.1016/j.rinp.2026.108768": {
+      "doi": "10.1016/j.rinp.2026.108768",
+      "posted_at": "2026-10-18T07:57:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792310264.966739",
+      "summary_character_count": 130,
+      "summary_japanese": "タイトバインディング法とLandauer-Büttiker形式で(15,0)～(19,0) h-BNNSsの弾道熱電特性を200～700 Kで比較し、(15,0)は200 Kで最高ZTe=4.22、(19,0)は300 K超でZTe≈2.5～2.9を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Comparative investigation of chirality-dependent thermoelectric performance in hexagonal boron nitride nanoscrolls under ballistic transport regime"
     },
     "10.1016/j.snb.2026.140942": {
       "doi": "10.1016/j.snb.2026.140942",
@@ -15825,6 +15851,19 @@
       "summary_used_fallback": false,
       "title": "Ultrathin high-performance circular polarizers based on MoOCl2/NbOCl2 van der Waals heterostructures"
     },
+    "10.1038/s41467-026-78636-0": {
+      "doi": "10.1038/s41467-026-78636-0",
+      "posted_at": "2026-10-18T07:57:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792310252.508219",
+      "summary_character_count": 117,
+      "summary_japanese": "Funnel metadynamics等でBacillus megaterium由来ω-transaminaseの嵩高い基質結合を解析し、遠隔部位を改変した13M変異体はABPを>99% eeで合成し、野生型比106倍の活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhancing ω-transaminase catalysis of bulky substrates guided by binding mechanism"
+    },
     "10.1038/s41467-026-78693-5": {
       "doi": "10.1038/s41467-026-78693-5",
       "posted_at": "2026-10-16T21:09:48+00:00",
@@ -16071,6 +16110,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Broadband asymmetric transmission and cross-polarization conversion in an interlayer-coupled bilayer chiral metasurface"
+    },
+    "10.1038/s41598-026-75647-1": {
+      "doi": "10.1038/s41598-026-75647-1",
+      "posted_at": "2026-10-18T07:57:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792310260.758389",
+      "summary_character_count": 102,
+      "summary_japanese": "らせん液冷ミニチャネルと銅フォーム担持PCMを統合したLIB用熱制御系を、数値解析・GA・ANNで最適化した。3C放電で最適設計は最大温度を21.27 K低減し、ANNの予測精度はR²>0.99を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "ANN-GA-based optimization of a hybrid battery thermal regulation system with helical liquid cooling, PCM, and copper foam"
     },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
@@ -22245,6 +22297,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Spatio-spectral vector light created by optical activity in rubidium vapor"
+    },
+    "10.56519/b1wpwv78": {
+      "doi": "10.56519/b1wpwv78",
+      "posted_at": "2026-10-18T07:57:36+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792310256.532719",
+      "summary_character_count": 112,
+      "summary_japanese": "消化器・腹部症状を示す犬40頭を、腹部超音波検査群とSNAP cPL群に各20頭ずつ分けて評価した。超音波群では10%が急性膵炎疑い、SNAP cPL群では35%が陽性であったが、両検査の一致度や併用性能は評価できなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "DETERMINACIÓN DE PANCREATITIS SUBCLÍNICA DIAGNOSTICADOS MEDIANTE LA PRUEBA SNAP CPL Y ECOGRAFÍA EN CANINOS"
     },
     "10.59345/sjrir.v4i1.323": {
       "doi": "10.59345/sjrir.v4i1.323",
