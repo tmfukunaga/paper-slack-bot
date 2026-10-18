@@ -31,7 +31,7 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 30
+    "2026-10-18": 35
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2244,6 +2244,19 @@
       "summary_used_fallback": false,
       "title": "Catalytic Enantioselective Remote Transannular Desymmetrization of Calix[4]Arenes to Inherently Chiral Double-Macrocycles"
     },
+    "10.1002/ange.7264908": {
+      "doi": "10.1002/ange.7264908",
+      "posted_at": "2026-10-18T11:06:32+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792321592.342069",
+      "summary_character_count": 125,
+      "summary_japanese": "spirobiindaneとbinaphthylの立体配列を交互環化で制御し、coil型・ribbon型のジアステレオマーらせん梯子ポリマーを合成した。両者は液体クロマトグラフィー固定相で相補的キラル認識を示し、非らせん前駆体は分離能を示さなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sequence-Controlled Helical Ladder Polymers: Impact of Stereochemical Sequence on Helical Geometry and Chiral Recognition"
+    },
     "10.1002/ange.7494092": {
       "doi": "10.1002/ange.7494092",
       "posted_at": "2026-08-14T05:47:24+00:00",
@@ -4414,6 +4427,19 @@
       "summary_used_fallback": false,
       "title": "Dynamic Fluorescence Visualization of Nonequilibrium Supramolecular Assembly Regulated by a Proton Reservoir"
     },
+    "10.1002/anie.7264908": {
+      "doi": "10.1002/anie.7264908",
+      "posted_at": "2026-10-18T11:06:28+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792321588.137149",
+      "summary_character_count": 134,
+      "summary_japanese": "(S)/(R)-spirobiindaneと(S)/(R)-binaphthylを交互環化し、立体化学配列に応じたcoil型・ribbon型らせん梯子ポリマーを合成した。液体クロマトグラフィー固定相として相補的なキラル認識を示し、非らせん前駆体は分離能を示さなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sequence-Controlled Helical Ladder Polymers: Impact of Stereochemical Sequence on Helical Geometry and Chiral Recognition"
+    },
     "10.1002/anie.7295217": {
       "doi": "10.1002/anie.7295217",
       "posted_at": "2026-08-27T00:27:32+00:00",
@@ -4504,6 +4530,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Co-Assembled Helical Polymer Nanofibers Enable Efficient CO 2 Photoreduction Through Interchain Energy Transfer"
+    },
+    "10.1002/anie.7628311": {
+      "doi": "10.1002/anie.7628311",
+      "posted_at": "2026-10-18T11:06:48+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792321608.189039",
+      "summary_character_count": 105,
+      "summary_japanese": "η6-arene Rh(III)二機能触媒は、平面状E-stilbeneを選択的にEDA錯体化し、光励起後の逆電子移動とISCを介して局在三重項オレフィンを生成し、熱力学に反するE-to-Z異性化を可能にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photocatalytic Isomerization of Stilbenes via Molecular Recognition With a Dual-Function η 6 -Arene Catalyst"
     },
     "10.1002/anie.7699472": {
       "doi": "10.1002/anie.7699472",
@@ -6525,6 +6564,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Umpolung Character of Styrenes: Mechanism and Stereoselective Studies of α , β -Substituted Amino Acids Using Chiral Ir-Phosphine Complexes"
+    },
+    "10.1002/jcc.70529": {
+      "doi": "10.1002/jcc.70529",
+      "posted_at": "2026-10-18T11:06:37+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792321597.012739",
+      "summary_character_count": 118,
+      "summary_japanese": "全電子電荷密度解析と時間依存DFT電子核動力学により、円偏光超短パルス下で(S)-1-chloro-1-fluoroethaneの絶対配置を判定した。CEP変調は同分子に固有の螺旋束縛電子運動を制御し、電子的アキラル性を有意に誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Low-Attosecond Resolution Electronic and Nuclear Dynamics: How Helical Electron Motion Drives Chiral Asymmetry"
     },
     "10.1002/jccs.70261": {
       "doi": "10.1002/jccs.70261",
@@ -15811,6 +15863,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Topological diversity and scintillating dynamics of dipolar surface twists in a van der Waals magnet"
+    },
+    "10.1038/s41467-026-78524-7": {
+      "doi": "10.1038/s41467-026-78524-7",
+      "posted_at": "2026-10-18T11:06:44+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792321604.080939",
+      "summary_character_count": 103,
+      "summary_japanese": "円偏光のみをキラル指向因子とし、可逆的イミン縮合の自己修正でキラルCOFをエナンチオ選択的に合成した。発光骨格へのキラリティー導入により発光非対称性因子0.24を示し、サブマイクロメートルで空間符号化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical-handedness-driven enantioselective synthesis and programmable chirality encoding of covalent organic frameworks"
     },
     "10.1038/s41467-026-78531-8": {
       "doi": "10.1038/s41467-026-78531-8",
