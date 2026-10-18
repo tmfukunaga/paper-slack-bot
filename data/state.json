@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-16": 9,
     "2026-09-17": 20,
     "2026-09-18": 25,
     "2026-09-19": 25,
@@ -32,7 +31,7 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 15
+    "2026-10-18": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -398,6 +397,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Decoupling Solvation From Interfacial Adsorption: Chiral-Induced Low-Polarization Interface for Aqueous Zinc-Ion Batteries"
+    },
+    "10.1002/adfm.79034": {
+      "doi": "10.1002/adfm.79034",
+      "posted_at": "2026-10-18T03:01:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792292464.698749",
+      "summary_character_count": 96,
+      "summary_japanese": "等容積・回転双安定ユニットからなるキラルメタマテリアルを理論・シミュレーション・実験で検証し、トルクによる開閉切替で軟剛応答、座屈モード、エネルギー散逸、体積弾性率を多軸下で再プログラムした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bistable Isochoric Chiral Metamaterials with Reprogrammable Multiaxial Responses"
     },
     "10.1002/adfm.79143": {
       "doi": "10.1002/adfm.79143",
@@ -9834,6 +9846,19 @@
       "summary_used_fallback": false,
       "title": "Dispersive Optical Activity of ( S )-2-Methylaziridine: Intrinsic Properties and Extrinsic Solvation Effects"
     },
+    "10.1021/acs.jpca.6c05271": {
+      "doi": "10.1021/acs.jpca.6c05271",
+      "posted_at": "2026-10-18T03:01:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792292468.789549",
+      "summary_character_count": 134,
+      "summary_japanese": "B, N, C, Si, P, S置換benzannulated [4]heliceneのABS、EMI、CD、CPLをTD/TI法で解析し、置換基に応じた振電構造変化と振動モードを帰属した。低周波ねじれと高周波環伸縮が0–0遷移強度および微細構造の豊富さを左右した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Theoretical Study on Vibronically Resolved Spectra of Six Heteroatom-Doped Benzannulated [4]Helicenes: Vibrational Mode Assignments and Substituent Effects"
+    },
     "10.1021/acs.jpca.6c05362": {
       "doi": "10.1021/acs.jpca.6c05362",
       "posted_at": "2026-10-11T19:20:08+00:00",
@@ -15942,6 +15967,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Surrogate-assisted multi-objective robust optimization of helical gear pair considering manufacturing uncertainty due to profile error"
+    },
+    "10.1038/s41598-026-69262-3": {
+      "doi": "10.1038/s41598-026-69262-3",
+      "posted_at": "2026-10-18T03:00:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792292453.574389",
+      "summary_character_count": 118,
+      "summary_japanese": "未報告のchiral domain-wall dynamicsを発見し、DW速度の対称成分が従来の平衡DWエネルギー由来とは逆の下に凸でなく上に凸の曲率を示すことを確認した。対称・反対称成分に基づき、既報を含む動力学を3種類に分類した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Classification of chiral domain-wall dynamics through symmetry analysis"
     },
     "10.1038/s41598-026-70111-6": {
       "doi": "10.1038/s41598-026-70111-6",
@@ -22078,6 +22116,19 @@
       "summary_used_fallback": false,
       "title": "Control of helix orientation in chiral magnets via lateral confinement"
     },
+    "10.5445/ir/1000198050": {
+      "doi": "10.5445/ir/1000198050",
+      "posted_at": "2026-10-18T03:01:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792292460.612539",
+      "summary_character_count": 114,
+      "summary_japanese": "CMSは13 TeVのpp衝突で生じたt\\overline{t}を再構成し、beam基底のスピン相関を測定した。helicity基底の結果と併せて量子状態の固有状態、純度、entropy、量子もつれを評価し、標準模型と整合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Characterization of the quantum state of top quark pairs produced in proton-proton collisions at $\\sqrt{s}$ = 13 TeV using the beam and helicity bases"
+    },
     "10.54691/h7tvsm76": {
       "doi": "10.54691/h7tvsm76",
       "posted_at": "2026-10-04T16:26:08+00:00",
@@ -22272,6 +22323,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Improving Radiological Quality of Proximal Femoral Nail Antirotation Fixation for Intertrochanteric Femoral Fractures: A Closed-Loop Clinical Audit of Reduction Quality, Tip-Apex Distance, and Helical Blade Position"
+    },
+    "10.9734/ajocs/2026/v16i6489": {
+      "doi": "10.9734/ajocs/2026/v16i6489",
+      "posted_at": "2026-10-18T03:00:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792292449.292959",
+      "summary_character_count": 102,
+      "summary_japanese": "非共有結合・host–guest超分子複合体の自己修復材料、注射用hydrogel、bioimaging、再生医療を批判的に総説し、動的ネットワークの機能は実証された一方、多くは前臨床段階であると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Noncovalent And Host-guest Supramolecular Complexes in Nanomedicine: Self-healing Materials, Biomaterial Hydrogels, Bioimaging and Regenerative Medicine"
     },
     "10.9744/ced.28.2.264-275": {
       "doi": "10.9744/ced.28.2.264-275",
