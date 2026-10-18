@@ -31,7 +31,7 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 35
+    "2026-10-18": 40
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2717,6 +2717,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Jahn-Teller Effect Dominates the Left-Hand Rule: Magneto-Optics in Metal Halide Lattice"
+    },
+    "10.1002/anie.1267947": {
+      "doi": "10.1002/anie.1267947",
+      "posted_at": "2026-10-18T12:58:41+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792328321.317239",
+      "summary_character_count": 117,
+      "summary_japanese": "21種のene reductaseで8種の置換alleneを選択的に半還元し、キラルβ,γ-不飽和カルボニル化合物を合成した。XenBは99% ee、Ts OYEは基質分割とZ体選択性を示し、Ts OYE Y177FはE体を優先した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereoselective Semireduction of Allenes to Chiral β,γ-Unsaturated Carbonyl Compounds by Ene Reductases"
     },
     "10.1002/anie.1388948": {
       "doi": "10.1002/anie.1388948",
@@ -8339,6 +8352,19 @@
       "summary_used_fallback": false,
       "title": "Superior flexible Zn-ion battery using vanadium oxide nanobelts cathode enables medium temperature range and ultrafast Zn2+ intercalation"
     },
+    "10.1016/j.marstruc.2026.104255": {
+      "doi": "10.1016/j.marstruc.2026.104255",
+      "posted_at": "2026-10-18T12:58:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792328329.334479",
+      "summary_character_count": 92,
+      "summary_japanese": "シルト質粘土中の後注入式ヘリカル杭で3件の引抜き載荷試験を行い、土圧・間隙水圧を計測した。注入により引抜き能力は0.68～4.33倍向上し、拡張楕円すべり面モデルはその能力を予測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Field tests on uplift performances of post-grouted helical pile embedded in silty clay"
+    },
     "10.1016/j.matdes.2026.117210": {
       "doi": "10.1016/j.matdes.2026.117210",
       "posted_at": "2026-10-12T20:54:20+00:00",
@@ -8585,6 +8611,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inclined pullout performance of helical anchors for floating offshore wind turbines: A geometry-driven mechanism shift"
+    },
+    "10.1016/j.oceaneng.2026.128884": {
+      "doi": "10.1016/j.oceaneng.2026.128884",
+      "posted_at": "2026-10-18T12:58:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792328333.549679",
+      "summary_character_count": 125,
+      "summary_japanese": "円柱のVIV抑制用straight-fin helical strakeをRe=2×10^4–1×10^5で実験評価し、11形状を比較した。l/D=1.0、h/D=0.2、p/D=17.5は最大振幅を98%以上低減し、lock-inをほぼ消失させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental investigation on straight-fin helical strakes with varying geometric parameters for vortex-induced vibration suppression"
     },
     "10.1016/j.physa.2026.132141": {
       "doi": "10.1016/j.physa.2026.132141",
@@ -15812,6 +15851,19 @@
       "summary_used_fallback": false,
       "title": "Chiral-nematic Fermi liquid state as the parent state of kagome metals and superconductors"
     },
+    "10.1038/s41467-026-78438-4": {
+      "doi": "10.1038/s41467-026-78438-4",
+      "posted_at": "2026-10-18T12:58:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792328325.514289",
+      "summary_character_count": 99,
+      "summary_japanese": "マウスMPUを再構成し、mPADI6がN末端IgGドメイン依存的に四量体、高次オリゴマー、フィラメントを形成することをcryo-EMで解明した。この種特異的オリゴマー化はMPUの成分比を変化させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular basis of PADI6 species-specific oligomerization in maternal regulatory complexes"
+    },
     "10.1038/s41467-026-78486-w": {
       "doi": "10.1038/s41467-026-78486-w",
       "posted_at": "2026-10-10T16:58:31+00:00",
@@ -18684,6 +18736,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Study on the Mechanical Performance of Prefabricated Helical Anchor Foundations with Mechanical Connections Under Wind Loads"
+    },
+    "10.2174/0122133372492596261008090215": {
+      "doi": "10.2174/0122133372492596261008090215",
+      "posted_at": "2026-10-18T12:58:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792328337.574599",
+      "summary_character_count": 110,
+      "summary_japanese": "不斉合成における有機触媒・有機金属触媒を概説し、多様な触媒の合成応用と将来展望を整理する。高エナンチオ選択的な複雑キラル分子構築、医薬品・農薬・先端材料への展開、およびAI・計算モデリングによる反応設計の高度化を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalysts Augmenting the Synthesis of Chiral Compounds and their Future Prospects: A Review"
     },
     "10.2174/0129504023485704260820173552": {
       "doi": "10.2174/0129504023485704260820173552",
