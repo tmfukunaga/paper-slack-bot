@@ -31,7 +31,7 @@
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
-    "2026-10-18": 20
+    "2026-10-18": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6123,6 +6123,19 @@
       "summary_used_fallback": false,
       "title": "Bioinspired Zinc Macrocycles Confined in UiO-67: A Heterogeneous Synzyme for Sustainable CO 2 Valorization"
     },
+    "10.1002/dta.70165": {
+      "doi": "10.1002/dta.70165",
+      "posted_at": "2026-10-18T04:35:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792298101.794409",
+      "summary_character_count": 128,
+      "summary_japanese": "法科学340例の毛髪中amphetamineを、誘導体化法とキラル固定相LC-MS/MSで解析し、(S)-amphetamineのEFに基づく判定モデルを構築した。EF≥0.95は治療薬、≤0.55は違法使用を示し、中間値は併用または混合塩製剤を示唆した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Retrospective Study on the Power and Interpretation of Chiral Amphetamine Analysis in Hair for Forensic Applications"
+    },
     "10.1002/eem2.70513": {
       "doi": "10.1002/eem2.70513",
       "posted_at": "2026-09-11T04:41:54+00:00",
@@ -12101,6 +12114,19 @@
       "summary_used_fallback": true,
       "title": "Synthesis of Chiral α-Aminophosphonate Derivatives through Copper(I)-Catalyzed Enantioselective Alkylation"
     },
+    "10.1021/acscatal.6c07270": {
+      "doi": "10.1021/acscatal.6c07270",
+      "posted_at": "2026-10-18T04:35:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792298114.485689",
+      "summary_character_count": 133,
+      "summary_japanese": "キラルリン酸触媒下、tryptaminesとalkoxyallenesの不斉アリル位脱芳香族化を開発し、最高93%収率、>19:1 E/Z、99% eeでキラルpyrroloindolinesを得た。alkoxyalleneと触媒の共有結合性付加体形成も示唆された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Phosphoric Acid-Catalyzed Asymmetric Allylic Dearomatization of Tryptamines with Alkoxyallenes"
+    },
     "10.1021/acscentsci.6c00969": {
       "doi": "10.1021/acscentsci.6c00969",
       "posted_at": "2026-09-03T02:55:24+00:00",
@@ -15734,6 +15760,19 @@
       "summary_used_fallback": false,
       "title": "Recognition and mechanism of M. tuberculosis cell wall galactan transport"
     },
+    "10.1038/s41467-026-78506-9": {
+      "doi": "10.1038/s41467-026-78506-9",
+      "posted_at": "2026-10-18T04:35:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792298119.027029",
+      "summary_character_count": 113,
+      "summary_japanese": "トポロジカル渦音波と対称性を設計した音響メタサーフェスにより、カイラル空間でCPA-EPを実現した。軌道角運動量をもつトポロジカル電荷チャネルが容量を拡張し、回転操作で吸収容量と縮退状態を切り替え、感度と堅牢性の共存を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Absorbing exceptional point of coherent vortex beams"
+    },
     "10.1038/s41467-026-78513-w": {
       "doi": "10.1038/s41467-026-78513-w",
       "posted_at": "2026-10-14T17:12:10+00:00",
@@ -17891,6 +17930,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modeling and simulation of a helical-finned tube integrated with paraffin wax in a solar water heater system for enhanced thermal energy storage performance"
+    },
+    "10.1364/josab.606950": {
+      "doi": "10.1364/josab.606950",
+      "posted_at": "2026-10-18T04:35:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792298105.603209",
+      "summary_character_count": 132,
+      "summary_japanese": "一方向導波路アレイ中の原子による単一光子散乱を、同方向配置のchiral系と逆方向配置のantichiral系で解析し、前者では相反性の破れと散乱場の光円錐構造、後者では通常の波動系に典型的な散乱を示した。数値シミュレーションで幾何光学・回折・散乱領域を例示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quantum optics of chiral and antichiral waveguide arrays"
     },
     "10.1364/oe.608824": {
       "doi": "10.1364/oe.608824",
@@ -21075,6 +21127,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetic Field Effects on Q355B Steel Corrosion Morphology and Helical Anchor Uplift Behavior"
+    },
+    "10.3390/jmse14201926": {
+      "doi": "10.3390/jmse14201926",
+      "posted_at": "2026-10-18T04:35:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792298110.150179",
+      "summary_character_count": 97,
+      "summary_japanese": "粘土地盤中の剛性helical anchorを対象に、洗掘形状・埋込み長・土質不均質性をFE解析した。洗掘深さが支持力を支配し、κの増大は支持力低下を緩和したほか、設計評価用の予測式を開発した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Numerical Assessment of Scour Effects on the Ultimate Bearing Capacity of Rigid Helical Anchors in Clay Seabeds"
     },
     "10.3390/jne7030054": {
       "doi": "10.3390/jne7030054",
