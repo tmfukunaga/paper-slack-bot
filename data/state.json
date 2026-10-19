@@ -31,7 +31,7 @@
     "2026-10-16": 25,
     "2026-10-17": 40,
     "2026-10-18": 40,
-    "2026-10-19": 1
+    "2026-10-19": 6
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6838,6 +6838,19 @@
       "summary_used_fallback": false,
       "title": "Temporal Faraday Effect Enabled by Floquet-Induced Chirality"
     },
+    "10.1002/lpor.72092": {
+      "doi": "10.1002/lpor.72092",
+      "posted_at": "2026-10-19T12:07:14+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792411634.175569",
+      "summary_character_count": 135,
+      "summary_japanese": "キラル(R/S-3BrMBA)2PbBrxI4−xをハロゲン設計し、八面体歪みとspin-orbit couplingの変調でgCDを5倍超増大させた。(R-3BrMBA)2PbBr2I2素子は5 V超の開放電圧とgIph 0.24を示し、自己駆動CPL検出を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Halogen Engineered Chiral Amplification in Chiral Hybrid 2D Perovskites for Self-Powered Circularly Polarized Light Detection"
+    },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
       "posted_at": "2026-07-17T17:27:51+00:00",
@@ -7474,6 +7487,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Directing Neuronal Differentiation via Calcium-Chirality Synergy in Supramolecular Nanofibers"
+    },
+    "10.1002/smll.76340": {
+      "doi": "10.1002/smll.76340",
+      "posted_at": "2026-10-19T12:07:18+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792411638.799889",
+      "summary_character_count": 93,
+      "summary_japanese": "Au/Ag過成長金ナノバイピラミッドを分子動力学と実験で解析し、cysteineが段差面での横方向析出を促進してキラルkink原子を形成し、その密度が円二色性応答と相関することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Origin of Chirality in Nanobipyramids"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -8137,6 +8163,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Layer-resolved thermomechanics and load partitioning in twisted multifilament helical structures"
+    },
+    "10.1016/j.ijheatfluidflow.2026.110751": {
+      "doi": "10.1016/j.ijheatfluidflow.2026.110751",
+      "posted_at": "2026-10-19T12:07:32+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792411652.077319",
+      "summary_character_count": 130,
+      "summary_japanese": "Eulerian多相モデルとk-ω SSTで、らせん軸流多相ポンプの気泡径がbaroclinic torqueを介して渦トポロジーに及ぼす影響を解析した。小気泡は渦形成を抑え、大気泡は不安定化・散逸を促進し、中間径で渦安定性とエネルギー移送効率が最適となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bubble diameter control of baroclinic torque-mediated vortex topology and energy pathways in a helical-axial multiphase pump"
     },
     "10.1016/j.ijthermalsci.2026.111338": {
       "doi": "10.1016/j.ijthermalsci.2026.111338",
@@ -8910,6 +8949,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Structure-Modulated Circular Dichroism in Chiral Plasmonic Nanoparticles"
+    },
+    "10.1021/acs.analchem.6c01338": {
+      "doi": "10.1021/acs.analchem.6c01338",
+      "posted_at": "2026-10-19T12:07:23+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792411643.459539",
+      "summary_character_count": 126,
+      "summary_japanese": "thiolated β-cyclodextrinとglutathioneを導入したdual-chiral COF microspheresを室温で合成し、HPLCで水酸基含有薬物中間体を分離、Ramanで6種のカルボキシル基含有キラル代謝物を検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Versatile Dual-Chiral Covalent Organic Framework Microspheres Synthesized at Room Temperature for Chromatographic Separation and Raman Detection of Chiral Polar Compounds"
     },
     "10.1021/acs.analchem.6c02740": {
       "doi": "10.1021/acs.analchem.6c02740",
@@ -16006,6 +16058,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Temporal focusing enables distortion-resistant high-intensity spatiotemporal optical vortices"
+    },
+    "10.1038/s41467-026-78834-w": {
+      "doi": "10.1038/s41467-026-78834-w",
+      "posted_at": "2026-10-19T12:07:36+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792411656.707959",
+      "summary_character_count": 112,
+      "summary_japanese": "ニッケル触媒下、cyclopropanolsをアルキル化剤とする酸素含有複素環のエナンチオ選択的C(sp3)–Hアルキル化を開発し、温和な条件で広い基質適用性と官能基許容性を示すC(sp3)–C(sp3)結合形成を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective sp3-sp3 cross-coupling of oxygen-containing heterocycles with cyclopropanols"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
