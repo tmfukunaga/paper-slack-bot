@@ -31,7 +31,8 @@
     "2026-10-16": 25,
     "2026-10-17": 40,
     "2026-10-18": 40,
-    "2026-10-19": 6
+    "2026-10-19": 6,
+    "2026-10-20": 4
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -775,6 +776,19 @@
       "summary_used_fallback": false,
       "title": "Demagnetization-Driven Nanoscale Chirality-Selective Phonon Transport"
     },
+    "10.1002/adma.75389": {
+      "doi": "10.1002/adma.75389",
+      "posted_at": "2026-10-19T20:22:11+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792441331.805769",
+      "summary_character_count": 120,
+      "summary_japanese": "非磁性強誘電体を広帯域テラヘルツ放射分光で解析し、超短パルス励起後にchiral phonon誘起spin Seebeck効果と整合する超高速スピン電流を観測した。試料反転やPt/W置換で放射場の符号が反転し、偏光依存の楕円率制御も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Phonon-Driven Ultrafast Spin Currents in a Non-Magnetic Ferroelectric"
+    },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
       "posted_at": "2026-07-20T09:43:17+00:00",
@@ -1372,6 +1386,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Chiral Sulfide-Catalyzed, Water-Regulated Enantioselective Tandem Disulfuration-Initiated Dearomative Spirocyclization/Oxa-Michael Addition of Alkynes"
+    },
+    "10.1002/advs.78317": {
+      "doi": "10.1002/advs.78317",
+      "posted_at": "2026-10-19T20:22:21+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792441341.517289",
+      "summary_character_count": 135,
+      "summary_japanese": "L-alanine修飾キラルvirus-mimicking mesoporous silica nanostructure（CVSN）により各種抗菌薬のBBB通過と脳内送達を促進し、脳実質・脳脊髄液中濃度を高めてE. coliおよびS. aureus性髄膜炎を治療した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Chiral Virus-Like Nanoplatform That Broadly Mediates Antibiotic Delivery to the Brain for Bacterial Meningitis Therapy"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -7448,6 +7475,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Internal Electric Field-Regulated Dual-Site Fe-Re Supramolecular Assembly for Photocatalytic CO 2 Reduction Toward Multicarbon Products"
+    },
+    "10.1002/smll.76100": {
+      "doi": "10.1002/smll.76100",
+      "posted_at": "2026-10-19T20:22:29+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792441349.465359",
+      "summary_character_count": 119,
+      "summary_japanese": "DPACとstiff-stilbeneからなるnanohoop RnD（n=4,6）を設計し、320/385 nm光によるcis/trans異性化でDPAC構造と比率型PL発光を制御した。cyan、white、orangeの発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Distinct Nanohoop Structures and Ratiometric Emissions of Isomeric DPAC-Based Macrocycles Tuned by Nano-Twisting of Stiff-Stilbene Optical-Switches"
     },
     "10.1002/smll.76153": {
       "doi": "10.1002/smll.76153",
@@ -15980,6 +16020,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Optical-handedness-driven enantioselective synthesis and programmable chirality encoding of covalent organic frameworks"
+    },
+    "10.1038/s41467-026-78525-6": {
+      "doi": "10.1038/s41467-026-78525-6",
+      "posted_at": "2026-10-19T20:22:06+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792441326.138299",
+      "summary_character_count": 89,
+      "summary_japanese": "両親媒性Pd(II)錯体の水/1,4-dioxane系で、微視的液液相分離によるモノマー濃縮が、離散的ナノ構造から一次元繊維への熱加速転移を媒介することを実験・理論解析で示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent heterogeneity regulates assembly pathways in supramolecular polymerization"
     },
     "10.1038/s41467-026-78531-8": {
       "doi": "10.1038/s41467-026-78531-8",
