@@ -31,7 +31,8 @@
     "2026-10-17": 40,
     "2026-10-18": 40,
     "2026-10-19": 6,
-    "2026-10-20": 9
+    "2026-10-20": 9,
+    "2026-10-21": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1112,6 +1113,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multi-Color Chiral Aggregation-Induced Emission Luminogens Toward Multiple Stimuli-Responsive Circularly Polarized Luminescence and Information Encryption"
+    },
+    "10.1002/adom.71961": {
+      "doi": "10.1002/adom.71961",
+      "posted_at": "2026-10-20T18:54:20+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792522460.028799",
+      "summary_character_count": 132,
+      "summary_japanese": "hRISC特性をもつ近紫外CPLエナンチオマー(S)/(R)-OBNPCN-SFIACを設計・合成し、MR-TADF OLEDのキラル補助ドーパントとして用いた。狭帯域青・緑・橙CP-OLEDでEQEmax 38.65%、|gEL| 8.67×10−3を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Constructing Efficient Narrow-Spectrum Circularly Polarized Organic Light-Emitting Diodes with Near-Ultraviolet Chiral Assistant Dopants"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -4063,6 +4077,19 @@
       "summary_used_fallback": false,
       "title": "Single-Atom Control of Aromaticity and Excited-State Dynamics in Endohedral Zirconium-Antimony Zintl Clusters"
     },
+    "10.1002/anie.6151948": {
+      "doi": "10.1002/anie.6151948",
+      "posted_at": "2026-10-20T18:54:30+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792522470.875469",
+      "summary_character_count": 103,
+      "summary_japanese": "可逆的Pudovik付加と不可逆的phospha-Brook転位を組み合わせ、ペプチド-phosphonium salt触媒下でラセミ・ジアステレオマーからN-N軸不斉化合物を高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Organocatalytic Dynamic Kinetic Resolution for the Stereoconvergent Synthesis of N-N Axially Chiral Compounds"
+    },
     "10.1002/anie.6219487": {
       "doi": "10.1002/anie.6219487",
       "posted_at": "2026-09-03T07:48:05+00:00",
@@ -6876,6 +6903,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Femtosecond Laser Line-Exposure Fabrication of Planar Chiral Microstructures for OAM-Sign Discrimination and Spatial Encoding"
+    },
+    "10.1002/lpor.72017": {
+      "doi": "10.1002/lpor.72017",
+      "posted_at": "2026-10-20T18:54:10+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792522450.917159",
+      "summary_character_count": 97,
+      "summary_japanese": "Z字型Auキラルメタ表面/MoS2ヘテロ構造の自己駆動型検出器で、1064・1310 nmで逆の円偏光選択性を示し、波長選択的モード切替により波長・ヘリシティ符号化4論理状態を電気的に識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Wavelength-Dependent Chiroptical Reversal in Resonant Metasurface Photothermoelectric Photodetector for Dual-Mode Encrypted Communication"
     },
     "10.1002/lpor.72028": {
       "doi": "10.1002/lpor.72028",
@@ -14408,6 +14448,19 @@
       "summary_used_fallback": true,
       "title": "Cobalt-Catalyzed Enantioselective Intermolecular C-H Carboamination with Racemic Allenes"
     },
+    "10.1021/jacs.6c14945": {
+      "doi": "10.1021/jacs.6c14945",
+      "posted_at": "2026-10-20T18:54:24+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792522464.269379",
+      "summary_character_count": 98,
+      "summary_japanese": "DPMとキラルリン酸リチウム協働触媒により、cyclopropylaminesとBCBsの光レドックス中性[2σ+2σ]環化付加を開発し、BCHep由来アミンを最大90%収率、99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Lithium Phosphate-Catalyzed Photoredox-Neutral [2σ + 2σ] Cycloaddition of Cyclopropylamines with Bicyclo[1.1.0]butanes"
+    },
     "10.1021/jacs.6c15207": {
       "doi": "10.1021/jacs.6c15207",
       "posted_at": "2026-09-24T21:08:57+00:00",
@@ -14446,6 +14499,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Divergent Synthesis of Chiral-at-Sulfur Sulfoximines via Photoredox/Rhodium-Catalyzed Enantioselective C-H Activation"
+    },
+    "10.1021/jacs.6c15479": {
+      "doi": "10.1021/jacs.6c15479",
+      "posted_at": "2026-10-20T18:54:15+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792522455.303329",
+      "summary_character_count": 120,
+      "summary_japanese": "キラル配位子で局所対称性を低下させたCsPbX3ナノ結晶にYb3+/Er3+を導入し、母体からドーパントへの高効率エネルギー移動により1550 nmでglum=0.36、BCPL=4.2×10^5 M−1 cm−1の近赤外CPLを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Local Symmetry Breaking Facilitates Near-Infrared Circularly Polarized Lanthanide Emission in Perovskite Nanocrystals"
     },
     "10.1021/jacs.6c15641": {
       "doi": "10.1021/jacs.6c15641",
