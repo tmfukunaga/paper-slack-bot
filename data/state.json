@@ -32,7 +32,7 @@
     "2026-10-18": 40,
     "2026-10-19": 6,
     "2026-10-20": 9,
-    "2026-10-21": 5
+    "2026-10-21": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10458,6 +10458,19 @@
       "summary_used_fallback": false,
       "title": "Deciphering Aggregation-Induced Tunable Circular Dichroism of AuBP@Ag and AuBP@Au Chiral Core-Shell Plasmonic Nanoparticles"
     },
+    "10.1021/acs.jpclett.6c02756": {
+      "doi": "10.1021/acs.jpclett.6c02756",
+      "posted_at": "2026-10-20T23:37:29+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792539449.292729",
+      "summary_character_count": 116,
+      "summary_japanese": "第一原理計算により、5 septuple-layer MnBi2Te4の層間膨張勾配が、C=1の量子異常ホール状態からC=0の自明絶縁体への転移、中遠赤外SHG、逆ヘリシティのRashba型キラルスピンテクスチャを誘起すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strain-Gradient Engineering of Topological, Nonlinear Optical, and Spin Chiral Responses in MnBi2Te4"
+    },
     "10.1021/acs.langmuir.6c01158": {
       "doi": "10.1021/acs.langmuir.6c01158",
       "posted_at": "2026-07-23T03:04:22+00:00",
@@ -10574,6 +10587,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Inhomogeneous Stress Enabled by a Chiral Heterostructure for Strain Engineering in Freestanding Poly(lactic acid) Bulk"
+    },
+    "10.1021/acs.macromol.6c01638": {
+      "doi": "10.1021/acs.macromol.6c01638",
+      "posted_at": "2026-10-20T23:37:37+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792539457.395519",
+      "summary_character_count": 126,
+      "summary_japanese": "環状・非環状骨格をもつtelechelic cyclopentadiene monomerからCp-Mal動的熱硬化性ネットワークを構築し、環状体比率の増加でセグメント運動を抑制して、中程度に軟らかい材料から極めて剛直なガラス状材料へ連続的に転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tuning Stiffness and Backbone Rigidity of Diels-Alder-Based Thermosets with Macrocyclic Telechelic Cyclopentadiene Monomers"
     },
     "10.1021/acs.macromol.6c01671": {
       "doi": "10.1021/acs.macromol.6c01671",
@@ -16203,6 +16229,19 @@
       "summary_used_fallback": false,
       "title": "Ultrathin high-performance circular polarizers based on MoOCl2/NbOCl2 van der Waals heterostructures"
     },
+    "10.1038/s41467-026-78594-7": {
+      "doi": "10.1038/s41467-026-78594-7",
+      "posted_at": "2026-10-20T23:37:20+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792539440.765229",
+      "summary_character_count": 120,
+      "summary_japanese": "界面動力学と両親媒性バランスを組み合わせた界面活性剤・塩媒介反溶媒結晶化により、birch-bark由来betulinをねじれた超分子ナノリボンへ自己集合させた。リボンは幅約200 nm、ピッチ約3.6 μmを示し、光学異方性が確認された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crystallization-mediated twisting of supramolecular nanoribbons from plant-derived triterpenes"
+    },
     "10.1038/s41467-026-78636-0": {
       "doi": "10.1038/s41467-026-78636-0",
       "posted_at": "2026-10-18T07:57:32+00:00",
@@ -17346,6 +17385,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dual-band terahertz refractive index sensor based on chiral metasurface"
+    },
+    "10.1088/2040-8986/aeb61d": {
+      "doi": "10.1088/2040-8986/aeb61d",
+      "posted_at": "2026-10-20T23:37:25+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792539445.128659",
+      "summary_character_count": 134,
+      "summary_japanese": "時間調和電磁場下のisotropic chiral materialについて、散逸性・活性・いずれでもない条件をTellegenおよびBoys-Post表現で導出した。誘電率・透磁率の虚部符号は必要条件にすぎず、鏡像体・ジアステレオマー対の性質と表現間の対応も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "When is an isotropic chiral material dissipative or active?"
     },
     "10.1088/2053-1583/aea6eb": {
       "doi": "10.1088/2053-1583/aea6eb",
@@ -22545,6 +22597,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nonlinear Circular Dichroism Reveals the Local Berry Curvature"
+    },
+    "10.5283/epub.80968": {
+      "doi": "10.5283/epub.80968",
+      "posted_at": "2026-10-20T23:37:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792539453.455579",
+      "summary_character_count": 100,
+      "summary_japanese": "単層WSe2の第二高調波発生で非線形円二色性を測定し、光のスピン角運動量変化が単一光学共鳴における局所Berry curvatureに比例することを示した。円偏光の強度とヘリシティで二色性を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonlinear circular dichroism reveals the local Berry curvature"
     },
     "10.53941/mi.2026.100021": {
       "doi": "10.53941/mi.2026.100021",
