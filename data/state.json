@@ -31,7 +31,7 @@
     "2026-10-17": 40,
     "2026-10-18": 40,
     "2026-10-19": 6,
-    "2026-10-20": 4
+    "2026-10-20": 9
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2049,6 +2049,19 @@
       "summary_used_fallback": false,
       "title": "Record Dissymmetry in Vibrational Optical Activity: Combining Vibronic Coupling and Aggregation in Cobalt(II) Camphorate Complexes"
     },
+    "10.1002/ange.5841922": {
+      "doi": "10.1002/ange.5841922",
+      "posted_at": "2026-10-20T14:06:25+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792505185.587889",
+      "summary_character_count": 118,
+      "summary_japanese": "キラル金ナノ粒子の精密自己集合でCANFsを構築し、最大+94.17%のスピン偏極を達成した。キヌレニン鏡像異性体を光駆動・電気化学の二方式で識別し、光駆動時の識別比は10.3、検出限界は0.024 nMおよび0.012 μMであった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Spin-Polarized Chiral Plasmonic Films for Dual-Mode Enantiomer Recognition"
+    },
     "10.1002/ange.5989322": {
       "doi": "10.1002/ange.5989322",
       "posted_at": "2026-08-22T03:39:25+00:00",
@@ -3997,6 +4010,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Crossing the Threshold: Using Photostationary States to Control Supramolecular Polymerisation"
+    },
+    "10.1002/anie.5841922": {
+      "doi": "10.1002/anie.5841922",
+      "posted_at": "2026-10-20T14:06:04+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792505164.484259",
+      "summary_character_count": 97,
+      "summary_japanese": "キラル金ナノ粒子を精密自己集合してCANFsを作製し、最大+94.17%±3.72%のスピン偏極を達成した。キヌレニン鏡像異性体を光駆動・電気化学の二様式で識別し、光駆動識別比10.3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Spin-Polarized Chiral Plasmonic Films for Dual-Mode Enantiomer Recognition"
     },
     "10.1002/anie.5989322": {
       "doi": "10.1002/anie.5989322",
@@ -6552,6 +6578,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Ionic Covalent Organic Framework Core-Shell Composite Material CD-COF-Li@SiO 2 for HPLC Enantioseparation"
     },
+    "10.1002/flm2.70154": {
+      "doi": "10.1002/flm2.70154",
+      "posted_at": "2026-10-20T14:06:15+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792505174.993029",
+      "summary_character_count": 135,
+      "summary_japanese": "キラル添加剤との非共有結合でachiral PCDTPTに光学活性を誘起し、毛細管ブリッジ閉じ込め組立で柔軟基板上に周期的bulk heterojunctionを形成した。デバイスは850 nmでgph,max=0.4、30%ひずみ下でも安定な偏光イメージングを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Flexible circularly polarized light detection enabled by supramolecular chiral assembly within bulk heterojunctions"
+    },
     "10.1002/fob2.70093": {
       "doi": "10.1002/fob2.70093",
       "posted_at": "2026-09-20T10:37:16+00:00",
@@ -8560,6 +8599,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Copper(II) Schiff Base Complexes Derived from Alanine: Structural Insights and Catalytic Performance in Cyclopropanation and C-S Coupling Reactions"
     },
+    "10.1016/j.mtbio.2026.103754": {
+      "doi": "10.1016/j.mtbio.2026.103754",
+      "posted_at": "2026-10-20T14:06:20+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792505180.325109",
+      "summary_character_count": 86,
+      "summary_japanese": "光熱殺菌・ROS消去能を持つキラルAuHNRs@CeO2を開発し、D体は酸化ストレス下の線維芽細胞へ選択的に取り込まれた。感染創マウスで細菌量を低減し、創傷治癒を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergistic photothermal and antioxidant effects of chiral gold helical nanorods @CeO2 nanomaterials for accelerated infected wound healing"
+    },
     "10.1016/j.mtcomm.2026.115849": {
       "doi": "10.1016/j.mtcomm.2026.115849",
       "posted_at": "2026-08-06T12:17:58+00:00",
@@ -9858,6 +9910,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Efficient Simulation of Higher-Order Transitions in Resonance Raman Spectroscopy and Its Chiral Extension"
+    },
+    "10.1021/acs.jctc.6c01519": {
+      "doi": "10.1021/acs.jctc.6c01519",
+      "posted_at": "2026-10-20T14:06:09+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792505169.917069",
+      "summary_character_count": 121,
+      "summary_japanese": "(Pn)-DESnの非断熱量子動力学を局在・非局在vibronic模型で解析し、ECDの超線形増大を再現した。キラリティーは(P2)-DES2で歪み支配、(P4)-DES4で励起子支配へ移行し、単量体の振電バンド形状が残存ECD量を規定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Localized and Delocalized Nonadiabatic Vibronic Models Unravel Chiroptical Trends and Design Principles in Symmetric pi Conjugated Macrocycles"
     },
     "10.1021/acs.jctc.6c01707": {
       "doi": "10.1021/acs.jctc.6c01707",
