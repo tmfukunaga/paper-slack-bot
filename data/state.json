@@ -31,7 +31,7 @@
     "2026-10-18": 40,
     "2026-10-19": 6,
     "2026-10-20": 9,
-    "2026-10-21": 15
+    "2026-10-21": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3776,6 +3776,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strong Second-Order Nonlinear Optical Activities in Chiral Hybrid Copper(I) Bromide Microplates"
+    },
+    "10.1002/anie.4748505": {
+      "doi": "10.1002/anie.4748505",
+      "posted_at": "2026-10-21T11:10:18+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792581018.418089",
+      "summary_character_count": 123,
+      "summary_japanese": "2G crystalline spongeで低極性・MW 200–300のC15化合物を、形状相補的modulatorとの共包接によるサイズ補償で解析し、主にsesquiterpenoidを含む30種中24種のX線構造と一部の絶対配置を決定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Expanding the Chemical Space of Analytes in the 2G Crystalline Sponge Method: Size-Compensation Strategy for the Structural Analysis of Low-Polarity Small Molecules"
     },
     "10.1002/anie.4825806": {
       "doi": "10.1002/anie.4825806",
@@ -10119,6 +10132,19 @@
       "summary_used_fallback": false,
       "title": "The Vibrational Raman Optical Activity of β-Propiolactone Derivatives Computed with Coupled-Cluster Theory"
     },
+    "10.1021/acs.jpca.6c03456": {
+      "doi": "10.1021/acs.jpca.6c03456",
+      "posted_at": "2026-10-21T11:10:14+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792581014.428609",
+      "summary_character_count": 100,
+      "summary_japanese": "GPAWのLCAO枠組みにRT-TDDFTの速度ゲージ法を実装し、中程度の基底関数でも原点非依存なECDスペクトルを得た。1,000原子超の分子・分子―ナノ粒子集合体のキロプティカル解析を可能にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Origin-Independent Circular Dichroism Spectra for Molecular and Hybrid Systems with Real-Time Time-Dependent Density Functional Theory"
+    },
     "10.1021/acs.jpca.6c03565": {
       "doi": "10.1021/acs.jpca.6c03565",
       "posted_at": "2026-09-09T20:24:51+00:00",
@@ -14681,6 +14707,19 @@
       "summary_used_fallback": false,
       "title": "Enantio-, Regio-, and E -Selective Hydroboration of 1,3-Dienylsilanes to Construct Bifunctional Allylation Reagents"
     },
+    "10.1021/jacs.6c16438": {
+      "doi": "10.1021/jacs.6c16438",
+      "posted_at": "2026-10-21T11:10:03+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792581003.153369",
+      "summary_character_count": 123,
+      "summary_japanese": "溶液相で合成した隠れ非Kekuléナノグラフェンcis-bisphenaleno-peryleneは、21.2°と24.1°にねじれた骨格を示し、EPRで一重項基底・熱的に到達可能な三重項をもつ反強磁性交換結合スピン対と長いT1・Tmを確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological Frustration Enables Exchange-Coupled Spin-Qubit Behavior in a Concealed Non-Kekule Nanographene"
+    },
     "10.1021/jacs.6c16552": {
       "doi": "10.1021/jacs.6c16552",
       "posted_at": "2026-09-11T16:29:36+00:00",
@@ -14836,6 +14875,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "All-Hydrocarbon Macrocycle Enables Highly Potent Th1-Biased NKT Cell Agonists for Immunotherapy"
+    },
+    "10.1021/jacsau.6c01113": {
+      "doi": "10.1021/jacsau.6c01113",
+      "posted_at": "2026-10-21T11:09:58+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792580998.477829",
+      "summary_character_count": 119,
+      "summary_japanese": "oligophenolic macrocyclesのOH基をエステル化してCH結合性アニオン受容体・輸送体へ変換し、per-triflated pyrogallolareneはTHF中で高いCl−親和性とCl−/NO3−輸送活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Umpolung via Esterification: Converting Electron-Rich Phenolic Macrocycles into CH-Bonding Anion Receptors and Transporters"
+    },
+    "10.1021/jacsau.6c01203": {
+      "doi": "10.1021/jacsau.6c01203",
+      "posted_at": "2026-10-21T11:10:10+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792581010.272299",
+      "summary_character_count": 126,
+      "summary_japanese": "剛直な三角柱状空孔をもつmeta-carborane系macrocyclic areneを合成し、TBAF量の調整で内壁を段階的に脱ホウ素化してmono、bis、tris-nido体を高収率で得た。金属フリーB–Nカップリングによる内壁修飾も達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "meta -Carborane-Based Macrocyclic Arenes: Synthesis and Inner-Wall Modification"
     },
     "10.1021/jasms.6c00250": {
       "doi": "10.1021/jasms.6c00250",
