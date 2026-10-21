@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-19": 25,
     "2026-09-20": 15,
     "2026-09-21": 2,
     "2026-09-22": 11,
@@ -32,7 +31,7 @@
     "2026-10-18": 40,
     "2026-10-19": 6,
     "2026-10-20": 9,
-    "2026-10-21": 10
+    "2026-10-21": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10887,6 +10886,19 @@
       "summary_used_fallback": false,
       "title": "Near-Electrode Diffusion Dynamics Govern Chirality-Induced Spin Selectivity in an Electrochemical Cell"
     },
+    "10.1021/acs.nanolett.6c03830": {
+      "doi": "10.1021/acs.nanolett.6c03830",
+      "posted_at": "2026-10-21T03:18:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792552726.831139",
+      "summary_character_count": 88,
+      "summary_japanese": "異方性前駆体を使わず、透明電極へのCPL照射のみで、CPLの旋光性に応じたPbO2らせんナノ構造を一段階成長させた。キラル収率87%、最大g因子0.006～0.010を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Precursor-Free Photoelectrochemical Fabrication of Spiral Lead Oxide Nanostructures under Circularly Polarized Light"
+    },
     "10.1021/acs.nanolett.6c03895": {
       "doi": "10.1021/acs.nanolett.6c03895",
       "posted_at": "2026-10-08T18:25:37+00:00",
@@ -16762,6 +16774,19 @@
       "summary_used_fallback": false,
       "title": "Advances in Synthetic Methods for Chiral Trifluoromethylthiolated Compounds"
     },
+    "10.1055/a-2985-5895": {
+      "doi": "10.1055/a-2985-5895",
+      "posted_at": "2026-10-21T03:18:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792552733.631139",
+      "summary_character_count": 318,
+      "summary_japanese": "Atorvastatin was synthesized through a catalytic asymmetric route featuring a cinchona alkaloid-catalyzed acid chloride–aldehyde cyclocondensation to form a chiral β-lactone. Claisen condensation and Narasaka–Prasad reduction installed the 1,3-syn diol, followed by Fukuyama amine synthesis and pyrrole-ring formation.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Scalable and Catalytic Asymmetric Synthesis of Atorvastatin from Chiral β-lactone"
+    },
     "10.1061/jenmdt.emeng-9175": {
       "doi": "10.1061/jenmdt.emeng-9175",
       "posted_at": "2026-10-15T21:24:05+00:00",
@@ -21376,6 +21401,19 @@
       "summary_used_fallback": false,
       "title": "Parametric Design of a Helical Electromagnetic Bandgap Reflector for an Equiangular Spiral Antenna at 2.5 GHz"
     },
+    "10.3390/app162010310": {
+      "doi": "10.3390/app162010310",
+      "posted_at": "2026-10-21T03:19:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792552747.930519",
+      "summary_character_count": 122,
+      "summary_japanese": "Ac-PEA、N-Ac-α-Phe-OEt、tert-butyl N-(1-phenylethyl)carbamateで6種の調製法を比較し、濃縮度は異なるがSDEvSの方向性は共通で、試料履歴ではなくキラル固体の創発的性質であることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Disproportionation of Enantiomers via Sublimation (SDEvS) Is an Emergent Property of Chiral Solids That Is Unaffected by Divergent Sample Histories"
+    },
     "10.3390/axioms15080585": {
       "doi": "10.3390/axioms15080585",
       "posted_at": "2026-08-06T09:01:54+00:00",
@@ -22234,6 +22272,19 @@
       "summary_used_fallback": false,
       "title": "UPLOAD-HELIX: A High-Helicity Single-Mode Microwave Haloscope with Low-Noise Interferometric Readout for Ultralight Axion Dark Matter"
     },
+    "10.3390/wevj17100543": {
+      "doi": "10.3390/wevj17100543",
+      "posted_at": "2026-10-21T03:19:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792552744.149569",
+      "summary_character_count": 89,
+      "summary_japanese": "双方向磁気熱連成と実験検証した熱流体モデルを用い、液冷PMSMの螺旋冷却流路を多目的最適化した。妥協解では圧力損失を32.45%低減し、最高モーター温度を3.38 K低下させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-Objective Optimization of a PMSM Helical Cooling Channel Based on Bidirectional Magneto-Thermal Coupling and Experimentally Validated Thermal-Hydraulic Modeling"
+    },
     "10.35814/xm72tc53": {
       "doi": "10.35814/xm72tc53",
       "posted_at": "2026-08-15T07:19:52+00:00",
@@ -22766,6 +22817,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "DETERMINACIÓN DE PANCREATITIS SUBCLÍNICA DIAGNOSTICADOS MEDIANTE LA PRUEBA SNAP CPL Y ECOGRAFÍA EN CANINOS"
+    },
+    "10.59141/jist.v7i8.9238": {
+      "doi": "10.59141/jist.v7i8.9238",
+      "posted_at": "2026-10-21T03:18:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792552737.950239",
+      "summary_character_count": 132,
+      "summary_japanese": "西ジャワ州Kuningan県のsalafiyah系統合イスラム教育機関3校を質的複数事例で分析し、国家基準とturatsを統合するCPLを検討した。能力を学術・古典文献・精神倫理の3領域に分け、Kyaiの指導でimtihan syafahiを公式評価へ組み込んだ。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reconceptualization of Graduate Learning Outcomes (CPL): Integration of National Competency Standards and Turats Traditions in Islamic Education Institutions"
     },
     "10.59345/sjrir.v4i1.323": {
       "doi": "10.59345/sjrir.v4i1.323",
