@@ -31,7 +31,8 @@
     "2026-10-18": 40,
     "2026-10-19": 6,
     "2026-10-20": 9,
-    "2026-10-21": 20
+    "2026-10-21": 20,
+    "2026-10-22": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12153,6 +12154,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced Luminescence of a σ-pi-Conjugated Disilane-Bridged Donor-Acceptor Macrocycle through Conformational Restriction"
     },
+    "10.1021/acsaom.6c00558": {
+      "doi": "10.1021/acsaom.6c00558",
+      "posted_at": "2026-10-21T16:36:50+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792600610.094779",
+      "summary_character_count": 116,
+      "summary_japanese": "GST矩形共振器の面内C2対称性を破りq-BICを励起する可調THz CDメタサーフェスを設計し、CDとQを独立制御した。1.371 THzでCDT 0.96を達成し、相転移によりキラル応答と偏光依存画像コントラストを可逆反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanisms of Bound States in the Continuum-Induced Terahertz Circular Dichroism Enhancement and Dynamic Reversal Imaging Characteristics"
+    },
     "10.1021/acsapm.6c02040": {
       "doi": "10.1021/acsapm.6c02040",
       "posted_at": "2026-08-23T06:36:56+00:00",
@@ -12491,6 +12505,19 @@
       "summary_used_fallback": true,
       "title": "Synthesis of Chiral α-Aminophosphonate Derivatives through Copper(I)-Catalyzed Enantioselective Alkylation"
     },
+    "10.1021/acscatal.6c07216": {
+      "doi": "10.1021/acscatal.6c07216",
+      "posted_at": "2026-10-21T16:37:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792600624.261849",
+      "summary_character_count": 113,
+      "summary_japanese": "Rh触媒不斉ヒドロホルミル化でvinyl ethersから分岐型キラルアルデヒドを得て、BettiPhos L7は最大94% eeを示した。酸化により(R)-Mecopropを69%収率、91% eeでグラムスケール合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rhodium-Catalyzed Asymmetric Hydroformylation of Vinyl Ethers as a Key Step in the Synthesis of Chiral Fine Chemicals"
+    },
     "10.1021/acscatal.6c07270": {
       "doi": "10.1021/acscatal.6c07270",
       "posted_at": "2026-10-18T04:35:14+00:00",
@@ -12555,6 +12582,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Homochiral Evolution from Self-Assembly of Chiral Block Copolymers"
+    },
+    "10.1021/acsmacrolett.6c00484": {
+      "doi": "10.1021/acsmacrolett.6c00484",
+      "posted_at": "2026-10-21T16:36:43+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792600603.919449",
+      "summary_character_count": 127,
+      "summary_japanese": "熱凝集したキラルdendronized phenylacetyleneマクロモノマーをin situ架橋重合し、OEG末端基でcloud pointを調整可能な、均一球状で安定なヘリシティーをもつmicrogelを界面活性剤なしでone-pot合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermoresponsive Chiral Polymeric Microgels through In Situ Cross-Linking Polymerization of Thermally Aggregated Dendritic Phenylacetylenes"
     },
     "10.1021/acsmaterialsau.5c00256": {
       "doi": "10.1021/acsmaterialsau.5c00256",
@@ -12704,6 +12744,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stimuli-Responsive Biodegradable Cholesteric Films with Color-Tunable Circularly Polarized Ultralong Room-Temperature Phosphorescence"
+    },
+    "10.1021/acsnano.6c14330": {
+      "doi": "10.1021/acsnano.6c14330",
+      "posted_at": "2026-10-21T16:36:59+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792600619.695349",
+      "summary_character_count": 112,
+      "summary_japanese": "crown etherを組み込んだCOF膜を設計し、Åスケールのチャネルとホスト・ゲスト認識によりK+/Na+を分離した。TFP-TDA-2膜はK+/Na+選択性64、K+透過速度41.2 mmol m−2 h−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crown Ether-Functionalized Covalent Organic Framework Membranes for Precise Monovalent Cation Separation"
     },
     "10.1021/acsnanoscienceau.6c00082": {
       "doi": "10.1021/acsnanoscienceau.6c00082",
@@ -22986,6 +23039,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Curvature-guided chiral collective organization of myoblast tissues"
+    },
+    "10.64898/2026.10.19.760185": {
+      "doi": "10.64898/2026.10.19.760185",
+      "posted_at": "2026-10-21T16:36:55+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792600615.205349",
+      "summary_character_count": 123,
+      "summary_japanese": "キラルプラズモニックナノ粒子の高光熱変換と局在キラル近接場を用い、PCRの加熱冷却とDNA polymerase活性を促進した。円二色性分光によりSARS-CoV-2 E-gene plasmid DNAを蛍光標識なしで増幅・単一コピー検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Driven Photonic PCR Enables Label-Free Genetic Amplification"
     },
     "10.71229/gep31t82": {
       "doi": "10.71229/gep31t82",
