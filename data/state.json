@@ -32,7 +32,7 @@
     "2026-10-19": 6,
     "2026-10-20": 9,
     "2026-10-21": 20,
-    "2026-10-22": 5
+    "2026-10-22": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7983,6 +7983,19 @@
       "summary_used_fallback": false,
       "title": "Design and deployment of a novel helical twisted tape for thermal performance enhancement of a next-generation chloride salt central receiver"
     },
+    "10.1016/j.applthermaleng.2026.133715": {
+      "doi": "10.1016/j.applthermaleng.2026.133715",
+      "posted_at": "2026-10-21T21:15:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792617318.214789",
+      "summary_character_count": 114,
+      "summary_japanese": "supercritical CO2用垂直二重らせんUチューブを3次元数値モデルで解析し、ANN–NSGA-IIで形状最適化した。従来Uチューブ比で平均熱伝達係数は193%増加したが、単位長さ当たりの圧力損失は1738%増加した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Flow and heat transfer performance analysis and multi-objective optimization of supercritical CO2 in a vertical double-helical U-tube"
+    },
     "10.1016/j.bbamem.2026.184561": {
       "doi": "10.1016/j.bbamem.2026.184561",
       "posted_at": "2026-07-26T15:03:00+00:00",
@@ -9497,6 +9510,19 @@
       "summary_used_fallback": false,
       "title": "Non-CatalyticDirect Methane-to-Methanol Synthesisin an Intensified Helical-Coil Reactor"
     },
+    "10.1021/acs.est.6c10162": {
+      "doi": "10.1021/acs.est.6c10162",
+      "posted_at": "2026-10-21T21:15:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792617327.361949",
+      "summary_character_count": 98,
+      "summary_japanese": "Li汚染土壌のナスで、葉面散布した左旋性SeNPsは果実中Liを低減し、葉・根・茎への蓄積を促進した。微生物叢―代謝物―転写産物連関を介して抗酸化防御を強化し、液胞隔離による高Li耐性に寄与した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantiomer-Dependent Modulation of Lithium Uptake and Accumulation in Plants by Foliar Application of Chiral SeNPs"
+    },
     "10.1021/acs.iecr.6c00723": {
       "doi": "10.1021/acs.iecr.6c00723",
       "posted_at": "2026-07-20T18:14:58+00:00",
@@ -9989,6 +10015,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Predicting the Radical Character of Open-Shell Nanographenes with the GVB-Based Block-Correlated Coupled Cluster Theory"
+    },
+    "10.1021/acs.jmedchem.6c01960": {
+      "doi": "10.1021/acs.jmedchem.6c01960",
+      "posted_at": "2026-10-21T21:15:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792617313.821939",
+      "summary_character_count": 118,
+      "summary_japanese": "モジュール型生体模倣戦略でmacrocyclic sulfonamidesを合成し、SIRT3活性化剤2b（Y0855）を同定した。2bはEC50 12.6 μMでSIRT1/2/6選択性を示し、HFマウスで心機能と心筋障害を改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modular Biomimetic Strategy toward Discovery of Macrocyclic Sulfonamides as SIRT3 Activators against Heart Failure"
     },
     "10.1021/acs.jnatprod.6c00757": {
       "doi": "10.1021/acs.jnatprod.6c00757",
@@ -18426,6 +18465,19 @@
       "summary_used_fallback": false,
       "title": "Retrospective comparison between helical blade and screw in geriatric hip fracture fixation with cephalomedullary devices"
     },
+    "10.1186/s12894-026-02366-0": {
+      "doi": "10.1186/s12894-026-02366-0",
+      "posted_at": "2026-10-21T21:15:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792617309.044059",
+      "summary_character_count": 107,
+      "summary_japanese": "CP/CPPS男性122例の12週間後のNIH-CPSIとIIEF-5変化を後ろ向き解析し、症状改善と勃起機能改善は弱い相関（ρ=0.32）にとどまり、NIH-CPSI改善を勃起機能改善の代替指標にはできなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Relationship between changes in CP/CPPS symptoms and erectile function over 12 weeks: a retrospective cohort study"
+    },
     "10.1186/s12951-026-05035-4": {
       "doi": "10.1186/s12951-026-05035-4",
       "posted_at": "2026-09-14T19:51:52+00:00",
@@ -21739,6 +21791,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Control over the Self-Assembly of Supramolecular Hydrogels Using Hofmeister Effect"
+    },
+    "10.3390/infrastructures11100382": {
+      "doi": "10.3390/infrastructures11100382",
+      "posted_at": "2026-10-21T21:15:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792617322.616439",
+      "summary_character_count": 112,
+      "summary_japanese": "7線ヘリカルstrandの進行的wire breakageを対象に、反復衝撃による固有曲げ周波数を測定した。弾塑性遷移後に5.6～6.3%、破断過程で最大18%低下し、残留周波数変化が全体状態指標となることを実験的に示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental Dynamic Fingerprints Associated with Progressive Damage Caused by Wire Breakage in Seven-Wire Helical Strands"
     },
     "10.3390/inorganics14080220": {
       "doi": "10.3390/inorganics14080220",
