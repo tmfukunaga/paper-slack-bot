@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-20": 15,
     "2026-09-21": 2,
     "2026-09-22": 11,
     "2026-09-23": 25,
@@ -32,7 +31,7 @@
     "2026-10-19": 6,
     "2026-10-20": 9,
     "2026-10-21": 20,
-    "2026-10-22": 10
+    "2026-10-22": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8768,6 +8767,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "3D hierarchical assembly of MoO3 nanobelt microflowers for enhanced lithium-ion battery anodes"
+    },
+    "10.1016/j.nxmech.2026.100003": {
+      "doi": "10.1016/j.nxmech.2026.100003",
+      "posted_at": "2026-10-22T03:16:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792639015.389399",
+      "summary_character_count": 95,
+      "summary_japanese": "OC4-DeepCwind半潜水式基盤上の5 MW FVAWTWHBをANSYS Workbenchで空力・構造・動揺・係留連成解析し、4.27 MW出力、共振なし、係留安全率6超を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Numerical study on a floating vertical axis wind turbine with helical blades"
     },
     "10.1016/j.oceaneng.2026.128135": {
       "doi": "10.1016/j.oceaneng.2026.128135",
@@ -21350,6 +21362,19 @@
       "summary_used_fallback": false,
       "title": "Molecular Zun: A Cycloparaphenylene-Derived Cavitand"
     },
+    "10.31772/2712-8970-2026-27-3-543-552": {
+      "doi": "10.31772/2712-8970-2026-27-3-543-552",
+      "posted_at": "2026-10-22T03:16:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792639001.819959",
+      "summary_character_count": 126,
+      "summary_japanese": "Weyl半金属MnZn1−x(Cr,Fe)xSbの直流の温度依存性を測定し、Cr置換で120–140 Kのスピン再配向と約290 Kの転移、Fe置換で240–250 Kのスピン再配向と352–373 Kの電子スペクトル再構成に対応する異常を見いだした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dc generation in Weyl semimetals MnZn1-х(Cr,Fe)xSb"
+    },
     "10.33263/briac164.113": {
       "doi": "10.33263/briac164.113",
       "posted_at": "2026-08-16T03:16:39+00:00",
@@ -21401,6 +21426,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Recent advances in photodynamic therapy systems based on pillar[n]arene host-guest chemistry"
+    },
+    "10.3389/fmech.2026.1915019": {
+      "doi": "10.3389/fmech.2026.1915019",
+      "posted_at": "2026-10-22T03:16:35+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792638995.481089",
+      "summary_character_count": 107,
+      "summary_japanese": "陸空両用車のロータ姿勢切替に向け、ねじ昇降と螺旋ガイド回転を連成した二重螺旋折畳み展開機構を設計し、理論・ADAMS・流体構造解析で荷重特性を検証した。最大応力165–195 MPa、変形67–68 mmを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design and analysis of a double-helical folding-deploying mechanism for a land-air amphibious vehicle"
     },
     "10.3389/fmicb.2026.1908591": {
       "doi": "10.3389/fmicb.2026.1908591",
@@ -21909,6 +21947,19 @@
       "summary_used_fallback": false,
       "title": "Surface Roughness and Burr Height in Helical Milling of Ti-6Al-4V: Factorial Analysis and Grouped Machine-Learning Validation"
     },
+    "10.3390/machines14101210": {
+      "doi": "10.3390/machines14101210",
+      "posted_at": "2026-10-22T03:16:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792639008.202139",
+      "summary_character_count": 88,
+      "summary_japanese": "両圧力角はすば歯車の修整歯面を生成し、LTCAと集中質量法で伝動系の動特性を解析した。駆動側圧力角32°で変位振動は31%低下し、両方向修整で加速度ピークは45.8%低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Characteristics of a Transmission System Based on Tooth Surface Modification of Double-Pressure-Angle Helical Face Gears"
+    },
     "10.3390/macromol6040097": {
       "doi": "10.3390/macromol6040097",
       "posted_at": "2026-10-13T18:52:27+00:00",
@@ -21973,6 +22024,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Temperature-Controlled Surface Plasmon Polariton Propagation in InSb-Uniaxial Chiral-InSb Waveguides for Near-Infrared Optical Communication"
+    },
+    "10.3390/mi17101199": {
+      "doi": "10.3390/mi17101199",
+      "posted_at": "2026-10-22T03:16:51+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792639011.794199",
+      "summary_character_count": 103,
+      "summary_japanese": "PLAおよびPA66製FFFヘリカルギヤを、ねじれ角15°、25°、35°で造形し、従来測定法とレーザースキャンで寸法精度を評価した。PA66はPLAより歯厚が大きく弦歯厚が小さく、歯先で材料不足を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Evaluation of the Dimensional Accuracy of Polymeric Helical Gears Manufactured via Fused Filament Fabrication (FFF)"
     },
     "10.3390/modelling7050205": {
       "doi": "10.3390/modelling7050205",
