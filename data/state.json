@@ -31,7 +31,7 @@
     "2026-10-19": 6,
     "2026-10-20": 9,
     "2026-10-21": 20,
-    "2026-10-22": 15
+    "2026-10-22": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1112,6 +1112,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multi-Color Chiral Aggregation-Induced Emission Luminogens Toward Multiple Stimuli-Responsive Circularly Polarized Luminescence and Information Encryption"
+    },
+    "10.1002/adom.71929": {
+      "doi": "10.1002/adom.71929",
+      "posted_at": "2026-10-22T11:09:53+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792667393.184849",
+      "summary_character_count": 119,
+      "summary_japanese": "ハライド二重ペロブスカイトにおける次元性・キラリティー・スピン軌道相互作用を統合し、偏光応答を設計する枠組みをレビューした。閉じ込め、重元素置換、欠陥・無秩序感受性のトレードオフを整理し、組成選択、対称性設計、デバイス集積の指針を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dimensionality and Chirality in Halide Double Perovskites: A Coupled Design Framework for Polarization Control"
     },
     "10.1002/adom.71961": {
       "doi": "10.1002/adom.71961",
@@ -5290,6 +5303,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Is Photoelectron Circular Dichroism Sensitive to Helical Chirality? The Paradigm of Gas-Phase Carbo[6]Helicene"
+    },
+    "10.1002/anie.9731976": {
+      "doi": "10.1002/anie.9731976",
+      "posted_at": "2026-10-22T11:09:57+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792667397.779869",
+      "summary_character_count": 117,
+      "summary_japanese": "indeno[2,1-b]carbazoleをMR-TADF骨格に導入してヘリカル構造を形成し、DT-BON1は1～20 wt%で狭帯域発光を維持し、20 wt%でもPLQY 90%以上、OLEDのEQEmax 27.3%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Multi-Resonance Thermally Activated Delayed Fluorescence Emitters for High-Performance Anti-Quenching Narrowband Blue OLEDs"
     },
     "10.1002/anie.9795533": {
       "doi": "10.1002/anie.9795533",
@@ -13277,6 +13303,19 @@
       "summary_used_fallback": false,
       "title": "Adaptive Fabrication of Porous Crystals through Multiple-Site Noncovalent Conjunction of [1,4]Diazocine-Embedded Three-Dimensionally Concave Nanographenes"
     },
+    "10.1021/jacs.6c06311": {
+      "doi": "10.1021/jacs.6c06311",
+      "posted_at": "2026-10-22T11:09:38+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792667378.129689",
+      "summary_character_count": 306,
+      "summary_japanese": "Structures of sugar-based one-dimensional MOChas were solved by serial femtosecond crystallography, revealing blue and green CPL from chiral inorganic cores. Silver glucosethiolate showed reversible hydration-driven photoluminescence switching, with hydration-associated blueshifting of excitonic emission.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Sugar-Based 1-Dimensional Metal-Organic Chalcogenolates with Hydration-Tunable Chiroptical Emission"
+    },
     "10.1021/jacs.6c06445": {
       "doi": "10.1021/jacs.6c06445",
       "posted_at": "2026-07-17T21:11:10+00:00",
@@ -18113,6 +18152,19 @@
       "summary_used_fallback": false,
       "title": "Biomimetic all-metal Pd 11 helicene"
     },
+    "10.1126/sciadv.aeh0887": {
+      "doi": "10.1126/sciadv.aeh0887",
+      "posted_at": "2026-10-22T11:09:48+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792667388.033349",
+      "summary_character_count": 99,
+      "summary_japanese": "単結晶RuO2に回転異方性Raman分光を適用し、Γ点フォノンの選択則破れと反対ヘリシティー非保存散乱チャネルの偏光角依存分裂を観測した。空間または時間反転対称性の見落とされた破れを示す結果である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Anomalous phonon selection rules and Raman optical activity in RuO 2"
+    },
     "10.1126/sciadv.aeh1991": {
       "doi": "10.1126/sciadv.aeh1991",
       "posted_at": "2026-09-17T16:14:29+00:00",
@@ -21257,6 +21309,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Probing Molecular Chirality from Vibrational to X-ray Energies in Cr(III) and Co(III) Complexes"
+    },
+    "10.26434/chemrxiv.15010746/v1": {
+      "doi": "10.26434/chemrxiv.15010746/v1",
+      "posted_at": "2026-10-22T11:09:43+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792667382.931069",
+      "summary_character_count": 119,
+      "summary_japanese": "剛直なBN-embedded double helicenesのキラル単結晶を作製し、磁気伝導AFMでCISS輸送を評価した。18～330 nmでスピン偏極は増大後に広い最大域を示し、長距離秩序構造に沿う累積的なスピン選択輸送を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Organic Single Crystals as a Platform for Chirality-Induced Spin Selectivity"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
