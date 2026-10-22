@@ -31,7 +31,8 @@
     "2026-10-19": 6,
     "2026-10-20": 9,
     "2026-10-21": 20,
-    "2026-10-22": 20
+    "2026-10-22": 20,
+    "2026-10-23": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1385,6 +1386,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "An Engineered Supramolecular Pathway for Enhanced Electrochemiluminescence"
+    },
+    "10.1002/advs.78243": {
+      "doi": "10.1002/advs.78243",
+      "posted_at": "2026-10-22T16:38:18+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792687098.879599",
+      "summary_character_count": 134,
+      "summary_japanese": "1 T -TiSe 2の競合CDW構造をab initio計算で解析し、多重フォノンモードの協同凝縮が実験的なキラルトポグラフィーとエネルギーギャップを再現するキラル単斜晶構造を安定化すると示した。さらに、回転対称性を失う方向に極めて軟らかいポテンシャルを見いだした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-Nematic Lattice Instability in Charge Density Wave of 1 T -TiSe 2"
     },
     "10.1002/advs.78254": {
       "doi": "10.1002/advs.78254",
@@ -2938,6 +2952,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Counterion Dynamics in Chiral Supramolecular Polymerization"
+    },
+    "10.1002/anie.1850882": {
+      "doi": "10.1002/anie.1850882",
+      "posted_at": "2026-10-22T16:38:23+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792687103.664959",
+      "summary_character_count": 114,
+      "summary_japanese": "Bowl-shaped calix[4]pyrrolato indiumが4個のLi+を閉じ込める空間でCl−、Br−、I−を平面四配位化した。計算と実験により、低い平面化エネルギーとホスト形状・結晶充填への高い感受性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Enforcement of Planar Tetracoordinate Halides"
     },
     "10.1002/anie.1859339": {
       "doi": "10.1002/anie.1859339",
@@ -11776,6 +11803,19 @@
       "summary_used_fallback": false,
       "title": "Palladium-Catalyzed Enantioselective Synthesis of Chiral Vinylallenes via γ-Selective Coupling of Vinylboronates with Propargylic Carbonates"
     },
+    "10.1021/acs.orglett.6c04269": {
+      "doi": "10.1021/acs.orglett.6c04269",
+      "posted_at": "2026-10-22T16:38:13+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792687093.266639",
+      "summary_character_count": 102,
+      "summary_japanese": "ギ酸をCO代替源とし、キラルホスフィン系ferrocene配位子を用いるNi触媒的不斉カルボニル化二官能基化により、四級不斉炭素をもつエステル官能化oxindoleを高収率・高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nickel-Catalyzed Enantioselective Carbo-Carbonylation of Alkenes Using Formic Acid as a CO Surrogate: Access to Oxindoles Bearing Chiral Quaternary Carbon"
+    },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
       "posted_at": "2026-08-15T19:01:46+00:00",
@@ -12899,6 +12939,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Machine Learning-AssistedDiscovery of Chiral AzobenzeneDopants for Liquid Crystals"
+    },
+    "10.1021/acsomega.6c04640": {
+      "doi": "10.1021/acsomega.6c04640",
+      "posted_at": "2026-10-22T16:38:33+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792687113.148419",
+      "summary_character_count": 126,
+      "summary_japanese": "異なる結晶秩序でchiral gluconic acidを共有結合したgraphene ribbonを分子動力学で解析し、非対称な立体反発力が切断方向、リガンド密度・enantiomeric excess等に応じて曲げとらせんねじれを生むことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programmable Twisting of Flexible Nanosurfaces with Attached Chiral Ligands"
     },
     "10.1021/acsomega.6c07072": {
       "doi": "10.1021/acsomega.6c07072",
@@ -16266,6 +16319,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective palladium-catalyzed carbonylation of gem-dibromoalkenes to chiral benzo[7]annulenes"
+    },
+    "10.1038/s41467-026-78264-8": {
+      "doi": "10.1038/s41467-026-78264-8",
+      "posted_at": "2026-10-22T16:38:28+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792687108.308449",
+      "summary_character_count": 123,
+      "summary_japanese": "UV光で接着性を調整できるテープを用い、伸長・剥離でgrapheneを巻き、高密度（≈380本/mm）・長さ90 μmのGNSsを作製した。伸長方向によりキラル角を制御し、graphene/MoS2 heteronanoscrollsも形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strain-engineered fabrication of high-density aligned graphene-based nanoscrolls via UV-tunable adhesive tapes"
     },
     "10.1038/s41467-026-78271-9": {
       "doi": "10.1038/s41467-026-78271-9",
