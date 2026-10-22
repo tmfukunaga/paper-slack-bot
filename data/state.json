@@ -32,7 +32,7 @@
     "2026-10-20": 9,
     "2026-10-21": 20,
     "2026-10-22": 20,
-    "2026-10-23": 5
+    "2026-10-23": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10575,6 +10575,19 @@
       "summary_used_fallback": false,
       "title": "Bichromophores as a Molecular Platform to Explore Chiroptical Responses: Resonant Coupling and Beyond"
     },
+    "10.1021/acs.jpclett.6c02392": {
+      "doi": "10.1021/acs.jpclett.6c02392",
+      "posted_at": "2026-10-22T21:11:58+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792703518.265219",
+      "summary_character_count": 88,
+      "summary_japanese": "CPL駆動ナノ加工でMie・プラズモン共鳴を併せ持つキラルTiO2-Agナノ構造を作製し、光の偏光・波長と湿度によりUV可視域のキラル応答、ハンドネス、書換え性を可逆制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Reversible Multi-Degree-of-Freedom Photocontrol over Chiroptical Responses of Chiral Plasmonic and Mie-Resonant Nanostructures"
+    },
     "10.1021/acs.jpclett.6c02669": {
       "doi": "10.1021/acs.jpclett.6c02669",
       "posted_at": "2026-10-16T20:30:15+00:00",
@@ -16554,6 +16567,19 @@
       "summary_used_fallback": false,
       "title": "A swing-type solid-state host-guest system enabling spontaneous adsorption-desorption cycling"
     },
+    "10.1038/s41467-026-78729-w": {
+      "doi": "10.1038/s41467-026-78729-w",
+      "posted_at": "2026-10-22T21:12:07+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792703527.637479",
+      "summary_character_count": 89,
+      "summary_japanese": "非キラル・非共鳴Siグレーティングで、電子誘起エバネッセント波の横方向スピン角運動量を縦方向へ変換し、偏光度0.87の広帯域・可調キラルSmith-Purcell放射を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Observation of inherent chiral Smith-Purcell effect via symmetry breaking"
+    },
     "10.1038/s41467-026-78730-3": {
       "doi": "10.1038/s41467-026-78730-3",
       "posted_at": "2026-10-17T22:53:43+00:00",
@@ -19310,6 +19336,19 @@
       "summary_used_fallback": false,
       "title": "Robust Static Candidate-Branch Obstructions and Reduced Pole-Correction Bounds in a Chiral Operator-Spectral Framework"
     },
+    "10.20944/preprints202610.2154.v1": {
+      "doi": "10.20944/preprints202610.2154.v1",
+      "posted_at": "2026-10-22T21:12:03+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792703523.215919",
+      "summary_character_count": 128,
+      "summary_japanese": "Delta-c Mechanicsでニュートリノを開いた螺旋軌道の二光子系と仮定し、条件付きでmν=31.7 meVを導出した。正四面体配置からTBM混合を与えるが、反応炉角は再現せず、Σm=116.9 meVはΛCDM下でDESI DR2と不整合である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Neutrino as an Open Helical Two-Photon State: Mass Scale, Helicity, and Tetrahedral Leading-Order Mixing"
+    },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
       "posted_at": "2026-07-17T17:28:01+00:00",
@@ -21388,6 +21427,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Organic Single Crystals as a Platform for Chirality-Induced Spin Selectivity"
+    },
+    "10.26434/chemrxiv.15010803/v1": {
+      "doi": "10.26434/chemrxiv.15010803/v1",
+      "posted_at": "2026-10-22T21:11:53+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792703513.565169",
+      "summary_character_count": 117,
+      "summary_japanese": "Δ/Λ中心キラリティーをもつ八面体tris(β-diketonato) M-Cn（Ru, Ir）を用い、Ru-C8のエナンチオ純品はらせん六方カラム、ラセミ体はΔΛ交互対カラムを形成し、液晶でもWallach則が成り立つことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Octahedral Metallomesogens with Δ/Λ Core Chirality: Extending Wallach's Rule from Crystals to Liquid Crystals"
+    },
+    "10.26434/chemrxiv.15010845/v1": {
+      "doi": "10.26434/chemrxiv.15010845/v1",
+      "posted_at": "2026-10-22T21:12:13+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792703533.102899",
+      "summary_character_count": 111,
+      "summary_japanese": "diaza[16]annuleneおよびnorcorrole・rosarinで結合電子密度と軌道分解磁気応答を比較し、結合様式が変化しても全体の反磁性環電流が持続することを示した。反磁性環電流のみでは結合式を決められない。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aromaticity Hidden in Magnetically Antiaromatic Macrocycles"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
