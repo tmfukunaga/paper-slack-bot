@@ -32,7 +32,7 @@
     "2026-10-21": 20,
     "2026-10-22": 20,
     "2026-10-23": 20,
-    "2026-10-24": 10
+    "2026-10-24": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -424,6 +424,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Sustainable Cellulose Chiral Photonic Films Enable Simultaneous Ultralong Room-temperature Phosphorescence and High Luminescence Dissymmetry With Multicolor Tunability"
+    },
+    "10.1002/adfm.79193": {
+      "doi": "10.1002/adfm.79193",
+      "posted_at": "2026-10-23T21:25:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792790726.917609",
+      "summary_character_count": 134,
+      "summary_japanese": "溶媒誘起in situ結晶化でMAPbBr3 NCsをL/D-Zn-Carキラルペプチドガラスに埋め込み、配位相互作用でキラリティー移行と表面トラップを抑制した。最適試料はg_lum 2.14×10^-2、PLQY 76%を示し、LEDは68.5 lm/Wを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Peptide Glass-Templated MAPbBr 3 Nanocrystals: Enhanced Circularly Polarized Luminescence Performance and Stability for Chiral Optoelectronic Applications"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -12700,6 +12713,19 @@
       "summary_used_fallback": false,
       "title": "Construction of Axial Chirality via Amino-Acid-Catalyzed Asymmetric Reductive Desymmetrization of 2-Aryl-isophthalaldehydes"
     },
+    "10.1021/acscatal.6c06196": {
+      "doi": "10.1021/acscatal.6c06196",
+      "posted_at": "2026-10-23T21:25:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792790715.923079",
+      "summary_character_count": 118,
+      "summary_japanese": "Indapybox配位キラルYb Lewis acidと有機光触媒の協働により、非活性アルケンと鎖状2置換β-ketoesterの光誘起的不斉α-アルキル化を実現し、四級不斉中心をもつ生成物を最大96% yield、96% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photoinduced Enantioselective α-Alkylation of Active Methines with Nonactivated Alkenes Using a Chiral Ytterbium Lewis Acid"
+    },
     "10.1021/acscatal.6c06318": {
       "doi": "10.1021/acscatal.6c06318",
       "posted_at": "2026-10-07T06:00:32+00:00",
@@ -15306,6 +15332,19 @@
       "summary_used_fallback": false,
       "title": "Chiral CarbohydrateAdducts are Effective for EnantiomericIon Mobility Separations"
     },
+    "10.1021/jasms.6c00379": {
+      "doi": "10.1021/jasms.6c00379",
+      "posted_at": "2026-10-23T21:25:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792790706.873179",
+      "summary_character_count": 115,
+      "summary_japanese": "Mosher’s chlorideによるキラル誘導体化とSLIM HRIM-MSを用い、(R/S)-amphetamineおよびmethamphetamineを反応・分析計2分未満でベースライン分離し、eeを直線的相関で定量した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Derivatization Enables Rapid Differentiation of Enantiomers by High-Resolution Ion Mobility-Mass Spectrometry"
+    },
     "10.1021/prechem.6c00084": {
       "doi": "10.1021/prechem.6c00084",
       "posted_at": "2026-09-25T03:25:29+00:00",
@@ -17698,6 +17737,19 @@
       "summary_used_fallback": false,
       "title": "A three-dimensionally tunable mechanical metamaterial enabled by a coupled concave-chiral architecture"
     },
+    "10.1088/1361-6668/aeb76c": {
+      "doi": "10.1088/1361-6668/aeb76c",
+      "posted_at": "2026-10-23T21:25:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792790719.886729",
+      "summary_character_count": 108,
+      "summary_japanese": "超伝導テープを隙間を設けて螺旋状に積層するHSC導体を試作し、曲げ試験と3D電磁・機械解析を実施した。曲げ半径100 mmでジャケットは破断したが、臨界曲げ半径以上ではIcはほぼ低下せず、解析も実験と良好に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental Study and Numerical Analysis of the Bending Performance of Helical Stacked Cable Conductor"
+    },
     "10.1088/1402-4896/ae8c7e": {
       "doi": "10.1088/1402-4896/ae8c7e",
       "posted_at": "2026-07-19T09:12:29+00:00",
@@ -17801,6 +17853,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Machine Learning of Chiral Symmetric Topological Insulator with Transformer-based Geometric Tomography"
+    },
+    "10.1088/1674-1056/aeb7cd": {
+      "doi": "10.1088/1674-1056/aeb7cd",
+      "posted_at": "2026-10-23T21:25:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792790711.290479",
+      "summary_character_count": 96,
+      "summary_japanese": "2D周期結晶の原子座標と局所環境から、元素占有も反映する符号付き擬スカラー記述子を設計した。非原始並進・対称等価単位胞と群論解析を併用し、鏡像異性の符号識別や電場誘起キラリティ追跡に適用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A symmetry-based descriptor for structural chirality in two-dimensional periodic crystals"
     },
     "10.1088/1674-1137/ae8f24": {
       "doi": "10.1088/1674-1137/ae8f24",
