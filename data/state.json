@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-21": 2,
     "2026-09-22": 11,
     "2026-09-23": 25,
     "2026-09-24": 20,
@@ -32,7 +31,7 @@
     "2026-10-20": 9,
     "2026-10-21": 20,
     "2026-10-22": 20,
-    "2026-10-23": 10
+    "2026-10-23": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -788,6 +787,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Phonon-Driven Ultrafast Spin Currents in a Non-Magnetic Ferroelectric"
+    },
+    "10.1002/adma.75391": {
+      "doi": "10.1002/adma.75391",
+      "posted_at": "2026-10-23T03:22:50+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792725770.581759",
+      "summary_character_count": 117,
+      "summary_japanese": "空気安定な反強磁性体CrPS4で、配位子‐金属電荷移動ギャップを閾値に光子エネルギー選択的な磁気相書込みを実証した。ギャップ未満ではスピンらせん由来のカイラル状態、超過では光ドーピングによる交換相互作用再規格化でコリニア相を誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optically Tunable Chiral Magnetic States and Exchange Engineering via Charge-Transfer Excitation in a van der Waals Antiferromagnet CrPS 4"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -6162,6 +6174,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Electrochemically Assisted Fabrication of Chiral Molecule Induced ag Films for Chiroptical Enhancement"
+    },
+    "10.1002/chir.70155": {
+      "doi": "10.1002/chir.70155",
+      "posted_at": "2026-10-23T03:22:28+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792725748.689359",
+      "summary_character_count": 129,
+      "summary_japanese": "末端hydroxymethyl基を有するキラルπ共役系BT 2 T 4 -(CH 2 OH) 2を合成し、Chiralpak IB-HPLCでee > 99%のエナンチオマーを単離した。on-line CD検出とCDスペクトルの相関により絶対配置を決定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Expanding the BT 2 T 4 Chiral Platform: Synthesis, Enantioseparation, and Absolute Configuration of the Hydroxymethylated Derivative BT 2 T 4 -(CH 2 OH) 2"
     },
     "10.1002/chir.70157": {
       "doi": "10.1002/chir.70157",
@@ -14630,6 +14655,19 @@
       "summary_used_fallback": false,
       "title": "Wavelength-Selective Magneto-Optical Diodes Based on Rare-Earth Chiral Molecular Crystals"
     },
+    "10.1021/jacs.6c14172": {
+      "doi": "10.1021/jacs.6c14172",
+      "posted_at": "2026-10-23T03:22:32+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792725752.611449",
+      "summary_character_count": 111,
+      "summary_japanese": "rac-trans-DMPLのisoselective重合を、実験・DFT・速度論で解析し、触媒と鎖末端の協同的立体制御を解明した。Δ-RR種の高速反応によりmm%=71–73%の高いisoselectivityが生じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cooperative Enantiomorphic-Site and Chain-End Chirality in Isoselective β-Lactone Polymerization"
+    },
     "10.1021/jacs.6c14403": {
       "doi": "10.1021/jacs.6c14403",
       "posted_at": "2026-09-10T15:50:23+00:00",
@@ -15487,6 +15525,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel catalysis enables chemoselectivity in radiation chemistry"
+    },
+    "10.1038/s41467-026-75855-3": {
+      "doi": "10.1038/s41467-026-75855-3",
+      "posted_at": "2026-10-23T03:22:39+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792725759.683819",
+      "summary_character_count": 131,
+      "summary_japanese": "動的に立体障害を調節するキラルジアミン配位子により、racemic (thio)phosphoryl monochloridesのCu触媒不斉置換を開発し、多様なP-stereogenic (thio)phosphoramidatesを高エナンチオ選択的に得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A dynamically tunable diamine ligand enables Cu-catalyzed enantioselective nucleophilic substitution at P(V)"
     },
     "10.1038/s41467-026-75965-y": {
       "doi": "10.1038/s41467-026-75965-y",
@@ -21440,6 +21491,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Octahedral Metallomesogens with Δ/Λ Core Chirality: Extending Wallach's Rule from Crystals to Liquid Crystals"
+    },
+    "10.26434/chemrxiv.15010820/v1": {
+      "doi": "10.26434/chemrxiv.15010820/v1",
+      "posted_at": "2026-10-23T03:22:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792725766.136709",
+      "summary_character_count": 109,
+      "summary_japanese": "アニオン性ピンサー配位子でH-phosphonateの酸化を抑え、alkylboron試薬との初の不斉脱ホウ素化C(sp3)–Pカップリングにより、多様なα-立体中心アルキルホスホネートを高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Outpacing H-Phosphonate Oxidation: Enantioconvergent Deborylative Synthesis of α-Stereogenic Alkyl Phosphonates"
     },
     "10.26434/chemrxiv.15010845/v1": {
       "doi": "10.26434/chemrxiv.15010845/v1",
