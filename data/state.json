@@ -32,7 +32,7 @@
     "2026-10-21": 20,
     "2026-10-22": 20,
     "2026-10-23": 20,
-    "2026-10-24": 5
+    "2026-10-24": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3101,6 +3101,19 @@
       "posted_at": "2026-07-18T07:02:10+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1002/anie.2026-m1910013000": {
+      "doi": "10.1002/anie.2026-m1910013000",
+      "posted_at": "2026-10-23T20:59:14+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792789154.877989",
+      "summary_character_count": 299,
+      "summary_japanese": "Self-assembled platinum(II) complexes combine strong bioimaging capabilities with unexpected biological activity. In Hydra vulgaris, they enhanced stem cell proliferation and antioxidant defences and accelerated metamorphosis, demonstrating that molecular self-assembly can influence living systems.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Outside Back Cover: Self-Assembled Pt(II) Complexes Boost Up Stem Cell Proliferation and Accelerate Metamorphosis in Living Organisms"
     },
     "10.1002/anie.2026-m2509022200": {
       "doi": "10.1002/anie.2026-m2509022200",
@@ -11186,6 +11199,19 @@
       "summary_used_fallback": false,
       "title": "Continuous Flow Br/Li Exchange Enables Scalable Synthesis of Chiral N , P Ligands for Asymmetric Catalysis"
     },
+    "10.1021/acs.oprd.6c00265": {
+      "doi": "10.1021/acs.oprd.6c00265",
+      "posted_at": "2026-10-23T20:59:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792789163.674859",
+      "summary_character_count": 95,
+      "summary_japanese": "ABBV-576合成用キラル中間体の製法を、KRED触媒動的速度論分割へ改良した。エポキシ化・Meinwald転位で得たラセミアルデヒドを基質とし、多kg規模で高選択性・高純度化を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Process Development of a Key Chiral Intermediate toward the Synthesis of ABBV-576"
+    },
     "10.1021/acs.organomet.6c00208": {
       "doi": "10.1021/acs.organomet.6c00208",
       "posted_at": "2026-09-23T16:06:36+00:00",
@@ -16918,6 +16944,19 @@
       "summary_used_fallback": false,
       "title": "Molecular-level observation of the self-assembly of a virus-like particle"
     },
+    "10.1038/s41598-026-66630-x": {
+      "doi": "10.1038/s41598-026-66630-x",
+      "posted_at": "2026-10-23T20:59:19+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792789159.442879",
+      "summary_character_count": 95,
+      "summary_japanese": "ALS阻害剤Pyroxsulamの結晶構造、電子特性、分子間相互作用をX線回折、DFT、ドッキング・分子動力学で解析し、L字形配座とALSへの−6.69 kcal mol−1の結合を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structural, supramolecular and computational insights into the ALS inhibitor pyroxsulam: crystal structure, reactivity and bioactivity"
+    },
     "10.1038/s41598-026-67057-0": {
       "doi": "10.1038/s41598-026-67057-0",
       "posted_at": "2026-08-22T12:34:44+00:00",
@@ -21635,6 +21674,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromaticity Hidden in Magnetically Antiaromatic Macrocycles"
+    },
+    "10.26434/chemrxiv.15010861/v1": {
+      "doi": "10.26434/chemrxiv.15010861/v1",
+      "posted_at": "2026-10-23T20:59:09+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792789148.955979",
+      "summary_character_count": 106,
+      "summary_japanese": "特権的アミド骨格を分子認識する二官能性Cu(I)触媒により、共役アミドをH2で化学選択的に1,2還元し、共役アルケンを保持したallylic alcoholを得た。E/Z異性化とE体の選択的認識が反応を支配した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemoselective Copper(l)-Catalyzed 1,2-Reduction of Conjugated Amides by a Molecular Recognition Strategy"
+    },
+    "10.26434/chemrxiv.15010863/v1": {
+      "doi": "10.26434/chemrxiv.15010863/v1",
+      "posted_at": "2026-10-23T20:59:04+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792789143.972899",
+      "summary_character_count": 88,
+      "summary_japanese": "DFT計算と解釈可能な機械学習を統合し、HOMAで定量化した芳香族性を記述子として互変異性平衡を解析した。内在的・事後的特徴重要度はいずれも芳香族性に関する類似の傾向を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "UNDERSTANDING THE ROLE OF AROMATICITY IN TAUTOMERIC EQUILIBRIA"
     },
     "10.26434/chemrxiv.15010875/v1": {
       "doi": "10.26434/chemrxiv.15010875/v1",
