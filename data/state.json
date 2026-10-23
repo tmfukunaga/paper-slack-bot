@@ -31,7 +31,8 @@
     "2026-10-20": 9,
     "2026-10-21": 20,
     "2026-10-22": 20,
-    "2026-10-23": 20
+    "2026-10-23": 20,
+    "2026-10-24": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1099,6 +1100,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Ag/Bi 6 S 2 O 15 Hybrid NWs Film Tailored Intense SERS Activity for Sensitive Detection Application"
+    },
+    "10.1002/adom.71893": {
+      "doi": "10.1002/adom.71893",
+      "posted_at": "2026-10-23T16:28:06+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792772886.561929",
+      "summary_character_count": 100,
+      "summary_japanese": "Spiropyran標識PLLA/PDLAを用い、溶媒アニーリングで形成したバンド状球晶のみが効率的な光異性化と逆符号のCPLを示し、結晶形態からmerocyanineへのキラリティー移転を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Twisting Lamellae Triggering Circular Polarized Luminescence of Chromophoric Moieties in Banded Spherulites With Evolution of Homochirality"
     },
     "10.1002/adom.71894": {
       "doi": "10.1002/adom.71894",
@@ -5915,6 +5929,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Cycloparaarylenes Incorporating Binaphthyl Units: Dramatic Effects of Peripheral Functionalization on (Chir)Optical Properties"
     },
+    "10.1002/chem.71778": {
+      "doi": "10.1002/chem.71778",
+      "posted_at": "2026-10-23T16:28:13+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792772893.683149",
+      "summary_character_count": 132,
+      "summary_japanese": "金属中心の異なるporphyrin担持Pd12L24ナノスフェアの合成法を検討し、Pd2+、Cu2+、Fe3+、Zn2+体は形成に耐えた一方、Mg2+体はtransmetalationを受けた。内外に配置したporphyrinは金属化状態依存の光学特性を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exploring the Synthesis of Metalloporphyrin Equipped Pd 12 L 24 Supramolecular Spheres"
+    },
     "10.1002/chem.71789": {
       "doi": "10.1002/chem.71789",
       "posted_at": "2026-10-15T16:19:10+00:00",
@@ -6590,6 +6617,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helical Dinaphthothiophenes Reveal the Limits of BN-Based Optical Tuning"
+    },
+    "10.1002/ejoc.70861": {
+      "doi": "10.1002/ejoc.70861",
+      "posted_at": "2026-10-23T16:27:53+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792772873.409849",
+      "summary_character_count": 135,
+      "summary_japanese": "diphenylprolinol silyl ether触媒によるaldehydeとnitropropenamideの一鍋型Michael/hemiacetal化・求核付加で、3,4-二置換キラルpyrrolidinoneを高いジアステレオ・エナンチオ選択性で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Synthesis of Chiral Pyrrolidinones by a Formal Aza-[3+2] Cycloaddition: An Organocatalytic One-Pot Michael/Hemiacetalization Approach"
     },
     "10.1002/elan.70232": {
       "doi": "10.1002/elan.70232",
@@ -15071,6 +15111,19 @@
       "summary_used_fallback": false,
       "title": "Potential Driven Spin-Crossover Synergized with Hydrogen-Bond Engineering in a Molecular Catalyst for Selective H2O2 Electrosynthesis"
     },
+    "10.1021/jacs.6c17010": {
+      "doi": "10.1021/jacs.6c17010",
+      "posted_at": "2026-10-23T16:28:02+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792772882.332839",
+      "summary_character_count": 134,
+      "summary_japanese": "Möbius芳香族hexa[2,3-thienylene] macrocycle（HTE）を組み込む3D COF、NUST-67を初めて合成し、対照NUST-66よりH2O2還元で100–400 mA cm−2、Faradic efficiency 88%超を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mobius Aromatic Figure-Eight Knotted Three-Dimensional Covalent Organic Frameworks"
+    },
     "10.1021/jacs.6c17351": {
       "doi": "10.1021/jacs.6c17351",
       "posted_at": "2026-10-15T20:55:59+00:00",
@@ -21582,6 +21635,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Aromaticity Hidden in Magnetically Antiaromatic Macrocycles"
+    },
+    "10.26434/chemrxiv.15010875/v1": {
+      "doi": "10.26434/chemrxiv.15010875/v1",
+      "posted_at": "2026-10-23T16:27:58+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792772878.101309",
+      "summary_character_count": 111,
+      "summary_japanese": "飽和NaCl水溶液中でD-(-)-fructoseをsC4A触媒により脱水し、140 °C・4時間でHMFを32.7 ± 5.4%単離した。qNMRとMEKCで反応を解析し、2分で0.1–10 mMのHMF生成を追跡した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of 5-hydroxymethylfurfural using sulfonated calix[4]arene in brine and rapid reaction monitoring with micellar capillary electrokinetic chromatography"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
