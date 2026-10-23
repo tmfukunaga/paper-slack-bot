@@ -31,7 +31,7 @@
     "2026-10-20": 9,
     "2026-10-21": 20,
     "2026-10-22": 20,
-    "2026-10-23": 15
+    "2026-10-23": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -9924,6 +9924,19 @@
       "summary_used_fallback": false,
       "title": "Fullerenes (C60/C70)-Embedded Copper(I)-Imidazole/Pyrazolate Macrocycles: Synthesis, Structures, and Electronic Properties"
     },
+    "10.1021/acs.inorgchem.6c04194": {
+      "doi": "10.1021/acs.inorgchem.6c04194",
+      "posted_at": "2026-10-23T11:00:29+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792753229.610829",
+      "summary_character_count": 112,
+      "summary_japanese": "Fmoc-Arg凝集体を速度制御リザーバーとしてATT-AuNCsと共集合させ、房状・アジサイ状階層集合体を形成した。発光とキロプティカル活性が増強され、rhodamine BとのFRETにより発光色とCPLを長波長化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical Assembly of Gold Nanoclusters Mediated by Kinetic Aggregation of Amphiphilic Amino Acid for Generation of Enhanced Emission and Tunable CPL-Activity"
+    },
     "10.1021/acs.inorgchem.6c04220": {
       "doi": "10.1021/acs.inorgchem.6c04220",
       "posted_at": "2026-09-19T03:07:24+00:00",
@@ -10638,6 +10651,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strain-Gradient Engineering of Topological, Nonlinear Optical, and Spin Chiral Responses in MnBi2Te4"
+    },
+    "10.1021/acs.jpclett.6c02793": {
+      "doi": "10.1021/acs.jpclett.6c02793",
+      "posted_at": "2026-10-23T11:00:24+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792753224.506699",
+      "summary_character_count": 126,
+      "summary_japanese": "Mn2+添加2D (PEA)2PbBr4ナノシートをl-cysteineで修飾し、二色PLの量子収率を33%から71%へ向上させた。キラリティー移転により励起子・Mn2+発光でCPLを示し、|glum|は各0.86×10−3、1.2×10−4に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enhanced Dual-Emissive Circularly Polarized Luminescence of Mn2+-Doped 2D Lead Halide Perovskite Nanosheets Via l -Cysteine Modification"
     },
     "10.1021/acs.langmuir.6c01158": {
       "doi": "10.1021/acs.langmuir.6c01158",
@@ -11815,6 +11841,19 @@
       "summary_used_fallback": false,
       "title": "Access to Axially Chiral Biaryl Aldehydes via Enantioselective Imine Condensation"
     },
+    "10.1021/acs.orglett.6c04206": {
+      "doi": "10.1021/acs.orglett.6c04206",
+      "posted_at": "2026-10-23T11:00:33+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792753233.469069",
+      "summary_character_count": 127,
+      "summary_japanese": "BINOL/Ti(O-i-Pr)4とTBHPを用い、N-acylsulfenamidesを温和な条件で不斉酸化して、アルキルおよびヘテロアリール置換基を許容するchiral N-acylsulfinamidesを56–90%収率、最大99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Titanium-Catalyzed Enantioselective Oxidation of N -Acylsulfenamides to Chiral N-Acylsulfinamides"
+    },
     "10.1021/acs.orglett.6c04215": {
       "doi": "10.1021/acs.orglett.6c04215",
       "posted_at": "2026-10-16T16:05:35+00:00",
@@ -12790,6 +12829,19 @@
       "summary_used_fallback": false,
       "title": "Investigation of Chiral Imidazoquinoline Based Heterocyclic Small Molecules on TLR7/8 Modulatory Activity"
     },
+    "10.1021/acsnano.6c02068": {
+      "doi": "10.1021/acsnano.6c02068",
+      "posted_at": "2026-10-23T11:00:37+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792753237.794109",
+      "summary_character_count": 135,
+      "summary_japanese": "chiral polymer近接下の半金属強磁性La0.67Sr0.33MnO3薄膜で、CISS誘起磁化が通常の強磁性体と異なり擬似垂直配置を選ぶことを示した。分子への輸送確率差による熱駆動定常状態がdomain-wall energy landscapeを変化させる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effect of Chiral-Induced Spin Selectivity in Half-Metallic La0.67Sr0.33MnO3 Thin Films"
+    },
     "10.1021/acsnano.6c05585": {
       "doi": "10.1021/acsnano.6c05585",
       "posted_at": "2026-08-05T21:16:10+00:00",
@@ -13198,6 +13250,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Time-Resolved CPL Sensing of ATP in Complex Biological Matrices Using a Self-Assembled Eu Probe"
+    },
+    "10.1021/jacs.6c00918": {
+      "doi": "10.1021/jacs.6c00918",
+      "posted_at": "2026-10-23T11:00:19+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792753219.902619",
+      "summary_character_count": 89,
+      "summary_japanese": "有機化学と表面科学を組み合わせ、走査型プローブ顕微鏡とオン表面合成により、炭素系ナノ構造の原子精度解析・合成・操作や単一分子反応制御を実現し、溶液相では不可能な変換への道を示す。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "When Organic Chemistry Meets Surface Science: From Nanographene Characterization to Single-Molecule Reactions"
     },
     "10.1021/jacs.6c03282": {
       "doi": "10.1021/jacs.6c03282",
