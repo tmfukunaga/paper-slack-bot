@@ -31,7 +31,8 @@
     "2026-10-21": 20,
     "2026-10-22": 20,
     "2026-10-23": 20,
-    "2026-10-24": 19
+    "2026-10-24": 19,
+    "2026-10-25": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6006,6 +6007,19 @@
       "summary_used_fallback": false,
       "title": "Single Component-Uncomplicated Self-Assembly: Conformational Modulation to Regulate Chirality Transformation in Perylene Bisimide Superhelical Assemblies in Aqueous Media"
     },
+    "10.1002/chem.71807": {
+      "doi": "10.1002/chem.71807",
+      "posted_at": "2026-10-24T15:23:07+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792855387.604209",
+      "summary_character_count": 114,
+      "summary_japanese": "tris-HBC(tBu)5の中心sp3-C置換基を変え、X線結晶構造解析でπ–π積層や水素結合に依存する集合様式の差を示した。置換基に応じて酸化還元電位、光物性、励起状態寿命、振動特性が系統的に変化し、DFT計算とも一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Central sp 3 -C Substitution Directs Supramolecular Assembly and Molecular Properties of Tris-HBC Nanographenes"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -7123,6 +7137,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Halogen Engineered Chiral Amplification in Chiral Hybrid 2D Perovskites for Self-Powered Circularly Polarized Light Detection"
+    },
+    "10.1002/lpor.72108": {
+      "doi": "10.1002/lpor.72108",
+      "posted_at": "2026-10-24T15:23:11+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792855391.324199",
+      "summary_character_count": 114,
+      "summary_japanese": "キラル2D HOIP単結晶R/S-(BrBA)2PbBr4で可調整なキラルTHz放射を生成し、非対称因子が理論上限1に近い広帯域円偏光非線形応答を示した。ヘリシティ依存性は放射段階に由来し、キラルフォノン関連の振動も観測された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Chiral Terahertz Radiation With Colossal Circular Nonlinear Optical Response From Two-Dimensional Perovskites"
     },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
@@ -16631,6 +16658,19 @@
       "summary_used_fallback": false,
       "title": "Catalytic asymmetric dearomatization of (hetero)aromatic frameworks"
     },
+    "10.1038/s41467-026-78371-6": {
+      "doi": "10.1038/s41467-026-78371-6",
+      "posted_at": "2026-10-24T15:22:58+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792855378.614299",
+      "summary_character_count": 115,
+      "summary_japanese": "ドーム状WS2単層をテンプレートに用い、亀裂端の対向するらせん転位対に導かれる低残留ひずみの特異点フリーsupertwisted WS2多層膜を成長させ、約6 nm厚で線形CD最大10 mdeg、第二高調波CD 0.81を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Singularity-free supertwisted atomic layers with giant circular dichroisms"
+    },
     "10.1038/s41467-026-78374-3": {
       "doi": "10.1038/s41467-026-78374-3",
       "posted_at": "2026-10-10T00:52:39+00:00",
@@ -21804,6 +21844,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis of 5-hydroxymethylfurfural using sulfonated calix[4]arene in brine and rapid reaction monitoring with micellar capillary electrokinetic chromatography"
     },
+    "10.26434/chemrxiv.15010970/v1": {
+      "doi": "10.26434/chemrxiv.15010970/v1",
+      "posted_at": "2026-10-24T15:23:03+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792855383.162789",
+      "summary_character_count": 125,
+      "summary_japanese": "多様な側鎖をもつisotactic oligourethane tetramerを分光法とMDで解析し、骨格遮蔽と立体適合性を併せもつ側鎖が極性媒体中で持続的な2.614-helixを促進し、SSSS骨格の優先らせん巻き方向も反転させることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Side-Chain Structure Reprograms Helical Folding in Isotactic Oligourethanes"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -21959,6 +22012,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "On the Relation between Chiral Oscillation and Matter Waves"
+    },
+    "10.3389/fanpr.2026.1973167": {
+      "doi": "10.3389/fanpr.2026.1973167",
+      "posted_at": "2026-10-24T15:23:17+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792855397.080739",
+      "summary_character_count": 121,
+      "summary_japanese": "6G向けTHz programmable chiral metasurfacesを概説し、動的chiropticalデバイスと電子制御アレイを比較した。偏光散乱行列による評価、拡張可能な個別制御と通信・センシング利得の実証を課題として示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programmable chiral metasurfaces for 6G THz systems"
     },
     "10.3389/fbioe.2026.1849836": {
       "doi": "10.3389/fbioe.2026.1849836",
