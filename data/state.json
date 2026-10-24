@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-22": 11,
     "2026-09-23": 25,
     "2026-09-24": 20,
     "2026-09-25": 17,
@@ -32,7 +31,7 @@
     "2026-10-21": 20,
     "2026-10-22": 20,
     "2026-10-23": 20,
-    "2026-10-24": 15
+    "2026-10-24": 18
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8703,6 +8702,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "3D printed bioinspired chiral helical-vortex metastructures for broadband electromagnetic wave absorption"
+    },
+    "10.1016/j.matdes.2026.117282": {
+      "doi": "10.1016/j.matdes.2026.117282",
+      "posted_at": "2026-10-24T03:16:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792811761.946699",
+      "summary_character_count": 116,
+      "summary_japanese": "周方向拘束を解放したhelical origamiを剛体適合運動学で解析し、三角形面の適合性から高さ・半径・螺旋回転の連成を導出した。折線パターン幾何が変形域とエネルギー地形を規定し、高さ―半径関係は紙試作で理論軌道とよく一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rigid compatible kinematics and geometric response of boundary released helical origami"
     },
     "10.1016/j.matlit.2026.100112": {
       "doi": "10.1016/j.matlit.2026.100112",
@@ -21896,6 +21908,19 @@
       "summary_used_fallback": false,
       "title": "Dc generation in Weyl semimetals MnZn1-х(Cr,Fe)xSb"
     },
+    "10.32972/dms.2012.016": {
+      "doi": "10.32972/dms.2012.016",
+      "posted_at": "2026-10-24T03:15:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792811753.702089",
+      "summary_character_count": 115,
+      "summary_japanese": "1本以上のhelical springを基本要素とするepicyclic traction driveを提案し、外部荷重に比例して接触面間の必要な法線力を確保する設計を目指した。弾性問題は適切な機械モデルにより必要精度で解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical springs in epicyclic traction drives"
+    },
     "10.33263/briac164.113": {
       "doi": "10.33263/briac164.113",
       "posted_at": "2026-08-16T03:16:39+00:00",
@@ -23559,6 +23584,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality in Finance"
+    },
+    "10.55092/asymmetry20260006": {
+      "doi": "10.55092/asymmetry20260006",
+      "posted_at": "2026-10-24T03:15:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792811757.750139",
+      "summary_character_count": 101,
+      "summary_japanese": "キラルisotelluroureaを、軽いカルコゲン系isochalcogenoureaより高い求核性・塩基性を示すLewis塩基触媒として紹介し、反応速度向上が期待される反応性プロファイルを概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral isotellurourea Lewis base catalysts"
     },
     "10.5525/gla.researchdata.2411": {
       "doi": "10.5525/gla.researchdata.2411",
