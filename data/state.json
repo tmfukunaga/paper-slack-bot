@@ -32,7 +32,7 @@
     "2026-10-22": 20,
     "2026-10-23": 20,
     "2026-10-24": 19,
-    "2026-10-25": 10
+    "2026-10-25": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2770,6 +2770,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Dipole-Field Engineering in Chiral Mesostructures for Efficient Photocatalytic N 2 Reduction"
+    },
+    "10.1002/ange.9731976": {
+      "doi": "10.1002/ange.9731976",
+      "posted_at": "2026-10-24T22:53:21+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792882401.505259",
+      "summary_character_count": 112,
+      "summary_japanese": "indeno[2,1-b]carbazoleを導入したらせん型MR-TADF発光体DT-BON1は、1～20 wt%で狭帯域青色発光を維持し、20 wt%でもPL量子収率90%超、OLEDでEQEmax 27.3%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Multi-Resonance Thermally Activated Delayed Fluorescence Emitters for High-Performance Anti-Quenching Narrowband Blue OLEDs"
     },
     "10.1002/ange.9997737": {
       "doi": "10.1002/ange.9997737",
@@ -6384,6 +6397,19 @@
       "summary_used_fallback": true,
       "title": "Achiral Additives Modulated Helicity and Supramolecular Fibrillation Assembly of Helical Dendronized Poly(phenylacetylene)s through Enhanced Radial Amphiphilicity †"
     },
+    "10.1002/cjoc.70843": {
+      "doi": "10.1002/cjoc.70843",
+      "posted_at": "2026-10-24T22:53:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792882414.294839",
+      "summary_character_count": 357,
+      "summary_japanese": "A bifunctional phosphoramide-tertiary amine derived from (S,S)-cyclohexane-1,2-diamine catalyzed the enantioselective Mukaiyama-Michael addition of difluoroenoxysilanes to isatylidene malononitriles. The reaction afforded S-configured quaternary oxindoles bearing a C3 difluoroalkyl group in up to 98% ee, opposite to the analogous secondary amine catalyst.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral Bifunctional Phosphoramide-Amine Controlled Enantiodivergent Conjugate Addition of Difluoroenoxysilanes to Isatylidene Malononitriles †"
+    },
     "10.1002/cphc.70451": {
       "doi": "10.1002/cphc.70451",
       "posted_at": "2026-07-21T21:03:34+00:00",
@@ -8047,6 +8073,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Deep Learning for Quantitative Perfusion 99mTc-ECD SPECT in Clinically Confirmed Neuropsychiatric Systemic Lupus Erythematosus: Comparison with Established Software"
+    },
+    "10.1007/s13402-026-01315-1": {
+      "doi": "10.1007/s13402-026-01315-1",
+      "posted_at": "2026-10-24T22:53:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792882397.374039",
+      "summary_character_count": 110,
+      "summary_japanese": "高悪性度縦隔MPNST転移例にhelical tomotherapy、pazopanib、temozolomideを併用し、6～12か月で部分奏効を維持した。pazopanib曝露中の毛髪脱色は中止後に部分的に回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical tomotherapy and pazopanib-based multimodal therapy for metastatic malignant peripheral nerve sheath tumor with reversible hair depigmentation: a brief report and brief literature review"
     },
     "10.1007/s40263-026-01317-5": {
       "doi": "10.1007/s40263-026-01317-5",
@@ -10106,6 +10145,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Blue-Light Excited Hybrid Copper Iodides with Circularly Polarized Luminescence for Lighting and X-ray Imaging"
+    },
+    "10.1021/acs.inorgchem.6c04231": {
+      "doi": "10.1021/acs.inorgchem.6c04231",
+      "posted_at": "2026-10-24T22:53:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792882418.120509",
+      "summary_character_count": 116,
+      "summary_japanese": "boric acid、arginine、organic dyesの熱分解でTDPCとCPRTPを示す3種のcarbon dot複合体を作製し、複数発光中心の減衰差により消灯後の発光色が赤→緑、緑→青、黄→緑へ変化することを確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Carbon Dot Composites Exhibiting Time-Dependent Phosphorescence Color and Circularly Polarized Room-Temperature Phosphorescence"
     },
     "10.1021/acs.inorgchem.6c04645": {
       "doi": "10.1021/acs.inorgchem.6c04645",
@@ -17437,6 +17489,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Advances in Synthetic Methods for Chiral Trifluoromethylthiolated Compounds"
+    },
+    "10.1055/a-2981-9758": {
+      "doi": "10.1055/a-2981-9758",
+      "posted_at": "2026-10-24T22:53:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792882407.750709",
+      "summary_character_count": 129,
+      "summary_japanese": "キラルbinaphthyldimethyl Ben配位子を開発し、Ruへの部位選択的配位でBenRuII触媒を得た。1-aryl-2-naphtholsとalkynesの不斉C–H活性化により、spirocyclesを最大99%収率、97% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development and Application of Chiral Binaphthyldimethyl η6-Benzene Ruthenium Catalysts"
     },
     "10.1055/a-2985-5895": {
       "doi": "10.1055/a-2985-5895",
