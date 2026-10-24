@@ -32,7 +32,7 @@
     "2026-10-22": 20,
     "2026-10-23": 20,
     "2026-10-24": 19,
-    "2026-10-25": 5
+    "2026-10-25": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5435,6 +5435,19 @@
       "summary_used_fallback": true,
       "title": "Macrocyclic Steric Confinement at Heavy-Atom Sites to Suppress Spin-Orbit Coupling for Room-Temperature Spin Transport in Organic Semiconductors"
     },
+    "10.1002/app.71689": {
+      "doi": "10.1002/app.71689",
+      "posted_at": "2026-10-24T20:12:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792872776.615049",
+      "summary_character_count": 102,
+      "summary_japanese": "PET/PA6サイドバイサイド複合フィラメントで、湿熱によるPA6の吸湿可塑化を利用して収縮差を増大させ、安定ならせん捲縮を形成した。100°C・5分で捲縮伸長338.46%、回復率78.19%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stable Helical Crimp Formation in PET / PA6 Bicomponent Filaments via Hygrothermally Enhanced Shrinkage Mismatch"
+    },
     "10.1002/asia.70866": {
       "doi": "10.1002/asia.70866",
       "posted_at": "2026-07-17T17:07:49+00:00",
@@ -6019,6 +6032,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Central sp 3 -C Substitution Directs Supramolecular Assembly and Molecular Properties of Tris-HBC Nanographenes"
+    },
+    "10.1002/chem.71821": {
+      "doi": "10.1002/chem.71821",
+      "posted_at": "2026-10-24T20:12:49+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792872769.565579",
+      "summary_character_count": 130,
+      "summary_japanese": "Cs対称divinylphosphaferrocene/divinylferroceneのAMD/DSで、隣接置換基とL1配位Mo-alkylideneにより一方のvinyl基を選択的に不活性化し、planar-chiral dimerを>99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Metathesis Dimerization/Desymmetrization of C s -Symmetric Divinylferrocenes: Enantioselective Deactivation of Vinyl Groups and Subsequent Kinetic Resolution of Chiral Dimers"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -6669,6 +6695,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Synthesis of Chiral Pyrrolidinones by a Formal Aza-[3+2] Cycloaddition: An Organocatalytic One-Pot Michael/Hemiacetalization Approach"
+    },
+    "10.1002/ejoc.70925": {
+      "doi": "10.1002/ejoc.70925",
+      "posted_at": "2026-10-24T20:12:40+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792872760.239249",
+      "summary_character_count": 373,
+      "summary_japanese": "A Pd(II)-catalyzed intramolecular C–H alkenylation of cinnamides enabled the atroposelective synthesis of axially chiral 4-arylquinolones under chiral-ligand control. HFIP and the cinnamide N-substituent strongly affected enantioselectivity. DFT calculations indicated prior alkene activation and identified β-hydride elimination as the enantioselectivity-determining step.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Axial Chirality Control Through Palladium-Catalyzed Alkenylation Reactions for the Atroposelective Synthesis of 4-Arylquinolin-2-ones"
     },
     "10.1002/elan.70232": {
       "doi": "10.1002/elan.70232",
@@ -10301,6 +10340,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Molecular Recognitionand Chirality Sensing with MetalloceneDichloride Complexes"
+    },
+    "10.1021/acs.joc.6c01249": {
+      "doi": "10.1021/acs.joc.6c01249",
+      "posted_at": "2026-10-24T20:12:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792872766.187949",
+      "summary_character_count": 350,
+      "summary_japanese": "For a cost-effective synthesis of the HIF-2α inhibitor casdatifan, chiral cyclopropane 10 was prepared from readily available chiral 1,2-diols. A stereospecific Cu(I)-catalyzed ring opening with a functionalized aryl Grignard reagent, followed by a late-stage Friedel–Crafts reaction, furnished diketone 7 used in the established manufacturing route.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Formal Synthesis of HIF-2α Inhibitor Casdatifan (AB521): Stereospecific Copper(I)-Mediated Ring Opening of Chiral 2-Aryl-cyclopropane-1,1-dicarboxylate with Aryl Grignard Reagents"
     },
     "10.1021/acs.joc.6c01398": {
       "doi": "10.1021/acs.joc.6c01398",
@@ -21856,6 +21908,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Side-Chain Structure Reprograms Helical Folding in Isotactic Oligourethanes"
+    },
+    "10.26434/chemrxiv.15010979/v1": {
+      "doi": "10.26434/chemrxiv.15010979/v1",
+      "posted_at": "2026-10-24T20:12:52+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792872772.938739",
+      "summary_character_count": 101,
+      "summary_japanese": "activated IM-MSでanti-cryptophaneとH+、アルカリ金属、Mg2+、Ag+の錯体を解析し、特徴的なフラグメントm/zとイオン移動度変化から内包・外部会合の結合様式を識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conformational Dynamics of Cation-Cryptophane Complexes by Ion Mobility Mass Spectrometry"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
