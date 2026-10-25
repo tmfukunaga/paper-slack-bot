@@ -31,7 +31,8 @@
     "2026-10-22": 20,
     "2026-10-23": 20,
     "2026-10-24": 19,
-    "2026-10-25": 21
+    "2026-10-25": 21,
+    "2026-10-26": 3
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2848,6 +2849,19 @@
       "summary_used_fallback": false,
       "title": "Hydrogen-Bond-Induced Switching of Interaction Hierarchy in Dipolar D-A Chromophores for NIR Circularly Polarized Photodetection"
     },
+    "10.1002/anie.1221444": {
+      "doi": "10.1002/anie.1221444",
+      "posted_at": "2026-10-25T15:33:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792942394.952279",
+      "summary_character_count": 386,
+      "summary_japanese": "N-Heterocyclic azamacrocycles enabled controlled NCA ring-opening polymerization of BLG, SAR, and ZLYS in open vessels at ambient temperature, achieving dispersities of approximately 1.1 over targeted DPs of 20–1000. Macrocycle methylation determined catalyst or initiator-catalyst behavior, while kinetic and DFT studies supported monomer-activation-related accelerated amine pathways.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enhancing Reaction Kinetics and Structural Control in N -Carboxyanhydride (NCA) Polypeptide Synthesis by Structurally Tuned Azamacrocyclic Ligands"
+    },
     "10.1002/anie.1245058": {
       "doi": "10.1002/anie.1245058",
       "posted_at": "2026-07-23T03:04:39+00:00",
@@ -5472,6 +5486,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Macrocyclic Steric Confinement at Heavy-Atom Sites to Suppress Spin-Orbit Coupling for Room-Temperature Spin Transport in Organic Semiconductors"
+    },
+    "10.1002/anse.70138": {
+      "doi": "10.1002/anse.70138",
+      "posted_at": "2026-10-25T15:33:07+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792942387.853189",
+      "summary_character_count": 124,
+      "summary_japanese": "achiral [BMIM][TFSI]に可溶性thiaheliceneを添加し、膜形成を抑えた均一系キラル電気化学系を構築した。voltammetryでΔE > 200 mVの識別と、R2 > 0.992、RSD < 3.8%のee評価を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Beyond Solid Chiral Electrodes: Pervasive Enantioselection in Achiral Ionic Liquids Doped With Soluble Thiahelicenes"
     },
     "10.1002/app.71689": {
       "doi": "10.1002/app.71689",
@@ -15109,6 +15136,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Exploiting Asymmetric Nitrogen Chlorination for Construction of N -Chloroimine Atropisomers"
+    },
+    "10.1021/jacs.6c14664": {
+      "doi": "10.1021/jacs.6c14664",
+      "posted_at": "2026-10-25T15:33:00+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792942380.794859",
+      "summary_character_count": 134,
+      "summary_japanese": "単一らせんpolyarylisocyanideの二相性LLCを設計し、1次元13C NMRでΔRCSAを簡便に取得した。8種の化合物で構造・立体化学検証を示し、cryptotanshinoneの帰属修正、19F RCSAによるラセミ体中のエナンチオマー識別も達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Biphasic Polyarylisocyanide Liquid Crystals with Enhanced Enantiodiscrimination for Residual Chemical Shift Anisotropy Measurements"
     },
     "10.1021/jacs.6c14717": {
       "doi": "10.1021/jacs.6c14717",
