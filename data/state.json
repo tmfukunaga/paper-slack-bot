@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-23": 25,
     "2026-09-24": 20,
     "2026-09-25": 17,
     "2026-09-26": 20,
@@ -32,7 +31,7 @@
     "2026-10-22": 20,
     "2026-10-23": 20,
     "2026-10-24": 19,
-    "2026-10-25": 15
+    "2026-10-25": 16
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -14954,6 +14953,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ligand-Shell Softness Directs Symmetry Transitions in Nanotripod Superstructures"
+    },
+    "10.1021/jacs.6c14045": {
+      "doi": "10.1021/jacs.6c14045",
+      "posted_at": "2026-10-25T03:11:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792897860.831909",
+      "summary_character_count": 338,
+      "summary_japanese": "Chiral resorcinol boronates were para-selectively activated by pi-allyl iridium complexes, followed by oxidative rearomatization to install 1,6-stereocenters simultaneously. Independent control of ligand and boronic ester configuration provided all four stereoisomers, and the method enabled a concise total synthesis of merocyclophane A.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Simultaneous Installation of 1,6-Stereocenters by Asymmetric Allylation of Resorcinol Boronates: Application to the Synthesis of Merocyclophane A"
     },
     "10.1021/jacs.6c14062": {
       "doi": "10.1021/jacs.6c14062",
