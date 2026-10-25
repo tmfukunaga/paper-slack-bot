@@ -31,7 +31,7 @@
     "2026-10-22": 20,
     "2026-10-23": 20,
     "2026-10-24": 19,
-    "2026-10-25": 16
+    "2026-10-25": 21
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1997,6 +1997,19 @@
       "summary_used_fallback": false,
       "title": "Spiro[16]arene: A Spirocycle-Bridged Macrocycle With Nanocarbon Recognition"
     },
+    "10.1002/ange.4944869": {
+      "doi": "10.1002/ange.4944869",
+      "posted_at": "2026-10-25T10:42:59+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792924979.334509",
+      "summary_character_count": 133,
+      "summary_japanese": "キラル誘導と環融合を組み合わせ、n型キラルnanographene imide (S)-Cy-FT-FPDIを設計した。アニール薄膜は455/595 nmでgph 0.22/0.53、移動度0.57 cm2 V−1 s−1を示し、高忠実度の符号化・暗号化も実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Nanographene Imides: Balancing the Dissymmetry Factor-Mobility Trade-Off Towards Circularly Polarization-Sensitive Photodetection"
+    },
     "10.1002/ange.5082047": {
       "doi": "10.1002/ange.5082047",
       "posted_at": "2026-08-08T14:06:37+00:00",
@@ -3932,6 +3945,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spiro[16]arene: A Spirocycle-Bridged Macrocycle With Nanocarbon Recognition"
+    },
+    "10.1002/anie.4944869": {
+      "doi": "10.1002/anie.4944869",
+      "posted_at": "2026-10-25T10:42:49+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792924969.070899",
+      "summary_character_count": 123,
+      "summary_japanese": "キラル誘導と環融合でn型nanographene imide (S)-Cy-FT-FPDIを設計し、アニール薄膜は455/595 nmでgph 0.22/0.53、移動度0.57 cm2 V−1 s−1を示し、高忠実度の符号化・暗号化を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Nanographene Imides: Balancing the Dissymmetry Factor-Mobility Trade-Off Towards Circularly Polarization-Sensitive Photodetection"
     },
     "10.1002/anie.5082047": {
       "doi": "10.1002/anie.5082047",
@@ -9561,6 +9587,19 @@
       "summary_used_fallback": false,
       "title": "Aldehyde-Functionalized Eu(III) Helicate for l -Cysteine-Specific CPL Detection through Cyclization-Induced M-Helix Excess"
     },
+    "10.1021/acs.analchem.6c04775": {
+      "doi": "10.1021/acs.analchem.6c04775",
+      "posted_at": "2026-10-25T10:42:55+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792924975.865159",
+      "summary_character_count": 357,
+      "summary_japanese": "Thermal annealing of heptyl ester-substituted poly(diphenylacetylene) in bio-based chiral oils induced a room-temperature-stable memorized helix. The helix was reversibly switched with (S)- and (R)-limonene, and the resulting polymer served as a chiral stationary phase for highly selective separation of biaryls bearing multiple hydrogen-bond donor groups.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioseparation on Helical Poly(diphenylacetylene) Derivatives Obtained by Helicity Induction and Memory Strategy Using Bio-Based Chiral Oils"
+    },
     "10.1021/acs.bioconjchem.6c00313": {
       "doi": "10.1021/acs.bioconjchem.6c00313",
       "posted_at": "2026-10-13T22:46:03+00:00",
@@ -10210,6 +10249,19 @@
       "summary_used_fallback": false,
       "title": "Herbicide Recognition, Sensing, and Removal Enabled by Supramolecular Macrocyclic Chemistry"
     },
+    "10.1021/acs.jafc.6c07006": {
+      "doi": "10.1021/acs.jafc.6c07006",
+      "posted_at": "2026-10-25T10:43:07+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792924987.172159",
+      "summary_character_count": 127,
+      "summary_japanese": "2本のCHIRALPAK IG-Uカラムを用いるSFC-MSで、植物油12種中の飽和・不飽和脂肪酸を含む非対称TG 5種の位置異性体・エナンチオマーを分離・解析し、植物種間でグリセロール骨格上の脂肪酸分布が顕著に異なる非ランダムな立体特異的組成を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereospecific Characterization of Triacylglycerols in Vegetable Oils by Chiral Supercritical Fluid Chromatography and Mass Spectrometry"
+    },
     "10.1021/acs.jafc.6c07395": {
       "doi": "10.1021/acs.jafc.6c07395",
       "posted_at": "2026-09-23T16:06:27+00:00",
@@ -10846,6 +10898,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Reversible Multi-Degree-of-Freedom Photocontrol over Chiroptical Responses of Chiral Plasmonic and Mie-Resonant Nanostructures"
+    },
+    "10.1021/acs.jpclett.6c02586": {
+      "doi": "10.1021/acs.jpclett.6c02586",
+      "posted_at": "2026-10-25T10:43:03+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1792924983.327679",
+      "summary_character_count": 99,
+      "summary_japanese": "単一アリール骨格で、キラリティーと水素結合によりキラルヘテロ原子クラスターを形成し、空間共役・電荷移動を実現した。二～四光子励起蛍光を示し、腫瘍スフェロイドを最大160 μm深部まで三次元撮像した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Heteroatom Cluster Unlocks High-Order Multiphoton Fluorescence in Single-Benzene Luminogens"
     },
     "10.1021/acs.jpclett.6c02669": {
       "doi": "10.1021/acs.jpclett.6c02669",
