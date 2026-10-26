@@ -31,7 +31,8 @@
     "2026-10-23": 20,
     "2026-10-24": 19,
     "2026-10-25": 21,
-    "2026-10-26": 3
+    "2026-10-26": 3,
+    "2026-10-27": 3
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5551,6 +5552,19 @@
       "summary_used_fallback": false,
       "title": "Preparation of Silica-Based Chitosan Chiral Stationary Phases by Two Synthetic Approaches and Evaluation of Their Enantioseparation Performance by HPLC"
     },
+    "10.1002/ceur.70382": {
+      "doi": "10.1002/ceur.70382",
+      "posted_at": "2026-10-26T20:18:29+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793045909.733369",
+      "summary_character_count": 129,
+      "summary_japanese": "本総説は、prochiral基質のdesymmetrizationによるplanar-chiral [2.2]paracyclophanesの触媒的不斉合成を概説し、基質トポロジー、触媒設計、反応経路がenantioinductionを左右する要因を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Strain and Chirality: Catalytic Asymmetric Synthesis of Planar Chiral [2.2]Paracyclophanes"
+    },
     "10.1002/chem.71367": {
       "doi": "10.1002/chem.71367",
       "posted_at": "2026-07-17T21:11:25+00:00",
@@ -10560,6 +10574,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Copper-Catalyzed Desymmetrization toward Planar Chiral Disubstituted [2.2]Paracyclophanes: A Route to Solid-State CPL Materials"
+    },
+    "10.1021/acs.joc.6c01902": {
+      "doi": "10.1021/acs.joc.6c01902",
+      "posted_at": "2026-10-26T20:18:22+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793045902.816909",
+      "summary_character_count": 106,
+      "summary_japanese": "Pd触媒不斉縮合と二重結合異性化による中心不斉から軸不斉への変換を組み合わせ、4位C–N軸不斉と2位CF3中心不斉をもつ2H-chromene indole誘導体を合成し、最高89%収率、97% eeを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of 4-Substituted C-N Axially Chiral 2-(Trifluoromethyl)-2 H -chromene Indole Derivatives via Central-to-Axial Chirality Conversion"
     },
     "10.1021/acs.jpca.6c01773": {
       "doi": "10.1021/acs.jpca.6c01773",
@@ -20010,6 +20037,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Understanding Chiral Chromatography: With Focus on Mechanism and Factors Influencing Enantioseparation"
+    },
+    "10.22541/authorea.15010994/v1": {
+      "doi": "10.22541/authorea.15010994/v1",
+      "posted_at": "2026-10-26T20:18:34+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793045914.296909",
+      "summary_character_count": 126,
+      "summary_japanese": "単分散の内在的キラルB20 PtGaナノ粒子を作製し、CD・CP-Ramanでキラル光学応答を確認した。1-phenylethanol電解合成では転化率98.5%、S体過剰約55%を示し、計算はS中間体・生成物の最大0.2 eVの選択的安定化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiroptical Signatures and Asymmetric Electrosynthesis in Intrinsically Chiral B20 PtGa Crystals"
     },
     "10.23960/jitet.v14i3.10711": {
       "doi": "10.23960/jitet.v14i3.10711",
