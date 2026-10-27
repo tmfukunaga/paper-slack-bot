@@ -31,7 +31,8 @@
     "2026-10-24": 19,
     "2026-10-25": 21,
     "2026-10-26": 3,
-    "2026-10-27": 3
+    "2026-10-27": 3,
+    "2026-10-28": 1
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -13614,6 +13615,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Time-Resolved CPL Sensing of ATP in Complex Biological Matrices Using a Self-Assembled Eu Probe"
+    },
+    "10.1021/jacs.5c22588": {
+      "doi": "10.1021/jacs.5c22588",
+      "posted_at": "2026-10-27T15:22:07+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793114527.309229",
+      "summary_character_count": 102,
+      "summary_japanese": "5種のsecondary alkanethiol由来Ag-SR 1D MOChasで、67–184 °Cの可逆的固液相転移を示した。smSFXで1D wire結晶構造を確認し、融解で緑黄色発光が消失した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solid-Liquid Transitions in 1D Metal-Organic Chalcogenolates"
     },
     "10.1021/jacs.6c00918": {
       "doi": "10.1021/jacs.6c00918",
