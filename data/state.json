@@ -32,7 +32,7 @@
     "2026-10-25": 21,
     "2026-10-26": 3,
     "2026-10-27": 3,
-    "2026-10-28": 1
+    "2026-10-28": 6
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12154,6 +12154,19 @@
       "summary_used_fallback": false,
       "title": "Calix[n]BODIPYs: One-Pot Assembly of Strain-Relieved Methylene-Bridged Macrocycles with Bright Fluorescence"
     },
+    "10.1021/acs.orglett.6c03938": {
+      "doi": "10.1021/acs.orglett.6c03938",
+      "posted_at": "2026-10-27T21:49:33+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793137773.579999",
+      "summary_character_count": 126,
+      "summary_japanese": "新規キラル金属中心Rh(III)錯体により、amido sulfoxonium ylideとα,β-unsaturated 2-acylimidazoleを不斉環化し、3連続不斉中心をもつ1,2,3-三置換cyclopropaneを高選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-at-Metal Rh(III)-Catalyzed Asymmetric Synthesis of Chiral Cyclopropanes from Amido Sulfoxonium Ylides"
+    },
     "10.1021/acs.orglett.6c03941": {
       "doi": "10.1021/acs.orglett.6c03941",
       "posted_at": "2026-10-15T16:18:48+00:00",
@@ -13290,6 +13303,19 @@
       "posted_at": "2026-07-18T07:02:24+00:00",
       "recovered_from_run": 29635004972,
       "score": 29
+    },
+    "10.1021/acsnano.6c09883": {
+      "doi": "10.1021/acsnano.6c09883",
+      "posted_at": "2026-10-27T21:49:52+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793137792.650259",
+      "summary_character_count": 86,
+      "summary_japanese": "ねじり積層した大面積配向CNT膜で、吸着分子が誘起するキラリティーを光学変換し、単一センサーにより水溶液中グルコースのサブμM検出とアラニンのエナンチオマー識別を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrasensitive Enantioselective Chiroptical Sensing with Large-Area Twisted Aligned Carbon Nanotube Films"
     },
     "10.1021/acsnano.6c10780": {
       "doi": "10.1021/acsnano.6c10780",
@@ -15019,6 +15045,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Access to Chiral (Semi)Saturated Silacycles via Rh-Catalyzed Asymmetric Sila-(3+2) Annulation"
+    },
+    "10.1021/jacs.6c13646": {
+      "doi": "10.1021/jacs.6c13646",
+      "posted_at": "2026-10-27T21:49:26+00:00",
+      "score": 57,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793137765.950919",
+      "summary_character_count": 110,
+      "summary_japanese": "ExBox-CPPP由来キラル[2]catenaneで、CPPP環サイズにより動的挙動を制御した。[7]CPPPは速度論的に固定され、[8]・[9]CPPPは室温で動的で、キラルアニオンとのイオン対が立体配座を偏らせた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle Size-Controlled Dynamic and Static Chirality in Donor-Acceptor [2]Catenanes"
     },
     "10.1021/jacs.6c13682": {
       "doi": "10.1021/jacs.6c13682",
@@ -16865,6 +16904,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Signatures of bi-altermagnetism revealed by sublattice-specific circular dichroism in resonant inelastic X-ray scattering"
+    },
+    "10.1038/s41467-026-78179-4": {
+      "doi": "10.1038/s41467-026-78179-4",
+      "posted_at": "2026-10-27T21:49:45+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793137785.836799",
+      "summary_character_count": 124,
+      "summary_japanese": "継続的な細胞供給下で、走化性欠損Dictyostelium discoideum（KI cells）がcmスケールの時計回り多腕らせんを形成した。開放系chiral Vicsek modelにより、内在的キラリティ、極性整列、細胞供給が鍵と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Emergence of chiral multi-armed spirals in an open system of migrating cells under continuous cell supply"
     },
     "10.1038/s41467-026-78226-0": {
       "doi": "10.1038/s41467-026-78226-0",
@@ -23117,6 +23169,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Screening of Phenolic Antioxidant Components in Polygonum perfoliatum L. Using LC×LC-ECD and UPLC-Orbitrap-MS/MS"
+    },
+    "10.3390/molecules31213854": {
+      "doi": "10.3390/molecules31213854",
+      "posted_at": "2026-10-27T21:49:40+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793137780.894189",
+      "summary_character_count": 129,
+      "summary_japanese": "Fe(II)およびCu(II)-(L)-malate配位足場を用いる酸性Fenton型グリセロール酸化で、(R)-glyceraldehydeを選択的に生成した。キラルカラムでeeはFe 60.0%、Cu 29.2%と確認され、酸添加時のみ光学活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Metal-Malate Coordination Scaffolds as Smart Supramolecular Platforms for Asymmetric Induction in Aqueous Radical Chemistry"
     },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
