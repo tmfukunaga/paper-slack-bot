@@ -31,7 +31,7 @@
     "2026-10-25": 21,
     "2026-10-26": 3,
     "2026-10-27": 3,
-    "2026-10-28": 11
+    "2026-10-28": 16
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -436,6 +436,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Peptide Glass-Templated MAPbBr 3 Nanocrystals: Enhanced Circularly Polarized Luminescence Performance and Stability for Chiral Optoelectronic Applications"
+    },
+    "10.1002/adfm.79316": {
+      "doi": "10.1002/adfm.79316",
+      "posted_at": "2026-10-28T12:07:29+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793189249.729789",
+      "summary_character_count": 104,
+      "summary_japanese": "中空閉じ込めCoNi/N-doped carbonとらせんCNC骨格を成長・再構成・変換で接続し、偏極中心を結ぶ損失網を構築した。最適吸収体は反射損失−54.80 dB、実効吸収帯域6.29 GHzを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical Conductive Pathways Bridge Polarization Centers at Hollow-Confined Metal/N-C Interfaces to Form a Coherent Electromagnetic Loss Network"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -10418,6 +10431,19 @@
       "summary_used_fallback": false,
       "title": "Predicting the Radical Character of Open-Shell Nanographenes with the GVB-Based Block-Correlated Coupled Cluster Theory"
     },
+    "10.1021/acs.jmedchem.6c01670": {
+      "doi": "10.1021/acs.jmedchem.6c01670",
+      "posted_at": "2026-10-28T12:07:17+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793189237.213739",
+      "summary_character_count": 113,
+      "summary_japanese": "NTS2選択的macrocyclic NT analogを設計・合成し、M19はNTS1に対し53,000倍超の選択性を示した。M19/M25はラットで脊髄鎮痛活性を示し、N末端アミン除去は高親和性を保ちつつ活性を消失させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemical Determinants of Spinal Analgesia in NTS2-Selective Macrocycles"
+    },
     "10.1021/acs.jmedchem.6c01960": {
       "doi": "10.1021/acs.jmedchem.6c01960",
       "posted_at": "2026-10-21T21:15:13+00:00",
@@ -12204,6 +12230,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Access to Axially Chiral Biaryl Aldehydes via Enantioselective Imine Condensation"
+    },
+    "10.1021/acs.orglett.6c04128": {
+      "doi": "10.1021/acs.orglett.6c04128",
+      "posted_at": "2026-10-28T12:07:02+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793189222.819509",
+      "summary_character_count": 95,
+      "summary_japanese": "C54B2 π骨格をもつエッジBドープnanographeneを設計・合成し、内部Bドープ体と比較した。ドープ位置により電子構造が変化し、青方偏移吸収、狭帯域赤色蛍光、増幅自然放出を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An Edge-Boron-Doped Nanographene with a C54B2 Core: Narrowband Red Fluorescence and Amplified Spontaneous Emission"
     },
     "10.1021/acs.orglett.6c04206": {
       "doi": "10.1021/acs.orglett.6c04206",
@@ -15538,6 +15577,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Double Boron-Deleting Annulation: Modular Access to Chiral Nonalternant B,N-Helicenes with Enhanced Chiroptical Properties"
+    },
+    "10.1021/jacs.6c16928": {
+      "doi": "10.1021/jacs.6c16928",
+      "posted_at": "2026-10-28T12:07:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793189244.514539",
+      "summary_character_count": 362,
+      "summary_japanese": "Electroreductive cobalt-catalyzed asymmetric addition of organohalides to α-imino esters afforded α-quaternary amino acid derivatives with up to 95% ee without stoichiometric metal reductants. Cyclic voltammetry, in situ EPR, DFT, and control experiments showed that the α-imino ester acts as a redox-active ligand and that alkyl-halide SET is turnover-limiting.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Mechanistic Insights of Electroreductive Cobalt-Catalyzed Asymmetric Radical Addition"
     },
     "10.1021/jacs.6c16940": {
       "doi": "10.1021/jacs.6c16940",
@@ -22297,6 +22349,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Construction of inorganic macrocyclic host-guest architectures with high proton conductivity via coordination mode tuning"
+    },
+    "10.26902/jsc_id180952": {
+      "doi": "10.26902/jsc_id180952",
+      "posted_at": "2026-10-28T12:07:12+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793189232.213629",
+      "summary_character_count": 91,
+      "summary_japanese": "O2酸化で得たΔ-[FeCl{(R,R)-Me-Duphos(O)2}2](BF4)·CH2Cl2をX線結晶構造解析し、歪んだ四角錐型κ4O,κCl五配位Fe(II)構造を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crystal Structure of the Chiral Iron(II) Δ-[FeCl{(R,R)-Me-Duphos(O)2}2](BF4)·CH2Cl2 Compound"
     },
     "10.31224/7727": {
       "doi": "10.31224/7727",
