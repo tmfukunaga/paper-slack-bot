@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-26": 20,
     "2026-09-27": 23,
     "2026-09-28": 7,
     "2026-09-29": 3,
@@ -32,7 +31,7 @@
     "2026-10-25": 21,
     "2026-10-26": 3,
     "2026-10-27": 3,
-    "2026-10-28": 6
+    "2026-10-28": 11
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -13272,6 +13271,19 @@
       "summary_used_fallback": false,
       "title": "Termination-Dependent Surface States and Magnetic Fingerprints of Chiral Helimagnet Cr1/3TaS2"
     },
+    "10.1021/acsnano.6c08616": {
+      "doi": "10.1021/acsnano.6c08616",
+      "posted_at": "2026-10-28T03:58:55+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793159935.772789",
+      "summary_character_count": 118,
+      "summary_japanese": "d/l-cysteine修飾COFナノ粒子は、Aβ凝集、ROS、細胞外グルタミン酸、Ca2+異常を抑え、神経活性リガンド受容体シグナルを回復した。ADマウスで認知機能を改善し、d体は細胞内Ca2+過負荷抑制により優れた神経保護を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Functionalized Covalent Organic Frameworks for Enantioselective Neuroprotection with Restored Neuroactive Signaling in Alzheimer’s Disease"
+    },
     "10.1021/acsnano.6c08681": {
       "doi": "10.1021/acsnano.6c08681",
       "posted_at": "2026-09-23T16:06:05+00:00",
@@ -13447,6 +13459,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Anthranyl Bis-sulfoxides with Modular Chiroptical Properties Controlled by an Ionic Stimulus"
     },
+    "10.1021/acsomega.6c07448": {
+      "doi": "10.1021/acsomega.6c07448",
+      "posted_at": "2026-10-28T03:58:46+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793159926.190629",
+      "summary_character_count": 113,
+      "summary_japanese": "GOのエポキシ基とd-/l-lysineのアミノ基を一段階で共有結合させ、N含有量約3%のキラルGOを作製した。透析精製後、porphyrinのキラルJ会合体形成と円二色性により、両者が異なるキラル配置を誘導することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Introducing Chirality into Graphene Oxide Layers through a Facile Amino Acid-Based Covalent Functionalization"
+    },
     "10.1021/acsorginorgau.6c00090": {
       "doi": "10.1021/acsorginorgau.6c00090",
       "posted_at": "2026-10-17T22:53:39+00:00",
@@ -13576,6 +13601,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Late-StageFunctionalization of a Hexa- peri -Benzocoronene-FluorantheneHybrid Influenced by Dynamic Inversionof Helicity"
+    },
+    "10.1021/acsphyschemau.6c00142": {
+      "doi": "10.1021/acsphyschemau.6c00142",
+      "posted_at": "2026-10-28T03:58:37+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793159917.237799",
+      "summary_character_count": 105,
+      "summary_japanese": "内在性および配位子誘起キラルCsPbBr3 PQDのスピン緩和をss-TAで温度依存測定し、CDでキラリティーを確認した。3系はいずれも77 K～室温でほぼ温度非依存の緩和を示し、DP機構が支配的と示唆された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effect of Chirality on Carrier Spin Relaxation Dynamics in CsPbBr3 Perovskite Quantum Dots"
     },
     "10.1021/acspolymersau.6c00119": {
       "doi": "10.1021/acspolymersau.6c00119",
@@ -19128,6 +19166,19 @@
       "summary_used_fallback": false,
       "title": "Chiral symmetry and curvature bounds in de Sitter spacetime"
     },
+    "10.1142/s0217979226400345": {
+      "doi": "10.1142/s0217979226400345",
+      "posted_at": "2026-10-28T03:58:51+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793159931.709329",
+      "summary_character_count": 112,
+      "summary_japanese": "円筒閉じ込め下で最密平面ジグザグから生じる初期らせん相について、キラリティ・閉じ込め・双極子凝集の解析関係を導出し、厳密なキラル格子和計算と良好に一致した。エネルギー応答はキラル歪みに対し調和的だが、細孔径には線形となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Analytical insights into dipolar cohesion in nascent helical packings"
+    },
     "10.1142/s0218127427500052": {
       "doi": "10.1142/s0218127427500052",
       "posted_at": "2026-09-21T23:49:27+00:00",
@@ -22207,6 +22258,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Conformational Dynamics of Cation-Cryptophane Complexes by Ion Mobility Mass Spectrometry"
+    },
+    "10.26434/chemrxiv.15011043/v1": {
+      "doi": "10.26434/chemrxiv.15011043/v1",
+      "posted_at": "2026-10-28T03:58:41+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793159921.551159",
+      "summary_character_count": 107,
+      "summary_japanese": "BN複素環前駆体を光化学的に高度縮環BN aceneへ変換し、置換位置と環融合方向の制御で平面型から二重らせん型へ構造を変化させた。歪んだ骨格でもBN環の局所芳香族性を保ち、長寿命リン光・残光と空気安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photochemical Synthesis of Planar-to-Helical BN Acenes"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
