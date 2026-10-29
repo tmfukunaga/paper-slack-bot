@@ -1,45 +1,19 @@
 {
-  "latest_slot": "2026-10-29T09:00:00+09:00",
+  "latest_slot": "2026-10-29T18:00:00+09:00",
   "latest_status": {
-    "eligible_count": 31,
-    "finished_at": "2026-10-29T00:37:02+00:00",
+    "eligible_count": 26,
+    "finished_at": "2026-10-29T09:19:57+00:00",
     "posted_count": 5,
     "reason": "posted",
     "return_code": 0,
     "run_cap": 5,
-    "scheduled_slot": "2026-10-29T09:00:00+09:00",
+    "scheduled_slot": "2026-10-29T18:00:00+09:00",
     "selected_count": 5,
-    "started_at": "2026-10-29T00:35:49+00:00",
+    "started_at": "2026-10-29T09:18:53+00:00",
     "status": "success",
     "summary_failure_count": 0
   },
   "slots": {
-    "2026-10-15T12:00:00+09:00": {
-      "eligible_count": 21,
-      "finished_at": "2026-10-15T03:11:24+00:00",
-      "posted_count": 5,
-      "reason": "posted",
-      "return_code": 0,
-      "run_cap": 5,
-      "scheduled_slot": "2026-10-15T12:00:00+09:00",
-      "selected_count": 5,
-      "started_at": "2026-10-15T03:10:19+00:00",
-      "status": "success",
-      "summary_failure_count": 0
-    },
-    "2026-10-15T18:00:00+09:00": {
-      "eligible_count": 32,
-      "finished_at": "2026-10-15T10:52:01+00:00",
-      "posted_count": 5,
-      "reason": "posted",
-      "return_code": 0,
-      "run_cap": 5,
-      "scheduled_slot": "2026-10-15T18:00:00+09:00",
-      "selected_count": 5,
-      "started_at": "2026-10-15T10:50:55+00:00",
-      "status": "success",
-      "summary_failure_count": 0
-    },
     "2026-10-16T00:00:00+09:00": {
       "eligible_count": 26,
       "finished_at": "2026-10-15T16:19:19+00:00",
@@ -895,6 +869,19 @@
       "scheduled_slot": "2026-10-29T09:00:00+09:00",
       "selected_count": 5,
       "started_at": "2026-10-29T00:35:49+00:00",
+      "status": "success",
+      "summary_failure_count": 0
+    },
+    "2026-10-29T18:00:00+09:00": {
+      "eligible_count": 26,
+      "finished_at": "2026-10-29T09:19:57+00:00",
+      "posted_count": 5,
+      "reason": "posted",
+      "return_code": 0,
+      "run_cap": 5,
+      "scheduled_slot": "2026-10-29T18:00:00+09:00",
+      "selected_count": 5,
+      "started_at": "2026-10-29T09:18:53+00:00",
       "status": "success",
       "summary_failure_count": 0
     }

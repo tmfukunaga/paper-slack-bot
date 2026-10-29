@@ -31,7 +31,7 @@
     "2026-10-26": 3,
     "2026-10-27": 3,
     "2026-10-28": 16,
-    "2026-10-29": 10
+    "2026-10-29": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -450,6 +450,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Au@Semiconductor Yolk-Shell Nanostructures with Tailored Chiroptical Properties and Chirality-Dependent Photocatalysis"
     },
+    "10.1002/adfm.79291": {
+      "doi": "10.1002/adfm.79291",
+      "posted_at": "2026-10-29T09:19:38+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793265578.196499",
+      "summary_character_count": 132,
+      "summary_japanese": "2つの単一πスタックTSCT単位のacceptorを融合し、cis/trans型多重πスタックTSCT-TADF emitterを開発した。両者のOLEDはEQEmax約27.0%、増感狭帯域OLEDは最大37.0%を示し、キラルtrans体は円偏光発光も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "cis/trans -Through-Space Charge-Transfer Isomers Enabled by Acceptor Fusion for High-Efficiency Thermally-Activated Delayed Fluorescence and Circularly Polarized Emission"
+    },
     "10.1002/adfm.79316": {
       "doi": "10.1002/adfm.79316",
       "posted_at": "2026-10-28T12:07:29+00:00",
@@ -462,6 +475,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helical Conductive Pathways Bridge Polarization Centers at Hollow-Confined Metal/N-C Interfaces to Form a Coherent Electromagnetic Loss Network"
+    },
+    "10.1002/adfm.79331": {
+      "doi": "10.1002/adfm.79331",
+      "posted_at": "2026-10-29T09:19:42+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793265582.941289",
+      "summary_character_count": 132,
+      "summary_japanese": "SCA[6]とLCGのホスト–ゲスト認識・静電相互作用による自己集合保護界面をZn負極に形成し、Zn2+溶媒和とイオン輸送を制御して腐食・デンドライト成長を抑制した。対称セルは3800 h超、Zn||I2電池は14,000サイクル後も87.25%の容量を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembled Supramolecular Host-Guest Composite Enables Interfacial Regulation Toward Dendrite-Free Aqueous Zinc Metal Batteries"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -3881,6 +3907,19 @@
       "summary_used_fallback": false,
       "title": "Ratiometric Luminescent Thermo-Hygrometry, Metal-Dependent Second Harmonic Generation, and Humidity-Variable Magnetic Relaxation in a Manganese(II)-Doped Zinc(II) Molecular Halide"
     },
+    "10.1002/anie.4479729": {
+      "doi": "10.1002/anie.4479729",
+      "posted_at": "2026-10-29T09:19:48+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793265588.034399",
+      "summary_character_count": 101,
+      "summary_japanese": "o-TNP、ZnX2、微量BPから透明な超分子ガラスシンチレータを作製し、ZnI2系は650 μmで28.4 lp mm−1のX線空間分解能を示し、10回再成形後も放射ルミネッセンスの84%を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Zinc-Halide-Integrated Thermally Reprocessable Molecular-Emitter Supramolecular Glass Scintillators for High-Resolution X-Ray Imaging"
+    },
     "10.1002/anie.4560740": {
       "doi": "10.1002/anie.4560740",
       "posted_at": "2026-08-07T09:04:35+00:00",
@@ -5160,6 +5199,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Divergent Chiral Self-Sorting of Covalent Organic Pillars Switched by Subtle Conformational Preferences"
+    },
+    "10.1002/anie.8697238": {
+      "doi": "10.1002/anie.8697238",
+      "posted_at": "2026-10-29T09:19:56+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793265596.592069",
+      "summary_character_count": 111,
+      "summary_japanese": "carbodiimideでpeptideのcarboxyl基を疎水性oxazoloneへ変換し、自己集合ゲル化と脱水収縮を誘導した。濃度で収縮度を制御でき、複雑地形での貨物輸送や狭いチャネルへの進入による回路制御を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemical Reaction-Powered Self-Assembly and Dehydration of Supramolecular Hydrogels for Phase-Transitional Robots"
     },
     "10.1002/anie.8735110": {
       "doi": "10.1002/anie.8735110",
@@ -10911,6 +10963,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "In situ Second-HarmonicGeneration Probing of Magnetic-Field-InducedChiral Stacking in a Radical-Doped Liquid Crystal Monolayer"
+    },
+    "10.1021/acs.jpcc.6c03963": {
+      "doi": "10.1021/acs.jpcc.6c03963",
+      "posted_at": "2026-10-29T09:19:52+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793265591.967949",
+      "summary_character_count": 105,
+      "summary_japanese": "SHG-CD顕微鏡法で見られる主要なキラル応答について、splayed stacking、複屈折とキラルSHGの相互作用、共鳴増強、磁気・電気双極子結合を含む物理モデルを統一的な概念・数理枠組みでレビューした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Foundations of Second Harmonic Generation Circular Dichroism (SHG-CD) Microscopy"
     },
     "10.1021/acs.jpcc.6c05545": {
       "doi": "10.1021/acs.jpcc.6c05545",
