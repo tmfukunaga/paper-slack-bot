@@ -31,7 +31,8 @@
     "2026-10-26": 3,
     "2026-10-27": 3,
     "2026-10-28": 16,
-    "2026-10-29": 15
+    "2026-10-29": 15,
+    "2026-10-30": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4388,6 +4389,19 @@
       "summary_used_fallback": false,
       "title": "Total Synthesis of ent -Kaurenoic Acid Diterpenoids Enabled by Distal Conformational Control in Photoredox Radical Polyene Cyclization"
     },
+    "10.1002/anie.6364342": {
+      "doi": "10.1002/anie.6364342",
+      "posted_at": "2026-10-29T18:01:26+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793296886.506289",
+      "summary_character_count": 130,
+      "summary_japanese": "β-keto estersとstyrenesをphotoredox/キラルnickel二重触媒下でラジカル付加・酸化し、全炭素四級立体中心を持つenantioenriched 1,4-dicarbonylsへ一段階変換した。分子状酸素を終端酸化剤として用いる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Synthesis of Chiral 1,4-Dicarbonyls Bearing All-Carbon Quaternary Stereocenters via Photoredox/Nickel Dual Catalyzed Tandem Radical Addition/Oxidation"
+    },
     "10.1002/anie.6443941": {
       "doi": "10.1002/anie.6443941",
       "posted_at": "2026-07-26T06:05:49+00:00",
@@ -6473,6 +6487,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Wavelength-Tunable Circularly Polarized Emission From Chiral Composite Nanocolloids"
+    },
+    "10.1002/chir.70159": {
+      "doi": "10.1002/chir.70159",
+      "posted_at": "2026-10-29T18:01:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793296891.706249",
+      "summary_character_count": 93,
+      "summary_japanese": "キラルナノ材料の直接的ウイルス不活化と免疫調節を概説し、無機材料は組成・キラリティーの不確実性から創薬に不適と指摘した。分子性アジュバントやAl系アジュバント改質は実用化経路となり得る。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Nanomaterials for Antiviral Applications, From Direct Viral Inactivation to Immune Modulation"
     },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
@@ -17437,6 +17464,19 @@
       "summary_used_fallback": false,
       "title": "A swing-type solid-state host-guest system enabling spontaneous adsorption-desorption cycling"
     },
+    "10.1038/s41467-026-78714-3": {
+      "doi": "10.1038/s41467-026-78714-3",
+      "posted_at": "2026-10-29T18:01:39+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793296899.716489",
+      "summary_character_count": 100,
+      "summary_japanese": "cyclopropeneとterminal alkyneのCo触媒不斉分子間[3+2]環化付加を開発した。キラル配位子の追加で二量化を抑え、多様な高エナンチオ純度cyclopentadieneを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective cobalt-catalyzed intermolecular [3+2] cycloaddition of cyclopropenes with terminal alkynes to access chiral cyclopentadienes"
+    },
     "10.1038/s41467-026-78729-w": {
       "doi": "10.1038/s41467-026-78729-w",
       "posted_at": "2026-10-22T21:12:07+00:00",
@@ -21089,6 +21129,19 @@
       "summary_used_fallback": false,
       "title": "Mitigating Catalyst Leaching and Deactivation in Heterogeneous Hydrogen-Bonding/Tertiary Amine Chiral Organocatalysts"
     },
+    "10.26434/chemrxiv.15007046/v2": {
+      "doi": "10.26434/chemrxiv.15007046/v2",
+      "posted_at": "2026-10-29T18:01:43+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793296903.799739",
+      "summary_character_count": 111,
+      "summary_japanese": "エステル結合型thiourea/tertiary amine不均一系有機触媒の失活経路を計算・実験で解析し、活性低下の根本原因を特定した。これに基づき、寿命と再使用性を改善したtriazole結合型触媒の設計指針を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mitigating Catalyst Leaching and Deactivation in Heterogeneous Hydrogen-Bonding/Tertiary Amine Chiral Organocatalysts"
+    },
     "10.26434/chemrxiv.15007137/v1": {
       "doi": "10.26434/chemrxiv.15007137/v1",
       "posted_at": "2026-08-08T06:20:18+00:00",
@@ -23831,6 +23884,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "UPLOAD-HELIX: A High-Helicity Single-Mode Microwave Haloscope with Low-Noise Interferometric Readout for Ultralight Axion Dark Matter"
+    },
+    "10.3390/universe12110320": {
+      "doi": "10.3390/universe12110320",
+      "posted_at": "2026-10-29T18:01:48+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793296908.414769",
+      "summary_character_count": 111,
+      "summary_japanese": "高エネルギー宇宙ニュートリノのCνB中伝播を用い、左カイラルDirac結合ベクトル媒介子とMajoranaスカラー媒介子のνSI制約を評価した。KM3-230213Aは共鳴感度を重い媒介子へ移し、遠方起源ほど感度を高める。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Left-Chiral Neutrino Secret Interactions Probed by High-Energy Neutrinos Surviving the Cosmic Neutrino Background"
     },
     "10.3390/wevj17100543": {
       "doi": "10.3390/wevj17100543",
