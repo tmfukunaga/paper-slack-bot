@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-27": 23,
     "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
@@ -32,7 +31,7 @@
     "2026-10-26": 3,
     "2026-10-27": 3,
     "2026-10-28": 16,
-    "2026-10-29": 5
+    "2026-10-29": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -437,6 +436,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Peptide Glass-Templated MAPbBr 3 Nanocrystals: Enhanced Circularly Polarized Luminescence Performance and Stability for Chiral Optoelectronic Applications"
+    },
+    "10.1002/adfm.79281": {
+      "doi": "10.1002/adfm.79281",
+      "posted_at": "2026-10-29T00:36:40+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793234200.876079",
+      "summary_character_count": 106,
+      "summary_japanese": "キラルAu@Cu2Oを核に、精密な酸化還元連成イオン交換でCu7S4、Cu2−xSe、CdS、CuFeS2殻を持つyolk-shell構造を合成し、殻依存のキロプティカル応答とキラリティー依存光触媒作用を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Au@Semiconductor Yolk-Shell Nanostructures with Tailored Chiroptical Properties and Chirality-Dependent Photocatalysis"
     },
     "10.1002/adfm.79316": {
       "doi": "10.1002/adfm.79316",
@@ -4883,6 +4895,19 @@
       "summary_used_fallback": false,
       "title": "Aromaticity Engineering of Hybrid Cyanine Dyes for Metabolic Labeling and Bioorthogonal NIR-II Imaging of Gut Microbiota"
     },
+    "10.1002/anie.7882744": {
+      "doi": "10.1002/anie.7882744",
+      "posted_at": "2026-10-29T00:36:57+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793234217.030699",
+      "summary_character_count": 98,
+      "summary_japanese": "細菌膜との立体特異的適合を促す形態のL/D-Au NHを設計し、D-Au NHはL体比43.7%高い機械的抗菌活性を示した。対応する円偏光で光熱変換も増強され、バイオフィルムをほぼ完全に除去した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Gold Nanohedgehogs With Stereocomplementary Synergy for Potent Antibacterial Activity"
+    },
     "10.1002/anie.7913188": {
       "doi": "10.1002/anie.7913188",
       "posted_at": "2026-09-16T20:52:53+00:00",
@@ -7970,6 +7995,19 @@
       "summary_used_fallback": false,
       "title": "Origin of Chirality in Nanobipyramids"
     },
+    "10.1002/smll.76445": {
+      "doi": "10.1002/smll.76445",
+      "posted_at": "2026-10-29T00:36:52+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793234212.704939",
+      "summary_character_count": 126,
+      "summary_japanese": "キラルMOFへachiral MAPbX3量子ドットをin situ封入し、Pb–O・Eu–X配位によるキラリティー移動と散乱フィードバックでCPランダムレーザーを実現した。最適複合体はg_lum=1.52、523–747 nmの波長可変発振を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly Polarized Random Lasing from Perovskite Quantum Dots Embedded in Chiral MOFs"
+    },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
       "posted_at": "2026-09-09T15:55:08+00:00",
@@ -9847,6 +9885,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Molecular Recognition Affords Ligand-Free Au Nanoparticle Catalysts on an Interfacially Inert Supramolecular Support"
+    },
+    "10.1021/acs.chemmater.6c02485": {
+      "doi": "10.1021/acs.chemmater.6c02485",
+      "posted_at": "2026-10-29T00:36:48+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793234208.105179",
+      "summary_character_count": 117,
+      "summary_japanese": "非キラルo-carborane誘導体C-1/C-2と(R/S)-limoneneを共集合させ、形態・複雑性・CPLが異なる階層粒子を構築した。C-1-(S)-limoneneは504 nm、glum=+0.006の強いCPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonclassical Dihydrogen Bond-Directed Assembly of o -Carborane-Based Molecules into Macroscopic Architectures with Circularly Polarized Luminescence"
     },
     "10.1021/acs.chemrev.6c00011": {
       "doi": "10.1021/acs.chemrev.6c00011",
@@ -13550,6 +13601,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Introducing Chirality into Graphene Oxide Layers through a Facile Amino Acid-Based Covalent Functionalization"
+    },
+    "10.1021/acsomega.6c10705": {
+      "doi": "10.1021/acsomega.6c10705",
+      "posted_at": "2026-10-29T00:37:01+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793234221.109639",
+      "summary_character_count": 104,
+      "summary_japanese": "ハライドペロブスカイトで、アキラル無機格子の協同的組織化に由来するキラリティーを整理し、Cs2PbI2Cl2 nanoplateletsとCsPbBr3 nanorodsの顕著なキロプティカル応答例を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality as a Structural Degree of Freedom in Halide Perovskites"
     },
     "10.1021/acsorginorgau.6c00090": {
       "doi": "10.1021/acsorginorgau.6c00090",
