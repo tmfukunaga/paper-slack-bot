@@ -31,7 +31,8 @@
     "2026-10-27": 3,
     "2026-10-28": 16,
     "2026-10-29": 15,
-    "2026-10-30": 15
+    "2026-10-30": 15,
+    "2026-10-31": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2166,6 +2167,19 @@
       "summary_used_fallback": false,
       "title": "Light-Driven Out-of-Equilibrium Helicity Control in a Diarylethene-Helicene Photosystem"
     },
+    "10.1002/ange.5363221": {
+      "doi": "10.1002/ange.5363221",
+      "posted_at": "2026-10-30T17:43:28+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793382208.212099",
+      "summary_character_count": 111,
+      "summary_japanese": "Binaphthyl-pyrene imidazolium macrocyclesは、pH応答的な開閉空孔切替によりFL・CD・CPLを可逆制御し、CD/FL指紋とPCAで全16種のdinucleotide配列を識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "pH-Driven Conformational Switching of Binaphthyl-Pyrene Imidazolium Macrocycles Enables Tunable Chiroptical Recognition of Dinucleotide Sequences in Water"
+    },
     "10.1002/ange.5423925": {
       "doi": "10.1002/ange.5423925",
       "posted_at": "2026-09-05T12:22:31+00:00",
@@ -4192,6 +4206,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Light-Driven Out-of-Equilibrium Helicity Control in a Diarylethene-Helicene Photosystem"
+    },
+    "10.1002/anie.5363221": {
+      "doi": "10.1002/anie.5363221",
+      "posted_at": "2026-10-30T17:43:12+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793382192.253399",
+      "summary_character_count": 130,
+      "summary_japanese": "binaphthyl-pyrene imidazolium macrocyclesは、pHで開閉するキラル空孔とpyrene excimerを備え、FL・CD・CPLを可逆制御した。CD/FL指紋とPCAにより、16種のdinucleotide配列を識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "pH-Driven Conformational Switching of Binaphthyl-Pyrene Imidazolium Macrocycles Enables Tunable Chiroptical Recognition of Dinucleotide Sequences in Water"
     },
     "10.1002/anie.5423925": {
       "doi": "10.1002/anie.5423925",
@@ -15942,6 +15969,19 @@
       "summary_used_fallback": true,
       "title": "Enantioselective Defluorinative C(sp2)-H Allylation of Acrylamides Enabled by CpxRh(III) Catalysis"
     },
+    "10.1021/jacs.6c20486": {
+      "doi": "10.1021/jacs.6c20486",
+      "posted_at": "2026-10-30T17:43:16+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793382196.724009",
+      "summary_character_count": 93,
+      "summary_japanese": "2Dキラルハライドペロブスカイト(R/S-MBA)2PbI4のeeを−100～+100%で変化させ、分光測定と第一原理計算によりCDとgabsの非線形な多数決則的変化を定量的に再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Majority Rule of Enantiomeric Excess in Chiral Halide Perovskites for Continuous Tuning of Chiroptical Properties"
+    },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
       "posted_at": "2026-08-05T21:16:15+00:00",
@@ -17605,6 +17645,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective sp3-sp3 cross-coupling of oxygen-containing heterocycles with cyclopropanols"
+    },
+    "10.1038/s41467-026-78892-0": {
+      "doi": "10.1038/s41467-026-78892-0",
+      "posted_at": "2026-10-30T17:43:23+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793382203.931669",
+      "summary_character_count": 117,
+      "summary_japanese": "Pd/キラルnorbornene協働触媒でaryl bromide結合aryl iodideをエナンチオ選択的に分子内大環化/環化し、平面キラルmacrocyclic phenanthridinone類を高エナンチオ選択性で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Construction of planar-chiral macrocyclic phenanthridinones and their analogues through palladium/norbornene catalysis"
     },
     "10.1038/s41467-026-79056-w": {
       "doi": "10.1038/s41467-026-79056-w",
@@ -22700,6 +22753,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Interplay of Aromaticity and Coulomb Repulsion in the Electronic Structure of a Dimeric Pentafulvalene Upon Multi-Electron Uptake"
+    },
+    "10.26434/chemrxiv.15011241/v1": {
+      "doi": "10.26434/chemrxiv.15011241/v1",
+      "posted_at": "2026-10-30T17:43:32+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793382212.881179",
+      "summary_character_count": 93,
+      "summary_japanese": "極低温マトリクス中でH2SクラスターをVCD測定し、10 Kではらせん状三量体鎖、40 Kでは結晶性籠状五量体ネットワークへ協同的に再編成する温度依存的キラリティを初めて実験的に示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral H2S Ice"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
