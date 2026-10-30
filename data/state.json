@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-28": 7,
     "2026-09-29": 3,
     "2026-09-30": 19,
     "2026-10-01": 35,
@@ -32,7 +31,7 @@
     "2026-10-27": 3,
     "2026-10-28": 16,
     "2026-10-29": 15,
-    "2026-10-30": 5
+    "2026-10-30": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4883,6 +4882,19 @@
       "summary_used_fallback": false,
       "title": "Photocatalytic Isomerization of Stilbenes via Molecular Recognition With a Dual-Function η 6 -Arene Catalyst"
     },
+    "10.1002/anie.7680220": {
+      "doi": "10.1002/anie.7680220",
+      "posted_at": "2026-10-30T00:36:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793320606.170229",
+      "summary_character_count": 122,
+      "summary_japanese": "熱誘起自己組織化するHPB-6CzをPVKにドープし、秩序パッキングで正孔移動度を2.21×10−5から1.55×10−3 cm2 V−1 s−1へ向上させた。ZnCdS/ZnS QLEDはEQE 23.24%、半減寿命17795 hを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thermally Induced Self-Assembly of Toroidal Conjugated Small Molecules Enabling High-Performance Deep Blue Quantum Dot Light-Emitting Diodes"
+    },
     "10.1002/anie.7699472": {
       "doi": "10.1002/anie.7699472",
       "posted_at": "2026-09-08T15:59:15+00:00",
@@ -4986,6 +4998,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Direct Asymmetric Synthesis of Chiral β-Hydroxy-α-Amino Amides via PLP -Inspired Biomimetic Aldol Reaction"
+    },
+    "10.1002/anie.7943895": {
+      "doi": "10.1002/anie.7943895",
+      "posted_at": "2026-10-30T00:36:52+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793320612.959819",
+      "summary_character_count": 320,
+      "summary_japanese": "An annulative strategy constructing and fusing azulene units into acene backbones afforded azulene-fused acenes up to a bis-azulene-fused heptacene analogue. The heptacene analogue showed high ambient stability, a hole mobility of 0.74 cm2 V−1 s−1, and dual anti-Kasha emission with a fluorescence quantum yield of 4.1%.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Efficient Synthesis of Azulene-Fused Acenes: Aromaticity Evolution, Anti-Kasha Emission, and Hole Transport"
     },
     "10.1002/anie.7946369": {
       "doi": "10.1002/anie.7946369",
@@ -6240,6 +6265,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Metathesis Dimerization/Desymmetrization of C s -Symmetric Divinylferrocenes: Enantioselective Deactivation of Vinyl Groups and Subsequent Kinetic Resolution of Chiral Dimers"
+    },
+    "10.1002/chem.71843": {
+      "doi": "10.1002/chem.71843",
+      "posted_at": "2026-10-30T00:36:56+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793320616.707029",
+      "summary_character_count": 127,
+      "summary_japanese": "4-aryl-3-butenoic acidsとhydroxylamine estersを用い、in situ silylationでカルボキシル基の触媒阻害を抑えるCuH触媒不斉ヒドロアミノ化により、γ-アミノ酸を高い位置・エナンチオ選択性で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Copper-Catalyzed Asymmetric Hydroamination of β , γ -Unsaturated Carboxylic Acids for the Synthesis of Chiral γ -Amino Acids"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -10484,6 +10522,19 @@
       "summary_used_fallback": false,
       "title": "“Lego-Brick”-Style Supramolecular Self-Assembly for Naringin-Chlorogenic Acid-Glucosylrutin Carrier-Free Nanoparticles: Self-Assembly Mechanism, Release Behavior, and Anti-Inflammatory Activity"
     },
+    "10.1021/acs.jafc.6c10697": {
+      "doi": "10.1021/acs.jafc.6c10697",
+      "posted_at": "2026-10-30T00:37:04+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793320624.801469",
+      "summary_character_count": 87,
+      "summary_japanese": "植物由来低分子農薬の難水溶性・光分解・揮発性に対し、有効成分の超分子自己集合と生分解性天然高分子担体によるナノ化を総説し、構造特性、集合駆動力、課題と構造指向型設計を論じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Green Nanonization Strategies for Plant-Derived Small-Molecule Pesticides: Supramolecular Self-Assembly and Natural Polymer Carriers"
+    },
     "10.1021/acs.jafc.6c10824": {
       "doi": "10.1021/acs.jafc.6c10824",
       "posted_at": "2026-09-24T21:09:06+00:00",
@@ -11289,6 +11340,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Adsorption of Chiral Ir(III) Complexes on Clay Nanosheets: Optical-Purity-Dependent Packing and Amplified Circularly Polarized Luminescence"
+    },
+    "10.1021/acs.langmuir.6c05177": {
+      "doi": "10.1021/acs.langmuir.6c05177",
+      "posted_at": "2026-10-30T00:37:00+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793320620.722289",
+      "summary_character_count": 125,
+      "summary_japanese": "芳香族zwitterionic surfactant ECBAとDETAからpH応答性CFFを構築し、酸性条件での静電相互作用・水素結合により自己集合ネットワークを形成した。4.0 wt%、pH 3.95で110 °Cまでの熱・せん断安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "pH-Responsive Supramolecular Self-Assembly of an Aromatic Zwitterionic Surfactant-Polyamine System for High-Temperature Clean Fracturing Fluids"
     },
     "10.1021/acs.macromol.6c00949": {
       "doi": "10.1021/acs.macromol.6c00949",
