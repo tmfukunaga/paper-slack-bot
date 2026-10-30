@@ -31,7 +31,7 @@
     "2026-10-27": 3,
     "2026-10-28": 16,
     "2026-10-29": 15,
-    "2026-10-30": 10
+    "2026-10-30": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1555,6 +1555,19 @@
       "summary_used_fallback": false,
       "title": "Reconstructed Bi-Sn Interfacial Sites Coupled with a Supramolecular Cation Cage Enable Low K + Acidic CO 2 Electroreduction to Formate"
     },
+    "10.1002/aenm.71757": {
+      "doi": "10.1002/aenm.71757",
+      "posted_at": "2026-10-30T09:36:21+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793352981.221809",
+      "summary_character_count": 114,
+      "summary_japanese": "TPCとのhost–guest assemblyでPCBMを空間分離・非共有結合固定化し、熱誘起凝集・結晶化・形態変化を抑制した。逆型ペロブスカイト太陽電池は変換効率26.83%、85°Cで1000 h後も96.0%を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Homogenizing Fullerene Contacts by Supramolecular Host-Guest Assembly for Stable Perovskite Solar Cells"
+    },
     "10.1002/agt2.70411": {
       "doi": "10.1002/agt2.70411",
       "posted_at": "2026-08-05T21:16:06+00:00",
@@ -2490,6 +2503,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Co-Assembled Helical Polymer Nanofibers Enable Efficient CO 2 Photoreduction Through Interchain Energy Transfer"
+    },
+    "10.1002/ange.7882744": {
+      "doi": "10.1002/ange.7882744",
+      "posted_at": "2026-10-30T09:36:34+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793352994.131949",
+      "summary_character_count": 105,
+      "summary_japanese": "細菌膜との立体特異的マッチングを促すL/D-Au NHを設計し、D-Au NHはL体比で機械的抗菌活性を43.7%向上させた。対応するCPLによる光熱変換との相乗効果で、細菌バイオフィルムをほぼ完全に除去した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Gold Nanohedgehogs With Stereocomplementary Synergy for Potent Antibacterial Activity"
     },
     "10.1002/ange.7913188": {
       "doi": "10.1002/ange.7913188",
@@ -18321,6 +18347,19 @@
       "summary_used_fallback": false,
       "title": "Active thermodynamics of inertial chiral active gases: Equation of state and edge currents"
     },
+    "10.1073/pnas.2610851123": {
+      "doi": "10.1073/pnas.2610851123",
+      "posted_at": "2026-10-30T09:36:29+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793352989.598629",
+      "summary_character_count": 111,
+      "summary_japanese": "二座・三座配位部位を持つcinquefoil knotにより、Mn(II)、Fe(II)、Co(II)、Cd(II)の2核中間体を経る5核化を制御し、Zn(II)5-knotからの金属交換でNi(II)5-knotも得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Encoding metal coordination pathways and nuclearity by molecular knotting"
+    },
     "10.1073/pnas.2619083123": {
       "doi": "10.1073/pnas.2619083123",
       "posted_at": "2026-10-28T20:04:24+00:00",
@@ -20036,6 +20075,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circular Dichroism in Resonant Photoelectron Diffraction from an Antiferromagnetic Monolayer on a Honeycomb Lattice"
+    },
+    "10.1515/ract-2026-0076": {
+      "doi": "10.1515/ract-2026-0076",
+      "posted_at": "2026-10-30T09:36:25+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793352985.199909",
+      "summary_character_count": 88,
+      "summary_japanese": "HP-α-CDによる211At-FAPIの非共有結合包接で、FAP標的能を保ちつつ溶解性・安定性を改善し、3 h後の非特異的肺集積を約46%低減して腫瘍／非標的比を向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulating radiochemical behaviour and biodistribution of 211 At-FAPI via host-guest complexation"
     },
     "10.15495/epub_ubt_00009527": {
       "doi": "10.15495/epub_ubt_00009527",
@@ -22635,6 +22687,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Photochemical Synthesis of Planar-to-Helical BN Acenes"
+    },
+    "10.26434/chemrxiv.15011124/v1": {
+      "doi": "10.26434/chemrxiv.15011124/v1",
+      "posted_at": "2026-10-30T09:36:13+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793352973.696549",
+      "summary_character_count": 119,
+      "summary_japanese": "[2]DBFsをアルカリ金属還元し、分光・X線結晶構造解析・計算でジアニオンとテトラアニオンを解析した。2電子還元では外側indenylideneが10π芳香族化し、4電子還元では全unitへ電荷が広がり、対カチオン配置も分布に影響した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interplay of Aromaticity and Coulomb Repulsion in the Electronic Structure of a Dimeric Pentafulvalene Upon Multi-Electron Uptake"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
