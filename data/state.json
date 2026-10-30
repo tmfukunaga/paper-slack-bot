@@ -32,7 +32,7 @@
     "2026-10-28": 16,
     "2026-10-29": 15,
     "2026-10-30": 15,
-    "2026-10-31": 10
+    "2026-10-31": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10523,6 +10523,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Directed Self-Assembly of Chiral Metal-Organic Cages and Coordination Polymers from Identical Components and Their Circularly Polarized Luminescence"
     },
+    "10.1021/acs.inorgchem.6c04747": {
+      "doi": "10.1021/acs.inorgchem.6c04747",
+      "posted_at": "2026-10-30T21:56:36+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793397396.056099",
+      "summary_character_count": 125,
+      "summary_japanese": "anthracene-pyridine系空孔配位子とZnCl2またはMnCl2から0D金属ハライドC1/C2を自己集合し、455 nm光下でC2はbenzylamine couplingにTOF 492.66 h−1、5回後も約90%活性を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Host-Guest Inclusion Self-Assembly of Zero-Dimensional Metal Halides for Enhanced Photocatalytic Amine Coupling"
+    },
     "10.1021/acs.inorgchem.6c04759": {
       "doi": "10.1021/acs.inorgchem.6c04759",
       "posted_at": "2026-10-17T02:59:16+00:00",
@@ -18972,6 +18985,19 @@
       "summary_used_fallback": false,
       "title": "Guest-Induced Chirality Transfer in Trimers of Invertible Cylinder-Shaped Macrocycles"
     },
+    "10.1093/bulcsj/uoag144": {
+      "doi": "10.1093/bulcsj/uoag144",
+      "posted_at": "2026-10-30T21:56:32+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793397392.215909",
+      "summary_character_count": 95,
+      "summary_japanese": "原子精密な分子ナノカーボンを機能符号化単位として捉え、トポロジーや曲率、ヘテロ原子配置、集合構造が輸送・光機能・触媒・生体界面などへ読出される過程を総説し、機能起点の閉ループ設計を提唱する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Nanocarbons as Function-Encoding Units: From Atomistic Precision to Collective Function"
+    },
     "10.1093/chemle/upag153": {
       "doi": "10.1093/chemle/upag153",
       "posted_at": "2026-08-04T18:15:34+00:00",
@@ -19518,6 +19544,19 @@
       "summary_used_fallback": false,
       "title": "Chiral altermagnon in MnTe"
     },
+    "10.1126/science.adv9181": {
+      "doi": "10.1126/science.adv9181",
+      "posted_at": "2026-10-30T21:56:22+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793397382.771939",
+      "summary_character_count": 124,
+      "summary_japanese": "角度整合MoTe2/WSe2二層のフラストレートしたmoiré Kondo格子で、磁気Kondo破綻開始時にChern metalを観測した。非局所輸送と電流誘起量子異常Hall破綻によりカイラル端状態を示し、磁気円二色性で磁化プラトーを確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Emergence of Chern metal in a moiré Kondo lattice"
+    },
     "10.1126/science.aeb1157": {
       "doi": "10.1126/science.aeb1157",
       "posted_at": "2026-08-01T15:02:29+00:00",
@@ -19569,6 +19608,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Stereoselective polysubstituted bicyclo[1.1.0]butane synthesis by rhodium-catalyzed kinetic resolution"
+    },
+    "10.1126/science.aem3997": {
+      "doi": "10.1126/science.aem3997",
+      "posted_at": "2026-10-30T21:56:28+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793397388.407439",
+      "summary_character_count": 205,
+      "summary_japanese": "The study shows that the handedness of collective magnetic excitations can identify magnetic order in altermagnets, providing a distinguishing indicator separate from conventional magnetic characteristics.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Caught by chirality"
     },
     "10.1134/s106377882614005x": {
       "doi": "10.1134/s106377882614005x",
@@ -24261,6 +24313,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Volume-Efficiency Trade-Off Optimization of Two-Stage Helical Gearboxes via MOEA/D-DE Algorithm"
+    },
+    "10.3762/bjoc.22.122": {
+      "doi": "10.3762/bjoc.22.122",
+      "posted_at": "2026-10-30T21:56:18+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793397378.622239",
+      "summary_character_count": 109,
+      "summary_japanese": "DHP1・DHP2とCB7、β-/γ-CDおよびHEA修飾CDの包接複合体を固液相で解析し、HPLC定量法、TGA、XRDで形成を確認した。CB7は両DHPの水溶性を高め、CD修飾はDHP2への結合親和性を増大させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular complexes of dihydroazolopyrimidines with macrocyclic receptors: synthesis, rapid analysis, and evaluation"
     },
     "10.3847/1538-4357/ae92f9": {
       "doi": "10.3847/1538-4357/ae92f9",
