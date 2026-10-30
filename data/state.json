@@ -32,7 +32,7 @@
     "2026-10-28": 16,
     "2026-10-29": 15,
     "2026-10-30": 15,
-    "2026-10-31": 5
+    "2026-10-31": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -866,6 +866,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Optically Tunable Chiral Magnetic States and Exchange Engineering via Charge-Transfer Excitation in a van der Waals Antiferromagnet CrPS 4"
+    },
+    "10.1002/adma.75540": {
+      "doi": "10.1002/adma.75540",
+      "posted_at": "2026-10-30T18:01:03+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793383263.295439",
+      "summary_character_count": 127,
+      "summary_japanese": "同一の水素結合性aramide骨格をacyclic foldamer、macrocycle、cageへ段階的に組織化し、ヨウ素吸着を比較した。cageは競合アニオン100倍過剰下で1分子当たり最大84 I3−を捕捉し、モチーフ当たりの吸着寄与も増大した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Progressive Organization of Hydrogen-Bonded Aramide Motifs via Foldamer-Macrocycle-Cage Architectures for Amplified Iodine Capture"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -11797,6 +11810,19 @@
       "summary_used_fallback": false,
       "title": "Low-Dimensional Chiral Perovskites for Polarization-Sensitive Photodetection"
     },
+    "10.1021/acs.nanolett.6c04776": {
+      "doi": "10.1021/acs.nanolett.6c04776",
+      "posted_at": "2026-10-30T18:00:54+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793383254.617249",
+      "summary_character_count": 94,
+      "summary_japanese": "生成AI支援の非経験的構造探索により、短波長近赤外域で完全・広帯域・符号反転の顕著な円二色性を示す単層Siナノ構造メタサーフェスを設計・実証し、サブ波長電磁場動力学から応答機構を解明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-Layer Diverse Chiral Metasurfaces Driven by Generative AI"
+    },
     "10.1021/acs.oprd.6c00194": {
       "doi": "10.1021/acs.oprd.6c00194",
       "posted_at": "2026-09-17T21:23:40+00:00",
@@ -18387,6 +18413,19 @@
       "summary_used_fallback": false,
       "title": "Chirality enhances diffusion in disordered environments"
     },
+    "10.1063/5.0353819": {
+      "doi": "10.1063/5.0353819",
+      "posted_at": "2026-10-30T18:00:50+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793383250.083549",
+      "summary_character_count": 129,
+      "summary_japanese": "分子振動キラリティー指標として、対掌体を識別し対称軸を要しない原子間helicity pseudoscalarを提案し、twisted ethaneと小分子で連続キラリティー尺度と良好に相関した。FPC近似VCD強度は実際のVCD応答の予測には不十分だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral vibrational modes and vibrational circular dichroism"
+    },
     "10.1073/pnas.2532158123": {
       "doi": "10.1073/pnas.2532158123",
       "posted_at": "2026-07-19T22:57:29+00:00",
@@ -19465,6 +19504,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Gate-tunable chiral spin mode in WSe 2 /WS 2 moiré superlattices"
+    },
+    "10.1126/science.adv3196": {
+      "doi": "10.1126/science.adv3196",
+      "posted_at": "2026-10-30T18:01:07+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793383267.379519",
+      "summary_character_count": 100,
+      "summary_japanese": "altermagnetic候補MnTeで、円二色性共鳴非弾性X線散乱によりカイラルマグノンを直接観測した。スピン偏極の運動量依存性はMnTeのaltermagnetic g-wave対称性と一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral altermagnon in MnTe"
     },
     "10.1126/science.aeb1157": {
       "doi": "10.1126/science.aeb1157",
@@ -22766,6 +22818,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral H2S Ice"
+    },
+    "10.26434/chemrxiv.15011274/v1": {
+      "doi": "10.26434/chemrxiv.15011274/v1",
+      "posted_at": "2026-10-30T18:00:59+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793383258.972839",
+      "summary_character_count": 124,
+      "summary_japanese": "Co(II)/Salox触媒によるarylbenzamideとperi置換alkyneの不斉C-H/N-H環化で、peri-C-C軸と独立したC-NまたはN-N軸を一段階で構築し、>99% ee、>20:1 drを達成した。生成物は蛍光性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cobalt-Catalyzed Dual Construction of peri-(C-C) and (C-N)/(N-N) Atropisomerism via C-H Activation"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
