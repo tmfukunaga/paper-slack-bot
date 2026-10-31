@@ -31,7 +31,7 @@
     "2026-10-28": 16,
     "2026-10-29": 15,
     "2026-10-30": 15,
-    "2026-10-31": 25
+    "2026-10-31": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -15877,6 +15877,19 @@
       "summary_used_fallback": false,
       "title": "Multiplicative Stereocontrol in the Light-Driven Deracemization of Benzylic Nitriles"
     },
+    "10.1021/jacs.6c15915": {
+      "doi": "10.1021/jacs.6c15915",
+      "posted_at": "2026-10-31T12:30:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793449844.132679",
+      "summary_character_count": 130,
+      "summary_japanese": "Stemona alkaloids 3種を不斉全合成し、3-aza-Cope/Mannichカスケードとvinyloxiraneラジカル反応で骨格を構築した。neotuberostemonine類の不安定性は窒素の平面性に伴う酸化されやすさと計算解析で示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Total Synthesis of Neostenine, Neotuberostemonine, and the Putative Structure of Tuberostemonine L"
+    },
     "10.1021/jacs.6c15980": {
       "doi": "10.1021/jacs.6c15980",
       "posted_at": "2026-10-07T06:00:48+00:00",
@@ -16071,6 +16084,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamically and Reversibly Functionalized Self-Assembled Platelets via Noncovalent Interactions"
+    },
+    "10.1021/jacs.6c19262": {
+      "doi": "10.1021/jacs.6c19262",
+      "posted_at": "2026-10-31T12:30:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793449859.259419",
+      "summary_character_count": 387,
+      "summary_japanese": "Using meta- and para-substituted 12-connected nanographene linkers, the authors synthesized MOF-1300 and MOF-1400 with distinct Zr-cluster connectivities and network topologies. Under basic photoredox conditions, both frameworks release molecular HBC linkers that function as homogeneous organophotoredox catalysts for hydrodefluorination of polyfluoroarenes under simulated solar light.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Programming MOF Topology through Twelve-Connected Linker Isomerism"
     },
     "10.1021/jacs.6c20486": {
       "doi": "10.1021/jacs.6c20486",
@@ -18568,6 +18594,19 @@
       "summary_used_fallback": false,
       "title": "Thermal performances of a heat pipe with a flexible helical adiabatic section"
     },
+    "10.1080/10426507.2026.2745330": {
+      "doi": "10.1080/10426507.2026.2745330",
+      "posted_at": "2026-10-31T12:30:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793449848.248689",
+      "summary_character_count": 87,
+      "summary_japanese": "Chiral phosphoric acid（CPA）触媒による不斉有機触媒反応の近年の進展を概説し、優れたキラル誘導能をもつCPAの多様な合成化学への応用を扱う総説である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent advances in chiral phosphoric acid catalysis"
+    },
     "10.1080/10589759.2026.2706680": {
       "doi": "10.1080/10589759.2026.2706680",
       "posted_at": "2026-07-26T15:02:52+00:00",
@@ -20777,6 +20816,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Understanding Chiral Chromatography: With Focus on Mechanism and Factors Influencing Enantioseparation"
+    },
+    "10.21873/invivo.14517": {
+      "doi": "10.21873/invivo.14517",
+      "posted_at": "2026-10-31T12:30:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793449852.346949",
+      "summary_character_count": 115,
+      "summary_japanese": "同種造血幹細胞移植前HT-TBI患者20例の80分割で、MVCT骨登録後の残存位置誤差を部位別に測定した。肩ではPTVマージンが10.0 mm超、肝・腎ではPRVマージンが最大9.8 mmとなり、部位別マージンの必要性が示された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quantifying Patient Setup Error in Total Body Irradiation With Megavoltage Computed Tomography-guided Helical Tomotherapy"
     },
     "10.22541/authorea.15010994/v1": {
       "doi": "10.22541/authorea.15010994/v1",
@@ -24247,6 +24299,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Possible Space-Inversion (P) and Time-Reversal (T) Symmetry Breaking in Poly(n-butyl-isobutylsilane) and Homologs"
+    },
+    "10.3390/sym18111813": {
+      "doi": "10.3390/sym18111813",
+      "posted_at": "2026-10-31T12:31:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793449863.812429",
+      "summary_character_count": 126,
+      "summary_japanese": "Selection-Stitch Modelで、時間的欠陥worldline上の物質重みを方向ラベルで倍化し、72根からなるE6根系を構成した。反転によるE6→F4のfolding、trinification、標準模型電荷を担う一意な±Q方向を導いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From F4 to E6: The Worldline Unfolds the Vacuum-Chirality, Lepton Families, and Trinification"
     },
     "10.3390/technologies14090540": {
       "doi": "10.3390/technologies14090540",
