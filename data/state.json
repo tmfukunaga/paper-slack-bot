@@ -31,7 +31,7 @@
     "2026-10-28": 16,
     "2026-10-29": 15,
     "2026-10-30": 15,
-    "2026-10-31": 20
+    "2026-10-31": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3094,6 +3094,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hydrogen-Bond Encoding in a Structurally Minimal Cyclochiral Monomer Enables Assembly of Large Cavities Displaying Supramolecular Isomerism"
+    },
+    "10.1002/anie.1589029": {
+      "doi": "10.1002/anie.1589029",
+      "posted_at": "2026-10-31T11:41:30+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793446890.068049",
+      "summary_character_count": 117,
+      "summary_japanese": "八角形中心をもつphenine dH-ToTをML+CYANで合成し、結晶中でS8対称の非バックリング二量体スタックを形成することを示した。可変温度NMRにより、解離後の単量体はD4h対称としてバックリング動力学を示すと明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Non-Buckling Stacks of Nanocarbon Molecules"
     },
     "10.1002/anie.1681939": {
       "doi": "10.1002/anie.1681939",
@@ -22909,6 +22922,32 @@
       "summary_used_fallback": false,
       "title": "Interplay of Aromaticity and Coulomb Repulsion in the Electronic Structure of a Dimeric Pentafulvalene Upon Multi-Electron Uptake"
     },
+    "10.26434/chemrxiv.15011228/v1": {
+      "doi": "10.26434/chemrxiv.15011228/v1",
+      "posted_at": "2026-10-31T11:41:17+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793446877.047699",
+      "summary_character_count": 113,
+      "summary_japanese": "4つの直線縮環benzotropyliumから成る全共役カチオン性zigzag型nanobeltを、resorcin[4]areneから段階的に合成した。X線解析、分光、計算により、剛直なC4v対称構造と全体芳香族性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of zigzag-type carbocationic nanobelts"
+    },
+    "10.26434/chemrxiv.15011240/v1": {
+      "doi": "10.26434/chemrxiv.15011240/v1",
+      "posted_at": "2026-10-31T11:41:26+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793446885.988409",
+      "summary_character_count": 121,
+      "summary_japanese": "高濃度Li塩下でenantiopure R-およびS-propylene carbonateを用い、帯電黒鉛界面が鏡像対称性を破ることを示した。R-PCはLiF-rich界面により可逆的黒鉛リチエーションを可能にし、S-PCは黒鉛を剥離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charged Interface in Battery Breaks Molecular Chiral Symmetry"
+    },
     "10.26434/chemrxiv.15011241/v1": {
       "doi": "10.26434/chemrxiv.15011241/v1",
       "posted_at": "2026-10-30T17:43:32+00:00",
@@ -22934,6 +22973,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cobalt-Catalyzed Dual Construction of peri-(C-C) and (C-N)/(N-N) Atropisomerism via C-H Activation"
+    },
+    "10.26434/chemrxiv.15011283/v1": {
+      "doi": "10.26434/chemrxiv.15011283/v1",
+      "posted_at": "2026-10-31T11:41:21+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793446881.137459",
+      "summary_character_count": 116,
+      "summary_japanese": "ヘリセンを羽根として初めて導入し、enantiopure aza[7]heliceneから立体特異的にA7H hexamer（HA7H）を合成した。HA7Hはキラル反転のTc 23 °Cを示し、分子プロペラとして最高記録を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicene-Blade Molecular Propellers"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
@@ -24390,6 +24442,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular complexes of dihydroazolopyrimidines with macrocyclic receptors: synthesis, rapid analysis, and evaluation"
+    },
+    "10.3762/bxiv.2026.40.v1": {
+      "doi": "10.3762/bxiv.2026.40.v1",
+      "posted_at": "2026-10-31T11:41:36+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793446896.644339",
+      "summary_character_count": 135,
+      "summary_japanese": "逐次Sonogashira・Suzuki–MiyauraカップリングとBrønsted酸触媒アルキンベンズ環化で軸不斉piceneを初合成した。最終段階ではaryl migrationを伴いbenzo[4]heliceneや平面PAHも生成し、X線解析で構造を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Picene Synthesis and Unexpected Transformations Catalyzed by Brønsted Acid"
     },
     "10.3847/1538-4357/ae92f9": {
       "doi": "10.3847/1538-4357/ae92f9",
