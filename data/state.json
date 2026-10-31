@@ -32,7 +32,7 @@
     "2026-10-29": 15,
     "2026-10-30": 15,
     "2026-10-31": 30,
-    "2026-11-01": 10
+    "2026-11-01": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5812,6 +5812,19 @@
       "summary_used_fallback": false,
       "title": "Guest-Dependent Fluorescence Response by a Highly Emissive s -Tetrazine Pd 2 L 4 Cage"
     },
+    "10.1002/bio.70656": {
+      "doi": "10.1002/bio.70656",
+      "posted_at": "2026-10-31T23:59:15+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491155.760339",
+      "summary_character_count": 129,
+      "summary_japanese": "L-/D-arginineとcitric acidから一段階水熱法でキラルCQDsを合成し、D-penicillamineに対する蛍光認識を評価した。両者は50–10,000 nMで直線応答し、L-Arg-CQDsはD-Arg-CQDsより強い消光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nanoscale Chirality in Carbon Quantum Dots Enables Enantioselective Fluorescence Recognition of D-Penicillamine"
+    },
     "10.1002/bmc.70546": {
       "doi": "10.1002/bmc.70546",
       "posted_at": "2026-07-19T12:17:24+00:00",
@@ -11419,6 +11432,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Deciphering Aggregation-Induced Tunable Circular Dichroism of AuBP@Ag and AuBP@Au Chiral Core-Shell Plasmonic Nanoparticles"
+    },
+    "10.1021/acs.jpclett.6c02747": {
+      "doi": "10.1021/acs.jpclett.6c02747",
+      "posted_at": "2026-10-31T23:59:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491173.426929",
+      "summary_character_count": 117,
+      "summary_japanese": "時間分解EPRでcryptochromeの長距離電荷分離状態の電子スピン偏極を測定し、CISS寄与は二次状態で8%、三次状態で6%未満と示した。モデル計算は微小なCISSでもシグナル状態収率の異方性と方向選択性に影響し得ると予測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Induced Spin Selectivity in Photoinduced Charge-Separations of Cryptochrome: Potential Role in Magnetoreception"
     },
     "10.1021/acs.jpclett.6c02756": {
       "doi": "10.1021/acs.jpclett.6c02756",
@@ -19934,6 +19960,19 @@
       "summary_used_fallback": false,
       "title": "Diagnosing wrong convergence in complex langevin simulations of chiral random matrix theory: Step-size effects and an anti-hermiticity order parameter"
     },
+    "10.1142/s0129183127501798": {
+      "doi": "10.1142/s0129183127501798",
+      "posted_at": "2026-10-31T23:59:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491169.453389",
+      "summary_character_count": 113,
+      "summary_japanese": "滑らかな反発をもつ3つの平面キラル能動粒子の終点条件付き再配置を、変分ニューラル経路と重心分解で解析した。重心運動抑制後の再最適化では、広い配置が投影ペナルティーの91–92%を回復し、終点幾何により回復配置の順位が変化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Collective compensation and boundary selection in three interacting chiral active particles"
+    },
     "10.1142/s0217732326502202": {
       "doi": "10.1142/s0217732326502202",
       "posted_at": "2026-07-24T03:18:39+00:00",
@@ -23131,6 +23170,19 @@
       "summary_used_fallback": false,
       "title": "Charged Interface in Battery Breaks Molecular Chiral Symmetry"
     },
+    "10.26434/chemrxiv.15011240/v2": {
+      "doi": "10.26434/chemrxiv.15011240/v2",
+      "posted_at": "2026-10-31T23:59:19+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491159.780899",
+      "summary_character_count": 128,
+      "summary_japanese": "高Li塩濃度下で、黒鉛電極の帯電界面がPCのR/Sエナンチオマーの鏡像対称性を破り、R-PCはLiF-rich界面層を介して可逆的黒鉛リチエーションを示す一方、S-PCは黒鉛を剥離した。シミュレーションと分光法により、塩濃度と帯電界面の協働作用を同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charged Interface in Battery Breaks Molecular Chiral Symmetry"
+    },
     "10.26434/chemrxiv.15011241/v1": {
       "doi": "10.26434/chemrxiv.15011241/v1",
       "posted_at": "2026-10-30T17:43:32+00:00",
@@ -23208,6 +23260,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Crystal Structure of the Chiral Iron(II) Δ-[FeCl{(R,R)-Me-Duphos(O)2}2](BF4)·CH2Cl2 Compound"
+    },
+    "10.3103/s1060992x26601879": {
+      "doi": "10.3103/s1060992x26601879",
+      "posted_at": "2026-10-31T23:59:25+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491165.817339",
+      "summary_character_count": 134,
+      "summary_japanese": "Richards-Wolf形式論でhybrid vector vortex beamsの集光時ヘリシティを解析し、強度・ヘリシティ密度が放射対称でなく中心対称となることを示した。偏光次数・トポロジカル電荷が各1では、正の最大密度は負の最小密度の絶対値の約半分であった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity Density of Tightly Focused Hybridly Polarized Beam"
     },
     "10.31224/7727": {
       "doi": "10.31224/7727",
