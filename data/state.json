@@ -31,7 +31,8 @@
     "2026-10-28": 16,
     "2026-10-29": 15,
     "2026-10-30": 15,
-    "2026-10-31": 30
+    "2026-10-31": 30,
+    "2026-11-01": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1685,6 +1686,19 @@
       "summary_used_fallback": false,
       "title": "Hydrogen-Bond Encoding in a Structurally Minimal Cyclochiral Monomer Enables Assembly of Large Cavities Displaying Supramolecular Isomerism"
     },
+    "10.1002/ange.1802913": {
+      "doi": "10.1002/ange.1802913",
+      "posted_at": "2026-10-31T16:49:27+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793465367.502869",
+      "summary_character_count": 125,
+      "summary_japanese": "BINOL-phosphate大環状分子を用い、Cu(I)媒介アルキン－アジド環化付加による能動的金属鋳型法で、最大93%収率のキラル[2]rotaxane 17種を合成した。DFT・対照・速度論実験は二核phosphate-Cu2中間体を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Active Metal Template Synthesis of Rotaxanes From BINOL-Phosphate Macrocycles"
+    },
     "10.1002/ange.1803367": {
       "doi": "10.1002/ange.1803367",
       "posted_at": "2026-09-02T21:04:50+00:00",
@@ -3146,6 +3160,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spin-Polarized Interfaces Redirect CO 2 Reduction From CO to Formate"
+    },
+    "10.1002/anie.1802913": {
+      "doi": "10.1002/anie.1802913",
+      "posted_at": "2026-10-31T16:49:18+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793465358.507609",
+      "summary_character_count": 118,
+      "summary_japanese": "BINOL-phosphate大環状配位子を用い、Cu(I)触媒アルキン―アジド環化付加による[2]rotaxaneの活性金属テンプレート合成を確立した。スレッド長と環サイズを検討し、種々のキラルrotaxaneを良好な収率で単離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Active Metal Template Synthesis of Rotaxanes From BINOL-Phosphate Macrocycles"
     },
     "10.1002/anie.1803367": {
       "doi": "10.1002/anie.1803367",
@@ -12634,6 +12661,19 @@
       "summary_used_fallback": false,
       "title": "An Edge-Boron-Doped Nanographene with a C54B2 Core: Narrowband Red Fluorescence and Amplified Spontaneous Emission"
     },
+    "10.1021/acs.orglett.6c04142": {
+      "doi": "10.1021/acs.orglett.6c04142",
+      "posted_at": "2026-10-31T16:49:34+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793465374.020389",
+      "summary_character_count": 125,
+      "summary_japanese": "CPA触媒による2-arylindolesとpyrazolinone ketiminesのaza-Friedel-Crafts付加で、軸性・中心不斉を持つジアステレオマーを高収率・高エナンチオ選択的に得た。X線解析でDKRによる軸不斉形成を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic Atroposelective Aza-Friedel-Crafts Reactions of 2-Arylindoles with Pyrazolinone Ketimines: Simultaneous Construction of Axial and Central Chirality"
+    },
     "10.1021/acs.orglett.6c04206": {
       "doi": "10.1021/acs.orglett.6c04206",
       "posted_at": "2026-10-23T11:00:33+00:00",
@@ -18581,6 +18621,19 @@
       "summary_used_fallback": false,
       "title": "Application of vibrational circular dichroism for determining the absolute configuration of Bubonium graveolens plant major constituents"
     },
+    "10.1080/02678292.2026.2755572": {
+      "doi": "10.1080/02678292.2026.2755572",
+      "posted_at": "2026-10-31T16:49:23+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793465363.358399",
+      "summary_character_count": 113,
+      "summary_japanese": "CsPbBr3量子ドットを異方性ナノプレートレット化し、cholesterol系キラル液晶配位子を導入した。PLQY 91%、gabs=1.4×10−2、glum=8.4×10−3を達成し、5CBに巨視的らせん構造を誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ordered chiral liquid-crystal corona on CsPbBr 3 nanoplatelets enables bright and strong circularly polarized luminescence"
+    },
     "10.1080/08916152.2026.2708635": {
       "doi": "10.1080/08916152.2026.2708635",
       "posted_at": "2026-07-26T12:21:27+00:00",
@@ -19464,6 +19517,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Optical resolution of H/D isotopic chirality via asymmetric C-H amination"
+    },
+    "10.1126/sciadv.aed6149": {
+      "doi": "10.1126/sciadv.aed6149",
+      "posted_at": "2026-10-31T16:49:38+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793465378.396579",
+      "summary_character_count": 116,
+      "summary_japanese": "単層MoS2にサブバンドギャップ円偏光超短パルスを照射し、Floquet工学による時間反転対称性の破れで光Stark・Bloch-Siegertシフトを誘起した。エネルギー縮退を解き、強いカイラリティ選択的第二高調波発生を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-selective second-harmonic response with Floquet engineering"
     },
     "10.1126/sciadv.aed7176": {
       "doi": "10.1126/sciadv.aed7176",
