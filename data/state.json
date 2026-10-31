@@ -32,7 +32,7 @@
     "2026-10-29": 15,
     "2026-10-30": 15,
     "2026-10-31": 30,
-    "2026-11-01": 5
+    "2026-11-01": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3121,6 +3121,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Non-Buckling Stacks of Nanocarbon Molecules"
+    },
+    "10.1002/anie.1640517": {
+      "doi": "10.1002/anie.1640517",
+      "posted_at": "2026-10-31T19:18:45+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793474325.839579",
+      "summary_character_count": 130,
+      "summary_japanese": "強い電子スピン偏極を示すキラルCo3O4は、30 bar CO2下のKHCO3電解液でCO2還元を行い、−0.9 V vs NHEでエタノールの最大ファラデー効率90%を達成した。スピン偏極は電子移動、吸着CO2活性化、*COCHO生成のC–C結合を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin Polarized Chiral Co 3 O 4 Boosts High-Pressure CO 2 Electroreduction to Ethanol With 90% Selectivity"
     },
     "10.1002/anie.1681939": {
       "doi": "10.1002/anie.1681939",
@@ -6761,6 +6774,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Protection of Trityl Cations †"
     },
+    "10.1002/cjoc.70813": {
+      "doi": "10.1002/cjoc.70813",
+      "posted_at": "2026-10-31T19:18:50+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793474330.109569",
+      "summary_character_count": 114,
+      "summary_japanese": "キラルC-dotsとF8BTのらせん状共集合により発光材料を設計し、CP-OLEDで|gEL|=9.4×10−3、輝度18372 cd·m−2、半減寿命22908 hを達成した。同一材料のCPL光検出器はgph=0.3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Carbon Dots-Triggered Conjugated Polymer Assembly for Efficient Circularly Polarized Electroluminescence and Photodetection †"
+    },
     "10.1002/cjoc.70843": {
       "doi": "10.1002/cjoc.70843",
       "posted_at": "2026-10-24T22:53:34+00:00",
@@ -8502,6 +8528,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Virtual Prototyping and Experimental Assessment of Gating-System Optimization for Rapid Investment Casting of Miniaturized Cu-Al-Mn Shape Memory Alloy Helical Springs"
+    },
+    "10.1007/s41061-026-00572-w": {
+      "doi": "10.1007/s41061-026-00572-w",
+      "posted_at": "2026-10-31T19:18:53+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793474333.687769",
+      "summary_character_count": 108,
+      "summary_japanese": "本総説は、pillararene・calixarene・crown etherをMOFへ組み込み、細孔・金属ノードと超分子空孔の協働により、選択的吸着、分離、イオン輸送、センシングを実現する設計原理と課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle-Integrated MOF Nanoarchitectures: Cooperative Active Sites from Pillararenes, Calixarenes, and Crown Ethers"
     },
     "10.1007/s41664-026-00496-w": {
       "doi": "10.1007/s41664-026-00496-w",
@@ -13571,6 +13610,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Phosphoric Acid-Catalyzed Asymmetric Allylic Dearomatization of Tryptamines with Alkoxyallenes"
     },
+    "10.1021/acscatal.6c07488": {
+      "doi": "10.1021/acscatal.6c07488",
+      "posted_at": "2026-10-31T19:18:37+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793474317.762609",
+      "summary_character_count": 118,
+      "summary_japanese": "Pd触媒による9H-fluorenesのC(sp3)–H arylationで、1-bromoarenesからC(sp2)–C(sp3)軸不斉と中心不斉を同時構築し、最高97:3 erを達成した。還元的脱離で両不斉が相乗的に誘起された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pd-Catalyzed Enantioselective C(sp3)-H Arylation for Synergized Construction of C(sp2)-C(sp3) Axial and Central Chirality"
+    },
     "10.1021/acscentsci.6c00969": {
       "doi": "10.1021/acscentsci.6c00969",
       "posted_at": "2026-09-03T02:55:24+00:00",
@@ -16072,6 +16124,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mobius Aromatic Figure-Eight Knotted Three-Dimensional Covalent Organic Frameworks"
+    },
+    "10.1021/jacs.6c17061": {
+      "doi": "10.1021/jacs.6c17061",
+      "posted_at": "2026-10-31T19:18:41+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793474321.834969",
+      "summary_character_count": 126,
+      "summary_japanese": "N-α-cyanoarylidene alkylaminesとpropargylic carbonatesを、銅触媒イミンプロパルギル化・aza-Cope転位で反応させ、中心・軸不斉を併せ持つキラルα-allenyl aminesを高選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Copper-Catalyzed Diastereoselective and Enantioselective α-C-H Allenylation of Alkylamines"
     },
     "10.1021/jacs.6c17351": {
       "doi": "10.1021/jacs.6c17351",
