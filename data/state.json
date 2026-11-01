@@ -31,7 +31,8 @@
     "2026-10-29": 15,
     "2026-10-30": 15,
     "2026-10-31": 30,
-    "2026-11-01": 35
+    "2026-11-01": 35,
+    "2026-11-02": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7319,6 +7320,19 @@
       "summary_used_fallback": false,
       "title": "Flexible circularly polarized light detection enabled by supramolecular chiral assembly within bulk heterojunctions"
     },
+    "10.1002/flm2.70167": {
+      "doi": "10.1002/flm2.70167",
+      "posted_at": "2026-11-01T19:22:18+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793560938.139619",
+      "summary_character_count": 92,
+      "summary_japanese": "有機円偏光室温りん光（CPRTP）材料について、分子キラル設計、凝集制御、性能調整と応用を総説し、結晶工学・マトリックスドーピングが発光非対称因子と発光効率を向上させる進展を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent advances in chiral organic room-temperature phosphorescence with circularly polarized luminescence"
+    },
     "10.1002/fob2.70093": {
       "doi": "10.1002/fob2.70093",
       "posted_at": "2026-09-20T10:37:16+00:00",
@@ -8371,6 +8385,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly Polarized Random Lasing from Perovskite Quantum Dots Embedded in Chiral MOFs"
+    },
+    "10.1002/smll.76590": {
+      "doi": "10.1002/smll.76590",
+      "posted_at": "2026-11-01T19:22:28+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793560948.508939",
+      "summary_character_count": 131,
+      "summary_japanese": "CB[8]・bipyridiniumの2:2錯体をβ-CD修飾ヒアルロン酸で多段階包接し、650 nm赤色発光を40倍増強した。adamantane-diaryletheneにより可逆光スイッチングを付与し、Cy7へのFRETで790 nm近赤外発光を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamically Tunable Near-Infrared Photoluminescence with Long-Wavelength Energy Transfer Engineered by Multilevel Supramolecular Confinement"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -10197,6 +10224,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Novel A2L3-Type Triplet-Stranded Helicate Constructed by Subcomponent Self-Assembly Based on Anion Coordination"
+    },
+    "10.1021/acs.cgd.6c01430": {
+      "doi": "10.1021/acs.cgd.6c01430",
+      "posted_at": "2026-11-01T19:22:24+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793560944.918359",
+      "summary_character_count": 120,
+      "summary_japanese": "RS-phenprocoumonの固体形を実験・計算で解析し、保存されたヘテロキラル二量体を基盤に、enolic OH配向がβ鎖のキラリティー、鎖配置が多形を決める階層的結晶充填を示した。CSPは全観測多形を低エネルギー構造として同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Decoding Hierarchical Crystal Packing in Phenprocoumon and Related 4-Hydroxycoumarins"
     },
     "10.1021/acs.chemmater.6c00828": {
       "doi": "10.1021/acs.chemmater.6c00828",
@@ -13621,6 +13661,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Catalytic Enantioselective De Novo Synthesis of C 1-Symmetric Inherently Chiral Cages"
+    },
+    "10.1021/acscatal.6c05480": {
+      "doi": "10.1021/acscatal.6c05480",
+      "posted_at": "2026-11-01T19:22:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793560954.558499",
+      "summary_character_count": 335,
+      "summary_japanese": "A Cu(I)/chiral bisoxazoline catalyst enabled the asymmetric insertion of α-alkynyl silyl carbenes into B–H bonds, affording chiral propargylic gem-silylboronates. Mechanistic experiments and calculations indicated a concerted carbene insertion, in which aryl-group shielding of the carbene Re face directs borane attack to the Si face.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Copper Catalyzed Highly Enantioselective B-H Insertion of α-Alkynyl-α-silyl Carbenes for the Synthesis of Chiral Propargylic gem -Silylboranes"
     },
     "10.1021/acscatal.6c05675": {
       "doi": "10.1021/acscatal.6c05675",
@@ -20803,6 +20856,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Search for the chiral magnetic effect through beam energy dependence of charge separation using event shape selection"
+    },
+    "10.17576/jkukm-2026-38(7)-19": {
+      "doi": "10.17576/jkukm-2026-38(7)-19",
+      "posted_at": "2026-11-01T19:22:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793560957.731809",
+      "summary_character_count": 129,
+      "summary_japanese": "CATIA V5によるAl6061ポケット加工でConcentric-MultipassとHelical-Multipassを比較し、Ra測定と光学顕微鏡観察を実施した。前者はRa 0.3145–0.655 μmで、後者より表面品質を約20–50%改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Comparative Evaluation of Concentric and Helical Multipass Toolpath Strategies on Surface Integrity in CATIA V5-Based Pocket Milling of Al6061"
     },
     "10.17605/osf.io/g9uzy": {
       "doi": "10.17605/osf.io/g9uzy",
