@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-09-30": 19,
     "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
@@ -32,7 +31,7 @@
     "2026-10-29": 15,
     "2026-10-30": 15,
     "2026-10-31": 30,
-    "2026-11-01": 15
+    "2026-11-01": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1685,6 +1684,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hydrogen-Bond Encoding in a Structurally Minimal Cyclochiral Monomer Enables Assembly of Large Cavities Displaying Supramolecular Isomerism"
+    },
+    "10.1002/ange.1640517": {
+      "doi": "10.1002/ange.1640517",
+      "posted_at": "2026-11-01T00:08:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491735.072409",
+      "summary_character_count": 109,
+      "summary_japanese": "強いスピン偏極を示すキラルCo 3 O 4は、30 bar CO 2下でCO 2電解還元を行い、−0.9 V vs NHEでエタノール選択性90%を達成した。スピン偏極は*COCHO生成のC–Cカップリングを促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin Polarized Chiral Co 3 O 4 Boosts High-Pressure CO 2 Electroreduction to Ethanol With 90% Selectivity"
     },
     "10.1002/ange.1802913": {
       "doi": "10.1002/ange.1802913",
@@ -7852,6 +7864,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Integrated 1D-LC-HRMS and Heart-Cutting 2D-LC-MS for Impurity Profiling and Chiral Separation of Mitiglinide Drug Substance"
+    },
+    "10.1002/rpm2.70088": {
+      "doi": "10.1002/rpm2.70088",
+      "posted_at": "2026-11-01T00:09:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491742.676369",
+      "summary_character_count": 103,
+      "summary_japanese": "CNCのキラル環境に発光団とポリマーを組み込み、架橋網で1.588 sのCP-RTPを実現した。補助CNCフィルターにより発光強度を損なわずCPLの符号とg_lumを−0.7782～0.2663に調整した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cellulose-based films with ultralong full-color circularly polarized room-temperature phosphorescence and bidirectional dissymmetry tuning"
     },
     "10.1002/slct.74092": {
       "doi": "10.1002/slct.74092",
@@ -15852,6 +15877,19 @@
       "summary_used_fallback": false,
       "title": "Complex Fragment Coupling via O -Mesyl Hydroxylamines: Direct Conversion of Primary Amines to Electrophilic Aminating Agents"
     },
+    "10.1021/jacs.6c14908": {
+      "doi": "10.1021/jacs.6c14908",
+      "posted_at": "2026-11-01T00:09:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491749.375169",
+      "summary_character_count": 115,
+      "summary_japanese": "azuleneの位置依存的軌道に基づく交互化学反応性（ACR）モデルを計算と選択的変換で検証し、C–D、C–Br、C–C、C–N、C–S結合形成を制御した。12個の非六員環を含む近赤外吸収性ナノグラフェンなどをモジュラー合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modular Synthesis of Azulene-Derived Nonbenzenoid Arenes through Alternating Chemical Reactivity"
+    },
     "10.1021/jacs.6c14940": {
       "doi": "10.1021/jacs.6c14940",
       "posted_at": "2026-09-08T21:10:37+00:00",
@@ -20077,6 +20115,19 @@
       "summary_used_fallback": false,
       "title": "Diet Composition Modifies Cardiometabolic Phenotype Development in the 4-Vinylcyclohexene Dioxide (VCD) Ovarian Failure Model of Menopause"
     },
+    "10.11591/ijict.v15i4.pp1759-1767": {
+      "doi": "10.11591/ijict.v15i4.pp1759-1767",
+      "posted_at": "2026-11-01T00:08:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491727.843979",
+      "summary_character_count": 115,
+      "summary_japanese": "郊外の2.3 GHz帯5G向けに、三角形テーパーストリップを整合素子とする10巻銅製軸モードヘリカルアンテナを設計・試作した。測定でリターンロス−20.1 dB、VSWR 1.26を示し、安定した単方向放射と十分な利得を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An optimised axial-mode helical antenna at 2.3 GHz for 5G signal enhancement in Suburban Areas"
+    },
     "10.1177/00219983261480358": {
       "doi": "10.1177/00219983261480358",
       "posted_at": "2026-08-25T18:36:50+00:00",
@@ -21012,6 +21063,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiroptical Signatures and Asymmetric Electrosynthesis in Intrinsically Chiral B20 PtGa Crystals"
+    },
+    "10.2340/biid.v13.47065": {
+      "doi": "10.2340/biid.v13.47065",
+      "posted_at": "2026-11-01T00:08:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793491738.767839",
+      "summary_character_count": 123,
+      "summary_japanese": "35%過酸化水素で漂白したウシ歯エナメル質にCPP-ACP、S-PRG、2% sodium fluorideを適用し、コーヒー染色後の色調を測定した。いずれのbioactive gelも漂白エナメル質の染色による色調変化感受性を変化させなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Color stability of bleached enamel after treatment with CPP-ACP, S-PRG, and sodium fluoride"
     },
     "10.23960/jitet.v14i3.10711": {
       "doi": "10.23960/jitet.v14i3.10711",
