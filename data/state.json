@@ -31,7 +31,7 @@
     "2026-10-29": 15,
     "2026-10-30": 15,
     "2026-10-31": 30,
-    "2026-11-01": 30
+    "2026-11-01": 35
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -11184,6 +11184,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Unveiling the Role of Substituent Positioning in Enhancing Circularly Polarized Luminescence of Azaborahelicenes: A Theoretical Insight"
+    },
+    "10.1021/acs.jpca.6c04432": {
+      "doi": "10.1021/acs.jpca.6c04432",
+      "posted_at": "2026-11-01T12:40:32+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793536832.191229",
+      "summary_character_count": 106,
+      "summary_japanese": "分子の利き手を表す二値確率的内部状態を持つ単一UCGビーズでキラル流体をモデル化し、環境依存の状態変化と相互作用を連成した。温度・密度依存のラセミ流体からエナンチオマー富化相への自発的対称性破れを正確に再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultra-Coarse-Grained Modeling of Chiral Molecular Fluids"
     },
     "10.1021/acs.jpca.6c04444": {
       "doi": "10.1021/acs.jpca.6c04444",
@@ -24430,6 +24443,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Metal-Malate Coordination Scaffolds as Smart Supramolecular Platforms for Asymmetric Induction in Aqueous Radical Chemistry"
     },
+    "10.3390/molecules31213858": {
+      "doi": "10.3390/molecules31213858",
+      "posted_at": "2026-11-01T12:40:48+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793536848.816029",
+      "summary_character_count": 102,
+      "summary_japanese": "O-SPINOL骨格由来の置換基の異なる新規キラルリン酸27種を8段階で合成し、嵩高い置換基をもつindoleの求電子的アミノ化に適用した。多くの例でSPINOL由来触媒より高いエナンチオ選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Application of New Chiral Phosphoric Acids Based on oxa-Spirocyclic Diphenol"
+    },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
       "posted_at": "2026-09-03T18:21:05+00:00",
@@ -24442,6 +24468,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Advances and Prospects of Chiral Plasmonic Nanomaterials in Emerging Applications"
+    },
+    "10.3390/nano16211361": {
+      "doi": "10.3390/nano16211361",
+      "posted_at": "2026-11-01T12:40:44+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793536844.853689",
+      "summary_character_count": 109,
+      "summary_japanese": "Vancomycin安定化銅ナノクラスターを合成し、5段階固相抽出で90%以上回収・精製した。キャピラリー電気泳動のキラル選択子として用い、amlodipineとacenocoumarolをエナンチオ選択的に分離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vancomycin-Stabilized Copper Nanoclusters: Isolation by Solid-Phase Extraction and Application in Chiral Capillary Electrophoresis"
     },
     "10.3390/ph19091351": {
       "doi": "10.3390/ph19091351",
@@ -24507,6 +24546,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Design of Chiral Metasurfaces with Independent Control of Quality Factor Based on Guided-Mode Resonance"
+    },
+    "10.3390/physics8040078": {
+      "doi": "10.3390/physics8040078",
+      "posted_at": "2026-11-01T12:40:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793536852.331299",
+      "summary_character_count": 130,
+      "summary_japanese": "三次元Minkowski空間の連続ヘリシティをもつ古典理想気体について、一粒子分布関数から化学ポテンシャル、角運動量、エントロピーを導出した。回転容器内では回転相と非回転相が生じ、低角速度では回転相は負の角運動量をもつ準安定状態としてのみ存在することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Statistical Mechanics and Thermodynamics of a Rotating Continuous-Helicity Gas"
     },
     "10.3390/polym18172040": {
       "doi": "10.3390/polym18172040",
@@ -24988,6 +25040,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetic Rayleigh-Taylor Interchange Shapes Chiral Barbs in Solar Prominences"
+    },
+    "10.3847/2041-8213/aeb1d1": {
+      "doi": "10.3847/2041-8213/aeb1d1",
+      "posted_at": "2026-11-01T12:40:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793536838.551539",
+      "summary_character_count": 100,
+      "summary_japanese": "下部境界の収束運動で駆動した反復コロナジェットの3D熱力学MHD計算で、HJ/Φclosed²は2回の噴出開始時に同程度のピークを示し、積分体積への依存も小さく、噴出条件の診断量となる可能性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Volume Dependence of Helicity-based Eruption Diagnostics in Recurrent Coronal Jets"
     },
     "10.4028/p-8rklk7": {
       "doi": "10.4028/p-8rklk7",
