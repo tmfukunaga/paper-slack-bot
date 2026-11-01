@@ -31,7 +31,7 @@
     "2026-10-29": 15,
     "2026-10-30": 15,
     "2026-10-31": 30,
-    "2026-11-01": 25
+    "2026-11-01": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -501,6 +501,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Self-Assembled Supramolecular Host-Guest Composite Enables Interfacial Regulation Toward Dendrite-Free Aqueous Zinc Metal Batteries"
+    },
+    "10.1002/adfm.79346": {
+      "doi": "10.1002/adfm.79346",
+      "posted_at": "2026-11-01T06:06:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793513162.619459",
+      "summary_character_count": 128,
+      "summary_japanese": "螺旋構造と三層hydrogelからなるJanus濡れ性scaffoldを設計し、Fe3O4による磁場遠隔クランプと温度応答性固定を実現した。in vitro、ex vivo豚心臓、in vivo評価で、心拍模倣条件下の固定性、耐疲労性、血液適合性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bioinspired Helical Hydrogel Scaffold with Janus Wettability for Magnetically and Thermally Responsive Tricuspid Valve Repair"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -6720,6 +6733,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Nanomaterials for Antiviral Applications, From Direct Viral Inactivation to Immune Modulation"
+    },
+    "10.1002/chir.70161": {
+      "doi": "10.1002/chir.70161",
+      "posted_at": "2026-11-01T06:05:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793513153.616509",
+      "summary_character_count": 134,
+      "summary_japanese": "22種のキラルHPLCカラムを用い、酸性・中性・塩基性を含む30種のラセミ体を80–20% aqueous gradientで評価した。MAC-MOD Chiral Amy-6は全化合物群で最高分離能を示し、将来のスクリーニング用に成功確率順の階層的リストを作成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development of an Aqueous HPLC Chiral Separation Flow Scheme for Small Molecules"
     },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
@@ -14278,6 +14304,19 @@
       "summary_used_fallback": false,
       "title": "Multimodal Cyclotriguaiacylene-Fluorescein Supramolecular Sensor for Field-Deployable Monitoring of Strontium in Complex Environmental Waters"
     },
+    "10.1021/acssuschemeng.6c06778": {
+      "doi": "10.1021/acssuschemeng.6c06778",
+      "posted_at": "2026-11-01T06:05:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793513145.521879",
+      "summary_character_count": 103,
+      "summary_japanese": "Tp-Tt COF固定化ADHとEV/DH媒介NADH再生系を統合し、ethyl acetoacetateを98.8%変換して(R)-ethyl 3-hydroxybutyrateを99% eeで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electroenzymatic Synthesis of Chiral Hydroxy Esters via COF-Immobilized Alcohol Dehydrogenase"
+    },
     "10.1021/acssuschemeng.6c07574": {
       "doi": "10.1021/acssuschemeng.6c07574",
       "posted_at": "2026-08-14T05:47:19+00:00",
@@ -18541,6 +18580,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Scalable and Catalytic Asymmetric Synthesis of Atorvastatin from Chiral β-lactone"
+    },
+    "10.1055/a-2991-5542": {
+      "doi": "10.1055/a-2991-5542",
+      "posted_at": "2026-11-01T06:05:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793513158.727819",
+      "summary_character_count": 112,
+      "summary_japanese": "ホウ素・ケイ素修飾キラル配位子の電子的・構造的特性と不斉遷移金属触媒への応用を総説し、Cu触媒シクロプロパン化やIr触媒C–Hホウ素化、Rh触媒水素化などを紹介する。B–M結合の不安定性やケイ素中心不斉構築の課題も整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Boron/Silicon in the Development of Chiral Ligands for Asymmetric Transition-Metal Catalysis"
     },
     "10.1061/jenmdt.emeng-9175": {
       "doi": "10.1061/jenmdt.emeng-9175",
@@ -23636,6 +23688,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Gantry-period-guided modulation factor selection in helical tomotherapy: effects on delivery efficiency, dosimetry and verification accuracy"
+    },
+    "10.3389/fonc.2026.1986573": {
+      "doi": "10.3389/fonc.2026.1986573",
+      "posted_at": "2026-11-01T06:05:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793513149.660719",
+      "summary_character_count": 109,
+      "summary_japanese": "22例の大型腫瘍で三角格子LRTのHT-LRTとVMAT-LRTを対比較し、VPDRの方向別解析を実施した。HT-LRTは標的D95%を維持しつつ谷線量と低線量OAR線量を有意に低減し、VPDRは全指標で高値を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dosimetric feasibility of lattice radiotherapy for bulky tumors: a paired VMAT vs. helical tomotherapy comparison - the STRYKE trial"
     },
     "10.3389/fphy.2026.1919249": {
       "doi": "10.3389/fphy.2026.1919249",
