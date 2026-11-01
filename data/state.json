@@ -31,7 +31,7 @@
     "2026-10-29": 15,
     "2026-10-30": 15,
     "2026-10-31": 30,
-    "2026-11-01": 20
+    "2026-11-01": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -46,6 +46,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral separation of chloroalkanes with the chromatographic column onboard Martian rovers"
+    },
+    "10.1002/adem.71383": {
+      "doi": "10.1002/adem.71383",
+      "posted_at": "2026-11-01T05:40:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793511613.333719",
+      "summary_character_count": 119,
+      "summary_japanese": "ブドウ蔓・真珠層・ザボン果皮に着想した螺旋・千鳥薄肉構造とPUフォーム充填体を作製し、圧縮・落錘試験とCRITIC-entropy評価を実施した。30°曲線段差千鳥構造は375.24 Jを吸収し、充填後の圧潰力効率は86.18%に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanical Responses and Performance Evaluation of Bioinspired Helical and Staggered Thin-Walled Energy-Absorbing Structures"
     },
     "10.1002/adfm.202600059": {
       "doi": "10.1002/adfm.202600059",
@@ -2334,6 +2347,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Matching Effect in Supramolecular Glasses via Charge-Transfer Complexation Between Foldamers and Molecular Containers"
+    },
+    "10.1002/ange.6364342": {
+      "doi": "10.1002/ange.6364342",
+      "posted_at": "2026-11-01T05:39:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793511595.374889",
+      "summary_character_count": 361,
+      "summary_japanese": "A photoredox/nickel dual catalytic protocol converts β-keto esters and styrenes into enantioenriched 1,4-dicarbonyl compounds bearing all-carbon quaternary stereocenters. Single-electron oxidation of Ni-enolate complexes generates α-carbonyl radicals, which add stereoselectively to alkenes, while the resulting benzyl radicals are oxidized by molecular oxygen.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Synthesis of Chiral 1,4-Dicarbonyls Bearing All-Carbon Quaternary Stereocenters via Photoredox/Nickel Dual Catalyzed Tandem Radical Addition/Oxidation"
     },
     "10.1002/ange.6479535": {
       "doi": "10.1002/ange.6479535",
@@ -8411,6 +8437,19 @@
       "summary_used_fallback": false,
       "title": "Helical Cd-Based Frameworks Based on Lactic Acid Derivatives and Their Second-Order Nonlinear Optical Responses"
     },
+    "10.1007/s00220-026-05749-4": {
+      "doi": "10.1007/s00220-026-05749-4",
+      "posted_at": "2026-11-01T05:40:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793511600.482039",
+      "summary_character_count": 308,
+      "summary_japanese": "The note establishes an isomorphism between the extension space of two modules over a vertex algebra and an appropriate first chiral homology of the projective line with coefficients in the corresponding chiral algebra. It consequently provides a homological criterion for the rationality of vertex algebras.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral Homology of the Projective Line and Extensions of Vertex Algebra Modules"
+    },
     "10.1007/s00253-026-13996-7": {
       "doi": "10.1007/s00253-026-13996-7",
       "posted_at": "2026-08-29T18:10:54+00:00",
@@ -10716,6 +10755,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multi-Emission Regulated by Coordination Bonding and Protonation in Chiral Hybrid Zinc(II) Halides for Circularly Polarized Luminescence and Anticounterfeiting"
+    },
+    "10.1021/acs.inorgchem.6c05188": {
+      "doi": "10.1021/acs.inorgchem.6c05188",
+      "posted_at": "2026-11-01T05:40:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793511608.774249",
+      "summary_character_count": 102,
+      "summary_japanese": "二元テルライトSb2TeO7を長時間の酸化的固相処理で合成し、P212121のキラル非中心対称骨格をX線回折で確認した。800 °Cまで安定で、1064 nmでKDP比1.36倍の位相整合SHGを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sb2TeO7: A Chiral Antimony Tellurite with Phase-Matchable Second-Harmonic Generation"
     },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
@@ -17969,6 +18021,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Omnidirectional photonic chiral flatband in nonlocal membrane metasurfaces"
+    },
+    "10.1038/s41467-026-79300-3": {
+      "doi": "10.1038/s41467-026-79300-3",
+      "posted_at": "2026-11-01T05:40:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793511604.872479",
+      "summary_character_count": 133,
+      "summary_japanese": "雄マウスで反復morphine条件付けによりvCA1のPNNが増加し、PV-IN抑制低下とNAcC D1-MSNへの出力増強を示した。ChABCによるPNN分解はこれらの可塑性とmorphine CPP記憶獲得を低下させ、PV-IN化学遺伝学的抑制が障害を緩和した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ventral CA1 perineuronal nets modulate morphine-associated contextual memory via vCA1-NAcC synaptic remodeling in male mice"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
