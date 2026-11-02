@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-01": 35,
     "2026-10-02": 15,
     "2026-10-03": 20,
     "2026-10-04": 30,
@@ -32,7 +31,7 @@
     "2026-10-30": 15,
     "2026-10-31": 30,
     "2026-11-01": 35,
-    "2026-11-02": 5
+    "2026-11-02": 7
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -20376,6 +20375,19 @@
       "summary_used_fallback": false,
       "title": "Repeated impact response and energy absorption of geometrically graded chiral sandwich panels"
     },
+    "10.1177/21695172261499029": {
+      "doi": "10.1177/21695172261499029",
+      "posted_at": "2026-11-02T00:14:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793578443.876209",
+      "summary_character_count": 107,
+      "summary_japanese": "引張力とねじり力を併用するtwisted string helical hose機構を提案し、単一入力で三次元らせん変形を実現した。運動学モデルに基づき、異形物を穏やかに把持するsoft gripperを設計した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Harnessing Both Tensile and Torsional Forces of Twisted String Actuators for Three-Dimensional Helical Deformation"
+    },
     "10.1177/22104917261468814": {
       "doi": "10.1177/22104917261468814",
       "posted_at": "2026-07-23T06:22:03+00:00",
@@ -24807,6 +24819,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Possible Space-Inversion (P) and Time-Reversal (T) Symmetry Breaking in Poly(n-butyl-isobutylsilane) and Homologs"
+    },
+    "10.3390/sym18111783": {
+      "doi": "10.3390/sym18111783",
+      "posted_at": "2026-11-02T00:14:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793578448.020919",
+      "summary_character_count": 90,
+      "summary_japanese": "10 mm冷却水ホース用の外周リング型らせんスワールベーンと同軸集気器を設計・実験評価し、45°・6 LPMで脱気時間を13:14 minから3:07 minへ76.6%短縮した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental Investigation of Inline De-Aeration in Automotive Coolant Using an Outer-Ring Helical Swirl Vane"
     },
     "10.3390/sym18111813": {
       "doi": "10.3390/sym18111813",
