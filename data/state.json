@@ -31,7 +31,7 @@
     "2026-10-30": 15,
     "2026-10-31": 30,
     "2026-11-01": 35,
-    "2026-11-02": 7
+    "2026-11-02": 9
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -18932,6 +18932,19 @@
       "summary_used_fallback": false,
       "title": "Application of vibrational circular dichroism for determining the absolute configuration of Bubonium graveolens plant major constituents"
     },
+    "10.1080/01457632.2026.2752478": {
+      "doi": "10.1080/01457632.2026.2752478",
+      "posted_at": "2026-11-02T10:32:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793615533.137279",
+      "summary_character_count": 86,
+      "summary_japanese": "連続らせんバッフル式シェル＆チューブ熱交換器を数値解析し、局所熱抵抗解析で中心管近傍の高抵抗域を特定した。二層・不均一二層構造を提案し、総合PECを最大9.4%向上させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Heat Transfer Enhancement in Continuous Helical Baffled Shell-and-Tube Heat Exchangers Regarding Local Thermal Resistance Analysis"
+    },
     "10.1080/02678292.2026.2755572": {
       "doi": "10.1080/02678292.2026.2755572",
       "posted_at": "2026-10-31T16:49:23+00:00",
@@ -20049,6 +20062,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supergene control of chiral development in mirror-image flowers"
+    },
+    "10.1126/science.aec2602": {
+      "doi": "10.1126/science.aec2602",
+      "posted_at": "2026-11-02T10:32:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793615537.790649",
+      "summary_character_count": 90,
+      "summary_japanese": "MnF 2を偏極非弾性中性子散乱で解析し、長距離双極子結合によるマグノン分裂と、2モード間で符号反転する非零カイラリティーを観測して、altermagnetismを明確に実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Altermagnetism revealed by polarized neutrons in MnF 2"
     },
     "10.1126/science.aeh1429": {
       "doi": "10.1126/science.aeh1429",
