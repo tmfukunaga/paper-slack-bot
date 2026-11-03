@@ -31,7 +31,8 @@
     "2026-10-31": 30,
     "2026-11-01": 35,
     "2026-11-02": 9,
-    "2026-11-03": 5
+    "2026-11-03": 5,
+    "2026-11-04": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -11718,6 +11719,19 @@
       "summary_used_fallback": false,
       "title": "C-H/pi Mediated Assembly of a Chiral Nanoporous Network for Electron and Molecular Trapping on Au(111)"
     },
+    "10.1021/acs.langmuir.6c04908": {
+      "doi": "10.1021/acs.langmuir.6c04908",
+      "posted_at": "2026-11-03T17:04:17+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793725457.279279",
+      "summary_character_count": 105,
+      "summary_japanese": "POSS-SO3Hとプロトン化l-tryptophanのイオン対でキラル有機無機ナノケージを形成し、頂点間Coulomb相互作用により鎖状集合体を得た。複合体はpH耐性キロプト活性と高いガラス転移温度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Branched Inorganic-Organic Nanocages"
+    },
     "10.1021/acs.langmuir.6c05019": {
       "doi": "10.1021/acs.langmuir.6c05019",
       "posted_at": "2026-10-15T10:51:52+00:00",
@@ -12133,6 +12147,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Low-Dimensional Chiral Perovskites for Polarization-Sensitive Photodetection"
+    },
+    "10.1021/acs.nanolett.6c04143": {
+      "doi": "10.1021/acs.nanolett.6c04143",
+      "posted_at": "2026-11-03T17:04:09+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793725449.588279",
+      "summary_character_count": 118,
+      "summary_japanese": "キラルネマチックcellulose scaffoldの膜厚方向らせんピッチ勾配をUV光重合で形成し、青から赤への構造色調整と膨潤座屈による高さ可変突起を実現した。フォトマスクと組み合わせ、多色3D光学構造と四重チャネル暗号化を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Light-Triggered Self-Growth of 3D Photonic Structures with Vertical Helical-Pitch Gradients Engineering"
     },
     "10.1021/acs.nanolett.6c04776": {
       "doi": "10.1021/acs.nanolett.6c04776",
@@ -16410,6 +16437,19 @@
       "summary_used_fallback": false,
       "title": "pi-Armor: Shape-Complementary Encapsulation of Aromatics"
     },
+    "10.1021/jacs.6c17445": {
+      "doi": "10.1021/jacs.6c17445",
+      "posted_at": "2026-11-03T17:04:27+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793725467.721419",
+      "summary_character_count": 112,
+      "summary_japanese": "4nπ反芳香族分子の共面積層で生じるstacked-ring aromaticityを解析し、圧縮により層間量子干渉と電極接続選好が反転することを示した。d = 2.70 Å付近で磁気反転、安定化、高い層間透過率が一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stacked-Ring Aromaticity Rewires Quantum Interference and Through-Space Transport"
+    },
     "10.1021/jacs.6c17514": {
       "doi": "10.1021/jacs.6c17514",
       "posted_at": "2026-10-10T04:19:00+00:00",
@@ -18164,6 +18204,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Preparation of chiral β-keto acetals/ketals via Ni-catalyzed asymmetric reductive cross-coupling"
+    },
+    "10.1038/s41467-026-78991-y": {
+      "doi": "10.1038/s41467-026-78991-y",
+      "posted_at": "2026-11-03T17:04:04+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793725444.398079",
+      "summary_character_count": 117,
+      "summary_japanese": "Macrocyclic DPA[3]の結晶多形を速度論的に制御し、Type Aでは630 nmまでの光誘起赤色発光、Type Bでは寿命450 ms超の緑色室温りん光を実現した。加熱によりType Aは部分的にType Bへ転移した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polymorph-tuned photoinduced red luminescence and room-temperature phosphorescence in macrocyclic molecular crystals"
     },
     "10.1038/s41467-026-79056-w": {
       "doi": "10.1038/s41467-026-79056-w",
@@ -21245,6 +21298,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Neutrino as an Open Helical Two-Photon State: Mass Scale, Helicity, and Tetrahedral Leading-Order Mixing"
+    },
+    "10.20944/preprints202611.0042.v1": {
+      "doi": "10.20944/preprints202611.0042.v1",
+      "posted_at": "2026-11-03T17:04:22+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793725462.566449",
+      "summary_character_count": 114,
+      "summary_japanese": "光子の螺旋運動仮説mcrγ = ħを、スリット端で生じるヘリシティ依存位相差による回折縞全体の横シフトとして検証する干渉計測を提案した。可視3波長で10−3–10−4 radのヘテロダイン測定により0.2–1%水準で試験できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Fringe-Shift Measurement of the Photon Circulation Radius: A Test of the Helical Identity mcrγ = ħ"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
