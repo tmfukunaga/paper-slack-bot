@@ -32,7 +32,7 @@
     "2026-11-01": 35,
     "2026-11-02": 9,
     "2026-11-03": 5,
-    "2026-11-04": 5
+    "2026-11-04": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4869,6 +4869,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Copper-Catalyzed Vinyl Boron-Wittig Reaction to Form Allenes"
+    },
+    "10.1002/anie.7096194": {
+      "doi": "10.1002/anie.7096194",
+      "posted_at": "2026-11-03T20:46:30+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793738790.873319",
+      "summary_character_count": 87,
+      "summary_japanese": "3D EDとDESPマップにより、Na3[Ag29(BDT)12(TPP)4]の共存する立方晶・三方晶多形を結晶ごとに解析し、Na+の格子位置と硫黄配位環境の相違を解明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3D Electron Diffraction Reveals Counterion Coordination in Co-Existing Polymorphs of Ag 29 Nanocluster"
     },
     "10.1002/anie.7100719": {
       "doi": "10.1002/anie.7100719",
@@ -16515,6 +16528,19 @@
       "summary_used_fallback": false,
       "title": "Majority Rule of Enantiomeric Excess in Chiral Halide Perovskites for Continuous Tuning of Chiroptical Properties"
     },
+    "10.1021/jacs.6c20617": {
+      "doi": "10.1021/jacs.6c20617",
+      "posted_at": "2026-11-03T20:46:46+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793738805.977239",
+      "summary_character_count": 119,
+      "summary_japanese": "GSHをZr-ellagate骨格へ自己集合した生分解性SU-102/pGSHは、電子豊富な官能基の協調配位とAu(III)還元により、e-waste浸出液から金を4385 mg·g−1で選択的に吸着した。使用後は低い植物毒性で分解した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Biodegradable Metal-Organic Framework/Oligomer Composite for Sustainable Gold Recovery and Circular Water Management"
+    },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
       "posted_at": "2026-08-05T21:16:15+00:00",
@@ -23650,6 +23676,45 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicene-Blade Molecular Propellers"
+    },
+    "10.26434/chemrxiv.15011468/v1": {
+      "doi": "10.26434/chemrxiv.15011468/v1",
+      "posted_at": "2026-11-03T20:46:34+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793738794.753599",
+      "summary_character_count": 113,
+      "summary_japanese": "植物由来THCAを触媒的水素化して得たHHCAの9R/9Sジアステレオマーをクロマトグラフィーで分離し、Jurkat T細胞への細胞毒性を評価した。両異性体混合物はTHCAより活性が高く、9S体は9R体より有意に高活性だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Separation of Hexahydrocannabinolic Acid (HHCA) Isomers Have Differential Activity Against Jurkat T Cells"
+    },
+    "10.26434/chemrxiv.15011498/v1": {
+      "doi": "10.26434/chemrxiv.15011498/v1",
+      "posted_at": "2026-11-03T20:46:26+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793738786.472299",
+      "summary_character_count": 107,
+      "summary_japanese": "DPA末端に湾曲π共役部位を導入し、対向する2組のdonor-acceptor相互作用で軸回転を制限した4分子を設計した。最安定のねじれ積層構造が溶液中で優勢となり、動的軸性キラリティーと酸による誘起CDを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intermeshed Diphenylacetylenes with Axial Rotation Restricted by Intramolecular Donor-Acceptor Interactions"
+    },
+    "10.26434/chemrxiv.15011522/v1": {
+      "doi": "10.26434/chemrxiv.15011522/v1",
+      "posted_at": "2026-11-03T20:46:41+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793738801.286339",
+      "summary_character_count": 317,
+      "summary_japanese": "An in situ reaction-driven self-assembly method was developed for semithroughput synthesis of imine-based 2D materials. Its readily tunable molecular structures and reaction kinetics enabled up to seven distinct sheet-forming systems, addressing the rarity of bottom-up self-assembly routes to two-dimensional sheets.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Macroscopic two-dimensional sheets by chemically triggered self-assembly."
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
