@@ -32,7 +32,7 @@
     "2026-11-01": 35,
     "2026-11-02": 9,
     "2026-11-03": 5,
-    "2026-11-04": 10
+    "2026-11-04": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8997,6 +8997,19 @@
       "summary_used_fallback": false,
       "title": "Development and thermo-economic analysis of the helical-bundle heat exchanger concept for exhaust gas heat recovery"
     },
+    "10.1016/j.enconman.2026.122336": {
+      "doi": "10.1016/j.enconman.2026.122336",
+      "posted_at": "2026-11-03T23:24:20+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793748260.904669",
+      "summary_character_count": 106,
+      "summary_japanese": "らせん状地中熱交換器周囲の砂質グラウトへの夏季能動注水を、pyCaRMによる20年シミュレーションで評価した。最良条件では冷房季節効率が5.3%向上し、補機電力込みで4.5%となる一方、暖房効率は約2%低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effect of active grout irrigation in ground heat exchangers with helical-shaped pipe"
+    },
     "10.1016/j.engstruct.2026.123665": {
       "doi": "10.1016/j.engstruct.2026.123665",
       "posted_at": "2026-09-06T02:55:27+00:00",
@@ -16385,6 +16398,19 @@
       "summary_used_fallback": false,
       "title": "Double Boron-Deleting Annulation: Modular Access to Chiral Nonalternant B,N-Helicenes with Enhanced Chiroptical Properties"
     },
+    "10.1021/jacs.6c16883": {
+      "doi": "10.1021/jacs.6c16883",
+      "posted_at": "2026-11-03T23:24:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793748252.843229",
+      "summary_character_count": 117,
+      "summary_japanese": "Ir/アミン/Ni協働触媒により、第一級allylic alcoholを隣接γ,δ-立体中心をもつγ官能化第一級アルコールへ変換した。触媒配置の組合せで全4立体異性体に到達し、最高94%収率、>20:1 dr、>99% eeを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stereodivergent Synthesis of γ-Functionalized Primary Alcohols via Relay-Synergistic Ir/Amine/Ni Catalysis"
+    },
     "10.1021/jacs.6c16928": {
       "doi": "10.1021/jacs.6c16928",
       "posted_at": "2026-10-28T12:07:24+00:00",
@@ -18998,6 +19024,19 @@
       "summary_used_fallback": false,
       "title": "Topological chiral interface phonons beyond mirror symmetry in h-GaN/h-BAs lateral heterostructures"
     },
+    "10.1063/5.0350453": {
+      "doi": "10.1063/5.0350453",
+      "posted_at": "2026-11-03T23:24:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793748248.488609",
+      "summary_character_count": 95,
+      "summary_japanese": "pH 1でZ1・Z2が自己集合するキラルTPPS4ナノチューブについて、Frenkel excitonモデルを構築し、吸収・円二色性スペクトルの実験値との一致から管内分子面の配向を決定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "TPPS4 nanotube molecular structure and linear spectra: Matching theory and experiment"
+    },
     "10.1063/5.0352851": {
       "doi": "10.1063/5.0352851",
       "posted_at": "2026-09-29T22:16:31+00:00",
@@ -19023,6 +19062,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral vibrational modes and vibrational circular dichroism"
+    },
+    "10.1063/5.0354814": {
+      "doi": "10.1063/5.0354814",
+      "posted_at": "2026-11-03T23:24:16+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793748256.548009",
+      "summary_character_count": 96,
+      "summary_japanese": "キラル骨格中の磁性中心の結晶場と酸化状態を調整し、S=0～2のスピン状態で輸送を制御した。軌道再配列に由来する最大70%の電流低下とNDR、Fe(III)接合で0.95超のスピン偏極を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin controlled transport switching with negative differential resistance in a chiral molecular device"
     },
     "10.1073/pnas.2532158123": {
       "doi": "10.1073/pnas.2532158123",
@@ -19920,6 +19972,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Broadband ultrasensitive circular dichroism near the shot-noise limit"
+    },
+    "10.1117/1.jnp.20.042404": {
+      "doi": "10.1117/1.jnp.20.042404",
+      "posted_at": "2026-11-03T23:24:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793748244.838259",
+      "summary_character_count": 121,
+      "summary_japanese": "層を面内変位させた3D chiral woodpile photonic crystalのWeyl点由来TSSをマイクロ波で測定し、端部局在を実証した。数値計算により、層変位でWeyl点とTSSの周波数・波数を系統的に調整できることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topological surface states in a deformed chiral photonic crystal"
     },
     "10.1126/sciadv.aeb0500": {
       "doi": "10.1126/sciadv.aeb0500",
