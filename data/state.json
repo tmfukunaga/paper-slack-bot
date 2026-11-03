@@ -30,7 +30,8 @@
     "2026-10-30": 15,
     "2026-10-31": 30,
     "2026-11-01": 35,
-    "2026-11-02": 9
+    "2026-11-02": 9,
+    "2026-11-03": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -9924,6 +9925,19 @@
       "summary_used_fallback": false,
       "title": "Norcorrole: A Stable Porphyrinoid for Exploration of Antiaromaticity"
     },
+    "10.1021/acs.accounts.6c00513": {
+      "doi": "10.1021/acs.accounts.6c00513",
+      "posted_at": "2026-11-03T13:38:20+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793713100.047299",
+      "summary_character_count": 398,
+      "summary_japanese": "Covalent organic pillars (COPs) with one-dimensional cavities exceeding 2 nm were constructed by dynamic covalent imine condensation of aldehyde-functionalized paracyclophanes and diamines. Systematic linker design tuned cavity geometry, chiral self-sorting, and adaptive guest recognition, while single-crystal X-ray crystallography established the structures of COPs and key host-guest complexes.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Covalent Organic Pillars: Programmable Nanotubular Cavitands"
+    },
     "10.1021/acs.accounts.6c00648": {
       "doi": "10.1021/acs.accounts.6c00648",
       "posted_at": "2026-10-07T18:26:06+00:00",
@@ -12944,6 +12958,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Enantioselective Carbo-Carbonylation of Alkenes Using Formic Acid as a CO Surrogate: Access to Oxindoles Bearing Chiral Quaternary Carbon"
+    },
+    "10.1021/acs.orglett.6c04395": {
+      "doi": "10.1021/acs.orglett.6c04395",
+      "posted_at": "2026-11-03T13:38:02+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793713082.879709",
+      "summary_character_count": 105,
+      "summary_japanese": "Proteaseによる脱対称化型不斉アルドール縮合で、炭素中心とビアリール軸を同時に構築した。温和な高基質濃度条件で多様な軸性・中心性キラルatropisomerを最大>99:1 er、>19:1 drで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Protease-Catalyzed Aldol Condensation To Access Axially and Centrally Chiral Biaryls"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
@@ -16045,6 +16072,19 @@
       "summary_used_fallback": false,
       "title": "Modular Synthesis of Azulene-Derived Nonbenzenoid Arenes through Alternating Chemical Reactivity"
     },
+    "10.1021/jacs.6c14918": {
+      "doi": "10.1021/jacs.6c14918",
+      "posted_at": "2026-11-03T13:38:07+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793713087.330969",
+      "summary_character_count": 100,
+      "summary_japanese": "H2G2-1をエポキシ硬化中に自己集合させ、物理架橋点と犠牲結合を兼ねるH2G2-NPsをin situ形成した。均一分散により、破断伸び92.6%、引張強度66.0%、靱性233%の向上を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Polymer Nanoparticles for Polymer Toughening"
+    },
     "10.1021/jacs.6c14940": {
       "doi": "10.1021/jacs.6c14940",
       "posted_at": "2026-09-08T21:10:37+00:00",
@@ -18112,6 +18152,19 @@
       "summary_used_fallback": false,
       "title": "Construction of planar-chiral macrocyclic phenanthridinones and their analogues through palladium/norbornene catalysis"
     },
+    "10.1038/s41467-026-78937-4": {
+      "doi": "10.1038/s41467-026-78937-4",
+      "posted_at": "2026-11-03T13:38:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793713092.314349",
+      "summary_character_count": 122,
+      "summary_japanese": "Ni/BiOx触媒による不斉還元的クロスカップリングで、α-iodoacetalsまたはα-iodoketalsと酸塩化物・酸無水物から、三級α-キラル中心をもつβ-ketoacetals/β-ketoketalsを温和かつ低コストで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Preparation of chiral β-keto acetals/ketals via Ni-catalyzed asymmetric reductive cross-coupling"
+    },
     "10.1038/s41467-026-79056-w": {
       "doi": "10.1038/s41467-026-79056-w",
       "posted_at": "2026-10-28T20:04:43+00:00",
@@ -18475,6 +18528,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral quantum optics with scalable quantum dot dimers"
+    },
+    "10.1038/s44459-026-00101-7": {
+      "doi": "10.1038/s44459-026-00101-7",
+      "posted_at": "2026-11-03T13:37:58+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793713078.387199",
+      "summary_character_count": 120,
+      "summary_japanese": "回転変換した不等腕ユニットからなる薄型二層キラルメタサーフェスは、X帯域で同一ハンドネスの二重円偏光選択透過を示し、9.672および10.636 GHzでRHCP円二色性0.72、0.75を達成した。等価回路と自由空間測定で応答を検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dual resonant transmissive circular dichroism in a rotationally transformed chiral metasurface"
     },
     "10.1051/e3sconf/202672802001/pdf": {
       "doi": "10.1051/e3sconf/202672802001/pdf",
