@@ -31,7 +31,8 @@
     "2026-11-01": 35,
     "2026-11-02": 9,
     "2026-11-03": 5,
-    "2026-11-04": 18
+    "2026-11-04": 18,
+    "2026-11-05": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10886,6 +10887,19 @@
       "summary_used_fallback": false,
       "title": "Sb2TeO7: A Chiral Antimony Tellurite with Phase-Matchable Second-Harmonic Generation"
     },
+    "10.1021/acs.inorgchem.6c05257": {
+      "doi": "10.1021/acs.inorgchem.6c05257",
+      "posted_at": "2026-11-04T17:15:52+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793812552.349699",
+      "summary_character_count": 110,
+      "summary_japanese": "[18-crown-6]2[(R/S)-C3H12N2][MnCl4]で、N-H···O水素結合によりP1対称性へ低下させ、|glum|=2.6×10−2のCPL、405 Kの可逆相転移、11 pC/Nの圧電応答を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Supramolecular Symmetry-Breaking Strategy for Enhanced Circularly Polarized Luminescence, High-Temperature Phase Transition, and Piezoelectric Response in Chiral Manganese(II) Halides"
+    },
     "10.1021/acs.jafc.6c03256": {
       "doi": "10.1021/acs.jafc.6c03256",
       "posted_at": "2026-07-17T21:11:29+00:00",
@@ -11886,6 +11900,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Janus Nanocylinders: Solvent-Induced Hydrogen-Bond Modulation Yields Structures under Thermodynamic Equilibrium"
+    },
+    "10.1021/acs.macromol.6c02216": {
+      "doi": "10.1021/acs.macromol.6c02216",
+      "posted_at": "2026-11-04T17:15:56+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793812556.856359",
+      "summary_character_count": 96,
+      "summary_japanese": "binaphthyl系本質キラル主鎖ポリマーで置換位置により骨格配座を制御し、線状のS/R-BF-2は液晶秩序とらせんナノファイバーを形成してglum −0.15/+0.14のCPLを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conformation-Driven Circularly Polarized Luminescence Amplification in Intrinsically Chiral Main-Chain Polymers via Liquid Crystalline Self-Assembly"
     },
     "10.1021/acs.nanolett.6c00913": {
       "doi": "10.1021/acs.nanolett.6c00913",
@@ -14173,6 +14200,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Crown Ether-Functionalized Covalent Organic Framework Membranes for Precise Monovalent Cation Separation"
+    },
+    "10.1021/acsnano.6c14930": {
+      "doi": "10.1021/acsnano.6c14930",
+      "posted_at": "2026-11-04T17:16:11+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793812571.841619",
+      "summary_character_count": 113,
+      "summary_japanese": "chiral BDJ由来Dion-Jacobsonペロブスカイトは、深く浸透する非対称水素結合網により分子キラリティーを格子へ効率的に移し、gCD 0.014、gIph 0.12、サブミリ秒応答の無バイアスCPL検出を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Highly Efficient Molecular-to-Lattice Chirality Transfer in Benzene-Based Dion-Jacobson Perovskites for Circularly Polarized Light Detection"
     },
     "10.1021/acsnanoscienceau.6c00082": {
       "doi": "10.1021/acsnanoscienceau.6c00082",
@@ -23806,6 +23846,19 @@
       "summary_used_fallback": true,
       "title": "Macroscopic two-dimensional sheets by chemically triggered self-assembly."
     },
+    "10.26434/chemrxiv.15011590/v1": {
+      "doi": "10.26434/chemrxiv.15011590/v1",
+      "posted_at": "2026-11-04T17:16:01+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793812561.634989",
+      "summary_character_count": 129,
+      "summary_japanese": "BINOL骨格とthiourea基をもつキラルazobenzene 1を合成し、自己会合とchloride結合が光異性化を制御することをNMR・DLSで示した。chloride添加により光定常状態のZ体比は約50%から70%へ増加し、Z体の熱寿命も延長した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Control of Photoswitching in a Chiral Azobenzene"
+    },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
       "posted_at": "2026-08-12T05:46:22+00:00",
@@ -24936,6 +24989,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Design of Chiral Metasurfaces with Independent Control of Quality Factor Based on Guided-Mode Resonance"
+    },
+    "10.3390/photonics13111040": {
+      "doi": "10.3390/photonics13111040",
+      "posted_at": "2026-11-04T17:16:06+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793812566.682819",
+      "summary_character_count": 110,
+      "summary_japanese": "VO2の熱誘起相転移を利用するTHzキラルメタサーフェスは、構造を変えずに狭帯域CD屈折率センシングと広帯域偏光制御を切替え、絶縁状態で最大CD 0.93、金属状態で1.56–3.48 THzにCD 0.5以上を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "VO2-Based Switchable Terahertz Chiral Metasurface for Circular Dichroism Sensing and Broadband Polarization Control"
     },
     "10.3390/physics8040078": {
       "doi": "10.3390/physics8040078",
