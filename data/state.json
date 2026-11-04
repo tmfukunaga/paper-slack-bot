@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-03": 20,
     "2026-10-04": 30,
     "2026-10-05": 7,
     "2026-10-06": 5,
@@ -32,7 +31,7 @@
     "2026-11-01": 35,
     "2026-11-02": 9,
     "2026-11-03": 5,
-    "2026-11-04": 15
+    "2026-11-04": 18
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -9782,6 +9781,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "How much can catenated boronated benzene-like nanobelts enhance effective nonlinear optical responses: A molecular inverse study via DFT"
+    },
+    "10.1016/j.supmat.2026.100148": {
+      "doi": "10.1016/j.supmat.2026.100148",
+      "posted_at": "2026-11-04T01:02:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793754138.182369",
+      "summary_character_count": 120,
+      "summary_japanese": "β-CD包接とHCR自己組織化を統合した超分子ヒドロゲルマイクロニードルを開発し、前処理なしで皮膚間質液中melatoninを10 pMまで検出した。生体ラットで概日変動をELISA・LC-MS/MSと高相関（R² > 0.95）で捉えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Hydrogel Microneedle Platform for In Situ Melatonin Monitoring"
     },
     "10.1016/j.sycrs.2026.100216": {
       "doi": "10.1016/j.sycrs.2026.100216",
@@ -20766,6 +20778,19 @@
       "summary_used_fallback": false,
       "title": "Modeling and simulation of a helical-finned tube integrated with paraffin wax in a solar water heater system for enhanced thermal energy storage performance"
     },
+    "10.13005/ojc/420501": {
+      "doi": "10.13005/ojc/420501",
+      "posted_at": "2026-11-04T01:02:21+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793754141.905789",
+      "summary_character_count": 112,
+      "summary_japanese": "25 °CでL-(+)-tartaric acid水溶液（1–130 g/100 mL）の旋光度を8波長で、導電率を測定した。589 nmの観測旋光度は0.147°–5.166°で、導電率は低濃度で増加後、高濃度で低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical Activity and Conductivity of L-(+)-Tartaric Acid in Aqueous Solutions at Varying Concentrations"
+    },
     "10.1364/josab.606950": {
       "doi": "10.1364/josab.606950",
       "posted_at": "2026-10-18T04:35:05+00:00",
@@ -25925,6 +25950,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Driven Photonic PCR Enables Label-Free Genetic Amplification"
+    },
+    "10.70773/revistatopicos/793468269": {
+      "doi": "10.70773/revistatopicos/793468269",
+      "posted_at": "2026-11-04T01:02:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793754133.767469",
+      "summary_character_count": 110,
+      "summary_japanese": "Art. 226 do CPPの写真による人物認識を、文献・判例分析で検討し、手続軽視と人種プロファイリングが無実の黒人の誤認収監を促すと示した。STJ刑事部の規範性回復は進展だが、拘束的先例でなく警察実務にも及ばない。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A CONVALIDAÇÃO HISTÓRICA DO RECONHECIMENTO FOTOGRÁFICO IRREGULAR (ART. 226 DO CPP) E A ATUAL GUINADA JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ)"
     },
     "10.71229/gep31t82": {
       "doi": "10.71229/gep31t82",
