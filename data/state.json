@@ -32,7 +32,7 @@
     "2026-11-02": 9,
     "2026-11-03": 5,
     "2026-11-04": 18,
-    "2026-11-05": 10
+    "2026-11-05": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -918,6 +918,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulating Local Electronegativity in Covalent Organic Frameworks for Host-Guest Oxygen Reduction"
+    },
+    "10.1002/adma.75570": {
+      "doi": "10.1002/adma.75570",
+      "posted_at": "2026-11-04T23:40:49+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793835649.583569",
+      "summary_character_count": 110,
+      "summary_japanese": "Δ-Si6を共縮合したsuprasilica nanosievesは、環状脂肪族を排除して芳香族を選択吸着した。Δ-SiN20はbenzene/cyclohexane選択性23.5を示し、液相でも芳香族選択性を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Suprasilica Nanosieves for Selective Capture of Aromatics Over Cyclic Aliphatics in Hydrocarbon Feedstocks"
+    },
+    "10.1002/adma.75582": {
+      "doi": "10.1002/adma.75582",
+      "posted_at": "2026-11-04T23:40:38+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793835638.848159",
+      "summary_character_count": 121,
+      "summary_japanese": "NiY diatomic catalystをCuナノ層に閉じ込め、Al上に厚さ46.3 μmの超長らせんCNFs 3Dネットワークをin situ成長させた。Na析出を均一化し、半電池で3000 hにわたり99.49%のクーロン効率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultra-Long Helical CNFs 3D-Networks as High-Conductivity Current Collectors for Efficient Sodium Deposition"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -10809,6 +10835,19 @@
       "summary_used_fallback": false,
       "title": "Hierarchical Assembly of Gold Nanoclusters Mediated by Kinetic Aggregation of Amphiphilic Amino Acid for Generation of Enhanced Emission and Tunable CPL-Activity"
     },
+    "10.1021/acs.inorgchem.6c04200": {
+      "doi": "10.1021/acs.inorgchem.6c04200",
+      "posted_at": "2026-11-04T23:41:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793835662.591549",
+      "summary_character_count": 123,
+      "summary_japanese": "XBe6Au6²⁺（X＝Si, Ge）のD6h対称グローバル最安定構造として、Be6環と3σ・1π電子共有結合する平面六配位X原子を理論設計した。二重芳香族性と幾何学的適合により高い解離・平面性保持安定性を示し、[10]CPP包接錯体も形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "XBe6Au62+ (X = Si, Ge): Electron-Sharing Covalently Bonded Planar Hexacoordinate Silicon and Germanium Atoms"
+    },
     "10.1021/acs.inorgchem.6c04220": {
       "doi": "10.1021/acs.inorgchem.6c04220",
       "posted_at": "2026-09-19T03:07:24+00:00",
@@ -14357,6 +14396,19 @@
       "summary_used_fallback": false,
       "title": "Introducing Chirality into Graphene Oxide Layers through a Facile Amino Acid-Based Covalent Functionalization"
     },
+    "10.1021/acsomega.6c08777": {
+      "doi": "10.1021/acsomega.6c08777",
+      "posted_at": "2026-11-04T23:40:57+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793835657.878819",
+      "summary_character_count": 349,
+      "summary_japanese": "MicroED, NMR spectroscopy, and molecular docking were used to characterize the conformational ensembles of pacritinib and zotiraciclib. Their conformational adaptability, involving macrocyclic cores, aromatic torsions, and substituent orientations, correlated with physicochemical properties relevant to aqueous solubility and membrane permeability.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Connecting Conformational Landscapes with Bioactivity in Macrocyclic Kinase Inhibitors"
+    },
     "10.1021/acsomega.6c10705": {
       "doi": "10.1021/acsomega.6c10705",
       "posted_at": "2026-10-29T00:37:01+00:00",
@@ -16488,6 +16540,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamic Supramolecular Helicity in a Multi-Aluminum Porphyrin Catalyst Enables Stereocontrolled Synthesis of Ultrahigh-Molecular-Weight Isotactic Poly(propylene oxide)"
+    },
+    "10.1021/jacs.6c16623": {
+      "doi": "10.1021/jacs.6c16623",
+      "posted_at": "2026-11-04T23:40:43+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793835643.506659",
+      "summary_character_count": 130,
+      "summary_japanese": "bio-organic NGを用い、化学燃料による一過性縮合と光を協調させ、コロイド粒子からキラル結晶へ至る散逸的自己集合を実現した。結晶は光誘起ラジカルアニオン生成を示し、自己消去型書き込みや論理パターニング、(opto-)electronic特性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergistic Dual-Fuel-Driven Dissipative (Opto-)Electronic Crystals: Unraveling Spatiotemporal Multifunctionality Beyond Equilibrium"
     },
     "10.1021/jacs.6c16625": {
       "doi": "10.1021/jacs.6c16625",
