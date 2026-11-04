@@ -32,7 +32,7 @@
     "2026-11-02": 9,
     "2026-11-03": 5,
     "2026-11-04": 18,
-    "2026-11-05": 5
+    "2026-11-05": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6761,6 +6761,19 @@
       "summary_used_fallback": false,
       "title": "Development of an Aqueous HPLC Chiral Separation Flow Scheme for Small Molecules"
     },
+    "10.1002/chir.70162": {
+      "doi": "10.1002/chir.70162",
+      "posted_at": "2026-11-04T19:21:31+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793820091.716369",
+      "summary_character_count": 109,
+      "summary_japanese": "キラル水素結合有機フレームワーク（CHOFs）の直接組立、後修飾、間接誘導による構築法と代表例を整理し、分離、触媒、光学、光熱変換、バイオ医療での応用性能とMOFs・COFsに対する比較上の利点、課題・展望を総説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Hydrogen-Bonded Organic Frameworks: From Assembly Strategies to Emerging Applications"
+    },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
       "posted_at": "2026-08-10T10:41:00+00:00",
@@ -9991,6 +10004,19 @@
       "summary_used_fallback": false,
       "title": "Structure-Modulated Circular Dichroism in Chiral Plasmonic Nanoparticles"
     },
+    "10.1021/acs.accounts.6c00729": {
+      "doi": "10.1021/acs.accounts.6c00729",
+      "posted_at": "2026-11-04T19:21:17+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793820077.785629",
+      "summary_character_count": 90,
+      "summary_japanese": "平面キラルcyclophaneの不斉触媒合成と配座安定性を総説し、500種超を合成した。環サイズ、芳香環・ansa鎖置換基の立体障害と位置が回転障壁を協同的に左右することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Planar-Chiral Cyclophanes: From Synthetic Strategies to Configurational Stability Control"
+    },
     "10.1021/acs.analchem.6c01338": {
       "doi": "10.1021/acs.analchem.6c01338",
       "posted_at": "2026-10-19T12:07:23+00:00",
@@ -12199,6 +12225,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "In Situ Analysis of Chiral Gold Nanorod Growth by Nanofluidic Liquid-Phase Electron Microscopy"
+    },
+    "10.1021/acs.nanolett.6c03929": {
+      "doi": "10.1021/acs.nanolett.6c03929",
+      "posted_at": "2026-11-04T19:21:36+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793820096.564599",
+      "summary_character_count": 121,
+      "summary_japanese": "反強磁性Ni2I2積層を半Chern層として設計し、第一原理計算でバルクギャップ163 meVのaxion insulatorを予測した。層間結合と横方向カンチングにより、終端依存のキラルヒンジチャネルの位置・伝搬方向・縦スピンを制御できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Half-Chern-Layer Axion Insulator with Reconfigurable Spin-Chirality Hinges"
     },
     "10.1021/acs.nanolett.6c04034": {
       "doi": "10.1021/acs.nanolett.6c04034",
@@ -16346,6 +16385,19 @@
       "summary_used_fallback": false,
       "title": "Asymmetric Total Synthesis of Neostenine, Neotuberostemonine, and the Putative Structure of Tuberostemonine L"
     },
+    "10.1021/jacs.6c15941": {
+      "doi": "10.1021/jacs.6c15941",
+      "posted_at": "2026-11-04T19:21:27+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793820087.081889",
+      "summary_character_count": 127,
+      "summary_japanese": "pyrene/phenanthreneを異核配位子化したAu(I) bisphosphine錯体では、T2媒介経路により室温pyreneりん光を示した。[Au(CN)2]−添加で蛍光が6倍増強し、水素結合とπ···π相互作用により発光ワイヤーを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charge-Transfer Engineering Controls Excited-State Dynamics and Supramolecular Assembly in Luminescent Au(I) Complexes"
+    },
     "10.1021/jacs.6c15980": {
       "doi": "10.1021/jacs.6c15980",
       "posted_at": "2026-10-07T06:00:48+00:00",
@@ -16527,6 +16579,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "pi-Armor: Shape-Complementary Encapsulation of Aromatics"
+    },
+    "10.1021/jacs.6c17438": {
+      "doi": "10.1021/jacs.6c17438",
+      "posted_at": "2026-11-04T19:21:22+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793820082.815619",
+      "summary_character_count": 120,
+      "summary_japanese": "PDIとHBCをspirobifluoreneで連結したPDI-spiro-NGを合成し、折れ曲がった共面配座と電荷分離を確認した。無極性溶媒でS1寿命は約100 nsとなり、一重項酸素ダウンコンバージョン量子収率116 ± 4%を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interplay between Charge Separation and Singlet Down-Conversion in a Spiro Perylene Diimide-Nanographene Conjugate"
     },
     "10.1021/jacs.6c17445": {
       "doi": "10.1021/jacs.6c17445",
