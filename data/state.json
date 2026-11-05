@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-04": 30,
     "2026-10-05": 7,
     "2026-10-06": 5,
     "2026-10-07": 25,
@@ -32,7 +31,7 @@
     "2026-11-02": 9,
     "2026-11-03": 5,
     "2026-11-04": 18,
-    "2026-11-05": 15
+    "2026-11-05": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8438,6 +8437,19 @@
       "summary_used_fallback": false,
       "title": "Circularly Polarized Random Lasing from Perovskite Quantum Dots Embedded in Chiral MOFs"
     },
+    "10.1002/smll.76554": {
+      "doi": "10.1002/smll.76554",
+      "posted_at": "2026-11-05T01:17:45+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793841465.444439",
+      "summary_character_count": 93,
+      "summary_japanese": "Trpを重合した柔軟なPTrpと3種のBODIPY誘導体のホスト–ゲスト界面を設計し、励起状態エネルギー再分配を検証した。棒状ナノ粒子は96 h超の腫瘍滞留と94%の腫瘍抑制率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conformationally Adaptive PTrp-BODIPY Host-Guest Interfaces for Multichannel Phototheranostics"
+    },
     "10.1002/smll.76590": {
       "doi": "10.1002/smll.76590",
       "posted_at": "2026-11-01T19:22:28+00:00",
@@ -10328,6 +10340,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Novel A2L3-Type Triplet-Stranded Helicate Constructed by Subcomponent Self-Assembly Based on Anion Coordination"
+    },
+    "10.1021/acs.cgd.6c01176": {
+      "doi": "10.1021/acs.cgd.6c01176",
+      "posted_at": "2026-11-05T01:17:55+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793841475.557259",
+      "summary_character_count": 133,
+      "summary_japanese": "dodecane/ethanol/Span 80中に閉じ込めたsodium chlorate水滴の貧溶媒晶析で、Span 80濃度により界面輸送を制御した。界面被覆率と対応して単一キラリティー結晶化の臨界液滴体積が増大し、核形成・成長競合を介したCSB制御を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interfacial Transport Control of Chiral Symmetry Breaking in Confined Sodium Chlorate Droplets"
     },
     "10.1021/acs.cgd.6c01430": {
       "doi": "10.1021/acs.cgd.6c01430",
@@ -16710,6 +16735,19 @@
       "summary_used_fallback": false,
       "title": "Dynamically and Reversibly Functionalized Self-Assembled Platelets via Noncovalent Interactions"
     },
+    "10.1021/jacs.6c18259": {
+      "doi": "10.1021/jacs.6c18259",
+      "posted_at": "2026-11-05T01:17:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793841470.775519",
+      "summary_character_count": 131,
+      "summary_japanese": "銅触媒・好気条件下、nitroalkanesを非カルベノイドC1源としてphenolsへ挿入し、AlCl3添加で部位選択性を切り替えて2種のtroponesを合成した。100 gスケールに対応し、軸不斉2-naphtholsを最大98% eeで速度論的分割した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-Carbon Atom Insertion into Phenols with Nitroalkanes"
+    },
     "10.1021/jacs.6c19262": {
       "doi": "10.1021/jacs.6c19262",
       "posted_at": "2026-10-31T12:30:59+00:00",
@@ -20076,6 +20114,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Research on thermal contact conductance of helical gears considering rough surface lateral contact and friction coefficient"
+    },
+    "10.1108/wje-04-2026-0221": {
+      "doi": "10.1108/wje-04-2026-0221",
+      "posted_at": "2026-11-05T01:17:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793841479.585609",
+      "summary_character_count": 113,
+      "summary_japanese": "二重らせんコイル空気加熱器の幾何・流動条件下でエネルギー・エクセルギー性能を実験評価し、ANNと物理誘導PGNNで予測した。PGNNは7出力中6項目で平均R²が高く、JF factorは0.6630から0.7538へ向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exergo-energetic evaluation and predictive modeling of a double helical coil air heater for sustainable energy applications"
     },
     "10.1111/andr.70353": {
       "doi": "10.1111/andr.70353",
@@ -23988,6 +24039,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Control of Photoswitching in a Chiral Azobenzene"
+    },
+    "10.26434/chemrxiv.15011594/v1": {
+      "doi": "10.26434/chemrxiv.15011594/v1",
+      "posted_at": "2026-11-05T01:17:41+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793841461.199449",
+      "summary_character_count": 109,
+      "summary_japanese": "nucleoside由来超分子ゲル化を対象に、LLMへ与える証拠を系統的に変え、予測と機構的根拠の文献整合性を定量評価した。類似構造の先例は予測精度を高めたが、条件制約・機構情報の方が根拠を識別的特徴へ一貫して導いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "How Chemical Evidence Shapes Mechanistic Reasoning and Prediction by Large Language Models: Fine-Grained Inference in Nucleoside-Derived Supramolecular Gelation"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
