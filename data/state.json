@@ -31,7 +31,8 @@
     "2026-11-02": 9,
     "2026-11-03": 5,
     "2026-11-04": 18,
-    "2026-11-05": 24
+    "2026-11-05": 24,
+    "2026-11-06": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3711,6 +3712,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanically Coupled Supramolecular Scissors Govern Photomechanical and Elastic Responses in Molecular Crystals"
+    },
+    "10.1002/anie.2996129": {
+      "doi": "10.1002/anie.2996129",
+      "posted_at": "2026-11-05T17:25:34+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793899534.115549",
+      "summary_character_count": 117,
+      "summary_japanese": "らせんキラルBODIPYに分子内B–O共有結合融合を導入し、654 nm・PLQY 71%・帯域34 nmの深赤色発光を実現した。M-BDP-BOの溶液プロセスCP-OLEDはEQE 2.6%、|gEL| 5.49×10−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Boron-Oxygen Covalent Fusion Enables Narrowband Deep-Red CP-OLEDs Based on BODIPY Emitters"
     },
     "10.1002/anie.3010868": {
       "doi": "10.1002/anie.3010868",
@@ -13167,6 +13181,19 @@
       "summary_used_fallback": false,
       "title": "Palladium-Catalyzed Enantioselective Synthesis of Chiral Vinylallenes via γ-Selective Coupling of Vinylboronates with Propargylic Carbonates"
     },
+    "10.1021/acs.orglett.6c04259": {
+      "doi": "10.1021/acs.orglett.6c04259",
+      "posted_at": "2026-11-05T17:25:24+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793899524.813489",
+      "summary_character_count": 379,
+      "summary_japanese": "A chiral BINOL-derived bis(hydroxy) polyether/KF catalytic system enabled symmetry-breaking asymmetric β-elimination of prochiral β-sulfonyl ketones. The reaction directly converted molecular symmetry into axial chirality through stereogenic C=C bond formation, affording axially chiral cyclohexylidenes in moderate to excellent yields and high to excellent enantioselectivities.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Catalytic Construction of Axially Chiral Cyclohexylidenes through Symmetry-Breaking Asymmetric Elimination"
+    },
     "10.1021/acs.orglett.6c04269": {
       "doi": "10.1021/acs.orglett.6c04269",
       "posted_at": "2026-10-22T16:38:13+00:00",
@@ -16761,6 +16788,19 @@
       "summary_used_fallback": false,
       "title": "Dynamically and Reversibly Functionalized Self-Assembled Platelets via Noncovalent Interactions"
     },
+    "10.1021/jacs.6c18093": {
+      "doi": "10.1021/jacs.6c18093",
+      "posted_at": "2026-11-05T17:25:41+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793899541.542949",
+      "summary_character_count": 122,
+      "summary_japanese": "CAPTによりprochiral sulfur(II)の孤立電子対を不斉ハロゲン化し、chiral aryl・alkyl sulfinimidate estersを高エナンチオ選択的に合成した。ハロゲン化がエナンチオ決定段階であることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Anionic Phase-Transfer Catalysis for Constructing Chiral Sulfur Centers via Asymmetric Sulfinimidation"
+    },
     "10.1021/jacs.6c18259": {
       "doi": "10.1021/jacs.6c18259",
       "posted_at": "2026-11-05T01:17:50+00:00",
@@ -16812,6 +16852,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Biodegradable Metal-Organic Framework/Oligomer Composite for Sustainable Gold Recovery and Circular Water Management"
+    },
+    "10.1021/jacs.6c20694": {
+      "doi": "10.1021/jacs.6c20694",
+      "posted_at": "2026-11-05T17:25:17+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793899516.944259",
+      "summary_character_count": 117,
+      "summary_japanese": "D-π-A型配位子と極性・キラリティー相乗設計により、LaTCA-L/DキラルMOFを構築した。SHGはKDPの最大11倍で、LaTCA-Lは900–1800 nmで偏光依存SHG・THG・2PELを示し、DOPは99.0%に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Metal-Organic Frameworks with Multiple and Highly Anisotropic Nonlinear Optical Effects"
     },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
@@ -25859,6 +25912,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Understanding the Liquid Phase with Molecular Dynamics Simulations, Vibrational Spectroscopy, and Uncertainty Quantification"
+    },
+    "10.5059/yukigoseikyokaishi.84.991": {
+      "doi": "10.5059/yukigoseikyokaishi.84.991",
+      "posted_at": "2026-11-05T17:25:29+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793899529.686599",
+      "summary_character_count": 92,
+      "summary_japanese": "修飾calixarene由来の配位カプセルと三重らせんhelicateを対象に、サイズ・形状相補的包接、CPL発現、速度論的分割、刺激応答的選択性変換、協同的キラル情報増幅を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development of Supramolecular Functional Assemblies Based on Precise Structural Modification of Calixarenes"
     },
     "10.51253/pafmj.v76i5.11973": {
       "doi": "10.51253/pafmj.v76i5.11973",
