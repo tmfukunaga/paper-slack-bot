@@ -32,7 +32,7 @@
     "2026-11-03": 5,
     "2026-11-04": 18,
     "2026-11-05": 24,
-    "2026-11-06": 10
+    "2026-11-06": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7099,6 +7099,19 @@
       "summary_used_fallback": false,
       "title": "Optical and Chiroptical Properties of a Green-Emitting Tb(III) Complex Embedded in Silica Nanoparticles"
     },
+    "10.1002/ejic.70364": {
+      "doi": "10.1002/ejic.70364",
+      "posted_at": "2026-11-05T23:39:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793921942.869149",
+      "summary_character_count": 102,
+      "summary_japanese": "36員環octaaminotetraphenol配位子H4Lgで包接した四核Ni(II)錯体1、2を合成し、X線構造解析と磁化率測定・DFT計算により、強い反強磁性相互作用と強磁性相互作用の共存を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle-Encapsulated Tetranuclear Nickel(II) Complexes: Synthesis, Structures, and Magnetic Properties"
+    },
     "10.1002/ejoc.70700": {
       "doi": "10.1002/ejoc.70700",
       "posted_at": "2026-07-26T06:05:31+00:00",
@@ -8827,6 +8840,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A novel approach for estimation of bending stiffness of helical strand assemblies and experimental validation"
+    },
+    "10.1016/j.aac.2026.10.017": {
+      "doi": "10.1016/j.aac.2026.10.017",
+      "posted_at": "2026-11-05T23:38:51+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793921931.441519",
+      "summary_character_count": 128,
+      "summary_japanese": "methyl-β-cyclodextrinにmelatoninを包接した1:1複合体を作製・解析し、Arabidopsis thalianaとValeriana jatamansiで塩・浸透圧、乾燥・冠水ストレス下のバイオマス、色素、光合成性能を改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Host-Guest Engineering for Plant Stress Adaptation through a Methyl-β-Cyclodextrin-Melatonin Supramolecular Complex"
     },
     "10.1016/j.aca.2026.346060": {
       "doi": "10.1016/j.aca.2026.346060",
@@ -12459,6 +12485,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Flash Communication:A Dithiolene-Based Hexathiadisila[4.4.4]propellene"
+    },
+    "10.1021/acs.organomet.6c00265": {
+      "doi": "10.1021/acs.organomet.6c00265",
+      "posted_at": "2026-11-05T23:39:07+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793921947.592829",
+      "summary_character_count": 132,
+      "summary_japanese": "P═O/S═Oと第二配位子をもつエナンチオ純粋なmono・dirhenium錯体群を合成し、結晶構造解析とDFTで気相Brønsted塩基性を評価した。塩基性は既知の不斉触媒を上回ったが、アルデヒドallylationで高活性・高エナンチオ選択性は得られなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Architecturally Distinctive Chiral-at-Rhenium Complexes with P═O/N:, P═O/P═O and S═O/S═O Donor Moieties: Syntheses, Structures, Reactivity, and Gas Phase Brønsted Basicities"
     },
     "10.1021/acs.organomet.6c00275": {
       "doi": "10.1021/acs.organomet.6c00275",
@@ -20103,6 +20142,19 @@
       "summary_used_fallback": false,
       "title": "Biological growth self-assembly of mycelia enables eco-friendly full-color room-temperature phosphorescence materials via internalized confinement"
     },
+    "10.1093/nsr/nwag693": {
+      "doi": "10.1093/nsr/nwag693",
+      "posted_at": "2026-11-05T23:38:58+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793921938.697849",
+      "summary_character_count": 108,
+      "summary_japanese": "altermagnet候補Mn5Si3薄膜で、面外磁場の二乗に増大するHall伝導度を観測した。高磁場でZeeman band shiftsがBerry curvatureの相殺を解除し、57 Tまで飽和しなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Observation of a magneto-nonlinear Hall effect in an altermagnet candidate"
+    },
     "10.1093/pnasnexus/pgag248": {
       "doi": "10.1093/pnasnexus/pgag248",
       "posted_at": "2026-08-04T21:18:06+00:00",
@@ -24638,6 +24690,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Effects of Remineralizing Products Containing NaF, CPP-ACPF, and NovaMin on Enamel Microhardness and Bond Strength"
+    },
+    "10.3390/atmos17111086": {
+      "doi": "10.3390/atmos17111086",
+      "posted_at": "2026-11-05T23:39:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793921953.981159",
+      "summary_character_count": 132,
+      "summary_japanese": "2000～2024年のEF2+竜巻3317環境でstorm motionを摂動し、0–3 km SRHとfixed-layer SCPの感度を評価した。±5.00 m s−1でSRH変化中央値は101.40 m2 s−2、SCP閾値を跨ぐ環境は27.46%だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sensitivity of 0-3 km Storm-Relative Helicity and Fixed-Layer SCP to Storm-Motion Perturbations in Significant Tornado Environments"
     },
     "10.3390/axioms15080585": {
       "doi": "10.3390/axioms15080585",
