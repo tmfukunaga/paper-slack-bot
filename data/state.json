@@ -32,7 +32,7 @@
     "2026-11-03": 5,
     "2026-11-04": 18,
     "2026-11-05": 24,
-    "2026-11-06": 5
+    "2026-11-06": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5916,6 +5916,19 @@
       "summary_used_fallback": false,
       "title": "Guest-Dependent Fluorescence Response by a Highly Emissive s -Tetrazine Pd 2 L 4 Cage"
     },
+    "10.1002/asia.71023": {
+      "doi": "10.1002/asia.71023",
+      "posted_at": "2026-11-05T19:29:34+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793906974.686889",
+      "summary_character_count": 101,
+      "summary_japanese": "新規thionated benzoperylene imide系剛直π系を合成し、分光・顕微鏡解析で、水-dioxane組成による核形成―伸長速度の変化が結晶性集合体の長さと形態を左右することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis and Unusual Supramolecular Self-Assembly Behavior of Benzoperylene Imides and Thioimides"
+    },
     "10.1002/bio.70656": {
       "doi": "10.1002/bio.70656",
       "posted_at": "2026-10-31T23:59:15+00:00",
@@ -6526,6 +6539,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Copper-Catalyzed Asymmetric Hydroamination of β , γ -Unsaturated Carboxylic Acids for the Synthesis of Chiral γ -Amino Acids"
+    },
+    "10.1002/chem.71854": {
+      "doi": "10.1002/chem.71854",
+      "posted_at": "2026-11-05T19:29:30+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793906970.270499",
+      "summary_character_count": 128,
+      "summary_japanese": "キラルカルボキサミド配位子と[Ind*IrI2]2触媒でdiarylphosphine oxidesを不斉C−Hアミド化し、P-キラルphosphine oxidesを最高75%収率、94% eeで得た。還元では立体保持してP(III)化合物へ変換できた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Amide-Enabled Iridium-Catalyzed Asymmetric C-H Amidation for the Synthesis of P -Chiral Phosphorus Oxides"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -16814,6 +16840,19 @@
       "summary_used_fallback": false,
       "title": "Single-Carbon Atom Insertion into Phenols with Nitroalkanes"
     },
+    "10.1021/jacs.6c18941": {
+      "doi": "10.1021/jacs.6c18941",
+      "posted_at": "2026-11-05T19:29:42+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793906982.889849",
+      "summary_character_count": 122,
+      "summary_japanese": "分子ドナー種と分子内間隔を孤立金属原子サイトへ転写するtemplate-directed法を開発し、3×3認識マトリクスでhomocysteineとcysteineを相互選択的に識別した。認識は血清中および連続in vivo測定でも維持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular-to-Atomic Transcription Programs Single-Atom Interfaces for Molecular Recognition"
+    },
     "10.1021/jacs.6c19262": {
       "doi": "10.1021/jacs.6c19262",
       "posted_at": "2026-10-31T12:30:59+00:00",
@@ -16865,6 +16904,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Metal-Organic Frameworks with Multiple and Highly Anisotropic Nonlinear Optical Effects"
+    },
+    "10.1021/jacs.6c21549": {
+      "doi": "10.1021/jacs.6c21549",
+      "posted_at": "2026-11-05T19:29:47+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793906987.522769",
+      "summary_character_count": 105,
+      "summary_japanese": "異なるイオン会合様式をもつ超分子プラスチックを設計し、会合様式・ネットワーク構造・力学特性の関係を検討した。高い引張強度と繰返し耐久性に加え、熱安定性の調整、湿度応答センシング、水系加工・リサイクルを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanically Robust Supramolecular Plastics through Distinct Ionic Association Modes"
     },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
@@ -25223,6 +25275,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Vancomycin-Stabilized Copper Nanoclusters: Isolation by Solid-Phase Extraction and Application in Chiral Capillary Electrophoresis"
+    },
+    "10.3390/org7040049": {
+      "doi": "10.3390/org7040049",
+      "posted_at": "2026-11-05T19:29:38+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793906978.954489",
+      "summary_character_count": 128,
+      "summary_japanese": "L-Malic acidを共通のキラルプール前駆体とし、Sharpless不斉エポキシ化、エポキシド開環、Mannich反応、ヨウ素化–亜鉛脱離連続反応を用いて、Pladienolide BのC1–C8およびC9–C13フラグメントを立体選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Divergent Chiral-Pool Synthesis of the C1-C8 and C9-C13 Fragments of Pladienolide B from L-Malic Acid"
     },
     "10.3390/ph19091351": {
       "doi": "10.3390/ph19091351",
