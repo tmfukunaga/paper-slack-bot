@@ -31,7 +31,7 @@
     "2026-11-02": 9,
     "2026-11-03": 5,
     "2026-11-04": 18,
-    "2026-11-05": 20
+    "2026-11-05": 24
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7748,6 +7748,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Chiral Terahertz Radiation With Colossal Circular Nonlinear Optical Response From Two-Dimensional Perovskites"
     },
+    "10.1002/maco.70299": {
+      "doi": "10.1002/maco.70299",
+      "posted_at": "2026-11-05T06:47:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793861242.715999",
+      "summary_character_count": 104,
+      "summary_japanese": "3か月運転後に早期腐食したS30408らせん電極を材料評価とCOMSOL解析で調査し、凹面・端部で最大6.2×10^4 A/m²の電流密度集中と、凹面の流線収束・再循環が非対称な表面損傷を説明し得ると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Corrosion Analysis of Helical Electrodes"
+    },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
       "posted_at": "2026-07-17T17:27:51+00:00",
@@ -9612,6 +9625,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Reversible thermally-switchable chirality of circularly polarized luminescence in perovskite nanocrystals enabled by cholesteric liquid crystals"
+    },
+    "10.1016/j.net.2026.104798": {
+      "doi": "10.1016/j.net.2026.104798",
+      "posted_at": "2026-11-05T06:47:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793861248.864099",
+      "summary_character_count": 121,
+      "summary_japanese": "OpenMOCとRESTAR-HFを統合し、helical cruciform fuel炉心のpin-by-pin連成と制御棒飛び出し過渡解析を行った。HFPでは0.04 sに出力が108.451%で最大となり、温度とDNBR基準を満足した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Transient coupling analysis for helical cruciform fuel core based on 3D method of characteristics and refined subchannel method"
     },
     "10.1016/j.nexres.2026.102523": {
       "doi": "10.1016/j.nexres.2026.102523",
@@ -20583,6 +20609,19 @@
       "summary_used_fallback": false,
       "title": "Upgrading the SMOLA Helical Open Trap for Experiments in the Low Coulomb Collisionality Regime"
     },
+    "10.1134/s1070363226602929": {
+      "doi": "10.1134/s1070363226602929",
+      "posted_at": "2026-11-05T06:47:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793861253.086889",
+      "summary_character_count": 121,
+      "summary_japanese": "バイオマス由来の入手容易なキラルプラットフォームlevoglucosenoneを標的変換し、新規キラルα-pyronesを合成した。α-pyronesは微小な複素環構造変化で薬理特性が大きく変わるため、有機合成・医薬化学への応用が期待される。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Levoglucosenone in the Synthesis of Chiral α-Pyrones"
+    },
     "10.1136/jnis-2026-025589": {
       "doi": "10.1136/jnis-2026-025589",
       "posted_at": "2026-09-19T20:02:14+00:00",
@@ -24481,6 +24520,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Self-Disproportionation of Enantiomers via Sublimation (SDEvS) Is an Emergent Property of Chiral Solids That Is Unaffected by Divergent Sample Histories"
+    },
+    "10.3390/app162110873": {
+      "doi": "10.3390/app162110873",
+      "posted_at": "2026-11-05T06:47:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793861238.058989",
+      "summary_character_count": 114,
+      "summary_japanese": "脱灰ヒト小臼歯エナメル質にNaF、CPP-ACPF、NovaMinを適用し、微小硬さとコンポジットレジンのせん断接着強さを評価した。全製品は両指標を有意に改善したが、微小硬さは健全エナメル質未満で、製品間の接着強さ差はなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effects of Remineralizing Products Containing NaF, CPP-ACPF, and NovaMin on Enamel Microhardness and Bond Strength"
     },
     "10.3390/axioms15080585": {
       "doi": "10.3390/axioms15080585",
