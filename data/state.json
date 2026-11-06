@@ -32,7 +32,7 @@
     "2026-11-04": 18,
     "2026-11-05": 24,
     "2026-11-06": 21,
-    "2026-11-07": 5
+    "2026-11-07": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1634,6 +1634,19 @@
       "summary_used_fallback": false,
       "title": "A Chiral Virus-Like Nanoplatform That Broadly Mediates Antibiotic Delivery to the Brain for Bacterial Meningitis Therapy"
     },
+    "10.1002/advs.78432": {
+      "doi": "10.1002/advs.78432",
+      "posted_at": "2026-11-06T18:53:59+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793991239.022849",
+      "summary_character_count": 128,
+      "summary_japanese": "MASHで減少するF. duncaniaeに右手型金nanozyme（D-Au）を担持し、ROS防御と炎症腸管での定着を強化した。マウスで脂肪化・炎症・線維化、腸内異常、認知障害を改善し、kynurenic acidとlinoleic acidを回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Engineered Chiral Probiotics Ameliorate MASH via Gut-Liver Axis"
+    },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
       "posted_at": "2026-08-11T23:23:39+00:00",
@@ -2752,6 +2765,19 @@
       "summary_used_fallback": false,
       "title": "Water-Mediated Reversible Crystalline Phase Transformation Enables Color Switching and Circularly Polarized Luminescence Handedness Inversion"
     },
+    "10.1002/ange.8393760": {
+      "doi": "10.1002/ange.8393760",
+      "posted_at": "2026-11-06T18:53:38+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793991218.148599",
+      "summary_character_count": 133,
+      "summary_japanese": "2種のnaphthalene系macrocycleのendo-cavity包接とexo-wall電荷移動相互作用で可逆架橋したpolyurethane slide-ring networkを構築し、破断応力・伸長性・靱性を高め、力学特性を保つ繊維への紡糸を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle Exo-Wall Complexation-Mediated Supramolecular Slide-Ring Networks"
+    },
     "10.1002/ange.8413238": {
       "doi": "10.1002/ange.8413238",
       "posted_at": "2026-09-04T04:35:04+00:00",
@@ -3420,6 +3446,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Highly Enantio- and Diastereoselective Synthesis of Tetrahydrofuran Frameworks via Chiral Lewis Acid-Catalyzed Formal [3+2] Cycloaddition of Allylsilanes"
+    },
+    "10.1002/anie.2026-m0111102100": {
+      "doi": "10.1002/anie.2026-m0111102100",
+      "posted_at": "2026-11-06T18:53:47+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793991227.422119",
+      "summary_character_count": 127,
+      "summary_japanese": "温和なScholl反応条件下で、プロトン促進・arenium ion媒介の予期せぬazulene-to-naphthalene骨格転位を見いだし、二光子吸収断面積を最大1239 GMまで調整可能な羽ばたき翼型全体芳香族nanographeneを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Outside Front Cover: Unexpected Azulene-to-Naphthalene Rearrangement Enables the Synthesis of Nanographenes With Tunable Two-Photon Absorption"
     },
     "10.1002/anie.2026-m0210094800": {
       "doi": "10.1002/anie.2026-m0210094800",
@@ -13532,6 +13571,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced Piezoelectric Response via Transient Heterochiral Solvent-Solute Matching in Supramolecular Assembly"
     },
+    "10.1021/acsami.6c11422": {
+      "doi": "10.1021/acsami.6c11422",
+      "posted_at": "2026-11-06T18:53:54+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793991234.468999",
+      "summary_character_count": 350,
+      "summary_japanese": "Hydrazone-linked [1]rotaxanes bearing VIE-active DPAC stoppers were designed to control photoluminescence through nano-bending, Z/E photoisomerization, and macrocycle shuttling. The loosened lasso showed the longest cyan-emission lifetime, τavg1 = 11.8 ns, and acid/base-triggered shuttling switched its emission between near-white and orange states.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Synergetic Nano-bending, Photo-switching, and Macrocycle Shuttling Effects of Vibration-Induced Emission Lassos on Photoluminescence Properties of Hydrazone-Based [1]Rotaxanes"
+    },
     "10.1021/acsami.6c12038": {
       "doi": "10.1021/acsami.6c12038",
       "posted_at": "2026-10-17T02:59:29+00:00",
@@ -19400,6 +19452,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Orbital angular momentum textures and currents in a discrete helix: Equilibrium and linear response"
+    },
+    "10.1063/5.0343815": {
+      "doi": "10.1063/5.0343815",
+      "posted_at": "2026-11-06T18:53:43+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793991223.140579",
+      "summary_character_count": 118,
+      "summary_japanese": "傾斜楕円孔を周期配列した自立膜メタサーフェスで、メタ原子の面内回転が非線形選択則と円偏光応答差を制御することを示した。相補的回転で支配的な同偏光第三高調波チャネルが入れ替わり、共鳴モードにより増強された可換な円二色性を実験的に観測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonlinear chiral response governed by meta-atom rotation"
     },
     "10.1063/5.0344268": {
       "doi": "10.1063/5.0344268",
