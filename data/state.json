@@ -31,7 +31,8 @@
     "2026-11-03": 5,
     "2026-11-04": 18,
     "2026-11-05": 24,
-    "2026-11-06": 21
+    "2026-11-06": 21,
+    "2026-11-07": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1320,6 +1321,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Symmetry Constrained Different Types of Maximal Chiroptical Responses in Slant Chiral Resonant Metasurfaces"
+    },
+    "10.1002/adom.72028": {
+      "doi": "10.1002/adom.72028",
+      "posted_at": "2026-11-06T16:46:44+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793983604.256879",
+      "summary_character_count": 100,
+      "summary_japanese": "BINDBA由来フレームワークをイミンからアミドへ変換したキラル多孔性ポリマー球を作製し、剛直化と水素結合・FRET促進により発光量子収率を約8.1倍に向上、異方性因子0.2の近赤外CPLを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Framework Linkage Chemistry Regulates Excited-State Chiral Photophysics in Porous Polymers for Programmable Circularly Polarized Luminescence"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -5382,6 +5396,19 @@
       "summary_used_fallback": false,
       "title": "Extending El Sayed's Rule by 1 (n,pi*)- 3 (n,pi*) Rotation via Intramolecular Secondary Interaction Enables Room-Temperature Circularly Polarized Phosphorescence in Solution"
     },
+    "10.1002/anie.8393760": {
+      "doi": "10.1002/anie.8393760",
+      "posted_at": "2026-11-06T16:46:51+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793983611.441209",
+      "summary_character_count": 109,
+      "summary_japanese": "2種のnaphthalene系macrocycleの包接とexo-wall電荷移動を用い、可逆架橋slide-ring polyurethaneを構築した。破断応力、伸長性、靱性が向上し、性能を保った繊維へ紡糸できた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle Exo-Wall Complexation-Mediated Supramolecular Slide-Ring Networks"
+    },
     "10.1002/anie.8413238": {
       "doi": "10.1002/anie.8413238",
       "posted_at": "2026-09-03T04:35:27+00:00",
@@ -6538,6 +6565,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Metathesis Dimerization/Desymmetrization of C s -Symmetric Divinylferrocenes: Enantioselective Deactivation of Vinyl Groups and Subsequent Kinetic Resolution of Chiral Dimers"
+    },
+    "10.1002/chem.71841": {
+      "doi": "10.1002/chem.71841",
+      "posted_at": "2026-11-06T16:46:56+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793983616.742929",
+      "summary_character_count": 110,
+      "summary_japanese": "本総説は、enol/enamineを介して軸性・固有・らせん・機械的平面キラリティーを構築する不斉合成を扱い、chiral amines、NHCs、CPAs、相間移動触媒、金属錯体による立体制御戦略を触媒系別に分析する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enol/Enamine-Mediated Asymmetric Synthesis Beyond Central Chirality"
     },
     "10.1002/chem.71843": {
       "doi": "10.1002/chem.71843",
@@ -15200,6 +15240,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Alternating Copolymerizationof Cyclobutenes and Norbornenesby a Dual-Site Grubbs Catalyst"
+    },
+    "10.1021/jacs.6c07878": {
+      "doi": "10.1021/jacs.6c07878",
+      "posted_at": "2026-11-06T16:46:31+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793983591.040299",
+      "summary_character_count": 121,
+      "summary_japanese": "PDI誘導体の水系超分子ポリマーで、sodium dithionite還元と酸素酸化による一過性解体・再集合を用い、MRで非平衡的な非対称性増幅を実証した。SaSではsergeant分率に応じた二重キラル光学反転を観測し、相モデルで説明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemically Fueled Amplification of Supramolecular Asymmetry with Double Chiroptical Inversion"
     },
     "10.1021/jacs.6c07991": {
       "doi": "10.1021/jacs.6c07991",
@@ -24299,6 +24352,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "How Chemical Evidence Shapes Mechanistic Reasoning and Prediction by Large Language Models: Fine-Grained Inference in Nucleoside-Derived Supramolecular Gelation"
+    },
+    "10.26434/chemrxiv.15011690/v1": {
+      "doi": "10.26434/chemrxiv.15011690/v1",
+      "posted_at": "2026-11-06T16:46:39+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793983599.427319",
+      "summary_character_count": 112,
+      "summary_japanese": "ab initioでパラメータ化した一般化HTCモデルとNMSSEで、キャビティ中らせんPDI凝集体の吸収・CDを計算し、共有光子場が分子間結合なしでも強いCDを誘起し、暗状態の分裂はパッキングと振電結合に依存すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vibronic Absorption and Circular Dichroism Spectra of Chiral PDI Aggregates in Free Space and Optical Cavities"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
