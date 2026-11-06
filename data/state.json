@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-05": 7,
     "2026-10-06": 5,
     "2026-10-07": 25,
     "2026-10-08": 15,
@@ -32,7 +31,7 @@
     "2026-11-03": 5,
     "2026-11-04": 18,
     "2026-11-05": 24,
-    "2026-11-06": 15
+    "2026-11-06": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1958,6 +1957,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Polymerization and Morphological Transformation of Dynamic Helical Poly(Phenylacetylene)s via Chain-End Host-Guest Interactions"
+    },
+    "10.1002/ange.2996129": {
+      "doi": "10.1002/ange.2996129",
+      "posted_at": "2026-11-06T01:22:43+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793928163.262049",
+      "summary_character_count": 117,
+      "summary_japanese": "らせんキラルBODIPYに分子内B–O共有結合融合を導入し、654 nm・量子収率71%・帯域幅34 nmの深赤色発光を実現した。M-BDP-BOの溶液プロセスCP-OLEDはEQE 2.6%、|gEL|=5.49×10−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Boron-Oxygen Covalent Fusion Enables Narrowband Deep-Red CP-OLEDs Based on BODIPY Emitters"
     },
     "10.1002/ange.3010868": {
       "doi": "10.1002/ange.3010868",
@@ -9704,6 +9716,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Transient coupling analysis for helical cruciform fuel core based on 3D method of characteristics and refined subchannel method"
+    },
+    "10.1016/j.newton.2026.100723": {
+      "doi": "10.1016/j.newton.2026.100723",
+      "posted_at": "2026-11-06T01:22:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793928174.437109",
+      "summary_character_count": 98,
+      "summary_japanese": "キラル反強磁性体でHeesch群により対称性点へ固定・安定化されるHeesch Weyl fermionsを提案し、群論分類と第一原理計算によりYMnO3、Mn3IrGeを候補物質として同定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Heesch Weyl fermions in chiral antiferromagnets"
     },
     "10.1016/j.nexres.2026.102523": {
       "doi": "10.1016/j.nexres.2026.102523",
@@ -19505,6 +19530,19 @@
       "summary_used_fallback": true,
       "title": "Imaging real-space chiral rotation of flat-band states in helical trilayer graphene"
     },
+    "10.1080/00295639.2026.2750018": {
+      "doi": "10.1080/00295639.2026.2750018",
+      "posted_at": "2026-11-06T01:22:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793928153.337529",
+      "summary_character_count": 102,
+      "summary_japanese": "MELCORでU-50 wt%Zr製multi-helical燃料を面積等価円筒化とfuel-cladding同時酸化でモデル化し、酸化面積増大が炉心劣化を加速して水素生成をほぼ2倍にし得ることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modeling of Multi-Helical Metallic Fuel and Dual-Oxidation Impact During Severe Accident Progression Using MELCOR"
+    },
     "10.1080/00387010.2026.2710321": {
       "doi": "10.1080/00387010.2026.2710321",
       "posted_at": "2026-08-04T18:15:24+00:00",
@@ -19556,6 +19594,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermal performances of a heat pipe with a flexible helical adiabatic section"
+    },
+    "10.1080/09205071.2026.2721383": {
+      "doi": "10.1080/09205071.2026.2721383",
+      "posted_at": "2026-11-06T01:22:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793928170.282629",
+      "summary_character_count": 427,
+      "summary_japanese": "Relativistic electron motion in circular and elliptical chiroplasma waveguides with perfect electromagnetic conductor boundaries was analyzed using fourth-order Runge–Kutta calculations. The effects of chirality admittance on electron trajectories and kinetic energy were examined across modes and wall conditions. Increasing chirality generally raised kinetic energy, although it could also reduce it under certain conditions.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Effect of the chirality admittance on the injected electron dynamic in the chiroplasma-filled elliptical and circular waveguides with perfect electromagnetic conductor boundaries"
     },
     "10.1080/10426507.2026.2745330": {
       "doi": "10.1080/10426507.2026.2745330",
@@ -25951,6 +26002,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Volume Dependence of Helicity-based Eruption Diagnostics in Recurrent Coronal Jets"
+    },
+    "10.3847/2041-8213/aeb802": {
+      "doi": "10.3847/2041-8213/aeb802",
+      "posted_at": "2026-11-06T01:22:38+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793928158.102199",
+      "summary_character_count": 126,
+      "summary_japanese": "共通ノードに複数フィラメント腕が接続するFANSを定義し、SDSSの2種のフィラメント再構成で腕の巻き込みと利き手を測定した。CW/CCWの有意な偏りはなくΛCDMのパリティ対称性と整合し、0.1<z<0.6で宇宙スピラリティは宇宙時とともに低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Filament-Arm Node Systems (FANS): A New Probe of the Winding and Chirality of the Cosmic Web"
     },
     "10.4028/p-8rklk7": {
       "doi": "10.4028/p-8rklk7",
