@@ -32,7 +32,7 @@
     "2026-11-04": 18,
     "2026-11-05": 24,
     "2026-11-06": 21,
-    "2026-11-07": 10
+    "2026-11-07": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1322,6 +1322,19 @@
       "summary_used_fallback": false,
       "title": "Symmetry Constrained Different Types of Maximal Chiroptical Responses in Slant Chiral Resonant Metasurfaces"
     },
+    "10.1002/adom.72020": {
+      "doi": "10.1002/adom.72020",
+      "posted_at": "2026-11-06T23:09:08+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794006547.974139",
+      "summary_character_count": 107,
+      "summary_japanese": "thioarylazopyrazole系軸不斉キラルドーパントを設計・合成し、E7へ光非感受性ドーパントと共添加した。可視光で異性化させ、CLC反射帯を340–800 nmで双方向に制御し、RGB光定常状態を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Visible-Light-Driven Full-Spectrum Tuning in Cholesteric Liquid Crystals Enabled by Thioarylazopyrazole-Based Axially Chiral Molecular Switches"
+    },
     "10.1002/adom.72028": {
       "doi": "10.1002/adom.72028",
       "posted_at": "2026-11-06T16:46:44+00:00",
@@ -1698,6 +1711,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A NEAT Approach to Evolving Neural-Network-Based Optimization of Chiral Photonic Metasurfaces: Application of a NeuroEvolution-of-Augmenting-Topologies Pipeline"
+    },
+    "10.1002/ajoc.70578": {
+      "doi": "10.1002/ajoc.70578",
+      "posted_at": "2026-11-06T23:09:03+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794006543.480609",
+      "summary_character_count": 93,
+      "summary_japanese": "不斉Brønsted酸を酸性コア、キラル骨格、周辺置換基の3要素から体系的に検討し、非共有結合相互作用を含む協働効果がエナンチオ・ジアステレオ発散的経路を可能にする最近の進展を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Elements of Chiral Brønsted Acids for Stereoselective Transformations"
     },
     "10.1002/andp.70282": {
       "doi": "10.1002/andp.70282",
@@ -20324,6 +20350,19 @@
       "summary_used_fallback": false,
       "title": "Observation of a magneto-nonlinear Hall effect in an altermagnet candidate"
     },
+    "10.1093/nsr/nwag695": {
+      "doi": "10.1093/nsr/nwag695",
+      "posted_at": "2026-11-06T23:09:22+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794006562.402199",
+      "summary_character_count": 85,
+      "summary_japanese": "Chiral phononsの格子角運動量に着目し、その定義と理論的枠組み、生成・検出法、物性との結合や応用可能性を整理し、関連する未解決課題と今後の研究方向を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral phonons: lattice angular momentum and beyond"
+    },
     "10.1093/pnasnexus/pgag248": {
       "doi": "10.1093/pnasnexus/pgag248",
       "posted_at": "2026-08-04T21:18:06+00:00",
@@ -24430,6 +24469,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Vibronic Absorption and Circular Dichroism Spectra of Chiral PDI Aggregates in Free Space and Optical Cavities"
+    },
+    "10.26434/chemrxiv.15011705/v1": {
+      "doi": "10.26434/chemrxiv.15011705/v1",
+      "posted_at": "2026-11-06T23:09:15+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794006555.771159",
+      "summary_character_count": 135,
+      "summary_japanese": "CMRTの10,525エナンチオマー対・25カラムをleave-one-paper-outで再評価し、溶出順序精度は52.9%へ低下した。未見論文への分子シグナルはほぼ消失し、転移性向上には条件メタデータ、系統的分子×条件グリッド、反復測定、分離失敗記録が必要と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Where machine learning for enantioselectivity on polysaccharide chiral stationary phases actually fails: a leave-one-paper-out reappraisal of 10,525 enantiomer pairs"
+    },
+    "10.26434/chemrxiv.15011722/v1": {
+      "doi": "10.26434/chemrxiv.15011722/v1",
+      "posted_at": "2026-11-06T23:09:11+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794006551.741589",
+      "summary_character_count": 107,
+      "summary_japanese": "水系二相抽出で単離した単一キラリティ半導体(6,5)-SWCNTをSPCEに修飾し、DPVで5-HTとDAを同時検出した。最大151 ± 4 mVのピーク電位差を示し、両分析種の0.04～1 μMで直線応答を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-chirality single-walled carbon nanotubes for electrochemical co-detection of serotonin and dopamine"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
