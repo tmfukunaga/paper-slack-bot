@@ -31,7 +31,7 @@
     "2026-11-03": 5,
     "2026-11-04": 18,
     "2026-11-05": 24,
-    "2026-11-06": 20
+    "2026-11-06": 21
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -26405,6 +26405,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "DETERMINACIÓN DE PANCREATITIS SUBCLÍNICA DIAGNOSTICADOS MEDIANTE LA PRUEBA SNAP CPL Y ECOGRAFÍA EN CANINOS"
+    },
+    "10.5762/kais.2026.27.10.1149": {
+      "doi": "10.5762/kais.2026.27.10.1149",
+      "posted_at": "2026-11-06T06:46:59+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1793947619.653569",
+      "summary_character_count": 107,
+      "summary_japanese": "国産艦艇用CPPを対象に、構造・油圧ピッチ制御・製造リスクを検討し、推進性やキャビテーションなど8項目と、水槽試験から海上試験までの5段階性能検証体系を提案した。公開海上試運転事例を再解析し、指標の適用法を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Study on a Performance Verification System for the Application of CPP to Domestically Produced Naval Weapon Systems"
     },
     "10.59141/jist.v7i8.9238": {
       "doi": "10.59141/jist.v7i8.9238",
