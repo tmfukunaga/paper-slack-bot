@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-06": 5,
     "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
@@ -32,7 +31,7 @@
     "2026-11-04": 18,
     "2026-11-05": 24,
     "2026-11-06": 21,
-    "2026-11-07": 15
+    "2026-11-07": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6670,6 +6669,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Amide-Enabled Iridium-Catalyzed Asymmetric C-H Amidation for the Synthesis of P -Chiral Phosphorus Oxides"
     },
+    "10.1002/chem.71881": {
+      "doi": "10.1002/chem.71881",
+      "posted_at": "2026-11-07T00:37:24+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794011844.058239",
+      "summary_character_count": 119,
+      "summary_japanese": "L-proline由来V字型位置異性体モノマーとBFPPQから1DキラルCOFを構築し、不斉アルドール反応を評価した。4-L-DTP-BFPPQは87–92%のenantioselectivityを示し、5-L体の62–78%を上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Designed Construction of One-Dimensional Positional-Isomeric Chiral Covalent Organic Frameworks for Asymmetric Aldol Catalysis"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -8944,6 +8956,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Advances in applications of chiral biomaterials in bone regeneration"
+    },
+    "10.1007/s42114-026-02171-1": {
+      "doi": "10.1007/s42114-026-02171-1",
+      "posted_at": "2026-11-07T00:37:19+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794011839.767329",
+      "summary_character_count": 105,
+      "summary_japanese": "強磁性マイクロワイヤーとCNFの二重らせん芯にCo/CoFe2O4多孔質殻を形成した複合繊維を設計し、FM/CNF@P-CoFe-12は1.75 mmでRLmin −42 dB、EAB 9.6 GHzを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical chiral core-shell FM/CNF@P-CoFe composite fibers for broadband microwave absorption via guide-capture-dissipate"
     },
     "10.1007/s44245-026-00199-7": {
       "doi": "10.1007/s44245-026-00199-7",
@@ -11744,6 +11769,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tetrasubstituted Chiral Calix[4]arene Platform for Tunable Chiroptical Detection of d / l -Amino Acids"
+    },
+    "10.1021/acs.jpcb.6c06645": {
+      "doi": "10.1021/acs.jpcb.6c06645",
+      "posted_at": "2026-11-07T00:37:01+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794011821.167309",
+      "summary_character_count": 97,
+      "summary_japanese": "AscまたはHydとの共集合によりTrpの凝集を球状超分子へ制御し、分子動力学計算でAscの直接会合とHydの水和ネットワーク再編を示した。発光はそれぞれ470 nmと430 nmへ調整された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Small-Molecule-Mediated Molecular Recognition Controls Tryptophan Self-Assembly and Programs Tunable Emission"
     },
     "10.1021/acs.jpcc.6c02485": {
       "doi": "10.1021/acs.jpcc.6c02485",
@@ -14681,6 +14719,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Introducing Chirality into Graphene Oxide Layers through a Facile Amino Acid-Based Covalent Functionalization"
+    },
+    "10.1021/acsomega.6c07675": {
+      "doi": "10.1021/acsomega.6c07675",
+      "posted_at": "2026-11-07T00:37:15+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794011835.786069",
+      "summary_character_count": 122,
+      "summary_japanese": "(R)-BINOL、(R)-BINAM、(R)-NOBIN安定化PdNPsを不斉Suzuki-Miyaura反応の不均一触媒とし、広い基質範囲で最大99% ee以上を達成した。BINAM担持体は高変換率を示し、再使用後も活性と選択性を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Axially Chiral ( R )-BINOL-, ( R )-BINAM-, and ( R )-NOBIN-Stabilized Palladium Nanoparticles for Highly Enantioselective Asymmetric Suzuki-Miyaura Cross-Coupling Reactions"
     },
     "10.1021/acsomega.6c08777": {
       "doi": "10.1021/acsomega.6c08777",
@@ -20466,6 +20517,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity conservation of the Riemann-Silberstein vector"
+    },
+    "10.1098/rsta.2025.0145": {
+      "doi": "10.1098/rsta.2025.0145",
+      "posted_at": "2026-11-07T00:37:08+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794011828.700939",
+      "summary_character_count": 107,
+      "summary_japanese": "回転Euler流とodd-viscous Euler流の弱乱流を解析し、ヘリシティ保存下で一定エネルギーフラックスを担う一意のスケール不変スペクトルを導出した。同一偏極枝の共鳴三体波は逆向きエネルギー輸送を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sign-indefinite helicity and the structure of weak turbulence in inertial and non-Hermitian waves"
     },
     "10.1103/m1yh-fgrw": {
       "doi": "10.1103/m1yh-fgrw",
