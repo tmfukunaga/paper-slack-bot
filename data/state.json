@@ -32,7 +32,7 @@
     "2026-11-05": 24,
     "2026-11-06": 21,
     "2026-11-07": 35,
-    "2026-11-08": 5
+    "2026-11-08": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12187,6 +12187,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced Dual-Emissive Circularly Polarized Luminescence of Mn2+-Doped 2D Lead Halide Perovskite Nanosheets Via l -Cysteine Modification"
     },
+    "10.1021/acs.jpclett.6c03143": {
+      "doi": "10.1021/acs.jpclett.6c03143",
+      "posted_at": "2026-11-07T19:26:42+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794079602.341729",
+      "summary_character_count": 96,
+      "summary_japanese": "磁気双極子寄与を含む量子電磁力学解析により、キラルドナーがエネルギー移動速度をキラル環境でのみ手性依存化し、アキラルアクセプター蛍光へ等方溶液でも反転する円偏光シグナルを転写することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality in Resonance Energy Transfer: Donor-Imprinted Ellipticity in Achiral Acceptor Emission"
+    },
     "10.1021/acs.langmuir.6c01158": {
       "doi": "10.1021/acs.langmuir.6c01158",
       "posted_at": "2026-07-23T03:04:22+00:00",
@@ -12407,6 +12420,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Conformation-Driven Circularly Polarized Luminescence Amplification in Intrinsically Chiral Main-Chain Polymers via Liquid Crystalline Self-Assembly"
+    },
+    "10.1021/acs.nanolett.6c00826": {
+      "doi": "10.1021/acs.nanolett.6c00826",
+      "posted_at": "2026-11-07T19:27:02+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794079622.062959",
+      "summary_character_count": 101,
+      "summary_japanese": "一次元磁気渦鎖でchiralityとpolarityを協調制御し、双極子相互作用によるchirality変調とdomain wall補助polarity反転により、ナノ秒動作の三値AND論理を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-Polarity-Regulated Magnetic Vortex Chains for Ternary Logic"
     },
     "10.1021/acs.nanolett.6c00913": {
       "doi": "10.1021/acs.nanolett.6c00913",
@@ -13493,6 +13519,19 @@
       "summary_used_fallback": false,
       "title": "Access to Axially Chiral Biaryl Aldehydes via Enantioselective Imine Condensation"
     },
+    "10.1021/acs.orglett.6c04015": {
+      "doi": "10.1021/acs.orglett.6c04015",
+      "posted_at": "2026-11-07T19:26:49+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794079609.912159",
+      "summary_character_count": 124,
+      "summary_japanese": "酸触媒縮合でcarbazole-embedded di-p-benzi porphyrinoidを合成し、計算とX線解析で非芳香族性・非平面性を示した。プロトン化体2·2H+は約800 nmまで強いpanchromatic吸収を示し深黒色となった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Carbazole-Embedded Pentaphyrin and Hexaphyrin-Like Macrocycles with Panchromatic Absorption Capabilities"
+    },
     "10.1021/acs.orglett.6c04128": {
       "doi": "10.1021/acs.orglett.6c04128",
       "posted_at": "2026-10-28T12:07:02+00:00",
@@ -14532,6 +14571,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Alkylene Spacer Engineering for Boosting Circularly Polarized Luminescence in Homopolypeptide Self-Assembly"
+    },
+    "10.1021/acsenergylett.6c01589": {
+      "doi": "10.1021/acsenergylett.6c01589",
+      "posted_at": "2026-11-07T19:26:54+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794079614.269689",
+      "summary_character_count": 112,
+      "summary_japanese": "キラル由来の対称性破れと格子分極率増強をもつ(S/R-NEA)2PbBr4単結晶をポリマーに集積し、超音波下で約8 Vを発生する柔軟圧電ナノ発電機を作製した。50 kHz信号を明瞭に検出し、機械的耐久性と環境安定性も示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Two-Dimensional Perovskite Single Crystals Enable Flexible Piezoelectric Nanogenerators for High-Sensitivity Ultrasound Detection"
     },
     "10.1021/acsmacrolett.6c00449": {
       "doi": "10.1021/acsmacrolett.6c00449",
@@ -16774,6 +16826,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Exploiting Asymmetric Nitrogen Chlorination for Construction of N -Chloroimine Atropisomers"
+    },
+    "10.1021/jacs.6c14637": {
+      "doi": "10.1021/jacs.6c14637",
+      "posted_at": "2026-11-07T19:26:58+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794079618.502399",
+      "summary_character_count": 116,
+      "summary_japanese": "keto基とphosphoryl基を備えるリン含有多環芳香族炭化水素を設計し、化学還元で開殻ラジカルを得た。ラジカルはTHF中で最大1週間持続し、室温でKasha則およびanti-Kasha過程による二重doublet発光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Closed- vs Open-Shell: Unlocking Doublet Emission in Persistent Phosphorus-Containing Polycyclic Aromatic Hydrocarbon Radicals"
     },
     "10.1021/jacs.6c14664": {
       "doi": "10.1021/jacs.6c14664",
