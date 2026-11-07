@@ -31,7 +31,7 @@
     "2026-11-04": 18,
     "2026-11-05": 24,
     "2026-11-06": 21,
-    "2026-11-07": 20
+    "2026-11-07": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1658,6 +1658,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Engineered Chiral Probiotics Ameliorate MASH via Gut-Liver Axis"
+    },
+    "10.1002/advs.78588": {
+      "doi": "10.1002/advs.78588",
+      "posted_at": "2026-11-07T05:59:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794031146.382489",
+      "summary_character_count": 99,
+      "summary_japanese": "ハロゲン系共形成剤を含む9種の非中心対称アミノ酸塩結晶をPFM、準静的測定、DFTで評価し、L-histidinium trifluoroacetateは機械刺激下で12.9 Vの開放電圧を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Piezoelectric Amino Acid Salts with Halogen-Based Coformers Produce Exceptional Force-Generated Voltage Output"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -13466,6 +13479,19 @@
       "summary_used_fallback": false,
       "title": "Single-Helical Dopamine-g-Curdlan Hydrogels Showing High Adhesiveness and Injectability"
     },
+    "10.1021/acsabm.6c01740": {
+      "doi": "10.1021/acsabm.6c01740",
+      "posted_at": "2026-11-07T05:58:54+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794031134.711979",
+      "summary_character_count": 120,
+      "summary_japanese": "チオール官能化PBLGとAuNSの共集合により、AuNS径・添加量、PBLG鎖長・二次構造に応じて馬蹄形中間体から閉環トロイドへ形態転移した。cryo-TEMとCDは、AuNS導入による局所的充填フラストレーションが湾曲を促すことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gold Nanosphere-Mediated Morphology Transitions in Hybrid Assemblies of Helical Polypeptides"
+    },
     "10.1021/acsaelm.6c01154": {
       "doi": "10.1021/acsaelm.6c01154",
       "posted_at": "2026-08-18T21:21:48+00:00",
@@ -14615,6 +14641,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Highly Efficient Molecular-to-Lattice Chirality Transfer in Benzene-Based Dion-Jacobson Perovskites for Circularly Polarized Light Detection"
+    },
+    "10.1021/acsnano.6c16760": {
+      "doi": "10.1021/acsnano.6c16760",
+      "posted_at": "2026-11-07T05:58:58+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794031138.605479",
+      "summary_character_count": 119,
+      "summary_japanese": "ミセル媒介自己集合で細孔・粒径可変のMAPF半導体を作製し、金属–フェノール配位網と非対称Au析出を導入した。電荷移動を促進するナノモーターは多波長制御運動、走光性集合、E. coliとK. mikimotoiへの相乗的抗菌作用を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Engineering of Polymeric Semiconductor Nanomotors with Phototactic Motion and Antimicrobial Function"
     },
     "10.1021/acsnanoscienceau.6c00082": {
       "doi": "10.1021/acsnanoscienceau.6c00082",
@@ -26159,6 +26198,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular complexes of dihydroazolopyrimidines with macrocyclic receptors: synthesis, rapid analysis, and evaluation"
     },
+    "10.3762/bjoc.22.128": {
+      "doi": "10.3762/bjoc.22.128",
+      "posted_at": "2026-11-07T05:59:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794031142.647659",
+      "summary_character_count": 122,
+      "summary_japanese": "2019年以降のchiral NHC-gold complexesを対象に、gold(I)の直線配位やgold(III)の酸化還元不安定性という課題を踏まえ、配位子設計原理とベンチマーク不斉変換における触媒性能への影響を概説するレビューである。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent advances in chiral NHC-gold complexes for asymmetric catalysis"
+    },
     "10.3762/bxiv.2026.40.v1": {
       "doi": "10.3762/bxiv.2026.40.v1",
       "posted_at": "2026-10-31T11:41:36+00:00",
@@ -26873,6 +26925,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Noncovalent And Host-guest Supramolecular Complexes in Nanomedicine: Self-healing Materials, Biomaterial Hydrogels, Bioimaging and Regenerative Medicine"
+    },
+    "10.9734/jerr/2026/v28i112045": {
+      "doi": "10.9734/jerr/2026/v28i112045",
+      "posted_at": "2026-11-07T05:59:10+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794031150.577579",
+      "summary_character_count": 106,
+      "summary_japanese": "内径17 mmの円形空気ダクトに着脱式らせんリブを挿入し、Re=984–9100で熱・流動特性を実験評価した。d/D=0.08、p/D=1が最大の熱伝達と最良の熱水力性能を示す一方、平滑管より摩擦抵抗は増加した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios"
     },
     "10.9744/ced.28.2.264-275": {
       "doi": "10.9744/ced.28.2.264-275",
