@@ -31,7 +31,8 @@
     "2026-11-04": 18,
     "2026-11-05": 24,
     "2026-11-06": 21,
-    "2026-11-07": 35
+    "2026-11-07": 35,
+    "2026-11-08": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -944,6 +945,32 @@
       "summary_used_fallback": false,
       "title": "Ultra-Long Helical CNFs 3D-Networks as High-Conductivity Current Collectors for Efficient Sodium Deposition"
     },
+    "10.1002/adma.75640": {
+      "doi": "10.1002/adma.75640",
+      "posted_at": "2026-11-07T17:26:04+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794072364.805309",
+      "summary_character_count": 109,
+      "summary_japanese": "Ag修飾キラルCu触媒でCISSによりH2生成を抑え、Ag由来*CO供給と協働してCO2のCH4還元を促進した。−0.7 VでCH4 FE 67.0%、無バイアス太陽光変換でFE 54.1%、効率5.86%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin-Selective Hydrogen Utilization Enables Efficient Electrochemical CO 2 -to-CH 4 Conversion in Ag-Modified Chiral Cu Catalysts for Unassisted Solar Fuel Production"
+    },
+    "10.1002/adma.75663": {
+      "doi": "10.1002/adma.75663",
+      "posted_at": "2026-11-07T17:26:13+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794072373.037849",
+      "summary_character_count": 130,
+      "summary_japanese": "外部刺激を適応的・プログラム可能な発光出力へ変換するSmart luminescent materialsを、溶液・固体・hydrogel・CPL・upconversion系にわたり概説し、励起状態や階層構造の制御機構と刺激応答CPL・光子変換戦略を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Smart Luminescent Materials: From Basic Luminophores to Stimuli-Responsive Luminescent Systems"
+    },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
       "posted_at": "2026-07-20T09:43:17+00:00",
@@ -1814,6 +1841,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Spin Polarized Chiral Co 3 O 4 Boosts High-Pressure CO 2 Electroreduction to Ethanol With 90% Selectivity"
+    },
+    "10.1002/ange.1737876": {
+      "doi": "10.1002/ange.1737876",
+      "posted_at": "2026-11-07T17:26:00+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794072360.566329",
+      "summary_character_count": 116,
+      "summary_japanese": "Pd(II)とdiketopyrrolopyrrole ligand LA、fluorenone/carbazole共配位子から異配位ケージを構築し、Pd2LA2L12でのみLAからL1への逆エネルギー移動と励起寿命延長を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ping-Pong Energy Transfer in a Heteroleptic Mixed-Chromophore Coordination Cage"
     },
     "10.1002/ange.1802913": {
       "doi": "10.1002/ange.1802913",
@@ -16579,6 +16619,19 @@
       "summary_used_fallback": false,
       "title": "Enantio- and Regioselective Ni-Catalyzed Hydroarylation of Alkenes and Alkynes to Form C-N Axially Chiral Heterobiaryls"
     },
+    "10.1021/jacs.6c13732": {
+      "doi": "10.1021/jacs.6c13732",
+      "posted_at": "2026-11-07T17:25:52+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794072352.260529",
+      "summary_character_count": 105,
+      "summary_japanese": "Tröger’s base由来のキラル半不安定P^N配位子TrögPhosを設計し、Au(I)/Au(III)触媒によるアルケンのヘテロ・カルボ官能基化39例で、最高>99% eeかつ最大98%収率を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Au(I)/Au(III) Catalysis with Chiral bis(P''N) Ligands Deriving from Troger’s Bases"
+    },
     "10.1021/jacs.6c13874": {
       "doi": "10.1021/jacs.6c13874",
       "posted_at": "2026-09-30T12:37:07+00:00",
@@ -20998,6 +21051,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Biomimetic all-metal Pd 11 helicene"
+    },
+    "10.1126/sciadv.aeg3954": {
+      "doi": "10.1126/sciadv.aeg3954",
+      "posted_at": "2026-11-07T17:26:09+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794072369.036969",
+      "summary_character_count": 115,
+      "summary_japanese": "UV光酸化および亜硝酸媒介Fe(II)酸化で合成した前生物的magnetiteは単一渦・多渦磁区が主であり、3次元micromagnetic simulationでホモキラル化合物との相互作用による不可逆的交換駆動再磁化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Prebiotic magnetite enables chirality-magnetic surface feedback"
     },
     "10.1126/sciadv.aeh0887": {
       "doi": "10.1126/sciadv.aeh0887",
