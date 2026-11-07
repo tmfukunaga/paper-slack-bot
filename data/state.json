@@ -31,7 +31,7 @@
     "2026-11-04": 18,
     "2026-11-05": 24,
     "2026-11-06": 21,
-    "2026-11-07": 30
+    "2026-11-07": 35
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3342,6 +3342,19 @@
       "summary_used_fallback": false,
       "title": "Spin-Polarized Interfaces Redirect CO 2 Reduction From CO to Formate"
     },
+    "10.1002/anie.1737876": {
+      "doi": "10.1002/anie.1737876",
+      "posted_at": "2026-11-07T13:02:01+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794056521.194889",
+      "summary_character_count": 132,
+      "summary_japanese": "Pd(II)、diketopyrrolopyrrole ligand LA、fluorenone L1またはcarbazole L2から発光性ヘテロレプティックケージを構築し、TA分光によりL1系でのみLAからL1三重項への逆エネルギー移動と励起寿命延長を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ping-Pong Energy Transfer in a Heteroleptic Mixed-Chromophore Coordination Cage"
+    },
     "10.1002/anie.1802913": {
       "doi": "10.1002/anie.1802913",
       "posted_at": "2026-10-31T16:49:18+00:00",
@@ -5271,6 +5284,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Amino Acid Simulated Host-Guest Systems With Full-Color High-Temperature Organic Afterglow"
+    },
+    "10.1002/anie.7702158": {
+      "doi": "10.1002/anie.7702158",
+      "posted_at": "2026-11-07T13:02:13+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794056533.274299",
+      "summary_character_count": 88,
+      "summary_japanese": "両親媒性calixarenesによる熱力学的にプログラム可能な環状ナノキャリアを開発し、多剤の指定積載比との一致率および細胞・腫瘍組織への送達比の一致率を95%以上で実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembled Macrocyclic Nanocarriers for Rapid Ratiometric Loading and Dosing of Multidrug Combinations"
     },
     "10.1002/anie.7715295": {
       "doi": "10.1002/anie.7715295",
@@ -10081,6 +10107,19 @@
       "summary_used_fallback": false,
       "title": "Comparative investigation of chirality-dependent thermoelectric performance in hexagonal boron nitride nanoscrolls under ballistic transport regime"
     },
+    "10.1016/j.saa.2026.129096": {
+      "doi": "10.1016/j.saa.2026.129096",
+      "posted_at": "2026-11-07T13:01:54+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794056514.453379",
+      "summary_character_count": 121,
+      "summary_japanese": "(S)-3,7-dimethyl-1-octyl置換PBTとPTPOの水上凝集をπ-A等温線、BAM、LS膜の光学測定で解析した。PBTは3Dキラル凝集体と内在的ECDを、PTPOは圧縮下で非相反ECDを示す2Dキラル双軸ドメインを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "3D vs. 2D chiral aggregation of organic pi-conjugated dyes on water: intrinsic and non-reciprocal chiroptical properties in Langmuir-Schaefer thin films"
+    },
     "10.1016/j.snb.2026.140942": {
       "doi": "10.1016/j.snb.2026.140942",
       "posted_at": "2026-09-24T11:07:24+00:00",
@@ -14558,6 +14597,19 @@
       "summary_used_fallback": false,
       "title": "Correlative Multimodal Framework Reveals Supramolecular Chirality Loss Preceding Fibrillar Rarefaction in Dermal Collagen"
     },
+    "10.1021/acsnano.6c07118": {
+      "doi": "10.1021/acsnano.6c07118",
+      "posted_at": "2026-11-07T13:02:05+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794056525.707999",
+      "summary_character_count": 101,
+      "summary_japanese": "一軸配向polythiophene層を回転ずらしで積層し、アキラル高分子から可視～近赤外のCDを示すらせん構造膜を作製した。層数・ねじれ角・積層の手性でCDを制御し、透明スペーサーによる増強を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable Chiroptical Response in Helically Stacked Multilayers of Achiral Polythiophene"
+    },
     "10.1021/acsnano.6c08236": {
       "doi": "10.1021/acsnano.6c08236",
       "posted_at": "2026-10-11T12:07:08+00:00",
@@ -16552,6 +16604,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "One-Pot Chirality-Assisted Synthesis of Shape-Persistent Nanobelts with Very High Dissymmetry Factors"
+    },
+    "10.1021/jacs.6c13964": {
+      "doi": "10.1021/jacs.6c13964",
+      "posted_at": "2026-11-07T13:02:09+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794056529.702099",
+      "summary_character_count": 100,
+      "summary_japanese": "稀有なクラスター基盤三重連結[2]catenaneが、メタノールにより八面体ケージへ選択的に再構築する過程をX線、NMR、DFTで解析し、配位結合再編とアルキン–スルフィド付加が協奏する機構を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent-Directed Supramolecular Reconstruction Through Coupled Coordination-Bond Dynamics and Covalent-Bond Formation"
     },
     "10.1021/jacs.6c14044": {
       "doi": "10.1021/jacs.6c14044",
