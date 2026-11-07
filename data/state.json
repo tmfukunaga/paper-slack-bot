@@ -31,7 +31,7 @@
     "2026-11-04": 18,
     "2026-11-05": 24,
     "2026-11-06": 21,
-    "2026-11-07": 25
+    "2026-11-07": 30
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4648,6 +4648,19 @@
       "summary_used_fallback": false,
       "title": "Organocatalytic Dynamic Kinetic Resolution for the Stereoconvergent Synthesis of N-N Axially Chiral Compounds"
     },
+    "10.1002/anie.6203848": {
+      "doi": "10.1002/anie.6203848",
+      "posted_at": "2026-11-07T09:37:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794044273.156339",
+      "summary_character_count": 117,
+      "summary_japanese": "Ni触媒により、α-amino acid derivativesと内部アルキンの初の位置・エナンチオ選択的脱アミノアルケニル化を開発し、優れたE/Z選択性でキラルhomoallylic carbonyl compoundsを合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioconvergent and Regioselective Deaminative Alkenylation of α-Amino Acid Derivatives With Internal Alkynes"
+    },
     "10.1002/anie.6219487": {
       "doi": "10.1002/anie.6219487",
       "posted_at": "2026-09-03T07:48:05+00:00",
@@ -5602,6 +5615,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chemical Reaction-Powered Self-Assembly and Dehydration of Supramolecular Hydrogels for Phase-Transitional Robots"
+    },
+    "10.1002/anie.8733433": {
+      "doi": "10.1002/anie.8733433",
+      "posted_at": "2026-11-07T09:37:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794044277.713269",
+      "summary_character_count": 92,
+      "summary_japanese": "IEMを側鎖反応点とするMMA-g-BA勾配共重合体に多様な水素結合モチーフを導入し、配列と種類で物性を制御した。四重水素結合体は高い剛性・靱性、自己修復性、増強されたCTEを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Control of Sequences and H-Bonding Motifs in IEM-Derived Copolymers Enables Mechanical Tunability, Self-Healing, and Clusterization-Triggered Emission"
     },
     "10.1002/anie.8735110": {
       "doi": "10.1002/anie.8735110",
@@ -8020,6 +8046,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Probing Molecular Chirality via Linear Dichroism of Molecule-Loaded Anisotropic Plasmonic Slots"
+    },
+    "10.1002/nap2.70324": {
+      "doi": "10.1002/nap2.70324",
+      "posted_at": "2026-11-07T09:37:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794044264.971679",
+      "summary_character_count": 98,
+      "summary_japanese": "銀ナノワイヤにnanogroove点欠陥を導入し、TM 0–HE -1モード変換と干渉によるカイラルフィルタリングをFDTD・散乱行列法で解析した。最適形状で消光比2.77、実験で1.96を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Plasmonic Filtering in Silver Nanowires via Point-Defect-Induced Mode Conversion and Interference"
     },
     "10.1002/open.70291": {
       "doi": "10.1002/open.70291",
@@ -11353,6 +11392,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Undergraduate Laboratory Innovating Project for Chiral Amino Acid Separation and Detection Using a Self-Made Low-Pressure Liquid Chromatography"
+    },
+    "10.1021/acs.jchemed.6c00687": {
+      "doi": "10.1021/acs.jchemed.6c00687",
+      "posted_at": "2026-11-07T09:37:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794044260.821729",
+      "summary_character_count": 126,
+      "summary_japanese": "学部実験としてbis(pyridyl) ligandを合成し、Pd(II)との配位自己集合をNMRで解析する。2:1条件で速度論支配のM2L4 cageと熱力学的に安定なinterlocked M4L8 complexを生じ、反応条件が分布を制御する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Discrete and Interlocked Metal-Organic Cages: A Rationally Designed Laboratory Platform for Investigating Self-Assembly and the Conversion of Kinetic to Thermodynamic Supramolecular Complexes"
     },
     "10.1021/acs.jcim.6c01874": {
       "doi": "10.1021/acs.jcim.6c01874",
@@ -21960,6 +22012,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Comparison of clinical and radiological outcomes of a proximal femoral nail with a helical screw versus a proximal femoral nail with two screws in elderly patients with intertrochanteric femur fractures"
+    },
+    "10.18494/sam6551": {
+      "doi": "10.18494/sam6551",
+      "posted_at": "2026-11-07T09:37:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794044269.128819",
+      "summary_character_count": 105,
+      "summary_japanese": "油水二相系の含水率測定用に、電極の有効作用経路を延長する3次元らせん均一分布センシング構造を設計し、COMSOL解析と直交実験で最適化した。静的試験で高い平均感度と広い測定範囲、良好な直線性・安定出力を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water Cut Measurement of Oil-water Two-phase System Using Helical Uniform Sensing Structure"
     },
     "10.20944/preprints202607.1344.v1": {
       "doi": "10.20944/preprints202607.1344.v1",
