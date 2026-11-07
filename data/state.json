@@ -32,7 +32,7 @@
     "2026-11-05": 24,
     "2026-11-06": 21,
     "2026-11-07": 35,
-    "2026-11-08": 10
+    "2026-11-08": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -958,6 +958,19 @@
       "summary_used_fallback": false,
       "title": "Spin-Selective Hydrogen Utilization Enables Efficient Electrochemical CO 2 -to-CH 4 Conversion in Ag-Modified Chiral Cu Catalysts for Unassisted Solar Fuel Production"
     },
+    "10.1002/adma.75656": {
+      "doi": "10.1002/adma.75656",
+      "posted_at": "2026-11-07T21:27:29+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794086849.732839",
+      "summary_character_count": 114,
+      "summary_japanese": "キラル三本ロッドtensegrity cellに剛軟複合構造と幾何学的インターロックを導入し、圧縮―ねじりを機械・運動学的に分離した。97°のねじりと10,000回後4.87%のピーク力低下を示し、外部界面を並進のみに維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cross-Scale Decoupling of Mechanics and Kinematics in Chiral Tensegrity Metamaterials"
+    },
     "10.1002/adma.75663": {
       "doi": "10.1002/adma.75663",
       "posted_at": "2026-11-07T17:26:13+00:00",
@@ -1750,6 +1763,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A NEAT Approach to Evolving Neural-Network-Based Optimization of Chiral Photonic Metasurfaces: Application of a NeuroEvolution-of-Augmenting-Topologies Pipeline"
+    },
+    "10.1002/ajoc.70576": {
+      "doi": "10.1002/ajoc.70576",
+      "posted_at": "2026-11-07T21:27:45+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794086864.968179",
+      "summary_character_count": 100,
+      "summary_japanese": "配位駆動型metallo-supramolecular polymersの合成、電荷移動、電気化学センシングを総説し、配位子・金属種・膜作製が酸化還元特性や分析応答を制御する設計原理と課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Coordination-Driven Metallo-Supramolecular Polymers as Electrochemical Sensing Interfaces: Molecular Design, Charge Transfer, and Applications"
     },
     "10.1002/ajoc.70578": {
       "doi": "10.1002/ajoc.70578",
@@ -4363,6 +4389,19 @@
       "summary_used_fallback": false,
       "title": "Expanding the Chemical Space of Analytes in the 2G Crystalline Sponge Method: Size-Compensation Strategy for the Structural Analysis of Low-Polarity Small Molecules"
     },
+    "10.1002/anie.4807117": {
+      "doi": "10.1002/anie.4807117",
+      "posted_at": "2026-11-07T21:27:24+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794086844.615409",
+      "summary_character_count": 128,
+      "summary_japanese": "pyrene-integrated imidazole系開殻diradical PBQを合成し、∼1600 nmまでの吸収と高安定性を実現した。1 sun下で蒸気生成2.05 kg m−2 h−1、変換効率98%を示し、発電と蒸気・電力同時生成も達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrastable NIR Absorbing Imidazole-Based Open-Shell Diradicaloids for High-Efficiency Photothermal Steam and Power Generation"
+    },
     "10.1002/anie.4825806": {
       "doi": "10.1002/anie.4825806",
       "posted_at": "2026-10-17T02:59:20+00:00",
@@ -6786,6 +6825,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Designed Construction of One-Dimensional Positional-Isomeric Chiral Covalent Organic Frameworks for Asymmetric Aldol Catalysis"
+    },
+    "10.1002/chem.71893": {
+      "doi": "10.1002/chem.71893",
+      "posted_at": "2026-11-07T21:27:36+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794086856.876779",
+      "summary_character_count": 94,
+      "summary_japanese": "キラルdiboron鋳型によるisatin imineの不斉還元的ホモカップリングで、3,3′-bisoxindole型vicinal diamineを最大90%収率、99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Asymmetric Reductive Homocoupling of Isatin Imines Templated by Chiral Diboron"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -22533,6 +22585,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiroptical Signatures and Asymmetric Electrosynthesis in Intrinsically Chiral B20 PtGa Crystals"
+    },
+    "10.22541/authorea.15011831/v1": {
+      "doi": "10.22541/authorea.15011831/v1",
+      "posted_at": "2026-11-07T21:27:40+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794086860.846549",
+      "summary_character_count": 121,
+      "summary_japanese": "DECを包接したSBE-β-CD-DECをPUA/PEGDA中で交流電場配向し、連続的な多経路Li+輸送網を構築した。電解質は5.09×10−4 S cm−1の導電率を示し、Li||LiFePO4で400サイクル後97.5%の容量を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vertically Aligned Supramolecular Host-Guest Complexes of Sulfobutyl Ether β-Cyclodextrin Enable Multi-Pathway Ion Transport in Composite Polymer Electrolytes"
     },
     "10.2340/biid.v13.47065": {
       "doi": "10.2340/biid.v13.47065",
