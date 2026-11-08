@@ -31,7 +31,8 @@
     "2026-11-05": 24,
     "2026-11-06": 21,
     "2026-11-07": 35,
-    "2026-11-08": 24
+    "2026-11-08": 24,
+    "2026-11-09": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2140,6 +2141,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-Driven Piezocatalysis in MOFs: Achieving Efficient Cocatalyst-Free Hydrogen Evolution"
     },
+    "10.1002/ange.3314002": {
+      "doi": "10.1002/ange.3314002",
+      "posted_at": "2026-11-08T17:56:39+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794160599.822289",
+      "summary_character_count": 127,
+      "summary_japanese": "2つのheptagonを埋め込んだaza-superhelicene 1とbenzenoid類縁体2を比較し、鞍型曲率がπ電子分布と遷移双極子を変調することを示した。1は発光異方性因子を2倍に増大させ、両系は|gMCPL|=2×10−3 T−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of Heptagonal Rings on Chiroptical and Magneto-Optical Properties of Aza-Superhelicenes"
+    },
     "10.1002/ange.3329596": {
       "doi": "10.1002/ange.3329596",
       "posted_at": "2026-09-28T12:54:43+00:00",
@@ -3984,6 +3998,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanism-Selective Self-Assembly of Amphiphilic Dendronized Brush Block Copolymers Into Lamellar and Porous Photonic Pigments"
+    },
+    "10.1002/anie.3314002": {
+      "doi": "10.1002/anie.3314002",
+      "posted_at": "2026-11-08T17:56:31+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794160591.590559",
+      "summary_character_count": 130,
+      "summary_japanese": "二つのheptagonを埋め込んだaza-superhelicene 1とbenzenoid類縁体2を比較し、鞍型曲率によるπ電子分布・遷移双極子の変化を示した。1は発光解離因子が2倍に増大し、両系は金属中心なしで|gMCPL|=2×10−3 T−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of Heptagonal Rings on Chiroptical and Magneto-Optical Properties of Aza-Superhelicenes"
     },
     "10.1002/anie.3329596": {
       "doi": "10.1002/anie.3329596",
@@ -11406,6 +11433,19 @@
       "summary_used_fallback": false,
       "title": "Solvent-Directed Self-Assembly of Chiral Metal-Organic Cages and Coordination Polymers from Identical Components and Their Circularly Polarized Luminescence"
     },
+    "10.1021/acs.inorgchem.6c04723": {
+      "doi": "10.1021/acs.inorgchem.6c04723",
+      "posted_at": "2026-11-08T17:56:35+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794160595.724059",
+      "summary_character_count": 113,
+      "summary_japanese": "N-confused porphyrinのRh(III)/Ir(III)錯体を合成し、分光・電気化学・XRD・DFTで解析した。アシル配位子の水素結合やI2架橋により、固体でホモ／ヘテロキラルな1次元超分子ポリマーを形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Polymers of Chiral and Achiral Rhodium and Iridium Complexes of N-Confused Porphyrin"
+    },
     "10.1021/acs.inorgchem.6c04747": {
       "doi": "10.1021/acs.inorgchem.6c04747",
       "posted_at": "2026-10-30T21:56:36+00:00",
@@ -13687,6 +13727,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis, Crystallographic Characterization, and Proton-Modulated Physical Properties of an Azulene-Embedded Chiral Nanographene"
     },
+    "10.1021/acs.orglett.6c04228": {
+      "doi": "10.1021/acs.orglett.6c04228",
+      "posted_at": "2026-11-08T17:56:24+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794160584.270389",
+      "summary_character_count": 124,
+      "summary_japanese": "2つのenantiopure BINOLを含む8-naphthalene環状体C[2]B[4]NをFriedel-Crafts環化で合成した。水溶性誘導体はゲストを最大4.9 × 10^8 M−1で結合し、最大4.7倍のエナンチオマー識別を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Methylene-Bridged Chiral BINOL Macrocycle for Molecular Recognition in Water"
+    },
     "10.1021/acs.orglett.6c04246": {
       "doi": "10.1021/acs.orglett.6c04246",
       "posted_at": "2026-10-17T07:39:42+00:00",
@@ -14953,6 +15006,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Engineering of Polymeric Semiconductor Nanomotors with Phototactic Motion and Antimicrobial Function"
+    },
+    "10.1021/acsnano.6c19623": {
+      "doi": "10.1021/acsnano.6c19623",
+      "posted_at": "2026-11-08T17:56:28+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794160588.026499",
+      "summary_character_count": 125,
+      "summary_japanese": "キラルPDIとAuNPsの共集合体で、温度によりCD-ee相関が278 Kでは負、318 Kでは正へ転換した。MD計算と前集合制御実験から、AuNPsがアルキル鎖間van der Waals相互作用を介してPDIのキラル認識経路を変えることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unusual CD-ee Dependence in Self-Assembled Chiral Nanocomposites through Nanoparticle-Mediated Interactions"
     },
     "10.1021/acsnanoscienceau.6c00082": {
       "doi": "10.1021/acsnanoscienceau.6c00082",
