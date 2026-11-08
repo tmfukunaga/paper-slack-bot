@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-07": 25,
     "2026-10-08": 15,
     "2026-10-09": 15,
     "2026-10-10": 30,
@@ -32,7 +31,7 @@
     "2026-11-05": 24,
     "2026-11-06": 21,
     "2026-11-07": 35,
-    "2026-11-08": 15
+    "2026-11-08": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -16554,6 +16553,19 @@
       "summary_used_fallback": false,
       "title": "Dynamic Metal-Organic Tweezer Enables High-Resolution Nanopore Analysis of Steroid Hormones"
     },
+    "10.1021/jacs.6c12774": {
+      "doi": "10.1021/jacs.6c12774",
+      "posted_at": "2026-11-08T00:36:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794098216.087369",
+      "summary_character_count": 118,
+      "summary_japanese": "Au(111)上でtricyclo(dimethoxy-vinyl-phenanthrene)からKeOを合成し、SPM・XPS・QM/MMにより、423 Kで隣接πラジカルのスピン密度重なりが選択的環化脱水素化を誘起する機構を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unveiling pi-Radical Induced Regioselective Pathways in On-Surface Synthesis of Kekulene-Hexaone"
+    },
     "10.1021/jacs.6c12829": {
       "doi": "10.1021/jacs.6c12829",
       "posted_at": "2026-08-22T12:34:24+00:00",
@@ -25562,6 +25574,19 @@
       "summary_used_fallback": false,
       "title": "Numerical Analysis of First- and Second-Law Performance in Round Tubes Equipped with Multiple Helical Screw Tape Inserts"
     },
+    "10.3390/eng7110618": {
+      "doi": "10.3390/eng7110618",
+      "posted_at": "2026-11-08T00:37:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794098233.495229",
+      "summary_character_count": 121,
+      "summary_japanese": "1.5 kW用ヘリカル垂直軸風車DU-H-18を風況解析・ロータ設計・DMSTで評価し、3次元CFDと比較した。DMSTは最大出力係数0.4071、CFDは0.3806を予測し、λ≈3で約3%差を示したが、CFDトルクは時間刻み感度を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aerodynamic Design and Numerical Assessment of a 1.5 kW Helical Vertical-Axis Wind Turbine Using DMST and Three-Dimensional CFD"
+    },
     "10.3390/fluids11090215": {
       "doi": "10.3390/fluids11090215",
       "posted_at": "2026-08-29T18:10:49+00:00",
@@ -25652,6 +25677,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetic Field Effects on Q355B Steel Corrosion Morphology and Helical Anchor Uplift Behavior"
+    },
+    "10.3390/jmmp10110489": {
+      "doi": "10.3390/jmmp10110489",
+      "posted_at": "2026-11-08T00:37:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794098224.983209",
+      "summary_character_count": 97,
+      "summary_japanese": "楕円体部品のインクリメンタル成形に等弧長らせん工具経路を導入し、平板・曲面素板で解析・実験した。従来経路比で最小肉厚を11.37%増加、最大相当塑性ひずみを7.03%低減し、底部欠陥を緩和した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Simulation and Experimental Study on Improving Wall Thickness Uniformity for Incremental Forming of Ellipsoidal Parts Using Equal Arc Length Helical Toolpaths"
     },
     "10.3390/jmse14201926": {
       "doi": "10.3390/jmse14201926",
@@ -26589,6 +26627,19 @@
       "summary_used_fallback": false,
       "title": "Relative Helicity as a Topological Diagnostic of Three-dimensional Magnetic Null Reconnection Regimes"
     },
+    "10.3847/1538-4357/aeb09b": {
+      "doi": "10.3847/1538-4357/aeb09b",
+      "posted_at": "2026-11-08T00:37:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794098220.743689",
+      "summary_character_count": 132,
+      "summary_japanese": "OJ 287を2012–2023年に22–343.5 GHzと光学偏光で監視し、2015–2017年にのみ約1.5年で300°超のEVPA回転を検出した。91.5 GHz光度曲線からδvar≈8–11と求め、ヘリカル磁場中を伝播する単一擾乱の偏光放射優勢を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The 2015-2017 Large EVPA Rotation in OJ 287: Dominant Propagating Component in a Helical Magnetic Field with Time-dependent Viewing Geometry"
+    },
     "10.3847/2041-8213/ae9cb4": {
       "doi": "10.3847/2041-8213/ae9cb4",
       "posted_at": "2026-09-04T02:54:37+00:00",
@@ -27173,6 +27224,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Driven Photonic PCR Enables Label-Free Genetic Amplification"
+    },
+    "10.68366/r2wxe526": {
+      "doi": "10.68366/r2wxe526",
+      "posted_at": "2026-11-08T00:37:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794098229.279539",
+      "summary_character_count": 106,
+      "summary_japanese": "平面chryseneのC2h対称性に基づき、反射等変な装飾実現仮定下で積層配列のキラリティーを分類した。長さ6では32配列中8がアキラル、24が12組の鏡像対となり、非対称末端capが非自明な安定化群を除去した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Emergent Assembly Chirality and Flip Kinematics: Euclidean Stabilizers of the Frame Classes, Enantiotopic Faces of the C2h Core, and Initiator Capping of the Interior Lattice"
     },
     "10.70773/revistatopicos/793468269": {
       "doi": "10.70773/revistatopicos/793468269",
