@@ -32,7 +32,7 @@
     "2026-11-06": 21,
     "2026-11-07": 35,
     "2026-11-08": 24,
-    "2026-11-09": 5
+    "2026-11-09": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -515,6 +515,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Bioinspired Helical Hydrogel Scaffold with Janus Wettability for Magnetically and Thermally Responsive Tricuspid Valve Repair"
+    },
+    "10.1002/adfm.79561": {
+      "doi": "10.1002/adfm.79561",
+      "posted_at": "2026-11-08T19:20:11+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794165611.188009",
+      "summary_character_count": 125,
+      "summary_japanese": "Benzophosphole nanohoopのexo/endo配置が自己集合と水和環境を制御し、exo体は揮発性閾値スイッチング、endo体は非揮発性アナログ記憶を示した。exo系では湿度応答性スイッチングによる耐雑音性呼吸モニタリングも実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembly and Humidity-Adaptive Memristive Behavior of Benzophosphole Nanohoops"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -2790,6 +2803,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Co-Assembled Helical Polymer Nanofibers Enable Efficient CO 2 Photoreduction Through Interchain Energy Transfer"
+    },
+    "10.1002/ange.7702158": {
+      "doi": "10.1002/ange.7702158",
+      "posted_at": "2026-11-08T19:20:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794165631.717499",
+      "summary_character_count": 104,
+      "summary_japanese": "両親媒性calixarenesに基づく熱力学的にプログラム可能な環状ナノキャリアを開発し、多様な薬剤を設定比と95％超で一致させて担持・細胞および腫瘍組織へ送達し、薬剤併用比の高スループット探索を可能にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembled Macrocyclic Nanocarriers for Rapid Ratiometric Loading and Dosing of Multidrug Combinations"
     },
     "10.1002/ange.7882744": {
       "doi": "10.1002/ange.7882744",
@@ -5889,6 +5915,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Structural Water-Enabled Helicity Emergence From an Asymmetric Achiral Molecule"
+    },
+    "10.1002/anie.9223476": {
+      "doi": "10.1002/anie.9223476",
+      "posted_at": "2026-11-08T19:20:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794165627.511629",
+      "summary_character_count": 115,
+      "summary_japanese": "Class II diterpene cyclasesで8種のGGPPオレフィン異性体を検討し、Z-GGPPから未到達のent-syn-CPPと新規単環生成物を得た。計算解析で環化選択性を規定する残基を同定し、生成物比を改変した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Diterpene Cyclases Can Transform Unnatural Cis -allylic Pyrophosphate Substrates Into Inaccessible Scaffolds"
     },
     "10.1002/anie.9228845": {
       "doi": "10.1002/anie.9228845",
@@ -13857,6 +13896,19 @@
       "summary_used_fallback": false,
       "title": "Leveraging Chirality-Induced Spin Selectivity to Enhance the Production of Reactive Oxygen Species"
     },
+    "10.1021/acsaem.6c02866": {
+      "doi": "10.1021/acsaem.6c02866",
+      "posted_at": "2026-11-08T19:20:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794165615.435819",
+      "summary_character_count": 101,
+      "summary_japanese": "キラルNDI層とCo0.6Ni0.4Fe2O4から成るヘテロ界面を4条件で解析し、キラリティーと磁場偏極の非加成的相互作用、電荷移動抵抗低下、OERでの酸素由来ラジカルおよびH2O2生成の抑制を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Switchable Spin Transport at Chiral-Ferrimagnetic Nanointerfaces for Selective Oxygen Evolution"
+    },
     "10.1021/acsami.6c07783": {
       "doi": "10.1021/acsami.6c07783",
       "posted_at": "2026-09-04T22:47:01+00:00",
@@ -17372,6 +17424,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Double Boron-Deleting Annulation: Modular Access to Chiral Nonalternant B,N-Helicenes with Enhanced Chiroptical Properties"
+    },
+    "10.1021/jacs.6c16713": {
+      "doi": "10.1021/jacs.6c16713",
+      "posted_at": "2026-11-08T19:20:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794165623.493069",
+      "summary_character_count": 125,
+      "summary_japanese": "trihydroxylキラル配位子に基づくMg(II)/H-bonding触媒により、環状アミンと不飽和enoneの不斉アミノ化–プロトン化を高エナンチオ選択的に達成し、三級・四級立体中心をもつγ-amino alcoholをone-pot合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mg(II)/H-Bonding Catalyst Design for Asymmetric Amination-Protonation Reaction"
     },
     "10.1021/jacs.6c16883": {
       "doi": "10.1021/jacs.6c16883",
