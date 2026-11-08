@@ -31,7 +31,7 @@
     "2026-11-05": 24,
     "2026-11-06": 21,
     "2026-11-07": 35,
-    "2026-11-08": 20
+    "2026-11-08": 24
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8268,6 +8268,19 @@
       "summary_used_fallback": false,
       "title": "Benzothiadiazole- and BINOL -based chiral pi -conjugated polymers for tracing nitroaromatic compounds"
     },
+    "10.1002/pi.70223": {
+      "doi": "10.1002/pi.70223",
+      "posted_at": "2026-11-08T04:25:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794111958.330199",
+      "summary_character_count": 117,
+      "summary_japanese": "電気化学デバイス用イオン交換膜におけるcrown etherおよびcryptand修飾を総説し、水電解、燃料電池、電気透析への応用を整理した。cryptandは対応ゲストへの錯形成定数がcrown etherより2～4桁高いとされる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Research progress on crown-ether- and cryptand-functionalized ion exchange membranes for electrochemical devices"
+    },
     "10.1002/pola.70286": {
       "doi": "10.1002/pola.70286",
       "posted_at": "2026-08-08T09:17:30+00:00",
@@ -9743,6 +9756,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-Barrier skyrmion racetrack with topological protection, Hall effect suppression, and reconfigurable logic"
     },
+    "10.1016/j.jmrt.2026.11.007": {
+      "doi": "10.1016/j.jmrt.2026.11.007",
+      "posted_at": "2026-11-08T04:26:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794111965.309739",
+      "summary_character_count": 108,
+      "summary_japanese": "LCD-based SLAでtri-chiralとanti-tetra-chiral構造を造形し、リガメント寸法が圧縮応答に及ぼす影響を評価した。高密度ほど圧縮強度が高く、後者でより大きなオーゼティック挙動を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanical behavior of trichiral and anti-tetra-chiral auxetic structures fabricated with VAT photopolymerization additive manufacturing"
+    },
     "10.1016/j.jorganchem.2026.124303": {
       "doi": "10.1016/j.jorganchem.2026.124303",
       "posted_at": "2026-10-04T11:47:35+00:00",
@@ -9899,6 +9925,19 @@
       "summary_used_fallback": false,
       "title": "A Cu2+-functionalized supramolecular deep eutectic solvent with tunable polarity: synergistic coordination and host-guest inclusion for efficient and selective flavonoid extraction"
     },
+    "10.1016/j.microc.2026.120217": {
+      "doi": "10.1016/j.microc.2026.120217",
+      "posted_at": "2026-11-08T04:26:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794111969.725109",
+      "summary_character_count": 114,
+      "summary_japanese": "teicoplanin系キラル固定相HPLC-MS/MSと希釈直接注入で蜂蜜中アミノ酸を誘導体化せず分離し、18種エナンチオマーを40分以内に分析した。15試料ではL体優勢で、プロファイルは地理的起源より植物起源を強く識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "HPLC-MS/MS enantiomeric profiling of amino acids in honey for authentication and traceability using a dilute-and-shoot strategy and a teicoplanin-based chiral stationary phase"
+    },
     "10.1016/j.micromeso.2026.114323": {
       "doi": "10.1016/j.micromeso.2026.114323",
       "posted_at": "2026-07-24T00:21:40+00:00",
@@ -10015,6 +10054,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Transient coupling analysis for helical cruciform fuel core based on 3D method of characteristics and refined subchannel method"
+    },
+    "10.1016/j.newton.2026.100722": {
+      "doi": "10.1016/j.newton.2026.100722",
+      "posted_at": "2026-11-08T04:26:13+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794111973.758389",
+      "summary_character_count": 109,
+      "summary_japanese": "カイラル反強磁性体Mn 3 Snエピタキシャル薄膜で量子幾何学起源の非線形Hall効果を観測し、重金属層由来のspin-orbit torqueにより、カイラルスピン構造と結合した状態を電流で非揮発的に反転・制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electric-current manipulation of quantum-geometric nonlinear Hall state in a chiral antiferromagnet"
     },
     "10.1016/j.newton.2026.100723": {
       "doi": "10.1016/j.newton.2026.100723",
