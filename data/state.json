@@ -32,7 +32,7 @@
     "2026-11-06": 21,
     "2026-11-07": 35,
     "2026-11-08": 24,
-    "2026-11-09": 10
+    "2026-11-09": 11
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -22659,6 +22659,19 @@
       "slack_ts": "1793725462.566449",
       "summary_character_count": 114,
       "summary_japanese": "光子の螺旋運動仮説mcrγ = ħを、スリット端で生じるヘリシティ依存位相差による回折縞全体の横シフトとして検証する干渉計測を提案した。可視3波長で10−3–10−4 radのヘテロダイン測定により0.2–1%水準で試験できる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Fringe-Shift Measurement of the Photon Circulation Radius: A Test of the Helical Identity mcrγ = ħ"
+    },
+    "10.20944/preprints202611.0042.v2": {
+      "doi": "10.20944/preprints202611.0042.v2",
+      "posted_at": "2026-11-08T22:06:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794175560.432039",
+      "summary_character_count": 103,
+      "summary_japanese": "光子の運動質量が伝搬軸周りを循環しmcrγ = ħを満たす仮説を、スリット端との結合によるヘリシティ依存の遠方場シフトで検証する方法を提案した。位相計測によりrγを0.04–0.39%精度で測定可能とする。",
       "summary_language": "ja",
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
