@@ -32,7 +32,7 @@
     "2026-11-07": 35,
     "2026-11-08": 24,
     "2026-11-09": 11,
-    "2026-11-10": 5
+    "2026-11-10": 9
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -17412,6 +17412,19 @@
       "summary_used_fallback": false,
       "title": "Enantio-, Regio-, and E -Selective Hydroboration of 1,3-Dienylsilanes to Construct Bifunctional Allylation Reagents"
     },
+    "10.1021/jacs.6c16353": {
+      "doi": "10.1021/jacs.6c16353",
+      "posted_at": "2026-11-09T21:56:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794261360.182599",
+      "summary_character_count": 374,
+      "summary_japanese": "Using a chiral-pool strategy from (S)-limonene and a common late-stage intermediate, the first asymmetric total syntheses of (+)-asperterpenoids D and E and a concurrent synthesis of ent-(-)-homoverrucosanol were achieved. A Michael addition and highly diastereoselective Type I [5 + 2] cycloaddition established two methyl-bearing stereocenters with complete stereocontrol.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Asymmetric Total Syntheses of (+)-Asperterpenoids D and E with a Concurrent Synthesis of ent -(-)-Homoverrucosanol"
+    },
     "10.1021/jacs.6c16438": {
       "doi": "10.1021/jacs.6c16438",
       "posted_at": "2026-10-21T11:10:03+00:00",
@@ -19609,6 +19622,19 @@
       "summary_used_fallback": false,
       "title": "Molecular-level observation of the self-assembly of a virus-like particle"
     },
+    "10.1038/s41586-026-11148-5": {
+      "doi": "10.1038/s41586-026-11148-5",
+      "posted_at": "2026-11-09T21:56:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794261371.467739",
+      "summary_character_count": 359,
+      "summary_japanese": "TomoSAXS, a full-field 3D small-angle X-ray scattering tomography method, was applied to intact intervertebral discs. Lamellar molecular pre-strain was tightly correlated with fibre strain and inversely related to fibril strain variability. Radial strain bridges and high-curvature interface regions were identified as important regulators of local mechanics.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Multimodal X-ray imaging reveals hierarchical fibre mechanics"
+    },
     "10.1038/s41598-026-66630-x": {
       "doi": "10.1038/s41598-026-66630-x",
       "posted_at": "2026-10-23T20:59:19+00:00",
@@ -20440,6 +20466,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Installation behavior and uplift performance of multi helix helical piles in marine soft soil"
+    },
+    "10.1080/13640461.2026.2760008": {
+      "doi": "10.1080/13640461.2026.2760008",
+      "posted_at": "2026-11-09T21:56:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794261364.690869",
+      "summary_character_count": 116,
+      "summary_japanese": "45鋼連続鋳造billetに単コイル螺旋電磁攪拌（SHEMS）を適用し、シミュレーションと工業試験でREMSと比較した。SHEMSは三次元螺旋流により中心偏析を23.7%低減し、等軸晶率を18%から21%へ高め、収縮空洞も縮小した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A greater mitigation effect of single-coil helical electromagnetic stirring on central carbon segregation of 45 steel continuous casting billet"
     },
     "10.1080/14686996.2026.2705816": {
       "doi": "10.1080/14686996.2026.2705816",
@@ -22832,6 +22871,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Quantifying Patient Setup Error in Total Body Irradiation With Megavoltage Computed Tomography-guided Helical Tomotherapy"
+    },
+    "10.22159/ijap.2026v18i6.59307": {
+      "doi": "10.22159/ijap.2026v18i6.59307",
+      "posted_at": "2026-11-09T21:55:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794261353.357859",
+      "summary_character_count": 106,
+      "summary_japanese": "QbDと32因子計画により、YMC Chiral ART Cellulose-SCを用いるPirtobrutinibのR/S異性体NP-HPLC法を最適化し、分離度5超、S異性体の錠剤回収率99.7%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design Space-Guided Chiral Chromatographic Method Development for Enantiomeric Resolution and Purity Assessment Thereby Monitoring the Active S-Isomer of Pirtobrutinib by LC-MS/MS"
     },
     "10.22541/authorea.15010994/v1": {
       "doi": "10.22541/authorea.15010994/v1",
