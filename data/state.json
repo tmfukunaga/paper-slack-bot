@@ -31,7 +31,8 @@
     "2026-11-06": 21,
     "2026-11-07": 35,
     "2026-11-08": 24,
-    "2026-11-09": 11
+    "2026-11-09": 11,
+    "2026-11-10": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -527,6 +528,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Self-Assembly and Humidity-Adaptive Memristive Behavior of Benzophosphole Nanohoops"
+    },
+    "10.1002/adhm.71957": {
+      "doi": "10.1002/adhm.71957",
+      "posted_at": "2026-11-09T19:50:36+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794253836.902149",
+      "summary_character_count": 119,
+      "summary_japanese": "Aβ凝集を標的とするキラル材料を、conformation-locking、self-assembly-induced remodeling、多機能介入の3戦略で整理し、代表例の設計原理と凝集調節能、AD治療薬開発の課題と展望を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Materials for the Recognition and Inhibition of Amyloid-β Aggregation"
     },
     "10.1002/adma.74014": {
       "doi": "10.1002/adma.74014",
@@ -2035,6 +2049,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "High Luminescence Dissymmetry in Zero-Dimensional Chiral Hybrid Metal Halide With Inter-Octahedral Hydrogen Bonding"
+    },
+    "10.1002/ange.2313660": {
+      "doi": "10.1002/ange.2313660",
+      "posted_at": "2026-11-09T19:50:24+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794253824.775089",
+      "summary_character_count": 129,
+      "summary_japanese": "tetrazole-pyridine配位子の可変的配位様式を利用し、Pd6(L)4環状錯体とPd9Ag(L4)6、Pd3Pt6(L4)6らせんケージを一段階で選択的に自己集合した。Pd(II)とPt(II)はPd3Pt6ケージ内の異なる配位部位へ分配された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-Step Orientational Self-Assembly of Pd Metallacycles and Heterometallic Pd-Pt Helical Cages From Heteroditopic Ligands"
     },
     "10.1002/ange.2349367": {
       "doi": "10.1002/ange.2349367",
@@ -3776,6 +3803,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Planar Chiral Carbazole-Naphthalene Bisimide Hetero-Cyclophane for Circularly Polarized Delayed Fluorescence"
+    },
+    "10.1002/anie.2313660": {
+      "doi": "10.1002/anie.2313660",
+      "posted_at": "2026-11-09T19:50:19+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794253819.798349",
+      "summary_character_count": 117,
+      "summary_japanese": "tetrazole-pyridine ligandの可変配位様式により、Pd metallacycleとPd–Ag・Pd–Pt helical cageを一段階で自己集合し、Pd(II)とPt(II)を別の配位部位へ選択的に分配した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single-Step Orientational Self-Assembly of Pd Metallacycles and Heterometallic Pd-Pt Helical Cages From Heteroditopic Ligands"
     },
     "10.1002/anie.2349367": {
       "doi": "10.1002/anie.2349367",
@@ -17853,6 +17893,19 @@
       "summary_used_fallback": true,
       "title": "Functionalized and Chemically Recyclable “Polyethylene-like” Polyesters from Selective Ring-Opening Polymerization of Bifunctional Macrocycles"
     },
+    "10.1038/s41377-026-02432-0": {
+      "doi": "10.1038/s41377-026-02432-0",
+      "posted_at": "2026-11-09T19:50:31+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794253831.201859",
+      "summary_character_count": 131,
+      "summary_japanese": "Spatiotemporal Optical Vorticesの非共線衝突で、エネルギー流のねじれを持つSpatiotemporal Optical Coilを生成した。フェムト秒断層撮影で3次元強度場を観測し、トポロジーと相互作用幾何のスケーリング則を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Generation of spatiotemporal optical coil with controllable transverse intensity chirality"
+    },
     "10.1038/s41378-026-01419-6": {
       "doi": "10.1038/s41378-026-01419-6",
       "posted_at": "2026-08-29T16:44:21+00:00",
@@ -27263,6 +27316,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral isotellurourea Lewis base catalysts"
+    },
+    "10.55164/ajstr.v29i12.265372": {
+      "doi": "10.55164/ajstr.v29i12.265372",
+      "posted_at": "2026-11-09T19:50:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794253841.368339",
+      "summary_character_count": 115,
+      "summary_japanese": "楕円断面ヘリカルコイルのNuに対する断面扁平率δ、Dh/Dcoil、流動条件の影響を実験3条件とCFD 9条件で解析し、二次流れを評価した。Re・DnとともにNuは増加し、R²=0.972、MAPE=5.36%の相関式を構築した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nusselt Number Correlation for Elliptical Helical Coils Based on Computational Fluid Dynamics and Experiments"
     },
     "10.5525/gla.researchdata.2411": {
       "doi": "10.5525/gla.researchdata.2411",
