@@ -31,7 +31,8 @@
     "2026-11-07": 35,
     "2026-11-08": 24,
     "2026-11-09": 11,
-    "2026-11-10": 9
+    "2026-11-10": 9,
+    "2026-11-11": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7488,6 +7489,19 @@
       "summary_used_fallback": false,
       "title": "Optical and Chiroptical Properties of a Green-Emitting Tb(III) Complex Embedded in Silica Nanoparticles"
     },
+    "10.1002/ejic.70359": {
+      "doi": "10.1002/ejic.70359",
+      "posted_at": "2026-11-10T21:12:27+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794345147.643259",
+      "summary_character_count": 105,
+      "summary_japanese": "biphenyl側鎖をもつ四腕型cyclen Lを設計し、Ag(I)錯体の擬似空孔でキラルnitrile・amineを認識した。Cotton効果は296–298 nmへ長波長化し、eeと良好な直線関係を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Tetra-Armed Cyclen With Biphenyl Side Arms: Silver(I) Binding Enables Longer-Wavelength Detection of Guest Chirality"
+    },
     "10.1002/ejic.70364": {
       "doi": "10.1002/ejic.70364",
       "posted_at": "2026-11-05T23:39:02+00:00",
@@ -8189,6 +8203,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tunable Chiral Terahertz Radiation With Colossal Circular Nonlinear Optical Response From Two-Dimensional Perovskites"
+    },
+    "10.1002/lpor.72214": {
+      "doi": "10.1002/lpor.72214",
+      "posted_at": "2026-11-10T21:12:32+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794345152.184019",
+      "summary_character_count": 123,
+      "summary_japanese": "LNOI上でsquare-pillar meta-atomsを直交2軸方向に傾斜させ、鏡映対称性を破った非線形キラルmetasurfaceを作製した。線形・増強非線形CDを示し、LNのPockels効果により低電圧で非線形CDを電気光学変調した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Slanted Lithium Niobate Meta-Atoms Enable Nonlinear Chiroptical Response With Electro-Optic Tunability"
     },
     "10.1002/maco.70299": {
       "doi": "10.1002/maco.70299",
@@ -13869,6 +13896,19 @@
       "summary_used_fallback": false,
       "title": "Protease-Catalyzed Aldol Condensation To Access Axially and Centrally Chiral Biaryls"
     },
+    "10.1021/acs.orglett.6c04495": {
+      "doi": "10.1021/acs.orglett.6c04495",
+      "posted_at": "2026-11-10T21:12:23+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794345143.305739",
+      "summary_character_count": 126,
+      "summary_japanese": "Pd/Cu協働触媒によりvinylcycloalkyl acetatesとglycine由来iminoestersを不斉カップリングし、1,3位の軸性・中心性キラリティーを同時構築する多様なamino acid derivatives合成法を開発した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synergistic Pd/Cu Catalysis for the Asymmetric Synthesis of Alkylidenecycloalkanes Bearing Axial and Central Chirality"
+    },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
       "posted_at": "2026-08-15T19:01:46+00:00",
@@ -14805,6 +14845,19 @@
       "summary_used_fallback": false,
       "title": "Adamantyl-BOX Ligand Enabling Stereoselective Synthesis of Axially Chiral Aldehydes Bearing Vicinal Stereogenic Centers"
     },
+    "10.1021/acscentsci.6c01321": {
+      "doi": "10.1021/acscentsci.6c01321",
+      "posted_at": "2026-11-10T21:12:09+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794345129.697289",
+      "summary_character_count": 108,
+      "summary_japanese": "cysteine溶液の熟成で合成したキラルAuNRsを円二色性、電子線トモグラフィー、DFTで解析し、cysteineの酸化生成物cystineが二つのAu原子へ配位してキラリティー移転を高める誘起剤であると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Two Better Than One: Emerging Chirality in Twisted Gold Nanorods"
+    },
     "10.1021/acscentsci.6c01412": {
       "doi": "10.1021/acscentsci.6c01412",
       "posted_at": "2026-10-11T12:06:53+00:00",
@@ -15057,6 +15110,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stimuli-Responsive Biodegradable Cholesteric Films with Color-Tunable Circularly Polarized Ultralong Room-Temperature Phosphorescence"
+    },
+    "10.1021/acsnano.6c13353": {
+      "doi": "10.1021/acsnano.6c13353",
+      "posted_at": "2026-11-10T21:12:18+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794345138.821479",
+      "summary_character_count": 125,
+      "summary_japanese": "Au(111)上の[10]CPP単分子膜でspin-1/2 C59N•の錯形成経路を解析し、リム移動は約0.45 eV、中心包接は少なくとも約0.8 eVの障壁を示した。端部では剥離を伴い、C59N•のジグザグ鎖と包接錯体列の再構成格子が形成された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Kinetic Control of Symmetry-Broken Spin Architectures of Azafullerene on [10]Cycloparaphenylene Templates: From Frustrated 2D Lattices to Quasi-1D Chains"
     },
     "10.1021/acsnano.6c14330": {
       "doi": "10.1021/acsnano.6c14330",
