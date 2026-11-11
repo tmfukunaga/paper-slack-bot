@@ -31,7 +31,7 @@
     "2026-11-08": 24,
     "2026-11-09": 11,
     "2026-11-10": 9,
-    "2026-11-11": 10
+    "2026-11-11": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1463,6 +1463,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Atroposelective Synthesis of Axially Chiral Diaryl Ethers via Organocatalyzed Enantioselective Desymmetric Allyl Addition"
+    },
+    "10.1002/adsc.70866": {
+      "doi": "10.1002/adsc.70866",
+      "posted_at": "2026-11-11T06:21:36+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794378096.681669",
+      "summary_character_count": 126,
+      "summary_japanese": "NHC触媒によるprochiral diolのatroposelective monoacylationを介したdesymmetrizationで、軸不斉tetraaryletheneを合成した。温和な条件で高い官能基許容性と優れた立体選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "N-Heterocyclic Carbene-Catalyzed Atroposelective Monoacylation of Prochiral Diols to Access Axially Chiral Tetraarylethenes"
     },
     "10.1002/advs.202522741": {
       "doi": "10.1002/advs.202522741",
@@ -7721,6 +7734,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Axial Chirality Control Through Palladium-Catalyzed Alkenylation Reactions for the Atroposelective Synthesis of 4-Arylquinolin-2-ones"
+    },
+    "10.1002/ejoc.70940": {
+      "doi": "10.1002/ejoc.70940",
+      "posted_at": "2026-11-11T06:21:17+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794378077.859769",
+      "summary_character_count": 124,
+      "summary_japanese": "CuCl2/BOX配位子によるキラル銅触媒系で、levoglucosan類のO2またはO4位を位置選択的に単官能基化した。benzyl・tosyl基導入に最適で、複雑なazidosugarと3-azidogalactose中間体も選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Copper(II) Complex-Catalyzes Site-Selective Monofunctionalization of Levoglucosan Analogs"
     },
     "10.1002/ejoc.70962": {
       "doi": "10.1002/ejoc.70962",
@@ -17372,6 +17398,19 @@
       "summary_used_fallback": false,
       "title": "Local Symmetry Breaking Facilitates Near-Infrared Circularly Polarized Lanthanide Emission in Perovskite Nanocrystals"
     },
+    "10.1021/jacs.6c15627": {
+      "doi": "10.1021/jacs.6c15627",
+      "posted_at": "2026-11-11T06:21:12+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794378072.918169",
+      "summary_character_count": 105,
+      "summary_japanese": "π拡張dihydrophenazineで、過渡分光・理論計算・芳香族性解析により、S1状態のBaird芳香族性誘起平面化が共役経路を再配分し、角型縮環で赤方偏移するX字型多チャネル共役網を形成することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "X-Shaped Multichannel Conjugation Enabled by Excited-State Aromaticity"
+    },
     "10.1021/jacs.6c15641": {
       "doi": "10.1021/jacs.6c15641",
       "posted_at": "2026-10-17T12:42:26+00:00",
@@ -20231,6 +20270,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Indication of stochastic photothermal dynamics around a topological defect in a chiral magnet"
+    },
+    "10.1063/5.0343519": {
+      "doi": "10.1063/5.0343519",
+      "posted_at": "2026-11-11T06:21:30+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794378090.122739",
+      "summary_character_count": 96,
+      "summary_japanese": "キラル強誘電性ネマチック液晶で温度域に応じた2種の十字型トポロジーを観測し、弱AC電場下で分子配向が可逆連続回転して電場除去後に復帰する緩和回転を実証した。モデル計算は実験結果とよく一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarization competition and relaxation rotation in chiral doped ferroelectric nematic liquid crystal"
     },
     "10.1063/5.0343778": {
       "doi": "10.1063/5.0343778",
@@ -26028,6 +26080,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Control over the Self-Assembly of Supramolecular Hydrogels Using Hofmeister Effect"
+    },
+    "10.3390/ijms272110015": {
+      "doi": "10.3390/ijms272110015",
+      "posted_at": "2026-11-11T06:21:25+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794378085.081669",
+      "summary_character_count": 134,
+      "summary_japanese": "DB24C8/B21C7の自己選別hetero[3]pseudorotaxaneを前組織化し、触媒不要のisocyanate-alcohol stopperingでhetero[5]rotaxane 1とhetero[3]rotaxane 2をone-pot合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalyst-Free One-Pot Access to Crown-Ether-Based Hetero[5]- and Hetero[3]rotaxanes from a Self-Sorted Hetero[3]pseudorotaxane"
     },
     "10.3390/ijms27219706": {
       "doi": "10.3390/ijms27219706",
