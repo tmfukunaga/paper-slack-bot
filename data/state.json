@@ -31,7 +31,8 @@
     "2026-11-08": 24,
     "2026-11-09": 11,
     "2026-11-10": 9,
-    "2026-11-11": 20
+    "2026-11-11": 20,
+    "2026-11-12": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12329,6 +12330,19 @@
       "summary_used_fallback": false,
       "title": "Spectral Contributions to Circularly Polarized Luminescence beyond Artifacts in Solution-Processed Thin Films"
     },
+    "10.1021/acs.jpcc.6c07271": {
+      "doi": "10.1021/acs.jpcc.6c07271",
+      "posted_at": "2026-11-11T17:08:31+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794416911.952569",
+      "summary_character_count": 121,
+      "summary_japanese": "柔軟なキラル薬物labetalolを対象に、DFT計算UV-vis吸収・ECDスペクトルを入力するマルチタスク残差ネットワークで配置異性体集団と温度を同時推定し、10%未満の雑音下で集団RMSE約8.2%、温度誤差3.4 °C未満を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Decoding Configurational Populations and Temperature of Flexible Chiral Molecules from Chiral Optical Spectra with Machine Learning"
+    },
     "10.1021/acs.jpclett.6c01552": {
       "doi": "10.1021/acs.jpclett.6c01552",
       "posted_at": "2026-07-24T03:18:17+00:00",
@@ -14973,6 +14987,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Two-Dimensional Perovskite Single Crystals Enable Flexible Piezoelectric Nanogenerators for High-Sensitivity Ultrasound Detection"
+    },
+    "10.1021/acsenergylett.6c03368": {
+      "doi": "10.1021/acsenergylett.6c03368",
+      "posted_at": "2026-11-11T17:08:19+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794416899.803249",
+      "summary_character_count": 118,
+      "summary_japanese": "Cs3Cd2Cl7、Rb3Cd2Cl7、CsPbBr3などのアキラル金属ハライドペロブスカイトナノプレートレットが、短距離・多分散な自己集合体でも円二色性を示すことを提示した。発光性・非発光性、溶液・膜、種々の積層形態で効果が持続した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mesoscale Chiroptical Order in Achiral Metal-Halide Nanoplatelet Assemblies"
     },
     "10.1021/acsmacrolett.6c00449": {
       "doi": "10.1021/acsmacrolett.6c00449",
@@ -18047,6 +18074,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "meta -Carborane-Based Macrocyclic Arenes: Synthesis and Inner-Wall Modification"
+    },
+    "10.1021/jacsau.6c01282": {
+      "doi": "10.1021/jacsau.6c01282",
+      "posted_at": "2026-11-11T17:08:36+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794416916.891169",
+      "summary_character_count": 121,
+      "summary_japanese": "CB[7]の階層的なhost–guest結合親和性を利用し、低親和性標的のみの蛍光消去と異なる蛍光体による再標識を実現した。共有結合型bioorthogonal chemistryと組み合わせ、細胞・生体組織で4色多重イメージングを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multiplexed Bioorthogonal Imaging through Affinity Hierarchies in a Supramolecular Host"
     },
     "10.1021/jasms.6c00250": {
       "doi": "10.1021/jasms.6c00250",
@@ -25469,6 +25509,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Computational Insights into Chiral Induced Spin Selectivity in Organic Semiconductors via Circular Dichroism Prediction"
+    },
+    "10.26434/chemrxiv.15011869/v1": {
+      "doi": "10.26434/chemrxiv.15011869/v1",
+      "posted_at": "2026-11-11T17:08:41+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794416921.300409",
+      "summary_character_count": 117,
+      "summary_japanese": "MolValenceXはブラウザ上で分子構造から芳香族性、CIP立体配置、双極子モーメント、HSPを推定する無依存JavaScriptツールで、R/S・芳香族性は各26例で参照結果と一致し、双極子モーメントMAEは0.40 Dだった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "MolValenceX: a browser-based, client-side tool for drawing molecules and estimating aromaticity, CIP stereodescriptors, dipole moments and Hansen solubility parameters, with benchmarking against experimental and reference-toolkit data"
+    },
+    "10.26434/chemrxiv.15011882/v1": {
+      "doi": "10.26434/chemrxiv.15011882/v1",
+      "posted_at": "2026-11-11T17:08:27+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794416907.586529",
+      "summary_character_count": 433,
+      "summary_japanese": "A chiral photoactive nickel catalyst bearing a carbazole-decorated biimidazole ligand enabled enantioconvergent, light-mediated C(sp2)–C(sp3) cross-coupling of an N-Boc-protected pyrrolidine-derived trifluoroborate with (hetero)aryl bromides. The ligand combines intraligand charge-transfer photoactivity and asymmetric induction, eliminating the need for a separate photocatalyst and providing products with high enantioselectivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "A Chiral Photoactive Ligand for Enantioconvergent Nickel-Catalyzed C(sp 2 )-C(sp 3 ) Cross-Coupling"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
