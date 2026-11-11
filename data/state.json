@@ -31,7 +31,7 @@
     "2026-11-08": 24,
     "2026-11-09": 11,
     "2026-11-10": 9,
-    "2026-11-11": 15
+    "2026-11-11": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1749,6 +1749,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Piezoelectric Amino Acid Salts with Halogen-Based Coformers Produce Exceptional Force-Generated Voltage Output"
+    },
+    "10.1002/advs.78642": {
+      "doi": "10.1002/advs.78642",
+      "posted_at": "2026-11-11T13:33:17+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794403997.484439",
+      "summary_character_count": 105,
+      "summary_japanese": "キラル2次元ハライドペロブスカイト(R-MBACl)2PbI4の偏光分解THG測定で、励起子共鳴下に直交偏光THGを示す巨大THG-CDを見いだし、|gTHG-CD|=1.9超のほぼ完全な円偏光識別を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hidden Giant Third-Order Nonlinear Circular Dichroism in Chiral Two-Dimensional Halide Perovskite"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -9021,6 +9034,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamically Tunable Near-Infrared Photoluminescence with Long-Wavelength Energy Transfer Engineered by Multilevel Supramolecular Confinement"
+    },
+    "10.1002/smll.76668": {
+      "doi": "10.1002/smll.76668",
+      "posted_at": "2026-11-11T13:33:26+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794404006.107549",
+      "summary_character_count": 124,
+      "summary_japanese": "achiral porphyrin誘導体の渦運動で生じるメソスケールらせん集合体におけるスピン依存電子輸送を調べ、CISS由来のスピン選択性とスピン偏極電流を確認した。キラル種添加とスピンバルブ素子により、階層的キラリティーの影響を比較・検証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulating Spontaneous Symmetry Breaking and Spin-Dependent Transport in Supramolecular Assemblies of Achiral Porphyrins"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -16410,6 +16436,19 @@
       "summary_used_fallback": true,
       "title": "From Pentagon to Nonagon: Conformation-, Size-, and Charge-Dependent Global (Anti)aromaticity in All-Benzenoid Macrocycles"
     },
+    "10.1021/jacs.6c10680": {
+      "doi": "10.1021/jacs.6c10680",
+      "posted_at": "2026-11-11T13:33:30+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794404010.413639",
+      "summary_character_count": 120,
+      "summary_japanese": "[Rh(cod)Cl]2/chiral amine触媒によるラセミdiazoacetatesのAKRPで、成長鎖末端とヘリカル構造の協同的キラル増幅に由来する動的非線形効果を観測し、Krelは転化率3%の15から33%で約138へ増加した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Nonlinear Effects in the Asymmetric Kinetic Resolution Polymerization of Racemic Diazoacetates to One-Handed Helical Polycarbenes"
+    },
     "10.1021/jacs.6c10817": {
       "doi": "10.1021/jacs.6c10817",
       "posted_at": "2026-08-07T03:04:45+00:00",
@@ -17774,6 +17813,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective Defluorinative C(sp2)-H Allylation of Acrylamides Enabled by CpxRh(III) Catalysis"
+    },
+    "10.1021/jacs.6c17674": {
+      "doi": "10.1021/jacs.6c17674",
+      "posted_at": "2026-11-11T13:33:21+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794404001.558039",
+      "summary_character_count": 107,
+      "summary_japanese": "構造相関Cu2クラスターで分子内空間閉じ込めにより柔軟な配位子を歪ませ、クラスター骨格の非対称化と超分子集合時の配向制御を実現した。キラリティーをoff/on制御し、発光薄膜による高分解能X線イメージングも示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unlocking Intrinsic Chirality in Luminescent Copper Clusters via Intramolecular Spatial Confinement"
     },
     "10.1021/jacs.6c17888": {
       "doi": "10.1021/jacs.6c17888",
@@ -25404,6 +25456,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Single-chirality single-walled carbon nanotubes for electrochemical co-detection of serotonin and dopamine"
+    },
+    "10.26434/chemrxiv.15011860/v1": {
+      "doi": "10.26434/chemrxiv.15011860/v1",
+      "posted_at": "2026-11-11T13:33:12+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794403992.733579",
+      "summary_character_count": 99,
+      "summary_japanese": "約1000種の有機半導体hexamerをTD-DFTによるCD予測とデータサイエンス・機械学習で解析し、高CD応答にはpolarizabilityとコンフォメーション特性が最重要であることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Computational Insights into Chiral Induced Spin Selectivity in Organic Semiconductors via Circular Dichroism Prediction"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
