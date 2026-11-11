@@ -32,7 +32,7 @@
     "2026-11-09": 11,
     "2026-11-10": 9,
     "2026-11-11": 20,
-    "2026-11-12": 5
+    "2026-11-12": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -528,6 +528,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Self-Assembly and Humidity-Adaptive Memristive Behavior of Benzophosphole Nanohoops"
+    },
+    "10.1002/adfm.79588": {
+      "doi": "10.1002/adfm.79588",
+      "posted_at": "2026-11-11T21:44:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794433459.311349",
+      "summary_character_count": 99,
+      "summary_japanese": "高Q chiral quasi-BICを支持する非局所幾何学的位相勾配メタサーフェスにより、無偏光入射光を対象に、実空間・運動量空間で透過波面を画素単位で整形しつつピコ秒全光スイッチングを実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast All-Optical Switching with Engineered Wavefronts via Chiral Nonlocal Phase Gradient Metasurfaces"
     },
     "10.1002/adhm.71957": {
       "doi": "10.1002/adhm.71957",
@@ -20545,6 +20558,19 @@
       "summary_used_fallback": false,
       "title": "Spin controlled transport switching with negative differential resistance in a chiral molecular device"
     },
+    "10.1063/5.0356190": {
+      "doi": "10.1063/5.0356190",
+      "posted_at": "2026-11-11T21:44:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794433477.240459",
+      "summary_character_count": 132,
+      "summary_japanese": "Brownian dynamics simulationsにより、単量体速度へ推進方向を向ける自己整列トルクが、2次元chiral active Brownian polymerの長寿命らせんをほどき、鎖サイズを増大させて回転由来の動的振動を抑制することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-alignment unwraps the spiraling of a chiral active Brownian polymer"
+    },
     "10.1073/pnas.2532158123": {
       "doi": "10.1073/pnas.2532158123",
       "posted_at": "2026-07-19T22:57:29+00:00",
@@ -20765,6 +20791,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A review on synthetic methodologies of chiral sulfoxides"
+    },
+    "10.1080/17568919.2026.2754120": {
+      "doi": "10.1080/17568919.2026.2754120",
+      "posted_at": "2026-11-11T21:44:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794433463.411149",
+      "summary_character_count": 113,
+      "summary_japanese": "不眠症薬racemic zopicloneからeszopicloneへのキラルスイッチを、各国の承認・新規薬指定・特許訴訟から分析した。EUでのNAS認定実質否定と2020年代の各国承認は、規制上の独占性と戦略の持続性を示す。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The strategy of chiral switches: lessons from the colorful case of zopiclone → eszopiclone insomnia drugs, globally"
     },
     "10.1088/0256-307x/43/10/100401": {
       "doi": "10.1088/0256-307x/43/10/100401",
@@ -22092,6 +22131,19 @@
       "summary_used_fallback": false,
       "title": "Attenuated antiaromaticity and redirected excited-state dynamics upon Cu-metallation of a benzene-annulated phenanthriporphyrin"
     },
+    "10.1142/s1088424626500720": {
+      "doi": "10.1142/s1088424626500720",
+      "posted_at": "2026-11-11T21:44:30+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794433470.948279",
+      "summary_character_count": 395,
+      "summary_japanese": "Camphanopyrazine-annulated Si(IV) corrolazines and porphyrazines were synthesized via porphyrazine macrocycle contraction and related routes. Axial Ph3SiO ligation suppressed aggregation in the corrolazine series, enhancing fluorescence and affording a singlet oxygen quantum yield of 0.70. Corrolazines also showed sequential protonation and axial-ligand-dependent circular dichroism responses.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Silicon(IV) corrolazine with fused camphanopyrazine units and its porphyrazine precursors"
+    },
     "10.1142/s1793524526501093": {
       "doi": "10.1142/s1793524526501093",
       "posted_at": "2026-09-11T22:58:31+00:00",
@@ -22416,6 +22468,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Polarization conversion of a flexible chiral optical fiber in the terahertz band"
+    },
+    "10.1364/oe.615187": {
+      "doi": "10.1364/oe.615187",
+      "posted_at": "2026-11-11T21:44:15+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794433454.999319",
+      "summary_character_count": 114,
+      "summary_japanese": "一軸結晶中を伝搬する径偏光において、入射光の偏光ヘリシティで周期的有効磁場を形成した。ヘリシティ変調によりスピン角運動量と軌道角運動量が周期振動し、偏光状態はPoincaré球上で閉じた楕円軌道を描き、全光角運動量は保存された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical Angular Momentum Oscillation in Effective Magnetic Field Modulated by Polarization Helicity"
     },
     "10.1364/ol.606684": {
       "doi": "10.1364/ol.606684",
