@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-10": 30,
     "2026-10-11": 20,
     "2026-10-12": 8,
     "2026-10-13": 11,
@@ -32,7 +31,7 @@
     "2026-11-08": 24,
     "2026-11-09": 11,
     "2026-11-10": 9,
-    "2026-11-11": 5
+    "2026-11-11": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -6930,6 +6929,19 @@
       "summary_used_fallback": false,
       "title": "Designed Construction of One-Dimensional Positional-Isomeric Chiral Covalent Organic Frameworks for Asymmetric Aldol Catalysis"
     },
+    "10.1002/chem.71890": {
+      "doi": "10.1002/chem.71890",
+      "posted_at": "2026-11-11T04:41:50+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794372110.422359",
+      "summary_character_count": 130,
+      "summary_japanese": "高アスペクト比キラル金ナノファイバーは、trans-1,2-bis(4-pyridyl)etheneを1 nMまで検出し、金ナノロッドより2–3倍高いSERS効率を示した。紙基材上でも活性を保持し、D/L-cysteine混合物の組成依存的識別の兆候を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Gold Nanofibers as Substrates Toward SERS-Based Chiral and Flexible Sensing"
+    },
     "10.1002/chem.71893": {
       "doi": "10.1002/chem.71893",
       "posted_at": "2026-11-07T21:27:36+00:00",
@@ -7709,6 +7721,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Axial Chirality Control Through Palladium-Catalyzed Alkenylation Reactions for the Atroposelective Synthesis of 4-Arylquinolin-2-ones"
+    },
+    "10.1002/ejoc.70962": {
+      "doi": "10.1002/ejoc.70962",
+      "posted_at": "2026-11-11T04:42:05+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794372125.374629",
+      "summary_character_count": 130,
+      "summary_japanese": "N-amidophenyl置換hexaaza[1 6]paracyclophaneを、Cu触媒Ullmann couplingとPd触媒Buchwald-Hartwig反応で合成し、6員環を選択的に約100 mg規模で得る経路を最適化して、光応答性を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Synthetic Journey Toward Functional N -Amidophenyl-Substituted Hexaaza[1 6 ]paracyclophanes"
     },
     "10.1002/elan.70232": {
       "doi": "10.1002/elan.70232",
@@ -10861,6 +10886,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioseparation on Helical Poly(diphenylacetylene) Derivatives Obtained by Helicity Induction and Memory Strategy Using Bio-Based Chiral Oils"
+    },
+    "10.1021/acs.analchem.6c06695": {
+      "doi": "10.1021/acs.analchem.6c06695",
+      "posted_at": "2026-11-11T04:41:54+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794372114.883739",
+      "summary_character_count": 105,
+      "summary_japanese": "共役長を制御したBPDS-DBIM、TPDS-DBIM、TPDS-DBPIMを設計し、剛直な微細孔キラルイオン性有機結晶を構築した。TPDS-DBPIMはキャピラリーGCで17種のキラル薬物を効率的に分離した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Topologically Rigidified Chiral Ionic Organic Crystals for High-Resolution Gas Chromatographic Separation"
     },
     "10.1021/acs.bioconjchem.6c00313": {
       "doi": "10.1021/acs.bioconjchem.6c00313",
@@ -15149,6 +15187,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Highly Efficient Molecular-to-Lattice Chirality Transfer in Benzene-Based Dion-Jacobson Perovskites for Circularly Polarized Light Detection"
+    },
+    "10.1021/acsnano.6c15835": {
+      "doi": "10.1021/acsnano.6c15835",
+      "posted_at": "2026-11-11T04:41:46+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794372106.197009",
+      "summary_character_count": 86,
+      "summary_japanese": "ガラススリット内でCNCを自己集合させ、重力沈降と界面水素結合により欠陥を抑えたcm級単一配向コレステリック構造を形成した。配向因子0.98、glum −1.1を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Slit-Confined Self-Assembly of Cellulose Nanocrystals for Long-Range Ordered Cholesteric Architecture"
     },
     "10.1021/acsnano.6c16760": {
       "doi": "10.1021/acsnano.6c16760",
@@ -26939,6 +26990,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Recent advances in chiral NHC-gold complexes for asymmetric catalysis"
+    },
+    "10.3762/bjoc.22.130": {
+      "doi": "10.3762/bjoc.22.130",
+      "posted_at": "2026-11-11T04:41:59+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794372119.022159",
+      "summary_character_count": 111,
+      "summary_japanese": "本総説は、BINOL、salen、N-heterocyclic配位子によるAl中心の配位環境制御と構造活性・選択性相関を軸に、不斉Al触媒の20年の進展を概観し、多様な反応で高いエナンチオ・位置選択性を示す設計を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent advances in chiral aluminum asymmetric catalysis: ligand design, coordination modulation, and structure-activity relationships"
     },
     "10.3762/bxiv.2026.40.v1": {
       "doi": "10.3762/bxiv.2026.40.v1",
