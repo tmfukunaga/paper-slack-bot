@@ -31,7 +31,8 @@
     "2026-11-09": 11,
     "2026-11-10": 9,
     "2026-11-11": 20,
-    "2026-11-12": 23
+    "2026-11-12": 23,
+    "2026-11-13": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4349,6 +4350,19 @@
       "summary_used_fallback": false,
       "title": "Enantioselective Hydrosilylation of Diverse Allenes via Nickel Catalysis"
     },
+    "10.1002/anie.4074668": {
+      "doi": "10.1002/anie.4074668",
+      "posted_at": "2026-11-12T19:54:50+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794513290.824959",
+      "summary_character_count": 105,
+      "summary_japanese": "Bambusurilをシリカに固定化し、99−を水中でμM親和性のhost–guest複合体として認識する固相抽出材を開発した。海水や医療用溶出液中でfM濃度の99−を定量捕捉し、市販キット製剤で直接溶出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quantitative Pertechnetate Capture by a Bambusuril-based Material: From Seawater Decontamination to Radiopharmaceutical Solutions"
+    },
     "10.1002/anie.4104555": {
       "doi": "10.1002/anie.4104555",
       "posted_at": "2026-07-20T15:27:35+00:00",
@@ -7006,6 +7020,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Asymmetric Reductive Homocoupling of Isatin Imines Templated by Chiral Diboron"
+    },
+    "10.1002/chem.71902": {
+      "doi": "10.1002/chem.71902",
+      "posted_at": "2026-11-12T19:54:46+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794513286.105709",
+      "summary_character_count": 120,
+      "summary_japanese": "N、O、S、B、Siを導入したOLED用ヘテロ原子ドープ大環状化合物について、Pd触媒C–Nカップリング、塩基触媒求核置換、Lewis酸触媒Friedel–Craftsアルキル化による合成と後修飾、ならびに高性能OLEDへの応用を総説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Heteroatom-Doped Macrocycles for OLED Applications"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -14493,6 +14520,19 @@
       "summary_used_fallback": false,
       "title": "Controllable Preparationof Carbon-Based Micro- andNanomaterials with Different Helical Morphologies for ElectromagneticWave Absorption"
     },
+    "10.1021/acsanm.6c03095": {
+      "doi": "10.1021/acsanm.6c03095",
+      "posted_at": "2026-11-12T19:54:41+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794513281.646949",
+      "summary_character_count": 120,
+      "summary_japanese": "吸収性・共鳴性Si3N4/Si基板上のAu elliptical nanohole arraysを偏光分解・変調周波数制御PASで評価し、波長依存CD共鳴と周波数増加に伴うCD増大を観測した。数値計算はキラル応答のプラズモン起源を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Laser Photoacoustic Spectroscopy for Nanoscale Chiroptical Sensing in Strongly Absorbing and Resonant Environments"
+    },
     "10.1021/acsanm.6c03201": {
       "doi": "10.1021/acsanm.6c03201",
       "posted_at": "2026-09-26T21:11:21+00:00",
@@ -15356,6 +15396,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Slit-Confined Self-Assembly of Cellulose Nanocrystals for Long-Range Ordered Cholesteric Architecture"
+    },
+    "10.1021/acsnano.6c16414": {
+      "doi": "10.1021/acsnano.6c16414",
+      "posted_at": "2026-11-12T19:54:59+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794513299.725919",
+      "summary_character_count": 106,
+      "summary_japanese": "二重壁分子ナノチューブへ蛍光トラップを導入し、PL寿命が約190 psから約15 psへ短縮しても集団励起子偏光はほぼ不変であることを示した。計算は、波動関数がトラップを迂回して広域に非局在化することを再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Defect-Tolerant Frenkel Exciton Delocalization in Supramolecular Nanotubes"
     },
     "10.1021/acsnano.6c16760": {
       "doi": "10.1021/acsnano.6c16760",
@@ -22779,6 +22832,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulating radiochemical behaviour and biodistribution of 211 At-FAPI via host-guest complexation"
+    },
+    "10.1515/revic-2026-0057": {
+      "doi": "10.1515/revic-2026-0057",
+      "posted_at": "2026-11-12T19:54:54+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794513294.944249",
+      "summary_character_count": 102,
+      "summary_japanese": "CMOFs・CCOFsの構築法、細孔閉じ込めや非共有結合相互作用に基づくエナンチオマー認識機構、光学・電気化学・質量感応シグナル変換を総説し、複雑試料での認識例と膜・チップ・携帯検出器への統合を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral metal/covalent-organic frameworks for enantiomer recognition: mechanistic insights, multi-scenario applications and device integration"
     },
     "10.15495/epub_ubt_00009527": {
       "doi": "10.15495/epub_ubt_00009527",
