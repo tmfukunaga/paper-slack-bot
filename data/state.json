@@ -32,7 +32,7 @@
     "2026-11-10": 9,
     "2026-11-11": 20,
     "2026-11-12": 23,
-    "2026-11-13": 5
+    "2026-11-13": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5682,6 +5682,19 @@
       "summary_used_fallback": false,
       "title": "Topological Isomerism of Möbius-Shaped Aramide Macrocycles Induced by Host-Guest Interactions"
     },
+    "10.1002/anie.8018415": {
+      "doi": "10.1002/anie.8018415",
+      "posted_at": "2026-11-12T21:43:38+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794519818.008839",
+      "summary_character_count": 115,
+      "summary_japanese": "柔軟なbiphenyl spacerをもつ配位子Lと(en)Pd(II)からPd4L2 cageを構築し、G1でbowl、G2でPd6L3 helicateへ誘導した。ゲスト交換・除去により3構造間の経路依存的相互変換を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Guest-Directed Navigation of a Ligand Conformational Landscape Enables Palladium-Organic Cage-Bowl-Helicate Interconversion"
+    },
     "10.1002/anie.8164022": {
       "doi": "10.1002/anie.8164022",
       "posted_at": "2026-07-21T00:01:29+00:00",
@@ -8347,6 +8360,19 @@
       "summary_used_fallback": false,
       "title": "Corrosion Analysis of Helical Electrodes"
     },
+    "10.1002/marc.70473": {
+      "doi": "10.1002/marc.70473",
+      "posted_at": "2026-11-12T21:43:33+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794519813.770129",
+      "summary_character_count": 326,
+      "summary_japanese": "Optically pure dimeric alkyl In(III) complexes bearing bidentate chiral amino alcohol ligands were synthesized and characterized. They catalyzed ROP of rac-lactide to yield isotactic-enriched PLA and ROCOP of cyclohexene oxide with CO2 to afford isotactic-enriched poly(cyclohexene carbonate), reaching a TOF of about 453 h−1.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Sustainable Polyesters and Polycarbonates via ROP and ROCOP Catalyzed by Alkyl In(III) Complexes Containing Chiral Amino Alcohol Ligand"
+    },
     "10.1002/nap2.70199": {
       "doi": "10.1002/nap2.70199",
       "posted_at": "2026-07-17T17:27:51+00:00",
@@ -8619,6 +8645,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Cellulose-based films with ultralong full-color circularly polarized room-temperature phosphorescence and bidirectional dissymmetry tuning"
+    },
+    "10.1002/rpm2.70093": {
+      "doi": "10.1002/rpm2.70093",
+      "posted_at": "2026-11-12T21:43:26+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794519806.839969",
+      "summary_character_count": 95,
+      "summary_japanese": "CNC基CPL材料を発光ビルディングブロック別に整理し、共集合機構とキラル光学特性を概説した。らせんピッチ調整など4戦略と、湿度・引張・圧力応答、暗号化や診断等への応用、実用化課題を論じた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Multi-stimuli responsive cellulose nanocrystal-based circularly polarized luminescence materials: Advances, regulation strategies and perspectives"
     },
     "10.1002/slct.74092": {
       "doi": "10.1002/slct.74092",
@@ -12108,6 +12147,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of 4-Substituted C-N Axially Chiral 2-(Trifluoromethyl)-2 H -chromene Indole Derivatives via Central-to-Axial Chirality Conversion"
+    },
+    "10.1021/acs.joc.6c02112": {
+      "doi": "10.1021/acs.joc.6c02112",
+      "posted_at": "2026-11-12T21:43:21+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794519801.456279",
+      "summary_character_count": 323,
+      "summary_japanese": "An organocatalytic asymmetric Mannich/retro-Claisen cascade between unsymmetrical 1,3-diones and in situ-generated N-Boc-protected alkynylimines afforded chiral β-aminoketone derivatives in good yields and with high enantioselectivities. The products were readily converted into hydrogenated products and oxime derivatives.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Asymmetric Construction of Chiral β-Aminoketone Derivatives via Enantioselective Mannich/Retro-Claisen Cascade Reaction"
     },
     "10.1021/acs.jpca.6c01773": {
       "doi": "10.1021/acs.jpca.6c01773",
@@ -25782,6 +25834,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "A Chiral Photoactive Ligand for Enantioconvergent Nickel-Catalyzed C(sp 2 )-C(sp 3 ) Cross-Coupling"
+    },
+    "10.26434/chemrxiv.15011943/v1": {
+      "doi": "10.26434/chemrxiv.15011943/v1",
+      "posted_at": "2026-11-12T21:43:45+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794519825.630019",
+      "summary_character_count": 305,
+      "summary_japanese": "A multidimensional analysis of 114 amide-containing pi-conjugated fused-ring systems showed that E(S1) largely depends on pi-system size and local (anti)aromaticity. For molecules with fewer than four linearly fused rings, E(T1) correlates with the ground-state inter-fragment delocalization index (IFDI).",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Aromaticity, Electron Delocalization and Pauli Repulsion Explain Singlet and Triplet Energies in pi-Systems Containing the Amide Moiety"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
