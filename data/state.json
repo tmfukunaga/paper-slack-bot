@@ -31,7 +31,7 @@
     "2026-11-09": 11,
     "2026-11-10": 9,
     "2026-11-11": 20,
-    "2026-11-12": 18
+    "2026-11-12": 23
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -540,6 +540,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrafast All-Optical Switching with Engineered Wavefronts via Chiral Nonlocal Phase Gradient Metasurfaces"
+    },
+    "10.1002/adfm.79596": {
+      "doi": "10.1002/adfm.79596",
+      "posted_at": "2026-11-12T14:37:44+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794494264.257429",
+      "summary_character_count": 93,
+      "summary_japanese": "キラルMCPsの分子・配位構造・メソスケールにわたる階層的キラリティーを整理し、4種の合成戦略と不斉触媒、CISS、CPLなどへの応用を、構造キラリティーと機能の関係に着目して概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Metal-Coordination Polymers: Hierarchical Chirality, Synthesis, and Functional Applications"
     },
     "10.1002/adhm.71957": {
       "doi": "10.1002/adhm.71957",
@@ -15604,6 +15617,19 @@
       "summary_used_fallback": false,
       "title": "Collective Effect of Color-Centers on Chiroptical Response of Carbon Nanotubes"
     },
+    "10.1021/acsphotonics.6c01633": {
+      "doi": "10.1021/acsphotonics.6c01633",
+      "posted_at": "2026-11-12T14:37:56+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794494275.978579",
+      "summary_character_count": 97,
+      "summary_japanese": "独立制御した円偏光ポンプ・プローブによるDCD高次高調波分光を提案し、Haldaneナノフレークでバルクとエッジ由来の光電流応答が逆符号・異なる振幅則を示し、分離可能であることを理論的に示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Double Circular Dichroism High Harmonic Spectroscopy: An Ultrafast Probe for Topological Photocurrents"
+    },
     "10.1021/acsphotonics.6c01956": {
       "doi": "10.1021/acsphotonics.6c01956",
       "posted_at": "2026-10-09T00:58:36+00:00",
@@ -17033,6 +17059,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamic Metal-Organic Tweezer Enables High-Resolution Nanopore Analysis of Steroid Hormones"
+    },
+    "10.1021/jacs.6c12735": {
+      "doi": "10.1021/jacs.6c12735",
+      "posted_at": "2026-11-12T14:37:34+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794494254.737109",
+      "summary_character_count": 99,
+      "summary_japanese": "[Mo6I8Y6]2−のMCD・MCPLを測定し、約400 nmの一重項遷移と約600 nmの禁制三重項遷移を直接観測した。TD-DFTはSOC、Zeeman効果、リン光の大きな赤方偏移を説明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magneto-Optical Studies on the Orbital Angular Momenta and Spin-Orbit Coupling in the Excited Triplet States of Octahedral Mo6 Clusters: Magnetic Circular Dichroism and Magnetic Circularly Polarized Luminescence"
     },
     "10.1021/jacs.6c12774": {
       "doi": "10.1021/jacs.6c12774",
@@ -20192,6 +20231,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hyperon neutrinoless double beta decays in chiral perturbation theory"
+    },
+    "10.1051/epjconf/202639307039/pdf": {
+      "doi": "10.1051/epjconf/202639307039/pdf",
+      "posted_at": "2026-11-12T14:37:50+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794494270.686059",
+      "summary_character_count": 250,
+      "summary_japanese": "Circular dichroism was strongly enhanced in a chiral single-ring hollow-core photonic crystal fiber by tuning its parameters to an exceptional point. At this point, the anti-crossings in both loss and refractive index simultaneously collapse to zero.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enhanced circular dichroism at an exceptional point in chiral hollow-core PCF"
     },
     "10.1055/a-2913-5787": {
       "doi": "10.1055/a-2913-5787",
@@ -26808,6 +26860,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Predicting Chiral Crystallization of Molecules Without Stereocenters"
+    },
+    "10.3390/molecules31224058": {
+      "doi": "10.3390/molecules31224058",
+      "posted_at": "2026-11-12T14:37:39+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794494259.501039",
+      "summary_character_count": 112,
+      "summary_japanese": "[PdMe2(S-/R-BINAP)]を部分脱水酸化SiO2へグラフトし、Si–O–Pd結合をもつ両エナンチオマーの表面錯体を合成した。固体NMR、IR、CDで単離構造を支持し、前駆体と異なる鏡像CD応答と熱安定性を調べた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical Activity of Chiral Palladium Complexes [Si-O-PdMe(S-/R-BINAP)] Covalently Bound to Silica Through Grafting"
     },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
