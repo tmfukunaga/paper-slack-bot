@@ -31,7 +31,7 @@
     "2026-11-09": 11,
     "2026-11-10": 9,
     "2026-11-11": 20,
-    "2026-11-12": 15
+    "2026-11-12": 18
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -25834,6 +25834,19 @@
       "summary_used_fallback": false,
       "title": "DFT Investigation of Nirmatrelvir Adsorption on Carbon Nanotubes for Nanodrug Delivery"
     },
+    "10.33774/coe-2026-3v59c": {
+      "doi": "10.33774/coe-2026-3v59c",
+      "posted_at": "2026-11-12T05:44:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794462262.485989",
+      "summary_character_count": 119,
+      "summary_japanese": "R、C、H、Oで場・方程式・スケール流を整理する条件付き代数枠組みを提示し、標準模型と拡張への幾何学的・スペクトル的基盤を与える。フェルミオン世代、混合、ニュートリノ質量、量子重力作用、異常相殺は公理A1–A3と境界条件・機構に依存する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Conditional Algebraic Framework for Charge, Chirality, Flavor and Cosmological Correspondences"
+    },
     "10.33774/coe-2026-mj6hx": {
       "doi": "10.33774/coe-2026-mj6hx",
       "posted_at": "2026-09-15T20:52:29+00:00",
@@ -26197,6 +26210,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Study on the Pullout Performance and Failure Mechanism of the UHPC-Grouted Helical Anchor Rod-Prefabricated Cap Connection Joint"
+    },
+    "10.3390/buildings16214461": {
+      "doi": "10.3390/buildings16214461",
+      "posted_at": "2026-11-12T05:44:18+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794462258.362789",
+      "summary_character_count": 112,
+      "summary_japanese": "500 kV送電鉄塔用大型ヘリカルアンカー4基の現地引抜試験と19件の有限要素解析を行い、円筒せん断・Mohr-Coulomb基準による耐力式を導出した。極限引張耐力は1260 kNで、理論値は実験・解析値と良好に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "In Situ Tests and Numerical Simulation Study on the Tensile Bearing Capacity of Large-Anchor-Plate Helical Anchors for 500 kV Transmission Towers"
     },
     "10.3390/catal16100866": {
       "doi": "10.3390/catal16100866",
@@ -26769,6 +26795,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis and Application of New Chiral Phosphoric Acids Based on oxa-Spirocyclic Diphenol"
+    },
+    "10.3390/molecules31214013": {
+      "doi": "10.3390/molecules31214013",
+      "posted_at": "2026-11-12T05:44:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794462266.134639",
+      "summary_character_count": 95,
+      "summary_japanese": "立体中心をもたない有機分子のSohncke／非Sohncke空間群での結晶化を、記述子に基づく教師ありニューラルネットワークで予測し、均衡テストセットでROC-AUC 0.954を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Predicting Chiral Crystallization of Molecules Without Stereocenters"
     },
     "10.3390/nano16171099": {
       "doi": "10.3390/nano16171099",
