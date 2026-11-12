@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-11": 20,
     "2026-10-12": 8,
     "2026-10-13": 11,
     "2026-10-14": 17,
@@ -32,7 +31,7 @@
     "2026-11-09": 11,
     "2026-11-10": 9,
     "2026-11-11": 20,
-    "2026-11-12": 10
+    "2026-11-12": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12512,6 +12511,19 @@
       "summary_used_fallback": false,
       "title": "Deciphering Aggregation-Induced Tunable Circular Dichroism of AuBP@Ag and AuBP@Au Chiral Core-Shell Plasmonic Nanoparticles"
     },
+    "10.1021/acs.jpclett.6c02696": {
+      "doi": "10.1021/acs.jpclett.6c02696",
+      "posted_at": "2026-11-12T00:44:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794444250.997539",
+      "summary_character_count": 130,
+      "summary_japanese": "室温イオントラップでPpO+とNH3の中和反応を測定し、NH3+を生じる電荷移動速度定数は圧力非依存で(1.39 ± 0.03) × 10-12 cm3 s-1と示した。Sagittarius B2での高いNH3存在量から、天体化学モデルへの導入が示唆される。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charge Transfer from Ammonia Neutralizes Propylene Oxide Cations: Implications for the Astrochemistry of Chiral Molecules"
+    },
     "10.1021/acs.jpclett.6c02747": {
       "doi": "10.1021/acs.jpclett.6c02747",
       "posted_at": "2026-10-31T23:59:33+00:00",
@@ -14871,6 +14883,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Noncovalent Interactions for Stereodivergent Organo/Metal Dual Catalysis: Asymmetric Allenylation of Both 3-Alkyl and 3-Aryl Oxindoles"
     },
+    "10.1021/acscatal.6c06875": {
+      "doi": "10.1021/acscatal.6c06875",
+      "posted_at": "2026-11-12T00:44:06+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794444246.752279",
+      "summary_character_count": 124,
+      "summary_japanese": "IMHBによる動的擬似環状拘束を導入したキラルamino alcohol由来allylic carbonateを用い、Pd触媒高次双極子環化付加で9～18員環を合成した。分子動力学計算と対照実験により、化学選択的分子内脱プロトン化への寄与を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Conformational Constraint-Enabled Palladium-Catalyzed Higher-Order Dipolar Cycloaddition"
+    },
     "10.1021/acscatal.6c07098": {
       "doi": "10.1021/acscatal.6c07098",
       "posted_at": "2026-10-17T12:42:21+00:00",
@@ -14935,6 +14960,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pd-Catalyzed Enantioselective C(sp3)-H Arylation for Synergized Construction of C(sp2)-C(sp3) Axial and Central Chirality"
+    },
+    "10.1021/acscatal.6c08200": {
+      "doi": "10.1021/acscatal.6c08200",
+      "posted_at": "2026-11-12T00:44:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794444257.775879",
+      "summary_character_count": 309,
+      "summary_japanese": "A chiral rhodium-catalyzed conjugate addition of biarylhemiboronic esters to proatropisomeric maleimides enabled the efficient, highly stereoselective synthesis of atropisomers bearing a C–C axis, a C–N or N–N axis, and a carbon stereocenter. DFT calculations elucidated the reaction’s stereochemical control.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Asymmetric Convergent Assembly of Atropisomers Bearing Three Chiral Elements via Rhodium-Catalyzed Conjugate Addition"
     },
     "10.1021/acscentsci.6c00969": {
       "doi": "10.1021/acscentsci.6c00969",
@@ -15039,6 +15077,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermoresponsive Chiral Polymeric Microgels through In Situ Cross-Linking Polymerization of Thermally Aggregated Dendritic Phenylacetylenes"
+    },
+    "10.1021/acsmacrolett.6c00529": {
+      "doi": "10.1021/acsmacrolett.6c00529",
+      "posted_at": "2026-11-12T00:43:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794444236.270129",
+      "summary_character_count": 121,
+      "summary_japanese": "macrocycle被覆率を精密制御したPNIPAM-b-PEG-b-PNIPAM polyrotaxaneを設計し、20 wt %水溶液で非threaded対照の約0.1%まで低粘度化しつつ、40 °Cで3000 Pa超のゲル弾性率を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Regulation of Sol Viscosity and Gel Elasticity in Thermoresponsive Polyrotaxane Block Copolymers via Tunable Macrocycle Coverage"
     },
     "10.1021/acsmaterialsau.5c00256": {
       "doi": "10.1021/acsmaterialsau.5c00256",
@@ -20882,6 +20933,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A three-dimensionally tunable mechanical metamaterial enabled by a coupled concave-chiral architecture"
+    },
+    "10.1088/1361-665x/aec05d": {
+      "doi": "10.1088/1361-665x/aec05d",
+      "posted_at": "2026-11-12T00:44:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794444242.408519",
+      "summary_character_count": 364,
+      "summary_japanese": "A chiral re-entrant honeycomb inspired by traditional timber joints and lattices was designed, and eight topologies were assessed by compression and vibration tests and nonlinear modeling. Under a 1.5 kg preload, S-CHAC achieved a 1.0 Hz initial isolation frequency and a 66.7% normalized QZS stroke, while maintaining stable isolation under 1–2 kg axial payloads.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Quasi-zero stiffness chiral combined metamaterials for broadband vibration isolation and load robustness"
     },
     "10.1088/1361-6668/aeb76c": {
       "doi": "10.1088/1361-6668/aeb76c",
