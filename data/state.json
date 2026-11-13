@@ -31,7 +31,7 @@
     "2026-11-10": 9,
     "2026-11-11": 20,
     "2026-11-12": 23,
-    "2026-11-13": 15
+    "2026-11-13": 16
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -26795,6 +26795,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Study of Helix Angle Parameters of Helical-Channel Magnetohydrodynamic Thrusters"
+    },
+    "10.3390/math14224148": {
+      "doi": "10.3390/math14224148",
+      "posted_at": "2026-11-13T05:02:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794546121.286029",
+      "summary_character_count": 85,
+      "summary_japanese": "粘土中PHRCPの施工抵抗と硬化後引抜き容量を別途較正する幾何学考慮半解析法を開発し、66 mmで同定した係数を110 mmへ移行して、容量を実測比+5.8%で推定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Geometry-Aware Two-Stage Semi-Analytical Method for Installation Resistance and Uplift Capacity of Premixed Helical Rigid-Core Composite Piles in Clay"
     },
     "10.3390/md24080279": {
       "doi": "10.3390/md24080279",
