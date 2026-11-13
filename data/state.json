@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-12": 8,
     "2026-10-13": 11,
     "2026-10-14": 17,
     "2026-10-15": 24,
@@ -32,7 +31,7 @@
     "2026-11-10": 9,
     "2026-11-11": 20,
     "2026-11-12": 23,
-    "2026-11-13": 10
+    "2026-11-13": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2842,6 +2841,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Sequence-Controlled Helical Ladder Polymers: Impact of Stereochemical Sequence on Helical Geometry and Chiral Recognition"
+    },
+    "10.1002/ange.7306632": {
+      "doi": "10.1002/ange.7306632",
+      "posted_at": "2026-11-13T01:50:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794534639.093259",
+      "summary_character_count": 134,
+      "summary_japanese": "CpX-IrIII触媒によるphosphine oxideのアトロプ選択的C–H arylationを基盤に、4種の多様化点をもつ35種の空気安定chiral biaryl monophosphineを3段階で合成し、Au・Pd不斉反応で最大99:1 erを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Concise and Modular Access to a Chiral Biaryl Monophosphine Library and Downstream Use in Catalytic Enantioselective Transformations"
     },
     "10.1002/ange.7494092": {
       "doi": "10.1002/ange.7494092",
@@ -5694,6 +5706,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Guest-Directed Navigation of a Ligand Conformational Landscape Enables Palladium-Organic Cage-Bowl-Helicate Interconversion"
+    },
+    "10.1002/anie.8141553": {
+      "doi": "10.1002/anie.8141553",
+      "posted_at": "2026-11-13T01:50:47+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794534646.945149",
+      "summary_character_count": 117,
+      "summary_japanese": "カチオン性キラル銅錯体でiminoesterのアトロプ異性化を促すDYKAT型1,3-dipolar cycloadditionを開発し、配位子により(Sa)-endo体または(Ra)-exo体を高収率・高エナンチオ選択的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Atroposelective Dynamic Kinetic Asymmetric (3+2)-Cycloaddition: Synthesis of 2-(Quinolin-8-yl)arylpyrrolidines"
     },
     "10.1002/anie.8164022": {
       "doi": "10.1002/anie.8164022",
@@ -17841,6 +17866,19 @@
       "summary_used_fallback": false,
       "title": "Enantio-, Regio-, and E -Selective Hydroboration of 1,3-Dienylsilanes to Construct Bifunctional Allylation Reagents"
     },
+    "10.1021/jacs.6c16335": {
+      "doi": "10.1021/jacs.6c16335",
+      "posted_at": "2026-11-13T01:50:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794534634.652739",
+      "summary_character_count": 356,
+      "summary_japanese": "Visible-light photoredox/cobalt dual catalysis, enabled by a chiral phosphoramidite bearing a tricyclic tetrahydrobenzoquinoline core, achieved enantioselective three-component reductive coupling of aldehydes, amines, and alkynes. The method directly affords chiral allylic amines with broad substrate scope and high chemo-, regio-, and enantioselectivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Three-Component Reductive Coupling of Aldehydes, Amines, and Alkynes via Ligand-Enabled Cobalt/Photoredox Dual Catalysis for Modular Synthesis of Allylic Amines"
+    },
     "10.1021/jacs.6c16353": {
       "doi": "10.1021/jacs.6c16353",
       "posted_at": "2026-11-09T21:56:00+00:00",
@@ -26303,6 +26341,19 @@
       "summary_used_fallback": false,
       "title": "Effects of Remineralizing Products Containing NaF, CPP-ACPF, and NovaMin on Enamel Microhardness and Bond Strength"
     },
+    "10.3390/app162211170": {
+      "doi": "10.3390/app162211170",
+      "posted_at": "2026-11-13T01:50:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794534627.378939",
+      "summary_character_count": 113,
+      "summary_japanese": "EV housing用アルミニウムボルトの塑性域締結を、らせんねじを解像した弾塑性FE解析とトルク・角度・軸力試験で比較した。降伏軸力とプラトー軸力は6%以内で一致し、降伏軸力はボルトとねじ摩擦、降伏角は継手剛性に支配された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helical-Thread Elastoplastic Finite Element Analysis of Plastic-Region Tightening of Aluminum Bolts with Torque-Angle-Preload Tests"
+    },
     "10.3390/atmos17111086": {
       "doi": "10.3390/atmos17111086",
       "posted_at": "2026-11-05T23:39:14+00:00",
@@ -27706,6 +27757,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamics of Full Skyrmions in a Chiral Liquid Crystal"
+    },
+    "10.4081/jbr.2026.14988": {
+      "doi": "10.4081/jbr.2026.14988",
+      "posted_at": "2026-11-13T01:50:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794534622.403999",
+      "summary_character_count": 115,
+      "summary_japanese": "D-またはL-glucoseとL-lysineの加熱で得たMRPsを比較し、MRP-L-GluはABTS・DPPH活性は同等ながら還元力が高く、Listeria monocytogenes増殖阻害を25% (v/v)でも維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sugar chirality modulates the antioxidant and bacterial growth-inhibitory properties of Maillard reaction products from glucose and lysine"
     },
     "10.4103/mgr.medgasres-d-25-00145": {
       "doi": "10.4103/mgr.medgasres-d-25-00145",
