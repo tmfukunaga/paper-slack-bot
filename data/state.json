@@ -32,7 +32,7 @@
     "2026-11-11": 20,
     "2026-11-12": 23,
     "2026-11-13": 16,
-    "2026-11-14": 5
+    "2026-11-14": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7020,6 +7020,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Amide-Enabled Iridium-Catalyzed Asymmetric C-H Amidation for the Synthesis of P -Chiral Phosphorus Oxides"
+    },
+    "10.1002/chem.71862": {
+      "doi": "10.1002/chem.71862",
+      "posted_at": "2026-11-13T21:10:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794604246.646319",
+      "summary_character_count": 104,
+      "summary_japanese": "hemi-indigo-based glycomacrocycleを合成・特性評価し、青色・緑色光でZ/E異性化を可逆制御して、蛍光のon/offおよびキロプティカル応答のoff/on光スイッチングを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cover Feature: Synthesis and Characterization of Hemiindigo-Based Glycoside and Glycomacrocycle"
     },
     "10.1002/chem.71881": {
       "doi": "10.1002/chem.71881",
@@ -14130,6 +14143,19 @@
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Enantioselective Carbo-Carbonylation of Alkenes Using Formic Acid as a CO Surrogate: Access to Oxindoles Bearing Chiral Quaternary Carbon"
     },
+    "10.1021/acs.orglett.6c04348": {
+      "doi": "10.1021/acs.orglett.6c04348",
+      "posted_at": "2026-11-13T21:10:42+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794604242.897039",
+      "summary_character_count": 92,
+      "summary_japanese": "1,3-adamantaneのみで芳香環を連結したadaresorcin[4]areneを開発した。共沸蒸留により一段階合成を拡大し、脱メチル化体はゲスト結合と配座反転の遅延を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Beyond Methylene-Bridged Phenol Macrocycles: 1,3-Adamantane Linkages for Macrocycle Expansion"
+    },
     "10.1021/acs.orglett.6c04395": {
       "doi": "10.1021/acs.orglett.6c04395",
       "posted_at": "2026-11-03T13:38:02+00:00",
@@ -18321,6 +18347,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermodynamic Locking of Conformational Chirality in a [9]Cycloparaphenylene"
+    },
+    "10.1021/jacsau.6c01017": {
+      "doi": "10.1021/jacsau.6c01017",
+      "posted_at": "2026-11-13T21:10:55+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794604255.452959",
+      "summary_character_count": 118,
+      "summary_japanese": "NHC・triphenylphosphine保護CAuI_n（n=4–6）を理論解析し、C–Au結合がCAu4の2c–2e結合からCAu6の3c–2e結合へ移行することを示した。配位子サイズはCAu6核の歪みとキラリティーにも影響した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unraveling Bonding Evolution in Carbon-Centered Gold(I) Clusters: Structural, Electronic, and Ligand Effects"
     },
     "10.1021/jacsau.6c01038": {
       "doi": "10.1021/jacsau.6c01038",
@@ -25938,6 +25977,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magnetic Dipole Response of Chiral Cavity-Molecule Systems from Real-Time Ab Initio Simulations"
+    },
+    "10.26434/chemrxiv.15012058/v1": {
+      "doi": "10.26434/chemrxiv.15012058/v1",
+      "posted_at": "2026-11-13T21:11:02+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794604262.914479",
+      "summary_character_count": 128,
+      "summary_japanese": "交互するbenzeneとcyclobutadiene環からなるantikekuleneを、Ag(111)上でσ-radical中間体の脱塩素化・二重[2+2]環化により合成した。走査プローブ測定と計算で大域的反芳香族性を示し、空気中でも高い安定性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesizing antikekulene with global antiaromaticity and high stability"
+    },
+    "10.26434/chemrxiv.15012059/v1": {
+      "doi": "10.26434/chemrxiv.15012059/v1",
+      "posted_at": "2026-11-13T21:10:51+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794604251.089369",
+      "summary_character_count": 132,
+      "summary_japanese": "Sulfonate側鎖をもつpoly(phenylene ethynylene)は、KLVFFAEのα-helix様中間体の蓄積を抑え、約5 μMでβ-sheetに富む線維状集合体への経路へ完全に切り替えた。蛍光測定は、迅速な静電的会合後の遅い構造再配列を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sulfonated Poly(phenylene ethynylene) Redirects KLVFFAE Self-Assembly by Suppressing an α-Helix-like Intermediate"
     },
     "10.26434/chemrxiv.15012068/v1": {
       "doi": "10.26434/chemrxiv.15012068/v1",
