@@ -31,7 +31,8 @@
     "2026-11-10": 9,
     "2026-11-11": 20,
     "2026-11-12": 23,
-    "2026-11-13": 16
+    "2026-11-13": 16,
+    "2026-11-14": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -15396,6 +15397,19 @@
       "summary_used_fallback": false,
       "title": "Ultrasensitive Enantioselective Chiroptical Sensing with Large-Area Twisted Aligned Carbon Nanotube Films"
     },
+    "10.1021/acsnano.6c10070": {
+      "doi": "10.1021/acsnano.6c10070",
+      "posted_at": "2026-11-13T19:42:39+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794598959.126189",
+      "summary_character_count": 330,
+      "summary_japanese": "Angle-resolved cross-axial nonlinear Hall measurements in trigonal Te revealed a Berry curvature dipole whose sign reverses with crystal chirality. The cross-axial susceptibility, χyxz, was more than twice χxxx, while first-principles calculations supported its origin in a hedgehog-like Berry-curvature texture near the H points.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Direct Observation of Chirality-Dependent Berry Curvature Dipole via Cross-Axial Nonlinear Hall Effect in Trigonal Te"
+    },
     "10.1021/acsnano.6c10780": {
       "doi": "10.1021/acsnano.6c10780",
       "posted_at": "2026-09-22T10:58:49+00:00",
@@ -17892,6 +17906,19 @@
       "summary_used_fallback": true,
       "title": "Asymmetric Total Syntheses of (+)-Asperterpenoids D and E with a Concurrent Synthesis of ent -(-)-Homoverrucosanol"
     },
+    "10.1021/jacs.6c16409": {
+      "doi": "10.1021/jacs.6c16409",
+      "posted_at": "2026-11-13T19:42:50+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794598970.024509",
+      "summary_character_count": 123,
+      "summary_japanese": "電子を触媒としてdonor-acceptor複合体形成を加速する超分子集合戦略を設計し、素反応と中間体安定性の最適化により高turnover数と大気下での堅牢性を達成した。電気・光・機械力で駆動でき、時空間制御とほぼ定量的な複合体合成を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electron-Catalyzed Supramolecular Assembly with High Efficiency, Robustness, and Versatility"
+    },
     "10.1021/jacs.6c16438": {
       "doi": "10.1021/jacs.6c16438",
       "posted_at": "2026-10-21T11:10:03+00:00",
@@ -18112,6 +18139,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dynamically and Reversibly Functionalized Self-Assembled Platelets via Noncovalent Interactions"
+    },
+    "10.1021/jacs.6c18030": {
+      "doi": "10.1021/jacs.6c18030",
+      "posted_at": "2026-11-13T19:42:33+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794598953.105319",
+      "summary_character_count": 132,
+      "summary_japanese": "キラルimidazolidinoneをクエン酸由来carbon dotsに共有結合し、光増感・不斉誘導を兼ねる触媒を設計した。アルデヒドの不斉ラジカルα-alkylationを最大84%収率、93% e.e.で進行させ、連続flowでグラムスケール反応を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conjugate Chiral Carbon Dots for Scalable Asymmetric Photocatalysis in Flow"
     },
     "10.1021/jacs.6c18093": {
       "doi": "10.1021/jacs.6c18093",
@@ -25885,6 +25925,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Aromaticity, Electron Delocalization and Pauli Repulsion Explain Singlet and Triplet Energies in pi-Systems Containing the Amide Moiety"
+    },
+    "10.26434/chemrxiv.15011996/v1": {
+      "doi": "10.26434/chemrxiv.15011996/v1",
+      "posted_at": "2026-11-13T19:42:26+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794598946.000929",
+      "summary_character_count": 106,
+      "summary_japanese": "双極子近似を超えるRT-QED-TDDFTを開発し、キラル空洞中の電子・光子動力学を計算した。Mg-porphyrinでは電気双極子応答をほぼ変えず、空洞場に由来するヘリシティ依存の磁気双極子応答と拍動を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magnetic Dipole Response of Chiral Cavity-Molecule Systems from Real-Time Ab Initio Simulations"
+    },
+    "10.26434/chemrxiv.15012068/v1": {
+      "doi": "10.26434/chemrxiv.15012068/v1",
+      "posted_at": "2026-11-13T19:42:45+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794598965.962619",
+      "summary_character_count": 134,
+      "summary_japanese": "BINOL系キラルPd2L4ケージの内向き官能基をOCH2OCH3またはOHへ変え、スルホン酸ゲストとの非共有結合相互作用を調節した。anthraquinone-disulfonate位置異性体を化学選択的に、camphor sulfonateを立体選択的に結合した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controlling Guest Selectivity in BINOL-based Pd2L4 Coordination Cages via Endohedral Cavity Functionalization"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
