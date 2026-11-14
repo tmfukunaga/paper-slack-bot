@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-13": 11,
     "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
@@ -32,7 +31,7 @@
     "2026-11-11": 20,
     "2026-11-12": 23,
     "2026-11-13": 16,
-    "2026-11-14": 10
+    "2026-11-14": 14
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12473,6 +12472,19 @@
       "summary_used_fallback": false,
       "title": "Spectral Contributions to Circularly Polarized Luminescence beyond Artifacts in Solution-Processed Thin Films"
     },
+    "10.1021/acs.jpcc.6c05801": {
+      "doi": "10.1021/acs.jpcc.6c05801",
+      "posted_at": "2026-11-14T01:27:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794619642.284589",
+      "summary_character_count": 104,
+      "summary_japanese": "Ag(111)上で、cyanomethyl基をもつ3回対称分子が方向性水素結合により長距離秩序化した2Dキラル蜂巣ネットワークを形成した。STMとDFTにより、鏡像対称な分子配列と安定化エネルギーを解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Formation of a 2D Chiral Honeycomb Self-Assembled Molecular Network on Ag(111)"
+    },
     "10.1021/acs.jpcc.6c07271": {
       "doi": "10.1021/acs.jpcc.6c07271",
       "posted_at": "2026-11-11T17:08:31+00:00",
@@ -18088,6 +18100,19 @@
       "summary_used_fallback": false,
       "title": "pi-Armor: Shape-Complementary Encapsulation of Aromatics"
     },
+    "10.1021/jacs.6c17367": {
+      "doi": "10.1021/jacs.6c17367",
+      "posted_at": "2026-11-14T01:27:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794619637.917049",
+      "summary_character_count": 121,
+      "summary_japanese": "光媒介Cr触媒で活性化アリル・プロパルギルアルコールとアルデヒドを脱酸素的に不斉カップリングし、多様なキラルhomoallylic alcoholとallenolを合成した。Z/E基質とR/S配位子の組合せにより、4種の立体異性体へ到達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photomediated Chromium-Catalyzed Regio-, Diastereo-, and Enantioselective Deoxygenative Coupling of Activated Allylic and Propargylic Alcohols with Aldehydes"
+    },
     "10.1021/jacs.6c17438": {
       "doi": "10.1021/jacs.6c17438",
       "posted_at": "2026-11-04T19:21:22+00:00",
@@ -20466,6 +20491,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enhanced circular dichroism at an exceptional point in chiral hollow-core PCF"
+    },
+    "10.1051/epjconf/202639401009/pdf": {
+      "doi": "10.1051/epjconf/202639401009/pdf",
+      "posted_at": "2026-11-14T01:27:27+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794619647.168839",
+      "summary_character_count": 127,
+      "summary_japanese": "有限Bjorken xBのsub-eikonal DISで、双極子描像と光円錐演算子を接続し、包括断面では標準的なクォーク・ヘリシティ分布を導出した。xB=0では双極子基底の二重対数進化が完全なCFをもつKirschner-Lipatov指数を再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From the Dipole Picture to Quark and Helicity Distributions in Sub-Eikonal DIS"
+    },
+    "10.1051/epjconf/202639401023/pdf": {
+      "doi": "10.1051/epjconf/202639401023/pdf",
+      "posted_at": "2026-11-14T01:27:31+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794619651.377989",
+      "summary_character_count": 105,
+      "summary_japanese": "熱ゆらぎを含む拡張chiral-dilaton模型でハドロン物質の相図を解析し、有効質量を自己無撞着に決定した。飽和特性を再現し、スケール対称性回復に起因する一次相転移と実効的chiral対称性回復を予測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Effective hadron chiral-dilaton lagrangian with thermal field fluctuations"
     },
     "10.1055/a-2913-5787": {
       "doi": "10.1055/a-2913-5787",
