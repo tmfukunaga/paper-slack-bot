@@ -31,7 +31,8 @@
     "2026-11-11": 20,
     "2026-11-12": 23,
     "2026-11-13": 16,
-    "2026-11-14": 17
+    "2026-11-14": 17,
+    "2026-11-15": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4245,6 +4246,19 @@
       "summary_used_fallback": true,
       "title": "Switching Fluorescent-Phosphorescent Radioluminescence in Organic X-Ray Scintillators via a Host-Guest Strategy"
     },
+    "10.1002/anie.3719317": {
+      "doi": "10.1002/anie.3719317",
+      "posted_at": "2026-11-14T18:02:02+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794679322.887069",
+      "summary_character_count": 133,
+      "summary_japanese": "キラリティ誘起結晶化とCOF-to-COF変換によりbenzothiazole連結完全共役COFを合成し、平行積層による異方的分極で、1.9×10−2 S cm−1の伝導度、1.1×1017 cm−3のキャリア濃度、1.1 cm2 V−1 s−1の移動度を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fully Conjugated Chiral Covalent Organic Frameworks Enabling High-Density Polaron Hopping Conduction via Spin-Frustration Relief"
+    },
     "10.1002/anie.3729447": {
       "doi": "10.1002/anie.3729447",
       "posted_at": "2026-08-23T01:10:49+00:00",
@@ -7487,6 +7501,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Carbon Dots-Triggered Conjugated Polymer Assembly for Efficient Circularly Polarized Electroluminescence and Photodetection †"
+    },
+    "10.1002/cjoc.70827": {
+      "doi": "10.1002/cjoc.70827",
+      "posted_at": "2026-11-14T18:02:18+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794679338.049539",
+      "summary_character_count": 126,
+      "summary_japanese": "新規indane-based PyrOx配位子を用いるNi触媒電解還元的DKRで、ラセミaryl triflatesとaldehydesを不斉cross-couplingし、軸・中心キラリティーを持つ生成物をdr > 19:1、最高99% eeで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electroreductive Dynamic Kinetic Resolution for Constructing Central and Axial Chirality †"
     },
     "10.1002/cjoc.70843": {
       "doi": "10.1002/cjoc.70843",
@@ -18243,6 +18270,19 @@
       "summary_used_fallback": false,
       "title": "Single-Carbon Atom Insertion into Phenols with Nitroalkanes"
     },
+    "10.1021/jacs.6c18804": {
+      "doi": "10.1021/jacs.6c18804",
+      "posted_at": "2026-11-14T18:02:11+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794679331.186519",
+      "summary_character_count": 124,
+      "summary_japanese": "蒸発収縮とキラル自己組織化を結合するspiral-in-shrink assemblyにより、58 μmの円偏光発光マイクロドームを作製し、31,000超の発光ユニットからなる359 ppi、発光非対称因子最大1.25のフルカラーアレイを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spiral-in-Shrink Assembly of Microarchitected Circularly Polarized Luminescent Networks"
+    },
     "10.1021/jacs.6c18941": {
       "doi": "10.1021/jacs.6c18941",
       "posted_at": "2026-11-05T19:29:42+00:00",
@@ -18320,6 +18360,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanically Robust Supramolecular Plastics through Distinct Ionic Association Modes"
+    },
+    "10.1021/jacs.6c21612": {
+      "doi": "10.1021/jacs.6c21612",
+      "posted_at": "2026-11-14T18:01:58+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794679318.507259",
+      "summary_character_count": 407,
+      "summary_japanese": "An organocatalytic three-component reaction of N-aryl-2-substituted anilines, 2-oxo-2-arylacetaldehydes, and indoles enabled de novo synthesis of axially and centrally chiral N-(2-substituted phenyl)benzo[e]indol-1-ones. The process proceeds through in situ formation of α-functionalized alcohols, whose adjacent axial and central chirality governs enantioselectivity in the subsequent iminium 1,2-addition.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Synergistic Construction of Axial and Central Chirality via an Organocatalytic Three-Component Reaction Involving In Situ-Formed α-Functionalized Alcohols"
     },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
@@ -21635,6 +21688,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Molecular Nanocarbons as Function-Encoding Units: From Atomistic Precision to Collective Function"
+    },
+    "10.1093/bulcsj/uoag157": {
+      "doi": "10.1093/bulcsj/uoag157",
+      "posted_at": "2026-11-14T18:02:06+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794679326.740089",
+      "summary_character_count": 90,
+      "summary_japanese": "honeycomb、diamond、K4の分子性強等方格子を構築し、隠れたフラストレーション、軌道対称性によるフラットバンド、キラル発光、固体電気化学による電子状態制御を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Physics and Chemistry of Molecule-Based Strongly Isotropic Lattices: Hidden Frustrations, Flat Bands, Chirality, and Electrochemical Control"
     },
     "10.1093/chemle/upag153": {
       "doi": "10.1093/chemle/upag153",
