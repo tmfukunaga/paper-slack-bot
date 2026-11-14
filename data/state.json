@@ -32,7 +32,7 @@
     "2026-11-12": 23,
     "2026-11-13": 16,
     "2026-11-14": 17,
-    "2026-11-15": 5
+    "2026-11-15": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1438,6 +1438,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Framework Linkage Chemistry Regulates Excited-State Chiral Photophysics in Porous Polymers for Programmable Circularly Polarized Luminescence"
+    },
+    "10.1002/adom.72040": {
+      "doi": "10.1002/adom.72040",
+      "posted_at": "2026-11-14T22:24:57+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794695097.819399",
+      "summary_character_count": 345,
+      "summary_japanese": "An axially chiral bicarbazole–triazine TADF emitter, Zooey-TRZ, was designed to regulate excited states through through-space charge transfer. Enantiopure CP-OLEDs emitted blue light at 455 nm, achieving maximum external quantum efficiencies of 21.14% and 20.42% and opposite electroluminescence dissymmetry factors of approximately ±7.0 × 10−3.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Coupling Axial Chirality with Through-Space Charge-Transfer-Involved Excited-State Regulation in Bicarbazole-Based Blue CP-OLED Emitters"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -9400,6 +9413,19 @@
       "summary_used_fallback": false,
       "title": "Structure and conformational landscape of an unprecedented acyclic pentakis(cyclodiphosphazane)"
     },
+    "10.1007/s11426-026-3981-7": {
+      "doi": "10.1007/s11426-026-3981-7",
+      "posted_at": "2026-11-14T22:25:03+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794695103.056909",
+      "summary_character_count": 118,
+      "summary_japanese": "ボウル型らせんキラル配位子とPdIIからO対称Pd6L8ケージを構築し、12個の配位子間π–π相互作用がラセミ体の自己認識的キラル自己選別を駆動すると示した。エナンチオ純粋ケージはBINOL由来キラルリン酸をエナンチオ選択的に認識した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Interligand interactions control narcissistic chiral self-sorting in the self-assembly of Pd6L8 octahedral cages for chiral sensing"
+    },
     "10.1007/s13139-026-01067-8": {
       "doi": "10.1007/s13139-026-01067-8",
       "posted_at": "2026-09-06T20:00:34+00:00",
@@ -15287,6 +15313,19 @@
       "summary_used_fallback": false,
       "title": "Thermoresponsive Chiral Polymeric Microgels through In Situ Cross-Linking Polymerization of Thermally Aggregated Dendritic Phenylacetylenes"
     },
+    "10.1021/acsmacrolett.6c00495": {
+      "doi": "10.1021/acsmacrolett.6c00495",
+      "posted_at": "2026-11-14T22:25:07+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794695107.097309",
+      "summary_character_count": 109,
+      "summary_japanese": "アキラル二色性pyreneの置換様式で遷移双極子モーメント配向を制御し、CLCのピッチやらせん性を変えずにCPLを反転した。四置換Py-3/Py-6は負のSFと反転CPLを示し、この挙動は3種のLCホストで維持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable CPL Inversion Driven by Transition Dipole Moment Engineering of Achiral Dichroic Pyrenes in Cholesteric Liquid Crystals"
+    },
     "10.1021/acsmacrolett.6c00529": {
       "doi": "10.1021/acsmacrolett.6c00529",
       "posted_at": "2026-11-12T00:43:56+00:00",
@@ -20129,6 +20168,19 @@
       "summary_used_fallback": true,
       "title": "Omnidirectional photonic chiral flatband in nonlocal membrane metasurfaces"
     },
+    "10.1038/s41467-026-79264-4": {
+      "doi": "10.1038/s41467-026-79264-4",
+      "posted_at": "2026-11-14T22:25:15+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794695115.839239",
+      "summary_character_count": 108,
+      "summary_japanese": "水分散[Au25(p-MBA)18]-で、配位子再配向により生じる一過性芳香族ポケットがtetrapropylammoniumを取り込み、NMRと計算で1クラスター当たり6個の飽和結合と協同性・自己制限機構を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Emergent stoichiometric host-guest recognition on ligated colloidal surfaces via dynamic ligand reorientation"
+    },
     "10.1038/s41467-026-79300-3": {
       "doi": "10.1038/s41467-026-79300-3",
       "posted_at": "2026-11-01T05:40:04+00:00",
@@ -21688,6 +21740,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Molecular Nanocarbons as Function-Encoding Units: From Atomistic Precision to Collective Function"
+    },
+    "10.1093/bulcsj/uoag153": {
+      "doi": "10.1093/bulcsj/uoag153",
+      "posted_at": "2026-11-14T22:25:11+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794695111.405609",
+      "summary_character_count": 127,
+      "summary_japanese": "dipyrrinを前駆体とする金属テンプレート法で合成した10-heterocorrolesについて、埋め込みヘテロ原子が環状π電子構造、芳香族性、光学・酸化還元特性、反応性に及ぼす影響を総説し、電子構造を調整可能なπ共役大環状骨格としての設計を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Metal-templated synthesis of 10-heterocorroles from dipyrrins"
     },
     "10.1093/bulcsj/uoag157": {
       "doi": "10.1093/bulcsj/uoag157",
