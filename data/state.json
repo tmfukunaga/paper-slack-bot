@@ -31,7 +31,7 @@
     "2026-11-11": 20,
     "2026-11-12": 23,
     "2026-11-13": 16,
-    "2026-11-14": 14
+    "2026-11-14": 17
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12719,6 +12719,19 @@
       "summary_used_fallback": false,
       "title": "Chirality in Resonance Energy Transfer: Donor-Imprinted Ellipticity in Achiral Acceptor Emission"
     },
+    "10.1021/acs.jpclett.6c03169": {
+      "doi": "10.1021/acs.jpclett.6c03169",
+      "posted_at": "2026-11-14T12:57:50+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794661070.330809",
+      "summary_character_count": 109,
+      "summary_japanese": "非断熱分子動力学アンサンブルに沿う時間分解電子円二色性（TRCD）計算法を第二世代分子モーターの光異性化へ適用し、P体経路は可視域のキラルバンドを保持する一方、M体形成経路は円錐交差を経てキラル応答を失うことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tracking Chirality during Molecular Motor Photoisomerization via Simulated Time-Resolved Circular Dichroism"
+    },
     "10.1021/acs.langmuir.6c01158": {
       "doi": "10.1021/acs.langmuir.6c01158",
       "posted_at": "2026-07-23T03:04:22+00:00",
@@ -20336,6 +20349,19 @@
       "summary_used_fallback": false,
       "title": "ANN-GA-based optimization of a hybrid battery thermal regulation system with helical liquid cooling, PCM, and copper foam"
     },
+    "10.1038/s41598-026-78648-2": {
+      "doi": "10.1038/s41598-026-78648-2",
+      "posted_at": "2026-11-14T12:57:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794661074.675489",
+      "summary_character_count": 118,
+      "summary_japanese": "Cr高濃度ドープPb$_{1-x}$Sn$_x$Te単結晶で、化学的無秩序と共鳴不純物によるフェルミ準位制御を検証し、0.25<x<0.45で3D Weyl半金属相を観測した。最大75%の負磁気抵抗と室温でのカイラル異常再出現を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tunable chiral anomaly in electron magnetotransport in the Weyl semimetallic Pb$$_{1-x}$$Sn$$_{x}$$Te:Cr alloy"
+    },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
       "posted_at": "2026-07-29T18:18:40+00:00",
@@ -23039,6 +23065,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circular Dichroism in Resonant Photoelectron Diffraction from an Antiferromagnetic Monolayer on a Honeycomb Lattice"
+    },
+    "10.1515/ijcre-2026-0163": {
+      "doi": "10.1515/ijcre-2026-0163",
+      "posted_at": "2026-11-14T12:57:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794661078.521689",
+      "summary_character_count": 120,
+      "summary_japanese": "Pd/Beta-Zeoliteナノ触媒とOHBRを用い、イラク産light gas oilの連続酸化脱硫を検討した。80 °C、1.2 Hz、滞留12 minで硫黄を624 ppmから43 ppmへ93.11%除去し、擬一次速度式に従った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intensified desulfurization of Iraqi light gas oil using Pd/zeolite Nano-catalyst in an oscillatory helical baffled reactor"
     },
     "10.1515/ract-2026-0076": {
       "doi": "10.1515/ract-2026-0076",
