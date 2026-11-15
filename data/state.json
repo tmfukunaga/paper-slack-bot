@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-14": 17,
     "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
@@ -32,7 +31,7 @@
     "2026-11-12": 23,
     "2026-11-13": 16,
     "2026-11-14": 17,
-    "2026-11-15": 10
+    "2026-11-15": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2322,6 +2321,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Sidechain Modulation of Responsive Metal-Organic Framework Pore Chirality for Enhanced Enantioseparation"
+    },
+    "10.1002/ange.3719317": {
+      "doi": "10.1002/ange.3719317",
+      "posted_at": "2026-11-15T00:45:46+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794703546.629339",
+      "summary_character_count": 127,
+      "summary_japanese": "キラリティー誘起結晶化とCOF-to-COF変換でbenzothiazole連結完全共役COFを合成し、平行積層による異方性分極で1.9 × 10−2 S cm−1の伝導度を達成した。ヨウ素ドープ体は反平行積層のアキラル類縁体より伝導度が一桁超向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fully Conjugated Chiral Covalent Organic Frameworks Enabling High-Density Polaron Hopping Conduction via Spin-Frustration Relief"
     },
     "10.1002/ange.3747908": {
       "doi": "10.1002/ange.3747908",
@@ -13357,6 +13369,19 @@
       "summary_used_fallback": false,
       "title": "Single-Layer Diverse Chiral Metasurfaces Driven by Generative AI"
     },
+    "10.1021/acs.nanolett.6c05145": {
+      "doi": "10.1021/acs.nanolett.6c05145",
+      "posted_at": "2026-11-15T00:45:51+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794703551.126839",
+      "summary_character_count": 133,
+      "summary_japanese": "プラズモニックnanorod dimerで、全電磁場計算と単一粒子CDS分光により、回転・並進非対称性がED/MDキラルモードの重なりと分裂を制御することを示した。center-edge配置ではモード収束とED–MD結合増強によりCDSが増大し、スペクトル集中した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Internal Symmetry-Driven Modal Convergence Enhances Chiral Scattering"
+    },
     "10.1021/acs.oprd.6c00194": {
       "doi": "10.1021/acs.oprd.6c00194",
       "posted_at": "2026-09-17T21:23:40+00:00",
@@ -14233,6 +14258,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Beyond Methylene-Bridged Phenol Macrocycles: 1,3-Adamantane Linkages for Macrocycle Expansion"
+    },
+    "10.1021/acs.orglett.6c04392": {
+      "doi": "10.1021/acs.orglett.6c04392",
+      "posted_at": "2026-11-15T00:45:59+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794703559.776419",
+      "summary_character_count": 128,
+      "summary_japanese": "Photoredox触媒とキラルBrønsted酸の協働により、α,β-不飽和enamideをLanglois型sulfinateで不斉hydrofluoroalkyl化し、CF3などを有するα-キラルamideを最高99%収率、96:4 e.r.で得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photoredox/Chiral Brønsted-Acid-Catalyzed Asymmetric Hydrofluoroalkylation of α,β-Unsaturated Amides with Langlois-Type Reagents"
     },
     "10.1021/acs.orglett.6c04395": {
       "doi": "10.1021/acs.orglett.6c04395",
@@ -26237,6 +26275,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controlling Guest Selectivity in BINOL-based Pd2L4 Coordination Cages via Endohedral Cavity Functionalization"
+    },
+    "10.26434/chemrxiv.15012159/v1": {
+      "doi": "10.26434/chemrxiv.15012159/v1",
+      "posted_at": "2026-11-15T00:45:55+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794703555.886999",
+      "summary_character_count": 104,
+      "summary_japanese": "配位子足場の共有結合テザリングにより、ヘテロレプティックPd(II)配位ケージの自己選別を制御した。骨格形状・供与基を変えず、単一のPd2LaLbLc2ケージや2種または3種の集合体混合物を選択的に形成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programmable Self-Sorting in Multi-Component Coordination Cage Systems via Ligand Tethering"
+    },
+    "10.26434/chemrxiv.15012161/v1": {
+      "doi": "10.26434/chemrxiv.15012161/v1",
+      "posted_at": "2026-11-15T00:46:04+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794703563.979439",
+      "summary_character_count": 95,
+      "summary_japanese": "DFTで22種のπ電子系のCu(111)吸着に伴う芳香族性を解析し、LUMO占有による結合長均一化と伸長の競合により、物理吸着では保持、化学吸着では獲得・局所変化・喪失が起こることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gain, Retention, or Loss of Aromaticity upon Surface Adsorption: pi-Electron Systems on Cu(111)"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
