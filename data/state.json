@@ -31,7 +31,7 @@
     "2026-11-12": 23,
     "2026-11-13": 16,
     "2026-11-14": 17,
-    "2026-11-15": 15
+    "2026-11-15": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -553,6 +553,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Metal-Coordination Polymers: Hierarchical Chirality, Synthesis, and Functional Applications"
+    },
+    "10.1002/adfm.79616": {
+      "doi": "10.1002/adfm.79616",
+      "posted_at": "2026-11-15T06:32:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794724343.422539",
+      "summary_character_count": 105,
+      "summary_japanese": "厚み方向のgraphite勾配とメソゲン配向を組み込んだLCEスクロールばねは、熱・光熱刺激で約3500°の巻き方向反転を可逆的に示し、snap-throughにより回転・跳躍、光駆動ギア伝達や輸送を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Gradient-Engineered Liquid Crystal Elastomer Scroll Springs for Snapping Chiral Spiral Flip and Mechanical Output"
     },
     "10.1002/adhm.71957": {
       "doi": "10.1002/adhm.71957",
@@ -8151,6 +8164,19 @@
       "summary_used_fallback": true,
       "title": "Chiral N-Heterocyclic Carbene/Squaramide-Cocatalyzed Asymmetric Intramolecular Stetter Reaction to Construct Benzo-Fused Spiro[4.5]Decanedione Framework"
     },
+    "10.1002/jomd.70008": {
+      "doi": "10.1002/jomd.70008",
+      "posted_at": "2026-11-15T06:32:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794724353.692229",
+      "summary_character_count": 117,
+      "summary_japanese": "風車基部に着想を得たn-limb RSR折り畳み機構を設計・解析し、各肢への同一入力で対称な螺旋運動を生成した。単一モジュールは最大約180°回転し、直列接続で追加駆動なしに回転出力を蓄積でき、試作実験で理論との妥当な一致を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Design and Modeling of a Pinwheel-Base-Inspired Foldable Mechanism Capable of Helical Motion"
+    },
     "10.1002/jssc.70518": {
       "doi": "10.1002/jssc.70518",
       "posted_at": "2026-08-29T10:05:38+00:00",
@@ -9399,6 +9425,19 @@
       "summary_used_fallback": false,
       "title": "Triton Burnup Detector in Large Helical Device"
     },
+    "10.1007/s11144-026-03244-4": {
+      "doi": "10.1007/s11144-026-03244-4",
+      "posted_at": "2026-11-15T06:32:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794724357.631539",
+      "summary_character_count": 116,
+      "summary_japanese": "[NiL](ClO4)2触媒Briggs-Rauscher振動系でR/S-BINOLを定性識別し、同濃度でR-BINOLはS体より長い振動阻害時間を示した。CVとIRからHOO•によるフェノール性OHの酸化とカルボニル化を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral discrimination and mechanistic study of enantiomers R-1,1′-Bi-2-naphthol and S-1,1′-Bi-2-naphthol in Briggs-Rauscher oscillatory chemical system"
+    },
     "10.1007/s11200-026-00027-4": {
       "doi": "10.1007/s11200-026-00027-4",
       "posted_at": "2026-07-29T16:54:02+00:00",
@@ -9632,6 +9671,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A three-spring model and semi-analytical solution for offshore anti-toppling helical piles under lateral loading"
+    },
+    "10.1016/j.apor.2026.105334": {
+      "doi": "10.1016/j.apor.2026.105334",
+      "posted_at": "2026-11-15T06:32:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794724349.435189",
+      "summary_character_count": 87,
+      "summary_japanese": "複雑な深水掘削下の回転式自吸ECD低減ツールに対し、低・高忠実度データを統合する階層的マルチ忠実度動的ベイズ網を提案し、最適化により予測故障確率を30%から19%へ低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic failure-risk assessment of a rotary self-priming ECD-reduction tool under complex deepwater drilling conditions using a multi-fidelity dynamic Bayesian network"
     },
     "10.1016/j.applthermaleng.2026.133315": {
       "doi": "10.1016/j.applthermaleng.2026.133315",
@@ -26535,6 +26587,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Recent advances in photodynamic therapy systems based on pillar[n]arene host-guest chemistry"
+    },
+    "10.3389/fchem.2026.1995089": {
+      "doi": "10.3389/fchem.2026.1995089",
+      "posted_at": "2026-11-15T06:32:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794724339.245939",
+      "summary_character_count": 111,
+      "summary_japanese": "graphite nanosheet導電インクと螺旋構造繊維を統合した伸縮性HFSを作製し、0.5%のひずみ検出限界、33 ms応答、10,000回変形安定性を示した。顎関節症関連の下顎運動ひずみを含む動作信号を記録した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stretchable helical fiber sensor with human motion monitoring capability for mandibular motion assessment in temporomandibular disorders"
     },
     "10.3389/fmech.2026.1915019": {
       "doi": "10.3389/fmech.2026.1915019",
