@@ -31,7 +31,8 @@
     "2026-11-12": 23,
     "2026-11-13": 16,
     "2026-11-14": 17,
-    "2026-11-15": 22
+    "2026-11-15": 22,
+    "2026-11-16": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2504,6 +2505,19 @@
       "summary_used_fallback": false,
       "title": "Hierarchical Chirality Memory Governs Dual Chiroptical Inversion in Mesoscopic Helical Covalent Organic Frameworks"
     },
+    "10.1002/ange.5105875": {
+      "doi": "10.1002/ange.5105875",
+      "posted_at": "2026-11-15T16:22:20+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794759740.439329",
+      "summary_character_count": 135,
+      "summary_japanese": "BINAMを骨格兼キラル誘導基として用い、軸不斉をP/Mヘリシティへ定量的に転写するbis-U-shaped hexapyrrolic expanded porphyrinoidをワンポット合成した。Zn(II)/Co(II)架橋配位によりキロプティカル応答が増幅した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Access to Bis-U-Shaped Hexapyrrolic Expanded Porphyrinoids via a BINAM-Directed Axial-to-Helical Chirality Transfer Strategy"
+    },
     "10.1002/ange.5149199": {
       "doi": "10.1002/ange.5149199",
       "posted_at": "2026-07-24T06:22:00+00:00",
@@ -4712,6 +4726,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Fast-Charging and Durable Organic Cathodes Enabled by Two-Dimensional Supramolecular Polymerization"
+    },
+    "10.1002/anie.5105875": {
+      "doi": "10.1002/anie.5105875",
+      "posted_at": "2026-11-15T16:22:16+00:00",
+      "score": 52,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794759736.032809",
+      "summary_character_count": 135,
+      "summary_japanese": "BINAMを核兼キラル誘導基として用い、軸不斉をマクロ環P/Mヘリシティーへ定量移行するbis-U型hexapyrrolic expanded porphyrinoidをワンポット合成した。Zn(II)/Co(II)架橋配位体は剛直化によりキロプティカル応答を増幅した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Access to Bis-U-Shaped Hexapyrrolic Expanded Porphyrinoids via a BINAM-Directed Axial-to-Helical Chirality Transfer Strategy"
     },
     "10.1002/anie.5129627": {
       "doi": "10.1002/anie.5129627",
@@ -12315,6 +12342,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synthesis of 4-Substituted C-N Axially Chiral 2-(Trifluoromethyl)-2 H -chromene Indole Derivatives via Central-to-Axial Chirality Conversion"
+    },
+    "10.1021/acs.joc.6c01903": {
+      "doi": "10.1021/acs.joc.6c01903",
+      "posted_at": "2026-11-15T16:22:35+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794759755.309039",
+      "summary_character_count": 121,
+      "summary_japanese": "軸不斉と配位性methoxy基をもつchiral guanidine触媒により、Ph3SiClを用いるラセミβ-hydroxy esterのsilylative kinetic resolutionを達成し、多様な基質で良好な選択性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Guanidine Catalyzed Silylative Kinetic Resolution of Racemic β-Hydroxy Esters"
+    },
+    "10.1021/acs.joc.6c01967": {
+      "doi": "10.1021/acs.joc.6c01967",
+      "posted_at": "2026-11-15T16:22:29+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794759749.044369",
+      "summary_character_count": 114,
+      "summary_japanese": "Ferrocenamideとalleneの不斉C–H [4 + 2]環化で、溶媒配位によりβ-hydride eliminationを抑制し、最大80% yield、98% eeで平面・中心キラリティーを持つN複素環を合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantio- and Diastereoselective C-H [4 + 2] Annulation of Ferrocenamides with Allenes: Dynamic Kinetic Resolution Approach to Dual Chirality"
     },
     "10.1021/acs.joc.6c02112": {
       "doi": "10.1021/acs.joc.6c02112",
@@ -20296,6 +20349,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ventral CA1 perineuronal nets modulate morphine-associated contextual memory via vCA1-NAcC synaptic remodeling in male mice"
+    },
+    "10.1038/s41467-026-79359-y": {
+      "doi": "10.1038/s41467-026-79359-y",
+      "posted_at": "2026-11-15T16:22:24+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794759744.941619",
+      "summary_character_count": 115,
+      "summary_japanese": "反対キラリティで同一バルクBIC特性をもつ領域を接合し、一次元界面・零次元接合に局在する低しきい値BICレーザーを実証した。光学スピン運動量ロック発光と偏光特異点を示し、零次元BIC結合では非エルミートなキラリティ固定挙動を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-locked low-dimensional bound states in the continuum lasers"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
