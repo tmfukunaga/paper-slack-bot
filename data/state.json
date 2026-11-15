@@ -32,7 +32,7 @@
     "2026-11-13": 16,
     "2026-11-14": 17,
     "2026-11-15": 22,
-    "2026-11-16": 10
+    "2026-11-16": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -515,6 +515,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Bioinspired Helical Hydrogel Scaffold with Janus Wettability for Magnetically and Thermally Responsive Tricuspid Valve Repair"
+    },
+    "10.1002/adfm.79370": {
+      "doi": "10.1002/adfm.79370",
+      "posted_at": "2026-11-15T22:49:28+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794782968.324689",
+      "summary_character_count": 124,
+      "summary_japanese": "octahydrobinaphthyl系軸不斉(R/S)-2Czと導電性高分子で、気相エナンチオマーを識別する人工嗅覚シナプスを作製した。limoneneで|gres|=0.37、光パルス併用で0.44を示し、濃度・光学純度もリアルタイム検出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Artificial Olfactory Synapse Based on Axially Chiral Small Molecules for Gaseous Enantiomer Recognition and Olfactory-Visual Crossmodal Perception"
     },
     "10.1002/adfm.79561": {
       "doi": "10.1002/adfm.79561",
@@ -5767,6 +5780,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis, Structure, and Photothermal Conversion of a Bowl-Shaped Nanographene Containing Fused 5-/7-Ring Pairs"
     },
+    "10.1002/anie.7952040": {
+      "doi": "10.1002/anie.7952040",
+      "posted_at": "2026-11-15T22:49:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794782955.806169",
+      "summary_character_count": 122,
+      "summary_japanese": "Ph-BCBZとHCETを用いる光誘起Cu触媒系により、acyl azetidinesおよびacyl cyclopropanesを不斉hydroalkynylationし、高収率・高eeでγ-aminoおよびγ-keto alkynesを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Carbazole-Cored Photocatalyst Enabled Cu-Catalyzed Asymmetric Hydroalkynylation of Acyl Azetidines and Cyclopropanes Through Hydrogen-Bond-Donor-Coupled Electron Transfer"
+    },
     "10.1002/anie.7957354": {
       "doi": "10.1002/anie.7957354",
       "posted_at": "2026-08-29T05:37:27+00:00",
@@ -9360,6 +9386,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Benzodithiophene-Based Bolaamphiphiles With Highly Coordinated Cubic Network Structures for Efficient and Stable Perovskite Solar Cells"
+    },
+    "10.1002/smll.76718": {
+      "doi": "10.1002/smll.76718",
+      "posted_at": "2026-11-15T22:49:19+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794782959.631819",
+      "summary_character_count": 108,
+      "summary_japanese": "Ag(111)上のtetrabenzocorannulene自己組織化をSTMとDFTで解析し、アニール温度・時間により凹面上向き／下向き相を転移させた。分子間相互作用は上向き、強い基板結合は下向き構造を安定化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-Assembly and Thermally Activated Bowl Inversion of Tetrabenzocorannulene Buckybowls on Ag(111)"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -18530,6 +18569,19 @@
       "summary_used_fallback": false,
       "title": "Single-Carbon Atom Insertion into Phenols with Nitroalkanes"
     },
+    "10.1021/jacs.6c18274": {
+      "doi": "10.1021/jacs.6c18274",
+      "posted_at": "2026-11-15T22:49:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794782951.762919",
+      "summary_character_count": 95,
+      "summary_japanese": "BINOL由来軸不斉Y錯体によりS,S-EGとR-BBLを交互確率0.96で立体特異的に共重合し、交互規則性の向上に伴いステンレス鋼上のlap-shear接着強度10.5 MPaを達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Sequence-Regulated Adhesion of Poly(diethyl glycolide- alt -β-butyrolactone) Synthesized via Enantiomorphic Site-Assisted Stereospecific Alternating Copolymerization"
+    },
     "10.1021/jacs.6c18804": {
       "doi": "10.1021/jacs.6c18804",
       "posted_at": "2026-11-14T18:02:11+00:00",
@@ -20427,6 +20479,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-locked low-dimensional bound states in the continuum lasers"
+    },
+    "10.1038/s41467-026-79608-0": {
+      "doi": "10.1038/s41467-026-79608-0",
+      "posted_at": "2026-11-15T22:49:23+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794782963.970429",
+      "summary_character_count": 124,
+      "summary_japanese": "DNA origamiで4腕ピンホイール型金ナノロッド超格子を構築し、各鏡像ユニットへ金ナノ粒子1個を部位選択的・非対称に結合した。長距離結晶秩序を保ったまま、プラズモン近接場結合を変化させて超格子全体のキラリティーとキロプティカル応答を反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality inversion in DNA-assembled nanorod superlattices via site-specific asymmetric anchoring of single nanospheres"
     },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
