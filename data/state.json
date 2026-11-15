@@ -32,7 +32,7 @@
     "2026-11-13": 16,
     "2026-11-14": 17,
     "2026-11-15": 22,
-    "2026-11-16": 5
+    "2026-11-16": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1438,6 +1438,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Visible-Light-Driven Full-Spectrum Tuning in Cholesteric Liquid Crystals Enabled by Thioarylazopyrazole-Based Axially Chiral Molecular Switches"
+    },
+    "10.1002/adom.72024": {
+      "doi": "10.1002/adom.72024",
+      "posted_at": "2026-11-15T18:29:13+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794767353.715039",
+      "summary_character_count": 348,
+      "summary_japanese": "A rigid, planar nanographene, ch-TABNA, incorporating two intracavity boron atoms was rationally designed and synthesized by a one-shot tandem bora-Friedel-Crafts reaction. In cyclohexane, it exhibited ultra-narrowband bright-yellow photoluminescence at 561 nm with a 10 nm (40 meV) FWHM, the lowest reported for organic yellow-to-red luminophores.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Ultra-Narrowband Bright-Yellow Emission from an Organoboron Nanographene"
     },
     "10.1002/adom.72028": {
       "doi": "10.1002/adom.72028",
@@ -5181,6 +5194,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Nanostructured Cobalt Nanoparticles Confined in Zeolite for Syngas Conversion to Liquid Fuels at Low Temperature"
+    },
+    "10.1002/anie.6586813": {
+      "doi": "10.1002/anie.6586813",
+      "posted_at": "2026-11-15T18:29:20+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794767360.189599",
+      "summary_character_count": 365,
+      "summary_japanese": "Boron-containing Chichibabin- and Müller-type diradicaloids with linearly extended π-conjugated backbones and terminal triarylborane units were prepared. Extending the bridge increased diradical character from 0.53 to 0.99. Despite their pronounced open-shell character, the compounds showed half-lives exceeding 40 days and reversible four-electron redox behavior.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Boron-Stabilized Diradicaloids of Chichibabin and Müller Hydrocarbons and Their Extended Analogues"
     },
     "10.1002/anie.6601433": {
       "doi": "10.1002/anie.6601433",
@@ -9283,6 +9309,19 @@
       "summary_used_fallback": false,
       "title": "Dynamically Tunable Near-Infrared Photoluminescence with Long-Wavelength Energy Transfer Engineered by Multilevel Supramolecular Confinement"
     },
+    "10.1002/smll.76648": {
+      "doi": "10.1002/smll.76648",
+      "posted_at": "2026-11-15T18:29:02+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794767342.045989",
+      "summary_character_count": 130,
+      "summary_japanese": "分子インターカレーションで形成するキラル2D TMD超格子を対象に、CISSのspin-orbit coupling・spinterface機構、構造制御合成と評価法を批判的に総説し、スピン光電子工学・電気触媒・キラルセンシングへの応用と今後の課題を整理する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spin-Selective Transport in Chiral 2D Transition Metal Dichalcogenide Superlattices: Mechanisms and Device Applications"
+    },
     "10.1002/smll.76668": {
       "doi": "10.1002/smll.76668",
       "posted_at": "2026-11-11T13:33:26+00:00",
@@ -9295,6 +9334,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulating Spontaneous Symmetry Breaking and Spin-Dependent Transport in Supramolecular Assemblies of Achiral Porphyrins"
+    },
+    "10.1002/smll.76690": {
+      "doi": "10.1002/smll.76690",
+      "posted_at": "2026-11-15T18:28:57+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794767337.025969",
+      "summary_character_count": 100,
+      "summary_japanese": "nucleoside由来両親媒性U_D/L-TPEは水:DMSO中で準安定球状NPから、核形成・伸長と二次核形成を経て、強いCPL活性を示す結晶性3D tubular nanobroomsへ変換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Secondary Nucleation-Driven Evolution of Circularly Polarized Luminescent Nucleobase-Decorated Tubular Nanobrooms in Aqueous Media"
+    },
+    "10.1002/smll.76712": {
+      "doi": "10.1002/smll.76712",
+      "posted_at": "2026-11-15T18:29:06+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794767346.814129",
+      "summary_character_count": 118,
+      "summary_japanese": "Benzodithiophene系bolaamphiphile 1/2は剛直コア長に応じ、6配位SPまたは8配位BCC立方液晶ネットワークを形成し、ペロブスカイト太陽電池で23.88%の変換効率と1500 h後90%以上の性能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Benzodithiophene-Based Bolaamphiphiles With Highly Coordinated Cubic Network Structures for Efficient and Stable Perovskite Solar Cells"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
