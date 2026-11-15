@@ -31,7 +31,7 @@
     "2026-11-12": 23,
     "2026-11-13": 16,
     "2026-11-14": 17,
-    "2026-11-15": 20
+    "2026-11-15": 22
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1528,6 +1528,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "N-Heterocyclic Carbene-Catalyzed Atroposelective Monoacylation of Prochiral Diols to Access Axially Chiral Tetraarylethenes"
+    },
+    "10.1002/adsc.70870": {
+      "doi": "10.1002/adsc.70870",
+      "posted_at": "2026-11-15T10:23:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794738213.121799",
+      "summary_character_count": 126,
+      "summary_japanese": "軸不斉スルホン酸を有機触媒とし、o-phenylenediamine類と芳香族・複素芳香族アルデヒドを環化して、C–N軸不斉1,2-diarylbenzimidazole 29種を最大16:84 erで合成した。再結晶により一部は99:1超へ向上した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Axially Chiral Sulfonic Acids for Atroposelective Synthesis of C-N Axially Chiral 1,2-Diarylbenzimidazoles"
     },
     "10.1002/advs.202522741": {
       "doi": "10.1002/advs.202522741",
@@ -26327,6 +26340,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Controlling Guest Selectivity in BINOL-based Pd2L4 Coordination Cages via Endohedral Cavity Functionalization"
+    },
+    "10.26434/chemrxiv.15012128/v1": {
+      "doi": "10.26434/chemrxiv.15012128/v1",
+      "posted_at": "2026-11-15T10:23:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794738206.061819",
+      "summary_character_count": 117,
+      "summary_japanese": "ナフタレン2分子の水中π–π会合で擬似大環状空孔を形成する、水溶性カルボキシラート・phenylphosphonate受容体を開発した。正電荷基と水素結合供与基を導入し、長鎖ゲストに対し10^2–10^3 M^-1の会合定数を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water efficient anion receptors based on naphthalene self-association"
     },
     "10.26434/chemrxiv.15012159/v1": {
       "doi": "10.26434/chemrxiv.15012159/v1",
