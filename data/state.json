@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-15": 24,
     "2026-10-16": 25,
     "2026-10-17": 40,
     "2026-10-18": 40,
@@ -32,7 +31,7 @@
     "2026-11-13": 16,
     "2026-11-14": 17,
     "2026-11-15": 22,
-    "2026-11-16": 15
+    "2026-11-16": 16
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -21493,6 +21492,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Effect of the chirality admittance on the injected electron dynamic in the chiroplasma-filled elliptical and circular waveguides with perfect electromagnetic conductor boundaries"
+    },
+    "10.1080/09205071.2026.2756481": {
+      "doi": "10.1080/09205071.2026.2756481",
+      "posted_at": "2026-11-16T00:45:32+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794789932.544359",
+      "summary_character_count": 108,
+      "summary_japanese": "P-band用小型広帯域ヘリカルアンテナに円錐形誘電体スリーブと円錐形ヘリカルアームを導入し、0.25λ×0.25λ×0.46λで0.63～1.04 GHzの安定した軸モード放射と最大9.36 dBi利得を実測した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A miniaturized wideband helical antenna with a conical dielectric sleeve loaded at P-band"
     },
     "10.1080/10426507.2026.2745330": {
       "doi": "10.1080/10426507.2026.2745330",
