@@ -31,7 +31,8 @@
     "2026-11-13": 16,
     "2026-11-14": 17,
     "2026-11-15": 22,
-    "2026-11-16": 16
+    "2026-11-16": 16,
+    "2026-11-17": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8163,6 +8164,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Recent advances in chiral organic room-temperature phosphorescence with circularly polarized luminescence"
+    },
+    "10.1002/flm2.70172": {
+      "doi": "10.1002/flm2.70172",
+      "posted_at": "2026-11-16T19:37:34+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794857854.871869",
+      "summary_character_count": 125,
+      "summary_japanese": "本総説は、CISSを用いる柔軟スピントロニクスで、ひずみ誘起キラル構造変化とスピン依存応答を結ぶ変形・構造・CISS相関の確立と、界面・機械的アーティファクトの排除を提案する。これにより、適応的なセンシング、スピン状態保持、情報処理への展開を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-induced spin selectivity for deformation-compatible flexible spintronic devices: Opportunities and challenges"
     },
     "10.1002/fob2.70093": {
       "doi": "10.1002/fob2.70093",
@@ -20868,6 +20882,58 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dual resonant transmissive circular dichroism in a rotationally transformed chiral metasurface"
+    },
+    "10.1039/d6cc05862k": {
+      "doi": "10.1039/d6cc05862k",
+      "posted_at": "2026-11-16T19:37:24+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794857844.643839",
+      "summary_character_count": 323,
+      "summary_japanese": "C- and N-centered truxenone triamides exhibit similar self-assembly characteristics but markedly different supramolecular stereomutation behavior. Solvent-induced stereomutation occurs only for the N-centered analogue, demonstrating that amide connectivity is an important parameter for controlling supramolecular helicity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "The role of amide connectivity in the assembly and supramolecular stereomutation of truxenone triamides"
+    },
+    "10.1039/d6cp03660k": {
+      "doi": "10.1039/d6cp03660k",
+      "posted_at": "2026-11-16T19:37:41+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794857861.721839",
+      "summary_character_count": 92,
+      "summary_japanese": "pincer complexの非共有結合性二量体を表面へ堆積し、非相互作用性溶媒を除去後に極低温で実空間観察した。溶媒和chloroformがキラルな環状構造へ再配列することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A chiral solvation shell visualized on the molecular-scale level"
+    },
+    "10.1039/d6ob01378c": {
+      "doi": "10.1039/d6ob01378c",
+      "posted_at": "2026-11-16T19:37:30+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794857850.146109",
+      "summary_character_count": 127,
+      "summary_japanese": "Imine reductaseを用い、軸不斉alkylidene cyclohexane aminesをエナンチオ分岐的に合成し、最大99%変換率・99:1 erを達成した。半調製スケールでも66–67%単離収率、98:2–99:1 erで目的物を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Imine reductase-catalyzed enantiodivergent synthesis of axially chiral alkylidene cyclohexane amines"
+    },
+    "10.1039/d6ra06041b": {
+      "doi": "10.1039/d6ra06041b",
+      "posted_at": "2026-11-16T19:37:46+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794857866.494009",
+      "summary_character_count": 97,
+      "summary_japanese": "キラル骨修復材料の特性評価法、細胞挙動の制御機構、および無機・有機・複合材料の骨欠損修復への応用を総説し、表面トポロジーと化学的不斉が骨形成分化、血管新生、免疫微小環境を制御することを整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral bone repair materials"
     },
     "10.1051/e3sconf/202672802001/pdf": {
       "doi": "10.1051/e3sconf/202672802001/pdf",
