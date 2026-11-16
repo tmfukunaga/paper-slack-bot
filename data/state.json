@@ -32,7 +32,7 @@
     "2026-11-14": 17,
     "2026-11-15": 22,
     "2026-11-16": 16,
-    "2026-11-17": 5
+    "2026-11-17": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -13253,6 +13253,19 @@
       "summary_used_fallback": false,
       "title": "Conformation-Driven Circularly Polarized Luminescence Amplification in Intrinsically Chiral Main-Chain Polymers via Liquid Crystalline Self-Assembly"
     },
+    "10.1021/acs.macromol.6c02467": {
+      "doi": "10.1021/acs.macromol.6c02467",
+      "posted_at": "2026-11-16T21:39:14+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794865154.787149",
+      "summary_character_count": 132,
+      "summary_japanese": "アルキル基C2–C18をもつsyndiotactic poly(alkyloxycarbonylmethylene)sの相挙動を調べ、側鎖長・アニーリング条件に応じて主鎖と側鎖の配列が異なる結晶多形を形成し、側鎖充填と主鎖ヘリックスが連動して変化することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crystal Polymorphism in Syndiotactic Poly(alkyloxycarbonylmethylene)s: Variations in Main-Chain and Side-Chain Lattices and Helical Main-Chain Conformations"
+    },
     "10.1021/acs.nanolett.6c00826": {
       "doi": "10.1021/acs.nanolett.6c00826",
       "posted_at": "2026-11-07T19:27:02+00:00",
@@ -20883,6 +20896,19 @@
       "summary_used_fallback": false,
       "title": "Dual resonant transmissive circular dichroism in a rotationally transformed chiral metasurface"
     },
+    "10.1039/d6cc05173a": {
+      "doi": "10.1039/d6cc05173a",
+      "posted_at": "2026-11-16T21:39:09+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794865149.473649",
+      "summary_character_count": 124,
+      "summary_japanese": "電気化学的不斉認識における閉じ込め微小環境を総説し、キラル鋳型メソ多孔質金属、キラル電気活性膜、MOF/COFナノチャネル、生体ナノポアの4系を比較した。分子配向の制御による立体選択的相互作用と信号増幅を踏まえ、アーキテクチャー主導設計を提案する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Confined microenvironments for electrochemical chiral recognition"
+    },
     "10.1039/d6cc05862k": {
       "doi": "10.1039/d6cc05862k",
       "posted_at": "2026-11-16T19:37:24+00:00",
@@ -20909,6 +20935,32 @@
       "summary_used_fallback": false,
       "title": "A chiral solvation shell visualized on the molecular-scale level"
     },
+    "10.1039/d6mh01646d": {
+      "doi": "10.1039/d6mh01646d",
+      "posted_at": "2026-11-16T21:38:58+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794865138.450529",
+      "summary_character_count": 106,
+      "summary_japanese": "キラルπ共役オルガノゲル化剤の凝集状態を溶媒で制御し、アキラルπ共役ポリマーへのキラリティ移動を比較した。分子混和状態では、接触による電子状態混成を介し、ポリマー遷移で顕著なbisignate CD応答を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality transfer from molecularly dispersed versus supramolecularly assembled chiral inducers to achiral conjugated polymer semiconductors"
+    },
+    "10.1039/d6nr02949c": {
+      "doi": "10.1039/d6nr02949c",
+      "posted_at": "2026-11-16T21:39:19+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794865159.010179",
+      "summary_character_count": 99,
+      "summary_japanese": "キラルπ系の休眠モノマーを急冷後に自己集合させると蝶ネクタイ状スフェルライトが形成され、ホモシーディングでは一次核形成・伸長により1D繊維が得られた。モノマー状態の制御で核形成と高次構造を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modulation of monomers to obtain higher-order architectures of supramolecular assemblies of chiral pi-systems"
+    },
     "10.1039/d6ob01378c": {
       "doi": "10.1039/d6ob01378c",
       "posted_at": "2026-11-16T19:37:30+00:00",
@@ -20934,6 +20986,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral bone repair materials"
+    },
+    "10.1039/d6ra09750b": {
+      "doi": "10.1039/d6ra09750b",
+      "posted_at": "2026-11-16T21:39:03+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794865143.280469",
+      "summary_character_count": 97,
+      "summary_japanese": "キラルアミンを用いる軸不斉アレン合成を、触媒・金属協働触媒・プロパルギルアミンからの共有結合的キラリティー移転として比較し、アミン量、基質活性化、立体化学的証拠、再生を基準に整理した総説である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral amines in the asymmetric synthesis of axially chiral allenes through catalysis and covalent chirality transfer"
     },
     "10.1051/e3sconf/202672802001/pdf": {
       "doi": "10.1051/e3sconf/202672802001/pdf",
