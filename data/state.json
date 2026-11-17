@@ -32,7 +32,7 @@
     "2026-11-15": 22,
     "2026-11-16": 16,
     "2026-11-17": 16,
-    "2026-11-18": 5
+    "2026-11-18": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1854,6 +1854,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hidden Giant Third-Order Nonlinear Circular Dichroism in Chiral Two-Dimensional Halide Perovskite"
+    },
+    "10.1002/advs.78712": {
+      "doi": "10.1002/advs.78712",
+      "posted_at": "2026-11-17T18:09:39+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794938979.305909",
+      "summary_character_count": 117,
+      "summary_japanese": "切替可能なキラリティをもつ柔軟内層と拡張可能な剛性外殻からなる二層Kreslingモジュールを設計し、同一軸入力下で軸‐半径連成経路を再構成した。複数モジュールは内径84～140 mmおよび曲管内を移動し、内径推定と内壁把持を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral-Regulated Kresling Structure for Reconfigurable Multimodal Motion"
     },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
@@ -7229,6 +7242,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis of Heteroatom-Doped Macrocycles for OLED Applications"
     },
+    "10.1002/chem.71919": {
+      "doi": "10.1002/chem.71919",
+      "posted_at": "2026-11-17T18:09:48+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794938988.089839",
+      "summary_character_count": 113,
+      "summary_japanese": "1,2-phenylenediamine由来racemic Co(III)錯体をBINPHAT塩のクロマトグラフィーで分割し、Λ・Δ体（>99 ee）を得た。Λ体を用いたCBPE電極はTyr異性体を識別し、30日間安定だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Expanding the Family of Co(III) Complexes With Exclusive Metal-Centered Chirality: Application as an Enantioselective Selector in Voltammetric Sensor for Tyrosine Enantiomers"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -12096,6 +12122,19 @@
       "summary_used_fallback": false,
       "title": "Jahn-Teller Distortion-Enabled Interfacial Chemical Recognition for Chiral Hybrid Halides: ( R/S -3AP)BiCl5"
     },
+    "10.1021/acs.inorgchem.6c04922": {
+      "doi": "10.1021/acs.inorgchem.6c04922",
+      "posted_at": "2026-11-17T18:09:53+00:00",
+      "score": 23,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794938993.542289",
+      "summary_character_count": 127,
+      "summary_japanese": "R-(CHE)GeI3とR-(PHE)GeI3を比較し、Hirshfeld解析で有機カチオン由来のC-H···I接触網が鎖間の平行極性配列を固定することを示した。前者は極性P21構造とKDP同等のSHGを示し、R-(CHE)GeBr3は約3倍に増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Organic-Cation-Controlled Interchain Polar Order in 1D Chiral Hexagonal Germanium Iodide Perovskites"
+    },
     "10.1021/acs.inorgchem.6c04955": {
       "doi": "10.1021/acs.inorgchem.6c04955",
       "posted_at": "2026-10-28T20:04:50+00:00",
@@ -13551,6 +13590,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Precursor-Free Photoelectrochemical Fabrication of Spiral Lead Oxide Nanostructures under Circularly Polarized Light"
+    },
+    "10.1021/acs.nanolett.6c03853": {
+      "doi": "10.1021/acs.nanolett.6c03853",
+      "posted_at": "2026-11-17T18:09:33+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794938973.484839",
+      "summary_character_count": 104,
+      "summary_japanese": "cubic非線形材料の円孔正方格子メタサーフェスで、結晶方位により二つの面内TH発生経路の干渉を制御し、一方の円偏光を選択的に抑制した。Si、Ge、diamondで近赤外の共鳴増強TH CD 99%超を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Crystal Orientation Enables Near-Unity Nonlinear Circular Dichroism in Resonant Metasurfaces"
     },
     "10.1021/acs.nanolett.6c03876": {
       "doi": "10.1021/acs.nanolett.6c03876",
@@ -26861,6 +26913,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Gain, Retention, or Loss of Aromaticity upon Surface Adsorption: pi-Electron Systems on Cu(111)"
+    },
+    "10.26434/chemrxiv.15012218/v1": {
+      "doi": "10.26434/chemrxiv.15012218/v1",
+      "posted_at": "2026-11-17T18:09:28+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794938968.359549",
+      "summary_character_count": 109,
+      "summary_japanese": "AMOEBAに基づく分極可能分子動力学で、無水Powder型と半水和Fiber型L-phenylalanineの固体IR・VCDスペクトルを再現した。IRは類似する一方、VCDは超分子配置の違いに応じて顕著に異なった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Modeling IR and VCD Spectra of L-Phenylalanine Polymorphs with Polarizable Force Field Molecular Dynamics"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
