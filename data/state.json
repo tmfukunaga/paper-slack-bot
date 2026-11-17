@@ -31,7 +31,8 @@
     "2026-11-14": 17,
     "2026-11-15": 22,
     "2026-11-16": 16,
-    "2026-11-17": 16
+    "2026-11-17": 16,
+    "2026-11-18": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -11134,6 +11135,19 @@
       "summary_used_fallback": false,
       "title": "Structure-Modulated Circular Dichroism in Chiral Plasmonic Nanoparticles"
     },
+    "10.1021/acs.accounts.6c00664": {
+      "doi": "10.1021/acs.accounts.6c00664",
+      "posted_at": "2026-11-17T16:01:04+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794931264.792059",
+      "summary_character_count": 104,
+      "summary_japanese": "NHC触媒のStetter反応、(3 + 3)環化、アミド化、イミンumpolungを用い、C-N、N-N、C-O軸不斉をもつ多様なatropisomerを高収率・高エナンチオ選択的に合成する手法を概説した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "N-Heterocyclic Carbene (NHC)-Catalyzed Synthesis of Atropisomers Beyond C-C Axial Chirality"
+    },
     "10.1021/acs.accounts.6c00729": {
       "doi": "10.1021/acs.accounts.6c00729",
       "posted_at": "2026-11-04T19:21:17+00:00",
@@ -11146,6 +11160,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Planar-Chiral Cyclophanes: From Synthetic Strategies to Configurational Stability Control"
+    },
+    "10.1021/acs.accounts.6c00786": {
+      "doi": "10.1021/acs.accounts.6c00786",
+      "posted_at": "2026-11-17T16:00:57+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794931257.677809",
+      "summary_character_count": 127,
+      "summary_japanese": "Rh(I)/Rh(III)触媒とTADDOL由来配位子またはキラルCpRh錯体を用いる不斉C–H官能基化により、biaryl atropisomers、ferrocenes、macrocycles、azoniahelicenesを合成する手法を概説した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Axially, Planar and Helically Chiral Molecules via Rhodium-Catalyzed Asymmetric C-H Functionalization Reactions"
     },
     "10.1021/acs.analchem.6c01338": {
       "doi": "10.1021/acs.analchem.6c01338",
@@ -15916,6 +15943,19 @@
       "summary_used_fallback": false,
       "title": "Supramolecular Engineering of Polymeric Semiconductor Nanomotors with Phototactic Motion and Antimicrobial Function"
     },
+    "10.1021/acsnano.6c17873": {
+      "doi": "10.1021/acsnano.6c17873",
+      "posted_at": "2026-11-17T16:00:51+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794931251.791069",
+      "summary_character_count": 97,
+      "summary_japanese": "面内C2・鏡映対称性を同時に破った単層平面BICメタサーフェスでΓ点にC pointを配置し、achiral perovskiteと集積してglum>1.5の近赤外垂直円偏光レーザーを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vertically Emitted Near-Infrared Perovskite Chiral Lasing via a Planar Bound State in the Continuum"
+    },
     "10.1021/acsnano.6c19623": {
       "doi": "10.1021/acsnano.6c19623",
       "posted_at": "2026-11-08T17:56:28+00:00",
@@ -18138,6 +18178,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Negative Temperature Effect on the Reversible Conversion between Redox Tautomers of CoIII(OH) and CoIV(O) Complexes Bearing a Redox-Non-Innocent Tetraamido Macrocyclic Ligand"
+    },
+    "10.1021/jacs.6c15651": {
+      "doi": "10.1021/jacs.6c15651",
+      "posted_at": "2026-11-17T16:00:46+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794931246.650849",
+      "summary_character_count": 119,
+      "summary_japanese": "平面キラルCu5クラスターを単一部位キャッピングと対称性適合リンカーで配位集積し、単量体・二量体・三量体・らせん型超結晶を構築した。単結晶解析とMueller行列測定により、配列やCu···Cu結合に依存する円・直線偏光応答を定量化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Planar-Chiral Metal Clusters Direct Polarization-Responsive Supercrystals"
     },
     "10.1021/jacs.6c15679": {
       "doi": "10.1021/jacs.6c15679",
@@ -21479,6 +21532,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Deformation-driven modulation of chirality and spin polarization in L-cysteine intercalated MoS2 nanosheets: A mechanistic approach to chirality-induced spin selectivity in two-dimensional material"
+    },
+    "10.1063/5.0347035": {
+      "doi": "10.1063/5.0347035",
+      "posted_at": "2026-11-17T16:01:15+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794931275.679339",
+      "summary_character_count": 129,
+      "summary_japanese": "円筒面上のhelical landscapeを慣性Brownian粒子で解析し、異方性減衰下の運動をOrnstein-Uhlenbeck過程として定式化した。零モードを除く安定部分空間で相関関数と動的移動度を導き、等しい交差移動度と散逸率の非対称性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chirality-sensitive mobility and dissipation of Brownian motion on a helical landscape"
     },
     "10.1063/5.0349051": {
       "doi": "10.1063/5.0349051",
