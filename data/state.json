@@ -31,7 +31,7 @@
     "2026-11-14": 17,
     "2026-11-15": 22,
     "2026-11-16": 16,
-    "2026-11-17": 15
+    "2026-11-17": 16
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -21063,6 +21063,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral amines in the asymmetric synthesis of axially chiral allenes through catalysis and covalent chirality transfer"
+    },
+    "10.1039/d6tb01980c": {
+      "doi": "10.1039/d6tb01980c",
+      "posted_at": "2026-11-17T06:31:16+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794897076.569879",
+      "summary_character_count": 125,
+      "summary_japanese": "最小超分子バイオポリマーモデルで、溶媒組成とpHにより相分離・sol-gel・gel-to-crystal転移を制御し、準安定液滴やhydrogelを捕捉、または結晶多形を直接形成した。自己集合様式の調節により一過性hydrogelの寿命も制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Programming complex pathway-driven self-assemblies in a minimal supramolecular biopolymer model"
     },
     "10.1051/e3sconf/202672802001/pdf": {
       "doi": "10.1051/e3sconf/202672802001/pdf",
