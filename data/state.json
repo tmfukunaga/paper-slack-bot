@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-16": 25,
     "2026-10-17": 40,
     "2026-10-18": 40,
     "2026-10-19": 6,
@@ -32,7 +31,7 @@
     "2026-11-14": 17,
     "2026-11-15": 22,
     "2026-11-16": 16,
-    "2026-11-17": 10
+    "2026-11-17": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -20896,6 +20895,19 @@
       "summary_used_fallback": false,
       "title": "Dual resonant transmissive circular dichroism in a rotationally transformed chiral metasurface"
     },
+    "10.1039/d6cc04174d": {
+      "doi": "10.1039/d6cc04174d",
+      "posted_at": "2026-11-17T03:54:49+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794887689.367849",
+      "summary_character_count": 103,
+      "summary_japanese": "世代の異なるcrown ether dendrimer（G1–G4）を設計・合成し、氷再結晶阻害活性を評価した。高世代化に伴う多価性増大と柔軟性低下により活性は非線形に変化し、G2C7が最適な活性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular crown ether dendrimers reveal a multivalency-flexibility balance principle for ice recrystallisation inhibition"
+    },
     "10.1039/d6cc05173a": {
       "doi": "10.1039/d6cc05173a",
       "posted_at": "2026-11-16T21:39:09+00:00",
@@ -20909,6 +20921,19 @@
       "summary_used_fallback": false,
       "title": "Confined microenvironments for electrochemical chiral recognition"
     },
+    "10.1039/d6cc05341f": {
+      "doi": "10.1039/d6cc05341f",
+      "posted_at": "2026-11-17T03:54:52+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794887692.741559",
+      "summary_character_count": 86,
+      "summary_japanese": "生体・人工分子成分を用いる人工細胞骨格の構築と、繊維状構造が人工細胞の構造組織化・機能制御を可能にする最近の進展を概説し、より生命らしい人工細胞に向けた課題と展望を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Artificial cells as adaptive supramolecular soft materials: from self-assembly to emergent functionalities"
+    },
     "10.1039/d6cc05862k": {
       "doi": "10.1039/d6cc05862k",
       "posted_at": "2026-11-16T19:37:24+00:00",
@@ -20921,6 +20946,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "The role of amide connectivity in the assembly and supramolecular stereomutation of truxenone triamides"
+    },
+    "10.1039/d6cc06026a": {
+      "doi": "10.1039/d6cc06026a",
+      "posted_at": "2026-11-17T03:54:45+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794887685.241819",
+      "summary_character_count": 98,
+      "summary_japanese": "溶媒熱法でレドックス活性とキラリティーを統合した1D covalent organic frameworksを構築し、ピーク電流変化により各種キラルカルボン酸の定量的エナンチオ選択的認識を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Integrating redox activity and chirality into 1D covalent organic frameworks for synergistic enantioselective sensing"
+    },
+    "10.1039/d6cc06689e": {
+      "doi": "10.1039/d6cc06689e",
+      "posted_at": "2026-11-17T03:54:58+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794887698.396919",
+      "summary_character_count": 112,
+      "summary_japanese": "イオン性電子不足cyclophaneの発展を総説し、π共役カチオン壁、リンカー形状、空孔寸法、対アニオンが分子認識、レドックススイッチング、異方的自己集合を制御することを整理し、輸送・センシング・光触媒などへの応用を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thinking In-and-Out of the Box: Structural Diversity, Assembly, Switching and New Applications from Ionic Cyclophanes"
     },
     "10.1039/d6cp03660k": {
       "doi": "10.1039/d6cp03660k",
@@ -20960,6 +21011,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of monomers to obtain higher-order architectures of supramolecular assemblies of chiral pi-systems"
+    },
+    "10.1039/d6ob01020b": {
+      "doi": "10.1039/d6ob01020b",
+      "posted_at": "2026-11-17T03:54:40+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794887680.358329",
+      "summary_character_count": 104,
+      "summary_japanese": "2020～2026年の研究を対象に、D-glucoseなど糖由来chironを用いる天然物・高度中間体合成を総説し、環状エーテル、炭素環、複素環、多環骨格の立体制御構築と、各種結合形成反応との統合を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Carbohydrates as natural chirons: chiral pool strategies toward synthesis of complex natural products"
     },
     "10.1039/d6ob01378c": {
       "doi": "10.1039/d6ob01378c",
