@@ -31,7 +31,7 @@
     "2026-11-15": 22,
     "2026-11-16": 16,
     "2026-11-17": 16,
-    "2026-11-18": 15
+    "2026-11-18": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -9360,6 +9360,19 @@
       "summary_used_fallback": false,
       "title": "Circularly Polarized Random Lasing from Perovskite Quantum Dots Embedded in Chiral MOFs"
     },
+    "10.1002/smll.76527": {
+      "doi": "10.1002/smll.76527",
+      "posted_at": "2026-11-18T11:07:34+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795000054.940379",
+      "summary_character_count": 122,
+      "summary_japanese": "xanthone系bolaamphiphileの共集合とFe3+・Al3+添加でLCSTを10–33°Cに調整し、光透過を可逆制御した。24×24 cm2試作窓は30–37°Cで6000サイクル安定作動し、太陽光・赤外線透過率を大きく変調した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Co-Assembly and Metal-Ion-Driven LCST Engineering in Programmable Supramolecular Nanoarchitectonics for Climate-Adaptive Energy-Efficient Technologies"
+    },
     "10.1002/smll.76554": {
       "doi": "10.1002/smll.76554",
       "posted_at": "2026-11-05T01:17:45+00:00",
@@ -18308,6 +18321,19 @@
       "summary_used_fallback": false,
       "title": "Regio- and Enantioselective Functionalization of Gaseous Alkanes via Nickel-Catalyzed Alkene Dicarbofunctionalization"
     },
+    "10.1021/jacs.6c15887": {
+      "doi": "10.1021/jacs.6c15887",
+      "posted_at": "2026-11-18T11:07:29+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795000049.948889",
+      "summary_character_count": 130,
+      "summary_japanese": "NHPI/PINO骨格のカルボニルと縮環アリール間へのヘテロ原子挿入により隠れた反芳香族性を緩和し、O–H BDEを6.5–8.1 kcal/mol増大させてHATを最大36倍加速した。NHTBUは高反応性と持続性を両立し、温和な電解酸化でNHPIを上回った。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Disrupting Hidden Antiaromaticity in N -Hydroxyphthalimide Reveals a Design Principle for Highly Reactive N -Oxyl Hydrogen Atom Transfer Mediators"
+    },
     "10.1021/jacs.6c15890": {
       "doi": "10.1021/jacs.6c15890",
       "posted_at": "2026-09-26T20:39:04+00:00",
@@ -20609,6 +20635,19 @@
       "summary_used_fallback": true,
       "title": "Omnidirectional photonic chiral flatband in nonlocal membrane metasurfaces"
     },
+    "10.1038/s41467-026-79153-w": {
+      "doi": "10.1038/s41467-026-79153-w",
+      "posted_at": "2026-11-18T11:07:42+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795000062.901719",
+      "summary_character_count": 132,
+      "summary_japanese": "2D perovskite (AE3T)PbI4で有機・無機バンド端を設計し、frontier-state hybridizationにより空間間接性と発光性を併せ持つdipolar excitonsを形成した。室温で長距離双極子反発に整合する非線形輸送を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Constructing radiative dipolar excitons via frontier-state hybridization in 2D perovskites"
+    },
     "10.1038/s41467-026-79264-4": {
       "doi": "10.1038/s41467-026-79264-4",
       "posted_at": "2026-11-14T22:25:15+00:00",
@@ -21115,6 +21154,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Integrating redox activity and chirality into 1D covalent organic frameworks for synergistic enantioselective sensing"
+    },
+    "10.1039/d6cc06208c": {
+      "doi": "10.1039/d6cc06208c",
+      "posted_at": "2026-11-18T11:07:39+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795000059.122669",
+      "summary_character_count": 110,
+      "summary_japanese": "Weiss型試薬に類するin situ生成λ3-aryliodane dicationを鋳型として、混合原子価I(III)/I(I)系で希少な非古典的[I2Cl3]− polyinterhalideの自己集合を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "In situ generated Weiss reagent-type λ 3 -aryliodane dication templates the self-assembly of a rare non-classical [I 2 Cl 3 ] - polyinterhalide in a mixed-valence I III /I I system"
     },
     "10.1039/d6cc06689e": {
       "doi": "10.1039/d6cc06689e",
@@ -26977,6 +27029,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modeling IR and VCD Spectra of L-Phenylalanine Polymorphs with Polarizable Force Field Molecular Dynamics"
+    },
+    "10.26434/chemrxiv.15012232/v1": {
+      "doi": "10.26434/chemrxiv.15012232/v1",
+      "posted_at": "2026-11-18T11:07:25+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795000044.977739",
+      "summary_character_count": 124,
+      "summary_japanese": "18員nonaazamacrocycle [HYD-Py]3は、二官能性pyridine monomerの選択的環化三量化で得られ、光によるC=N異性化とTFAによる水素結合破壊により、全trans拡張体と全cis収縮体の可逆的面内環呼吸を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "[HYD-Py] 3 : light- and acid-driven reversible in-plane ring breathing between physicochemically and functionally distinct expanded and contracted states of an 18-membered nonaazamacrocycle"
     },
     "10.26434/chemrxiv.15012248/v1": {
       "doi": "10.26434/chemrxiv.15012248/v1",
