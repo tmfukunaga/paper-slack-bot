@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-17": 40,
     "2026-10-18": 40,
     "2026-10-19": 6,
     "2026-10-20": 9,
@@ -32,7 +31,7 @@
     "2026-11-15": 22,
     "2026-11-16": 16,
     "2026-11-17": 16,
-    "2026-11-18": 10
+    "2026-11-18": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1854,6 +1853,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hidden Giant Third-Order Nonlinear Circular Dichroism in Chiral Two-Dimensional Halide Perovskite"
+    },
+    "10.1002/advs.78694": {
+      "doi": "10.1002/advs.78694",
+      "posted_at": "2026-11-18T00:58:20+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794963500.551499",
+      "summary_character_count": 113,
+      "summary_japanese": "キラルnaphthylethylammoniumの置換基設計で1Dらせんハイブリッドペロブスカイトの結晶対称性を制御し、P212121およびP21相を形成した。溶液成膜膜は選択的円偏光検出とゼロバイアス光電流・光電圧を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Molecular Engineering of Chiral-Polar One-Dimensional Helical Perovskites for Circularly Polarized Light Detection and Zero-Bias Photovoltaic Response"
     },
     "10.1002/advs.78712": {
       "doi": "10.1002/advs.78712",
@@ -14455,6 +14467,19 @@
       "summary_used_fallback": false,
       "title": "Access to Axially Chiral Biaryl Aldehydes via Enantioselective Imine Condensation"
     },
+    "10.1021/acs.orglett.6c03995": {
+      "doi": "10.1021/acs.orglett.6c03995",
+      "posted_at": "2026-11-18T00:58:37+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794963516.943409",
+      "summary_character_count": 347,
+      "summary_japanese": "Chiral vanadyl complexes bearing N-salicylidene-tert-butylglycinates catalyzed intramolecular 1,2-alkoxyphosphinoylation of β-hydroxyethyl-styrenes. The reaction afforded 3-diphenylphosphinoyl-2-aryl-tetrahydrofurans with up to 82% ee. Theoretical calculations examined the preferential pro-3S stereocontrol and exclusive (2R,3S) diastereocontrol.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Intramolecular 1,2-Alkoxyphosphinoylation of 4-Aryl-homoallyl Alcohols Catalyzed by Chiral Oxidovanadium Complexes"
+    },
     "10.1021/acs.orglett.6c04015": {
       "doi": "10.1021/acs.orglett.6c04015",
       "posted_at": "2026-11-07T19:26:49+00:00",
@@ -18712,6 +18737,19 @@
       "summary_used_fallback": false,
       "title": "Sequence-Regulated Adhesion of Poly(diethyl glycolide- alt -β-butyrolactone) Synthesized via Enantiomorphic Site-Assisted Stereospecific Alternating Copolymerization"
     },
+    "10.1021/jacs.6c18725": {
+      "doi": "10.1021/jacs.6c18725",
+      "posted_at": "2026-11-18T00:58:43+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794963523.224739",
+      "summary_character_count": 124,
+      "summary_japanese": "反芳香族Ni(II) norcorrole集合体は強い分子間結合により厚い分子スタックでも電荷輸送し、最大600 μV K−1のSeebeck係数を示した。量子輸送計算はπ–πスタッキングによるHOMO共鳴のFermi準位への接近と狭窄化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Antiaromaticity for Through-Space Molecular Thermoelectricity"
+    },
     "10.1021/jacs.6c18804": {
       "doi": "10.1021/jacs.6c18804",
       "posted_at": "2026-11-14T18:02:11+00:00",
@@ -21051,6 +21089,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "The role of amide connectivity in the assembly and supramolecular stereomutation of truxenone triamides"
+    },
+    "10.1039/d6cc05911b": {
+      "doi": "10.1039/d6cc05911b",
+      "posted_at": "2026-11-18T00:58:24+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794963504.835229",
+      "summary_character_count": 117,
+      "summary_japanese": "位置異性体carbazole-conjugated nanographenes 2NG/3NGを合成し、X線結晶構造解析と光学測定で分子配列・発光を比較した。3NGは狭い発光帯域、2NGは77 Kで約20 s持続する強い残光を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Regioisomerism-directed structural organization and optical features in carbazole-conjugated nanographenes"
     },
     "10.1039/d6cc06026a": {
       "doi": "10.1039/d6cc06026a",
@@ -26926,6 +26977,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modeling IR and VCD Spectra of L-Phenylalanine Polymorphs with Polarizable Force Field Molecular Dynamics"
+    },
+    "10.26434/chemrxiv.15012248/v1": {
+      "doi": "10.26434/chemrxiv.15012248/v1",
+      "posted_at": "2026-11-18T00:58:15+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1794963495.831109",
+      "summary_character_count": 104,
+      "summary_japanese": "個々の二重壁分子ナノチューブを偏光PL励起顕微鏡で測定し、高エネルギー励起子状態の偏光を解析した。外壁の選択的光酸化により、強い横偏光を示す内壁励起を明らかにし、高エネルギー状態の従来の帰属の曖昧さを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intrinsic Excitation Polarization across the Exciton Manifold of Individual Molecular Nanotubes"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
