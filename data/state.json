@@ -31,7 +31,8 @@
     "2026-11-15": 22,
     "2026-11-16": 16,
     "2026-11-17": 16,
-    "2026-11-18": 20
+    "2026-11-18": 20,
+    "2026-11-19": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1060,6 +1061,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Smart Luminescent Materials: From Basic Luminophores to Stimuli-Responsive Luminescent Systems"
+    },
+    "10.1002/adma.75741": {
+      "doi": "10.1002/adma.75741",
+      "posted_at": "2026-11-18T19:58:55+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795031935.579519",
+      "summary_character_count": 121,
+      "summary_japanese": "点キラリティーをdiPDI主鎖へ転写したらせん高分子(SSSS)-diPDI-C8-T-Tを設計し、CPL検出で405 nmにおけるgph −1.03と89.03%のスピン偏極を示した。5×8 CPL-PUFアレイは光電子指紋認証を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "pi-Conjugated Helical Polymer for Circularly Polarized Photodetection and Secure Optoelectronic Encoding"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -5141,6 +5155,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantioselective Synthesis of Chiral 1,4-Dicarbonyls Bearing All-Carbon Quaternary Stereocenters via Photoredox/Nickel Dual Catalyzed Tandem Radical Addition/Oxidation"
+    },
+    "10.1002/anie.6408716": {
+      "doi": "10.1002/anie.6408716",
+      "posted_at": "2026-11-18T19:58:44+00:00",
+      "score": 38,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795031924.197749",
+      "summary_character_count": 127,
+      "summary_japanese": "らせん性多環芳香族カプセル2種でcryptochiral terpenoidを水中包接し、可視CDを誘起した。(-)-carvoneは約390 nmで|Δε|>80 M−1 cm−1を示し、各種terpenoidのキラリティー検出とee決定を可能にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pronounced Visible-Light Cryptochirality Detection of Various Terpenoids via Helical Polyaromatic Capsules"
     },
     "10.1002/anie.6443941": {
       "doi": "10.1002/anie.6443941",
@@ -9463,6 +9490,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Self-Assembly and Thermally Activated Bowl Inversion of Tetrabenzocorannulene Buckybowls on Ag(111)"
+    },
+    "10.1002/smll.76815": {
+      "doi": "10.1002/smll.76815",
+      "posted_at": "2026-11-18T19:58:50+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795031930.560539",
+      "summary_character_count": 113,
+      "summary_japanese": "キラルCsPbBr3量子ドットとキラル2Dペロブスカイトを接合したdual-homochiral 0D/2Dヘテロ構造で、界面結合によりキロプティカル応答を増強し、gph=0.461と約260 psのスピン偏極励起状態を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Homochiral Interfacial Coupling Enables Chiroptical Amplification and Spin Regulation in 0D/2D Perovskite Heterojunctions"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -21103,6 +21143,19 @@
       "summary_used_fallback": false,
       "title": "Confined microenvironments for electrochemical chiral recognition"
     },
+    "10.1039/d6cc05330k": {
+      "doi": "10.1039/d6cc05330k",
+      "posted_at": "2026-11-18T19:58:34+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795031914.827359",
+      "summary_character_count": 106,
+      "summary_japanese": "キラル銅クラスターと蛍光色素を自己集合させ、放射エネルギー移動とキラリティー移動により濃度依存の蛍光・CPLスイッチングを示すナノキューブを構築した。THF添加で層状構造へ解離し、青色発光とCPL信号が回復した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-assembly of chiral copper clusters and dyes into nanocubes for switchable circularly polarized luminescence via radiative energy transfer"
+    },
     "10.1039/d6cc05341f": {
       "doi": "10.1039/d6cc05341f",
       "posted_at": "2026-11-17T03:54:52+00:00",
@@ -21115,6 +21168,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Artificial cells as adaptive supramolecular soft materials: from self-assembly to emergent functionalities"
+    },
+    "10.1039/d6cc05756j": {
+      "doi": "10.1039/d6cc05756j",
+      "posted_at": "2026-11-18T19:59:00+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795031940.056359",
+      "summary_character_count": 113,
+      "summary_japanese": "キャピラリーマイクロ流路内でホスト分子を多孔質マトリックスへ重合し、局所光照射により触媒量のキラルホストで高選択的キラル光二量化を実現した。低触媒効率や生成物阻害に対応する超分子photochirogenesis戦略を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Continuous-flow supramolecular photochirogenesis enabled by substoichiometric chiral hosts in porous monolithic microreactors"
     },
     "10.1039/d6cc05862k": {
       "doi": "10.1039/d6cc05862k",
