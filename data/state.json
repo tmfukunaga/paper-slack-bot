@@ -31,7 +31,8 @@
     "2026-11-16": 16,
     "2026-11-17": 16,
     "2026-11-18": 20,
-    "2026-11-19": 15
+    "2026-11-19": 15,
+    "2026-11-20": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -15286,6 +15287,19 @@
       "summary_used_fallback": false,
       "title": "Backbone-Governed Design of Polyrotaxanes: Linking Macrocycle Dynamics to Functional Materials"
     },
+    "10.1021/acsapm.6c04085": {
+      "doi": "10.1021/acsapm.6c04085",
+      "posted_at": "2026-11-19T19:57:03+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795118223.827579",
+      "summary_character_count": 127,
+      "summary_japanese": "l-/d-phenylalanine由来のchiral polyurethaneを鎖延長剤として合成し、水素結合により非キラルhelical polyacetyleneへキラル誘起・増幅を達成した。成膜条件を最適化し、二層複合フィルムでCPLを実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Polyurethane Induces Nonchiral Helical Polyacetylene to Achieve Circularly Polarized Luminescence"
+    },
     "10.1021/acscatal.6c03124": {
       "doi": "10.1021/acscatal.6c03124",
       "posted_at": "2026-07-24T06:22:28+00:00",
@@ -20349,6 +20363,19 @@
       "summary_used_fallback": false,
       "title": "Head-to-tail assembled borphyrins for solid-state lithium extraction"
     },
+    "10.1038/s41467-026-78158-9": {
+      "doi": "10.1038/s41467-026-78158-9",
+      "posted_at": "2026-11-19T19:56:58+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795118218.815309",
+      "summary_character_count": 103,
+      "summary_japanese": "shuriken型キラルテンプレートと多孔質Auネットワークを組み合わせ、集団的ホットスポット非対称性で超キラル場を生成した。Raman非対称性≈2、attomole検出、ee>25%の光化学反応を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral SERS and photochemistry via collective hotspot asymmetry in metasurface-templated gold networks with disordered nanoscale porosity"
+    },
     "10.1038/s41467-026-78163-y": {
       "doi": "10.1038/s41467-026-78163-y",
       "posted_at": "2026-10-17T02:59:25+00:00",
@@ -21324,6 +21351,19 @@
       "summary_used_fallback": false,
       "title": "Thinking In-and-Out of the Box: Structural Diversity, Assembly, Switching and New Applications from Ionic Cyclophanes"
     },
+    "10.1039/d6cp03527b": {
+      "doi": "10.1039/d6cp03527b",
+      "posted_at": "2026-11-19T19:57:19+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795118239.127789",
+      "summary_character_count": 120,
+      "summary_japanese": "fc-CVS-EOM-CCSDで共役炭化水素とキラル誘導体の炭素K端XAS・XCDを解析し、キラル置換が禁制遷移の活性化、振動子強度の再配分、置換基中心励起をもたらすことを示した。XCDは重なったXAS遷移を符号交替する特徴として識別した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Probing electronic structure of chiral and achiral unsaturated hydrocarbons at the carbon edge"
+    },
     "10.1039/d6cp03660k": {
       "doi": "10.1039/d6cp03660k",
       "posted_at": "2026-11-16T19:37:41+00:00",
@@ -21960,6 +22000,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Active thermodynamics of inertial chiral active gases: Equation of state and edge currents"
+    },
+    "10.1073/pnas.2605831123": {
+      "doi": "10.1073/pnas.2605831123",
+      "posted_at": "2026-11-19T19:57:13+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795118233.929479",
+      "summary_character_count": 90,
+      "summary_japanese": "曲面基板上のmyoblast組織は曲率符号に応じてらせんのキラリティを反転させた。キラル駆動と曲率を結合した連続体理論はこの配向を定量的に再現し、高曲率は分化低下・遅延と関連した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Curvature-guided chiral collective organization of myoblast tissues"
     },
     "10.1073/pnas.2610851123": {
       "doi": "10.1073/pnas.2610851123",
@@ -23975,6 +24028,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Highly efficient and completely controllable optical activity for cross-polarization conversion of arbitrary linear polarization"
+    },
+    "10.1364/ol.619750": {
+      "doi": "10.1364/ol.619750",
+      "posted_at": "2026-11-19T19:57:23+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795118243.370559",
+      "summary_character_count": 123,
+      "summary_japanese": "Sb2S3中間層を組み込んだねじれ二層Siメタサーフェスで、相転移により結合放射チャネルの干渉を再構築し、同一TE0-like分枝のCDを-0.933から+0.974へ反転した。1550 nm近傍でもCDを-0.896から+0.954へ反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Nonvolatile reconfiguration of chirality via phase-change modulation of radiative interference in quasi-BIC metasurfaces"
     },
     "10.1364/opticaopen.27952704.v2": {
       "doi": "10.1364/opticaopen.27952704.v2",
