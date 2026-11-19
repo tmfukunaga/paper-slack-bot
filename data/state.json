@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-18": 40,
     "2026-10-19": 6,
     "2026-10-20": 9,
     "2026-10-21": 20,
@@ -32,7 +31,7 @@
     "2026-11-16": 16,
     "2026-11-17": 16,
     "2026-11-18": 20,
-    "2026-11-19": 5
+    "2026-11-19": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2777,6 +2776,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Enantioselective Synthesis of Chiral 1,4-Dicarbonyls Bearing All-Carbon Quaternary Stereocenters via Photoredox/Nickel Dual Catalyzed Tandem Radical Addition/Oxidation"
+    },
+    "10.1002/ange.6408716": {
+      "doi": "10.1002/ange.6408716",
+      "posted_at": "2026-11-19T02:16:19+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795054579.263629",
+      "summary_character_count": 122,
+      "summary_japanese": "2種の螺旋性多芳香族カプセルを用い、水中でcryptochiralなテルペノイドを包接して可視CDを誘起した。(-)-carvoneは390 nm付近で|Δε|>80 M−1 cm−1を示し、monoterpenoid混合物の%eeも決定した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pronounced Visible-Light Cryptochirality Detection of Various Terpenoids via Helical Polyaromatic Capsules"
     },
     "10.1002/ange.6479535": {
       "doi": "10.1002/ange.6479535",
@@ -7579,6 +7591,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Hydrogen-Bonded Organic Frameworks: From Assembly Strategies to Emerging Applications"
+    },
+    "10.1002/chir.70165": {
+      "doi": "10.1002/chir.70165",
+      "posted_at": "2026-11-19T02:16:38+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795054598.321379",
+      "summary_character_count": 117,
+      "summary_japanese": "超大型キラルCdSe/CdS dot/rodを合成し、成長時間とCdSe種子濃度によるCdS殻のナノ～マイクロ尺度への伸長がCD応答を向上させることを示した。DMF/EG系では水素結合により電子結合とキラル電子の非局在化が促進された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Study on Ligand-Induced Chirality of Supersized CdSe-Dot/CdS-Rod Nanostructures"
     },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
@@ -12914,6 +12939,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Formation of a 2D Chiral Honeycomb Self-Assembled Molecular Network on Ag(111)"
+    },
+    "10.1021/acs.jpcc.6c06998": {
+      "doi": "10.1021/acs.jpcc.6c06998",
+      "posted_at": "2026-11-19T02:16:33+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795054593.847089",
+      "summary_character_count": 94,
+      "summary_japanese": "表面プラズモンポラリトン渦のベクトル近接場を非線形光電子放出顕微鏡で観察し、核では真のキラリティー密度Im[E·B*]が消失し、偽キラリティーを示すRe[E·B*]が集束することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "True and False Chirality of Optical Near Fields on the Nanofemto Scale"
     },
     "10.1021/acs.jpcc.6c07271": {
       "doi": "10.1021/acs.jpcc.6c07271",
@@ -18854,6 +18892,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Programming MOF Topology through Twelve-Connected Linker Isomerism"
+    },
+    "10.1021/jacs.6c20335": {
+      "doi": "10.1021/jacs.6c20335",
+      "posted_at": "2026-11-19T02:16:28+00:00",
+      "score": 26,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795054588.937769",
+      "summary_character_count": 131,
+      "summary_japanese": "geminiarene型macrocycle linkerから2D COF単結晶COF-900を合成し、3D EDで1.2 Å分解能の構造、macrocycle配座とAB積層を決定した。cryo-TEMでは1.1、1.5、2.3 nmの相互接続細孔を可視化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Macrocycle 2D COF Single Crystal"
     },
     "10.1021/jacs.6c20486": {
       "doi": "10.1021/jacs.6c20486",
@@ -27121,6 +27172,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intrinsic Excitation Polarization across the Exciton Manifold of Individual Molecular Nanotubes"
+    },
+    "10.26434/chemrxiv.15012315/v1": {
+      "doi": "10.26434/chemrxiv.15012315/v1",
+      "posted_at": "2026-11-19T02:16:24+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795054584.178579",
+      "summary_character_count": 123,
+      "summary_japanese": "methyl (S)-lactate–water複合体の水O K端XCDをsite-restricted TDA-TDDFTで解析し、局在型・CT型励起の順序と回転強度が基底関数・汎関数に依存する一方、積分スペクトル相殺は類似し得ることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Site-Selected Oxygen K-Edge X-ray Circular Dichroism in Methyl Lactate-Water: Electronic-State Character, Intermolecular Proximity, and Spectral Cancellation"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
