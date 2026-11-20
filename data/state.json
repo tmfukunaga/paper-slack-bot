@@ -31,7 +31,8 @@
     "2026-11-17": 16,
     "2026-11-18": 20,
     "2026-11-19": 15,
-    "2026-11-20": 15
+    "2026-11-20": 15,
+    "2026-11-21": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -15312,6 +15313,19 @@
       "summary_used_fallback": false,
       "title": "Morphology-Directed Assembly and Chiroptical Properties of Chiral Gold Nanorods"
     },
+    "10.1021/acsanm.6c04341": {
+      "doi": "10.1021/acsanm.6c04341",
+      "posted_at": "2026-11-20T19:37:04+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795203424.903729",
+      "summary_character_count": 125,
+      "summary_japanese": "Berberineとenantiomeric histidineの共集合体を設計し、L-His/BBRはD体より強い抗菌・抗炎症作用とMRSA感染創傷治療効果を示し、purine nucleotide代謝および病原性遺伝子発現をより大きく変化させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Chirality of Berberine Nanoscale Co-Assemblies Directed by Chiral Amino Acids for Methicillin-Resistant Staphylococcus Aureus-Infected Wound Healing"
+    },
     "10.1021/acsaom.6c00406": {
       "doi": "10.1021/acsaom.6c00406",
       "posted_at": "2026-09-17T16:14:22+00:00",
@@ -16214,6 +16228,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Defect-Tolerant Frenkel Exciton Delocalization in Supramolecular Nanotubes"
+    },
+    "10.1021/acsnano.6c16518": {
+      "doi": "10.1021/acsnano.6c16518",
+      "posted_at": "2026-11-20T19:37:18+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795203438.323349",
+      "summary_character_count": 105,
+      "summary_japanese": "脂質二重膜に組み込む合成macrocycle群を設計し、構造柔軟性と官能基によるランタノイド透過性を評価した。特定macrocycleはNd/Dy透過性差18倍を示し、液滴エマルション膜でDyを22倍濃縮した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Efficient Membrane Separation of Rare Earth Ions in Engineered Macrocycle Channels"
     },
     "10.1021/acsnano.6c16760": {
       "doi": "10.1021/acsnano.6c16760",
@@ -18775,6 +18802,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Potential Driven Spin-Crossover Synergized with Hydrogen-Bond Engineering in a Molecular Catalyst for Selective H2O2 Electrosynthesis"
+    },
+    "10.1021/jacs.6c16970": {
+      "doi": "10.1021/jacs.6c16970",
+      "posted_at": "2026-11-20T19:36:59+00:00",
+      "score": 47,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795203419.221809",
+      "summary_character_count": 113,
+      "summary_japanese": "CsEu((+,-)-hfbc)4の超高速円二色性、過渡吸収、計算により励起状態を追跡し、三重項経由のEu(III)への移動と発光を消光する一重項捕捉を解明した。Eu(III)励起は配位子螺旋を2.7 ± 1.3°増大させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Resolving Ultrafast Electronic and Chiral Structural Dynamics That Govern Circularly Polarized Luminescence from Eu(III) Antenna Complexes"
     },
     "10.1021/jacs.6c17010": {
       "doi": "10.1021/jacs.6c17010",
@@ -21505,6 +21545,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Modulation of monomers to obtain higher-order architectures of supramolecular assemblies of chiral pi-systems"
+    },
+    "10.1039/d6nr03040h": {
+      "doi": "10.1039/d6nr03040h",
+      "posted_at": "2026-11-20T19:37:23+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795203443.711899",
+      "summary_character_count": 95,
+      "summary_japanese": "三方晶・エナンチオモルフィックTbPO4·0.64H2Oナノ結晶をdipicolinateで官能化し、良好なTb3+ CPL活性を保持したままアンテナ効果によりTb3+発光を40倍増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Intensity enhancement of circularly polarized luminescence in TbPO 4 ·0.64H 2 O nanocrystals induced by the antenna effect"
     },
     "10.1039/d6ob01020b": {
       "doi": "10.1039/d6ob01020b",
@@ -29200,6 +29253,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Recent advances in chiral aluminum asymmetric catalysis: ligand design, coordination modulation, and structure-activity relationships"
+    },
+    "10.3762/bjoc.22.139": {
+      "doi": "10.3762/bjoc.22.139",
+      "posted_at": "2026-11-20T19:37:12+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795203431.993369",
+      "summary_character_count": 113,
+      "summary_japanese": "キラル四配位ホウ素錯体の合成法について、銅、パラジウム、ロジウム、ニッケル／コバルト、有機触媒、相間移動触媒による6分類で、脱対称化、速度論的分割、B(sp2)-to-B(sp3)変換、キラリティー転写の最近の進展を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Recent advances in the synthesis of boron-stereogenic compounds"
     },
     "10.3762/bxiv.2026.40.v1": {
       "doi": "10.3762/bxiv.2026.40.v1",
