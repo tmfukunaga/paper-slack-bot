@@ -31,7 +31,8 @@
     "2026-11-18": 20,
     "2026-11-19": 15,
     "2026-11-20": 15,
-    "2026-11-21": 15
+    "2026-11-21": 15,
+    "2026-11-22": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -20986,6 +20987,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-locked low-dimensional bound states in the continuum lasers"
     },
+    "10.1038/s41467-026-79527-0": {
+      "doi": "10.1038/s41467-026-79527-0",
+      "posted_at": "2026-11-21T18:41:34+00:00",
+      "score": 39,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795286494.498579",
+      "summary_character_count": 129,
+      "summary_japanese": "benzoperylene imide修飾ジペプチドを設計・合成し、水の添加、濃度、熟成時間、温度でナノ粒子からヘリカル線維、トロイドへ形態を制御した。高い相純度と顕著なキロプト光学活性をもつトロイドを得て、エナンチオマー過剰によりヘリカルロッドへ転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Pathway-dependent chiral toroid self-assembly and topological transformations based on large pi-conjugated dipeptides"
+    },
     "10.1038/s41467-026-79608-0": {
       "doi": "10.1038/s41467-026-79608-0",
       "posted_at": "2026-11-15T22:49:23+00:00",
@@ -21063,6 +21077,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Regiospecific α-arylation of diverse carbonyl compounds using an organobismuth transporter"
+    },
+    "10.1038/s41557-026-02302-7": {
+      "doi": "10.1038/s41557-026-02302-7",
+      "posted_at": "2026-11-21T18:41:40+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795286500.767509",
+      "summary_character_count": 121,
+      "summary_japanese": "Ni(0) Yamamoto couplingとDDQ/TfOH Scholl酸化でanthracene-porphyrin三重鎖nanobeltを合成し、1H NMRと計算により中性状態で72、96、120π電子の大域的反芳香族性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Globally antiaromatic anthracene-porphyrin nanobelts"
     },
     "10.1038/s41563-026-02737-w": {
       "doi": "10.1038/s41563-026-02737-w",
@@ -21375,6 +21402,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dual resonant transmissive circular dichroism in a rotationally transformed chiral metasurface"
+    },
+    "10.1039/d6ay02210c": {
+      "doi": "10.1039/d6ay02210c",
+      "posted_at": "2026-11-21T18:41:49+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795286509.113279",
+      "summary_character_count": 111,
+      "summary_japanese": "キラルイオン液体（CILs）の分類、合成、エナンチオ選択的認識機構を整理し、クロマトグラフィー、溶媒抽出、膜分離、視覚的認識への応用を総説した。水素結合、π–π相互作用、立体効果に基づく機構と課題、分子設計指針を提示する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral ionic liquids for enantioseparation: a comprehensive review from synthesis to cutting-edge applications"
     },
     "10.1039/d6cc04174d": {
       "doi": "10.1039/d6cc04174d",
@@ -24404,6 +24444,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Quantum Interference Amplifies Weak Chirality into Giant Quantum Nonreciprocity"
+    },
+    "10.1364/prj.616823": {
+      "doi": "10.1364/prj.616823",
+      "posted_at": "2026-11-21T18:41:45+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795286505.272039",
+      "summary_character_count": 112,
+      "summary_japanese": "方位角進行波型誘電率変調を中心円筒に施す時空間PTCを提案し、合成回転で縮退を解消して逆回転・反対軌道角運動量の状態を生成した。左右円偏光との選択結合により可調円二色性とFloquetレプリカ帯間の軌道角運動量変換を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic chirality in photonic time crystals"
     },
     "10.1380/vss.69.549": {
       "doi": "10.1380/vss.69.549",
@@ -27718,6 +27771,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Molecular Zun: A Cycloparaphenylene-Derived Cavitand"
+    },
+    "10.31635/ccschem.026.202608706": {
+      "doi": "10.31635/ccschem.026.202608706",
+      "posted_at": "2026-11-21T18:41:54+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795286514.897499",
+      "summary_character_count": 350,
+      "summary_japanese": "An iridium-catalyzed migratory coupling of in situ generated cyclic boronate complexes with allylic carbonates enabled ring contraction to chiral tertiary boronic esters bearing 1,3-non-adjacent tertiary stereocenters. A single chiral catalyst controlled enantio- and diastereoselectivity, affording products in up to 89% yield, 99% ee, and >95:5 dr.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Catalytic Asymmetric Ring Contraction to Construct Chiral Tertiary Boronic Esters with Non-Adjacent Tertiary Stereocenters"
     },
     "10.31772/2712-8970-2026-27-3-543-552": {
       "doi": "10.31772/2712-8970-2026-27-3-543-552",
