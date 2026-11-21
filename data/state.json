@@ -31,7 +31,7 @@
     "2026-11-18": 20,
     "2026-11-19": 15,
     "2026-11-20": 15,
-    "2026-11-21": 10
+    "2026-11-21": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -12667,6 +12667,19 @@
       "summary_used_fallback": false,
       "title": "pi-Extended D-A Type [5]Helicenes: Cyano-Based Construction and Enhanced CPL Performance"
     },
+    "10.1021/acs.joc.6c01631": {
+      "doi": "10.1021/acs.joc.6c01631",
+      "posted_at": "2026-11-21T10:38:52+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795257532.026499",
+      "summary_character_count": 353,
+      "summary_japanese": "An anion-capped ternary complex composed of an 18-crown-6-containing styryl dye, Sr2+, and an N-sulfonatopropyl-substituted styryl dye was characterized by spectrophotometry and NMR spectroscopy. Upon photolysis, it underwent a rare stereospecific cross-[2 + 2] photocycloaddition, affording rctt-cyclobutane derivatives in virtually quantitative yield.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Novel Anion-Capped Ternary Metallocomplex with Styryl Dyes and an Effect of Type of Self-Assembly on the Stereospecific [2 + 2] Cross-Photocycloaddition"
+    },
     "10.1021/acs.joc.6c01634": {
       "doi": "10.1021/acs.joc.6c01634",
       "posted_at": "2026-10-17T07:39:50+00:00",
@@ -21467,6 +21480,19 @@
       "summary_used_fallback": false,
       "title": "Regioisomerism-directed structural organization and optical features in carbazole-conjugated nanographenes"
     },
+    "10.1039/d6cc05924d": {
+      "doi": "10.1039/d6cc05924d",
+      "posted_at": "2026-11-21T10:38:41+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795257521.609029",
+      "summary_character_count": 101,
+      "summary_japanese": "可視光吸収・一電子移動・立体制御を単一触媒で担うキラル銅錯体による光駆動不斉反応を総説し、phosphineやbis(oxazoline)配位子の触媒設計、ラジカル機構、合成応用、課題と展望を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Standalone photoactive chiral copper complexes for light-driven asymmetric organic transformations"
+    },
     "10.1039/d6cc06026a": {
       "doi": "10.1039/d6cc06026a",
       "posted_at": "2026-11-17T03:54:45+00:00",
@@ -21492,6 +21518,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "In situ generated Weiss reagent-type λ 3 -aryliodane dication templates the self-assembly of a rare non-classical [I 2 Cl 3 ] - polyinterhalide in a mixed-valence I III /I I system"
+    },
+    "10.1039/d6cc06515e": {
+      "doi": "10.1039/d6cc06515e",
+      "posted_at": "2026-11-21T10:39:01+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795257541.396049",
+      "summary_character_count": 208,
+      "summary_japanese": "An antiaromatic expanded porphyrin was shown to self-assemble cooperatively through hydrogen bonding into a supramolecular polymer. The resulting material forms columnar arrays and displays photoconductivity.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "An antiaromatic expanded porphyrin-based supramolecular polymer"
     },
     "10.1039/d6cc06534a": {
       "doi": "10.1039/d6cc06534a",
@@ -21635,6 +21674,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral amines in the asymmetric synthesis of axially chiral allenes through catalysis and covalent chirality transfer"
+    },
+    "10.1039/d6sc05973b": {
+      "doi": "10.1039/d6sc05973b",
+      "posted_at": "2026-11-21T10:38:56+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795257536.136179",
+      "summary_character_count": 99,
+      "summary_japanese": "Muconate estersの有機触媒group transfer共重合で、溶媒により統計的配列を制御し、ブロック共重合体設計や逐次重合なしにone-pot PISAで安定なナノ粒子分散液を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Solvent-programmable organocatalyzed group transfer copolymerization (O-GTcP) of muconate esters: from statistical control to copolymerization-induced self-assembly"
+    },
+    "10.1039/d6sc06421c": {
+      "doi": "10.1039/d6sc06421c",
+      "posted_at": "2026-11-21T10:38:45+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795257525.408929",
+      "summary_character_count": 96,
+      "summary_japanese": "Sulfilimidoyl fluoride中間体の触媒的不斉変換によりキラルsulfinimidate estersを合成し、-3bgおよびracemic 3bgが抗炎症活性の向上を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Unlocking catalytic asymmetric transformations of sulfilimidoyl fluorides toward chiral sulfinimidate esters"
     },
     "10.1039/d6tb01980c": {
       "doi": "10.1039/d6tb01980c",
