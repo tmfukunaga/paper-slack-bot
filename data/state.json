@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-20": 9,
     "2026-10-21": 20,
     "2026-10-22": 20,
     "2026-10-23": 20,
@@ -32,7 +31,7 @@
     "2026-11-18": 20,
     "2026-11-19": 15,
     "2026-11-20": 15,
-    "2026-11-21": 5
+    "2026-11-21": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7644,6 +7643,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Study on Ligand-Induced Chirality of Supersized CdSe-Dot/CdS-Rod Nanostructures"
+    },
+    "10.1002/chir.70166": {
+      "doi": "10.1002/chir.70166",
+      "posted_at": "2026-11-21T01:58:49+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795226329.173079",
+      "summary_character_count": 118,
+      "summary_japanese": "(L)-Pheを4-arm PEG-NH2に固定化したキラルセレクターを合成し、NMRと分子シミュレーションでS-omeprazoleとの強いジアステレオマー相互作用を確認した。液液抽出でS体を濃縮し、25°Cでee約56%を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Immobilized (L)-Phenylalanine on Tetra-Arm Amino-Terminated Polyethylene Glycols Serve as the Chiral Selector in Liquid-Liquid Extraction for the Resolution of Omeprazole Racemate"
+    },
+    "10.1002/chir.70168": {
+      "doi": "10.1002/chir.70168",
+      "posted_at": "2026-11-21T01:58:28+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795226307.951479",
+      "summary_character_count": 135,
+      "summary_japanese": "固定化アミロース系キラル固定相SFCによりviloxazineを8分以内にベースライン分離し、Rs 3.09を達成した。ICH Q2(R2)準拠の検証で、両エナンチオマーはr=0.9996、LOD 0.016 mg mL−1、LOQ 0.040 mg mL−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Development and Validation of Chiral Supercritical Fluid Chromatographic Method for Rapid Separation of Viloxazine Using an Immobilized Amylose-Based Chiral Stationary Phase"
     },
     "10.1002/cjoc.70674": {
       "doi": "10.1002/cjoc.70674",
@@ -29955,6 +29980,45 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Emergent Assembly Chirality and Flip Kinematics: Euclidean Stabilizers of the Frame Classes, Enantiotopic Faces of the C2h Core, and Initiator Capping of the Interior Lattice"
+    },
+    "10.68540/npcpn.2026.0263": {
+      "doi": "10.68540/npcpn.2026.0263",
+      "posted_at": "2026-11-21T01:58:41+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795226321.105569",
+      "summary_character_count": 127,
+      "summary_japanese": "Methyl (R)-3-(1-methyl-2-oxocyclohexyl)propanoateは正のECD Cotton効果を示し、methyl基がequatorial位のchair配座に帰属された。4-tert-butyl置換モデルでも支持された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Electronic Circular Dichroism Spectra of 2-Methyl-2-substituted Cyclohexanone Derivatives and Their Conformations (1)"
+    },
+    "10.68540/npcpn.2026.0265": {
+      "doi": "10.68540/npcpn.2026.0265",
+      "posted_at": "2026-11-21T01:58:45+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795226325.152709",
+      "summary_character_count": 132,
+      "summary_japanese": "5、6、7員環のキラルな2,2-二置換cycloalkanonesおよび2,2,5-三置換cyclopentanonesを合成し、ECDスペクトルを測定した。得られたスペクトルは、これらの配座がcyclohexanone誘導体で見られるものと類似することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Electronic Circular Dichroism Spectra of 2,2-Disubstituted Cyclopentanones, Cyclohexanones, Cycloheptanones, and Related Cycloalkanones and their Conformations (3)"
+    },
+    "10.68540/npcpn.2026.0266": {
+      "doi": "10.68540/npcpn.2026.0266",
+      "posted_at": "2026-11-21T01:58:34+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795226313.954069",
+      "summary_character_count": 103,
+      "summary_japanese": "キラルな3,3-二置換cyclohexanone誘導体を調製し、ECDスペクトルと配座の関係を検討するとともに、2,2-二置換cyclohexanone誘導体におけるスペクトルおよび配座との関係を比較した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Electronic Circular Dichroism Spectra of 3,3-Disubstituted Cyclohexanone Derivatives and Their Conformations (4)"
     },
     "10.70773/revistatopicos/793468269": {
       "doi": "10.70773/revistatopicos/793468269",
