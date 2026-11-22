@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-21": 20,
     "2026-10-22": 20,
     "2026-10-23": 20,
     "2026-10-24": 19,
@@ -32,7 +31,7 @@
     "2026-11-19": 15,
     "2026-11-20": 15,
     "2026-11-21": 15,
-    "2026-11-22": 5
+    "2026-11-22": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1087,6 +1086,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "pi-Conjugated Helical Polymer for Circularly Polarized Photodetection and Secure Optoelectronic Encoding"
+    },
+    "10.1002/adma.75748": {
+      "doi": "10.1002/adma.75748",
+      "posted_at": "2026-11-22T00:57:09+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795309029.526369",
+      "summary_character_count": 100,
+      "summary_japanese": "Fe薄膜Möbiusバンド配列で、軟X線透過顕微鏡、磁気測定、マイクロ磁気シミュレーションにより、局所曲率と幾何学的キラリティーが非自明な渦磁区と磁化反転を支配し、渦の循環方向を選好することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Influence of Local Curvature and Structural Chirality on Magnetic Spin Textures in Fe Thin-Film Möbius Bands"
     },
     "10.1002/adma.75763": {
       "doi": "10.1002/adma.75763",
@@ -7346,6 +7358,19 @@
       "summary_used_fallback": false,
       "title": "Expanding the Family of Co(III) Complexes With Exclusive Metal-Centered Chirality: Application as an Enantioselective Selector in Voltammetric Sensor for Tyrosine Enantiomers"
     },
+    "10.1002/chem.71926": {
+      "doi": "10.1002/chem.71926",
+      "posted_at": "2026-11-22T00:57:05+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795309025.362739",
+      "summary_character_count": 110,
+      "summary_japanese": "(6,5)-SWCNT膜に3種のラジカル前駆体を塗布し、集光レーザーで局所共有結合修飾した。前駆体により修飾度とパターン精細性が異なり、457・532 nmで強いRaman応答を示し、模様は300°C加熱後も検出された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Laser-Triggered Covalent Patterning of Chirality-Enriched (6,5)-SWCNT Films With Chemically Distinct Radical Precursors"
+    },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
       "posted_at": "2026-07-18T15:14:02+00:00",
@@ -9607,6 +9632,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Homochiral Interfacial Coupling Enables Chiroptical Amplification and Spin Regulation in 0D/2D Perovskite Heterojunctions"
+    },
+    "10.1002/smll.76849": {
+      "doi": "10.1002/smll.76849",
+      "posted_at": "2026-11-22T00:56:52+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795309012.412439",
+      "summary_character_count": 111,
+      "summary_japanese": "キラルcore-shell磁気プラズモンCAu NRs@Fe3O4を構築し、Fe3O4/Au界面の磁気光学結合でプラズモン減衰を低減した。808 nm照射下でMRSA殺菌率97.2%を示し、創傷は10日以内にほぼ治癒した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Magneto-Optical Coupling in Chiral Nanoparticles Synergistically Boosts Photothermal Antibacterial Therapy Through Magnetic Plasmon Synergistic Effect"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -14805,6 +14843,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Nickel-Catalyzed Enantioselective Carbo-Carbonylation of Alkenes Using Formic Acid as a CO Surrogate: Access to Oxindoles Bearing Chiral Quaternary Carbon"
+    },
+    "10.1021/acs.orglett.6c04297": {
+      "doi": "10.1021/acs.orglett.6c04297",
+      "posted_at": "2026-11-22T00:56:58+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795309018.791749",
+      "summary_character_count": 322,
+      "summary_japanese": "The Tsuji–Trost reaction of acyclic fluoroenolates was developed to afford chiral tertiary alkyl fluorides. P-chiral PHOX ligands provided higher selectivity than common P-achiral PHOX ligands. Installing a bulky arene anti to the oxazoline-ring t-Bu group improved enantioselectivity relative to the corresponding epimer.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Tsuji-Trost Reaction of Acyclic Fluoroenolates Using P-Chiral PHOX"
     },
     "10.1021/acs.orglett.6c04336": {
       "doi": "10.1021/acs.orglett.6c04336",
@@ -22910,6 +22961,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Supermoiré reconstruction and domain-resolved valley topology in helical multilayer graphene"
+    },
+    "10.1088/2053-1591/aec548": {
+      "doi": "10.1088/2053-1591/aec548",
+      "posted_at": "2026-11-22T00:56:48+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795309008.126649",
+      "summary_character_count": 135,
+      "summary_japanese": "calixarene類、pillararene、porphyrin、crown ether薄膜SPRセンサーを総説し、表面構造・host–guest相互作用とLB、LS、spin-coating成膜がVOC・ガス検出の選択性、感度、再現性、安定性に及ぼす影響を評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Thin Films of Some Macrocyclic Organic Materials Surface Plasmon Resonance Sensors: A Comprehensive Review on Selective Gas and VOC Detection"
     },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
