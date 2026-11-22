@@ -31,7 +31,8 @@
     "2026-11-19": 15,
     "2026-11-20": 15,
     "2026-11-21": 15,
-    "2026-11-22": 15
+    "2026-11-22": 15,
+    "2026-11-23": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2062,6 +2063,19 @@
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
     },
+    "10.1002/ange.1527204": {
+      "doi": "10.1002/ange.1527204",
+      "posted_at": "2026-11-22T19:02:19+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795374139.561849",
+      "summary_character_count": 114,
+      "summary_japanese": "Ge2+の4s2孤立電子対を構造増幅因子として用い、(R/S-MBA)GeI3を設計・合成した。鎖状[-Ge-I-]∞のキラル歪み増大により、Pb(II)類縁体の2.66倍のgCDと、gIph−0.403/0.391を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rational Design of a Chiral Hybrid Ge(II) Halide With Giant Chiroptical Activity for Circularly Polarized Light Detection"
+    },
     "10.1002/ange.1587126": {
       "doi": "10.1002/ange.1587126",
       "posted_at": "2026-09-24T03:08:28+00:00",
@@ -3614,6 +3628,19 @@
       "summary_model": "gpt-5.6-sol",
       "summary_used_fallback": false,
       "title": "Tunable Synthesis of Multi-Responsive NH-Containing Helical Nanographenes With a Chiroptical Switching Function"
+    },
+    "10.1002/anie.1527204": {
+      "doi": "10.1002/anie.1527204",
+      "posted_at": "2026-11-22T19:02:15+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795374135.241429",
+      "summary_character_count": 112,
+      "summary_japanese": "Ge2+の4s2孤立電子対を構造増幅因子として用い、(R/S-MBA)GeI3を設計・合成した。キラル[-Ge-I-]∞鎖の歪み増大により、Pb(II)同族体の2.66倍のgCDとgIph−0.403/0.391を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rational Design of a Chiral Hybrid Ge(II) Halide With Giant Chiroptical Activity for Circularly Polarized Light Detection"
     },
     "10.1002/anie.1543450": {
       "doi": "10.1002/anie.1543450",
@@ -19101,6 +19128,19 @@
       "summary_used_fallback": false,
       "title": "Anionic Phase-Transfer Catalysis for Constructing Chiral Sulfur Centers via Asymmetric Sulfinimidation"
     },
+    "10.1021/jacs.6c18120": {
+      "doi": "10.1021/jacs.6c18120",
+      "posted_at": "2026-11-22T19:02:29+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795374149.797069",
+      "summary_character_count": 128,
+      "summary_japanese": "tether-to-twist法で曲率を調整したtwistacene配位子は、(dppp)Pd(II)/Pt(II)と{M}2L2・{M}3L3平衡を形成し、わずかな曲率差が環拡大のエンタルピーコストを6–10から17–18 kJ mol−1へ増大させた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ligand Curvature Controls the Size of Self-Assembled Twisted Metallacycles"
+    },
     "10.1021/jacs.6c18259": {
       "doi": "10.1021/jacs.6c18259",
       "posted_at": "2026-11-05T01:17:50+00:00",
@@ -19126,6 +19166,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Sequence-Regulated Adhesion of Poly(diethyl glycolide- alt -β-butyrolactone) Synthesized via Enantiomorphic Site-Assisted Stereospecific Alternating Copolymerization"
+    },
+    "10.1021/jacs.6c18344": {
+      "doi": "10.1021/jacs.6c18344",
+      "posted_at": "2026-11-22T19:02:26+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795374146.102309",
+      "summary_character_count": 120,
+      "summary_japanese": "7,7′-mesogenic置換と2,2′-imidazoleを持つbinaphthyl系ドーパントはHTP 827 μm−1を示した。高速負photochromic dimerとの併用で、可視光応答性と数秒で自己消去する構造色を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Exceptionally Strong Helix Induction Translates a Fast Negative Photochromic Response into Rapidly Self-Erasing Structural Color"
     },
     "10.1021/jacs.6c18725": {
       "doi": "10.1021/jacs.6c18725",
@@ -27887,6 +27940,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Molecular Zun: A Cycloparaphenylene-Derived Cavitand"
+    },
+    "10.31635/ccschem.026.202608616": {
+      "doi": "10.31635/ccschem.026.202608616",
+      "posted_at": "2026-11-22T19:02:10+00:00",
+      "score": 48,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795374130.897629",
+      "summary_character_count": 95,
+      "summary_japanese": "完全アキラル条件下でアントラセン誘導体が平行積層したらせん鎖を形成し、水素結合による同種キラル認識と自己触媒的増幅でキラル自己選別した。得られた結晶は線形・非線形キロプティカル特性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spontaneous Symmetry Breaking and Chiral Self-Sorting in Achiral Anthracene Derivatives for Tailored Linear and Nonlinear Chiroptics"
     },
     "10.31635/ccschem.026.202608706": {
       "doi": "10.31635/ccschem.026.202608706",
