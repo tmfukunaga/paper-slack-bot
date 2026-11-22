@@ -31,7 +31,7 @@
     "2026-11-19": 15,
     "2026-11-20": 15,
     "2026-11-21": 15,
-    "2026-11-22": 10
+    "2026-11-22": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -9763,6 +9763,19 @@
       "summary_used_fallback": false,
       "title": "Enhanced biosynthesis of full-length triple-helical human type III collagen in engineered Komagataella phaffii"
     },
+    "10.1007/s10040-026-03226-9": {
+      "doi": "10.1007/s10040-026-03226-9",
+      "posted_at": "2026-11-22T10:42:39+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795344159.010689",
+      "summary_character_count": 128,
+      "summary_japanese": "51種の砂岩試料でhelical-path tortuosity predictorをBayesian hierarchical frameworkにより不確実性評価した。予測誤差は約3.3%で、事後分布から水理伝導度と汚染物質輸送の90%範囲を導出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bayesian hierarchical uncertainty quantification of a helical-path tortuosity predictor for modeling hydraulic conductivity in sandstone aquifers"
+    },
     "10.1007/s10483-026-3420-6": {
       "doi": "10.1007/s10483-026-3420-6",
       "posted_at": "2026-08-01T00:15:39+00:00",
@@ -11068,6 +11081,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Graph theoretical and entropic insights into the pi-electron properties of nanographene butterfly structures"
+    },
+    "10.1016/j.rechem.2026.104080": {
+      "doi": "10.1016/j.rechem.2026.104080",
+      "posted_at": "2026-11-22T10:42:19+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795344139.031739",
+      "summary_character_count": 133,
+      "summary_japanese": "spiro-barbiturate-based tetrazole monohydrateの自己集合をDFT、MEP、Hirshfeld面、QTAIMで解析し、ダイマー化は−12.29 kcal/molで有利であり、水配位が対称性破れと電子再分布を誘起すると示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Computational decoding the electronic-driven supramolecular self-assembly of spiro-barbiturate-based tetrazoles: insights into the role of hydration and hydrogen-bonding robustness"
     },
     "10.1016/j.rineng.2026.113385": {
       "doi": "10.1016/j.rineng.2026.113385",
@@ -15883,6 +15909,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Pd-Catalyzed Enantioselective C(sp3)-H Arylation for Synergized Construction of C(sp2)-C(sp3) Axial and Central Chirality"
+    },
+    "10.1021/acscatal.6c07642": {
+      "doi": "10.1021/acscatal.6c07642",
+      "posted_at": "2026-11-22T10:42:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795344153.131829",
+      "summary_character_count": 324,
+      "summary_japanese": "A copper hydride-catalyzed atroposelective hydroaminocarbonylation of internal alkynes was developed using CO and O-benzoyl hydroxylamines. Under mild conditions, the method afforded axially chiral amides with good regio- and enantioselectivity. Thermal studies confirmed the low rotational barriers of the resulting amides.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Copper-Catalyzed Atroposelective Hydroaminocarbonylation of Alkynes: Access to Axially Chiral Amides"
     },
     "10.1021/acscatal.6c08200": {
       "doi": "10.1021/acscatal.6c08200",
@@ -21739,6 +21778,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Imine reductase-catalyzed enantiodivergent synthesis of axially chiral alkylidene cyclohexane amines"
+    },
+    "10.1039/d6qo01091a": {
+      "doi": "10.1039/d6qo01091a",
+      "posted_at": "2026-11-22T10:42:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795344142.964999",
+      "summary_character_count": 116,
+      "summary_japanese": "azaheptafulvenesと3炭素ビルディングブロックであるdonor-acceptor cyclopropanesの不斉Brønsted塩基触媒(8+3)-環化付加により、キラルpiperidine誘導体を効率的に合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Construction of Chiral Piperidine Scaffold through an Enantioselective (8+3)-Cycloaddition of Donor-Acceptor Cyclopropanes with Azaheptafulvenes"
     },
     "10.1039/d6ra06041b": {
       "doi": "10.1039/d6ra06041b",
@@ -29434,6 +29486,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Volume-Efficiency Trade-Off Optimization of Two-Stage Helical Gearboxes via MOEA/D-DE Algorithm"
+    },
+    "10.37394/232011.2027.22.6": {
+      "doi": "10.37394/232011.2027.22.6",
+      "posted_at": "2026-11-22T10:42:26+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795344146.851159",
+      "summary_character_count": 120,
+      "summary_japanese": "二段はすば歯車減速機を対象に、伝達比条件下の機械効率最大化と全体容積最小化をNSGA-IIで多目的最適化し、MAIRCAでPareto解から均衡設計を選定した。歯車形状・荷重分布・損失を評価する計算モデルにより、効率と小型化の両立案を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optimal Design of a Two-Stage Helical Gearbox via NSGA-II and MAIRCA: Balancing Transmission Efficiency and Structural Compactness"
     },
     "10.3762/bjoc.22.122": {
       "doi": "10.3762/bjoc.22.122",
