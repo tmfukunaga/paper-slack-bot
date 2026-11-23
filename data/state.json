@@ -31,7 +31,7 @@
     "2026-11-20": 15,
     "2026-11-21": 15,
     "2026-11-22": 15,
-    "2026-11-23": 15
+    "2026-11-23": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -11329,6 +11329,19 @@
       "summary_used_fallback": false,
       "title": "Uncovering the neurotoxicity of chiral salithion and its environmental implication: Enantioselective evidence from cellular, molecular, and computational experiments"
     },
+    "10.1016/j.tust.2026.108316": {
+      "doi": "10.1016/j.tust.2026.108316",
+      "posted_at": "2026-11-23T12:41:45+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795437705.387709",
+      "summary_character_count": 115,
+      "summary_japanese": "CFRP内皮・GFRP外皮間に螺旋状sinusoidal aluminum coreを配したBHSLをRCPのTEB補強へFE解析し、螺旋密度増加で耐力・剛性・core寄与が増す一方、ピーク前吸収エネルギーは同傾向を示さなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Bio-inspired helical sandwich liner for reinforced concrete pipe rehabilitation under three-edge bearing loading"
+    },
     "10.1016/j.ymssp.2026.114974": {
       "doi": "10.1016/j.ymssp.2026.114974",
       "posted_at": "2026-09-17T20:57:37+00:00",
@@ -15598,6 +15611,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Polyurethane Induces Nonchiral Helical Polyacetylene to Achieve Circularly Polarized Luminescence"
     },
+    "10.1021/acsapm.6c04262": {
+      "doi": "10.1021/acsapm.6c04262",
+      "posted_at": "2026-11-23T12:41:40+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795437700.806269",
+      "summary_character_count": 100,
+      "summary_japanese": "HPC/propylene glycolコレステリック系を用い、電熱応答型CPLフィルターを開発した。462–694 nmの連続波長可変と最大透過非対称因子1.0を示し、可逆性・動作安定性を維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrothermally Responsive Hydroxypropyl Cellulose Cholesteric System for Broadband Tunable Circular Polarization Filtering"
+    },
     "10.1021/acscatal.6c03124": {
       "doi": "10.1021/acscatal.6c03124",
       "posted_at": "2026-07-24T06:22:28+00:00",
@@ -16591,6 +16617,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Anthranyl Bis-sulfoxides with Modular Chiroptical Properties Controlled by an Ionic Stimulus"
+    },
+    "10.1021/acsomega.6c07348": {
+      "doi": "10.1021/acsomega.6c07348",
+      "posted_at": "2026-11-23T12:41:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795437717.643409",
+      "summary_character_count": 107,
+      "summary_japanese": "pyridinium imidazolate zwitterionをHF、B3LYP、CAM-B3LYPで再評価し、超分極率は架橋benzene環2～3個で飽和し、Peierls歪み前に大きな値を示すと見いだした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synchronized Twisting, Helical Conformation, and Reduced Symmetry in Alcalde’s Zwitterions: Early Saturation of First Hyperpolarizability before Peierls Distortion"
     },
     "10.1021/acsomega.6c07448": {
       "doi": "10.1021/acsomega.6c07448",
@@ -29981,6 +30020,19 @@
       "summary_used_fallback": false,
       "title": "Response assessment to First Line Chemotherapy with VCD Versus VDR in Diagnosed Cases of Multiple Myeloma at CMH Rawalpindi"
     },
+    "10.51403/0868-2836/2026/3396": {
+      "doi": "10.51403/0868-2836/2026/3396",
+      "posted_at": "2026-11-23T12:42:02+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795437722.300399",
+      "summary_character_count": 125,
+      "summary_japanese": "初期脱灰病変を作製した乳歯45試料をCPP-ACP、NaF 5%、対照群に分け、21日間の脱灰・再石灰化後にRa・Rzを測定した。CPP-ACPとNaFはいずれも対照群より表面粗さを有意に低下させ、CPP-ACPのΔRzは対照群より有意に大きかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hiệu quả của casein phosphopeptide-amorphous calcium phosphate (CPP-ACP) trong phục hồi vi cấu trúc bề mặt men răng sữa bị hủy khoáng giai đoạn sớm: ý nghĩa cho dự phòng tiến triển sâu răng"
+    },
     "10.51583/ijltemas.2026.151100001": {
       "doi": "10.51583/ijltemas.2026.151100001",
       "posted_at": "2026-11-23T11:47:15+00:00",
@@ -30448,6 +30500,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "The Electronic Circular Dichroism Spectra of 2-Methyl-2-substituted Cyclohexanone Derivatives and Their Conformations (1)"
+    },
+    "10.68540/npcpn.2026.0264": {
+      "doi": "10.68540/npcpn.2026.0264",
+      "posted_at": "2026-11-23T12:41:49+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795437709.931089",
+      "summary_character_count": 130,
+      "summary_japanese": "Methylおよびt-butyl (R)/(S)-3-(1-ethyl-2-oxocyclohexyl)propanoateを合成しECDスペクトルを測定した結果、chair配座でethyl基がaxial位をとることを示した。これはmethyl置換体と異なる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Electronic Circular Dichroism Spectra of 2-Ethyl-2-substituted Cyclohexanone Derivatives and Their Conformations (2)"
     },
     "10.68540/npcpn.2026.0265": {
       "doi": "10.68540/npcpn.2026.0265",
