@@ -31,7 +31,7 @@
     "2026-11-20": 15,
     "2026-11-21": 15,
     "2026-11-22": 15,
-    "2026-11-23": 10
+    "2026-11-23": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -3693,6 +3693,19 @@
       "summary_used_fallback": false,
       "title": "Non-Buckling Stacks of Nanocarbon Molecules"
     },
+    "10.1002/anie.1618909": {
+      "doi": "10.1002/anie.1618909",
+      "posted_at": "2026-11-23T11:47:22+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795434442.604829",
+      "summary_character_count": 123,
+      "summary_japanese": "可視光でzwitterionic π-allylpalladium(II)のC–Pd結合をホモリシスし、1,3-dieneおよび1-aryl-1,3-enyneとの(4+2)環化を開発した。oxa/aza複素環や炭素環を中程度～良好な収率で得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photoinduced Homolytic Carbon-Palladium Bond Cleavage of Zwitterionic pi -Allylpalladium Species and Annulation with 1,3-Dienes and 1,3-Enynes"
+    },
     "10.1002/anie.1640517": {
       "doi": "10.1002/anie.1640517",
       "posted_at": "2026-10-31T19:18:45+00:00",
@@ -6382,6 +6395,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Polymerization of Triphenylamine[3]arenes for Switchable and Stimuli-Responsive Chiroptical Properties"
+    },
+    "10.1002/anie.9261601": {
+      "doi": "10.1002/anie.9261601",
+      "posted_at": "2026-11-23T11:47:29+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795434449.470169",
+      "summary_character_count": 105,
+      "summary_japanese": "BrラジカルによるHATとキラルNi触媒を組み合わせ、α,β-不飽和エステルの初のエナンチオ選択的ラジカルhydrosilylationを達成し、高選択的にβ-silylated carbonyl化合物を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Radical Hydrosilylation of Electron-Deficient Alkenes Enabled by Metallaphotoredox Catalysis"
     },
     "10.1002/anie.9277033": {
       "doi": "10.1002/anie.9277033",
@@ -24067,6 +24093,19 @@
       "summary_used_fallback": false,
       "title": "Chiral symmetry and curvature bounds in de Sitter spacetime"
     },
+    "10.1142/s0217751x27500059": {
+      "doi": "10.1142/s0217751x27500059",
+      "posted_at": "2026-11-23T11:47:37+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795434457.667549",
+      "summary_character_count": 100,
+      "summary_japanese": "将来線形衝突型加速器におけるVector leptoquarks対生成をパートンレベルで評価し、縦偏極が断面積を大きく変えること、500–3000 GeVでe⁺e⁻消滅が光子融合を上回ることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of Colliding Beams Helicity on the Production of Leptoquarks and Collider Experimental Parameters"
+    },
     "10.1142/s0217979226400345": {
       "doi": "10.1142/s0217979226400345",
       "posted_at": "2026-10-28T03:58:51+00:00",
@@ -29942,6 +29981,19 @@
       "summary_used_fallback": false,
       "title": "Response assessment to First Line Chemotherapy with VCD Versus VDR in Diagnosed Cases of Multiple Myeloma at CMH Rawalpindi"
     },
+    "10.51583/ijltemas.2026.151100001": {
+      "doi": "10.51583/ijltemas.2026.151100001",
+      "posted_at": "2026-11-23T11:47:15+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795434435.257799",
+      "summary_character_count": 93,
+      "summary_japanese": "Bulawayo都市部小学校のECD教員15人を半構造化面接と授業観察で分析し、IKS統合は困難で実践知識・研修・資源も不足し、21世紀型スキル育成に有効に実施されていないことを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Phenomenological Study of Indigenous Knowledge System (IKS) In Developing 21st Century Skills Among ECD Learners in Bulawayo Urban Primary Schools-Zimbabwe: ECD Teachers’ Perceptions and Practices"
+    },
     "10.51878/educator.v5i4.15098": {
       "doi": "10.51878/educator.v5i4.15098",
       "posted_at": "2026-08-22T21:19:38+00:00",
@@ -30357,6 +30409,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Driven Photonic PCR Enables Label-Free Genetic Amplification"
+    },
+    "10.64898/2026.11.17.766015": {
+      "doi": "10.64898/2026.11.17.766015",
+      "posted_at": "2026-11-23T11:47:33+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795434453.729649",
+      "summary_character_count": 127,
+      "summary_japanese": "胚Drosophila中腸で、多視点light-sheet imaging、3D幾何解析、物理モデルにより、hindgut上皮のMyosin 1Cが縦走筋細胞を介して左右性を伝達し、閉じ込め下の伸長・座屈が定型的コイル形状へ増幅・収束させることを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Mechanical canalization of chiral gut morphogenesis"
     },
     "10.68366/r2wxe526": {
       "doi": "10.68366/r2wxe526",
