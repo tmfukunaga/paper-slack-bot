@@ -31,7 +31,8 @@
     "2026-11-20": 15,
     "2026-11-21": 15,
     "2026-11-22": 15,
-    "2026-11-23": 20
+    "2026-11-23": 20,
+    "2026-11-24": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1932,6 +1933,19 @@
       "summary_used_fallback": false,
       "title": "Chiral-Regulated Kresling Structure for Reconfigurable Multimodal Motion"
     },
+    "10.1002/advs.78870": {
+      "doi": "10.1002/advs.78870",
+      "posted_at": "2026-11-23T23:23:30+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795476210.842759",
+      "summary_character_count": 121,
+      "summary_japanese": "Si二重ナノロッドにPMMAを選択被覆したε-qBICメタサーフェスで円偏光フラットバンドを形成し、膜厚により偏光を右円偏光から線偏光、左楕円偏光へ制御した。PMMAの除去・再被覆・再パターニングにより、空間選択的キラリティ符号化を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Rewritable Chirality of Metasurfaces with Permittivity-Asymmetric Flatband Quasi-Bound States in the Continuum"
+    },
     "10.1002/aenm.71428": {
       "doi": "10.1002/aenm.71428",
       "posted_at": "2026-08-11T23:23:39+00:00",
@@ -3510,6 +3524,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macrocyclic Steric Confinement at Heavy-Atom Sites to Suppress Spin-Orbit Coupling for Room-Temperature Spin Transport in Organic Semiconductors"
+    },
+    "10.1002/ange.anie-26-23616": {
+      "doi": "10.1002/ange.anie-26-23616",
+      "posted_at": "2026-11-23T23:23:45+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795476225.777639",
+      "summary_character_count": 116,
+      "summary_japanese": "NMI-amyloidogenic peptide conjugate PEP-Lの自己集合で、共溶媒によりCDを示さない球状集合体がCPLを保持するcryptochiral CPLを見いだし、加熱・熟成でナノファイバーへ転移した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cryptochiral Circularly Polarized Luminescence Emerges From Cosolvent-Regulated Pathway Complexity in Amyloidogenic Peptide Self-Assembly"
     },
     "10.1002/anie.1026671": {
       "doi": "10.1002/anie.1026671",
@@ -6616,6 +6643,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Macrocyclic Steric Confinement at Heavy-Atom Sites to Suppress Spin-Orbit Coupling for Room-Temperature Spin Transport in Organic Semiconductors"
+    },
+    "10.1002/anie.anie-26-23616": {
+      "doi": "10.1002/anie.anie-26-23616",
+      "posted_at": "2026-11-23T23:23:35+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795476215.284739",
+      "summary_character_count": 130,
+      "summary_japanese": "NMI-amyloidogenic peptide複合体PEP-Lの自己集合で、共溶媒添加によりCDを示さない速度論的球状集合体が顕著なCPLを保持するcryptochiral CPLを見いだし、熱処理・時効で異なるCD/CPLをもつナノファイバーへ転換した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cryptochiral Circularly Polarized Luminescence Emerges From Cosolvent-Regulated Pathway Complexity in Amyloidogenic Peptide Self-Assembly"
     },
     "10.1002/anse.70138": {
       "doi": "10.1002/anse.70138",
@@ -9983,6 +10023,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "ChiralFusion: correcting distributional and perceptual asymmetries in multi-modal 3D object detection via density-position chirality"
+    },
+    "10.1007/s40820-026-02358-7": {
+      "doi": "10.1007/s40820-026-02358-7",
+      "posted_at": "2026-11-23T23:23:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795476230.261039",
+      "summary_character_count": 117,
+      "summary_japanese": "機械学習駆動分子動力学とDFTでキラルDESの不斉触媒作用を解析し、持続的な水素結合網は反応中間体形成を阻害する一方、可動な網は基質活性化と変換を促進し、立体制御にも影響すると示した。水素結合記述子による触媒効率予測枠組みを提示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Predicting Asymmetric Organocatalysis via Machine-Learning-Driven Molecular Dynamics of Chiral Deep Eutectic Solvents"
     },
     "10.1007/s40962-026-02075-2": {
       "doi": "10.1007/s40962-026-02075-2",
@@ -21986,6 +22039,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral amines in the asymmetric synthesis of axially chiral allenes through catalysis and covalent chirality transfer"
+    },
+    "10.1039/d6sc05870a": {
+      "doi": "10.1039/d6sc05870a",
+      "posted_at": "2026-11-23T23:23:39+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795476219.359819",
+      "summary_character_count": 90,
+      "summary_japanese": "共役ポリマー、graphene nanoribbons、共役デンドリマーの反復・精密合成を概説し、直交活性化、保護基戦略、収束・発散成長により骨格構造を制御する共通原理を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Iterative and precision syntheses of pi-conjugated nanostructures"
     },
     "10.1039/d6sc05973b": {
       "doi": "10.1039/d6sc05973b",
