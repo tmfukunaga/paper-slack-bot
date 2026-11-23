@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-22": 20,
     "2026-10-23": 20,
     "2026-10-24": 19,
     "2026-10-25": 21,
@@ -32,7 +31,7 @@
     "2026-11-20": 15,
     "2026-11-21": 15,
     "2026-11-22": 15,
-    "2026-11-23": 5
+    "2026-11-23": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -9985,6 +9984,19 @@
       "summary_used_fallback": false,
       "title": "Macrocycle-Integrated MOF Nanoarchitectures: Cooperative Active Sites from Pillararenes, Calixarenes, and Crown Ethers"
     },
+    "10.1007/s41230-026-5196-0": {
+      "doi": "10.1007/s41230-026-5196-0",
+      "posted_at": "2026-11-23T01:24:08+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795397048.582969",
+      "summary_character_count": 112,
+      "summary_japanese": "Sn-20wt.%Pb合金の一方向凝固でhelical permanent magnetic fieldを比較し、交番磁場は周期流により温度分布を均一化し、等軸粒を微細化するとともに径方向濃度偏析係数を53.55%低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Directional solidification process and macrosegregation of Sn-20wt.%Pb alloy under a helical permanent magnetic field"
+    },
     "10.1007/s41664-026-00496-w": {
       "doi": "10.1007/s41664-026-00496-w",
       "posted_at": "2026-09-15T11:04:17+00:00",
@@ -10465,6 +10477,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A CFD-based investigation of flow boiling of R32 in helical pipe evaporator: Parametric effects, phase-change behavior, and thermohydraulic benchmarking"
+    },
+    "10.1016/j.identj.2026.111355": {
+      "doi": "10.1016/j.identj.2026.111355",
+      "posted_at": "2026-11-23T01:24:04+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795397044.416859",
+      "summary_character_count": 101,
+      "summary_japanese": "ex-vivoで誘発した白斑病変を6か月比較し、Icon resin infiltrationは最大の硬さ増加と最も平滑な表面を示し、CPP-ACPは健全エナメル質に最も近く回復したが有意に低値だった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Evaluation of Icon Resin Infiltration and CPP-ACP for the Remediation of White Spot Lesions: A 6-Month Ex-Vivo Study"
     },
     "10.1016/j.ijengsci.2026.104703": {
       "doi": "10.1016/j.ijengsci.2026.104703",
@@ -11264,6 +11289,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Recent advances in the asymmetric catalytic construction of chiral indenols"
+    },
+    "10.1016/j.toxrep.2026.102381": {
+      "doi": "10.1016/j.toxrep.2026.102381",
+      "posted_at": "2026-11-23T01:23:56+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795397036.440109",
+      "summary_character_count": 124,
+      "summary_japanese": "salithionのSH-SY5Y細胞におけるAChE媒介性神経毒性をエナンチオ選択的に解析し、(S)-体は(R)-体より低いIC50（12.5対25.2 μM）でAChEを阻害した。分子・計算解析は結合配向、柔軟性、活性部位残基の寄与差を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Uncovering the neurotoxicity of chiral salithion and its environmental implication: Enantioselective evidence from cellular, molecular, and computational experiments"
     },
     "10.1016/j.ymssp.2026.114974": {
       "doi": "10.1016/j.ymssp.2026.114974",
@@ -19128,6 +19166,19 @@
       "summary_used_fallback": false,
       "title": "Anionic Phase-Transfer Catalysis for Constructing Chiral Sulfur Centers via Asymmetric Sulfinimidation"
     },
+    "10.1021/jacs.6c18112": {
+      "doi": "10.1021/jacs.6c18112",
+      "posted_at": "2026-11-23T01:23:52+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795397031.978729",
+      "summary_character_count": 135,
+      "summary_japanese": "tripyridyl L、tricarboxylate L′、cis-Pd(II)の自己集合で二重壁Pd12 cageを構築し、水中で1,4-dibromonaphthaleneを選択包接した。異性体を分離し、常温でnaphthaleneを同異性体へ選択的に臭素化した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Water-Soluble Pd12 Multicomponent Cage Enables Selective Separation of 1,4-Dibromonaphthalene from 1,5-Dibromonaphthalene and Regioselective Bromination of Naphthalene"
+    },
     "10.1021/jacs.6c18120": {
       "doi": "10.1021/jacs.6c18120",
       "posted_at": "2026-11-22T19:02:29+00:00",
@@ -24184,6 +24235,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Stiffness modeling and dynamics analysis of a chiral-type cylindrical structure with selective deployability and collapsibility"
+    },
+    "10.1177/09544089261509315": {
+      "doi": "10.1177/09544089261509315",
+      "posted_at": "2026-11-23T01:24:00+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795397040.416769",
+      "summary_character_count": 105,
+      "summary_japanese": "高速arc-involute-arc複合はすば歯車ポンプを解析モデル、過渡多相CFD、実験で評価し、回転数増加で流量脈動率は26.48%から36.98%へ増加、容積効率は95.17%から91.10%へ低下した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Transient multi-phase flow and pressure-response characteristics in a high-speed arc-involute-arc composite helical gear pump"
     },
     "10.1177/10775463261497541": {
       "doi": "10.1177/10775463261497541",
