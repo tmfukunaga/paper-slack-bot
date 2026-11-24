@@ -31,7 +31,7 @@
     "2026-11-21": 15,
     "2026-11-22": 15,
     "2026-11-23": 20,
-    "2026-11-24": 10
+    "2026-11-24": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8956,6 +8956,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Plasmonic Filtering in Silver Nanowires via Point-Defect-Induced Mode Conversion and Interference"
+    },
+    "10.1002/nap2.70373": {
+      "doi": "10.1002/nap2.70373",
+      "posted_at": "2026-11-24T08:22:52+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795508572.288359",
+      "summary_character_count": 370,
+      "summary_japanese": "Using Lorenz-Mie theory, the study shows that anti-Hermitian particles with purely imaginary permittivity and permeability can be tuned between dual and anti-dual scattering to control helicity preservation or inversion. Near-field confinement induces spin-momentum locking and produces a giant transverse photonic spin Hall shift beyond the dipolar subwavelength limit.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Spin-Momentum-Locked Hall Effect and Helicity Inversion in Anti-Hermitian Nanophotonics"
     },
     "10.1002/open.70291": {
       "doi": "10.1002/open.70291",
@@ -21948,6 +21961,19 @@
       "summary_used_fallback": false,
       "title": "A chiral solvation shell visualized on the molecular-scale level"
     },
+    "10.1039/d6cp03783f": {
+      "doi": "10.1039/d6cp03783f",
+      "posted_at": "2026-11-24T08:22:56+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795508576.616549",
+      "summary_character_count": 121,
+      "summary_japanese": "光感応性siliconを集積したTHzメタサーフェスで、800 nm光励起により絶縁体・金属相転移を利用し、透過・反射切替とLD/CD変調を実現した。PB位相と構造変種により、周波数・偏光・入射方向・光励起で復号する4チャネル暗号化を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photosensitive silicon-based optically switchable terahertz metasurface: linear and circular dichroism control and near- and far-field four-channel multiplexing"
+    },
     "10.1039/d6mh01646d": {
       "doi": "10.1039/d6mh01646d",
       "posted_at": "2026-11-16T21:38:58+00:00",
@@ -21986,6 +22012,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Intensity enhancement of circularly polarized luminescence in TbPO 4 ·0.64H 2 O nanocrystals induced by the antenna effect"
+    },
+    "10.1039/d6nr03503e": {
+      "doi": "10.1039/d6nr03503e",
+      "posted_at": "2026-11-24T08:23:14+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795508594.808549",
+      "summary_character_count": 158,
+      "summary_japanese": "We report the amino-acid-directed crystallization of chiral bismuth phosphate (BiPO 4 , ximengite) nanorods under mild aqueous conditions at room temperature.",
+      "summary_language": "en",
+      "summary_model": "extractive-abstract-fallback",
+      "summary_used_fallback": true,
+      "title": "Chiral induction in BiPO 4 nanorods by amino acids"
     },
     "10.1039/d6ob01020b": {
       "doi": "10.1039/d6ob01020b",
@@ -25353,6 +25392,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Fringe-Shift Measurement of the Photon Circulation Radius: A Test of the Helical Identity mcrγ = ħ"
+    },
+    "10.20944/preprints202611.0042.v3": {
+      "doi": "10.20944/preprints202611.0042.v3",
+      "posted_at": "2026-11-24T08:23:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795508589.929899",
+      "summary_character_count": 134,
+      "summary_japanese": "spiral-structure modelの光子横方向循環を、ヘリシティ奇の単スリット回折像の剛体並進で検証する実験を提案した。633 nm、2 μmスリット、50 mmレンズで−0.80 mmの変位を予測し、Maxwell対照と光子計数シミュレーションで評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity-Resolved Diffraction Test of Photon Circulation"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
@@ -29317,6 +29369,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Vancomycin-Stabilized Copper Nanoclusters: Isolation by Solid-Phase Extraction and Application in Chiral Capillary Electrophoresis"
+    },
+    "10.3390/opt7060079": {
+      "doi": "10.3390/opt7060079",
+      "posted_at": "2026-11-24T08:23:03+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795508583.047769",
+      "summary_character_count": 115,
+      "summary_japanese": "金属ナノ球をランダム分散した4̄2m対称の構造キラル媒体に中央ねじれ欠陥を導入し、円偏光の透過・反射を理論解析した。欠陥モード、Bragg band、金属由来バンドギャップの結合により光子帯が分裂・拡大し、体積分率に強く依存した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Optical Spectra of a Nanocomposite Structurally Chiral Medium with Metallic Nanoball Inclusions and a Twist Defect"
     },
     "10.3390/org7040049": {
       "doi": "10.3390/org7040049",
