@@ -31,7 +31,8 @@
     "2026-11-21": 15,
     "2026-11-22": 15,
     "2026-11-23": 20,
-    "2026-11-24": 16
+    "2026-11-24": 16,
+    "2026-11-25": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -9659,6 +9660,19 @@
       "summary_used_fallback": false,
       "title": "Dynamically Tunable Near-Infrared Photoluminescence with Long-Wavelength Energy Transfer Engineered by Multilevel Supramolecular Confinement"
     },
+    "10.1002/smll.76630": {
+      "doi": "10.1002/smll.76630",
+      "posted_at": "2026-11-24T19:56:32+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795550192.110179",
+      "summary_character_count": 129,
+      "summary_japanese": "sulfonated holey graphene oxide/SCNFにcyclodextrinを導入したイオンナノチャネル膜を設計し、β-cyclodextrin修飾膜はL-Hisに対し最大37.8のエナンチオ選択性と0.404 nMの検出限界を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Charge-Regulated Ion Transport in Cyclodextrin-Functionalized Nanochannels for Chiral Sensing"
+    },
     "10.1002/smll.76648": {
       "doi": "10.1002/smll.76648",
       "posted_at": "2026-11-15T18:29:02+00:00",
@@ -13680,6 +13694,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "pH-Responsive Supramolecular Self-Assembly of an Aromatic Zwitterionic Surfactant-Polyamine System for High-Temperature Clean Fracturing Fluids"
+    },
+    "10.1021/acs.langmuir.6c06380": {
+      "doi": "10.1021/acs.langmuir.6c06380",
+      "posted_at": "2026-11-24T19:56:26+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795550186.540319",
+      "summary_character_count": 132,
+      "summary_japanese": "D-TA200/L-TA200を酒石酸の200 °C熱分解で合成し、D-TA200はl-Trpの蛍光増強とl-Tyrの消光を示した。PMMA複合体はdl-Tyrを選択的エナンチオ吸着し、CQD-porphyrin系では分子からナノ集合体へのキラリティ移転を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Structure-Chirality-Function Interplay in Antipodal Carbon Quantum Dots for Enantioselective Homochiral Dual-Mode Recognition, Chirality Transfer, and Kinetic Resolution"
     },
     "10.1021/acs.macromol.6c00949": {
       "doi": "10.1021/acs.macromol.6c00949",
@@ -19503,6 +19530,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Synergistic Construction of Axial and Central Chirality via an Organocatalytic Three-Component Reaction Involving In Situ-Formed α-Functionalized Alcohols"
+    },
+    "10.1021/jacs.6c21628": {
+      "doi": "10.1021/jacs.6c21628",
+      "posted_at": "2026-11-24T19:56:47+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795550207.766629",
+      "summary_character_count": 111,
+      "summary_japanese": "β,β’-linked hexaphyrinとtrans-Pt(II)から三角柱状ケージCHPを構築し、可逆的PCETによる芳香族性スイッチングとzinc(II) porphyrazine 2分子の正の協同的包接を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Hexaphyrin Cage: Cooperative Guest Binding and Reversible Aromaticity Switching by Proton-Coupled Electron Transfer"
     },
     "10.1021/jacsau.6c00661": {
       "doi": "10.1021/jacsau.6c00661",
@@ -28121,6 +28161,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Analytical approach to population, polarization and coherence dynamics of chirality induced spin selectivity model"
+    },
+    "10.26434/chemrxiv.15012567/v1": {
+      "doi": "10.26434/chemrxiv.15012567/v1",
+      "posted_at": "2026-11-24T19:56:53+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795550213.363169",
+      "summary_character_count": 134,
+      "summary_japanese": "sulfonate含有高スピンFe(III)錯体Fe-CRESTは100 mM以上の水溶性と塩基触媒プロトン交換による緩和増強を示し、37 °C・7 Tでr1=2.1 mM−1 s−1を維持した。マウスでは主に腎排泄され、DOTAREMより肝臓・胆嚢増強が大きかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A hydrophilic Fe(III) macrocyclic T1 MRI probe with an iron grip and enhanced relaxivity through base-catalyzed proton exchange"
+    },
+    "10.26434/chemrxiv.15012592/v1": {
+      "doi": "10.26434/chemrxiv.15012592/v1",
+      "posted_at": "2026-11-24T19:56:38+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795550198.219449",
+      "summary_character_count": 130,
+      "summary_japanese": "B,N含有helicene 29例と対照6群のCPLを媒体・状態別に再評価し、BCPLを再計算した。Φと|glum|の相関は弱い負で、[10]HABは|glum|=0.048、(M,M)-RBNN素子はEQE 36.6%とgEL=+1.91×10−3を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Circularly polarized luminescence in boron- and nitrogen-embedded helicenes: molecular design, performance benchmarks and device applications"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
