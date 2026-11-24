@@ -32,7 +32,7 @@
     "2026-11-22": 15,
     "2026-11-23": 20,
     "2026-11-24": 16,
-    "2026-11-25": 5
+    "2026-11-25": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1542,6 +1542,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Coupling Axial Chirality with Through-Space Charge-Transfer-Involved Excited-State Regulation in Bicarbazole-Based Blue CP-OLED Emitters"
+    },
+    "10.1002/adom.72059": {
+      "doi": "10.1002/adom.72059",
+      "posted_at": "2026-11-24T23:54:41+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795564481.643059",
+      "summary_character_count": 106,
+      "summary_japanese": "架橋密度を事前符号化したCLCE画素を作製し、溶媒極性に応じる膨潤・ピッチ拡大で同一青色状態から可視域の多色分離を実現した。4×4アレイでは特定の溶媒極性ゲートと色‐文字復号則の組合せでのみ多段階情報を復元した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemically Gated Multilevel Photonic Encryption Enabled by Multicolor Separation in Crosslink-Density-Programmed Chiral Photonic Elastomers"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -13032,6 +13045,19 @@
       "summary_used_fallback": true,
       "title": "Asymmetric Construction of Chiral β-Aminoketone Derivatives via Enantioselective Mannich/Retro-Claisen Cascade Reaction"
     },
+    "10.1021/acs.joc.6c02335": {
+      "doi": "10.1021/acs.joc.6c02335",
+      "posted_at": "2026-11-24T23:54:32+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795564472.637519",
+      "summary_character_count": 124,
+      "summary_japanese": "β-indol-7-yl enonesとarylboronic acidsのRh触媒不斉アリール化後、酸促進型one-pot縮合を行い、新規キラルpyrrolo[3,2,1-ij]quinoline誘導体を高収率・優れたエナンチオ選択性で合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Synthesis of Chiral Pyrrolo[3,2,1- ij ]quinolines by Rh-Catalyzed Asymmetric Arylation/Acid-Promoted Condensation Sequence"
+    },
     "10.1021/acs.jpca.6c01773": {
       "doi": "10.1021/acs.jpca.6c01773",
       "posted_at": "2026-09-05T12:22:41+00:00",
@@ -21962,6 +21988,19 @@
       "summary_used_fallback": false,
       "title": "Synthesis of C 3 -symmetric BN-embedded nanographene with 60 pi-electrons and 32% BN content through a regioselective hexa-annulation reaction"
     },
+    "10.1039/d6cc06607k": {
+      "doi": "10.1039/d6cc06607k",
+      "posted_at": "2026-11-24T23:54:37+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795564477.218889",
+      "summary_character_count": 87,
+      "summary_japanese": "炭素に富む大環状化合物の合成法を、主に触媒的プロトコルを含む5つの一般的環化戦略として整理し、各手法の長所・短所、反応条件、基質濃度、精製法を実践的に解説するレビューである。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fivefold path to carbon-rich macrocycles - a practical guide"
+    },
     "10.1039/d6cc06689e": {
       "doi": "10.1039/d6cc06689e",
       "posted_at": "2026-11-17T03:54:58+00:00",
@@ -22767,6 +22806,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Imaging real-space chiral rotation of flat-band states in helical trilayer graphene"
+    },
+    "10.1080/00107514.2026.2756790": {
+      "doi": "10.1080/00107514.2026.2756790",
+      "posted_at": "2026-11-24T23:54:23+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795564463.130739",
+      "summary_character_count": 132,
+      "summary_japanese": "Barronの真・偽キラリティーに基づき、phonon helicityを格子励起の真のキラリティーを測る時間偶の擬スカラーと定義した。単一手性固有モードにはPT対称性の破れが必要十分であり、最小格子模型とα-quartzの円偏光RIXSで二つの破れ方を検討した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Axial chiral phonons from symmetry perspective"
     },
     "10.1080/00295639.2026.2750018": {
       "doi": "10.1080/00295639.2026.2750018",
@@ -28161,6 +28213,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Analytical approach to population, polarization and coherence dynamics of chirality induced spin selectivity model"
+    },
+    "10.26434/chemrxiv.15012564/v1": {
+      "doi": "10.26434/chemrxiv.15012564/v1",
+      "posted_at": "2026-11-24T23:54:28+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795564468.223809",
+      "summary_character_count": 101,
+      "summary_japanese": "電子パッケージング・ソフトエレクトロニクス向け超分子粘弾性系について、分子設計、レオロジー、誘電・熱輸送、PFAS・マイクロプラスチック排除戦略を総説し、耐湿性や絶縁破壊強度などの信頼性課題を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Viscoelastic Systems for Next-Generation Electronic Packaging and Soft Electronics: Assembly, Rheology, Electro-Thermal Transport, and PFAS- and Microplastic-Free Sustainability"
     },
     "10.26434/chemrxiv.15012567/v1": {
       "doi": "10.26434/chemrxiv.15012567/v1",
