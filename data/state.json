@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-23": 20,
     "2026-10-24": 19,
     "2026-10-25": 21,
     "2026-10-26": 3,
@@ -32,7 +31,7 @@
     "2026-11-21": 15,
     "2026-11-22": 15,
     "2026-11-23": 20,
-    "2026-11-24": 5
+    "2026-11-24": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -10374,6 +10373,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Design and characterization of a novel beetle elytra inspired lattice structure: The effect of Gyroid topology and helical pillars"
+    },
+    "10.1016/j.cscee.2026.101525": {
+      "doi": "10.1016/j.cscee.2026.101525",
+      "posted_at": "2026-11-24T02:13:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795486381.157469",
+      "summary_character_count": 110,
+      "summary_japanese": "ヘリカルリボン混合機内のコーヒー・粉乳・砂糖混合をJKR V2付きDEMで解析し、凝集支配の粉乳・コーヒーと速やかに分散する砂糖を示した。Frを0.41から2.93へ増加すると均質化時間は35 sから12 sに短縮した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "DEM analysis of cohesive ternary powder mixing in a helical ribbon blender: A coffee-milk-sugar case study"
     },
     "10.1016/j.csite.2026.108363": {
       "doi": "10.1016/j.csite.2026.108363",
@@ -22001,6 +22013,19 @@
       "summary_used_fallback": false,
       "title": "Imine reductase-catalyzed enantiodivergent synthesis of axially chiral alkylidene cyclohexane amines"
     },
+    "10.1039/d6ob01447j": {
+      "doi": "10.1039/d6ob01447j",
+      "posted_at": "2026-11-24T02:13:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795486385.440749",
+      "summary_character_count": 135,
+      "summary_japanese": "Glucosamine、galactosamine、mannosamine混合物を、異なる発色団による誘導体化と4種のUV/CD応答のridge regression解析で、クロマトグラフィー分離なしに同時定量した。独立調製した20試料で実測値と予測値は良好に一致した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chemometric amino sugar mixture analysis with a chiroptical assay array"
+    },
     "10.1039/d6qo01091a": {
       "doi": "10.1039/d6qo01091a",
       "posted_at": "2026-11-22T10:42:22+00:00",
@@ -22728,6 +22753,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thermal performances of a heat pipe with a flexible helical adiabatic section"
+    },
+    "10.1080/08916152.2026.2763025": {
+      "doi": "10.1080/08916152.2026.2763025",
+      "posted_at": "2026-11-24T02:12:57+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795486377.175339",
+      "summary_character_count": 111,
+      "summary_japanese": "低フィン管を備える中央管なし連続らせんバッフル熱交換器を油・水系で実験評価し、従来のsegmental-baffle exchangerより総括熱伝達係数が28.58–36.70%高く、Nu数と摩擦係数の相関式を導出した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Experimental investigation of the shell-side thermo-hydraulic performance of a central-tube-free continuous helical-baffle heat exchanger equipped with low-finned tubes"
     },
     "10.1080/09205071.2026.2721383": {
       "doi": "10.1080/09205071.2026.2721383",
@@ -28773,6 +28811,19 @@
       "summary_used_fallback": false,
       "title": "Control over the Self-Assembly of Supramolecular Hydrogels Using Hofmeister Effect"
     },
+    "10.3390/geotechnics6040122": {
+      "doi": "10.3390/geotechnics6040122",
+      "posted_at": "2026-11-24T02:13:09+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795486389.792749",
+      "summary_character_count": 123,
+      "summary_japanese": "シルト・細砂・シルト質粘土の互層に設置した小傾斜helical anchors 11基を載荷試験し、CEL解析、t-z法、トルクモデルで検証した。逆解析摩擦角を用いると設計式の容量比は平均1.006となり、トルクモデルは現地値を概ね過小評価した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Study on Vertical Bearing Characteristics and Installation Torque of Inclined Helical Anchors in Layered Soils"
+    },
     "10.3390/ijms272110015": {
       "doi": "10.3390/ijms272110015",
       "posted_at": "2026-11-11T06:21:25+00:00",
@@ -30540,6 +30591,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mechanical canalization of chiral gut morphogenesis"
+    },
+    "10.66977/xsci.2611.003t": {
+      "doi": "10.66977/xsci.2611.003t",
+      "posted_at": "2026-11-24T02:12:53+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795486373.137259",
+      "summary_character_count": 128,
+      "summary_japanese": "一軸異方性をもつカイラル磁性体で、ゼロおよび任意の正のHopf指数をもつ結び目・リンク型hopfionの安定化を示した。skyrmion braidから3次元磁気テクスチャを構築し、安定領域と最小エネルギーのHopf指数へのほぼ線形な依存性を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Higher-order magnetic hopfions in uniaxial chiral magnets"
     },
     "10.68366/r2wxe526": {
       "doi": "10.68366/r2wxe526",
