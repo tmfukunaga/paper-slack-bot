@@ -31,7 +31,7 @@
     "2026-11-21": 15,
     "2026-11-22": 15,
     "2026-11-23": 20,
-    "2026-11-24": 15
+    "2026-11-24": 16
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -25002,6 +25002,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Devising a technique for constructing helical architectural objects from curvilinear strips of constant width"
+    },
+    "10.15826/chimtech.10572": {
+      "doi": "10.15826/chimtech.10572",
+      "posted_at": "2026-11-24T13:44:24+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795527863.971419",
+      "summary_character_count": 113,
+      "summary_japanese": "キラル吸着剤の用途・欠点・分野別要件を整理し、多糖類とcyclodextrinsを例に適合性を検討した総説である。1920年代からMOFs/COFsまでの発展をたどり、構造・吸着・エナンチオ選択性の包括評価後の適用を提案する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral adsorbents: History of development, applications and key industrial types"
     },
     "10.1643/i2025115": {
       "doi": "10.1643/i2025115",
