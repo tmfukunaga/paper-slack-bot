@@ -31,7 +31,8 @@
     "2026-11-22": 15,
     "2026-11-23": 20,
     "2026-11-24": 16,
-    "2026-11-25": 20
+    "2026-11-25": 20,
+    "2026-11-26": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2582,6 +2583,19 @@
       "summary_used_fallback": false,
       "title": "HSAB-Guided Design of Chiral Osmium Halides With Both Efficient Nonlinear Optical Properties and High Stability"
     },
+    "10.1002/ange.4320069": {
+      "doi": "10.1002/ange.4320069",
+      "posted_at": "2026-11-25T16:47:12+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795625232.776529",
+      "summary_character_count": 128,
+      "summary_japanese": "pillar[5]areneとprism[5]areneの二受容体網で、alanine誘導体による競合的リガンド交換を利用し、非共有結合速度論のみでキラル光学符号が逐次反転する非平衡CDパルスを実現した。置換基と成分比により応答の持続時間と振幅を調節した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single Chiroptical Pulse in Non-Equilibrium Supramolecular Systems via Inter-Macrocyclic Crosstalk"
+    },
     "10.1002/ange.4724561": {
       "doi": "10.1002/ange.4724561",
       "posted_at": "2026-09-22T20:53:43+00:00",
@@ -4375,6 +4389,19 @@
       "summary_used_fallback": false,
       "title": "Manganese-Catalyzed Asymmetric Transfer Hydrogenation of Polarized Olefins via a Collaborative Hydrogen Transfer Process"
     },
+    "10.1002/anie.3302343": {
+      "doi": "10.1002/anie.3302343",
+      "posted_at": "2026-11-25T16:47:21+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795625241.879079",
+      "summary_character_count": 122,
+      "summary_japanese": "末端基設計したoctafluoronaphthalene系キラルperfluoroarene amphiphilesは、水中で安定な層状ベシクルを形成し、AP相互作用でPAHsを包接して励起状態を変調し、アキラルPAHsへキラル応答を誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aqueous pi-Hole Interactions Enabled by Chiral Perfluoroarene Amphiphiles"
+    },
     "10.1002/anie.3308853": {
       "doi": "10.1002/anie.3308853",
       "posted_at": "2026-08-27T13:46:05+00:00",
@@ -4725,6 +4752,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Constructing Substituted-Pyridine-Linked Conjugated Porous Polymers via Multicomponent Hantzsch-Type Reaction for Efficient Hydrogen Peroxide Photosynthesis from Real Seawater and Air"
+    },
+    "10.1002/anie.4320069": {
+      "doi": "10.1002/anie.4320069",
+      "posted_at": "2026-11-25T16:47:06+00:00",
+      "score": 55,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795625226.723989",
+      "summary_character_count": 122,
+      "summary_japanese": "pillar[5]arene/prism[5]arene二受容体網で、alanine誘導体による競合的リガンド交換を利用し、結合・解離速度差と高速ラセミ化に基づく非平衡CD符号反転パルスを実証した。置換基と組成比により応答時間・振幅を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Single Chiroptical Pulse in Non-Equilibrium Supramolecular Systems via Inter-Macrocyclic Crosstalk"
     },
     "10.1002/anie.4451248": {
       "doi": "10.1002/anie.4451248",
@@ -10178,6 +10218,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hierarchical chiral core-shell FM/CNF@P-CoFe composite fibers for broadband microwave absorption via guide-capture-dissipate"
+    },
+    "10.1007/s42452-026-09900-7": {
+      "doi": "10.1007/s42452-026-09900-7",
+      "posted_at": "2026-11-25T16:47:28+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795625248.156219",
+      "summary_character_count": 117,
+      "summary_japanese": "Zn2+/Co2+とTPMAからなる超分子ケージを対象に、イミン動的共有結合化学、3,3-diaza-Cope転位、自己集合の熱力学・速度論制御による構造設計と、分子認識、キラルセンシング、閉鎖空間での水素発生反応への応用を概説する。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "TPMA-Based Molecular Cages as Emerging Platforms for Host-Guest Recognition, Chiroptical Sensing, and Confined-Space Catalysis"
     },
     "10.1007/s44245-026-00199-7": {
       "doi": "10.1007/s44245-026-00199-7",
@@ -21986,6 +22039,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Standalone photoactive chiral copper complexes for light-driven asymmetric organic transformations"
+    },
+    "10.1039/d6cc05999f": {
+      "doi": "10.1039/d6cc05999f",
+      "posted_at": "2026-11-25T16:47:17+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795625237.741199",
+      "summary_character_count": 117,
+      "summary_japanese": "キラルNDI誘導体を系統的に調べ、溶液中のCD応答が置換基に大きく依存することを示した。TD-DFTはキラル共役置換基とNDI発色団の電子カップリングをCotton効果の起源とし、過渡吸収測定は光誘起状態への超高速緩和を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Substituent-controlled chiroptical response and excited-state dynamics in chiral naphthalene diimides"
     },
     "10.1039/d6cc06026a": {
       "doi": "10.1039/d6cc06026a",
