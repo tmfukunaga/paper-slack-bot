@@ -31,7 +31,7 @@
     "2026-11-22": 15,
     "2026-11-23": 20,
     "2026-11-24": 16,
-    "2026-11-25": 15
+    "2026-11-25": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7955,6 +7955,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Chiral Bifunctional Phosphoramide-Amine Controlled Enantiodivergent Conjugate Addition of Difluoroenoxysilanes to Isatylidene Malononitriles †"
+    },
+    "10.1002/cjoc.70861": {
+      "doi": "10.1002/cjoc.70861",
+      "posted_at": "2026-11-25T08:34:54+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795595694.534709",
+      "summary_character_count": 129,
+      "summary_japanese": "PCET概念に基づく二機能性光触媒により、amino alkyl arenesのbenzylic C(sp3)-Hを可視光・酸素/空気下で金属フリーかつ高位置選択的に酸化し、天然アミノ酸由来基質から高ジアステレオ選択的にキラルpyrrolidinesを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Photo-aerobic Oxidation/Tandem Cyclization Enabled by a Novel Photocatalyst: Metal-Free Synthesis of Chiral Pyrrolidines"
     },
     "10.1002/cphc.70451": {
       "doi": "10.1002/cphc.70451",
@@ -16839,6 +16852,19 @@
       "summary_used_fallback": false,
       "title": "Chirality as a Structural Degree of Freedom in Halide Perovskites"
     },
+    "10.1021/acsomega.6c10852": {
+      "doi": "10.1021/acsomega.6c10852",
+      "posted_at": "2026-11-25T08:35:01+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795595701.429959",
+      "summary_character_count": 125,
+      "summary_japanese": "NHC触媒によるaryl dialdehydesのatroposelective desymmetrizationを開発し、温和な条件で高収率・高立体選択的に軸不斉tetraarylethenesを合成した。天然物・医薬品の後期段階修飾にも適用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "NHC-Catalyzed Desymmetrization of Aryl Dialdehydes to Access Axially Chiral Tetraarylethenes"
+    },
     "10.1021/acsorginorgau.6c00090": {
       "doi": "10.1021/acsorginorgau.6c00090",
       "posted_at": "2026-10-17T22:53:39+00:00",
@@ -22507,6 +22533,19 @@
       "summary_used_fallback": false,
       "title": "Boron/Silicon in the Development of Chiral Ligands for Asymmetric Transition-Metal Catalysis"
     },
+    "10.1055/a-3002-2782": {
+      "doi": "10.1055/a-3002-2782",
+      "posted_at": "2026-11-25T08:35:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795595705.524419",
+      "summary_character_count": 129,
+      "summary_japanese": "2-C-hydroxymethyl-d-glucalsのaryl etherを銅触媒Ullmann型カップリングで合成し、熱Claisen転位によりpyran-switch domino変換を経てキラル3-substituted benzopyranを得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Direct Access to Chiral 3-Substituted Benzopyrans via “Pyran-Switch” Domino Transformation of C-2-Aryl Ethers of Glycals"
+    },
     "10.1061/jenmdt.emeng-9175": {
       "doi": "10.1061/jenmdt.emeng-9175",
       "posted_at": "2026-10-15T21:24:05+00:00",
@@ -23052,6 +23091,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A greater mitigation effect of single-coil helical electromagnetic stirring on central carbon segregation of 45 steel continuous casting billet"
+    },
+    "10.1080/13697137.2026.2759555": {
+      "doi": "10.1080/13697137.2026.2759555",
+      "posted_at": "2026-11-25T08:34:50+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795595690.267469",
+      "summary_character_count": 102,
+      "summary_japanese": "VCD誘発POIラットとKGN細胞で、SIRT6-NRF2正のフィードバックループがGPX4を介するフェロトーシスを抑制し、NRF2過剰発現およびSIRT6誘導がホルモン低下と細胞障害を部分的に改善した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "SIRT6-NRF2 loop regulating ferroptosis in VCD-induced premature ovarian insufficiency"
     },
     "10.1080/14686996.2026.2705816": {
       "doi": "10.1080/14686996.2026.2705816",
@@ -28342,6 +28394,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Construction of inorganic macrocyclic host-guest architectures with high proton conductivity via coordination mode tuning"
+    },
+    "10.26599/pom.2026.9140179": {
+      "doi": "10.26599/pom.2026.9140179",
+      "posted_at": "2026-11-25T08:35:12+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795595712.503969",
+      "summary_character_count": 301,
+      "summary_japanese": "Binding of amino acid enantiomers to achiral polyoxometalates {α2-P2W17} and {α2-As2W17} in water was quantified by SV-AUC, calorimetry, and spectroscopy. Some amino acids showed temperature-dependent enantioselective binding, with D-AAs favored at lower temperatures and L-AAs at higher temperatures.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Chiral discrimination of amino acids upon binding to achiral anionic polyoxometalates"
     },
     "10.26902/jsc_id180952": {
       "doi": "10.26902/jsc_id180952",
