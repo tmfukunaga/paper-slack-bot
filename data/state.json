@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-24": 19,
     "2026-10-25": 21,
     "2026-10-26": 3,
     "2026-10-27": 3,
@@ -32,7 +31,7 @@
     "2026-11-22": 15,
     "2026-11-23": 20,
     "2026-11-24": 16,
-    "2026-11-25": 10
+    "2026-11-25": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -7931,6 +7930,19 @@
       "summary_used_fallback": false,
       "title": "Electroreductive Dynamic Kinetic Resolution for Constructing Central and Axial Chirality †"
     },
+    "10.1002/cjoc.70829": {
+      "doi": "10.1002/cjoc.70829",
+      "posted_at": "2026-11-25T03:57:17+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795579037.788669",
+      "summary_character_count": 116,
+      "summary_japanese": "長鎖アルキルタグ4本を持つC4対称軸不斉β-aryl Ir(III) porphyrinを合成し、不斉carbene transferで高活性・高選択性を示した。PE/DMSO二相系で分離・再利用しても収率・選択性は低下しなかった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tag-Enabled Recycling of Axially Chiral Iridium( III ) Porphyrin Catalysts for Asymmetric Carbene Transfer"
+    },
     "10.1002/cjoc.70843": {
       "doi": "10.1002/cjoc.70843",
       "posted_at": "2026-10-24T22:53:34+00:00",
@@ -13031,6 +13043,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enantio- and Diastereoselective C-H [4 + 2] Annulation of Ferrocenamides with Allenes: Dynamic Kinetic Resolution Approach to Dual Chirality"
+    },
+    "10.1021/acs.joc.6c01974": {
+      "doi": "10.1021/acs.joc.6c01974",
+      "posted_at": "2026-11-25T03:57:00+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795579020.225679",
+      "summary_character_count": 115,
+      "summary_japanese": "hydrazinyl linkerを介する剛直なNDI-NMI dyadを合成し、置換基で多段階両性レドックスを制御した。着色radical ion生成、溶媒依存の繊維状自己集合、carbonyl間nO→π*CO相互作用を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Naphthalimide-Naphthalene Diimide Dyads with a Hydrazinyl Linker: Amphoteric Multi-state Redox, Radical Ions, Self-assembly, and Intramolecular Carbonyl-Carbonyl Non-covalent Contacts"
     },
     "10.1021/acs.joc.6c02112": {
       "doi": "10.1021/acs.joc.6c02112",
@@ -22053,6 +22078,19 @@
       "summary_used_fallback": false,
       "title": "Photosensitive silicon-based optically switchable terahertz metasurface: linear and circular dichroism control and near- and far-field four-channel multiplexing"
     },
+    "10.1039/d6mh01600f": {
+      "doi": "10.1039/d6mh01600f",
+      "posted_at": "2026-11-25T03:57:11+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795579031.440579",
+      "summary_character_count": 329,
+      "summary_japanese": "Hydrophilic chemical-environment sculpting was used in situ to construct chiral/achiral perovskite bulk heterojunctions across multiple quasi-2D systems. The approach provides a universal, facile route to chiral heterostructures without complex epitaxy or layer-by-layer assembly, with implications for CP-optoelectronic devices.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Universal in situ strategy for chiral/achiral perovskite bulk heterojunctions via hydrophilic chemical environment sculpting"
+    },
     "10.1039/d6mh01646d": {
       "doi": "10.1039/d6mh01646d",
       "posted_at": "2026-11-16T21:38:58+00:00",
@@ -22143,6 +22181,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chemometric amino sugar mixture analysis with a chiroptical assay array"
+    },
+    "10.1039/d6qi02239a": {
+      "doi": "10.1039/d6qi02239a",
+      "posted_at": "2026-11-25T03:57:05+00:00",
+      "score": 15,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795579025.815969",
+      "summary_character_count": 279,
+      "summary_japanese": "Chiral MOF catalysts for the oxygen evolution reaction were investigated to assess the role of structural order. Greater structural order enhanced CISS-derived spin-polarized currents and chiral enhancement, contributing to improved efficiency in electrochemical water splitting.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Structural Order Boosts Spin Polarization and Chiral Enhancement in MOF Catalysts for Oxygen Evolution Reaction"
     },
     "10.1039/d6qo01091a": {
       "doi": "10.1039/d6qo01091a",
@@ -28252,6 +28303,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Circularly polarized luminescence in boron- and nitrogen-embedded helicenes: molecular design, performance benchmarks and device applications"
+    },
+    "10.26434/chemrxiv.15012613/v1": {
+      "doi": "10.26434/chemrxiv.15012613/v1",
+      "posted_at": "2026-11-25T03:56:56+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795579016.227229",
+      "summary_character_count": 131,
+      "summary_japanese": "窒素位置を変えたdipyridylmethane異性体で、孤立電子対間through-space conjugationによるn-π*遷移活性化を示した。(o,o)-DPyMは励起状態syn共平面構造により530 nmまで発光し、異性体中最高の量子収率を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Overcoming n-pi* Transition Forbiddenness via Through-Space Conjugation"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
