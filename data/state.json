@@ -32,7 +32,7 @@
     "2026-11-23": 20,
     "2026-11-24": 16,
     "2026-11-25": 20,
-    "2026-11-26": 5
+    "2026-11-26": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -594,6 +594,19 @@
       "summary_used_fallback": false,
       "title": "Gradient-Engineered Liquid Crystal Elastomer Scroll Springs for Snapping Chiral Spiral Flip and Mechanical Output"
     },
+    "10.1002/adfm.79759": {
+      "doi": "10.1002/adfm.79759",
+      "posted_at": "2026-11-25T19:16:40+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795634200.916859",
+      "summary_character_count": 135,
+      "summary_japanese": "MBAIで1D MBAPbI3と2D MBA2PbI4を制御し、CsPbI3 nanocrystals発光Spin-LEDを作製した。DFTで1Dの強い格子歪みに由来する円二色性増強を示し、EQE 14.0%、dissymmetry factor 0.033を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dimensional Engineering of Chiral Perovskites for Enhanced Chiroptical Properties in Spin Light-Emitting Diodes"
+    },
     "10.1002/adhm.71957": {
       "doi": "10.1002/adhm.71957",
       "posted_at": "2026-11-09T19:50:36+00:00",
@@ -1113,6 +1126,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrarobust and Thermo-Mechano-Photo-Responsive Elastomers by Supramolecular and Dynamic 3D Topological Architectures"
+    },
+    "10.1002/adma.75859": {
+      "doi": "10.1002/adma.75859",
+      "posted_at": "2026-11-25T19:16:29+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795634189.109729",
+      "summary_character_count": 113,
+      "summary_japanese": "achiral building blocksからMo–S配位でらせん状自己組織化し、内部らせん細孔をもつHMPSsを作製した。炭化後の単層MoS2分散HMMoS2/Cは、10 A g−1で752.7 mAh g−1を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Coordination-Driven Spiral Self-Assembly of Helical Mesoporous Polymer Nanospheres and Derived MoS 2 /Carbon Colloidal Nanospheres for Fast Lithium Storage"
     },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
@@ -2413,6 +2439,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality-Driven Piezocatalysis in MOFs: Achieving Efficient Cocatalyst-Free Hydrogen Evolution"
+    },
+    "10.1002/ange.3302343": {
+      "doi": "10.1002/ange.3302343",
+      "posted_at": "2026-11-25T19:16:47+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795634207.243349",
+      "summary_character_count": 134,
+      "summary_japanese": "octafluoronaphthalene骨格のキラルperfluoroarene両親媒性分子を末端基設計で調整し、水中で安定なラメラ小胞を形成した。π-holeによるAP相互作用でPAHを包接し、励起状態を変調するとともに、非キラルPAHへキラル光学応答を誘起した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Aqueous pi-Hole Interactions Enabled by Chiral Perfluoroarene Amphiphiles"
     },
     "10.1002/ange.3314002": {
       "doi": "10.1002/ange.3314002",
@@ -19089,6 +19128,19 @@
       "summary_used_fallback": false,
       "title": "Charge-Transfer Engineering Controls Excited-State Dynamics and Supramolecular Assembly in Luminescent Au(I) Complexes"
     },
+    "10.1021/jacs.6c15955": {
+      "doi": "10.1021/jacs.6c15955",
+      "posted_at": "2026-11-25T19:16:34+00:00",
+      "score": 36,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795634194.239039",
+      "summary_character_count": 119,
+      "summary_japanese": "[12]cycloparaphenyleneとstilbene含有新規環状π共役分子をDFBレーザー利得媒質として評価し、内部転換時の構造歪みによる[2+2]状態配置が再吸収を抑え、迅速な反転分布を促すことを分光・薄膜ASE測定で示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Unique Conformationally Assisted [2+2] Configuration in Cycloparaphenylenes Enables Efficient Laser Devices"
+    },
     "10.1021/jacs.6c15980": {
       "doi": "10.1021/jacs.6c15980",
       "posted_at": "2026-10-07T06:00:48+00:00",
@@ -23729,6 +23781,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Mesoscale Hybridization Strategy for Organic Supramolecular Assemblies and Inorganic Semiconductor Nanocrystals"
+    },
+    "10.1093/chemle/upag232": {
+      "doi": "10.1093/chemle/upag232",
+      "posted_at": "2026-11-25T19:16:54+00:00",
+      "score": 33,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795634214.880329",
+      "summary_character_count": 98,
+      "summary_japanese": "生命のホモキラリティの起源を、環境由来のキラルバイアス、Soai反応などの不斉自己触媒によるエナンチオマー過剰の増幅、超分子認識に基づく自己複製と分子から集合体へのキラリティ伝達の観点から論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "The Origin of Homochirality: Chiral Bias, Autocatalysis, Self-Replication, and Supramolecular Recognition"
     },
     "10.1093/nsr/nwag448": {
       "doi": "10.1093/nsr/nwag448",
