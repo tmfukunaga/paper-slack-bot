@@ -31,7 +31,7 @@
     "2026-11-23": 20,
     "2026-11-24": 16,
     "2026-11-25": 20,
-    "2026-11-26": 20
+    "2026-11-26": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2231,6 +2231,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-Matched Piezoelectric Responsiveness and Energy Transfer in Supramolecular Co-Assembly of Dipeptides"
     },
+    "10.1002/ange.1860614": {
+      "doi": "10.1002/ange.1860614",
+      "posted_at": "2026-11-26T11:53:56+00:00",
+      "score": 35,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795694035.951409",
+      "summary_character_count": 110,
+      "summary_japanese": "構造指向戦略で1Dキラルマンガン塩化物P/M-PCA-2MnとP/M-PCA-Mnを合成し、後者は発光効率を7倍、|g_lum|を4.2×10^-2へ向上させた。液晶との複合化で|g_lum|は10^-1桁に増幅された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Efficient Chirality Transfer Enables Amplified Circularly Polarized Luminescence in Chiral Metal Halides Hybrid Structures"
+    },
     "10.1002/ange.1877364": {
       "doi": "10.1002/ange.1877364",
       "posted_at": "2026-08-01T18:03:31+00:00",
@@ -3940,6 +3953,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-Matched Piezoelectric Responsiveness and Energy Transfer in Supramolecular Co-Assembly of Dipeptides"
     },
+    "10.1002/anie.1860614": {
+      "doi": "10.1002/anie.1860614",
+      "posted_at": "2026-11-26T11:53:34+00:00",
+      "score": 45,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795694014.599929",
+      "summary_character_count": 103,
+      "summary_japanese": "構造指向戦略でキラルMn塩化物P/M-PCA-2MnとP/M-PCA-Mnを合成し、後者は|g_lum|=4.2×10^-2と7倍の発光効率を示した。液晶複合化により|g_lum|を10^-1桁へ増幅した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Efficient Chirality Transfer Enables Amplified Circularly Polarized Luminescence in Chiral Metal Halides Hybrid Structures"
+    },
     "10.1002/anie.1862545": {
       "doi": "10.1002/anie.1862545",
       "posted_at": "2026-08-01T12:01:15+00:00",
@@ -5284,6 +5310,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Organocatalytic Dynamic Kinetic Resolution for the Stereoconvergent Synthesis of N-N Axially Chiral Compounds"
+    },
+    "10.1002/anie.6198147": {
+      "doi": "10.1002/anie.6198147",
+      "posted_at": "2026-11-26T11:53:42+00:00",
+      "score": 44,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795694022.791499",
+      "summary_character_count": 385,
+      "summary_japanese": "O/S heavier-congener substitution enabled the design of chiral supramolecular [(R/S)-1-(2-fluorophenyl)ethylammonium)(1-thia-15-crown-5)]BF4, which undergoes a 222F2-type ferroelectric/ferroelastic phase transition at 350 K. Its SHG-CD dissymmetry factor is one order of magnitude greater than that of the parent compound and switches between high and low states during the transition.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Sulfur Substitution of Oxygen-Induced Multiferroic Phase Transition in Chiral Supramolecular Crystals"
     },
     "10.1002/anie.6203848": {
       "doi": "10.1002/anie.6203848",
@@ -8566,6 +8605,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Ionic Covalent Organic Framework Core-Shell Composite Material CD-COF-Li@SiO 2 for HPLC Enantioseparation"
+    },
+    "10.1002/elps.70189": {
+      "doi": "10.1002/elps.70189",
+      "posted_at": "2026-11-26T11:53:51+00:00",
+      "score": 37,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795694031.165499",
+      "summary_character_count": 101,
+      "summary_japanese": "キラルメソポーラスシリカによるエナンチオ選択的分離を、分子認識の熱力学と材料設計の関係から総説し、分子インプリンティング、構造・機能キラル材料、階層的colloidosomeの認識機構と展望を整理した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Porous Silica for Enantioselective Separation: From Molecular Recognition to Chiral Architectures"
     },
     "10.1002/flm2.70154": {
       "doi": "10.1002/flm2.70154",
@@ -12627,6 +12679,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Fullerenes (C60/C70)-Embedded Copper(I)-Imidazole/Pyrazolate Macrocycles: Synthesis, Structures, and Electronic Properties"
+    },
+    "10.1021/acs.inorgchem.6c04056": {
+      "doi": "10.1021/acs.inorgchem.6c04056",
+      "posted_at": "2026-11-26T11:53:47+00:00",
+      "score": 41,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795694027.148259",
+      "summary_character_count": 117,
+      "summary_japanese": "oxahelicene架橋bisporphyrin tweezer 1は、キラルdiamineとの1:1錯形成でヘリシティを増幅し、強いECDを示した。誘起CDはゲストのeeと直線相関し、単一測定でee定量と絶対配置決定を可能にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity Amplification in a Stereodynamic Oxahelicene-Bisporphyrin Tweezer Enables Quantitative Chiral Sensing"
     },
     "10.1021/acs.inorgchem.6c04194": {
       "doi": "10.1021/acs.inorgchem.6c04194",
