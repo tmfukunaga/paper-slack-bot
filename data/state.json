@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-25": 21,
     "2026-10-26": 3,
     "2026-10-27": 3,
     "2026-10-28": 16,
@@ -32,7 +31,7 @@
     "2026-11-23": 20,
     "2026-11-24": 16,
     "2026-11-25": 20,
-    "2026-11-26": 10
+    "2026-11-26": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -5350,6 +5349,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Total Synthesis of ent -Kaurenoic Acid Diterpenoids Enabled by Distal Conformational Control in Photoredox Radical Polyene Cyclization"
+    },
+    "10.1002/anie.6303348": {
+      "doi": "10.1002/anie.6303348",
+      "posted_at": "2026-11-26T01:33:57+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795656837.195299",
+      "summary_character_count": 345,
+      "summary_japanese": "Using the chiral MeO-BIBOP ligand, 1,3-dienes and vinyl carboxylates underwent highly regio- and enantioselective heterodimerization to afford skipped 1,4-dienes with er values typically above 96:4. The products, bearing differentiated alkenes and a stereogenic center, were readily converted into chiral succinic acids and β- and γ-amino acids.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Enantioselective Coupling of 1,3-Dienes and Vinyl Acetate for the Synthesis of Succinic Acids and β- and γ-Amino Acids"
     },
     "10.1002/anie.6364342": {
       "doi": "10.1002/anie.6364342",
@@ -19687,6 +19699,19 @@
       "summary_used_fallback": false,
       "title": "Chiral Metal-Organic Frameworks with Multiple and Highly Anisotropic Nonlinear Optical Effects"
     },
+    "10.1021/jacs.6c20756": {
+      "doi": "10.1021/jacs.6c20756",
+      "posted_at": "2026-11-26T01:33:37+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795656817.420719",
+      "summary_character_count": 124,
+      "summary_japanese": "軸不斉biaryl支持iridacycleとキラルリン酸により、ラセミ二級アルコールを用いるindoleのエナンチオ収束的N-アルキル化を実現した。借水素過程でindolineを経て再芳香族化し、温度制御によりN置換indolineも選択的に得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioconvergent N -Alkylation of Indoles with Alcohols Promoted by an Axially Chiral Iridacycle"
+    },
     "10.1021/jacs.6c21549": {
       "doi": "10.1021/jacs.6c21549",
       "posted_at": "2026-11-05T19:29:47+00:00",
@@ -23651,6 +23676,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thin Films of Some Macrocyclic Organic Materials Surface Plasmon Resonance Sensors: A Comprehensive Review on Selective Gas and VOC Detection"
+    },
+    "10.1088/2058-9565/aec628": {
+      "doi": "10.1088/2058-9565/aec628",
+      "posted_at": "2026-11-26T01:34:01+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795656841.302899",
+      "summary_character_count": 121,
+      "summary_japanese": "カイラル一次元チャネル結合2量子ノードの過渡エンタングルメントを連続駆動下で解析し、非世俗TCL-2とMPSを比較した。強駆動で世俗近似の破綻により最大concurrenceが無駆動の2/eを超え、TCL-2は最初のピークを定性的に再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Transient entanglement generation in driven chiral networks beyond the secular approximation"
     },
     "10.1088/2631-8695/ae8d83": {
       "doi": "10.1088/2631-8695/ae8d83",
@@ -28499,6 +28537,32 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Overcoming n-pi* Transition Forbiddenness via Through-Space Conjugation"
+    },
+    "10.26434/chemrxiv.15012634/v1": {
+      "doi": "10.26434/chemrxiv.15012634/v1",
+      "posted_at": "2026-11-26T01:33:48+00:00",
+      "score": 21,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795656828.789589",
+      "summary_character_count": 135,
+      "summary_japanese": "電子Schrödinger方程式と縮約密度行列の断片分割に基づく化学結合の階層理論を提案し、結合・非局在化・芳香族性・ホモキラリティーを下位階層にない情報で定義した。二つのhexaalanine helixでは一残基場がエネルギー分散の99.9%と98.6%を説明した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical Theory of Chemical Bond: From the Schrödinger Equation to Aromaticity and Homochirality"
+    },
+    "10.26434/chemrxiv.15012671/v1": {
+      "doi": "10.26434/chemrxiv.15012671/v1",
+      "posted_at": "2026-11-26T01:33:42+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795656822.617689",
+      "summary_character_count": 116,
+      "summary_japanese": "N-alkylpyridinium塩へのboronic acidのロジウム触媒不斉付加により、電子求引基を要さず多様なキラルdihydropyridineを高収率・高エナンチオ選択性で合成し、立体定義piperidineへ展開した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Overcoming substrate constraints to unlock chiral dihydropyridines for stereodefined piperidine synthesis"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
