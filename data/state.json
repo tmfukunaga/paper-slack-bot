@@ -31,7 +31,8 @@
     "2026-11-23": 20,
     "2026-11-24": 16,
     "2026-11-25": 20,
-    "2026-11-26": 25
+    "2026-11-26": 25,
+    "2026-11-27": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2893,6 +2894,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Supramolecular Chiral Halogen-Bonded Organic Frameworks Enhance Efficient Chirality-Induced Spin Selectivity"
+    },
+    "10.1002/ange.6198147": {
+      "doi": "10.1002/ange.6198147",
+      "posted_at": "2026-11-26T16:54:57+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795712097.169669",
+      "summary_character_count": 331,
+      "summary_japanese": "O/S substitution enabled the design of chiral supramolecular [(R/S)-1-(2-fluorophenyl)ethylammonium)(1-thia-15-crown-5)]BF4, which exhibited a 222F2-type ferroelectric-ferroelastic phase transition at 350 K. The material also showed a switchable SHG-CD response between high and low states during the multiferroic phase transition.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Sulfur Substitution of Oxygen-Induced Multiferroic Phase Transition in Chiral Supramolecular Crystals"
     },
     "10.1002/ange.6234875": {
       "doi": "10.1002/ange.6234875",
@@ -14331,6 +14345,19 @@
       "summary_used_fallback": false,
       "title": "Near-Electrode Diffusion Dynamics Govern Chirality-Induced Spin Selectivity in an Electrochemical Cell"
     },
+    "10.1021/acs.nanolett.6c03796": {
+      "doi": "10.1021/acs.nanolett.6c03796",
+      "posted_at": "2026-11-26T16:55:06+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795712106.652949",
+      "summary_character_count": 117,
+      "summary_japanese": "キラル有機カチオンを含む一次元鉛臭化物で、フェムト秒近赤外励起によるキラリティ移転誘起の対称性破れに基づくTHz放射を実証した。結晶軸に対する励起偏光の調整で、4.7 THz光学フォノンを主成分とする放射のスペクトルと偏光を制御した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "One-Dimensional Hybrid Metal Halides as Tunable Chiral THz Emitters"
+    },
     "10.1021/acs.nanolett.6c03830": {
       "doi": "10.1021/acs.nanolett.6c03830",
       "posted_at": "2026-10-21T03:18:46+00:00",
@@ -15935,6 +15962,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Enhanced Luminescence of a σ-pi-Conjugated Disilane-Bridged Donor-Acceptor Macrocycle through Conformational Restriction"
+    },
+    "10.1021/acsaom.6c00484": {
+      "doi": "10.1021/acsaom.6c00484",
+      "posted_at": "2026-11-26T16:55:11+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795712111.052629",
+      "summary_character_count": 119,
+      "summary_japanese": "偏光・キラリティ識別型光電子メモリスタの物理機構と材料基盤を総説し、CISS、CPGE、非対称吸収、光誘起イオン移動による抵抗・シナプス重み変調を整理した。低い異方性因子、キラルペロブスカイト不安定性、標準指標欠如を主要課題として示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarization and Chirality Resolved Optoelectronic Memristors"
     },
     "10.1021/acsaom.6c00558": {
       "doi": "10.1021/acsaom.6c00558",
@@ -22468,6 +22508,19 @@
       "summary_used_fallback": false,
       "title": "Chemometric amino sugar mixture analysis with a chiroptical assay array"
     },
+    "10.1039/d6ob01494a": {
+      "doi": "10.1039/d6ob01494a",
+      "posted_at": "2026-11-26T16:55:15+00:00",
+      "score": 28,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795712115.537089",
+      "summary_character_count": 98,
+      "summary_japanese": "P-立体中心の触媒的不斉構築法を、エナンチオ決定段階の位置に基づき直接法・間接法に分類して総説し、近年のP(V)置換化学、P中心ラジカル過程、キラル配位子やProTidesへの応用と課題を論じる。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Catalytic construction of P-stereogenic centers"
+    },
     "10.1039/d6qi02239a": {
       "doi": "10.1039/d6qi02239a",
       "posted_at": "2026-11-25T03:57:05+00:00",
@@ -28693,6 +28746,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Overcoming substrate constraints to unlock chiral dihydropyridines for stereodefined piperidine synthesis"
+    },
+    "10.26434/chemrxiv.15012759/v1": {
+      "doi": "10.26434/chemrxiv.15012759/v1",
+      "posted_at": "2026-11-26T16:55:01+00:00",
+      "score": 32,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795712101.831659",
+      "summary_character_count": 131,
+      "summary_japanese": "Zn-L-cysteineでCdTe0.75Se0.25 alloy QDsを機能化し、Te・Seへの結合による局所構造の非対称化でキラリティーを導入した。CD応答を示し、蛍光寿命は約160分の1、ON-fractionは約85–100%となり、点滅も低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiroptical Photonic Manipulation in CdTe0.75Se0.25 Alloy Quantum Dots"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
