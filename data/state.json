@@ -32,7 +32,7 @@
     "2026-11-24": 16,
     "2026-11-25": 20,
     "2026-11-26": 25,
-    "2026-11-27": 5
+    "2026-11-27": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1594,6 +1594,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chemically Gated Multilevel Photonic Encryption Enabled by Multicolor Separation in Crosslink-Density-Programmed Chiral Photonic Elastomers"
+    },
+    "10.1002/adpr.70306": {
+      "doi": "10.1002/adpr.70306",
+      "posted_at": "2026-11-26T20:55:09+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795726509.737169",
+      "summary_character_count": 130,
+      "summary_japanese": "ねじれたAu/Ag core-shell nanorod dimerのキラル近接場を、PINEMで≲10 nm・約100 fs分解能で直接可視化した。左右キラル構造の応答、見かけ上アキラルな構造の微弱な非対称性、ねじれ角・形状・励起波長による可調性を実証した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Spatiotemporal Imaging of Chiral Near Fields in Plasmonic Nanorod Dimers"
     },
     "10.1002/adsc.70629": {
       "doi": "10.1002/adsc.70629",
@@ -4947,6 +4960,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Strong Second-Order Nonlinear Optical Activities in Chiral Hybrid Copper(I) Bromide Microplates"
+    },
+    "10.1002/anie.4735947": {
+      "doi": "10.1002/anie.4735947",
+      "posted_at": "2026-11-26T20:55:22+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795726522.385319",
+      "summary_character_count": 114,
+      "summary_japanese": "1,n-enynesの不斉アリール化環化により、環外不斉炭素をもつ熱力学的に有利な環内アルケンを高収率・高エナンチオ選択的に合成した。重水素標識実験は、連続的な1,2・1,3・1,4-Rh移動によるC=C結合転位機構を支持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Enantioselective Enyne Cyclization to Thermodynamically Favored Endocyclic Alkenes via a Rhodium-Migration Relay"
     },
     "10.1002/anie.4748505": {
       "doi": "10.1002/anie.4748505",
@@ -11707,6 +11733,19 @@
       "summary_used_fallback": false,
       "title": "Short-wave displacement instability of a helical vortex"
     },
+    "10.1017/jfm.2026.12259": {
+      "doi": "10.1017/jfm.2026.12259",
+      "posted_at": "2026-11-26T20:55:14+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795726514.093619",
+      "summary_character_count": 114,
+      "summary_japanese": "反対キラリティをもつねじれ磁束管を非圧縮MHD流れで解析し、Lorentz力起源の渦度と逆伝播Alfvén波の相互作用が、円盤状渦の形成、拡大、再結合・断片化からなる3段階のvortex burstingを駆動することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Vortex bursting in twisted magnetic flux tubes with opposite chiralities"
+    },
     "10.1021/accountsmr.6c00071": {
       "doi": "10.1021/accountsmr.6c00071",
       "posted_at": "2026-07-17T17:07:02+00:00",
@@ -15442,6 +15481,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Synergistic Pd/Cu Catalysis for the Asymmetric Synthesis of Alkylidenecycloalkanes Bearing Axial and Central Chirality"
+    },
+    "10.1021/acs.orglett.6c04717": {
+      "doi": "10.1021/acs.orglett.6c04717",
+      "posted_at": "2026-11-26T20:55:26+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795726526.291739",
+      "summary_character_count": 123,
+      "summary_japanese": "fluoroalkenesのCu触媒不斉ラジカルcyanofluoroalkylationにより、四級α-fluorinated nitrilesを高反応性・高エナンチオ選択性で合成した。フッ素原子が反応性と選択性を高め、代謝安定性にも寄与した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "“Fluorine Effect”-Promoted Cu-Catalyzed Asymmetric Radical Cyanofluoroalkylation of Fluoroalkenes to Access Chiral Quaternary α-Fluorinated Nitriles"
     },
     "10.1021/acsabm.6c00819": {
       "doi": "10.1021/acsabm.6c00819",
@@ -22858,6 +22910,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Direct Access to Chiral 3-Substituted Benzopyrans via “Pyran-Switch” Domino Transformation of C-2-Aryl Ethers of Glycals"
+    },
+    "10.1055/a-3014-3621": {
+      "doi": "10.1055/a-3014-3621",
+      "posted_at": "2026-11-26T20:55:18+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795726518.225489",
+      "summary_character_count": 104,
+      "summary_japanese": "分子内三中心水素結合で配座を事前組織化したfoldamerとハロゲン結合供与体の二成分共結晶を構築し、pyridyl末端の微小な歪みがπ–πスタッキング、環状二量体化、二次元超分子ネットワーク形成を促進した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Conformation Preorganization of Hydrogen-Bonded Foldamers for Hierarchical Halogen-Bond-Driven Supramolecular Self-assembly"
     },
     "10.1061/jenmdt.emeng-9175": {
       "doi": "10.1061/jenmdt.emeng-9175",
