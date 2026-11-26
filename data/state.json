@@ -31,7 +31,7 @@
     "2026-11-23": 20,
     "2026-11-24": 16,
     "2026-11-25": 20,
-    "2026-11-26": 15
+    "2026-11-26": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1125,6 +1125,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ultrarobust and Thermo-Mechano-Photo-Responsive Elastomers by Supramolecular and Dynamic 3D Topological Architectures"
+    },
+    "10.1002/adma.75833": {
+      "doi": "10.1002/adma.75833",
+      "posted_at": "2026-11-26T03:34:54+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795664094.929059",
+      "summary_character_count": 134,
+      "summary_japanese": "Co8Zn10Mn2で、Lorentz透過電子顕微鏡法とマイクロマグネティックシミュレーションにより室温を含む広い温度域のchiral bobberを直接観測し、磁場下でskyrmion stringから生成する経路と両表面間のdouble-bobber状態を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral Bobbers in the Room-Temperature Magnet Co 8 Zn 10 Mn 2"
     },
     "10.1002/adma.75859": {
       "doi": "10.1002/adma.75859",
@@ -9892,6 +9905,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magneto-Optical Coupling in Chiral Nanoparticles Synergistically Boosts Photothermal Antibacterial Therapy Through Magnetic Plasmon Synergistic Effect"
+    },
+    "10.1002/smm2.70121": {
+      "doi": "10.1002/smm2.70121",
+      "posted_at": "2026-11-26T03:34:42+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795664082.649939",
+      "summary_character_count": 131,
+      "summary_japanese": "Wollastoniteは前生物条件下のformose reactionで、chiral driving forcesに左右されずd-riboseを75.1–85.9% eeで選択生成した。表面の波状原子配列がd-glyceraldehydeの吸着を有利にした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Consistent Chiral Selection of d -Ribose Under Various Chiral Driving Forces"
     },
     "10.1002/smtd.71019": {
       "doi": "10.1002/smtd.71019",
@@ -21883,6 +21909,19 @@
       "summary_used_fallback": false,
       "title": "Tunable chiral anomaly in electron magnetotransport in the Weyl semimetallic Pb$$_{1-x}$$Sn$$_{x}$$Te:Cr alloy"
     },
+    "10.1038/s41929-026-01643-3": {
+      "doi": "10.1038/s41929-026-01643-3",
+      "posted_at": "2026-11-26T03:34:47+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795664087.026729",
+      "summary_character_count": 126,
+      "summary_japanese": "キラルCo Lewis acidと陽極酸化を組み合わせ、phosphinoyl radicalの生成とC–P結合形成を制御する電解的不斉カップリングを開発した。温和な分子間反応で、最大99% eeの多様なP(V)-stereogenic化合物を与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Chiral cobalt-catalysed electrochemical enantioselective C-P coupling via phosphinoyl radicals"
+    },
     "10.1038/s42004-026-02120-5": {
       "doi": "10.1038/s42004-026-02120-5",
       "posted_at": "2026-07-29T18:18:40+00:00",
@@ -22142,6 +22181,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Integrating redox activity and chirality into 1D covalent organic frameworks for synergistic enantioselective sensing"
+    },
+    "10.1039/d6cc06120f": {
+      "doi": "10.1039/d6cc06120f",
+      "posted_at": "2026-11-26T03:34:51+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795664091.091659",
+      "summary_character_count": 109,
+      "summary_japanese": "prochiral bis(nitroolefins)を対象に、初の有機触媒的不斉化transfer hydrogenationを開発し、軸不斉diaryl ethersのatroposelective合成を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Organocatalytic desymmetrizing transfer hydrogenation of prochiral bis(nitroolefins) for the synthesis of axially chiral diaryl ethers"
     },
     "10.1039/d6cc06208c": {
       "doi": "10.1039/d6cc06208c",
@@ -23104,6 +23156,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Ordered chiral liquid-crystal corona on CsPbBr 3 nanoplatelets enables bright and strong circularly polarized luminescence"
+    },
+    "10.1080/02678292.2026.2762112": {
+      "doi": "10.1080/02678292.2026.2762112",
+      "posted_at": "2026-11-26T03:34:35+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795664075.700829",
+      "summary_character_count": 101,
+      "summary_japanese": "配向秩序をQ、層状変調をδρで表すSmC*液晶の連続体テンソル模型を提案し、ネマチック配向・層形成・キラリティー・自発分極の結合を記述した。数値実験でヘリックス、双安定スイッチング、欠陥などを再現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tensorial model of chiral smectic C liquid crystals"
     },
     "10.1080/08916152.2026.2708635": {
       "doi": "10.1080/08916152.2026.2708635",
