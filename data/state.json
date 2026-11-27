@@ -31,7 +31,7 @@
     "2026-11-24": 16,
     "2026-11-25": 20,
     "2026-11-26": 25,
-    "2026-11-27": 15
+    "2026-11-27": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -605,6 +605,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Dimensional Engineering of Chiral Perovskites for Enhanced Chiroptical Properties in Spin Light-Emitting Diodes"
+    },
+    "10.1002/adfm.79786": {
+      "doi": "10.1002/adfm.79786",
+      "posted_at": "2026-11-27T03:29:00+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795750140.322769",
+      "summary_character_count": 108,
+      "summary_japanese": "ハライド陰イオン制御HPMC自己組織化PPセパレータは、Li+溶媒和と負極界面を調整する。Cl−は最適らせんピッチで均一析出を促し、Li||LiFePO4電池は1 C・400サイクル後に103.8%の容量を保持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Halide Anions Regulate the Self-Assembly of HPMC Coating on PP Separator to Synergistically Modulate Weak Solvation Structure and Anode Interface to Enhance Lithium Metal Battery"
     },
     "10.1002/adhm.71957": {
       "doi": "10.1002/adhm.71957",
@@ -5753,6 +5766,19 @@
       "summary_used_fallback": false,
       "title": "Europium Macrocyclic Complexes With Rigid High-Symmetry Coordination Geometry for High-Voltage and Durable Neutral Aqueous Redox Flow Batteries"
     },
+    "10.1002/anie.7059051": {
+      "doi": "10.1002/anie.7059051",
+      "posted_at": "2026-11-27T03:28:56+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795750136.499219",
+      "summary_character_count": 101,
+      "summary_japanese": "π共役電子供与分子からなる一次元細孔COFに電子受容分子を導入し、骨格を損なわずにバンド充填を制御した。分光・輸送・磁気測定と理論計算により、host–guest電荷移動による電子遍歴性の増強を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Band-Filling Engineering in Covalent Organic Frameworks Through Host-Guest Charge-Transfer Interactions"
+    },
     "10.1002/anie.7073485": {
       "doi": "10.1002/anie.7073485",
       "posted_at": "2026-10-16T21:09:37+00:00",
@@ -7669,6 +7695,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Laser-Triggered Covalent Patterning of Chirality-Enriched (6,5)-SWCNT Films With Chemically Distinct Radical Precursors"
+    },
+    "10.1002/chem.71945": {
+      "doi": "10.1002/chem.71945",
+      "posted_at": "2026-11-27T03:29:04+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795750144.541039",
+      "summary_character_count": 113,
+      "summary_japanese": "かご型12座大環状配位子でCe、Pr、Nd、Sm、Tb、Dyの等構造錯体を構築し、磁気測定とab initio計算で評価した。軸位カルボニル酸素による結晶場により、扁平型Lnは遅い磁気緩和、Sm(III)は易面異方性を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Cage-Type 12-Dentate Macrocyclic Platform for Systematic Investigation of Magnetic Anisotropy Across Isostructural Lanthanide Complexes"
     },
     "10.1002/chir.70122": {
       "doi": "10.1002/chir.70122",
@@ -22611,6 +22650,19 @@
       "summary_used_fallback": false,
       "title": "Chemometric amino sugar mixture analysis with a chiroptical assay array"
     },
+    "10.1039/d6ob01466f": {
+      "doi": "10.1039/d6ob01466f",
+      "posted_at": "2026-11-27T03:29:07+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795750147.858549",
+      "summary_character_count": 94,
+      "summary_japanese": "電子豊富なanthracene-based imine macrocycle 1を合成し、広い電子豊富な空孔によりC60およびC70と熱力学的に安定な1:1包接錯体を形成することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "An anthracene-based self-assembled macrocycle for recognition of fullerenes"
+    },
     "10.1039/d6ob01494a": {
       "doi": "10.1039/d6ob01494a",
       "posted_at": "2026-11-26T16:55:15+00:00",
@@ -28862,6 +28914,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Overcoming substrate constraints to unlock chiral dihydropyridines for stereodefined piperidine synthesis"
+    },
+    "10.26434/chemrxiv.15012754/v1": {
+      "doi": "10.26434/chemrxiv.15012754/v1",
+      "posted_at": "2026-11-27T03:29:11+00:00",
+      "score": 18,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795750151.490379",
+      "summary_character_count": 95,
+      "summary_japanese": "水素結合性azo-macrocycleが有機二価カチオンと安定な三元錯体を形成し、光異性化による捕捉・輸送・放出サイクルで、液膜を越えて非光応答性有機カチオンを濃度勾配に逆らい能動輸送した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "A Light-Driven Molecular Pump for the Active Transport of Non-Photoactive Organic Cations"
     },
     "10.26434/chemrxiv.15012757/v1": {
       "doi": "10.26434/chemrxiv.15012757/v1",
