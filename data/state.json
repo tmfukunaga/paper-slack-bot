@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-26": 3,
     "2026-10-27": 3,
     "2026-10-28": 16,
     "2026-10-29": 15,
@@ -32,7 +31,7 @@
     "2026-11-24": 16,
     "2026-11-25": 20,
     "2026-11-26": 25,
-    "2026-11-27": 10
+    "2026-11-27": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1997,6 +1996,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral-Regulated Kresling Structure for Reconfigurable Multimodal Motion"
+    },
+    "10.1002/advs.78832": {
+      "doi": "10.1002/advs.78832",
+      "posted_at": "2026-11-27T01:45:05+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795743905.368739",
+      "summary_character_count": 135,
+      "summary_japanese": "BCBと活性化アルケンの[2σ + 2π]環化に、キラルランタニドLewis acid/photoredox協働触媒を適用し、配位性acyl imidazole補助基で基質の還元電位と立体選択性を制御した。25種超のBCHを最大98%収率、99.5:0.5 erで得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Cooperative Lewis Acid/Photoredox Catalysis for the Construction of Chiral Bicyclo[2.1.1]Hexanes"
     },
     "10.1002/advs.78870": {
       "doi": "10.1002/advs.78870",
@@ -14501,6 +14513,19 @@
       "summary_used_fallback": false,
       "title": "Light-Triggered Self-Growth of 3D Photonic Structures with Vertical Helical-Pitch Gradients Engineering"
     },
+    "10.1021/acs.nanolett.6c04184": {
+      "doi": "10.1021/acs.nanolett.6c04184",
+      "posted_at": "2026-11-27T01:44:50+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795743890.729079",
+      "summary_character_count": 89,
+      "summary_japanese": "少層MoS2・WTe2電極接触部のヘリシティ依存光電流を位相遅延、試料方位、集光径で解析した。MoS2では逆スピンHall効果が支配的で、WTe2ではビームシフトが主因と示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Helicity-Resolved Photocurrent with Distinct Dominant Mechanisms at Electrode-Contact Boundaries in Few-Layer MoS2 and WTe2"
+    },
     "10.1021/acs.nanolett.6c04776": {
       "doi": "10.1021/acs.nanolett.6c04776",
       "posted_at": "2026-10-30T18:00:54+00:00",
@@ -21780,6 +21805,19 @@
       "summary_used_fallback": false,
       "title": "Chirality inversion in DNA-assembled nanorod superlattices via site-specific asymmetric anchoring of single nanospheres"
     },
+    "10.1038/s41467-026-79718-9": {
+      "doi": "10.1038/s41467-026-79718-9",
+      "posted_at": "2026-11-27T01:44:46+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795743886.906769",
+      "summary_character_count": 98,
+      "summary_japanese": "FB-113が多様な農薬を80%超の高担持ナノ粒子へ自己集合させることを示し、構造記述子に基づくQPSAPで候補を予測した。前向き検証で予測と実験は完全一致し、害虫・ダニ防除効力の向上を確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Quantitative prediction model of FB-113-driven self-assembly nanopesticides"
+    },
     "10.1038/s41524-026-02311-7": {
       "doi": "10.1038/s41524-026-02311-7",
       "posted_at": "2026-09-06T20:00:27+00:00",
@@ -22416,6 +22454,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Thinking In-and-Out of the Box: Structural Diversity, Assembly, Switching and New Applications from Ionic Cyclophanes"
+    },
+    "10.1039/d6cc06700j": {
+      "doi": "10.1039/d6cc06700j",
+      "posted_at": "2026-11-27T01:44:56+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795743896.420809",
+      "summary_character_count": 317,
+      "summary_japanese": "Fluorination and chiral assembly were applied to hybrid antimony fluorides to balance wide bandgaps with strong second-harmonic generation. The study presents a design strategy that integrates these structural features to achieve both optical transparency associated with wide bandgaps and nonlinear optical response.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Fluorination-chirality-directed assembly for balancing wide bandgap and nonlinear optical response in hybrid fluorides"
     },
     "10.1039/d6cp03527b": {
       "doi": "10.1039/d6cp03527b",
@@ -28811,6 +28862,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Overcoming substrate constraints to unlock chiral dihydropyridines for stereodefined piperidine synthesis"
+    },
+    "10.26434/chemrxiv.15012757/v1": {
+      "doi": "10.26434/chemrxiv.15012757/v1",
+      "posted_at": "2026-11-27T01:45:01+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795743901.079099",
+      "summary_character_count": 126,
+      "summary_japanese": "キラルat-metal Rh(III)触媒によるN,Oキレート配向型分子内[2+2]光環化付加を開発し、青色光下でoxa-, thia-, aza-, all-carbonの三環性cyclobutaneを最大>99% ee、>20:1 drで合成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Directing-Group-Driven Intramolecular [2+2] Photocycloaddition Catalyzed by Chiral-at-Metal Rh(III): Divergent Assembly of Oxa-, Thia-, Aza-, and All-Carbon Tricyclic Cyclobutane Scaffolds"
     },
     "10.26434/chemrxiv.15012759/v1": {
       "doi": "10.26434/chemrxiv.15012759/v1",
