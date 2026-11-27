@@ -31,7 +31,7 @@
     "2026-11-24": 16,
     "2026-11-25": 20,
     "2026-11-26": 25,
-    "2026-11-27": 20
+    "2026-11-27": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -2881,6 +2881,19 @@
       "summary_used_fallback": true,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
     },
+    "10.1002/ange.5475502": {
+      "doi": "10.1002/ange.5475502",
+      "posted_at": "2026-11-27T12:21:13+00:00",
+      "score": 30,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795782073.436579",
+      "summary_character_count": 121,
+      "summary_japanese": "4つのanionic diethyldithiocarbamate配位子を持つCe(IV)錯体を合成し、4f軌道由来LMCT遷移により380–780 nmで正負のMCD信号を示した。相対論的TD-DFT計算で複数のLMCT遷移を明らかにした。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Toward a Visible-Range Helicity Filter: Panchromatic Magnetic Circular Dichroism via 4f-Orbital-Based Charge Transfer in a Cerium(IV) Complex"
+    },
     "10.1002/ange.5624001": {
       "doi": "10.1002/ange.5624001",
       "posted_at": "2026-10-09T22:26:19+00:00",
@@ -5245,6 +5258,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Macrocycle-Based Charge-Transfer Cocrystals: From Host-Guest Recognition to Multifunctional Solid-State Materials"
+    },
+    "10.1002/anie.5475502": {
+      "doi": "10.1002/anie.5475502",
+      "posted_at": "2026-11-27T12:20:56+00:00",
+      "score": 40,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795782056.807389",
+      "summary_character_count": 108,
+      "summary_japanese": "4つのdiethyldithiocarbamate配位Ce(IV)錯体を合成し、4f軌道由来LMCTにより可視域全体でMCDを示した。TD-DFT計算から、複数のLMCT遷移と強いSOCによる励起状態混成が示された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Toward a Visible-Range Helicity Filter: Panchromatic Magnetic Circular Dichroism via 4f-Orbital-Based Charge Transfer in a Cerium(IV) Complex"
     },
     "10.1002/anie.5624001": {
       "doi": "10.1002/anie.5624001",
@@ -10048,6 +10074,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Magneto-Optical Coupling in Chiral Nanoparticles Synergistically Boosts Photothermal Antibacterial Therapy Through Magnetic Plasmon Synergistic Effect"
+    },
+    "10.1002/smll.76889": {
+      "doi": "10.1002/smll.76889",
+      "posted_at": "2026-11-27T12:21:17+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795782077.703209",
+      "summary_character_count": 123,
+      "summary_japanese": "Langmuir-Blodgett法で層数と層間ねじれ角を制御したキラルα-Ni(OH)2ナノワイヤ膜を作製し、4+4層・45°膜ではCISSによるスピン選別とCPL・圧電性の相乗効果で水素生成速度23.70 mmol g−1 h−1を達成した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Polarized Light Modulated Piezoelectric Hydrogen Generation Enhancement for Chiral α-Ni(OH) 2 NWs Film"
     },
     "10.1002/smm2.70121": {
       "doi": "10.1002/smm2.70121",
@@ -15922,6 +15961,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiral Lanthanide Complex Isomers Enable Ultra-High-Brightness Narrowband X-Ray Scintillation and Lysosome Optical Imaging via Aggregation and Dual-Antenna Effects"
+    },
+    "10.1021/acsami.6c18814": {
+      "doi": "10.1021/acsami.6c18814",
+      "posted_at": "2026-11-27T12:21:07+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795782067.684309",
+      "summary_character_count": 103,
+      "summary_japanese": "cyanuric acidと1,3,5-triazine-2,4,6-triamineの水素結合超構造でGSH-Cu NCsを配向・固定化し、PLQYを94.15%、CPLを−1.39×10−2へ増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Supramolecular Manipulation of Copper Nanoclusters Boosts Chiral Optical Performances"
     },
     "10.1021/acsanm.6c00732": {
       "doi": "10.1021/acsanm.6c00732",
@@ -28953,6 +29005,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiroptical Photonic Manipulation in CdTe0.75Se0.25 Alloy Quantum Dots"
+    },
+    "10.26434/chemrxiv.15012820/v1": {
+      "doi": "10.26434/chemrxiv.15012820/v1",
+      "posted_at": "2026-11-27T12:21:01+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795782061.050559",
+      "summary_character_count": 132,
+      "summary_japanese": "金属表面上でhydroxy-functionalized diradical nanographene (2)を合成し、STM/AFM/STSで水素結合鎖を解析した。O-H···O結合はSOMOを高エネルギー側へ移し、ラジカル性を保ったまま電子ギャップを低減した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Tuning the Electronic Structure of Open-Shell Nanographenes through Hydrogen Bonding"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
