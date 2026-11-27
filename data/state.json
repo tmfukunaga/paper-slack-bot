@@ -32,7 +32,7 @@
     "2026-11-25": 20,
     "2026-11-26": 25,
     "2026-11-27": 25,
-    "2026-11-28": 5
+    "2026-11-28": 10
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -8633,6 +8633,19 @@
       "summary_used_fallback": false,
       "title": "A Synthetic Journey Toward Functional N -Amidophenyl-Substituted Hexaaza[1 6 ]paracyclophanes"
     },
+    "10.1002/ejoc.71025": {
+      "doi": "10.1002/ejoc.71025",
+      "posted_at": "2026-11-27T23:28:41+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795822121.434689",
+      "summary_character_count": 87,
+      "summary_japanese": "軸性キラル前駆体を一段階二重求核置換で剛直な配座固定骨格へ変換し、重原子含有赤色CP-ORTP分子を合成した。寿命は最大171.5 μs、gPhは3.94×10−3に達した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Red Circularly Polarized Organic Room-Temperature Phosphorescence From Chiral Perturbation"
+    },
     "10.1002/elan.70232": {
       "doi": "10.1002/elan.70232",
       "posted_at": "2026-10-07T06:00:53+00:00",
@@ -12317,6 +12330,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "A Novel A2L3-Type Triplet-Stranded Helicate Constructed by Subcomponent Self-Assembly Based on Anion Coordination"
+    },
+    "10.1021/acs.cgd.6c01019": {
+      "doi": "10.1021/acs.cgd.6c01019",
+      "posted_at": "2026-11-27T23:28:51+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795822131.217909",
+      "summary_character_count": 130,
+      "summary_japanese": "半サンドイッチ金属ユニットと三座配位子、非共有結合を組み合わせ、同一ケージ2個からなるhomointerlocked [2]catenaneを自己集合で構築した。^1H NMRと単結晶X線解析で構造を確認し、四座配位子ではインターロック形成が完全に抑制された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Controlled Self-Assembly of Homointerlocked [2]Catenanes Containing Two Discrete Cages via Coordination and Noncovalent Interactions"
     },
     "10.1021/acs.cgd.6c01176": {
       "doi": "10.1021/acs.cgd.6c01176",
@@ -22833,6 +22859,19 @@
       "summary_used_fallback": false,
       "title": "Chiral amines in the asymmetric synthesis of axially chiral allenes through catalysis and covalent chirality transfer"
     },
+    "10.1039/d6sc04245g": {
+      "doi": "10.1039/d6sc04245g",
+      "posted_at": "2026-11-27T23:29:00+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795822140.757719",
+      "summary_character_count": 103,
+      "summary_japanese": "ファージディスプレイ由来マクロサイクル内でelectrophile scanningを行い、プロテアーゼの触媒Ser以外の残基を選択的に共有結合標的化するactivity-based probeを開発した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Beyond the catalytic serine: selective protease engagement with covalent macrocyclic activity-based probes"
+    },
     "10.1039/d6sc05870a": {
       "doi": "10.1039/d6sc05870a",
       "posted_at": "2026-11-23T23:23:39+00:00",
@@ -22858,6 +22897,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Solvent-programmable organocatalyzed group transfer copolymerization (O-GTcP) of muconate esters: from statistical control to copolymerization-induced self-assembly"
+    },
+    "10.1039/d6sc06062e": {
+      "doi": "10.1039/d6sc06062e",
+      "posted_at": "2026-11-27T23:28:57+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795822137.318169",
+      "summary_character_count": 301,
+      "summary_japanese": "A macrocycle uses self-inclusion and mutual exclusion to render two identical fluorophores functionally nonequivalent. The resulting dual emission is controllable through solvent polarity, temperature, and guest binding, demonstrating a stimuli-responsive emission system based on macrocyclic effects.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Mechanical macrocyclic effects: stimuli-responsive dual emission by self-inclusion and mutual exclusion"
     },
     "10.1039/d6sc06421c": {
       "doi": "10.1039/d6sc06421c",
@@ -29084,6 +29136,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Tuning the Electronic Structure of Open-Shell Nanographenes through Hydrogen Bonding"
+    },
+    "10.26434/chemrxiv.15012825/v1": {
+      "doi": "10.26434/chemrxiv.15012825/v1",
+      "posted_at": "2026-11-27T23:28:46+00:00",
+      "score": 22,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795822126.411259",
+      "summary_character_count": 127,
+      "summary_japanese": "Au(111)上でasymmetric carbahemiporphyrazineを[3+3] cycloaromatizationし、STM・nc-AFMで構造を決定した。Co錯体は対称系のS=1/2に対し、対称性破れにより高スピンS=3/2を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Symmetry-breaking control of spin states in cobalt-metalated carbaporphyrinoid macrocycles"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
