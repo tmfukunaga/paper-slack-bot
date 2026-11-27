@@ -31,7 +31,8 @@
     "2026-11-24": 16,
     "2026-11-25": 20,
     "2026-11-26": 25,
-    "2026-11-27": 25
+    "2026-11-27": 25,
+    "2026-11-28": 5
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -618,6 +619,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Halide Anions Regulate the Self-Assembly of HPMC Coating on PP Separator to Synergistically Modulate Weak Solvation Structure and Anode Interface to Enhance Lithium Metal Battery"
+    },
+    "10.1002/adfm.79868": {
+      "doi": "10.1002/adfm.79868",
+      "posted_at": "2026-11-27T16:07:59+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795795679.282299",
+      "summary_character_count": 99,
+      "summary_japanese": "平面パターン化二層THzメタ表面でpoly-Si共振器をフェムト秒光ドーピングし、ねじれクロスワイヤ間結合を活性化した。左右円偏光モードを逆方向に分裂させ、3つの偏光状態を約20 psで切り替えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Ultrafast Multiplexed Chiroptical Switching in Terahertz Metasurfaces"
     },
     "10.1002/adhm.71957": {
       "doi": "10.1002/adhm.71957",
@@ -21753,6 +21767,19 @@
       "summary_used_fallback": false,
       "title": "Temporal focusing enables distortion-resistant high-intensity spatiotemporal optical vortices"
     },
+    "10.1038/s41467-026-78743-y": {
+      "doi": "10.1038/s41467-026-78743-y",
+      "posted_at": "2026-11-27T16:08:13+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795795693.662089",
+      "summary_character_count": 115,
+      "summary_japanese": "polypseudorotaxaneのhost–guest脱離速度と変形時間の不一致を利用し、低せん断では柔軟性を保ち、高速衝撃ではネットワークを凍結して貯蔵弾性率を48倍に高めるimpact-stiffening材料を開発した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact-stiffening materials modulated by host-guest interactions in polypseudorotaxanes"
+    },
     "10.1038/s41467-026-78834-w": {
       "doi": "10.1038/s41467-026-78834-w",
       "posted_at": "2026-10-19T12:07:36+00:00",
@@ -22481,6 +22508,19 @@
       "summary_used_fallback": false,
       "title": "Organocatalytic desymmetrizing transfer hydrogenation of prochiral bis(nitroolefins) for the synthesis of axially chiral diaryl ethers"
     },
+    "10.1039/d6cc06192c": {
+      "doi": "10.1039/d6cc06192c",
+      "posted_at": "2026-11-27T16:08:20+00:00",
+      "score": 24,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795795700.508379",
+      "summary_character_count": 85,
+      "summary_japanese": "完全重水素化[9]cycloparaphenylene（[9]CPP-d36）は、ナノフープ形状とπ電子構造を維持しつつ骨格振動数を低下させ、固体状態での蛍光を増強した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Fully deuterated [9]cycloparaphenylene: vibrational modulation for enhanced solid-state fluorescence"
+    },
     "10.1039/d6cc06208c": {
       "doi": "10.1039/d6cc06208c",
       "posted_at": "2026-11-18T11:07:39+00:00",
@@ -22623,6 +22663,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chirality transfer from molecularly dispersed versus supramolecularly assembled chiral inducers to achiral conjugated polymer semiconductors"
+    },
+    "10.1039/d6np00079g": {
+      "doi": "10.1039/d6np00079g",
+      "posted_at": "2026-11-27T16:08:05+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795795684.949009",
+      "summary_character_count": 105,
+      "summary_japanese": "天然物の相対配置・絶対配置決定について、等方・異方NMR、ECD/VCD、DFT/TD-DFT計算、DP4/DP4+、CHIMERAを統合的に批判検討し、適用限界、実用プロトコル、比較事例を提示する総説である。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "From the determination of relative to absolute configuration: an integrated NMR, chiroptical, and computational approach to the stereochemical assignment of natural products"
     },
     "10.1039/d6nr02949c": {
       "doi": "10.1039/d6nr02949c",
@@ -26185,6 +26238,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Helicity-Resolved Diffraction Test of Photon Circulation"
+    },
+    "10.20944/preprints202611.2475.v1": {
+      "doi": "10.20944/preprints202611.2475.v1",
+      "posted_at": "2026-11-27T16:08:09+00:00",
+      "score": 25,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795795689.650309",
+      "summary_character_count": 129,
+      "summary_japanese": "チョップした円偏光レーザーで駆動・回転する金属円板の赤外放射率を導出し、Barnett場とRighi-Leduc効果によるm量子化異方性を示した。動的キラルThomson効果がJoule熱を補償する際の非Kirchhoff放射率と、その測定判定基準を与えた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Non-Kirchhoff, Chiral and Quantized Thermal Emissivity of Laser-Driven Rotating Conductors"
     },
     "10.21203/rs.3.rs-8639072/v1": {
       "doi": "10.21203/rs.3.rs-8639072/v1",
