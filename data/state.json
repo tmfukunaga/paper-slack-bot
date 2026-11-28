@@ -31,7 +31,7 @@
     "2026-11-25": 20,
     "2026-11-26": 25,
     "2026-11-27": 25,
-    "2026-11-28": 20
+    "2026-11-28": 25
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -1178,6 +1178,19 @@
       "summary_used_fallback": false,
       "title": "Coordination-Driven Spiral Self-Assembly of Helical Mesoporous Polymer Nanospheres and Derived MoS 2 /Carbon Colloidal Nanospheres for Fast Lithium Storage"
     },
+    "10.1002/adma.75913": {
+      "doi": "10.1002/adma.75913",
+      "posted_at": "2026-11-28T11:21:08+00:00",
+      "score": 42,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795864868.495229",
+      "summary_character_count": 113,
+      "summary_japanese": "液晶滴の乳化光重合と選択抽出で階層キラル紡錘形微粒子を作製し、R/Sドーパントで逆符号のCPL（glum=+0.035/−0.040）を実現した。アキラル色素により全色CPLを発し、インク化して3D構造や柔軟ラベルへ応用した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical Chiral Spindle Microbeads for Full-Color Circularly Polarized Luminescence"
+    },
     "10.1002/adom.71455": {
       "doi": "10.1002/adom.71455",
       "posted_at": "2026-07-20T09:43:17+00:00",
@@ -1996,6 +2009,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Hidden Giant Third-Order Nonlinear Circular Dichroism in Chiral Two-Dimensional Halide Perovskite"
+    },
+    "10.1002/advs.78651": {
+      "doi": "10.1002/advs.78651",
+      "posted_at": "2026-11-28T11:21:24+00:00",
+      "score": 29,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795864884.065159",
+      "summary_character_count": 349,
+      "summary_japanese": "Polarization-resolved Raman measurements with full circular input-output control on achiral molecules adsorbed on chiral plasmonic nanohelices demonstrated Meta-ROA, arising from near-field-mediated chirality conferral. Handedness-dependent contrast of about 10% was observed across all scattering channels, including Stokes and anti-Stokes signals.",
+      "summary_language": "en",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": true,
+      "title": "Meta-ROA: Metasurface-Mediated Raman Optical Activity From Achiral Molecules on Plasmonic Nanohelices"
     },
     "10.1002/advs.78694": {
       "doi": "10.1002/advs.78694",
@@ -22949,6 +22975,19 @@
       "summary_used_fallback": false,
       "title": "Chiral amines in the asymmetric synthesis of axially chiral allenes through catalysis and covalent chirality transfer"
     },
+    "10.1039/d6ra09883e": {
+      "doi": "10.1039/d6ra09883e",
+      "posted_at": "2026-11-28T11:21:17+00:00",
+      "score": 31,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795864877.596449",
+      "summary_character_count": 93,
+      "summary_japanese": "DFTでC48H16X（X=S8–Sen）炭素ナノベルトを解析し、Se置換が空洞拡大と歪み緩和、HOMO不安定化をもたらすことを示した。対称・交互配置体は低い再編成エネルギーを維持した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Core-chalcogen substitution in tub-shaped carbon nanobelts: a DFT study on structural mechanics, electronic thresholds, and charge transport parameters"
+    },
     "10.1039/d6sc04245g": {
       "doi": "10.1039/d6sc04245g",
       "posted_at": "2026-11-27T23:29:00+00:00",
@@ -24989,6 +25028,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Bioinspired supramolecular thermistor for resolving subtle temperature variations"
+    },
+    "10.1126/sciadv.aej9472": {
+      "doi": "10.1126/sciadv.aej9472",
+      "posted_at": "2026-11-28T11:21:28+00:00",
+      "score": 27,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795864888.003129",
+      "summary_character_count": 102,
+      "summary_japanese": "キラル強誘電ネマチック流体で、隣接ねじれドメインが異なる波数を持つdual-q chiralityを観測した。静電・キラルエネルギーの競合により、ヒステリシスを伴ってhomo-chiral状態へ転移した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dual- q chirality from chirality-polarity coupling in polar nematic fluids"
     },
     "10.1126/sciadv.aek5594": {
       "doi": "10.1126/sciadv.aek5594",
@@ -29278,6 +29330,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Automated Corner Detection for Shape Characterization of Molecular Cages"
+    },
+    "10.26434/chemrxiv.15012905/v1": {
+      "doi": "10.26434/chemrxiv.15012905/v1",
+      "posted_at": "2026-11-28T11:21:14+00:00",
+      "score": 34,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795864874.207639",
+      "summary_character_count": 126,
+      "summary_japanese": "MultiDVCD imagingでpaper wasp前翅のprotein-chitin構造を100 μm分解能で解析し、折り畳みにより左右翅が反対のVCD応答を示すことを明らかにした。シミュレーションでは異方性層間の相対ねじれ反転で応答も反転した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Hierarchical symmetry breaking in bilateral paper wasp forewings: vibrational circular dichroism reveals hidden chirality upon folding"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
