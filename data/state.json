@@ -1,6 +1,5 @@
 {
   "daily_counts": {
-    "2026-10-27": 3,
     "2026-10-28": 16,
     "2026-10-29": 15,
     "2026-10-30": 15,
@@ -32,7 +31,7 @@
     "2026-11-25": 20,
     "2026-11-26": 25,
     "2026-11-27": 25,
-    "2026-11-28": 10
+    "2026-11-28": 15
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -4414,6 +4413,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Monolayer and Bilayer Nitrogen-Doped Nanographenes Constructed by Cascade Cyclization"
+    },
+    "10.1002/anie.2784595": {
+      "doi": "10.1002/anie.2784595",
+      "posted_at": "2026-11-28T01:05:00+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795827900.728009",
+      "summary_character_count": 116,
+      "summary_japanese": "末端N-heterocyclic vinylidene配位子をもつ常磁性Ir、Ru、Os錯体を合成・単離し、IrとRuは結晶構造解析した。計算、EPR、反応性研究により、ラジカルが主にvinylidene配位子に局在すると示された。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Isolation of Open-Shell Vinylidene Complexes of Iridium, Ruthenium, and Osmium"
     },
     "10.1002/anie.2812801": {
       "doi": "10.1002/anie.2812801",
@@ -9451,6 +9463,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Boosting Zinc Storage Capacity of MoO 3 Nanobelts by Modulating Molybdenum Sites via Anionic Sulfur Doping"
+    },
+    "10.1002/pssb.70371": {
+      "doi": "10.1002/pssb.70371",
+      "posted_at": "2026-11-28T01:04:52+00:00",
+      "score": 20,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795827892.711449",
+      "summary_character_count": 121,
+      "summary_japanese": "丸角を備えるauxetic chiral structure（ACSRC）を積層造形し、面外準静的圧縮を実験・有限要素解析で評価した。ACS比でエネルギー吸収量と比エネルギー吸収量は各32.8%、26.1%増加し、4構造中で最高性能を示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Out-of-Plane Compressive Mechanical Properties of the Auxetic Chiral Structure With Rounded Corners"
     },
     "10.1002/qua.70278": {
       "doi": "10.1002/qua.70278",
@@ -21923,6 +21948,19 @@
       "summary_used_fallback": false,
       "title": "Chirality-locked low-dimensional bound states in the continuum lasers"
     },
+    "10.1038/s41467-026-79447-z": {
+      "doi": "10.1038/s41467-026-79447-z",
+      "posted_at": "2026-11-28T01:05:12+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795827912.838789",
+      "summary_character_count": 101,
+      "summary_japanese": "Rhodamine B base（Rhb）とgrapheneの結合を対象に、フェムト秒分光と理論計算でTICT形成を直接観測し、そのねじれた電荷移動状態が結合を弱め、水中で可逆的な光誘起脱着を実現した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Excited-state twisted intramolecular charge transfer enables reversible light control of rhodamine-graphene binding"
+    },
     "10.1038/s41467-026-79527-0": {
       "doi": "10.1038/s41467-026-79527-0",
       "posted_at": "2026-11-21T18:41:34+00:00",
@@ -22533,6 +22571,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Organocatalytic desymmetrizing transfer hydrogenation of prochiral bis(nitroolefins) for the synthesis of axially chiral diaryl ethers"
+    },
+    "10.1039/d6cc06121d": {
+      "doi": "10.1039/d6cc06121d",
+      "posted_at": "2026-11-28T01:05:04+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795827904.606829",
+      "summary_character_count": 127,
+      "summary_japanese": "C2-chiral monomerを用いるdirect arylation polymerisationで、モノマー不純物の増加が主鎖分岐を生じ、得られるchiral bifacial IDT copolymerの光電子特性に大きく影響することを示した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Impact of monomer purity on backbone branching and optoelectronic properties of chiral bifacial IDT copolymers via direct arylation polymerisation"
     },
     "10.1039/d6cc06192c": {
       "doi": "10.1039/d6cc06192c",
@@ -29149,6 +29200,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Symmetry-breaking control of spin states in cobalt-metalated carbaporphyrinoid macrocycles"
+    },
+    "10.26434/chemrxiv.15012848/v1": {
+      "doi": "10.26434/chemrxiv.15012848/v1",
+      "posted_at": "2026-11-28T01:05:08+00:00",
+      "score": 19,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795827908.869329",
+      "summary_character_count": 105,
+      "summary_japanese": "原子座標から最小誤差楕円体、持続性スコア、二段階クラスタリングで分子ケージの角を自動検出する手法を開発し、53構造で角数分類の1-off精度88.7%、8,909構造で空隙性指標と概ね直交する形状記述子を得た。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Automated Corner Detection for Shape Characterization of Molecular Cages"
     },
     "10.26599/nr.2026.94909085": {
       "doi": "10.26599/nr.2026.94909085",
