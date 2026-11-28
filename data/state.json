@@ -31,7 +31,7 @@
     "2026-11-25": 20,
     "2026-11-26": 25,
     "2026-11-27": 25,
-    "2026-11-28": 15
+    "2026-11-28": 20
   },
   "posted": {
     "10.1002/1873-3468.70458": {
@@ -19413,6 +19413,19 @@
       "summary_used_fallback": false,
       "title": "Planar-Chiral Metal Clusters Direct Polarization-Responsive Supercrystals"
     },
+    "10.1021/jacs.6c15658": {
+      "doi": "10.1021/jacs.6c15658",
+      "posted_at": "2026-11-28T07:49:31+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795852171.572889",
+      "summary_character_count": 128,
+      "summary_japanese": "35Cl NQR/Zp-NQR、固体NMR、3D電子回折を統合し、粉末中の塩素サイトを解析した。ketoconazole、chloramine-T、chlorzoxazone cocrystalで局所不均一性や水和状態を評価し、錠剤中APIも直接解析した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Resolving Chlorine Sites in Pharmaceuticals by Integrated Site-Resolved Zeeman-Perturbed NQR, Solid-State NMR, and Electron Diffraction Crystallography"
+    },
     "10.1021/jacs.6c15679": {
       "doi": "10.1021/jacs.6c15679",
       "posted_at": "2026-08-20T01:05:27+00:00",
@@ -20244,6 +20257,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Multiplexed Bioorthogonal Imaging through Affinity Hierarchies in a Supramolecular Host"
+    },
+    "10.1021/jacsau.6c01629": {
+      "doi": "10.1021/jacsau.6c01629",
+      "posted_at": "2026-11-28T07:49:48+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795852188.499279",
+      "summary_character_count": 131,
+      "summary_japanese": "butadiyne結合porphyrin dimerをアルカリ金属で段階還元し、結晶構造・π-BDF解析で結合長が概ね保持されることを示した。tetraanionは熱的にtripletへ到達可能なopen-shell singlet diradicalであった。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Stepwise Reduction of a Porphyrin Nanowire: Minimal Structural Reorganization up to the Open-Shell Tetraanion"
     },
     "10.1021/jasms.6c00250": {
       "doi": "10.1021/jasms.6c00250",
@@ -22675,6 +22701,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": true,
       "title": "Fluorination-chirality-directed assembly for balancing wide bandgap and nonlinear optical response in hybrid fluorides"
+    },
+    "10.1039/d6cc07135j": {
+      "doi": "10.1039/d6cc07135j",
+      "posted_at": "2026-11-28T07:49:38+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795852178.689249",
+      "summary_character_count": 102,
+      "summary_japanese": "indolocarbazole Pt2L4配位ケージを自己集合させ、Pt配位と脱プロトン化で吸収を長波長化し、赤色光下でsulfonylazidesをsulfonamidesへ還元する光触媒として用いた。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Self-assembly of indolocarbazole Pt 2 L 4 cages for red light photocatalytic reduction of sulfonylazides to sulfonamides"
     },
     "10.1039/d6cp03527b": {
       "doi": "10.1039/d6cp03527b",
@@ -29136,6 +29175,19 @@
       "summary_used_fallback": false,
       "title": "Overcoming substrate constraints to unlock chiral dihydropyridines for stereodefined piperidine synthesis"
     },
+    "10.26434/chemrxiv.15012674/v1": {
+      "doi": "10.26434/chemrxiv.15012674/v1",
+      "posted_at": "2026-11-28T07:49:35+00:00",
+      "score": 17,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795852175.442309",
+      "summary_character_count": 108,
+      "summary_japanese": "coroneneとfree-base porphyrinで環指標の不一致を解析し、KMCIπは環上π結合次数の幾何平均であるため強い共有結合を優先すると示した。高い環指標は回路全体の均一な非局在化を必ずしも示さない。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Electrons Follow Mysterious Pathways: Cyclic Delocalization versus Electron Sharing"
+    },
     "10.26434/chemrxiv.15012754/v1": {
       "doi": "10.26434/chemrxiv.15012754/v1",
       "posted_at": "2026-11-27T03:29:11+00:00",
@@ -29174,6 +29226,19 @@
       "summary_model": "gpt-5.6-terra",
       "summary_used_fallback": false,
       "title": "Chiroptical Photonic Manipulation in CdTe0.75Se0.25 Alloy Quantum Dots"
+    },
+    "10.26434/chemrxiv.15012816/v1": {
+      "doi": "10.26434/chemrxiv.15012816/v1",
+      "posted_at": "2026-11-28T07:49:42+00:00",
+      "score": 16,
+      "slack_channel_id": "C0BJ2U6NNG4",
+      "slack_ts": "1795852182.632739",
+      "summary_character_count": 133,
+      "summary_japanese": "ACN系超高濃度電解液中でFeIIICl3が配位子交換を伴い混合原子価[FeII(ACN)6][FeIIICl4]2結晶へ自発再結晶することを示した。NMR・質量分析により、Fe(III)によるACNのClCH2CNとHClへの酸化が駆動する自己触媒反応と確認した。",
+      "summary_language": "ja",
+      "summary_model": "gpt-5.6-terra",
+      "summary_used_fallback": false,
+      "title": "Dynamic Ligand Exchange Enables the Self-Assembly of Redox-Active Molecular Crystals"
     },
     "10.26434/chemrxiv.15012820/v1": {
       "doi": "10.26434/chemrxiv.15012820/v1",
